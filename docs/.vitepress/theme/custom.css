@@ -845,31 +845,45 @@
 
 /* 语言切换和社媒按钮优化 */
 
-/* 移动端语言切换按钮优化 */
-  .VPLocalNav .VPLocalNavOutlineDropdown .group .VPMenu .items .VPLink,
-  .VPLocalNav .VPLocalNavOutlineDropdown .group .VPMenu .items .VPLink .text,
-  .VPNavBarExtra .menu .group .VPMenu .items .VPLink,
-  .VPNavBarExtra .menu .group .VPMenu .items .VPLink .text {
-    color: var(--vp-c-text-1) !important;
-    background-color: transparent !important;
-    display: flex !important;
-    align-items: center !important;
-    width: auto !important;
-    text-align: center !important;
-    padding: 12px 16px !important;
-    font-size: 16px !important;
-    line-height: 1.5 !important;
-    border: 1px solid var(--vp-c-divider) !important;
-    border-radius: 8px !important;
-    margin: 4px !important;
+/* 完全移除移动端语言切换功能 */
+@media (max-width: 768px) {
+  /* 完全隐藏整个语言切换功能组 */
+  .VPNavBarExtra .menu .group.translations {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    height: 0 !important;
+    width: 0 !important;
+    overflow: hidden !important;
+    position: absolute !important;
+    left: -9999px !important;
   }
+  
+  /* 隐藏语言切换标题 */
+  .VPNavBarExtra .menu .group .trans-title {
+    display: none !important;
+  }
+  
+  /* 隐藏所有语言切换链接 */
+  .VPNavBarExtra .menu .group.translations .VPMenuLink,
+  .VPNavBarExtra .menu .group.translations a {
+    display: none !important;
+  }
+}
 
-  /* 隐藏移动端语言切换按钮 */
-  @media (max-width: 768px) {
-    .VPNavBarExtra .menu .group.translations {
-      display: none !important;
-    }
-  }
+/* 桌面端语言切换优化 */
+.VPNavBarExtra .items {
+  display: flex !important;
+  flex-direction: row !important;
+  gap: 8px !important;
+  align-items: center !important;
+}
+
+.VPNavBarExtra .menu .group .VPMenu .items {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 0 !important;
+}
 
   /* 语言切换按钮始终显示 */
   .VPNavBarExtra .menu .group .VPMenu .items {
