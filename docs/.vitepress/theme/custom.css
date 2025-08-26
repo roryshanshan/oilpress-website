@@ -843,36 +843,155 @@
   }
 }
 
-/* 移除语言切换按钮颜色显示 */
+/* 语言切换和社媒按钮优化 */
+
+/* 移动端语言切换按钮优化 */
 .VPLocalNav .VPLocalNavOutlineDropdown .group .VPMenu .items .VPLink,
 .VPLocalNav .VPLocalNavOutlineDropdown .group .VPMenu .items .VPLink .text,
 .VPNavBarExtra .menu .group .VPMenu .items .VPLink,
 .VPNavBarExtra .menu .group .VPMenu .items .VPLink .text {
-  color: inherit !important;
+  color: var(--vp-c-text-1) !important;
   background-color: transparent !important;
+  display: block !important;
+  width: 100% !important;
+  text-align: left !important;
+  padding: 12px 16px !important;
+  font-size: 16px !important;
+  line-height: 1.5 !important;
+  border-bottom: 1px solid var(--vp-c-divider) !important;
+}
+
+.VPLocalNav .VPLocalNavOutlineDropdown .group .VPMenu .items .VPLink:last-child,
+.VPNavBarExtra .menu .group .VPMenu .items .VPLink:last-child {
+  border-bottom: none !important;
 }
 
 .VPLocalNav .VPLocalNavOutlineDropdown .group .VPMenu .items .VPLink:hover,
 .VPNavBarExtra .menu .group .VPMenu .items .VPLink:hover {
   background-color: var(--vp-c-bg-soft) !important;
-  color: var(--vp-c-text-1) !important;
+  color: var(--vp-c-brand) !important;
 }
 
-/* 移除语言切换按钮的高亮颜色 */
+/* 语言切换按钮高亮状态 */
 .VPLocalNav .VPLocalNavOutlineDropdown .group .VPMenu .items .VPLink.active,
 .VPNavBarExtra .menu .group .VPMenu .items .VPLink.active {
-  color: var(--vp-c-text-1) !important;
+  color: var(--vp-c-brand) !important;
   background-color: var(--vp-c-bg-soft) !important;
+  font-weight: 600 !important;
 }
 
-/* 确保语言切换按钮不显示特殊颜色 */
-.VPNavBar .VPNavBarExtra .menu .group .VPMenu .items .VPLink {
-  color: var(--vp-c-text-1) !important;
+/* 移动端社媒按钮优化 */
+.VPNavBarExtra .menu .group .VPMenu .items .VPLink[href*="github"],
+.VPNavBarExtra .menu .group .VPMenu .items .VPLink[href*="twitter"],
+.VPNavBarExtra .menu .group .VPMenu .items .VPLink[href*="facebook"],
+.VPNavBarExtra .menu .group .VPMenu .items .VPLink[href*="linkedin"] {
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px !important;
 }
 
-.VPNavBar .VPNavBarExtra .menu .group .VPMenu .items .VPLink:hover {
-  color: var(--vp-c-text-1) !important;
-  background-color: var(--vp-c-bg-soft) !important;
+.VPNavBarExtra .menu .group .VPMenu .items .VPLink[href*="github"]::before,
+.VPNavBarExtra .menu .group .VPMenu .items .VPLink[href*="twitter"]::before,
+.VPNavBarExtra .menu .group .VPMenu .items .VPLink[href*="facebook"]::before,
+.VPNavBarExtra .menu .group .VPMenu .items .VPLink[href*="linkedin"]::before {
+  content: '';
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* 桌面端语言切换优化 */
+.VPNavBarExtra .items {
+  display: flex !important;
+  flex-direction: row !important;
+  gap: 8px !important;
+  align-items: center !important;
+}
+
+.VPNavBarExtra .menu .group .VPMenu .items {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 0 !important;
+}
+
+/* 汉堡菜单按钮优化 */
+.VPLocalNav .menu {
+  padding: 8px !important;
+  border-radius: 8px !important;
+  border: 1px solid var(--vp-c-divider) !important;
+  background: var(--vp-c-bg) !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1) !important;
+}
+
+.VPLocalNav .menu:hover {
+  border-color: var(--vp-c-brand) !important;
+  box-shadow: 0 4px 12px rgba(231, 76, 60, 0.15) !important;
+}
+
+/* 语言切换下拉菜单优化 */
+.VPMenu {
+  min-width: 160px !important;
+  max-height: 300px !important;
+  overflow-y: auto !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+  border: 1px solid var(--vp-c-divider) !important;
+}
+
+/* 移动端整体优化 */
+@media (max-width: 768px) {
+  /* 语言切换按钮 */
+  .VPNavBarExtra .menu .group .VPMenu .items .VPLink {
+    font-size: 16px !important;
+    padding: 16px 20px !important;
+    border-bottom: 1px solid var(--vp-c-divider) !important;
+  }
+  
+  .VPNavBarExtra .menu .group .VPMenu .items .VPLink:hover {
+    background-color: var(--vp-c-bg-soft) !important;
+  }
+  
+  /* 社媒按钮横向排列 */
+  .VPNavBarExtra .menu .group .VPMenu .items {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    gap: 8px !important;
+    padding: 16px !important;
+    justify-content: flex-start !important;
+  }
+  
+  .VPNavBarExtra .menu .group .VPMenu .items .VPLink[href*="github"],
+  .VPNavBarExtra .menu .group .VPMenu .items .VPLink[href*="twitter"],
+  .VPNavBarExtra .menu .group .VPMenu .items .VPLink[href*="facebook"],
+  .VPNavBarExtra .menu .group .VPMenu .items .VPLink[href*="linkedin"] {
+    flex: 0 0 auto !important;
+    min-width: 80px !important;
+    text-align: center !important;
+    border: 1px solid var(--vp-c-divider) !important;
+    border-radius: 6px !important;
+    padding: 8px 12px !important;
+    font-size: 14px !important;
+  }
+  
+  /* 汉堡菜单图标优化 */
+  .VPLocalNav .menu svg {
+    width: 24px !important;
+    height: 24px !important;
+  }
+  
+  /* 侧边栏优化 */
+  .VPNavScreen {
+    background: var(--vp-c-bg) !important;
+    backdrop-filter: blur(10px) !important;
+  }
+  
+  .VPNavScreen .container {
+    padding: 20px !important;
+  }
 }
 
 /* 响应式调整 */
