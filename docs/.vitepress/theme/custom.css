@@ -1,0 +1,886 @@
+/* 全局样式 */
+:root {
+  --vp-c-brand: #e74c3c;
+  --vp-c-brand-light: #f05545;
+  --vp-c-brand-lighter: #f9a7a1;
+  --vp-c-brand-dark: #c0392b;
+  --vp-c-brand-darker: #a33025;
+  
+  --vp-c-sponsor: #e74c3c;
+  --vp-c-gray: #34495e;
+  --vp-c-gray-light-2: #e0e0e0;
+}
+
+/* 导航栏高度调整 */
+.VPNav {
+  height: 80px !important;
+}
+
+.VPNavBar {
+  height: 80px !important;
+}
+
+.VPNavBarTitle {
+  height: 80px !important;
+  line-height: 80px !important;
+}
+
+.VPNavBarMenu {
+  height: 80px !important;
+  line-height: 80px !important;
+}
+
+.VPNavBarMenuLink {
+  height: 80px !important;
+  line-height: 80px !important;
+}
+
+.VPNavBarExtra {
+  height: 80px !important;
+  line-height: 80px !important;
+}
+
+.VPNavScreen {
+  top: 80px !important;
+}
+
+/* 英雄区域样式 */
+.hero-section {
+  padding: 5rem 2rem;
+  text-align: center;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-radius: 12px;
+  margin-bottom: 3rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-section::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('/images/oil-press-hero.svg');
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  background-size: 300px;
+  opacity: 0.15;
+  z-index: 0;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: 800;
+  margin-bottom: 1.5rem;
+  color: var(--vp-c-brand);
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.hero-description {
+  font-size: 1.4rem;
+  max-width: 800px;
+  margin: 0 auto 2.5rem;
+  color: var(--vp-c-gray);
+  line-height: 1.6;
+}
+
+.hero-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.hero-button {
+  display: inline-block;
+  padding: 1rem 2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 50px;
+  transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+.hero-button-primary {
+  background: linear-gradient(135deg, var(--vp-c-brand) 0%, var(--vp-c-brand-dark) 100%);
+  color: white;
+  box-shadow: 0 4px 15px rgba(231, 76, 60, 0.3);
+  border: none;
+  transform: translateY(0);
+}
+
+.hero-button-primary:hover {
+  background: linear-gradient(135deg, var(--vp-c-brand-light) 0%, var(--vp-c-brand) 100%);
+  box-shadow: 0 6px 20px rgba(231, 76, 60, 0.4);
+  transform: translateY(-2px);
+}
+
+.hero-button-secondary {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: var(--vp-c-brand);
+  border: 2px solid var(--vp-c-brand);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+  transform: translateY(0);
+}
+
+.hero-button-secondary:hover {
+  background-color: white;
+  color: var(--vp-c-brand-dark);
+  border-color: var(--vp-c-brand-dark);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+.hero-image {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+/* 产品卡片样式 */
+.product-series {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2.5rem;
+  margin: 3rem 0;
+}
+
+.product-card {
+  border: none;
+  border-radius: 16px;
+  padding: 2rem;
+  text-align: center;
+  transition: all 0.4s ease;
+  background: #ffffff;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);
+  position: relative;
+  overflow: hidden;
+}
+
+.product-card::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background: linear-gradient(90deg, var(--vp-c-brand-light) 0%, var(--vp-c-brand-darker) 100%);
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.4s ease;
+}
+
+.product-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+}
+
+.product-card:hover::after {
+  transform: scaleX(1);
+  transform-origin: left;
+}
+
+.product-card img {
+  max-width: 100%;
+  height: 220px;
+  object-fit: contain;
+  margin-bottom: 1.5rem;
+  transition: transform 0.5s ease;
+}
+
+.product-card:hover img {
+  transform: scale(1.05);
+}
+
+.product-card h3 {
+  font-size: 1.8rem;
+  margin-bottom: 0.8rem;
+  color: var(--vp-c-brand);
+  font-weight: 700;
+}
+
+.product-card p {
+  margin-bottom: 1.5rem;
+  color: var(--vp-c-gray);
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.product-card ul {
+  text-align: left;
+  margin-bottom: 1.8rem;
+  padding-left: 1.5rem;
+}
+
+.product-card li {
+  margin-bottom: 0.8rem;
+  color: var(--vp-c-gray);
+  font-size: 1rem;
+}
+
+/* 社交媒体图标样式 */
+.nav-bar .social-icons {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: 12px;
+}
+
+.nav-bar .social-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: transparent;
+  border: 1px solid rgba(60, 60, 67, 0.12);
+  color: rgba(60, 60, 67, 0.7);
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+
+.nav-bar .social-icon:hover {
+  background: rgba(60, 60, 67, 0.05);
+  border-color: var(--vp-c-brand);
+  color: var(--vp-c-brand);
+  transform: translateY(-1px);
+}
+
+.wechat-container {
+  position: relative;
+  display: inline-block;
+}
+
+.wechat-qr {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  border: 1px solid #e1e1e1;
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 1000;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+  margin-top: 10px;
+  width: auto;
+  height: auto;
+  min-width: 230px;
+}
+
+.wechat-qr::before {
+  content: '';
+  position: absolute;
+  top: -6px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-bottom: 6px solid white;
+}
+
+.wechat-qr img {
+  display: block;
+  border-radius: 4px;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.wechat-qr p {
+  margin: 10px 0 0 0;
+  font-size: 14px;
+  color: #666;
+  text-align: center;
+  white-space: nowrap;
+  font-weight: 500;
+}
+
+.wechat-container:hover .wechat-qr {
+  opacity: 1;
+  visibility: visible;
+}
+
+@media (max-width: 768px) {
+  .wechat-qr {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 0;
+  }
+  
+  .wechat-qr::before {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .nav-bar .social-icons {
+    display: none;
+  }
+}
+
+/* 特点部分样式 */
+.features-section {
+  margin: 4rem 0;
+  padding: 3rem 0;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-radius: 16px;
+}
+
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2.5rem;
+  padding: 0 2rem;
+}
+
+.feature-item {
+  text-align: center;
+  padding: 2rem;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  transition: all 0.4s ease;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.feature-item::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, rgba(231, 76, 60, 0.05) 0%, rgba(192, 57, 43, 0.05) 100%);
+  z-index: -1;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.feature-item:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+}
+
+.feature-item:hover::before {
+  opacity: 1;
+}
+
+.feature-icon {
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+  color: var(--vp-c-brand);
+  transition: transform 0.4s ease;
+}
+
+.feature-item:hover .feature-icon {
+  transform: scale(1.1);
+}
+
+.feature-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: var(--vp-c-gray);
+}
+
+.feature-description {
+  font-size: 1.1rem;
+  color: #666;
+  line-height: 1.6;
+}
+
+/* 客户案例样式 */
+.cases-section {
+  margin: 4rem 0;
+  padding: 3rem 0;
+}
+
+.case-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 2.5rem;
+}
+
+.case-item {
+  border: none;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  transition: all 0.4s ease;
+  background: #ffffff;
+}
+
+.case-item:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+}
+
+.case-image {
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.case-item:hover .case-image {
+  transform: scale(1.05);
+}
+
+.case-content {
+  padding: 2rem;
+  position: relative;
+}
+
+.case-content::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 40px;
+  background: linear-gradient(to bottom, var(--vp-c-brand) 0%, var(--vp-c-brand-darker) 100%);
+  border-radius: 0 4px 4px 0;
+}
+
+.case-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: var(--vp-c-gray);
+  transition: color 0.3s ease;
+}
+
+.case-item:hover .case-title {
+  color: var(--vp-c-brand);
+}
+
+.case-description {
+  font-size: 1.1rem;
+  color: #666;
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+/* 联系我们样式 */
+.contact-section {
+  margin: 5rem 0;
+  padding: 3rem;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-radius: 16px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.05);
+  position: relative;
+  overflow: hidden;
+}
+
+.contact-section::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 200px;
+  height: 200px;
+  background-image: url('/images/factory.svg');
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  opacity: 0.1;
+  z-index: 0;
+}
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 3rem;
+  position: relative;
+  z-index: 1;
+}
+
+@media (max-width: 768px) {
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.contact-info {
+  padding: 1.5rem;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease;
+}
+
+.contact-info:hover {
+  transform: translateY(-5px);
+}
+
+.contact-form {
+  padding: 2rem;
+  border: none;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease;
+}
+
+.contact-form:hover {
+  transform: translateY(-5px);
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  color: var(--vp-c-gray);
+}
+
+.form-input,
+.form-textarea {
+  width: 100%;
+  padding: 0.8rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.form-textarea {
+  min-height: 150px;
+  resize: vertical;
+}
+
+.form-button {
+  background-color: var(--vp-c-brand);
+  color: white;
+  border: none;
+  padding: 0.8rem 1.6rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.form-button:hover {
+  background-color: var(--vp-c-brand-dark);
+}
+
+/* 产品详情页样式 */
+.product-detail-section {
+  margin: 2rem 0;
+}
+
+.product-detail-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 768px) {
+  .product-detail-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.product-detail-image {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.product-detail-content {
+  padding: 1rem;
+}
+
+.product-detail-title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: var(--vp-c-gray);
+}
+
+.product-detail-description {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.product-specs {
+  margin: 2rem 0;
+}
+
+.specs-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+}
+
+.specs-table th,
+.specs-table td {
+  padding: 0.8rem;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.specs-table th {
+  font-weight: 600;
+  background-color: #f8f9fa;
+  color: var(--vp-c-gray);
+}
+
+.product-features-list {
+  margin: 2rem 0;
+}
+
+.product-features-list h3 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: var(--vp-c-gray);
+}
+
+.product-features-list ul {
+  padding-left: 1.5rem;
+}
+
+.product-features-list li {
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
+}
+
+.product-video {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 比例 */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+/* 导航栏字体增大 */
+.VPNavBarMenuLink {
+  font-size: 1.2rem !important;
+  font-weight: 500;
+}
+
+.VPNavBarMenuLink .text {
+  font-size: 1.2rem !important;
+}
+
+.VPNavBarTitle .title {
+  font-size: 1.3rem !important;
+  font-weight: 600;
+}
+
+/* 移除语言切换按钮颜色显示 */
+.VPLocalNav .VPLocalNavOutlineDropdown .group .VPMenu .items .VPLink,
+.VPLocalNav .VPLocalNavOutlineDropdown .group .VPMenu .items .VPLink .text,
+.VPNavBarExtra .menu .group .VPMenu .items .VPLink,
+.VPNavBarExtra .menu .group .VPMenu .items .VPLink .text {
+  color: inherit !important;
+  background-color: transparent !important;
+}
+
+.VPLocalNav .VPLocalNavOutlineDropdown .group .VPMenu .items .VPLink:hover,
+.VPNavBarExtra .menu .group .VPMenu .items .VPLink:hover {
+  background-color: var(--vp-c-bg-soft) !important;
+  color: var(--vp-c-text-1) !important;
+}
+
+/* 移除语言切换按钮的高亮颜色 */
+.VPLocalNav .VPLocalNavOutlineDropdown .group .VPMenu .items .VPLink.active,
+.VPNavBarExtra .menu .group .VPMenu .items .VPLink.active {
+  color: var(--vp-c-text-1) !important;
+  background-color: var(--vp-c-bg-soft) !important;
+}
+
+/* 确保语言切换按钮不显示特殊颜色 */
+.VPNavBar .VPNavBarExtra .menu .group .VPMenu .items .VPLink {
+  color: var(--vp-c-text-1) !important;
+}
+
+.VPNavBar .VPNavBarExtra .menu .group .VPMenu .items .VPLink:hover {
+  color: var(--vp-c-text-1) !important;
+  background-color: var(--vp-c-bg-soft) !important;
+}
+
+/* 响应式调整 */
+@media (max-width: 1024px) {
+  .hero-section {
+    padding: 4rem 1.5rem;
+  }
+  
+  .hero-title {
+    font-size: 2.8rem;
+  }
+  
+  .hero-description {
+    font-size: 1.4rem;
+  }
+  
+  .product-series {
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  }
+  
+  .features-grid {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-section {
+    padding: 3rem 1rem;
+  }
+  
+  .hero-section::before {
+    background-size: 200px;
+    opacity: 0.1;
+  }
+  
+  .hero-title {
+    font-size: 2.2rem;
+  }
+  
+  .hero-description {
+    font-size: 1.3rem;
+  }
+  
+  .hero-buttons {
+    flex-direction: column;
+    gap: 1rem;
+    width: 100%;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .hero-button {
+    width: 100%;
+  }
+  
+  .product-card {
+    padding: 1.5rem;
+  }
+  
+  .product-card h3 {
+    font-size: 1.8rem;
+  }
+  
+  .features-section,
+  .contact-section {
+    padding: 2rem 1rem;
+  }
+  
+  .features-grid,
+  .product-series,
+  .case-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  .contact-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  
+  .vp-doc h1 {
+    font-size: 2.2rem;
+  }
+  
+  .vp-doc h2 {
+    font-size: 1.8rem;
+  }
+  
+  .vp-doc h3 {
+    font-size: 1.5rem;
+  }
+  
+  .vp-doc p,
+  .vp-doc li {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-section {
+    padding: 2.5rem 1rem;
+  }
+  
+  .hero-title {
+    font-size: 2rem;
+  }
+  
+  .hero-description {
+    font-size: 1.2rem;
+  }
+  
+  .product-card img {
+    height: 180px;
+  }
+  
+  .feature-title {
+    font-size: 1.5rem;
+  }
+  
+  .feature-description {
+    font-size: 1.1rem;
+  }
+  
+  .vp-doc h1 {
+    font-size: 2rem;
+  }
+  
+  .vp-doc h2 {
+    font-size: 1.6rem;
+  }
+  
+  .vp-doc h3 {
+    font-size: 1.3rem;
+  }
+  
+  .vp-doc p,
+  .vp-doc li {
+    font-size: 1rem;
+  }
+}

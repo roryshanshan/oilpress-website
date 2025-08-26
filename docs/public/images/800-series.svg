@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200">
+  <style>
+    .machine { fill: #2c3e50; }
+    .accent { fill: #e74c3c; }
+    .steel { fill: #95a5a6; }
+    .highlight { fill: #3498db; }
+    .text { font-family: Arial; fill: #34495e; }
+  </style>
+  <rect width="300" height="200" fill="#f9f9f9"/>
+  
+  <!-- Machine Base -->
+  <rect x="50" y="140" width="200" height="30" class="machine" rx="3"/>
+  
+  <!-- Machine Body -->
+  <rect x="65" y="40" width="170" height="100" class="steel" rx="5"/>
+  
+  <!-- Control Panel -->
+  <rect x="215" y="50" width="40" height="70" class="machine" rx="3"/>
+  
+  <!-- Display Screen -->
+  <rect x="220" y="55" width="30" height="20" class="highlight" rx="2"/>
+  
+  <!-- Control Buttons -->
+  <circle cx="235" cy="90" r="5" class="accent"/>
+  <circle cx="235" cy="105" r="5" class="accent"/>
+  
+  <!-- Pressing Chamber -->
+  <rect x="80" y="50" width="130" height="80" class="steel" stroke="#7f8c8d" stroke-width="1" rx="3"/>
+  
+  <!-- Hydraulic Cylinder -->
+  <rect x="110" y="10" width="60" height="30" class="machine"/>
+  
+  <!-- Pressure Gauge -->
+  <circle cx="190" cy="70" r="15" fill="white" stroke="#7f8c8d" stroke-width="1"/>
+  <circle cx="190" cy="70" r="12" fill="none" stroke="#e74c3c" stroke-width="1"/>
+  <line x1="190" y1="70" x2="200" y2="60" stroke="#2c3e50" stroke-width="1"/>
+  
+  <!-- Oil Output -->
+  <rect x="150" y="140" width="25" height="10" class="accent"/>
+  
+  <!-- Model Number -->
+  <text x="150" y="180" font-size="14" font-weight="bold" text-anchor="middle" class="text">800/850 Series</text>
+</svg>
