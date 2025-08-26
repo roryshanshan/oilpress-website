@@ -1183,9 +1183,10 @@
 
   /* 移动端下拉菜单强制显示 */
   .VPNavBarExtra .menu .group .VPMenu {
-    min-width: 280px !important;
+    min-width: auto !important;
     max-width: 90vw !important;
     box-sizing: border-box !important;
+    padding: 8px 4px !important;
   }
   
   .VPNavBarExtra .menu .group .VPMenu .items {
@@ -1193,26 +1194,44 @@
     overflow: visible !important;
   }
   
-  /* 移动端语言切换按钮 */
+  .VPNavBarExtra .menu .group .VPMenu .group {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
+  .VPNavBarExtra .menu .group .VPMenu .trans-title {
+    display: none !important;
+  }
+  
+  /* 移动端语言切换按钮 - 超紧凑设计 */
   .VPNavBarExtra .menu .group:first-child .VPMenu .items {
     display: flex !important;
     flex-direction: row !important;
-    flex-wrap: wrap !important;
-    gap: 6px !important;
+    flex-wrap: nowrap !important;
+    gap: 2px !important;
     justify-content: center !important;
-    padding: 12px !important;
+    padding: 4px !important;
+    background: transparent !important;
   }
   
   .VPNavBarExtra .menu .group:first-child .VPMenu .items .VPLink {
-    padding: 6px 12px !important;
-    border-radius: 16px !important;
-    background: var(--vp-c-bg-soft) !important;
-    border: 1px solid var(--vp-c-divider) !important;
-    font-size: 13px !important;
+    padding: 2px 8px !important;
+    border-radius: 12px !important;
+    background: transparent !important;
+    border: none !important;
+    font-size: 12px !important;
     white-space: nowrap !important;
     transition: all 0.2s ease !important;
-    min-height: 32px !important;
-    line-height: 1.2 !important;
+    min-height: 24px !important;
+    line-height: 1 !important;
+    color: var(--vp-c-text-2) !important;
+    font-weight: 500 !important;
+  }
+  
+  .VPNavBarExtra .menu .group:first-child .VPMenu .items .VPLink:hover {
+    background: var(--vp-c-bg-soft) !important;
+    color: var(--vp-c-brand) !important;
+    transform: none !important;
   }
   
   .VPNavBarExtra .menu .group:first-child .VPMenu .items .VPLink:hover {
