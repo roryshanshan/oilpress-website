@@ -864,6 +864,13 @@
     margin: 4px !important;
   }
 
+  /* 隐藏移动端语言切换按钮 */
+  @media (max-width: 768px) {
+    .VPNavBarExtra .menu .group.translations {
+      display: none !important;
+    }
+  }
+
   /* 语言切换按钮始终显示 */
   .VPNavBarExtra .menu .group .VPMenu .items {
     display: flex !important;
