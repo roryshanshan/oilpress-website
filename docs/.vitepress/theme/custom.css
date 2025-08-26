@@ -1202,42 +1202,119 @@
   .VPNavBarExtra .menu .group .VPMenu .trans-title {
     display: none !important;
   }
+
+  /* 移动端语言切换按钮 - 重新设计，更小更清晰 */
+  .VPNavBarExtra .menu .group.translations .VPMenu,
+  .VPNavBarExtra .menu .group:first-child .VPMenu {
+    min-width: auto !important;
+    max-width: 80px !important;
+    padding: 2px !important;
+    margin: 0 !important;
+    background: var(--vp-c-bg-soft) !important;
+    border-radius: 8px !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1) !important;
+  }
   
-  /* 移动端语言切换按钮 - 超紧凑设计 */
+  .VPNavBarExtra .menu .group.translations .VPMenu .items,
   .VPNavBarExtra .menu .group:first-child .VPMenu .items {
     display: flex !important;
     flex-direction: row !important;
-    flex-wrap: nowrap !important;
-    gap: 2px !important;
-    justify-content: center !important;
-    padding: 4px !important;
+    gap: 1px !important;
+    padding: 1px !important;
     background: transparent !important;
   }
   
-  .VPNavBarExtra .menu .group:first-child .VPMenu .items .VPLink {
-    padding: 2px 8px !important;
-    border-radius: 12px !important;
+  .VPNavBarExtra .menu .group.translations .VPMenu .items .VPLink,
+  .VPNavBarExtra .menu .group:first-child .VPMenu .items .VPLink,
+  .VPNavBarExtra .menu .group.translations .VPMenu .items a {
+    padding: 2px 6px !important;
+    border-radius: 6px !important;
     background: transparent !important;
-    border: none !important;
-    font-size: 12px !important;
+    border: 1px solid var(--vp-c-divider) !important;
+    font-size: 10px !important;
+    font-weight: 600 !important;
     white-space: nowrap !important;
     transition: all 0.2s ease !important;
-    min-height: 24px !important;
+    min-height: 18px !important;
     line-height: 1 !important;
-    color: var(--vp-c-text-2) !important;
-    font-weight: 500 !important;
+    color: var(--vp-c-text-1) !important;
+    text-decoration: none !important;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05) !important;
   }
   
-  .VPNavBarExtra .menu .group:first-child .VPMenu .items .VPLink:hover {
-    background: var(--vp-c-bg-soft) !important;
-    color: var(--vp-c-brand) !important;
-    transform: none !important;
-  }
-  
-  .VPNavBarExtra .menu .group:first-child .VPMenu .items .VPLink:hover {
+  .VPNavBarExtra .menu .group.translations .VPMenu .items .VPLink:hover,
+  .VPNavBarExtra .menu .group:first-child .VPMenu .items .VPLink:hover,
+  .VPNavBarExtra .menu .group.translations .VPMenu .items a:hover {
     background: var(--vp-c-brand) !important;
     color: white !important;
     border-color: var(--vp-c-brand) !important;
+    transform: translateY(-1px) !important;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1) !important;
+  }
+  
+  /* 强制隐藏语言切换标题 */
+  .VPNavBarExtra .menu .group.translations .trans-title,
+  .VPNavBarExtra .menu .group:first-child .VPMenu .trans-title {
+    display: none !important;
+    font-size: 0 !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+  }
+  
+  /* 移动端社媒图标重新优化 */
+  .mobile-social-icons {
+    display: flex !important;
+    gap: 8px !important;
+    justify-content: center !important;
+    align-items: center !important;
+    padding: 4px 0 !important;
+  }
+  
+  .mobile-social-icon {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 28px !important;
+    height: 28px !important;
+    border-radius: 50% !important;
+    background: var(--vp-c-bg-soft) !important;
+    border: 1px solid var(--vp-c-divider) !important;
+    transition: all 0.2s ease !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1) !important;
+  }
+  
+  .mobile-social-icon:hover {
+    transform: translateY(-1px) !important;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15) !important;
+  }
+  
+  .mobile-social-icon svg {
+    width: 14px !important;
+    height: 14px !important;
+  }
+  
+  /* 移动端汉堡菜单按钮优化 */
+  .VPNavBarExtra .button {
+    padding: 6px !important;
+    margin: 0 !important;
+    border-radius: 6px !important;
+    background: var(--vp-c-bg-soft) !important;
+    border: 1px solid var(--vp-c-divider) !important;
+    transition: all 0.2s ease !important;
+  }
+  
+  .VPNavBarExtra .button:hover {
+    background: var(--vp-c-bg-mute) !important;
+    border-color: var(--vp-c-brand) !important;
+  }
+  
+  .VPNavBarExtra .icon {
+    width: 14px !important;
+    height: 14px !important;
+    color: var(--vp-c-text-2) !important;
   }
 
 /* 响应式调整 */
