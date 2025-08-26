@@ -977,10 +977,80 @@
     font-size: 14px !important;
   }
   
-  /* 汉堡菜单图标优化 */
+  /* 移动端图标优化 */
   .VPLocalNav .menu svg {
+    width: 28px !important;
+    height: 28px !important;
+    stroke-width: 2.5px !important;
+  }
+  
+  .VPNavBarExtra .vpi-languages,
+  .VPNavBarExtra .vpi-social-github,
+  .VPNavBarExtra .vpi-social-twitter,
+  .VPNavBarExtra .vpi-social-facebook,
+  .VPNavBarExtra .vpi-social-linkedin {
     width: 24px !important;
     height: 24px !important;
+    margin: 0 4px !important;
+  }
+  
+  /* 汉堡菜单图标美化 */
+  .VPNavBarHamburger .container {
+    width: 28px !important;
+    height: 20px !important;
+  }
+  
+  .VPNavBarHamburger .container span {
+    height: 3px !important;
+    border-radius: 2px !important;
+    background: var(--vp-c-text-1) !important;
+    transition: all 0.3s ease !important;
+  }
+  
+  .VPNavBarHamburger:hover .container span {
+    background: var(--vp-c-brand) !important;
+  }
+  
+  /* 语言切换图标优化 */
+  .VPLocalNav .VPLocalNavOutlineDropdown .vpi-languages {
+    width: 22px !important;
+    height: 22px !important;
+    margin-right: 8px !important;
+  }
+  
+  /* 社媒图标美化 */
+  .VPNavBarExtra .menu .group .VPMenu .items .VPLink svg {
+    width: 20px !important;
+    height: 20px !important;
+    margin-right: 8px !important;
+    transition: transform 0.2s ease !important;
+  }
+  
+  .VPNavBarExtra .menu .group .VPMenu .items .VPLink:hover svg {
+    transform: scale(1.1) !important;
+  }
+  
+  /* 图标间距优化 */
+  .VPNavBarExtra .menu .group .VPMenu .items {
+    gap: 12px !important;
+  }
+  
+  .VPNavBarExtra .menu .group .VPMenu .items .VPLink {
+    display: flex !important;
+    align-items: center !important;
+    gap: 10px !important;
+    padding: 12px 16px !important;
+  }
+  
+  /* 侧边栏图标优化 */
+  .VPNavScreen .vpi-languages,
+  .VPNavScreen .vpi-social-github,
+  .VPNavScreen .vpi-social-twitter,
+  .VPNavScreen .vpi-social-facebook,
+  .VPNavScreen .vpi-social-linkedin {
+    width: 22px !important;
+    height: 22px !important;
+    margin-right: 12px !important;
   }
   
   /* 侧边栏优化 */
@@ -990,7 +1060,18 @@
   }
   
   .VPNavScreen .container {
-    padding: 20px !important;
+    padding: 24px !important;
+  }
+  
+  /* 图标悬停效果 */
+  .VPNavBarExtra .vpi-languages:hover,
+  .VPNavBarExtra .vpi-social-github:hover,
+  .VPNavBarExtra .vpi-social-twitter:hover,
+  .VPNavBarExtra .vpi-social-facebook:hover,
+  .VPNavBarExtra .vpi-social-linkedin:hover {
+    color: var(--vp-c-brand) !important;
+    transform: scale(1.05) !important;
+    transition: all 0.2s ease !important;
   }
 }
 
