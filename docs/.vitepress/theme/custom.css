@@ -46,12 +46,12 @@
 
 /* 英雄区域样式 */
 .hero-section {
-  padding: 5rem 2rem;
+  padding: 4rem 2rem;
   text-align: center;
   background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-  border-radius: 12px;
+  border-radius: 16px;
   margin-bottom: 3rem;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
   position: relative;
   overflow: hidden;
 }
@@ -66,8 +66,8 @@
   background-image: url('/images/oil-press-hero.svg');
   background-position: right bottom;
   background-repeat: no-repeat;
-  background-size: 300px;
-  opacity: 0.15;
+  background-size: 350px;
+  opacity: 0.12;
   z-index: 0;
 }
 
@@ -77,19 +77,21 @@
 }
 
 .hero-title {
-  font-size: 3rem;
+  font-size: 3.2rem;
   font-weight: 800;
   margin-bottom: 1.5rem;
   color: var(--vp-c-brand);
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+  line-height: 1.1;
 }
 
 .hero-description {
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   max-width: 800px;
   margin: 0 auto 2.5rem;
   color: var(--vp-c-gray);
   line-height: 1.6;
+  font-weight: 400;
 }
 
 .hero-buttons {
@@ -97,17 +99,19 @@
   justify-content: center;
   gap: 1.5rem;
   margin-bottom: 2rem;
+  flex-wrap: wrap;
 }
 
 .hero-button {
   display: inline-block;
-  padding: 1rem 2rem;
+  padding: 1.2rem 2.5rem;
   font-size: 1.1rem;
   font-weight: 600;
   text-decoration: none;
   border-radius: 50px;
   transition: all 0.3s ease;
-  transition: all 0.3s ease;
+  min-width: 160px;
+  text-align: center;
 }
 
 .hero-button-primary {
@@ -157,12 +161,12 @@
 
 .product-card {
   border: none;
-  border-radius: 16px;
-  padding: 2rem;
+  border-radius: 20px;
+  padding: 2.5rem;
   text-align: center;
   transition: all 0.4s ease;
   background: #ffffff;
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
   position: relative;
   overflow: hidden;
 }
@@ -192,28 +196,30 @@
 
 .product-card img {
   max-width: 100%;
-  height: 220px;
+  height: 240px;
   object-fit: contain;
   margin-bottom: 1.5rem;
   transition: transform 0.5s ease;
 }
 
 .product-card:hover img {
-  transform: scale(1.05);
+  transform: scale(1.08);
 }
 
 .product-card h3 {
-  font-size: 1.8rem;
-  margin-bottom: 0.8rem;
+  font-size: 1.9rem;
+  margin-bottom: 1rem;
   color: var(--vp-c-brand);
   font-weight: 700;
+  line-height: 1.3;
 }
 
 .product-card p {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.8rem;
   color: var(--vp-c-gray);
   font-size: 1.1rem;
   line-height: 1.6;
+  font-weight: 400;
 }
 
 .product-card ul {
@@ -324,16 +330,97 @@
     left: 50%;
     transform: translate(-50%, -50%);
     margin-top: 0;
+    z-index: 9999;
+    background: white;
+    border: none;
+    border-radius: 16px;
+    padding: 24px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+    min-width: 280px;
+    max-width: 90vw;
   }
   
   .wechat-qr::before {
     display: none;
+  }
+  
+  .wechat-qr img {
+    width: 240px;
+    height: 240px;
+    border-radius: 8px;
+  }
+  
+  .wechat-qr p {
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+    margin: 16px 0 0 0;
+  }
+  
+  /* 添加遮罩层 */
+  .wechat-container:hover::after {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 9998;
+    pointer-events: none;
   }
 }
 
 @media (max-width: 768px) {
   .nav-bar .social-icons {
     display: none;
+  }
+  
+  /* 移动端社交图标显示优化 */
+  .mobile-social-icons {
+    display: flex !important;
+    gap: 12px !important;
+    justify-content: center !important;
+    align-items: center !important;
+    padding: 16px 0 !important;
+    margin: 16px 0 !important;
+    background: rgba(231, 76, 60, 0.05) !important;
+    border-radius: 12px !important;
+    border: 1px solid rgba(231, 76, 60, 0.1) !important;
+  }
+  
+  .mobile-social-icon {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 44px !important;
+    height: 44px !important;
+    border-radius: 50% !important;
+    background: white !important;
+    border: 2px solid var(--vp-c-brand) !important;
+    transition: all 0.3s ease !important;
+    box-shadow: 0 2px 8px rgba(231, 76, 60, 0.2) !important;
+    touch-action: manipulation !important;
+    -webkit-tap-highlight-color: transparent !important;
+  }
+  
+  .mobile-social-icon:hover,
+  .mobile-social-icon:active {
+    transform: translateY(-2px) scale(1.05) !important;
+    box-shadow: 0 4px 12px rgba(231, 76, 60, 0.3) !important;
+    background: var(--vp-c-brand) !important;
+    color: white !important;
+  }
+  
+  .mobile-social-icon svg {
+    width: 20px !important;
+    height: 20px !important;
+    transition: color 0.3s ease !important;
+  }
+  
+  .mobile-social-icon:hover svg,
+  .mobile-social-icon:active svg {
+    color: white !important;
   }
 }
 
@@ -715,34 +802,126 @@
 
 /* 手机端导航栏优化 */
 @media (max-width: 768px) {
-  /* 汉堡菜单按钮优化 */
-  .VPNavBarHamburger {
-    width: 48px !important;
-    height: 48px !important;
-    background: rgba(0, 0, 0, 0.1) !important;
-    border-radius: 8px !important;
+  /* 彻底隐藏所有VitePress默认的移动端导航组件 */
+  .VPNavBarHamburger,
+  .VPNavBarMenuButton,
+  .VPNavBarMenuGroup,
+  .VPNavBarExtra,
+  .VPNavBarTranslations,
+  .VPLocalNav,
+  .VPLocalNavOutlineDropdown,
+  .VPSwitch,
+  [class*="VPSwitch"],
+  [class*="appearance"],
+  [class*="VPNavBarAppearance"] {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    width: 0 !important;
+    height: 0 !important;
+    position: absolute !important;
+    left: -9999px !important;
+    pointer-events: none !important;
+  }
+  
+  /* 隐藏默认的移动端菜单和侧边栏 */
+  .VPNavScreen,
+  .VPNavScreenMenu,
+  .VPSidebar,
+  .VPSidebar .curtain {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+  }
+  
+  /* 确保自定义菜单能显示 */
+  .custom-mobile-menu {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    position: fixed !important;
+    top: 60px !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    background: rgba(0, 0, 0, 0.5) !important;
+    z-index: 9999 !important;
+    backdrop-filter: blur(4px) !important;
+  }
+  
+  /* 移动端导航栏容器优化 */
+  .VPNav {
+    height: 60px !important;
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 100 !important;
+  }
+
+  .VPNavBar {
+    height: 60px !important;
+    background: var(--vp-c-bg) !important;
+    border-bottom: 1px solid var(--vp-c-divider) !important;
+    backdrop-filter: blur(8px) !important;
+  }
+  
+  .VPNavBar .container {
     display: flex !important;
     align-items: center !important;
-    justify-content: center !important;
+    justify-content: space-between !important;
+    padding: 0 16px !important;
+    height: 60px !important;
+    max-width: 100% !important;
+  }
+  
+  .VPNavBarTitle {
+    flex: 1 !important;
+    text-align: center !important;
+    height: 60px !important;
+    line-height: 60px !important;
+    margin: 0 !important;
+  }
+  
+  .VPNavBar .title {
+    flex: 1 !important;
+    text-align: center !important;
+    margin: 0 12px !important;
+    height: 60px !important;
+    line-height: 60px !important;
   }
 
-  .VPNavBarHamburger .container {
-    width: 24px !important;
-    height: 20px !important;
+  /* 移动端主要内容区域修复 */
+  .VPContent {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+    min-height: calc(100vh - 60px) !important;
+  }
+  
+  .vp-doc {
+    padding: 24px 16px !important;
+    max-width: 100% !important;
+  }
+  
+  /* 确保页面内容完整显示 */
+  .Layout {
+    min-height: 100vh !important;
+  }
+  
+  .VPContent .container {
+    max-width: 100% !important;
+    padding: 0 !important;
   }
 
-  .VPNavBarHamburger .top,
-  .VPNavBarHamburger .middle,
-  .VPNavBarHamburger .bottom {
-    height: 3px !important;
-    background: #333 !important;
-    border-radius: 2px !important;
-  }
-
-  /* 侧边栏优化 */
+  /* 侧边栏优化 - 增加宽度和改善滚动 */
   .VPSidebar {
-    width: 280px !important;
-    max-width: 90vw !important;
+    width: 320px !important;
+    max-width: 85vw !important;
+    border-radius: 0 12px 0 0 !important;
+    box-shadow: 4px 0 12px rgba(0, 0, 0, 0.15) !important;
+  }
+
+  .VPSidebar .curtain {
+    background: rgba(0, 0, 0, 0.6) !important;
+    backdrop-filter: blur(4px) !important;
   }
 
   /* 语言切换显示优化 */
@@ -815,17 +994,29 @@
     font-size: 24px !important;
   }
 
-  /* 导航菜单项优化 */
+  /* 导航菜单项优化 - 增大触摸目标 */
   .VPNavBarMenu {
-    margin: 16px 0 !important;
+    margin: 20px 0 !important;
   }
 
   .VPNavBarMenu .VPNavBarMenuLink {
     display: block !important;
-    padding: 12px 16px !important;
-    font-size: 16px !important;
-    border-bottom: 1px solid #eee !important;
+    padding: 16px 20px !important;
+    font-size: 17px !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08) !important;
     text-align: left !important;
+    min-height: 48px !important;
+    line-height: 1.4 !important;
+    transition: all 0.3s ease !important;
+    border-radius: 8px !important;
+    margin: 4px 16px !important;
+  }
+
+  .VPNavBarMenu .VPNavBarMenuLink:hover,
+  .VPNavBarMenu .VPNavBarMenuLink:active {
+    background: rgba(231, 76, 60, 0.1) !important;
+    color: var(--vp-c-brand) !important;
+    transform: translateX(4px) !important;
   }
 
   .VPNavBarMenu .VPNavBarMenuLink:last-child {
@@ -834,12 +1025,34 @@
 
   /* 整体侧边栏内容区域 */
   .VPSidebar .group {
-    padding: 0 16px !important;
+    padding: 0 20px !important;
   }
 
   .VPSidebar .VPSidebarItem {
-    padding: 12px 0 !important;
-    border-bottom: 1px solid #f0f0f0 !important;
+    padding: 14px 0 !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05) !important;
+  }
+
+  /* 侧边栏滚动优化 */
+  .VPSidebar .VPSidebarNav {
+    padding: 20px 0 !important;
+    max-height: calc(100vh - 140px) !important;
+    overflow-y: auto !important;
+    scrollbar-width: thin !important;
+    scrollbar-color: var(--vp-c-brand-light) transparent !important;
+  }
+
+  .VPSidebar .VPSidebarNav::-webkit-scrollbar {
+    width: 6px !important;
+  }
+
+  .VPSidebar .VPSidebarNav::-webkit-scrollbar-track {
+    background: transparent !important;
+  }
+
+  .VPSidebar .VPSidebarNav::-webkit-scrollbar-thumb {
+    background: var(--vp-c-brand-light) !important;
+    border-radius: 3px !important;
   }
 }
 
@@ -1341,7 +1554,7 @@
 /* 响应式调整 */
 @media (max-width: 1024px) {
   .hero-section {
-    padding: 4rem 1.5rem;
+    padding: 3.5rem 1.5rem;
   }
   
   .hero-title {
@@ -1354,126 +1567,359 @@
   
   .product-series {
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
   }
   
   .features-grid {
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
   }
 }
 
 @media (max-width: 768px) {
   .hero-section {
-    padding: 3rem 1rem;
+    padding: 3rem 1.5rem;
+    border-radius: 12px;
   }
   
   .hero-section::before {
-    background-size: 200px;
-    opacity: 0.1;
+    background-size: 220px;
+    opacity: 0.08;
   }
   
   .hero-title {
-    font-size: 2.2rem;
+    font-size: 2.4rem;
+    margin-bottom: 1.2rem;
+    line-height: 1.2;
   }
   
   .hero-description {
     font-size: 1.3rem;
+    margin-bottom: 2rem;
   }
   
   .hero-buttons {
     flex-direction: column;
-    gap: 1rem;
+    gap: 1.2rem;
     width: 100%;
-    max-width: 300px;
+    max-width: 280px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 1.5rem;
   }
   
   .hero-button {
     width: 100%;
+    padding: 1rem 1.5rem;
+    font-size: 1rem;
+    min-width: auto;
+    min-height: 48px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .hero-button:active {
+    transform: translateY(1px);
   }
   
   .product-card {
-    padding: 1.5rem;
+    padding: 2rem 1.5rem;
+    border-radius: 16px;
+  }
+  
+  .product-card img {
+    height: 200px;
   }
   
   .product-card h3 {
-    font-size: 1.8rem;
+    font-size: 1.7rem;
+    margin-bottom: 0.8rem;
+  }
+  
+  .product-card p {
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
   }
   
   .features-section,
   .contact-section {
-    padding: 2rem 1rem;
+    padding: 2.5rem 1.5rem;
+    border-radius: 12px;
   }
   
   .features-grid,
   .product-series,
   .case-grid {
     grid-template-columns: 1fr;
-    gap: 1.5rem;
+    gap: 2rem;
   }
   
   .contact-grid {
     grid-template-columns: 1fr;
-    gap: 2rem;
+    gap: 2.5rem;
   }
   
   .vp-doc h1 {
-    font-size: 2.2rem;
+    font-size: 2.4rem;
+    line-height: 1.2;
   }
   
   .vp-doc h2 {
-    font-size: 1.8rem;
+    font-size: 1.9rem;
+    line-height: 1.3;
   }
   
   .vp-doc h3 {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
+    line-height: 1.3;
   }
   
   .vp-doc p,
   .vp-doc li {
     font-size: 1.1rem;
+    line-height: 1.6;
+  }
+
+  /* 触摸交互优化 */
+  .hero-button,
+  .primary-button,
+  .secondary-button,
+  .learn-more,
+  .contact-button {
+    min-height: 48px !important;
+    min-width: 120px !important;
+    touch-action: manipulation !important;
+    -webkit-tap-highlight-color: transparent !important;
+  }
+
+  .form-input,
+  .form-textarea {
+    min-height: 48px !important;
+    padding: 12px 16px !important;
+    font-size: 16px !important;
+    touch-action: manipulation !important;
+  }
+
+  .form-button {
+    min-height: 48px !important;
+    padding: 12px 24px !important;
+    font-size: 16px !important;
+    touch-action: manipulation !important;
+  }
+
+  /* 禁用双击缩放 */
+  * {
+    touch-action: manipulation !important;
+  }
+
+  /* 移动端内容区域优化 */
+  .VPContent {
+    padding: 0 16px !important;
+  }
+
+  .vp-doc {
+    padding: 24px 0 !important;
+  }
+
+  .vp-doc .content {
+    max-width: 100% !important;
+    padding: 0 !important;
+  }
+
+  /* 移动端表格优化 */
+  .vp-doc table {
+    font-size: 14px !important;
+    overflow-x: auto !important;
+    display: block !important;
+    white-space: nowrap !important;
+  }
+
+  .vp-doc th,
+  .vp-doc td {
+    padding: 8px 12px !important;
+  }
+
+  /* 移动端代码块优化 */
+  .vp-doc pre {
+    font-size: 14px !important;
+    overflow-x: auto !important;
+    border-radius: 8px !important;
+  }
+
+  /* 移动端列表优化 */
+  .vp-doc ul,
+  .vp-doc ol {
+    padding-left: 20px !important;
+  }
+
+  .vp-doc li {
+    margin-bottom: 8px !important;
   }
 }
 
 @media (max-width: 480px) {
   .hero-section {
-    padding: 2.5rem 1rem;
+    padding: 2.5rem 1.2rem;
+    margin-bottom: 2rem;
   }
   
   .hero-title {
-    font-size: 2rem;
+    font-size: 2.1rem;
+    line-height: 1.1;
   }
   
   .hero-description {
     font-size: 1.2rem;
+    margin-bottom: 1.8rem;
+  }
+  
+  .hero-buttons {
+    gap: 1rem;
+    max-width: 260px;
+  }
+  
+  .hero-button {
+    padding: 0.9rem 1.2rem;
+    font-size: 0.95rem;
+    min-height: 44px;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .hero-button:active {
+    transform: translateY(1px);
+  }
+  
+  .product-card {
+    padding: 1.8rem 1.2rem;
   }
   
   .product-card img {
     height: 180px;
   }
   
-  .feature-title {
+  .product-card h3 {
     font-size: 1.5rem;
   }
   
+  .product-card p {
+    font-size: 0.95rem;
+  }
+  
+  .feature-title {
+    font-size: 1.4rem;
+  }
+  
   .feature-description {
-    font-size: 1.1rem;
+    font-size: 1rem;
+  }
+  
+  .features-section,
+  .contact-section {
+    padding: 2rem 1.2rem;
+  }
+  
+  .features-grid {
+    gap: 1.5rem;
   }
   
   .vp-doc h1 {
-    font-size: 2rem;
+    font-size: 2.1rem;
   }
   
   .vp-doc h2 {
-    font-size: 1.6rem;
+    font-size: 1.7rem;
   }
   
   .vp-doc h3 {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
   }
   
   .vp-doc p,
   .vp-doc li {
     font-size: 1rem;
+    line-height: 1.5;
+  }
+}
+
+/* 超小屏幕优化 (320px 及以下) */
+@media (max-width: 320px) {
+  .hero-section {
+    padding: 2rem 1rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .hero-title {
+    font-size: 1.8rem;
+    line-height: 1.1;
+  }
+  
+  .hero-description {
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .hero-buttons {
+    gap: 0.8rem;
+    max-width: 240px;
+  }
+  
+  .hero-button {
+    padding: 0.8rem 1rem;
+    font-size: 0.9rem;
+    min-height: 44px;
+  }
+  
+  .product-card {
+    padding: 1.5rem 1rem;
+  }
+  
+  .product-card img {
+    height: 160px;
+  }
+  
+  .product-card h3 {
+    font-size: 1.3rem;
+  }
+  
+  .product-card p {
+    font-size: 0.9rem;
+  }
+  
+  .features-section,
+  .contact-section {
+    padding: 1.5rem 1rem;
+  }
+  
+  .VPNavBarHamburger {
+    width: 48px !important;
+    height: 48px !important;
+  }
+  
+  .VPSidebar {
+    max-width: 95vw !important;
+  }
+  
+  .mobile-social-icon {
+    width: 40px !important;
+    height: 40px !important;
+  }
+  
+  .mobile-social-icon svg {
+    width: 18px !important;
+    height: 18px !important;
+  }
+  
+  .wechat-qr {
+    padding: 20px !important;
+    min-width: 260px !important;
+  }
+  
+  .wechat-qr img {
+    width: 220px !important;
+    height: 220px !important;
   }
 }
