@@ -1058,7 +1058,7 @@
 
 /* 语言切换和社媒按钮优化 */
 
-/* 完全移除移动端语言切换功能 */
+/* 移动端导航栏布局优化 */
 @media (max-width: 768px) {
   /* 完全隐藏整个语言切换功能组 */
   .VPNavBarExtra .menu .group.translations {
@@ -1081,6 +1081,204 @@
   .VPNavBarExtra .menu .group.translations .VPMenuLink,
   .VPNavBarExtra .menu .group.translations a {
     display: none !important;
+  }
+  
+  /* 彻底隐藏VitePress默认的移动端导航组件 */
+  .VPNavBar .VPNavBarExtra,
+  .VPNavBar .VPNavBarMenuGroup,
+  .VPNavBar .VPNavScreenMenuButton,
+  .VPNavScreenMenuButton,
+  .VPNavBarHamburger {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+  }
+  
+  /* 确保导航栏内容不超出屏幕宽度 */
+  .VPNavBar {
+    overflow: visible !important;
+    padding: 0 12px !important;
+    position: relative !important;
+  }
+  
+  .VPNavBar .container {
+    max-width: 100% !important;
+    padding: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    flex-wrap: nowrap !important;
+    width: 100% !important;
+    position: relative !important;
+  }
+  
+  /* 标题占据左侧空间，给右侧按钮留出适合空间 */
+  .VPNavBarTitle {
+    flex: 1 1 auto !important;
+    min-width: 0 !important;
+    overflow: hidden !important;
+    margin-right: 90px !important;
+    position: relative !important;
+  }
+  
+  .VPNavBarTitle .title {
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    font-size: 18px !important;
+    max-width: calc(100vw - 110px) !important;
+  }
+  
+  /* 针对英文界面的特殊处理 - 使用更强的选择器和更大的空间预留 */
+  .VPApp .VPNavBarTitle,
+  .VPApp[data-lang="en"] .VPNavBarTitle,
+  html[lang="en"] .VPNavBarTitle,
+  html[lang="en-US"] .VPNavBarTitle,
+  body[data-lang="en"] .VPNavBarTitle,
+  [lang="en"] .VPNavBarTitle,
+  [data-lang="en"] .VPNavBarTitle {
+    margin-right: 130px !important;
+  }
+  
+  .VPApp .VPNavBarTitle .title,
+  .VPApp[data-lang="en"] .VPNavBarTitle .title,
+  html[lang="en"] .VPNavBarTitle .title,
+  html[lang="en-US"] .VPNavBarTitle .title,
+  body[data-lang="en"] .VPNavBarTitle .title,
+  [lang="en"] .VPNavBarTitle .title,
+  [data-lang="en"] .VPNavBarTitle .title {
+    max-width: calc(100vw - 150px) !important;
+    font-size: 14px !important;
+  }
+  
+  /* 自定义按钮容器 - 调整为绝对定位配合导航栏 */
+  .VPNavBar .content {
+    position: absolute !important;
+    right: 12px !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    z-index: 100 !important;
+    background: transparent !important;
+  }
+  
+  /* 针对英文界面的按钮容器调整 */
+  .VPApp .VPNavBar .content,
+  .VPApp[data-lang="en"] .VPNavBar .content,
+  html[lang="en"] .VPNavBar .content,
+  html[lang="en-US"] .VPNavBar .content,
+  body[data-lang="en"] .VPNavBar .content,
+  [lang="en"] .VPNavBar .content,
+  [data-lang="en"] .VPNavBar .content {
+    right: 4px !important;
+    gap: 2px !important;
+  }
+  
+  /* 移动端语言切换按钮样式优化 */
+  .mobile-lang-switcher {
+    position: relative !important;
+  }
+  
+  /* 移动端菜单按钮样式优化 */
+  .mobile-menu-button {
+    position: relative !important;
+  }
+  
+  /* 确保按钮尺寸适合小屏幕 */
+  .lang-dropdown {
+    width: 36px !important;
+    height: 36px !important;
+    min-width: 36px !important;
+    border-width: 1px !important;
+  }
+  
+  .mobile-menu-button {
+    padding: 6px !important;
+    min-width: 36px !important;
+    height: 36px !important;
+    border-width: 1px !important;
+  }
+  
+  /* 英文界面按钮尺寸调整 - 使用更强的选择器 */
+  .VPApp .lang-dropdown,
+  .VPApp[data-lang="en"] .lang-dropdown,
+  html[lang="en"] .lang-dropdown,
+  html[lang="en-US"] .lang-dropdown,
+  body[data-lang="en"] .lang-dropdown,
+  [lang="en"] .lang-dropdown,
+  [data-lang="en"] .lang-dropdown {
+    width: 28px !important;
+    height: 28px !important;
+    min-width: 28px !important;
+  }
+  
+  .VPApp .mobile-menu-button,
+  .VPApp[data-lang="en"] .mobile-menu-button,
+  html[lang="en"] .mobile-menu-button,
+  html[lang="en-US"] .mobile-menu-button,
+  body[data-lang="en"] .mobile-menu-button,
+  [lang="en"] .mobile-menu-button,
+  [data-lang="en"] .mobile-menu-button {
+    padding: 2px !important;
+    min-width: 28px !important;
+    height: 28px !important;
+  }
+  
+  .menu-icon {
+    width: 18px !important;
+    height: 14px !important;
+  }
+  
+  .lang-icon svg {
+    width: 16px !important;
+    height: 16px !important;
+  }
+  
+  /* 英文界面图标尺寸调整 */
+  .VPApp[data-lang="en"] .menu-icon,
+  html[lang="en"] .menu-icon,
+  html[lang="en-US"] .menu-icon,
+  body[data-lang="en"] .menu-icon,
+  [lang="en"] .menu-icon,
+  [data-lang="en"] .menu-icon {
+    width: 14px !important;
+    height: 12px !important;
+  }
+  
+  .VPApp[data-lang="en"] .lang-icon svg,
+  html[lang="en"] .lang-icon svg,
+  html[lang="en-US"] .lang-icon svg,
+  body[data-lang="en"] .lang-icon svg,
+  [lang="en"] .lang-icon svg,
+  [data-lang="en"] .lang-icon svg {
+    width: 14px !important;
+    height: 14px !important;
+  }
+  
+  /* 语言下拉菜单位置调整 */
+  .lang-options,
+  .mobile-lang-switcher .lang-options,
+  .VPNavBar .lang-options,
+  body .lang-options,
+  html .lang-options {
+    top: 40px !important;
+    right: 0 !important;
+    left: auto !important;
+    transform: none !important;
+    min-width: 80px !important;
+    z-index: 100 !important;
+  }
+  
+  .lang-options::before,
+  .mobile-lang-switcher .lang-options::before,
+  .VPNavBar .lang-options::before,
+  body .lang-options::before,
+  html .lang-options::before {
+    left: auto !important;
+    right: 12px !important;
+    transform: none !important;
   }
 }
 

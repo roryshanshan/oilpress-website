@@ -166,13 +166,23 @@ const switchToLanguage = (lang) => {
   const currentPath = page.value.relativePath
   let newPath = ''
   
+  console.log('Current path:', currentPath) // 调试信息
+  
   if (lang === 'zh') {
     // 切换到中文
     if (currentLang.value === 'en') {
-      if (currentPath === 'index.md' || currentPath === '' || currentPath === 'en/' || currentPath === 'en/index.md') {
+      if (currentPath === 'index.md' || currentPath === '' || currentPath === 'en/index.md') {
         newPath = '/zh/'
+      } else if (currentPath.startsWith('en/')) {
+        // 移除.md扩展名并替换语言前缀
+        const pathWithoutLang = currentPath.replace(/^en\//, '').replace(/\.md$/, '')
+        if (pathWithoutLang === 'index' || pathWithoutLang === '') {
+          newPath = '/zh/'
+        } else {
+          newPath = `/zh/${pathWithoutLang}/`
+        }
       } else {
-        newPath = currentPath.replace(/^en\//, '/zh/')
+        newPath = '/zh/'
       }
     } else {
       return // 已经是中文，不需要切换
@@ -180,18 +190,30 @@ const switchToLanguage = (lang) => {
   } else {
     // 切换到英文
     if (currentLang.value === 'zh') {
-      if (currentPath === 'zh/index.md' || currentPath === 'zh/') {
+      if (currentPath === 'zh/index.md' || currentPath === 'zh/' || currentPath === 'index.md' || currentPath === '') {
         newPath = '/en/'
+      } else if (currentPath.startsWith('zh/')) {
+        // 移除.md扩展名并替换语言前缀
+        const pathWithoutLang = currentPath.replace(/^zh\//, '').replace(/\.md$/, '')
+        if (pathWithoutLang === 'index' || pathWithoutLang === '') {
+          newPath = '/en/'
+        } else {
+          newPath = `/en/${pathWithoutLang}/`
+        }
       } else {
-        newPath = currentPath.replace(/^zh\//, '/en/')
+        newPath = '/en/'
       }
     } else {
       return // 已经是英文，不需要切换
     }
   }
   
+  console.log('New path:', newPath) // 调试信息
+  
   // 使用 window.location.href 进行导航
-  window.location.href = newPath
+  if (newPath) {
+    window.location.href = newPath
+  }
 }
 
 // 点击页面其他地方关闭下拉菜单和移动端菜单
@@ -451,7 +473,6 @@ onMounted(() => {
     align-items: center;
     margin-left: 12px;
     cursor: pointer;
-    z-index: 1001;
     padding: 8px;
     border-radius: 6px;
     background: rgba(231, 76, 60, 0.1);
@@ -548,7 +569,7 @@ onMounted(() => {
     opacity: 0;
     visibility: hidden;
     transition: all 0.3s ease;
-    z-index: 9999;
+    z-index: 1000;
   }
   
   .lang-options.show {
