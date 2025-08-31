@@ -37,10 +37,22 @@ Seed oils are the main source of industrial and edible oils, featuring high yiel
 **Processing Technology**: Shelling → Steaming → Pressing → Filtering
 
 ### 🧵 Cottonseed (Cottonseed Oil)
-**Oil Content**: 30-40%
+**Oil Content**: 35-45%
 **Features**: Industrial oil, requires detoxification
 **Suitable Equipment**: 425/480 Series Industrial Press
 **Processing Technology**: Shelling → Steaming → Pressing → Detoxification → Refining
+
+### 🍇 Grape Seed (Grape Seed Oil)
+**Oil Content**: 12-18%
+**Features**: Nutrient-rich, strong antioxidant
+**Suitable Equipment**: 300/325 Series Special Press
+**Processing Technology**: Shelling → Cold Pressing → Filtering → Refining
+
+### 🌾 Buckwheat (Buckwheat Oil)
+**Oil Content**: 25-35%
+**Features**: Grain oil, balanced nutrition
+**Suitable Equipment**: 300/325 Series Special Press
+**Processing Technology**: Cleaning → Steaming → Pressing → Filtering
 
 ### 🌾 Flaxseed/Linseed (Flaxseed Oil)
 **Oil Content**: 35-45%

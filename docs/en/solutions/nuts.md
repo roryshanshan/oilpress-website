@@ -82,7 +82,7 @@ graph TD
     H --> I[Packaging Storage]
 ```
 
-## Technical Features
+## Technical Advantages
 
 ### ❄️ Cold Pressing Technology
 - Preserve nutritional components
@@ -116,14 +116,14 @@ graph TD
 - Functional foods
 - Medicinal preparations
 
-## Market Analysis
+## Market Prospects
 
-### 📈 Market Prospects
+### 📈 Development Trends
 - Health food demand growth
 - Beauty and skincare market expansion
 - High-end oil market development
 
-### 🎯 Target Customers
+### 🎯 Target Markets
 - High-end food brands
 - Beauty and skincare enterprises
 - Health product manufacturers
@@ -149,7 +149,7 @@ graph TD
 - Market trend analysis
 - Customer demand research
 
-## Success Cases
+## Case Studies
 
 ### Shandong High-end Nut Oil Factory
 - **Equipment Configuration**: 355 Series Special Press × 2 units

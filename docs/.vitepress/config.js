@@ -111,10 +111,46 @@ export default {
                         { text: '🌱 苏子（苏子油）', link: '/zh/solutions/perilla' }
                       ]
                     },
-                    { text: '🥜 坚果类', link: '/zh/solutions/nuts' },
-                    { text: '🥑 果实类', link: '/zh/solutions/fruits' },
-                    { text: '⚙️ 其他特殊油料', link: '/zh/solutions/special-oils' }
-                  ]
+                    {
+                      text: '🥜 坚果类',
+                      collapsed: true,
+                      items: [
+                        { text: '坚果类概述', link: '/zh/solutions/nuts' },
+                        { text: '🥥 椰子（椰子油）', link: '/zh/solutions/coconut' },
+                        { text: '🌴 棕榈（棕榈油）', link: '/zh/solutions/palm' },
+                        { text: '🥜 核桃（核桃油）', link: '/zh/solutions/walnut' },
+                        { text: '🌰 杏仁（杏仁油）', link: '/zh/solutions/almond' },
+                        { text: '🌰 榛子（榛子油）', link: '/zh/solutions/hazelnut' },
+                        { text: '🥜 腰果（腰果油）', link: '/zh/solutions/cashew' },
+                        { text: '🥜 开心果（开心果油）', link: '/zh/solutions/pistachio' }
+                      ]
+                    },
+                    {
+                      text: '🥑 果实类',
+                      collapsed: true,
+                      items: [
+                        { text: '果实类概述', link: '/zh/solutions/fruits' },
+                        { text: '🥑 鳄梨（牛油果油）', link: '/zh/solutions/avocado' },
+                        { text: '🍇 葡萄籽（葡萄籽油）', link: '/zh/solutions/grape-seed' },
+                        { text: '🎃 南瓜籽（南瓜籽油）', link: '/zh/solutions/pumpkin-seed' },
+                        { text: '🍉 西瓜籽（西瓜籽油）', link: '/zh/solutions/watermelon-seed' },
+                        { text: '🍑 桃核仁（核仁油）', link: '/zh/solutions/peach-kernel' },
+                        { text: '🌰 杏核仁（核仁油）', link: '/zh/solutions/apricot-kernel' }
+                      ]
+                    },
+                    {
+                      text: '⚙️ 其他特殊油料',
+                      collapsed: true,
+                      items: [
+                        { text: '特殊油料概述', link: '/zh/solutions/special-oils' },
+                        { text: '🍚 米糠（米糠油）', link: '/zh/solutions/rice-bran' },
+                        { text: '🌽 玉米胚芽（玉米油）', link: '/zh/solutions/corn-germ' },
+                        { text: '🌿 蓖麻籽（蓖麻油）', link: '/zh/solutions/castor-seed' },
+                        { text: '🌶️ 辣椒籽（辣椒籽油）', link: '/zh/solutions/chili-seed' },
+                        { text: '🍇 葡萄籽（葡萄籽油）', link: '/zh/solutions/grape-seed' },
+                        { text: '🌾 荞麦籽（荞麦油）', link: '/zh/solutions/buckwheat' }
+                      ]
+                    }                  ]
                 },
                 {
                   text: '按规模分类',
@@ -265,9 +301,46 @@ export default {
                         { text: '🌱 Perilla Seed (Perilla Oil)', link: '/en/solutions/perilla' }
                       ]
                     },
-                    { text: '� Nut Oils', link: '/en/solutions/nuts' },
-                    { text: '🥑 Fruit Oils', link: '/en/solutions/fruits' },
-                    { text: '⚙️ Special Oils', link: '/en/solutions/special-oils' }
+                    {
+                      text: '🥜 Nut Oils',
+                      collapsed: true,
+                      items: [
+                        { text: 'Nut Oils Overview', link: '/en/solutions/nuts' },
+                        { text: '🥥 Coconut (Coconut Oil)', link: '/en/solutions/coconut' },
+                        { text: '🌴 Palm (Palm Oil)', link: '/en/solutions/palm' },
+                        { text: '🥜 Walnut (Walnut Oil)', link: '/en/solutions/walnut' },
+                        { text: '🌰 Almond (Almond Oil)', link: '/en/solutions/almond' },
+                        { text: '🌰 Hazelnut (Hazelnut Oil)', link: '/en/solutions/hazelnut' },
+                        { text: '🥜 Cashew (Cashew Oil)', link: '/en/solutions/cashew' },
+                        { text: '🥜 Pistachio (Pistachio Oil)', link: '/en/solutions/pistachio' }
+                      ]
+                    },
+                    {
+                      text: '🥑 Fruit Oils',
+                      collapsed: true,
+                      items: [
+                        { text: 'Fruit Oils Overview', link: '/en/solutions/fruits' },
+                        { text: '🥑 Avocado (Avocado Oil)', link: '/en/solutions/avocado' },
+                        { text: '🍇 Grape Seed (Grape Seed Oil)', link: '/en/solutions/grape-seed' },
+                        { text: '🎃 Pumpkin Seed (Pumpkin Seed Oil)', link: '/en/solutions/pumpkin-seed' },
+                        { text: '🍉 Watermelon Seed (Watermelon Seed Oil)', link: '/en/solutions/watermelon-seed' },
+                        { text: '🍑 Peach Kernel (Kernel Oil)', link: '/en/solutions/peach-kernel' },
+                        { text: '🌰 Apricot Kernel (Kernel Oil)', link: '/en/solutions/apricot-kernel' }
+                      ]
+                    },
+                    {
+                      text: '⚙️ Special Oils',
+                      collapsed: true,
+                      items: [
+                        { text: 'Special Oils Overview', link: '/en/solutions/special-oils' },
+                        { text: '🍚 Rice Bran (Rice Bran Oil)', link: '/en/solutions/rice-bran' },
+                        { text: '🌽 Corn Germ (Corn Oil)', link: '/en/solutions/corn-germ' },
+                        { text: '🌿 Castor Seed (Castor Oil)', link: '/en/solutions/castor-seed' },
+                        { text: '🌶️ Chili Seed (Chili Seed Oil)', link: '/en/solutions/chili-seed' },
+                        { text: '🍇 Grape Seed (Grape Seed Oil)', link: '/en/solutions/grape-seed' },
+                        { text: '🌾 Buckwheat (Buckwheat Oil)', link: '/en/solutions/buckwheat' }
+                      ]
+                    }
                   ]
                 },
                 {

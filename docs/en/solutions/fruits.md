@@ -76,7 +76,7 @@ graph TD
     H --> I[Packaging Storage]
 ```
 
-## Technical Features
+## Technical Advantages
 
 ### ❄️ Cold Pressing Technology
 - Preserve nutritional components
@@ -160,7 +160,7 @@ graph TD
 - Market trend analysis
 - Customer demand research
 
-## Success Cases
+## Case Studies
 
 ### Shandong High-end Fruit Oil Processing Factory
 - **Equipment Configuration**: 355 Series Special Press × 2 units

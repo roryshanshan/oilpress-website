@@ -70,7 +70,7 @@ graph TD
     H --> I[Packaging Storage]
 ```
 
-## Technical Features
+## Technical Advantages
 
 ### 🎯 Special Technology
 - Targeted preprocessing
@@ -154,7 +154,7 @@ graph TD
 - Market trend analysis
 - Customer demand research
 
-## Success Cases
+## Case Studies
 
 ### Shandong Rice Bran Oil Processing Enterprise
 - **Equipment Configuration**: 355 Series Special Press × 2 units
