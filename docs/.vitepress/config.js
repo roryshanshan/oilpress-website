@@ -91,10 +91,26 @@ export default {
               collapsed: false,
               items: [
                 { text: '方案概览', link: '/zh/solutions/' },
-                { text: '小型榨油坊方案', link: '/zh/solutions/small-workshop' },
-                { text: '中型油厂方案', link: '/zh/solutions/medium-factory' },
-                { text: '大型工业化方案', link: '/zh/solutions/large-industrial' },
-                { text: '特种油料加工方案', link: '/zh/solutions/special-oil' }
+                {
+                  text: '按油料类型',
+                  collapsed: true,
+                  items: [
+                    { text: '🌾 粮油类（种子类）', link: '/zh/solutions/seed-oils' },
+                    { text: '🥜 坚果类', link: '/zh/solutions/nuts' },
+                    { text: '🥑 果实类', link: '/zh/solutions/fruits' },
+                    { text: '⚙️ 其他特殊油料', link: '/zh/solutions/special-oils' }
+                  ]
+                },
+                {
+                  text: '按规模分类',
+                  collapsed: true,
+                  items: [
+                    { text: '🏠 小型榨油坊方案', link: '/zh/solutions/small-workshop' },
+                    { text: '🏭 中型油厂方案', link: '/zh/solutions/medium-factory' },
+                    { text: '🏢 大型工业化方案', link: '/zh/solutions/large-industrial' },
+                    { text: '🔬 特种油料加工方案', link: '/zh/solutions/special-oil' }
+                  ]
+                }
               ]
             }
           ],
@@ -214,10 +230,26 @@ export default {
               collapsed: false,
               items: [
                 { text: 'Overview', link: '/en/solutions/' },
-                { text: 'Small Workshop Solution', link: '/en/solutions/small-workshop' },
-                { text: 'Medium Factory Solution', link: '/en/solutions/medium-factory' },
-                { text: 'Large Industrial Solution', link: '/en/solutions/large-industrial' },
-                { text: 'Special Oil Processing', link: '/en/solutions/special-oil' }
+                {
+                  text: 'By Oil Material Type',
+                  collapsed: true,
+                  items: [
+                    { text: '🌾 Seed Oils', link: '/en/solutions/seed-oils' },
+                    { text: '🥜 Nut Oils', link: '/en/solutions/nuts' },
+                    { text: '🥑 Fruit Oils', link: '/en/solutions/fruits' },
+                    { text: '⚙️ Special Oils', link: '/en/solutions/special-oils' }
+                  ]
+                },
+                {
+                  text: 'By Scale',
+                  collapsed: true,
+                  items: [
+                    { text: '🏠 Small Workshop Solution', link: '/en/solutions/small-workshop' },
+                    { text: '🏭 Medium Factory Solution', link: '/en/solutions/medium-factory' },
+                    { text: '🏢 Large Industrial Solution', link: '/en/solutions/large-industrial' },
+                    { text: '🔬 Special Oil Processing', link: '/en/solutions/special-oil' }
+                  ]
+                }
               ]
             }
           ],
