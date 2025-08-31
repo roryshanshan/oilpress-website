@@ -95,7 +95,22 @@ export default {
                   text: '按油料类型',
                   collapsed: true,
                   items: [
-                    { text: '🌾 粮油类（种子类）', link: '/zh/solutions/seed-oils' },
+                    {
+                      text: '🌾 粮油类（种子类）',
+                      collapsed: true,
+                      items: [
+                        { text: '粮油类概述', link: '/zh/solutions/seed-oils' },
+                        { text: '🌱 大豆（豆油）', link: '/zh/solutions/soybean' },
+                        { text: '🥜 花生（花生油）', link: '/zh/solutions/peanut' },
+                        { text: '🌰 芝麻（芝麻油）', link: '/zh/solutions/sesame' },
+                        { text: '🌿 油菜籽（菜籽油）', link: '/zh/solutions/rapeseed' },
+                        { text: '🌻 向日葵籽（葵花籽油）', link: '/zh/solutions/sunflower' },
+                        { text: '🧵 棉籽（棉籽油）', link: '/zh/solutions/cottonseed' },
+                        { text: '🌾 亚麻籽（亚麻籽油）', link: '/zh/solutions/flaxseed' },
+                        { text: '🍵 茶籽（茶籽油）', link: '/zh/solutions/tea-seed' },
+                        { text: '🌱 苏子（苏子油）', link: '/zh/solutions/perilla' }
+                      ]
+                    },
                     { text: '🥜 坚果类', link: '/zh/solutions/nuts' },
                     { text: '🥑 果实类', link: '/zh/solutions/fruits' },
                     { text: '⚙️ 其他特殊油料', link: '/zh/solutions/special-oils' }
@@ -234,8 +249,23 @@ export default {
                   text: 'By Oil Material Type',
                   collapsed: true,
                   items: [
-                    { text: '🌾 Seed Oils', link: '/en/solutions/seed-oils' },
-                    { text: '🥜 Nut Oils', link: '/en/solutions/nuts' },
+                    {
+                      text: '🌾 Seed Oils',
+                      collapsed: true,
+                      items: [
+                        { text: 'Seed Oils Overview', link: '/en/solutions/seed-oils' },
+                        { text: '🌱 Soybean (Soybean Oil)', link: '/en/solutions/soybean' },
+                        { text: '🥜 Peanut (Peanut Oil)', link: '/en/solutions/peanut' },
+                        { text: '🌰 Sesame (Sesame Oil)', link: '/en/solutions/sesame' },
+                        { text: '🌿 Rapeseed (Rapeseed Oil)', link: '/en/solutions/rapeseed' },
+                        { text: '🌻 Sunflower Seed (Sunflower Oil)', link: '/en/solutions/sunflower' },
+                        { text: '🧵 Cottonseed (Cottonseed Oil)', link: '/en/solutions/cottonseed' },
+                        { text: '🌾 Flaxseed (Flaxseed Oil)', link: '/en/solutions/flaxseed' },
+                        { text: '🍵 Tea Seed (Tea Seed Oil)', link: '/en/solutions/tea-seed' },
+                        { text: '🌱 Perilla Seed (Perilla Oil)', link: '/en/solutions/perilla' }
+                      ]
+                    },
+                    { text: '� Nut Oils', link: '/en/solutions/nuts' },
                     { text: '🥑 Fruit Oils', link: '/en/solutions/fruits' },
                     { text: '⚙️ Special Oils', link: '/en/solutions/special-oils' }
                   ]
