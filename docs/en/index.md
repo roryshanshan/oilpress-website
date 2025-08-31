@@ -18,7 +18,7 @@ title: Professional Hydraulic Oil Press Manufacturer - Shandong Shengshi Hecheng
     <p>National key oilseed pressing equipment manufacturer, providing one-stop oil processing solutions</p>
     <div class="hero-buttons">
       <a href="/en/products/" class="primary-button">View Products</a>
-      <a href="/en/contact/" class="secondary-button">Contact Us</a>
+      <a href="/en/contact/" class="contact-link-button">Contact Us</a>
     </div>
   </div>
   <div class="hero-image">
@@ -214,7 +214,7 @@ Your one-stop oil processing base - we are committed to providing you with the h
   gap: 1rem;
   margin-top: 1.5rem;
 }
-.primary-button, .secondary-button, .contact-button, .learn-more, .view-details {
+.primary-button, .secondary-button, .contact-button, .contact-link-button, .learn-more, .view-details {
   display: inline-block;
   padding: 0.6rem 1.2rem;
   border-radius: 4px;
@@ -229,6 +229,17 @@ Your one-stop oil processing base - we are committed to providing you with the h
 .secondary-button {
   border: 1px solid var(--vp-c-brand);
   color: var(--vp-c-brand);
+}
+.contact-link-button {
+  padding: 0.8rem;
+  background-color: var(--vp-c-brand);
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+}
+.contact-link-button:hover {
+  background-color: var(--vp-c-brand-dark);
 }
 
 /* Company Intro Styles */

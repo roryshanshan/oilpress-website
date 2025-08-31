@@ -18,7 +18,7 @@ title: 液压榨油机专业制造商 - 山东盛世赫程机械有限公司
     <p>国家重点油料压榨设备生产企业，为您提供一站式油料加工解决方案</p>
     <div class="hero-buttons">
       <a href="/zh/products/" class="primary-button">查看产品系列</a>
-      <a href="/zh/contact/" class="secondary-button">联系我们</a>
+      <a href="/zh/contact/" class="contact-link-button">联系我们</a>
     </div>
   </div>
   <div class="hero-image">
@@ -214,7 +214,7 @@ title: 液压榨油机专业制造商 - 山东盛世赫程机械有限公司
   gap: 1rem;
   margin-top: 1.5rem;
 }
-.primary-button, .secondary-button, .contact-button, .learn-more, .view-details {
+.primary-button, .secondary-button, .contact-button, .contact-link-button, .learn-more, .view-details {
   display: inline-block;
   padding: 0.6rem 1.2rem;
   border-radius: 4px;
@@ -229,6 +229,17 @@ title: 液压榨油机专业制造商 - 山东盛世赫程机械有限公司
 .secondary-button {
   border: 1px solid var(--vp-c-brand);
   color: var(--vp-c-brand);
+}
+.contact-link-button {
+  padding: 0.8rem;
+  background-color: var(--vp-c-brand);
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+}
+.contact-link-button:hover {
+  background-color: var(--vp-c-brand-dark);
 }
 
 /* 公司简介样式 */
