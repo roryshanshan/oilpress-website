@@ -181,6 +181,7 @@ title: Professional Hydraulic Oil Press Manufacturer - Shandong Shengshi Hecheng
   <div class="contact-form">
     <form action="https://formspree.io/f/xblaoewy" method="POST">
       <input type="text" id="name" name="name" placeholder="Your Name" required />
+      <input type="email" id="email" name="email" placeholder="Your Email Address" required />
       <input type="tel" id="phone" name="phone" placeholder="Contact Number" required />
       <input type="hidden" name="_subject" value="Homepage Inquiry Form" />
       <input type="hidden" name="_next" value="/en/contact/" />
