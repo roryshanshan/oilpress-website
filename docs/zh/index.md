@@ -179,9 +179,11 @@ title: 液压榨油机专业制造商 - 山东盛世赫程机械有限公司
     <a href="/zh/contact/" class="contact-button">联系我们</a>
   </div>
   <div class="contact-form">
-    <form>
+    <form action="https://formspree.io/f/xblaoewy" method="POST">
       <input type="text" id="name" name="name" placeholder="您的姓名" required />
       <input type="tel" id="phone" name="phone" placeholder="联系电话" required />
+      <input type="hidden" name="_subject" value="首页咨询表单" />
+      <input type="hidden" name="_next" value="/zh/contact/" />
       <textarea id="message" name="message" rows="5" placeholder="留言内容" required></textarea>
       <button type="submit">提交咨询</button>
     </form>

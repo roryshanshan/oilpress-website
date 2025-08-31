@@ -25,27 +25,29 @@
 如果您有任何问题或需求，请填写以下表单，我们将尽快与您联系。
 
 <div class="contact-form">
-  <form>
+  <form action="https://formspree.io/f/xblaoewy" method="POST">
     <div class="form-group">
       <label for="name">姓名</label>
-      <input type="text" id="name" placeholder="请输入您的姓名" />
+      <input type="text" id="name" name="name" placeholder="请输入您的姓名" required />
     </div>
     <div class="form-group">
       <label for="company">公司名称</label>
-      <input type="text" id="company" placeholder="请输入您的公司名称" />
+      <input type="text" id="company" name="company" placeholder="请输入您的公司名称" />
     </div>
     <div class="form-group">
       <label for="phone">联系电话</label>
-      <input type="tel" id="phone" placeholder="请输入您的联系电话" />
+      <input type="tel" id="phone" name="phone" placeholder="请输入您的联系电话" required />
     </div>
     <div class="form-group">
       <label for="email">电子邮箱</label>
-      <input type="email" id="email" placeholder="请输入您的电子邮箱" />
+      <input type="email" id="email" name="email" placeholder="请输入您的电子邮箱" required />
     </div>
     <div class="form-group">
       <label for="message">留言内容</label>
-      <textarea id="message" rows="5" placeholder="请输入您的留言内容"></textarea>
+      <textarea id="message" name="message" rows="5" placeholder="请输入您的留言内容" required></textarea>
     </div>
+    <input type="hidden" name="_subject" value="联系我们页面留言" />
+    <input type="hidden" name="_next" value="/zh/contact/" />
     <div class="form-group">
       <button type="submit">提交留言</button>
     </div>
