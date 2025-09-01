@@ -69,24 +69,279 @@
       </div>
       
       <div class="mobile-nav-menu">
+        <!-- 首页 -->
         <a :href="currentLang === 'zh' ? '/zh/' : '/en/'" class="mobile-nav-link" @click="closeMobileMenu">
           {{ currentLang === 'zh' ? '首页' : 'Home' }}
         </a>
-        <a :href="currentLang === 'zh' ? '/zh/products/' : '/en/products/'" class="mobile-nav-link" @click="closeMobileMenu">
-          {{ currentLang === 'zh' ? '产品系列' : 'Products' }}
-        </a>
-        <a :href="currentLang === 'zh' ? '/zh/solutions/' : '/en/solutions/'" class="mobile-nav-link" @click="closeMobileMenu">
-          {{ currentLang === 'zh' ? '解决方案' : 'Solutions' }}
-        </a>
-        <a :href="currentLang === 'zh' ? '/zh/advantages/' : '/en/advantages/'" class="mobile-nav-link" @click="closeMobileMenu">
-          {{ currentLang === 'zh' ? '公司优势' : 'Advantages' }}
-        </a>
-        <a :href="currentLang === 'zh' ? '/zh/news/' : '/en/news/'" class="mobile-nav-link" @click="closeMobileMenu">
-          {{ currentLang === 'zh' ? '新闻资讯' : 'News' }}
-        </a>
-        <a :href="currentLang === 'zh' ? '/zh/about/' : '/en/about/'" class="mobile-nav-link" @click="closeMobileMenu">
-          {{ currentLang === 'zh' ? '关于我们' : 'About' }}
-        </a>
+
+        <!-- 产品系列 -->
+        <div class="mobile-nav-item">
+          <div class="mobile-nav-link has-submenu" @click="toggleSubmenu('products')">
+            <span>{{ currentLang === 'zh' ? '产品系列' : 'Products' }}</span>
+            <svg class="submenu-icon" :class="{ 'rotated': expandedMenus.products }" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="6,9 12,15 18,9"></polyline>
+            </svg>
+          </div>
+          <div class="mobile-submenu" v-show="expandedMenus.products">
+            <a :href="currentLang === 'zh' ? '/zh/products/' : '/en/products/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '产品概览' : 'Overview' }}
+            </a>
+            <a :href="currentLang === 'zh' ? '/zh/products/300-325' : '/en/products/300-325'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '300/325系列' : '300/325 Series' }}
+            </a>
+            <a :href="currentLang === 'zh' ? '/zh/products/355-400' : '/en/products/355-400'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '355/400系列' : '355/400 Series' }}
+            </a>
+            <a :href="currentLang === 'zh' ? '/zh/products/426-480-500' : '/en/products/426-480-500'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '426/480/500系列' : '426/480/500 Series' }}
+            </a>
+            <a :href="currentLang === 'zh' ? '/zh/products/supporting' : '/en/products/supporting'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '配套设备' : 'Supporting Equipment' }}
+            </a>
+          </div>
+        </div>
+
+        <!-- 解决方案 -->
+        <div class="mobile-nav-item">
+          <div class="mobile-nav-link has-submenu" @click="toggleSubmenu('solutions')">
+            <span>{{ currentLang === 'zh' ? '解决方案' : 'Solutions' }}</span>
+            <svg class="submenu-icon" :class="{ 'rotated': expandedMenus.solutions }" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="6,9 12,15 18,9"></polyline>
+            </svg>
+          </div>
+          <div class="mobile-submenu" v-show="expandedMenus.solutions">
+            <a :href="currentLang === 'zh' ? '/zh/solutions/' : '/en/solutions/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '方案概览' : 'Overview' }}
+            </a>
+            <div class="mobile-submenu-group">
+              <div class="mobile-submenu-title">{{ currentLang === 'zh' ? '按油料类型' : 'By Oil Material Type' }}</div>
+
+              <!-- 粮油类（种子类） -->
+              <div class="mobile-nav-subitem">
+                <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('seed-oils')">
+                  <span>{{ currentLang === 'zh' ? '🌾 粮油类（种子类）' : '🌾 Seed Oils' }}</span>
+                  <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['seed-oils'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="6,9 12,15 18,9"></polyline>
+                  </svg>
+                </div>
+                <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['seed-oils']">
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/soybean' : '/en/solutions/soybean'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🌱 大豆（豆油）' : '🌱 Soybean (Soybean Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/peanut' : '/en/solutions/peanut'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🥜 花生（花生油）' : '🥜 Peanut (Peanut Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/sesame' : '/en/solutions/sesame'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🌰 芝麻（芝麻油）' : '🌰 Sesame (Sesame Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/rapeseed' : '/en/solutions/rapeseed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🌿 油菜籽（菜籽油）' : '🌿 Rapeseed (Rapeseed Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/sunflower' : '/en/solutions/sunflower'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🌻 向日葵籽（葵花籽油）' : '🌻 Sunflower Seed (Sunflower Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/cottonseed' : '/en/solutions/cottonseed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🧵 棉籽（棉籽油）' : '🧵 Cottonseed (Cottonseed Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/flaxseed' : '/en/solutions/flaxseed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🌾 亚麻籽（亚麻籽油）' : '🌾 Flaxseed (Flaxseed Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/tea-seed' : '/en/solutions/tea-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🍵 茶籽（茶籽油）' : '🍵 Tea Seed (Tea Seed Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/perilla' : '/en/solutions/perilla'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🌱 苏子（苏子油）' : '🌱 Perilla Seed (Perilla Oil)' }}
+                  </a>
+                </div>
+              </div>
+
+              <!-- 坚果类 -->
+              <div class="mobile-nav-subitem">
+                <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('nuts')">
+                  <span>{{ currentLang === 'zh' ? '🥜 坚果类' : '🥜 Nut Oils' }}</span>
+                  <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus.nuts }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="6,9 12,15 18,9"></polyline>
+                  </svg>
+                </div>
+                <div class="mobile-nested-submenu" v-show="nestedExpandedMenus.nuts">
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/coconut' : '/en/solutions/coconut'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🥥 椰子（椰子油）' : '🥥 Coconut (Coconut Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/palm' : '/en/solutions/palm'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🌴 棕榈（棕榈油）' : '🌴 Palm (Palm Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/walnut' : '/en/solutions/walnut'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🥜 核桃（核桃油）' : '🥜 Walnut (Walnut Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/almond' : '/en/solutions/almond'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🌰 杏仁（杏仁油）' : '🌰 Almond (Almond Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/hazelnut' : '/en/solutions/hazelnut'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🌰 榛子（榛子油）' : '🌰 Hazelnut (Hazelnut Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/cashew' : '/en/solutions/cashew'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🥜 腰果（腰果油）' : '🥜 Cashew (Cashew Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/pistachio' : '/en/solutions/pistachio'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🥜 开心果（开心果油）' : '🥜 Pistachio (Pistachio Oil)' }}
+                  </a>
+                </div>
+              </div>
+
+              <!-- 果实类 -->
+              <div class="mobile-nav-subitem">
+                <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('fruits')">
+                  <span>{{ currentLang === 'zh' ? '🥑 果实类' : '🥑 Fruit Oils' }}</span>
+                  <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus.fruits }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="6,9 12,15 18,9"></polyline>
+                  </svg>
+                </div>
+                <div class="mobile-nested-submenu" v-show="nestedExpandedMenus.fruits">
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/avocado' : '/en/solutions/avocado'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🥑 鳄梨（牛油果油）' : '🥑 Avocado (Avocado Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/grape-seed' : '/en/solutions/grape-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🍇 葡萄籽（葡萄籽油）' : '🍇 Grape Seed (Grape Seed Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/pumpkin-seed' : '/en/solutions/pumpkin-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🎃 南瓜籽（南瓜籽油）' : '🎃 Pumpkin Seed (Pumpkin Seed Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/watermelon-seed' : '/en/solutions/watermelon-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🍉 西瓜籽（西瓜籽油）' : '🍉 Watermelon Seed (Watermelon Seed Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/peach-kernel' : '/en/solutions/peach-kernel'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🍑 桃核仁（核仁油）' : '🍑 Peach Kernel (Kernel Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/apricot-kernel' : '/en/solutions/apricot-kernel'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🌰 杏核仁（核仁油）' : '🌰 Apricot Kernel (Kernel Oil)' }}
+                  </a>
+                </div>
+              </div>
+
+              <!-- 其他特殊油料 -->
+              <div class="mobile-nav-subitem">
+                <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('special-oils')">
+                  <span>{{ currentLang === 'zh' ? '⚙️ 其他特殊油料' : '⚙️ Special Oils' }}</span>
+                  <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['special-oils'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="6,9 12,15 18,9"></polyline>
+                  </svg>
+                </div>
+                <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['special-oils']">
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/rice-bran' : '/en/solutions/rice-bran'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🍚 米糠（米糠油）' : '🍚 Rice Bran (Rice Bran Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/corn-germ' : '/en/solutions/corn-germ'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🌽 玉米胚芽（玉米油）' : '🌽 Corn Germ (Corn Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/castor-seed' : '/en/solutions/castor-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🌿 蓖麻籽（蓖麻油）' : '🌿 Castor Seed (Castor Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/chili-seed' : '/en/solutions/chili-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🌶️ 辣椒籽（辣椒籽油）' : '🌶️ Chili Seed (Chili Seed Oil)' }}
+                  </a>
+                  <a :href="currentLang === 'zh' ? '/zh/solutions/buckwheat' : '/en/solutions/buckwheat'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                    {{ currentLang === 'zh' ? '🌾 荞麦籽（荞麦油）' : '🌾 Buckwheat (Buckwheat Oil)' }}
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="mobile-submenu-group">
+              <div class="mobile-submenu-title">{{ currentLang === 'zh' ? '按规模分类' : 'By Scale' }}</div>
+              <a :href="currentLang === 'zh' ? '/zh/solutions/small-workshop' : '/en/solutions/small-workshop'" class="mobile-nav-sublink" @click="closeMobileMenu">
+                {{ currentLang === 'zh' ? '🏠 小型榨油坊方案' : '🏠 Small Workshop Solution' }}
+              </a>
+              <a :href="currentLang === 'zh' ? '/zh/solutions/medium-factory' : '/en/solutions/medium-factory'" class="mobile-nav-sublink" @click="closeMobileMenu">
+                {{ currentLang === 'zh' ? '🏭 中型油厂方案' : '🏭 Medium Factory Solution' }}
+              </a>
+              <a :href="currentLang === 'zh' ? '/zh/solutions/large-industrial' : '/en/solutions/large-industrial'" class="mobile-nav-sublink" @click="closeMobileMenu">
+                {{ currentLang === 'zh' ? '🏢 大型工业化方案' : '🏢 Large Industrial Solution' }}
+              </a>
+              <a :href="currentLang === 'zh' ? '/zh/solutions/special-oil' : '/en/solutions/special-oil'" class="mobile-nav-sublink" @click="closeMobileMenu">
+                {{ currentLang === 'zh' ? '🔬 特种油料加工方案' : '🔬 Special Oil Processing' }}
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- 公司优势 -->
+        <div class="mobile-nav-item">
+          <div class="mobile-nav-link has-submenu" @click="toggleSubmenu('advantages')">
+            <span>{{ currentLang === 'zh' ? '公司优势' : 'Advantages' }}</span>
+            <svg class="submenu-icon" :class="{ 'rotated': expandedMenus.advantages }" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="6,9 12,15 18,9"></polyline>
+            </svg>
+          </div>
+          <div class="mobile-submenu" v-show="expandedMenus.advantages">
+            <a :href="currentLang === 'zh' ? '/zh/advantages/' : '/en/advantages/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '优势概览' : 'Overview' }}
+            </a>
+            <a :href="currentLang === 'zh' ? '/zh/advantages/innovation' : '/en/advantages/innovation'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '技术创新' : 'Technical Innovation' }}
+            </a>
+            <a :href="currentLang === 'zh' ? '/zh/advantages/quality' : '/en/advantages/quality'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '质量保证' : 'Quality Assurance' }}
+            </a>
+            <a :href="currentLang === 'zh' ? '/zh/advantages/service' : '/en/advantages/service'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '服务支持' : 'Service Support' }}
+            </a>
+            <a :href="currentLang === 'zh' ? '/zh/advantages/cases' : '/en/advantages/cases'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '成功案例' : 'Success Cases' }}
+            </a>
+          </div>
+        </div>
+
+        <!-- 新闻资讯 -->
+        <div class="mobile-nav-item">
+          <div class="mobile-nav-link has-submenu" @click="toggleSubmenu('news')">
+            <span>{{ currentLang === 'zh' ? '新闻资讯' : 'News' }}</span>
+            <svg class="submenu-icon" :class="{ 'rotated': expandedMenus.news }" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="6,9 12,15 18,9"></polyline>
+            </svg>
+          </div>
+          <div class="mobile-submenu" v-show="expandedMenus.news">
+            <a :href="currentLang === 'zh' ? '/zh/news/' : '/en/news/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '新闻中心' : 'News Center' }}
+            </a>
+            <a :href="currentLang === 'zh' ? '/zh/news/company' : '/en/news/company'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '公司动态' : 'Company News' }}
+            </a>
+            <a :href="currentLang === 'zh' ? '/zh/news/industry' : '/en/news/industry'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '行业资讯' : 'Industry News' }}
+            </a>
+            <a :href="currentLang === 'zh' ? '/zh/news/technology' : '/en/news/technology'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '技术知识' : 'Technical Knowledge' }}
+            </a>
+          </div>
+        </div>
+
+        <!-- 关于我们 -->
+        <div class="mobile-nav-item">
+          <div class="mobile-nav-link has-submenu" @click="toggleSubmenu('about')">
+            <span>{{ currentLang === 'zh' ? '关于我们' : 'About' }}</span>
+            <svg class="submenu-icon" :class="{ 'rotated': expandedMenus.about }" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="6,9 12,15 18,9"></polyline>
+            </svg>
+          </div>
+          <div class="mobile-submenu" v-show="expandedMenus.about">
+            <a :href="currentLang === 'zh' ? '/zh/about/' : '/en/about/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '公司简介' : 'Company Profile' }}
+            </a>
+            <a :href="currentLang === 'zh' ? '/zh/about/culture' : '/en/about/culture'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '企业文化' : 'Corporate Culture' }}
+            </a>
+            <a :href="currentLang === 'zh' ? '/zh/about/history' : '/en/about/history'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '发展历程' : 'Development History' }}
+            </a>
+            <a :href="currentLang === 'zh' ? '/zh/about/honors' : '/en/about/honors'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '荣誉资质' : 'Honors & Certifications' }}
+            </a>
+            <a :href="currentLang === 'zh' ? '/zh/about/team' : '/en/about/team'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '团队介绍' : 'Our Team' }}
+            </a>
+          </div>
+        </div>
+
+        <!-- 联系我们 -->
         <a :href="currentLang === 'zh' ? '/zh/contact/' : '/en/contact/'" class="mobile-nav-link" @click="closeMobileMenu">
           {{ currentLang === 'zh' ? '联系我们' : 'Contact' }}
         </a>
@@ -134,6 +389,22 @@ const { frontmatter, site, page } = useData()
 const showDropdown = ref(false)
 // 移动端菜单状态 - 确保初始状态为 false
 const showMobileMenu = ref(false)
+// 移动端子菜单展开状态
+const expandedMenus = ref({
+  products: false,
+  solutions: false,
+  advantages: false,
+  news: false,
+  about: false
+})
+
+// 移动端嵌套子菜单展开状态
+const nestedExpandedMenus = ref({
+  'seed-oils': false,
+  nuts: false,
+  fruits: false,
+  'special-oils': false
+})
 
 // 获取当前语言
 const currentLang = computed(() => {
@@ -158,6 +429,16 @@ const toggleMobileMenu = () => {
 // 关闭移动端菜单
 const closeMobileMenu = () => {
   showMobileMenu.value = false
+}
+
+// 切换子菜单显示
+const toggleSubmenu = (menuKey) => {
+  expandedMenus.value[menuKey] = !expandedMenus.value[menuKey]
+}
+
+// 切换嵌套子菜单显示
+const toggleNestedSubmenu = (nestedMenuKey) => {
+  nestedExpandedMenus.value[nestedMenuKey] = !nestedExpandedMenus.value[nestedMenuKey]
 }
 
 // 切换到指定语言
@@ -345,6 +626,10 @@ onMounted(() => {
     overflow-y: auto;
   }
   
+  .mobile-nav-item {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  }
+
   .mobile-nav-link {
     display: block;
     padding: 16px 24px;
@@ -352,14 +637,14 @@ onMounted(() => {
     font-weight: 500;
     color: var(--vp-c-text-1);
     text-decoration: none;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
     transition: all 0.3s ease;
     position: relative;
     min-height: 54px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
   }
-  
+
   .mobile-nav-link:hover,
   .mobile-nav-link:active {
     background: linear-gradient(135deg, rgba(231, 76, 60, 0.08) 0%, rgba(231, 76, 60, 0.12) 100%);
@@ -368,9 +653,150 @@ onMounted(() => {
     border-left: 4px solid var(--vp-c-brand);
     padding-left: 20px;
   }
-  
-  .mobile-nav-link:last-child {
+
+  .mobile-nav-link.has-submenu {
+    cursor: pointer;
+  }
+
+  .mobile-nav-link.has-submenu:hover {
+    background: linear-gradient(135deg, rgba(231, 76, 60, 0.08) 0%, rgba(231, 76, 60, 0.12) 100%);
+    color: var(--vp-c-brand);
+  }
+
+  .submenu-icon {
+    transition: transform 0.3s ease;
+    color: var(--vp-c-text-2);
+  }
+
+  .submenu-icon.rotated {
+    transform: rotate(180deg);
+  }
+
+  .mobile-submenu {
+    background: rgba(248, 249, 250, 0.8);
+    border-left: 3px solid var(--vp-c-brand);
+    margin-left: 16px;
+    margin-right: 16px;
+    border-radius: 0 8px 8px 0;
+    overflow: hidden;
+    animation: slideDown 0.3s ease;
+  }
+
+  .mobile-submenu-group {
+    padding: 8px 0;
+  }
+
+  .mobile-submenu-title {
+    padding: 8px 16px;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--vp-c-brand);
+    background: rgba(231, 76, 60, 0.05);
+    border-bottom: 1px solid rgba(231, 76, 60, 0.1);
+  }
+
+  .mobile-nav-sublink {
+    display: block;
+    padding: 12px 16px 12px 24px;
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--vp-c-text-2);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.03);
+    transition: all 0.3s ease;
+    position: relative;
+  }
+
+  .mobile-nav-sublink:hover,
+  .mobile-nav-sublink:active {
+    background: rgba(231, 76, 60, 0.06);
+    color: var(--vp-c-brand);
+    padding-left: 28px;
+  }
+
+  .mobile-nav-sublink:last-child {
     border-bottom: none;
+  }
+
+  .mobile-nav-subitem {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.03);
+  }
+
+  .mobile-nav-sublink.has-nested-submenu {
+    cursor: pointer;
+    font-weight: 500;
+    color: var(--vp-c-text-1);
+    justify-content: space-between;
+    padding-left: 20px;
+  }
+
+  .mobile-nav-sublink.has-nested-submenu:hover {
+    background: rgba(231, 76, 60, 0.04);
+    color: var(--vp-c-brand);
+  }
+
+  .nested-submenu-icon {
+    transition: transform 0.3s ease;
+    color: var(--vp-c-text-2);
+  }
+
+  .nested-submenu-icon.rotated {
+    transform: rotate(180deg);
+  }
+
+  .mobile-nested-submenu {
+    background: rgba(248, 249, 250, 0.6);
+    border-left: 2px solid var(--vp-c-brand);
+    margin-left: 20px;
+    margin-right: 16px;
+    border-radius: 0 6px 6px 0;
+    overflow: hidden;
+    animation: slideDownNested 0.3s ease;
+  }
+
+  .mobile-nav-nestedlink {
+    display: block;
+    padding: 10px 16px 10px 20px;
+    font-size: 13px;
+    font-weight: 400;
+    color: var(--vp-c-text-2);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.02);
+    transition: all 0.3s ease;
+    position: relative;
+  }
+
+  .mobile-nav-nestedlink:hover,
+  .mobile-nav-nestedlink:active {
+    background: rgba(231, 76, 60, 0.03);
+    color: var(--vp-c-brand);
+    padding-left: 24px;
+  }
+
+  .mobile-nav-nestedlink:last-child {
+    border-bottom: none;
+  }
+
+  @keyframes slideDown {
+    from {
+      max-height: 0;
+      opacity: 0;
+    }
+    to {
+      max-height: 1000px;
+      opacity: 1;
+    }
+  }
+
+  @keyframes slideDownNested {
+    from {
+      max-height: 0;
+      opacity: 0;
+    }
+    to {
+      max-height: 800px;
+      opacity: 1;
+    }
   }
 
 /* 移动端社交图标样式 */
