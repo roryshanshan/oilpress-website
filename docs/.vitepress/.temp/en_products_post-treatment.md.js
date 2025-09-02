@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.1tPrXgE0.js";
+const __pageData = JSON.parse('{"title":"Oil Post-treatment Equipment","description":"","frontmatter":{},"headers":[],"relativePath":"en/products/post-treatment.md","filePath":"en/products/post-treatment.md","lastUpdated":1756173814000}');
+const _sfc_main = { name: "en/products/post-treatment.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="oil-post-treatment-equipment" tabindex="-1">Oil Post-treatment Equipment <a class="header-anchor" href="#oil-post-treatment-equipment" aria-label="Permalink to “Oil Post-treatment Equipment”">​</a></h1><h2 id="product-overview" tabindex="-1">Product Overview <a class="header-anchor" href="#product-overview" aria-label="Permalink to “Product Overview”">​</a></h2><p>Our oil post-treatment equipment line offers comprehensive solutions for refining and processing crude oil after extraction. These systems ensure the final product meets quality standards and market requirements.</p><h2 id="equipment-range" tabindex="-1">Equipment Range <a class="header-anchor" href="#equipment-range" aria-label="Permalink to “Equipment Range”">​</a></h2><h3 id="filtration-systems" tabindex="-1">Filtration Systems <a class="header-anchor" href="#filtration-systems" aria-label="Permalink to “Filtration Systems”">​</a></h3><ul><li>Plate filters</li><li>Centrifugal separators</li><li>Membrane filtration units</li><li>Sediment removal systems</li></ul><h3 id="refining-equipment" tabindex="-1">Refining Equipment <a class="header-anchor" href="#refining-equipment" aria-label="Permalink to “Refining Equipment”">​</a></h3><ul><li>Degumming units</li><li>Neutralization systems</li><li>Bleaching equipment</li><li>Deodorization plants</li></ul><h3 id="quality-control-systems" tabindex="-1">Quality Control Systems <a class="header-anchor" href="#quality-control-systems" aria-label="Permalink to “Quality Control Systems”">​</a></h3><ul><li>Oil analysis equipment</li><li>Color measurement</li><li>Clarity testing units</li><li>Quality monitoring stations</li></ul><h3 id="storage-solutions" tabindex="-1">Storage Solutions <a class="header-anchor" href="#storage-solutions" aria-label="Permalink to “Storage Solutions”">​</a></h3><ul><li>Storage tanks</li><li>Temperature control systems</li><li>Nitrogen blanketing units</li><li>Transfer pumps</li></ul><h2 id="key-features" tabindex="-1">Key Features <a class="header-anchor" href="#key-features" aria-label="Permalink to “Key Features”">​</a></h2><ul><li>Automated processing</li><li>Precise control systems</li><li>Quality monitoring</li><li>Energy efficiency</li><li>Easy maintenance</li><li>Safety features</li></ul><h2 id="benefits" tabindex="-1">Benefits <a class="header-anchor" href="#benefits" aria-label="Permalink to “Benefits”">​</a></h2><ul><li>Superior oil quality</li><li>Extended shelf life</li><li>Consistent product</li><li>Efficient processing</li><li>Reduced waste</li><li>Market compliance</li></ul><h2 id="applications" tabindex="-1">Applications <a class="header-anchor" href="#applications" aria-label="Permalink to “Applications”">​</a></h2><ul><li>Oil refineries</li><li>Food processing plants</li><li>Edible oil producers</li><li>Industrial oil processors</li></ul></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("en/products/post-treatment.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const postTreatment = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  postTreatment as default
+};

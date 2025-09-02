@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300">
+  <style>
+    .building { fill: #34495e; }
+    .roof { fill: #7f8c8d; }
+    .window { fill: #3498db; }
+    .door { fill: #e67e22; }
+    .chimney { fill: #95a5a6; }
+    .smoke { fill: #ecf0f1; opacity: 0.7; }
+    .ground { fill: #27ae60; }
+    .machine { fill: #2c3e50; }
+    .accent { fill: #e74c3c; }
+  </style>
+  <rect width="500" height="300" fill="#f9f9f9"/>
+  
+  <!-- Ground -->
+  <rect x="0" y="250" width="500" height="50" class="ground"/>
+  
+  <!-- Main Factory Building -->
+  <rect x="100" y="100" width="300" height="150" class="building"/>
+  <polygon points="100,100 250,50 400,100" class="roof"/>
+  
+  <!-- Windows -->
+  <rect x="130" y="130" width="30" height="30" class="window"/>
+  <rect x="180" y="130" width="30" height="30" class="window"/>
+  <rect x="230" y="130" width="30" height="30" class="window"/>
+  <rect x="280" y="130" width="30" height="30" class="window"/>
+  <rect x="330" y="130" width="30" height="30" class="window"/>
+  
+  <!-- Door -->
+  <rect x="230" y="200" width="40" height="50" class="door"/>
+  
+  <!-- Chimney -->
+  <rect x="350" y="30" width="20" height="70" class="chimney"/>
+  
+  <!-- Smoke -->
+  <circle cx="360" cy="20" r="10" class="smoke">
+    <animate attributeName="cy" from="20" to="0" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" from="0.7" to="0" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="370" cy="15" r="8" class="smoke">
+    <animate attributeName="cy" from="15" to="-5" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" from="0.7" to="0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Oil Press Machine (Simplified) -->
+  <rect x="50" y="200" width="80" height="50" class="machine"/>
+  <rect x="60" y="180" width="60" height="20" class="accent"/>
+  <rect x="75" y="150" width="30" height="30" class="machine"/>
+  
+  <!-- Company Name -->
+  <text x="250" y="280" font-family="Arial" font-size="14" font-weight="bold" fill="#2c3e50" text-anchor="middle">SHANDONG SHENGSHI HECHENG MACHINERY CO., LTD.</text>
+</svg>
