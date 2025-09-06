@@ -22,7 +22,7 @@ title: 液压榨油机专业制造商 - 山东盛世赫程机械有限公司
     </div>
   </div>
   <div class="hero-image">
-    <img src="/images/oil-press-hero.svg" alt="盛世赫程液压榨油机" />
+    <img src="https://i.postimg.cc/WTGcb8WY/26ce783e76d55ee47b2a3b9ca4d2f4f9.jpg" alt="盛世赫程液压榨油机" />
   </div>
 </div>
 
@@ -44,22 +44,46 @@ title: 液压榨油机专业制造商 - 山东盛世赫程机械有限公司
 
 <div class="product-series">
   <div class="product-card">
-    <img src="/images/300-series.svg" alt="300/325系列榨油机" />
-    <h3>300/325系列</h3>
+    <img src="/images/300-series.svg" alt="300系列榨油机" />
+    <h3>300系列</h3>
+    <p>适合小型作坊，日产油量0.3-0.8吨</p>
+    <a href="/zh/products/300" class="learn-more">了解更多</a>
+  </div>
+  <div class="product-card">
+    <img src="/images/oil-press-300.svg" alt="325系列榨油机" />
+    <h3>325系列</h3>
     <p>适合小型作坊，日产油量0.5-1吨</p>
-    <a href="/zh/products/300-325" class="learn-more">了解更多</a>
+    <a href="/zh/products/325" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-series.svg" alt="355/400系列榨油机" />
-    <h3>355/400系列</h3>
-    <p>适合中型企业，日产油量1-3吨</p>
-    <a href="/zh/products/355-400" class="learn-more">了解更多</a>
+    <img src="/images/355-series.svg" alt="355系列榨油机" />
+    <h3>355系列</h3>
+    <p>适合中小型企业，日产油量1-2吨</p>
+    <a href="/zh/products/355" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
-    <img src="/images/425-series.svg" alt="426/480/500系列榨油机" />
-    <h3>426/480/500系列</h3>
-    <p>适合大型企业，日产油量3-5吨</p>
-    <a href="/zh/products/426-480-500" class="learn-more">了解更多</a>
+    <img src="/images/400-series.svg" alt="400系列榨油机" />
+    <h3>400系列</h3>
+    <p>适合中型企业，日产油量2-3吨</p>
+    <a href="/zh/products/400" class="learn-more">了解更多</a>
+  </div>
+  <div class="product-card">
+    <img src="/images/425-series.svg" alt="426系列榨油机" />
+    <h3>426系列</h3>
+    <p>适合中大型企业，日产油量3-5吨</p>
+    <a href="/zh/products/426" class="learn-more">了解更多</a>
+  </div>
+  <div class="product-card">
+    <img src="/images/425-series.svg" alt="480系列榨油机" />
+    <h3>480系列</h3>
+    <p>适合大型企业，日产油量5-8吨</p>
+    <a href="/zh/products/480" class="learn-more">了解更多</a>
+  </div>
+  <div class="product-card">
+    <img src="/images/425-series.svg" alt="500系列榨油机" />
+    <h3>500系列</h3>
+    <p>适合超大型企业，日产油量8-15吨</p>
+    <a href="/zh/products/500" class="learn-more">了解更多</a>
   </div>
 </div>
 
