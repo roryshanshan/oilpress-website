@@ -3,6 +3,13 @@ layout: home
 title: 液压榨油机专业制造商 - 山东盛世赫程机械有限公司
 ---
 
+<script setup>
+if (typeof window !== 'undefined') {
+  const lang = (navigator.language || navigator.userLanguage || '').toLowerCase()
+  window.location.replace(lang.startsWith('zh') ? '/zh/' : '/en/')
+}
+</script>
+
 <div style="text-align: center; margin: 2rem 0;">
   <h1 style="font-size: 2rem; font-weight: bold; color: var(--vp-c-brand); margin-bottom: 0.5rem;">
     液压榨油机专业制造商
