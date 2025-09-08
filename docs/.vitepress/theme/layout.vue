@@ -269,7 +269,7 @@
                   {{ currentLang === 'zh' ? '自动滚筒炒锅' : 'Automatic Drum Roaster' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/products/cake-wrapping-machine' : '/en/products/cake-wrapping-machine'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '饼粕包衣机' : 'Cake Wrapping Machine' }}
+                  {{ currentLang === 'zh' ? '饼粕包饼机' : 'Cake Wrapping Machine' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/products/edible-oil-refining-equipment' : '/en/products/edible-oil-refining-equipment'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
                   {{ currentLang === 'zh' ? '食用油精炼设备' : 'Edible Oil Refining Equipment' }}
@@ -432,19 +432,79 @@
                 </div>
               </div>
             </div>
+            
+            <!-- 灌装配套方案 -->
             <div class="mobile-submenu-group">
-              <div class="mobile-submenu-title">{{ currentLang === 'zh' ? '按规模分类' : 'By Scale' }}</div>
-              <a :href="currentLang === 'zh' ? '/zh/solutions/small-workshop' : '/en/solutions/small-workshop'" class="mobile-nav-sublink" @click="closeMobileMenu">
-                {{ currentLang === 'zh' ? '🏠 小型榨油坊方案' : '🏠 Small Workshop Solution' }}
+              <div class="mobile-submenu-title">{{ currentLang === 'zh' ? '灌装配套方案' : 'Filling Supporting Solutions' }}</div>
+              
+              <!-- 冲瓶机系列 -->
+              <a :href="currentLang === 'zh' ? '/zh/solutions/bottle-washing/' : '/en/solutions/bottle-washing/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+                {{ currentLang === 'zh' ? '冲瓶机系列' : 'Bottle Washing Machine Series' }}
               </a>
-              <a :href="currentLang === 'zh' ? '/zh/solutions/medium-factory' : '/en/solutions/medium-factory'" class="mobile-nav-sublink" @click="closeMobileMenu">
-                {{ currentLang === 'zh' ? '🏭 中型油厂方案' : '🏭 Medium Factory Solution' }}
+              
+              <!-- 灌装机系列 -->
+              <a :href="currentLang === 'zh' ? '/zh/solutions/filling/' : '/en/solutions/filling/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+                {{ currentLang === 'zh' ? '灌装机系列' : 'Filling Machine Series' }}
               </a>
-              <a :href="currentLang === 'zh' ? '/zh/solutions/large-industrial' : '/en/solutions/large-industrial'" class="mobile-nav-sublink" @click="closeMobileMenu">
-                {{ currentLang === 'zh' ? '🏢 大型工业化方案' : '🏢 Large Industrial Solution' }}
+              
+              <!-- 灯检机系列 -->
+              <a :href="currentLang === 'zh' ? '/zh/solutions/light-inspection/' : '/en/solutions/light-inspection/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+                {{ currentLang === 'zh' ? '灯检机系列' : 'Light Inspection Machine Series' }}
               </a>
-              <a :href="currentLang === 'zh' ? '/zh/solutions/special-oil' : '/en/solutions/special-oil'" class="mobile-nav-sublink" @click="closeMobileMenu">
-                {{ currentLang === 'zh' ? '🔬 特种油料加工方案' : '🔬 Special Oil Processing' }}
+              
+              <!-- 封口机系列 -->
+              <a :href="currentLang === 'zh' ? '/zh/solutions/sealing/' : '/en/solutions/sealing/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+                {{ currentLang === 'zh' ? '封口机系列' : 'Sealing Machine Series' }}
+              </a>
+              
+              <!-- 打塞机系列 -->
+              <a :href="currentLang === 'zh' ? '/zh/solutions/corking/' : '/en/solutions/corking/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+                {{ currentLang === 'zh' ? '打塞机系列' : 'Corking Machine Series' }}
+              </a>
+              
+              <!-- 胶帽热缩机系列 -->
+              <a :href="currentLang === 'zh' ? '/zh/solutions/cap-shrinking/' : '/en/solutions/cap-shrinking/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+                {{ currentLang === 'zh' ? '胶帽热缩机系列' : 'Cap Shrinking Machine Series' }}
+              </a>
+              
+              <!-- 吹干机系列 -->
+              <a :href="currentLang === 'zh' ? '/zh/solutions/drying/' : '/en/solutions/drying/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+                {{ currentLang === 'zh' ? '吹干机系列' : 'Drying Machine Series' }}
+              </a>
+              
+              <!-- 贴标机系列 -->
+              <a :href="currentLang === 'zh' ? '/zh/solutions/labeling/' : '/en/solutions/labeling/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+                {{ currentLang === 'zh' ? '贴标机系列' : 'Labeling Machine Series' }}
+              </a>
+              
+              <!-- 激光打码机系列 -->
+              <a :href="currentLang === 'zh' ? '/zh/solutions/laser-coding/' : '/en/solutions/laser-coding/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+                {{ currentLang === 'zh' ? '激光打码机系列' : 'Laser Coding Machine Series' }}
+              </a>
+              
+              <!-- 装箱、码垛 -->
+              <a :href="currentLang === 'zh' ? '/zh/solutions/packing-palletizing/' : '/en/solutions/packing-palletizing/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+                {{ currentLang === 'zh' ? '装箱、码垛' : 'Packing and Palletizing' }}
+              </a>
+              
+              <!-- 蔬果类前期处理设备 -->
+              <a :href="currentLang === 'zh' ? '/zh/solutions/fruit-veg-processing/' : '/en/solutions/fruit-veg-processing/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+                {{ currentLang === 'zh' ? '蔬果类前期处理设备' : 'Fruit and Vegetable Pre-processing Equipment' }}
+              </a>
+              
+              <!-- 过滤机系列 -->
+              <a :href="currentLang === 'zh' ? '/zh/solutions/filtering/' : '/en/solutions/filtering/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+                {{ currentLang === 'zh' ? '过滤机系列' : 'Filtering Machine Series' }}
+              </a>
+              
+              <!-- 酿酒设备系列 -->
+              <a :href="currentLang === 'zh' ? '/zh/solutions/brewing/' : '/en/solutions/brewing/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+                {{ currentLang === 'zh' ? '酿酒设备系列' : 'Brewing Equipment Series' }}
+              </a>
+              
+              <!-- 奶类加工设备 -->
+              <a :href="currentLang === 'zh' ? '/zh/solutions/dairy-processing/' : '/en/solutions/dairy-processing/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+                {{ currentLang === 'zh' ? '奶类加工设备' : 'Dairy Processing Equipment' }}
               </a>
             </div>
           </div>
@@ -554,7 +614,7 @@
           </div>
         </div>
         
-        <a href="https://www.linkedin.com/newsletters/hydraulic-oil-pressing-machine-7331966128702836736/" target="_blank" rel="noopener noreferrer" class="mobile-social-icon" style="color: #0073B1;">
+        <a href="https0://www.linkedin.com/newsletters/hydraulic-oil-pressing-machine-7331966128702836736/" target="_blank" rel="noopener noreferrer" class="mobile-social-icon" style="color: #0073B1;">
           <svg width="20" height="20" viewBox="0 0 1024 1024" fill="currentColor">
             <path d="M512 1024C229.2224 1024 0 794.7776 0 512 0 229.2224 229.2224 0 512 0c282.7776 0 512 229.2224 512 512 0 282.7776-229.2224 512-512 512z m-137.762133-286.378667V397.380267h-102.4V737.621333h102.4z m-51.2-488.448c-33.024 0-54.5792 22.954667-53.9136 53.589334-0.682667 29.218133 20.8896 52.872533 53.248 52.872533 33.672533 0 55.2448-23.6544 55.2448-52.8896-0.682667-30.6176-21.572267-53.572267-54.5792-53.572267z m133.410133 488.448h102.4V541.405867c0-9.728 1.365333-20.1728 4.061867-26.453334 6.724267-19.456 23.569067-39.645867 51.882666-39.645866 37.034667 0 51.882667 29.917867 51.882667 73.762133V737.621333h102.4V535.842133c0-100.181333-50.517333-146.1248-117.9136-146.1248-54.562133 0-88.251733 32.7168-101.7344 54.272h-2.030933l-4.7104-46.609066h-88.9344c1.348267 29.917867 2.696533 66.0992 2.696533 108.544V737.621333z"/>
           </svg>

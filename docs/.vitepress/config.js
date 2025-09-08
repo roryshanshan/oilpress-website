@@ -36,7 +36,16 @@ export default {
               { text: 'Supporting Equipment', link: '/en/products/supporting' }
             ]
           },
-          { text: 'Solutions', link: '/en/solutions/' },
+          {
+            text: 'Solutions',
+            link: '/en/solutions/',
+            items: [
+              { text: 'Solutions Overview', link: '/en/solutions/' },
+              { text: 'By Oil Type', link: '/en/solutions/seed-oils' },
+              { text: 'By Scale', link: '/en/solutions/small-workshop' },
+              { text: 'Supporting Equipment', link: '/en/solutions/' }
+            ]
+          },
           { text: 'Advantages', link: '/en/advantages/' },
           { text: 'News', link: '/en/news/' },
           { text: 'About Us', link: '/en/about/' },
@@ -231,6 +240,15 @@ export default {
                     { text: '🏢 Large Industrial Solution', link: '/en/solutions/large-industrial' },
                     { text: '🔬 Special Oil Processing Solution', link: '/en/solutions/special-oil' }
                   ]
+                },
+                {
+                  text: 'Supporting Equipment',
+                  collapsed: true,
+                  items: [
+                    { text: 'Filling Equipment Solutions', link: '/en/solutions/filling' },
+                    { text: 'Packaging Equipment Solutions', link: '/en/solutions/packaging' },
+                    { text: 'Testing Equipment Solutions', link: '/en/solutions/testing' }
+                  ]
                 }
               ]
             }
@@ -297,7 +315,16 @@ export default {
               { text: '配套设备', link: '/zh/products/supporting' }
             ]
           },
-          { text: '解决方案', link: '/zh/solutions/' },
+          {
+            text: '解决方案',
+            link: '/zh/solutions/',
+            items: [
+              { text: '方案概览', link: '/zh/solutions/' },
+              { text: '按油料类型', link: '/zh/solutions/seed-oils' },
+              { text: '按规模分类', link: '/zh/solutions/small-workshop' },
+              { text: '灌装配套方案', link: '/zh/solutions/' }
+            ]
+          },
           { text: '公司优势', link: '/zh/advantages/' },
           { text: '新闻资讯', link: '/zh/news/' },
           { text: '关于我们', link: '/zh/about/' },
@@ -384,9 +411,9 @@ export default {
                         { text: '27kw电蒸锅', link: '/zh/products/27kw-electric-steamer' },
                         { text: '亚麻籽菜籽研磨搅拌一体机', link: '/zh/products/Flaxseed-and-rapeseed-grinding-and-stirring-integrated-machine' },
                         { text: '自动滚筒炒锅', link: '/zh/products/automatic-drum-roaster' },
-                        { text: '饼粕包衣机', link: '/zh/products/cake-wrapping-machine' },
+                        { text: '饼粕包饼机', link: '/zh/products/cake-wrapping-machine' },
                         { text: '食用油精炼设备', link: '/zh/products/edible-oil-refining-equipment' },
-                        { text: '喂料破碎煎炸一体机', link: '/zh/products/feeding-crushing-frying-integrated-machine' },
+                        { text: '上料/粉碎/炒制一体机', link: '/zh/products/feeding-crushing-frying-integrated-machine' },
                         { text: '导热油平底煎锅', link: '/zh/products/heat-conducting-oil-flat-bottom-frying-pan' },
                         { text: '气动滤油机', link: '/zh/products/pneumatic-filter-press' },
                         { text: '预榨机', link: '/zh/products/pre-press-machine' },
@@ -475,13 +502,23 @@ export default {
                     }                  ]
                 },
                 {
-                  text: '按规模分类',
+                  text: '灌装配套方案',
                   collapsed: true,
                   items: [
-                    { text: '🏠 小型榨油坊方案', link: '/zh/solutions/small-workshop' },
-                    { text: '🏭 中型油厂方案', link: '/zh/solutions/medium-factory' },
-                    { text: '🏢 大型工业化方案', link: '/zh/solutions/large-industrial' },
-                    { text: '🔬 特种油料加工方案', link: '/zh/solutions/special-oil' }
+                    { text: '冲瓶机系列', link: '/zh/solutions/bottle-washing/' },
+                    { text: '灌装机系列', link: '/zh/solutions/filling/' },
+                    { text: '灯检机系列', link: '/zh/solutions/light-inspection/' },
+                    { text: '封口机系列', link: '/zh/solutions/sealing/' },
+                    { text: '打塞机系列', link: '/zh/solutions/corking/' },
+                    { text: '胶帽热缩机系列', link: '/zh/solutions/cap-shrinking/' },
+                    { text: '吹干机系列', link: '/zh/solutions/drying/' },
+                    { text: '贴标机系列', link: '/zh/solutions/labeling/' },
+                    { text: '激光打码机系列', link: '/zh/solutions/laser-coding/' },
+                    { text: '装箱、码垛', link: '/zh/solutions/packing-palletizing/' },
+                    { text: '蔬果类前期处理设备', link: '/zh/solutions/fruit-veg-processing/' },
+                    { text: '过滤机系列', link: '/zh/solutions/filtering/' },
+                    { text: '酿酒设备系列', link: '/zh/solutions/brewing/' },
+                    { text: '奶类加工设备', link: '/zh/solutions/dairy-processing/' }
                   ]
                 }
               ]
@@ -560,8 +597,9 @@ export default {
             link: '/en/solutions/',
             items: [
               { text: 'Solutions Overview', link: '/en/solutions/' },
-              { text: 'By Oil Type', link: '/en/solutions/by-type' },
-              { text: 'By Scale', link: '/en/solutions/by-scale' }
+              { text: 'By Oil Type', link: '/en/solutions/seed-oils' },
+              { text: 'By Scale', link: '/en/solutions/small-workshop' },
+              { text: 'Filling Supporting Solutions', link: '/en/solutions/' }
             ]
           },
           { text: 'Advantages', link: '/en/advantages/' },
@@ -750,13 +788,23 @@ export default {
                   ]
                 },
                 {
-                  text: 'By Scale',
+                  text: 'Filling supporting solution',
                   collapsed: true,
                   items: [
-                    { text: '🏠 Small Oil Mill Solution', link: '/en/solutions/small-workshop' },
-                    { text: '🏭 Medium Oil Factory Solution', link: '/en/solutions/medium-factory' },
-                    { text: '🏢 Large Industrial Solution', link: '/en/solutions/large-industrial' },
-                    { text: '🔬 Special Oil Processing Solution', link: '/en/solutions/special-oil' }
+                    { text: 'Bottle Washing Machine Series', link: '/en/solutions/bottle-washing/' },
+                    { text: 'Filling Machine Series', link: '/en/solutions/filling/' },
+                    { text: 'Light Inspection Machine Series', link: '/en/solutions/light-inspection/' },
+                    { text: 'Sealing Machine Series', link: '/en/solutions/sealing/' },
+                    { text: 'Corking Machine Series', link: '/en/solutions/corking/' },
+                    { text: 'Cap Shrinking Machine Series', link: '/en/solutions/cap-shrinking/' },
+                    { text: 'Drying Machine Series', link: '/en/solutions/drying/' },
+                    { text: 'Labeling Machine Series', link: '/en/solutions/labeling/' },
+                    { text: 'Laser Coding Machine Series', link: '/en/solutions/laser-coding/' },
+                    { text: 'Packing and Palletizing', link: '/en/solutions/packing-palletizing/' },
+                    { text: 'Fruit and Vegetable Pre-processing Equipment', link: '/en/solutions/fruit-veg-processing/' },
+                    { text: 'Filtering Machine Series', link: '/en/solutions/filtering/' },
+                    { text: 'Brewing Equipment Series', link: '/en/solutions/brewing/' },
+                    { text: 'Dairy Processing Equipment', link: '/en/solutions/dairy-processing/' }
                   ]
                 }
               ]
