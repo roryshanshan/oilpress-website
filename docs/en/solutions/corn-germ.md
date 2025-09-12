@@ -1,8 +1,8 @@
-# Corn Germ (Corn Germ Oil) Solutions
+# Corn Germ (Corn Germ Oil) Solution
 
 ## Overview
 
-Corn germ is an important by-product of corn processing, rich in high-quality oil, and can extract nutritious corn germ oil. Corn germ oil has good nutritional value and stability, widely used in edible oil and food processing. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional corn germ pressing solutions, offering complete equipment and services from small workshops to large factories.
+Corn germ is an important by-product of corn processing, rich in high-quality oil, and can extract nutritious corn germ oil. Corn germ oil has good nutritional value and stability, widely used in edible oil and food processing. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional corn germ pressing solutions, meeting production needs of different scales.
 
 ## Corn Germ Characteristics
 
@@ -20,54 +20,17 @@ Corn germ is an important by-product of corn processing, rich in high-quality oi
 
 ## Processing Technology
 
-### Traditional Process Flow
-```mermaid
-graph TD
-    A[Corn Germ Raw Material] --> B[Cleaning Impurities]
-    B --> C[Moisture Regulation]
-    C --> D[Steaming Roasting]
-    D --> E[Pressing Oil Extraction]
-    E --> F[Filtering Precipitation]
-    F --> G[Corn Germ Meal Drying]
-```
-
-### Modern Process Flow
-```mermaid
-graph TD
-    A[Corn Germ Raw Material] --> B[Intelligent Sorting]
-    B --> C[Moisture Control]
-    C --> D[Mechanical Preprocessing]
-    D --> E[Cooking Softening]
-    E --> F[Pre-pressing]
-    F --> G[Solvent Extraction]
-    G --> H[Oil Refining]
-    H --> I[Meal Processing]
-```
-
-## Equipment Recommendations
-
-### Small Scale Processing (5-10 tons/day)
-- **300/325 Series Special Oil Press**
-- Corn germ preprocessing equipment
-- Simple refining system
-- Investment Cost: 500,000-1,500,000 RMB
-
-### Medium Scale Processing (10-50 tons/day)
-- **355/400 Series Oil Press**
-- Automated preprocessing line
-- Continuous refining equipment
-- Investment Cost: 3-8 million RMB
-
-### Large Scale Processing (50+ tons/day)
-- **425/480 Series Oil Press**
-- Full automatic production line
-- Intelligent management system
-- Investment Cost: 15 million RMB+
+Hot pressing technology for corn germ oil: (Recommended 300AC-390/325AC-390/355AC-390/400AC-390)
+ + Cold pressing process for corn germ oil:
+ + Step 1: Crushing
+ + Step 2: Steaming
+ + Step 3: Pressing
+ + ![Corn Germ Oil](/images/玉米胚芽热榨工艺_Hot%20pressing%20process%20of%20corn%20germ_.png)
 
 ## Technical Advantages
 
 ### 🎯 Precise Control
-- Temperature control: ±2℃ accuracy
+- Temperature control: ±2℃ precision
 - Pressure control: Intelligent adjustment
 - Moisture control: Optimal process parameters
 
@@ -101,9 +64,9 @@ graph TD
 ## Market Analysis
 
 ### 📈 Development Trends
-- By-product utilization demand growth
-- Healthy edible oil market expansion
-- Export trade opportunities increase
+- Growing demand for by-product utilization
+- Expanding healthy edible oil market
+- Increasing export trade opportunities
 
 ### 🎯 Target Markets
 - Edible oil processing enterprises
@@ -111,41 +74,18 @@ graph TD
 - Food processing enterprises
 - Feed processing enterprises
 
-## Success Cases
-
-### Shandong Corn Germ Oil Processing Plant
-- **Equipment Configuration**: 400 Series Oil Press × 6 units
-- **Daily Processing Capacity**: 80 tons corn germ
-- **Oil Yield**: 41%
-- **Annual Production**: 6,000 tons corn germ oil
-- **Market Coverage**: 20 provinces and cities nationwide
-
-### Henan Corn Germ Oil Enterprise
-- **Equipment Configuration**: 355 Series Special Press × 4 units
-- **Daily Processing Capacity**: 30 tons corn germ
-- **Product Quality**: National first-class standards
-- **Brand Building**: Regional well-known brand
-- **Annual Sales**: 50 million RMB
-
-### Jilin Premium Corn Germ Oil Brand
-- **Equipment Configuration**: 325 Series Special Press × 8 units
-- **Daily Processing Capacity**: 20 tons premium corn germ
-- **Product Quality**: Organic food certification
-- **Market Positioning**: Premium organic edible oil
-- **Export Market**: Southeast Asia, Japan
-
 ## Quality Standards
 
 ### 🏆 Product Quality Standards
-- Meets national edible oil standards
-- Meets food safety standards
-- Meets export food standards
-- Meets organic food certification
+- Complies with national edible oil standards
+- Complies with food safety standards
+- Complies with export food standards
+- Complies with organic food certification
 
 ### 🔍 Testing Items
 - Acid value testing
 - Peroxide value testing
-- Color transparency testing
+- Color and transparency testing
 - Heavy metal content testing
 - Aflatoxin testing
 - Pesticide residue testing
@@ -153,8 +93,8 @@ graph TD
 ## Sustainable Development
 
 ### 🌱 Environmental Production
-- Waste recycling utilization
-- Energy saving and emission reduction processes
+- Waste recycling and utilization
+- Energy-saving and emission-reduction processes
 - Green production standards
 
 ### 🔄 Resource Utilization
@@ -171,8 +111,8 @@ graph TD
 
 If you are interested in corn germ pressing solutions, please contact our technical team:
 
-- 📞 **Hotline**: +86 19906365856
+- 📞 **Consultation Hotline**: +86 19906365856
 - 📧 **Email**: sales@oil-pressing-machine.com
-- 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
+- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable corn germ pressing solutions.
+We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable corn germ pressing solution.

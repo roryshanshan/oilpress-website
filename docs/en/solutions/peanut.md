@@ -20,49 +20,16 @@ Peanut is an important oilseed and cash crop, and peanut oil has unique aroma an
 
 ## Processing Technology
 
-### Traditional Process Flow
-```mermaid
-graph TD
-    A[Peanut Raw Material] --> B[Cleaning Impurities]
-    B --> C[Shelling Processing]
-    C --> D[Steaming Roasting]
-    D --> E[Pressing Oil Extraction]
-    E --> F[Filtering Precipitation]
-    F --> G[Peanut Meal Drying]
-```
-
-### Modern Process Flow
-```mermaid
-graph TD
-    A[Peanut Raw Material] --> B[Intelligent Sorting]
-    B --> C[Warm Water Soaking]
-    C --> D[Mechanical Shelling]
-    D --> E[Cooking Softening]
-    E --> F[Pre-pressing]
-    F --> G[Solvent Extraction]
-    G --> H[Oil Refining]
-    H --> I[Meal Processing]
-```
+### Peanut Oil (Aromatic Type) Hot Pressing Process
+- Crush peanuts - flat-bottomed wok frying peanut grits - directly feed into hydraulic oil press bucket for pressing
+- The peanut oil produced by this process has a rich aroma, golden and bright color, good taste, and does not require hydration treatment with no foaming when cooking.
+- Basically no filtration treatment is needed, just sedimentation and bottling. This is the pressing process adopted by COFCO Group's premium peanut oil (the crushing, frying, pressing, and filtration equipment for this project are provided by our factory).
+- ![](/images/花生热榨工艺.png)
 
 ## Equipment Recommendations
 
-### Small Scale Processing (2-10 tons/day)
-- **300/325 Series Special Oil Press**
-- Peanut preprocessing equipment
-- Simple refining system
-- Investment Cost: 500,000-1,500,000 RMB
-
-### Medium Scale Processing (10-50 tons/day)
-- **355/400 Series Oil Press**
-- Automated preprocessing line
-- Continuous refining equipment
-- Investment Cost: 3-8 million RMB
-
-### Large Scale Processing (50+ tons/day)
-- **425/480 Series Oil Press**
-- Full automatic production line
-- Intelligent management system
-- Investment Cost: 15 million RMB+
+### Recommended Equipment
+- **Peanut**: 300AC-390/325AC-390/355AC-390/400AC-390
 
 ## Technical Advantages
 
@@ -111,29 +78,6 @@ graph TD
 - Catering chain enterprises
 - Export trading enterprises
 
-## Success Cases
-
-### Shandong Large Peanut Oil Processing Plant
-- **Equipment Configuration**: 400 Series Oil Press × 6 units
-- **Daily Processing Capacity**: 80 tons peanuts
-- **Oil Yield**: 48.5%
-- **Annual Production**: 8,000 tons peanut oil
-- **Market Coverage**: 15 provinces and cities nationwide
-
-### Henan Professional Peanut Oil Enterprise
-- **Equipment Configuration**: 355 Series Special Press × 4 units
-- **Daily Processing Capacity**: 30 tons peanuts
-- **Product Quality**: National first-class standards
-- **Brand Building**: Regional well-known brand
-- **Annual Sales**: 50 million RMB
-
-### Guangdong Premium Peanut Oil Brand
-- **Equipment Configuration**: 325 Series Special Press × 8 units
-- **Daily Processing Capacity**: 20 tons premium peanuts
-- **Product Quality**: Organic food certification
-- **Market Positioning**: Premium organic edible oil
-- **Export Market**: Southeast Asia, Japan
-
 ## Quality Standards
 
 ### 🏆 Product Quality Standards
@@ -172,7 +116,7 @@ graph TD
 If you are interested in peanut pressing solutions, please contact our technical team:
 
 - 📞 **Hotline**: +86 19906365856
-- 📧 **Email**: sales@oil-pressing-machine.com
+- 📧 **Email**: gavin@oil-pressing-machine.com
 - 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable peanut pressing solutions.

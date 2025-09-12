@@ -16,53 +16,13 @@ Almond is an important oil crop, almond oil has unique nutritional value and app
 - **Growth Cycle**: 3-4 years
 - **Suitable Climate**: Warm, dry areas
 - **Soil Requirements**: Fertile, calcareous soil
-- **Annual Production**: Global annual production exceeds 100 million tons
+- **Annual Production**: Global annual production exceeds 1 million tons
 
 ## Processing Technology
 
-### Traditional Process Flow
-```mermaid
-graph TD
-    A[Almond Raw Material] --> B[Cleaning and Impurity Removal]
-    B --> C[Crushing and Shelling]
-    C --> D[Steaming and Softening]
-    D --> E[Oil Pressing]
-    E --> F[Filtration and Sedimentation]
-    F --> G[Almond Meal Drying]
-```
-
-### Modern Process Flow
-```mermaid
-graph TD
-    A[Almond Raw Material] --> B[Intelligent Sorting]
-    B --> C[Warm Water Soaking]
-    C --> D[Mechanical Shelling]
-    D --> E[Cooking and Softening]
-    E --> F[Pre-pressing Treatment]
-    F --> G[Solvent Extraction]
-    G --> H[Oil Refining]
-    H --> I[Meal Processing]
-```
-
-## Equipment Recommendations
-
-### Small Processing (Daily 2-10 tons)
-- **300/325 Series Special Press**
-- Almond preprocessing equipment
-- Simple refining system
-- Investment cost: 500,000-1,500,000 yuan
-
-### Medium Processing (Daily 10-30 tons)
-- **355/400 Series Press**
-- Automated preprocessing production line
-- Continuous refining equipment
-- Investment cost: 2,000,000-6,000,000 yuan
-
-### Large Processing (Daily 30 tons+)
-- **425/480 Series Press**
-- Fully automatic production line
-- Intelligent management system
-- Investment cost: 10,000,000 yuan+
++ Almond/Badam (Recommended 426AC-390/480AC-390/500AC-390)
+     + Almond oil cold pressing process: After screening, cleaning, and high-speed crushing, directly fed into the hydraulic oil press bucket for pressing
+     + ![Almond](/images/杏仁冷榨工艺概览_An%20Overview%20of%20the%20cold-pressing%20Process%20of%20%20Almond%20kernel.png)
 
 ## Technical Advantages
 
@@ -110,29 +70,6 @@ graph TD
 - Food processing enterprises
 - Beauty and skincare enterprises
 - Export trade enterprises
-
-## Success Cases
-
-### Shandong Large Almond Oil Processing Plant
-- **Equipment Configuration**: 400 series press ×6 units
-- **Daily Processing Capacity**: 50 tons almonds
-- **Oil Yield**: 46%
-- **Annual Production**: 6,000 tons almond oil
-- **Market Coverage**: 20 provinces nationwide
-
-### Henan Professional Almond Oil Enterprise
-- **Equipment Configuration**: 355 series special machine ×4 units
-- **Daily Processing Capacity**: 25 tons almonds
-- **Product Quality**: National first-class standard
-- **Brand Building**: Regional well-known brand
-- **Annual Sales**: 20,000,000 yuan
-
-### Zhejiang High-end Almond Oil Brand
-- **Equipment Configuration**: 325 series special machine ×5 units
-- **Daily Processing Capacity**: 15 tons premium almonds
-- **Product Quality**: Organic food certification
-- **Market Positioning**: High-end organic edible oil
-- **Export Markets**: Europe, USA
 
 ## Quality Standards
 

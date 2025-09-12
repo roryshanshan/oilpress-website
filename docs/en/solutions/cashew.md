@@ -16,53 +16,18 @@ Cashew is an important oil crop, cashew oil has unique nutritional value and app
 - **Growth Cycle**: 2-3 years
 - **Suitable Climate**: Tropical, coastal areas
 - **Soil Requirements**: Sandy, well-drained soil
-- **Annual Production**: Global annual production exceeds 400 million tons
+- **Annual Production**: Global annual production exceeds 4 million tons
 
 ## Processing Technology
 
 ### Traditional Process Flow
-```mermaid
-graph TD
-    A[Cashew Raw Material] --> B[Cleaning and Impurity Removal]
-    B --> C[Crushing and Shelling]
-    C --> D[Steaming and Softening]
-    D --> E[Oil Pressing]
-    E --> F[Filtration and Sedimentation]
-    F --> G[Cashew Meal Drying]
-```
 
-### Modern Process Flow
-```mermaid
-graph TD
-    A[Cashew Raw Material] --> B[Intelligent Sorting]
-    B --> C[Warm Water Soaking]
-    C --> D[Mechanical Shelling]
-    D --> E[Cooking and Softening]
-    E --> F[Pre-pressing Treatment]
-    F --> G[Solvent Extraction]
-    G --> H[Oil Refining]
-    H --> I[Meal Processing]
-```
+Cashew pressing process: (Recommended 426AC-390/480AC-390/500AC-390)
++ Cashew peel hot pressing process: Pressing after steaming
+    + ![Cashew Peel Pressing Process](/images/腰果皮热榨工艺Hot%20pressing%20process%20of%20cashew%20peel.png)
 
-## Equipment Recommendations
-
-### Small Processing (Daily 2-10 tons)
-- **300/325 Series Special Press**
-- Cashew preprocessing equipment
-- Simple refining system
-- Investment cost: 500,000-1,500,000 yuan
-
-### Medium Processing (Daily 10-30 tons)
-- **355/400 Series Press**
-- Automated preprocessing production line
-- Continuous refining equipment
-- Investment cost: 2,000,000-6,000,000 yuan
-
-### Large Processing (Daily 30 tons+)
-- **425/480 Series Press**
-- Fully automatic production line
-- Intelligent management system
-- Investment cost: 10,000,000 yuan+
++ Cashew kernel cold pressing process: Direct pressing
+    + ![Cashew Kernel Cold Pressing Process](/images/腰果仁冷榨工艺_Cold%20pressing%20process%20of%20cashew%20kernels_.png)
 
 ## Technical Advantages
 
@@ -110,29 +75,6 @@ graph TD
 - Food processing enterprises
 - Industrial oil enterprises
 - Export trade enterprises
-
-## Success Cases
-
-### Shandong Large Cashew Oil Processing Plant
-- **Equipment Configuration**: 400 series press ×6 units
-- **Daily Processing Capacity**: 50 tons cashews
-- **Oil Yield**: 42%
-- **Annual Production**: 6,000 tons cashew oil
-- **Market Coverage**: 20 provinces nationwide
-
-### Henan Professional Cashew Oil Enterprise
-- **Equipment Configuration**: 355 series special machine ×4 units
-- **Daily Processing Capacity**: 25 tons cashews
-- **Product Quality**: National first-class standard
-- **Brand Building**: Regional well-known brand
-- **Annual Sales**: 20,000,000 yuan
-
-### Zhejiang High-end Cashew Oil Brand
-- **Equipment Configuration**: 325 series special machine ×5 units
-- **Daily Processing Capacity**: 15 tons premium cashews
-- **Product Quality**: Organic food certification
-- **Market Positioning**: High-end organic edible oil
-- **Export Markets**: Europe, USA
 
 ## Quality Standards
 

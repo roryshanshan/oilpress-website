@@ -1,8 +1,8 @@
-# Castor Seed (Castor Oil) Solutions
+# Castor Seed (Castor Oil) Solution
 
 ## Overview
 
-Castor seed is an important oilseed crop, rich in special oil, and can extract castor oil. Castor oil has unique physicochemical properties, mainly used in industrial fields such as lubricants, coatings, and medicine. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional castor seed pressing solutions, offering complete equipment and services from small workshops to large factories.
+Castor seed is the seed of the castor plant, rich in special oil that can extract castor oil. Castor oil has unique physicochemical properties, mainly used in industrial fields such as lubricants, coatings, and medicine. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional castor seed pressing solutions, meeting production needs of different scales.
 
 ## Castor Seed Characteristics
 
@@ -19,57 +19,19 @@ Castor seed is an important oilseed crop, rich in special oil, and can extract c
 - **Annual Production**: Global castor production about 2 million tons
 
 ## Processing Technology
-
-### Traditional Process Flow
-```mermaid
-graph TD
-    A[Castor Seed Raw Material] --> B[Cleaning Impurities]
-    B --> C[Shelling Processing]
-    C --> D[Steaming Roasting]
-    D --> E[Pressing Oil Extraction]
-    E --> F[Filtering Precipitation]
-    F --> G[Castor Meal Drying]
-```
-
-### Modern Process Flow
-```mermaid
-graph TD
-    A[Castor Seed Raw Material] --> B[Intelligent Sorting]
-    B --> C[Warm Water Soaking]
-    C --> D[Mechanical Shelling]
-    D --> E[Cooking Softening]
-    E --> F[Pre-pressing]
-    F --> G[Solvent Extraction]
-    G --> H[Oil Refining]
-    H --> I[Meal Processing]
-```
-
-## Equipment Recommendations
-
-### Small Scale Processing (2-10 tons/day)
-- **300/325 Series Special Oil Press**
-- Castor seed preprocessing equipment
-- Simple refining system
-- Investment Cost: 500,000-1,500,000 RMB
-
-### Medium Scale Processing (10-50 tons/day)
-- **355/400 Series Oil Press**
-- Automated preprocessing line
-- Continuous refining equipment
-- Investment Cost: 3-8 million RMB
-
-### Large Scale Processing (50+ tons/day)
-- **425/480 Series Oil Press**
-- Full automatic production line
-- Intelligent management system
-- Investment Cost: 15 million RMB+
+Castor seed oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/400AC-390)
+ + Hot pressing process for castor seed oil:
+ + Step 1: Crushing
+ + Step 2: Frying
+ + Step 3: Pressing
+ + ![Castor Seed Oil](/images/蓖麻子热榨工艺_Hot%20pressing%20process%20of%20castor%20seeds_png.png)
 
 ## Technical Advantages
 
 ### 🎯 Precise Control
-- Temperature control: ±2℃ accuracy
+- Temperature control: ±2℃ precision
 - Pressure control: Intelligent adjustment
-- Roasting time: Optimal process parameters
+- Frying time: Optimal process parameters
 
 ### 💧 Oil Quality Guarantee
 - Hot pressing process highlights characteristics
@@ -86,7 +48,7 @@ graph TD
 ### 🏭 Industrial Applications
 - Castor oil: High-quality industrial oil
 - Lubricants: Mechanical lubrication
-- Coatings: Paint production
+- Coating raw materials: Paint production
 
 ### 🥛 By-products
 - Castor meal: High-quality protein feed
@@ -101,9 +63,9 @@ graph TD
 ## Market Analysis
 
 ### 📈 Development Trends
-- Industrial oil demand growth
-- Green industrial raw material expansion
-- Export trade opportunities increase
+- Growing industrial oil demand
+- Expanding green industrial raw materials
+- Increasing export trade opportunities
 
 ### 🎯 Target Markets
 - Industrial oil processing enterprises
@@ -113,21 +75,21 @@ graph TD
 
 ## Success Cases
 
-### India Castor Oil Processing Plant
+### An Indian Castor Oil Processing Plant
 - **Equipment Configuration**: 400 Series Oil Press × 6 units
 - **Daily Processing Capacity**: 80 tons castor seeds
 - **Oil Yield**: 51%
 - **Annual Production**: 8,000 tons castor oil
 - **Market Coverage**: Multiple countries worldwide
 
-### China Castor Oil Enterprise
+### A Chinese Castor Oil Enterprise
 - **Equipment Configuration**: 355 Series Special Press × 4 units
 - **Daily Processing Capacity**: 30 tons castor seeds
 - **Product Quality**: Industrial standards
-- **Brand Building**: International well-known brand
+- **Brand Building**: Internationally renowned brand
 - **Annual Sales**: 60 million RMB
 
-### Brazil Premium Castor Oil Brand
+### A Brazilian Premium Castor Oil Brand
 - **Equipment Configuration**: 325 Series Special Press × 8 units
 - **Daily Processing Capacity**: 20 tons premium castor seeds
 - **Product Quality**: International industrial standards
@@ -137,22 +99,22 @@ graph TD
 ## Quality Standards
 
 ### 🏆 Product Quality Standards
-- Meets industrial oil standards
-- Meets export industrial standards
-- Meets safe transportation standards
+- Complies with industrial oil standards
+- Complies with export industrial standards
+- Complies with safe transportation standards
 
 ### 🔍 Testing Items
 - Acid value testing
 - Viscosity testing
-- Color transparency testing
+- Color and transparency testing
 - Heavy metal content testing
 - Impurity content testing
 
 ## Sustainable Development
 
 ### 🌱 Environmental Production
-- Waste recycling utilization
-- Energy saving and emission reduction processes
+- Waste recycling and utilization
+- Energy-saving and emission-reduction processes
 - Green production standards
 
 ### 🔄 Resource Utilization
@@ -169,8 +131,8 @@ graph TD
 
 If you are interested in castor seed pressing solutions, please contact our technical team:
 
-- 📞 **Hotline**: +86 19906365856
+- 📞 **Consultation Hotline**: +86 19906365856
 - 📧 **Email**: sales@oil-pressing-machine.com
-- 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
+- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable castor seed pressing solutions.
+We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable castor seed pressing solution.

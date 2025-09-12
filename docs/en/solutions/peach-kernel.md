@@ -21,48 +21,11 @@ Peach kernel is an important oil crop, kernel oil has unique nutritional value a
 ## Processing Technology
 
 ### Traditional Process Flow
-```mermaid
-graph TD
-    A[Peach Kernel Raw Material] --> B[Cleaning and Impurity Removal]
-    B --> C[Crushing and Shelling]
-    C --> D[Steaming and Softening]
-    D --> E[Oil Pressing]
-    E --> F[Filtration and Sedimentation]
-    F --> G[Peach Kernel Meal Drying]
-```
-
-### Modern Process Flow
-```mermaid
-graph TD
-    A[Peach Kernel Raw Material] --> B[Intelligent Sorting]
-    B --> C[Warm Water Soaking]
-    C --> D[Mechanical Shelling]
-    D --> E[Cooking and Softening]
-    E --> F[Pre-pressing Treatment]
-    F --> G[Solvent Extraction]
-    G --> H[Oil Refining]
-    H --> I[Meal Processing]
-```
-
-## Equipment Recommendations
-
-### Small Processing (Daily 2-10 tons)
-- **300/325 Series Special Press**
-- Peach kernel preprocessing equipment
-- Simple refining system
-- Investment cost: 500,000-1,500,000 yuan
-
-### Medium Processing (Daily 10-30 tons)
-- **355/400 Series Press**
-- Automated preprocessing production line
-- Continuous refining equipment
-- Investment cost: 2,000,000-6,000,000 yuan
-
-### Large Processing (Daily 30 tons+)
-- **425/480 Series Press**
-- Fully automatic production line
-- Intelligent management system
-- Investment cost: 10,000,000 yuan+
+Peach kernel processing technology: (Recommended 426AC-390/480AC-390/500AC-390)
+ + Peach kernel pressing process:
+    + Step 1: High-speed crushing
+    + Step 2: Hydraulic oil press pressing
+  + ![Peach Kernel Pressing Process](/images/桃仁冷榨工艺概览_An%20Overview%20of%20the%20cold-pressing%20Process%20of%20Peach%20Kernels.png)
 
 ## Technical Advantages
 
@@ -110,29 +73,6 @@ graph TD
 - Food processing enterprises
 - Beauty and skincare enterprises
 - Export trade enterprises
-
-## Success Cases
-
-### Shandong Large Kernel Oil Processing Plant
-- **Equipment Configuration**: 400 series press ×6 units
-- **Daily Processing Capacity**: 50 tons peach kernels
-- **Oil Yield**: 42%
-- **Annual Production**: 6,000 tons kernel oil
-- **Market Coverage**: 20 provinces nationwide
-
-### Henan Professional Kernel Oil Enterprise
-- **Equipment Configuration**: 355 series special machine ×4 units
-- **Daily Processing Capacity**: 25 tons peach kernels
-- **Product Quality**: National first-class standard
-- **Brand Building**: Regional well-known brand
-- **Annual Sales**: 20,000,000 yuan
-
-### Zhejiang High-end Kernel Oil Brand
-- **Equipment Configuration**: 325 series special machine ×5 units
-- **Daily Processing Capacity**: 15 tons premium peach kernels
-- **Product Quality**: Organic food certification
-- **Market Positioning**: High-end organic edible oil
-- **Export Markets**: Europe, USA
 
 ## Quality Standards
 

@@ -20,49 +20,16 @@ Flaxseed is an important oil crop, flaxseed oil has unique nutritional value and
 
 ## Processing Technology
 
-### Traditional Process Flow
-```mermaid
-graph TD
-    A[Flaxseed Raw Material] --> B[Cleaning and Impurity Removal]
-    B --> C[Crushing and Shelling]
-    C --> D[Steaming and Softening]
-    D --> E[Oil Pressing]
-    E --> F[Filtration and Sedimentation]
-    F --> G[Flaxseed Meal Drying]
-```
-
-### Modern Process Flow
-```mermaid
-graph TD
-    A[Flaxseed Raw Material] --> B[Intelligent Sorting]
-    B --> C[Warm Water Soaking]
-    C --> D[Mechanical Shelling]
-    D --> E[Cooking and Softening]
-    E --> F[Pre-pressing Treatment]
-    F --> G[Solvent Extraction]
-    G --> H[Oil Refining]
-    H --> I[Meal Processing]
-```
+### Flaxseed Hot Pressing Process
+- Flaxseed/Linseed hot pressing process: Flaxseeds are heated and fried + ground and fried before being fed into the hydraulic oil press bucket for pressing.
+- ![Flaxseed/Linseed Hot Pressing Process](/images/胡麻_亚麻籽热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressing%20Process%20of%20Flaxseed.png)
+- Flaxseed oil hot pressing process: Flaxseeds are crushed by high-speed pulverizer before being fed into the hydraulic oil press bucket for pressing. Sweet aftertaste, sweet and fragrant taste, the pressed oil does not require hydration treatment and does not foam when cooking.
+- ![Flaxseed Oil Hot Pressing Process](/images/胡麻_亚麻籽冷榨工艺概览_An%20Overview%20of%20the%20Cold%20pressing%20Process%20of%20Flaxseed.png)
 
 ## Equipment Recommendations
 
-### Small Processing (Daily 2-10 tons)
-- **300/325 Series Special Press**
-- Flaxseed preprocessing equipment
-- Simple refining system
-- Investment cost: 500,000-1,500,000 yuan
-
-### Medium Processing (Daily 10-30 tons)
-- **355/400 Series Press**
-- Automated preprocessing production line
-- Continuous refining equipment
-- Investment cost: 2,000,000-6,000,000 yuan
-
-### Large Processing (Daily 30 tons+)
-- **425/480 Series Press**
-- Fully automatic production line
-- Intelligent management system
-- Investment cost: 10,000,000 yuan+
+### Recommended Equipment
+- **Flaxseed**: 300AC-390/325AC-390/355AC-390/400AC-390
 
 ## Technical Advantages
 
@@ -110,29 +77,6 @@ graph TD
 - Food processing enterprises
 - Health product enterprises
 - Export trade enterprises
-
-## Success Cases
-
-### Shandong Large Flaxseed Oil Processing Plant
-- **Equipment Configuration**: 400 series press ×6 units
-- **Daily Processing Capacity**: 50 tons flaxseed
-- **Oil Yield**: 38%
-- **Annual Production**: 6,000 tons flaxseed oil
-- **Market Coverage**: 20 provinces nationwide
-
-### Henan Professional Flaxseed Oil Enterprise
-- **Equipment Configuration**: 355 series special machine ×4 units
-- **Daily Processing Capacity**: 25 tons flaxseed
-- **Product Quality**: National first-class standard
-- **Brand Building**: Regional well-known brand
-- **Annual Sales**: 20,000,000 yuan
-
-### Zhejiang High-end Flaxseed Oil Brand
-- **Equipment Configuration**: 325 series special machine ×5 units
-- **Daily Processing Capacity**: 15 tons premium flaxseed
-- **Product Quality**: Organic food certification
-- **Market Positioning**: High-end organic edible oil
-- **Export Markets**: Europe, USA
 
 ## Quality Standards
 

@@ -20,49 +20,10 @@ Walnut is an important oil crop, walnut oil has unique nutritional value and app
 
 ## Processing Technology
 
-### Traditional Process Flow
-```mermaid
-graph TD
-    A[Walnut Raw Material] --> B[Cleaning and Impurity Removal]
-    B --> C[Crushing and Shelling]
-    C --> D[Steaming and Softening]
-    D --> E[Oil Pressing]
-    E --> F[Filtration and Sedimentation]
-    F --> G[Walnut Meal Drying]
-```
-
-### Modern Process Flow
-```mermaid
-graph TD
-    A[Walnut Raw Material] --> B[Intelligent Sorting]
-    B --> C[Warm Water Soaking]
-    C --> D[Mechanical Shelling]
-    D --> E[Cooking and Softening]
-    E --> F[Pre-pressing Treatment]
-    F --> G[Solvent Extraction]
-    G --> H[Oil Refining]
-    H --> I[Meal Processing]
-```
-
-## Equipment Recommendations
-
-### Small Processing (Daily 2-10 tons)
-- **300/325 Series Special Press**
-- Walnut preprocessing equipment
-- Simple refining system
-- Investment cost: 500,000-1,500,000 yuan
-
-### Medium Processing (Daily 10-30 tons)
-- **355/400 Series Press**
-- Automated preprocessing production line
-- Continuous refining equipment
-- Investment cost: 2,000,000-6,000,000 yuan
-
-### Large Processing (Daily 30 tons+)
-- **425/480 Series Press**
-- Fully automatic production line
-- Intelligent management system
-- Investment cost: 10,000,000 yuan+
++ Walnut (Recommended 426AC-390/480AC-390/500AC-390)
+     + Cold pressing process: Walnuts go through screening, cleaning, and high-speed crushing before being directly fed into the hydraulic oil press bucket for pressing.
+     + The walnut oil produced by this process has golden color and a sweet aftertaste. The pressed oil does not require hydration treatment and does not foam when used in cooking.
+     + ![](/images/核桃冷榨工艺.png)
 
 ## Technical Advantages
 
@@ -110,29 +71,6 @@ graph TD
 - Food processing enterprises
 - Health product enterprises
 - Export trade enterprises
-
-## Success Cases
-
-### Shandong Large Walnut Oil Processing Plant
-- **Equipment Configuration**: 400 series press ×6 units
-- **Daily Processing Capacity**: 50 tons walnuts
-- **Oil Yield**: 62%
-- **Annual Production**: 6,000 tons walnut oil
-- **Market Coverage**: 20 provinces nationwide
-
-### Henan Professional Walnut Oil Enterprise
-- **Equipment Configuration**: 355 series special machine ×4 units
-- **Daily Processing Capacity**: 25 tons walnuts
-- **Product Quality**: National first-class standard
-- **Brand Building**: Regional well-known brand
-- **Annual Sales**: 20,000,000 yuan
-
-### Zhejiang High-end Walnut Oil Brand
-- **Equipment Configuration**: 325 series special machine ×5 units
-- **Daily Processing Capacity**: 15 tons premium walnuts
-- **Product Quality**: Organic food certification
-- **Market Positioning**: High-end organic edible oil
-- **Export Markets**: Europe, USA
 
 ## Quality Standards
 

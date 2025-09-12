@@ -43,7 +43,7 @@ export default {
               { text: 'Solutions Overview', link: '/en/solutions/' },
               { text: 'By Oil Type', link: '/en/solutions/seed-oils' },
               { text: 'By Scale', link: '/en/solutions/small-workshop' },
-              { text: 'Supporting Equipment', link: '/en/solutions/' }
+              { text: 'Filling Supporting Solutions', link: '/en/solutions/filling' }
             ]
           },
           { text: 'Advantages', link: '/en/advantages/' },
@@ -62,68 +62,49 @@ export default {
                   text: '300 Series',
                   collapsed: true,
                   items: [
-                    { text: 'Series Overview', link: '/en/products/300' },
-                    { text: '300 Coconut Oil Press', link: '/en/products/300-coconut' }
+                    { text: 'Series Overview', link: '/en/products/300' }
                   ]
                 },
                 {
                   text: '325 Series',
                   collapsed: true,
                   items: [
-                    { text: 'Series Overview', link: '/en/products/325' },
-                    { text: '325 Double Barrel Oil Press', link: '/en/products/325-double-barrel' },
-                    { text: '325 Extended Double Barrel Oil Press', link: '/en/products/325-extended-double' },
-                    { text: '325 Sesame Oil Press', link: '/en/products/325-sesame' },
-                    { text: '325 Standard Single Barrel Oil Press', link: '/en/products/325-standard' },
-                    { text: '325 Large Cake Oil Press', link: '/en/products/325-large-cake' }
+                    { text: 'Series Overview', link: '/en/products/325' }
                   ]
                 },
                 {
                   text: '355 Series',
                   collapsed: true,
                   items: [
-                    { text: 'Series Overview', link: '/en/products/355' },
-                    { text: '355 Double Barrel Oil Press', link: '/en/products/355-double' }
+                    { text: 'Series Overview', link: '/en/products/355' }
                   ]
                 },
                 {
                   text: '400 Series',
                   collapsed: true,
                   items: [
-                    { text: 'Series Overview', link: '/en/products/400' },
-                    { text: '400 Automatic Oil Press', link: '/en/products/400-auto' },
-                    { text: '400 Smart Oil Press', link: '/en/products/400-smart' }
+                    { text: 'Series Overview', link: '/en/products/400' }
                   ]
                 },
                 {
                   text: '426 Series',
                   collapsed: true,
                   items: [
-                    { text: 'Series Overview', link: '/en/products/426' },
-                    { text: '426 Large Industrial Oil Press', link: '/en/products/426-large' },
-                    { text: '426 Single Barrel Oil Press', link: '/en/products/426-single' },
-                    { text: '426 Standard Oil Press', link: '/en/products/426-standard' }
+                    { text: 'Series Overview', link: '/en/products/426' }
                   ]
                 },
                 {
                   text: '480 Series',
                   collapsed: true,
                   items: [
-                    { text: 'Series Overview', link: '/en/products/480' },
-                    { text: '480 Smart Oil Press', link: '/en/products/480-smart' },
-                    { text: '480 Ultra Oil Press', link: '/en/products/480-ultra' },
-                    { text: '480 X-Large Industrial Oil Press', link: '/en/products/480-xlarge' }
+                    { text: 'Series Overview', link: '/en/products/480' }
                   ]
                 },
                 {
                   text: '500 Series',
                   collapsed: true,
                   items: [
-                    { text: 'Series Overview', link: '/en/products/500' },
-                    { text: '500 Extended Oil Press', link: '/en/products/500-extended' },
-                    { text: '500 Mega Oil Press', link: '/en/products/500-mega' },
-                    { text: '500 X-Large Oil Press', link: '/en/products/500-xlarge' },
-                    { text: '500 XX-Large Industrial Oil Press', link: '/en/products/500-xxlarge' }
+                    { text: 'Series Overview', link: '/en/products/500' }
                   ]
                 },
                 {
@@ -242,12 +223,23 @@ export default {
                   ]
                 },
                 {
-                  text: 'Supporting Equipment',
+                  text: 'Filling Supporting Solutions',
                   collapsed: true,
                   items: [
-                    { text: 'Filling Equipment Solutions', link: '/en/solutions/filling' },
-                    { text: 'Packaging Equipment Solutions', link: '/en/solutions/packaging' },
-                    { text: 'Testing Equipment Solutions', link: '/en/solutions/testing' }
+                    { text: 'Bottle Washing Machine Series', link: '/en/solutions/bottle-washing/' },
+                    { text: 'Filling Machine Series', link: '/en/solutions/filling/' },
+                    { text: 'Light Inspection Machine Series', link: '/en/solutions/light-inspection/' },
+                    { text: 'Sealing Machine Series', link: '/en/solutions/sealing/' },
+                    { text: 'Corking Machine Series', link: '/en/solutions/corking/' },
+                    { text: 'Cap Shrinking Machine Series', link: '/en/solutions/cap-shrinking/' },
+                    { text: 'Drying Machine Series', link: '/en/solutions/drying/' },
+                    { text: 'Labeling Machine Series', link: '/en/solutions/labeling/' },
+                    { text: 'Laser Coding Machine Series', link: '/en/solutions/laser-coding/' },
+                    { text: 'Packing and Palletizing', link: '/en/solutions/packing-palletizing/' },
+                    { text: 'Fruit and Vegetable Pre-processing Equipment', link: '/en/solutions/fruit-veg-processing/' },
+                    { text: 'Filtering Machine Series', link: '/en/solutions/filtering/' },
+                    { text: 'Brewing Equipment Series', link: '/en/solutions/brewing/' },
+                    { text: 'Dairy Processing Equipment', link: '/en/solutions/dairy-processing/' }
                   ]
                 }
               ]
@@ -321,8 +313,8 @@ export default {
             items: [
               { text: '方案概览', link: '/zh/solutions/' },
               { text: '按油料类型', link: '/zh/solutions/seed-oils' },
-              { text: '按规模分类', link: '/zh/solutions/small-workshop' },
-              { text: '灌装配套方案', link: '/zh/solutions/' }
+              { text: '按规模', link: '/zh/solutions/small-workshop' },
+              { text: '灌装配套方案', link: '/zh/solutions/filling' }
             ]
           },
           { text: '公司优势', link: '/zh/advantages/' },
@@ -341,60 +333,49 @@ export default {
                   text: '300系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述', link: '/zh/products/300' },
-                    { text: '300型椰汁压榨机', link: '/zh/products/300-coconut' }
+                    { text: '系列概述', link: '/zh/products/300' }
                   ]
                 },
                 {
                   text: '325系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述', link: '/zh/products/325' },
-                    { text: '325型母子双桶榨油机', link: '/zh/products/325-double-barrel' },
-                    { text: '325型扩展双桶榨油机', link: '/zh/products/325-extended-double' },
-                    { text: '325型芝麻专用榨油机', link: '/zh/products/325-sesame' },
-                    { text: '325型标准单桶榨油机', link: '/zh/products/325-standard' },
-                    { text: '325型特大顶饼榨油机', link: '/zh/products/325-large-cake' }
+                    { text: '系列概述', link: '/zh/products/325' }
                   ]
                 },
                 {
                   text: '355系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述', link: '/zh/products/355' },
-                    { text: '355型扩展双桶榨油机', link: '/zh/products/355-double' }
+                    { text: '系列概述', link: '/zh/products/355' }
                   ]
                 },
                 {
                   text: '400系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述', link: '/zh/products/400' },
-                    { text: '400型工业级榨油机', link: '/zh/products/400-industrial' }
+                    { text: '系列概述', link: '/zh/products/400' }
                   ]
                 },
                 {
                   text: '426系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述', link: '/zh/products/426' },
-                    { text: '426型大型工业榨油机', link: '/zh/products/426-large' }
+                    { text: '系列概述', link: '/zh/products/426' }
                   ]
                 },
                 {
                   text: '480系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述', link: '/zh/products/480' },
-                    { text: '480型超大型工业榨油机', link: '/zh/products/480-xlarge' }
+                    { text: '系列概述', link: '/zh/products/480' }
                   ]
                 },
                 {
                   text: '500系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述', link: '/zh/products/500' },
-                    { text: '500型特大型工业榨油机', link: '/zh/products/500-xxlarge' }
+                    { text: '系列概述', link: '/zh/products/500' }
                   ]
                 },
                 {
@@ -599,7 +580,7 @@ export default {
               { text: 'Solutions Overview', link: '/en/solutions/' },
               { text: 'By Oil Type', link: '/en/solutions/seed-oils' },
               { text: 'By Scale', link: '/en/solutions/small-workshop' },
-              { text: 'Filling Supporting Solutions', link: '/en/solutions/' }
+              { text: 'Filling Supporting Solutions', link: '/en/solutions/filling' }
             ]
           },
           { text: 'Advantages', link: '/en/advantages/' },
@@ -618,68 +599,49 @@ export default {
                   text: '300 Series',
                   collapsed: true,
                   items: [
-                    { text: 'Series Overview', link: '/en/products/300' },
-                    { text: '300 Coconut Oil Press', link: '/en/products/300-coconut' }
+                    { text: 'Series Overview', link: '/en/products/300' }
                   ]
                 },
                 {
                   text: '325 Series',
                   collapsed: true,
                   items: [
-                    { text: 'Series Overview', link: '/en/products/325' },
-                    { text: '325 Double Barrel Oil Press', link: '/en/products/325-double-barrel' },
-                    { text: '325 Extended Double Barrel Oil Press', link: '/en/products/325-extended-double' },
-                    { text: '325 Sesame Oil Press', link: '/en/products/325-sesame' },
-                    { text: '325 Standard Single Barrel Oil Press', link: '/en/products/325-standard' },
-                    { text: '325 Large Cake Oil Press', link: '/en/products/325-large-cake' }
+                    { text: 'Series Overview', link: '/en/products/325' }
                   ]
                 },
                 {
                   text: '355 Series',
                   collapsed: true,
                   items: [
-                    { text: 'Series Overview', link: '/en/products/355' },
-                    { text: '355 Double Barrel Oil Press', link: '/en/products/355-double' }
+                    { text: 'Series Overview', link: '/en/products/355' }
                   ]
                 },
                 {
                   text: '400 Series',
                   collapsed: true,
                   items: [
-                    { text: 'Series Overview', link: '/en/products/400' },
-                    { text: '400 Automatic Oil Press', link: '/en/products/400-auto' },
-                    { text: '400 Smart Oil Press', link: '/en/products/400-smart' }
+                    { text: 'Series Overview', link: '/en/products/400' }
                   ]
                 },
                 {
                   text: '426 Series',
                   collapsed: true,
                   items: [
-                    { text: 'Series Overview', link: '/en/products/426' },
-                    { text: '426 Large Industrial Oil Press', link: '/en/products/426-large' },
-                    { text: '426 Single Barrel Oil Press', link: '/en/products/426-single' },
-                    { text: '426 Standard Oil Press', link: '/en/products/426-standard' }
+                    { text: 'Series Overview', link: '/en/products/426' }
                   ]
                 },
                 {
                   text: '480 Series',
                   collapsed: true,
                   items: [
-                    { text: 'Series Overview', link: '/en/products/480' },
-                    { text: '480 Smart Oil Press', link: '/en/products/480-smart' },
-                    { text: '480 Ultra Oil Press', link: '/en/products/480-ultra' },
-                    { text: '480 X-Large Industrial Oil Press', link: '/en/products/480-xlarge' }
+                    { text: 'Series Overview', link: '/en/products/480' }
                   ]
                 },
                 {
                   text: '500 Series',
                   collapsed: true,
                   items: [
-                    { text: 'Series Overview', link: '/en/products/500' },
-                    { text: '500 Extended Oil Press', link: '/en/products/500-extended' },
-                    { text: '500 Mega Oil Press', link: '/en/products/500-mega' },
-                    { text: '500 X-Large Oil Press', link: '/en/products/500-xlarge' },
-                    { text: '500 XX-Large Industrial Oil Press', link: '/en/products/500-xxlarge' }
+                    { text: 'Series Overview', link: '/en/products/500' }
                   ]
                 },
                 {

@@ -20,49 +20,7 @@ Watermelon seed is an important oil crop, watermelon seed oil has unique nutriti
 
 ## Processing Technology
 
-### Traditional Process Flow
-```mermaid
-graph TD
-    A[Watermelon Seed Raw Material] --> B[Cleaning and Impurity Removal]
-    B --> C[Crushing and Shelling]
-    C --> D[Steaming and Softening]
-    D --> E[Oil Pressing]
-    E --> F[Filtration and Sedimentation]
-    F --> G[Watermelon Seed Meal Drying]
-```
-
-### Modern Process Flow
-```mermaid
-graph TD
-    A[Watermelon Seed Raw Material] --> B[Intelligent Sorting]
-    B --> C[Warm Water Soaking]
-    C --> D[Mechanical Shelling]
-    D --> E[Cooking and Softening]
-    E --> F[Pre-pressing Treatment]
-    F --> G[Solvent Extraction]
-    G --> H[Oil Refining]
-    H --> I[Meal Processing]
-```
-
-## Equipment Recommendations
-
-### Small Processing (Daily 2-10 tons)
-- **300/325 Series Special Press**
-- Watermelon seed preprocessing equipment
-- Simple refining system
-- Investment cost: 500,000-1,500,000 yuan
-
-### Medium Processing (Daily 10-30 tons)
-- **355/400 Series Press**
-- Automated preprocessing production line
-- Continuous refining equipment
-- Investment cost: 2,000,000-6,000,000 yuan
-
-### Large Processing (Daily 30 tons+)
-- **425/480 Series Press**
-- Fully automatic production line
-- Intelligent management system
-- Investment cost: 10,000,000 yuan+
+To be supplemented
 
 ## Technical Advantages
 
@@ -110,29 +68,6 @@ graph TD
 - Food processing enterprises
 - Health product enterprises
 - Export trade enterprises
-
-## Success Cases
-
-### Shandong Large Watermelon Seed Oil Processing Plant
-- **Equipment Configuration**: 400 series press ×6 units
-- **Daily Processing Capacity**: 50 tons watermelon seeds
-- **Oil Yield**: 42%
-- **Annual Production**: 6,000 tons watermelon seed oil
-- **Market Coverage**: 20 provinces nationwide
-
-### Henan Professional Watermelon Seed Oil Enterprise
-- **Equipment Configuration**: 355 series special machine ×4 units
-- **Daily Processing Capacity**: 25 tons watermelon seeds
-- **Product Quality**: National first-class standard
-- **Brand Building**: Regional well-known brand
-- **Annual Sales**: 20,000,000 yuan
-
-### Zhejiang High-end Watermelon Seed Oil Brand
-- **Equipment Configuration**: 325 series special machine ×5 units
-- **Daily Processing Capacity**: 15 tons premium watermelon seeds
-- **Product Quality**: Organic food certification
-- **Market Positioning**: High-end organic edible oil
-- **Export Markets**: Europe, USA
 
 ## Quality Standards
 

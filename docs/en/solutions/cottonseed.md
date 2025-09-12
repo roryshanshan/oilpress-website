@@ -21,48 +21,16 @@ Cottonseed is an important oilseed crop, and cottonseed oil has extensive indust
 ## Processing Technology
 
 ### Traditional Process Flow
-```mermaid
-graph TD
-    A[Cottonseed Raw Material] --> B[Cleaning Impurities]
-    B --> C[Crushing Shelling]
-    C --> D[Steaming Roasting]
-    D --> E[Pressing Oil Extraction]
-    E --> F[Filtering Precipitation]
-    F --> G[Cottonseed Meal Drying]
-```
-
-### Modern Process Flow
-```mermaid
-graph TD
-    A[Cottonseed Raw Material] --> B[Intelligent Sorting]
-    B --> C[Warm Water Soaking]
-    C --> D[Mechanical Shelling]
-    D --> E[Cooking Softening]
-    E --> F[Pre-pressing]
-    F --> G[Solvent Extraction]
-    G --> H[Oil Refining]
-    H --> I[Meal Processing]
-```
+Cottonseed processing technology (recommended 300AC-390/325AC-390/355AC-390/400AC-390)
++ Step 1: Steaming
++ Step 2: Grinding + stirring
++ Step 3: Pressing
++ ![Cottonseed processing technology](/images/棉籽热榨工艺.png)
 
 ## Equipment Recommendations
 
-### Small Scale Processing (5-15 tons/day)
-- **355/400 Series Oil Press**
-- Cottonseed preprocessing line
-- Simple refining equipment
-- Investment Cost: 1.5-3.5 million RMB
-
-### Medium Scale Processing (15-40 tons/day)
-- **425/480 Series Oil Press**
-- Complete preprocessing line
-- Continuous refining equipment
-- Investment Cost: 6-12 million RMB
-
-### Large Scale Processing (40+ tons/day)
-- **500 Series Large Oil Press**
-- Full automatic production line
-- Intelligent management system
-- Investment Cost: 18 million RMB+
+### Recommended Equipment
+- **Cottonseed**: 300AC-390/325AC-390/355AC-390/400AC-390
 
 ## Technical Advantages
 
@@ -110,29 +78,6 @@ graph TD
 - Feed processing enterprises
 - Chemical raw material enterprises
 - Biodiesel production enterprises
-
-## Success Cases
-
-### Shandong Large Cottonseed Oil Processing Plant
-- **Equipment Configuration**: 480 Series Oil Press × 8 units
-- **Daily Processing Capacity**: 100 tons cottonseed
-- **Oil Yield**: 40%
-- **Annual Production**: 12,000 tons cottonseed oil
-- **Market Coverage**: 20 provinces and cities nationwide
-
-### Henan Modern Cottonseed Oil Enterprise
-- **Equipment Configuration**: 500 Series Oil Press × 6 units
-- **Daily Processing Capacity**: 80 tons cottonseed
-- **Product Quality**: Meets national first-class standards
-- **By-product Utilization**: 80,000 tons cottonseed meal annual production
-- **Economic Benefits**: 200 million RMB annual sales
-
-### Xinjiang Cottonseed Oil Processing Enterprise
-- **Equipment Configuration**: 400 Series Special Press × 5 units
-- **Daily Processing Capacity**: 50 tons cottonseed
-- **Product Quality**: Organic food certification
-- **Brand Positioning**: Premium edible cottonseed oil
-- **Market Positioning**: Northwest regional market
 
 ## Quality Standards
 

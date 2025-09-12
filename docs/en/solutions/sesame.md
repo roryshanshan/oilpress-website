@@ -20,48 +20,15 @@ Sesame is an important oilseed crop, and sesame oil has unique aroma and rich nu
 
 ## Processing Technology
 
-### Traditional Process Flow
-```mermaid
-graph TD
-    A[Sesame Raw Material] --> B[Cleaning Impurities]
-    B --> C[Warm Water Soaking]
-    C --> D[Roasting Processing]
-    D --> E[Pressing Oil Extraction]
-    E --> F[Filtering Precipitation]
-    F --> G[Sesame Meal Drying]
-```
-
-### Modern Process Flow
-```mermaid
-graph TD
-    A[Sesame Raw Material] --> B[Intelligent Sorting]
-    B --> C[Preprocessing Cleaning]
-    C --> D[Low-temperature Roasting]
-    D --> E[Continuous Pressing]
-    E --> F[Centrifugal Separation]
-    F --> G[Refining Processing]
-    G --> H[Packaging Storage]
-```
+### Sesame Oil Hot Pressing Process
+- Roll-type wok roasting sesame then directly feeding into hydraulic oil press bucket for pressing. The sesame oil produced by this process has a rich aroma, sweet aftertaste, and does not require hydration treatment with no foaming when cooking.
+- Basically no filtration treatment is needed, just sedimentation and bottling.
+- ![](/images/芝麻热榨工艺.png)
 
 ## Equipment Recommendations
 
-### Small Scale Processing (1-5 tons/day)
-- **300/325 Series Special Oil Press**
-- Sesame roasting equipment
-- Simple refining system
-- Investment Cost: 300,000-800,000 RMB
-
-### Medium Scale Processing (5-20 tons/day)
-- **355/400 Series Oil Press**
-- Automated roasting production line
-- Continuous refining equipment
-- Investment Cost: 1,500,000-4,000,000 RMB
-
-### Large Scale Processing (20+ tons/day)
-- **425/480 Series Oil Press**
-- Full automatic production line
-- Intelligent management system
-- Investment Cost: 8,000,000 RMB+
+### Recommended Equipment
+- **Sesame**: 300AC-390/325AC-390/355AC-390/400AC-390
 
 ## Technical Advantages
 

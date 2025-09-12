@@ -16,69 +16,10 @@ Avocado is an important oil crop, avocado oil has unique nutritional value and a
 - **Growth Cycle**: 4-6 years
 - **Suitable Climate**: Subtropical, warm areas
 - **Soil Requirements**: Fertile, well-drained soil
-- **Annual Production**: Global annual production exceeds 500 million tons
+- **Annual Production**: Global annual production exceeds 5 million tons
 
 ## Processing Technology
-
-### Traditional Process Flow
-```mermaid
-graph TD
-    A[Avocado Raw Material] --> B[Cleaning and Impurity Removal]
-    B --> C[Flesh Separation]
-    C --> D[Drying Treatment]
-    D --> E[Oil Pressing]
-    E --> F[Filtration and Sedimentation]
-    F --> G[Avocado Meal Drying]
-```
-
-### Modern Process Flow
-```mermaid
-graph TD
-    A[Avocado Raw Material] --> B[Intelligent Sorting]
-    B --> C[Flesh Extraction]
-    C --> D[Low-temperature Drying]
-    D --> E[Cold Pressing Treatment]
-    E --> F[Centrifugal Separation]
-    F --> G[Refining Treatment]
-    G --> H[Packaging and Storage]
-```
-
-## Equipment Recommendations
-
-### Small Processing (Daily 2-10 tons)
-- **300/325 Series Special Press**
-- Avocado preprocessing equipment
-- Simple refining system
-- Investment cost: 500,000-1,500,000 yuan
-
-### Medium Processing (Daily 10-30 tons)
-- **355/400 Series Press**
-- Automated preprocessing production line
-- Continuous refining equipment
-- Investment cost: 2,000,000-6,000,000 yuan
-
-### Large Processing (Daily 30 tons+)
-- **425/480 Series Press**
-- Fully automatic production line
-- Intelligent management system
-- Investment cost: 10,000,000 yuan+
-
-## Technical Advantages
-
-### 🎯 Precise Control
-- Temperature control: ±2℃ precision
-- Pressure control: Intelligent adjustment
-- Humidity control: Optimal moisture content
-
-### 💧 Oil Quality Guarantee
-- Low-temperature process preserves nutrition
-- Physical pressing without chemical residues
-- Oil yield up to 16-22%
-
-### 🔄 Continuous Production
-- 24-hour uninterrupted operation
-- Automated feeding and discharging
-- Intelligent fault alarm
+To be supplemented
 
 ## Product Applications
 
@@ -109,29 +50,6 @@ graph TD
 - Food processing enterprises
 - Beauty and skincare enterprises
 - Export trade enterprises
-
-## Success Cases
-
-### Shandong Large Avocado Oil Processing Plant
-- **Equipment Configuration**: 400 series press ×6 units
-- **Daily Processing Capacity**: 50 tons avocados
-- **Oil Yield**: 16%
-- **Annual Production**: 6,000 tons avocado oil
-- **Market Coverage**: 20 provinces nationwide
-
-### Henan Professional Avocado Oil Enterprise
-- **Equipment Configuration**: 355 series special machine ×4 units
-- **Daily Processing Capacity**: 25 tons avocados
-- **Product Quality**: National first-class standard
-- **Brand Building**: Regional well-known brand
-- **Annual Sales**: 20,000,000 yuan
-
-### Zhejiang High-end Avocado Oil Brand
-- **Equipment Configuration**: 325 series special machine ×5 units
-- **Daily Processing Capacity**: 15 tons premium avocados
-- **Product Quality**: Organic food certification
-- **Market Positioning**: High-end organic edible oil
-- **Export Markets**: Europe, USA
 
 ## Quality Standards
 

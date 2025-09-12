@@ -89,200 +89,100 @@
             <a :href="currentLang === 'zh' ? '/zh/products/300' : '/en/products/300'" class="mobile-nav-sublink" @click="closeMobileMenu">
               {{ currentLang === 'zh' ? '300系列' : '300 Series' }}
             </a>
-            <!-- 为300系列添加子菜单 -->
-            <div class="mobile-nav-subitem">
-              <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('series-300')">
-                <span>{{ currentLang === 'zh' ? '↳ 300系列详情' : '↳ 300 Series Details' }}</span>
-                <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['series-300'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                  <polyline points="6,9 12,15 18,9"></polyline>
-                </svg>
-              </div>
-              <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['series-300']">
-                <a :href="currentLang === 'zh' ? '/zh/products/300-coconut' : '/en/products/300-coconut'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '300型椰汁压榨机' : '300 Coconut Oil Press' }}
-                </a>
-              </div>
-            </div>
             <a :href="currentLang === 'zh' ? '/zh/products/325' : '/en/products/325'" class="mobile-nav-sublink" @click="closeMobileMenu">
               {{ currentLang === 'zh' ? '325系列' : '325 Series' }}
             </a>
-            <!-- 为325系列添加子菜单 -->
-            <div class="mobile-nav-subitem">
-              <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('series-325')">
-                <span>{{ currentLang === 'zh' ? '↳ 325系列详情' : '↳ 325 Series Details' }}</span>
-                <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['series-325'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                  <polyline points="6,9 12,15 18,9"></polyline>
-                </svg>
-              </div>
-              <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['series-325']">
-                <a :href="currentLang === 'zh' ? '/zh/products/325-double-barrel' : '/en/products/325-double-barrel'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '325型母子双桶榨油机' : '325 Double Barrel Oil Press' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/325-extended-double' : '/en/products/325-extended-double'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '325型扩展双桶榨油机' : '325 Extended Double Barrel Oil Press' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/325-sesame' : '/en/products/325-sesame'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '325型芝麻专用榨油机' : '325 Sesame Oil Press' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/325-standard' : '/en/products/325-standard'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '325型标准单桶榨油机' : '325 Standard Single Barrel Oil Press' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/325-large-cake' : '/en/products/325-large-cake'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '325型特大顶饼榨油机' : '325 Large Cake Oil Press' }}
-                </a>
-              </div>
-            </div>
             <a :href="currentLang === 'zh' ? '/zh/products/355' : '/en/products/355'" class="mobile-nav-sublink" @click="closeMobileMenu">
               {{ currentLang === 'zh' ? '355系列' : '355 Series' }}
             </a>
-            <!-- 为355系列添加子菜单 -->
-            <div class="mobile-nav-subitem">
-              <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('series-355')">
-                <span>{{ currentLang === 'zh' ? '↳ 355系列详情' : '↳ 355 Series Details' }}</span>
-                <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['series-355'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                  <polyline points="6,9 12,15 18,9"></polyline>
-                </svg>
-              </div>
-              <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['series-355']">
-                <a :href="currentLang === 'zh' ? '/zh/products/355-double' : '/en/products/355-double'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '355型扩展双桶榨油机' : '355 Double Barrel Oil Press' }}
-                </a>
-              </div>
-            </div>
             <a :href="currentLang === 'zh' ? '/zh/products/400' : '/en/products/400'" class="mobile-nav-sublink" @click="closeMobileMenu">
               {{ currentLang === 'zh' ? '400系列' : '400 Series' }}
             </a>
-            <!-- 为400系列添加子菜单 -->
-            <div class="mobile-nav-subitem">
-              <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('series-400')">
-                <span>{{ currentLang === 'zh' ? '↳ 400系列详情' : '↳ 400 Series Details' }}</span>
-                <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['series-400'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                  <polyline points="6,9 12,15 18,9"></polyline>
-                </svg>
-              </div>
-              <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['series-400']">
-                <a :href="currentLang === 'zh' ? '/zh/products/400-auto' : '/en/products/400-auto'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '400型全自动榨油机' : '400 Automatic Oil Press' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/400-smart' : '/en/products/400-smart'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '400型智能榨油机' : '400 Smart Oil Press' }}
-                </a>
-              </div>
-            </div>
             <a :href="currentLang === 'zh' ? '/zh/products/426' : '/en/products/426'" class="mobile-nav-sublink" @click="closeMobileMenu">
               {{ currentLang === 'zh' ? '426系列' : '426 Series' }}
             </a>
-            <!-- 为426系列添加子菜单 -->
-            <div class="mobile-nav-subitem">
-              <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('series-426')">
-                <span>{{ currentLang === 'zh' ? '↳ 426系列详情' : '↳ 426 Series Details' }}</span>
-                <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['series-426'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                  <polyline points="6,9 12,15 18,9"></polyline>
-                </svg>
-              </div>
-              <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['series-426']">
-                <a :href="currentLang === 'zh' ? '/zh/products/426-large' : '/en/products/426-large'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '426型大型工业榨油机' : '426 Large Industrial Oil Press' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/426-single' : '/en/products/426-single'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '426型单桶榨油机' : '426 Single Barrel Oil Press' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/426-standard' : '/en/products/426-standard'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '426型标准榨油机' : '426 Standard Oil Press' }}
-                </a>
-              </div>
-            </div>
             <a :href="currentLang === 'zh' ? '/zh/products/480' : '/en/products/480'" class="mobile-nav-sublink" @click="closeMobileMenu">
               {{ currentLang === 'zh' ? '480系列' : '480 Series' }}
             </a>
-            <!-- 为480系列添加子菜单 -->
-            <div class="mobile-nav-subitem">
-              <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('series-480')">
-                <span>{{ currentLang === 'zh' ? '↳ 480系列详情' : '↳ 480 Series Details' }}</span>
-                <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['series-480'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                  <polyline points="6,9 12,15 18,9"></polyline>
-                </svg>
-              </div>
-              <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['series-480']">
-                <a :href="currentLang === 'zh' ? '/zh/products/480-smart' : '/en/products/480-smart'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '480型智能榨油机' : '480 Smart Oil Press' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/480-ultra' : '/en/products/480-ultra'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '480型超大型榨油机' : '480 Ultra Oil Press' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/480-xlarge' : '/en/products/480-xlarge'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '480型特大型榨油机' : '480 X-Large Industrial Oil Press' }}
-                </a>
-              </div>
-            </div>
             <a :href="currentLang === 'zh' ? '/zh/products/500' : '/en/products/500'" class="mobile-nav-sublink" @click="closeMobileMenu">
               {{ currentLang === 'zh' ? '500系列' : '500 Series' }}
             </a>
-            <!-- 为500系列添加子菜单 -->
-            <div class="mobile-nav-subitem">
-              <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('series-500')">
-                <span>{{ currentLang === 'zh' ? '↳ 500系列详情' : '↳ 500 Series Details' }}</span>
-                <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['series-500'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                  <polyline points="6,9 12,15 18,9"></polyline>
-                </svg>
-              </div>
-              <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['series-500']">
-                <a :href="currentLang === 'zh' ? '/zh/products/500-extended' : '/en/products/500-extended'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '500型扩展榨油机' : '500 Extended Oil Press' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/500-mega' : '/en/products/500-mega'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '500型特大型榨油机' : '500 Mega Oil Press' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/500-xlarge' : '/en/products/500-xlarge'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '500型大型榨油机' : '500 X-Large Oil Press' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/500-xxlarge' : '/en/products/500-xxlarge'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '500型特大型工业榨油机' : '500 XX-Large Industrial Oil Press' }}
-                </a>
-              </div>
-            </div>
-            <a :href="currentLang === 'zh' ? '/zh/products/supporting' : '/en/products/supporting'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '配套设备' : 'Supporting Equipment' }}
-            </a>
-            <!-- 为配套设备添加子菜单 -->
             <div class="mobile-nav-subitem">
               <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('supporting')">
-                <span>{{ currentLang === 'zh' ? '↳ 配套设备详情' : '↳ Supporting Equipment Details' }}</span>
+                <span>{{ currentLang === 'zh' ? '↳ 配套设备详情' : 'Supporting Equipment Details' }}</span>
                 <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus.supporting }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                   <polyline points="6,9 12,15 18,9"></polyline>
                 </svg>
               </div>
               <div class="mobile-nested-submenu" v-show="nestedExpandedMenus.supporting">
-                <a :href="currentLang === 'zh' ? '/zh/products/pre-treatment' : '/en/products/pre-treatment'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '预处理设备' : 'Pre-treatment Equipment' }}
+                <a :href="currentLang === 'zh' ? '/zh/products/supporting' : '/en/products/supporting'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '配套设备概览' : 'Supporting Equipment Overview' }}
                 </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/post-treatment' : '/en/products/post-treatment'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '后处理设备' : 'Post-treatment Equipment' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/11kw-high-speed-pulverizer' : '/en/products/11kw-high-speed-pulverizer'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '11kw高速粉碎机' : '11kw High Speed Pulverizer' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/27kw-electric-steamer' : '/en/products/27kw-electric-steamer'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '27kw电蒸锅' : '27kw Electric Steamer' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/automatic-drum-roaster' : '/en/products/automatic-drum-roaster'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '自动滚筒炒锅' : 'Automatic Drum Roaster' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/cake-wrapping-machine' : '/en/products/cake-wrapping-machine'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '饼粕包饼机' : 'Cake Wrapping Machine' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/edible-oil-refining-equipment' : '/en/products/edible-oil-refining-equipment'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '食用油精炼设备' : 'Edible Oil Refining Equipment' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/pneumatic-filter-press' : '/en/products/pneumatic-filter-press'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '气动滤油机' : 'Pneumatic Filter Press' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/pre-press-machine' : '/en/products/pre-press-machine'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '预榨机' : 'Pre-Press Machine' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/products/cake-pulverizer' : '/en/products/cake-pulverizer'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '饼粕粉碎机' : 'Cake Pulverizer' }}
-                </a>
+                <div class="mobile-nav-subitem">
+                  <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('pre-treatment')">
+                    <span>{{ currentLang === 'zh' ? '↳ 预处理设备详情' : 'Pre-treatment Equipment Details' }}</span>
+                    <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['pre-treatment'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                      <polyline points="6,9 12,15 18,9"></polyline>
+                    </svg>
+                  </div>
+                  <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['pre-treatment']">
+                    <a :href="currentLang === 'zh' ? '/zh/products/pre-treatment' : '/en/products/pre-treatment'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '概述' : 'Overview' }}
+                    </a>
+                    <a :href="currentLang === 'zh' ? '/zh/products/11kw-high-speed-pulverizer' : '/en/products/11kw-high-speed-pulverizer'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '11kw高速粉碎机' : '11kw High Speed Pulverizer' }}
+                    </a>
+                    <a :href="currentLang === 'zh' ? '/zh/products/27kw-electric-steamer' : '/en/products/27kw-electric-steamer'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '27kw电蒸锅' : '27kw Electric Steamer' }}
+                    </a>
+                    <a :href="currentLang === 'zh' ? '/zh/products/Flaxseed-and-rapeseed-grinding-and-stirring-integrated-machine' : '/en/products/Flaxseed-and-rapeseed-grinding-and-stirring-integrated-machine'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '亚麻籽菜籽研磨搅拌一体机' : 'Flaxseed and Rapeseed Grinding and Stirring Integrated Machine' }}
+                    </a>
+                    <a :href="currentLang === 'zh' ? '/zh/products/automatic-drum-roaster' : '/en/products/automatic-drum-roaster'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '自动滚筒炒锅' : 'Automatic Drum Roaster' }}
+                    </a>
+                    <a :href="currentLang === 'zh' ? '/zh/products/cake-wrapping-machine' : '/en/products/cake-wrapping-machine'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '饼粕包饼机' : 'Cake Wrapping Machine' }}
+                    </a>
+                    <a :href="currentLang === 'zh' ? '/zh/products/edible-oil-refining-equipment' : '/en/products/edible-oil-refining-equipment'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '食用油精炼设备' : 'Edible Oil Refining Equipment' }}
+                    </a>
+                    <a :href="currentLang === 'zh' ? '/zh/products/feeding-crushing-frying-integrated-machine' : '/en/products/feeding-crushing-frying-integrated-machine'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '上料/粉碎/炒制一体机' : 'Feeding Crushing Frying Integrated Machine' }}
+                    </a>
+                    <a :href="currentLang === 'zh' ? '/zh/products/heat-conducting-oil-flat-bottom-frying-pan' : '/en/products/heat-conducting-oil-flat-bottom-frying-pan'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '导热油平底煎锅' : 'Heat Conducting Oil Flat Bottom Frying Pan' }}
+                    </a>
+                    <a :href="currentLang === 'zh' ? '/zh/products/pneumatic-filter-press' : '/en/products/pneumatic-filter-press'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '气动滤油机' : 'Pneumatic Filter Press' }}
+                    </a>
+                    <a :href="currentLang === 'zh' ? '/zh/products/pre-press-machine' : '/en/products/pre-press-machine'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '预榨机' : 'Pre-Press Machine' }}
+                    </a>
+                    <a :href="currentLang === 'zh' ? '/zh/products/wood-fired-steamer' : '/en/products/wood-fired-steamer'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '燃木蒸锅' : 'Wood Fired Steamer' }}
+                    </a>
+                    <a :href="currentLang === 'zh' ? '/zh/products/wood-fired-thermal-oil-flat-bottom-wok' : '/en/products/wood-fired-thermal-oil-flat-bottom-wok'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '燃木导热油平底锅' : 'Wood Fired Thermal Oil Flat Bottom Wok' }}
+                    </a>
+                  </div>
+                </div>
+                <div class="mobile-nav-subitem">
+                  <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('post-treatment')">
+                    <span>{{ currentLang === 'zh' ? '↳ 后处理设备详情' : 'Post-treatment Equipment Details' }}</span>
+                    <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['post-treatment'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                      <polyline points="6,9 12,15 18,9"></polyline>
+                    </svg>
+                  </div>
+                  <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['post-treatment']">
+                    <a :href="currentLang === 'zh' ? '/zh/products/post-treatment' : '/en/products/post-treatment'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '概述' : 'Overview' }}
+                    </a>
+                    <a :href="currentLang === 'zh' ? '/zh/products/cake-pulverizer' : '/en/products/cake-pulverizer'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '饼粕粉碎机' : 'Cake Pulverizer' }}
+                    </a>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -300,212 +200,107 @@
             <a :href="currentLang === 'zh' ? '/zh/solutions/' : '/en/solutions/'" class="mobile-nav-sublink" @click="closeMobileMenu">
               {{ currentLang === 'zh' ? '方案概览' : 'Overview' }}
             </a>
-            <div class="mobile-submenu-group">
-              <div class="mobile-submenu-title">{{ currentLang === 'zh' ? '按油料类型' : 'By Oil Material Type' }}</div>
-
-              <!-- 粮油类（种子类） -->
-              <div class="mobile-nav-subitem">
-                <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('seed-oils')">
-                  <span>{{ currentLang === 'zh' ? '🌾 粮油类（种子类）' : '🌾 Seed Oils' }}</span>
-                  <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['seed-oils'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                    <polyline points="6,9 12,15 18,9"></polyline>
-                  </svg>
-                </div>
-                <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['seed-oils']">
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/soybean' : '/en/solutions/soybean'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🌱 大豆（豆油）' : '🌱 Soybean (Soybean Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/peanut' : '/en/solutions/peanut'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🥜 花生（花生油）' : '🥜 Peanut (Peanut Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/sesame' : '/en/solutions/sesame'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🌰 芝麻（芝麻油）' : '🌰 Sesame (Sesame Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/rapeseed' : '/en/solutions/rapeseed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🌿 油菜籽（菜籽油）' : '🌿 Rapeseed (Rapeseed Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/sunflower' : '/en/solutions/sunflower'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🌻 向日葵籽（葵花籽油）' : '🌻 Sunflower Seed (Sunflower Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/cottonseed' : '/en/solutions/cottonseed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🧵 棉籽（棉籽油）' : '🧵 Cottonseed (Cottonseed Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/flaxseed' : '/en/solutions/flaxseed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🌾 亚麻籽（亚麻籽油）' : '🌾 Flaxseed (Flaxseed Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/tea-seed' : '/en/solutions/tea-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🍵 茶籽（茶籽油）' : '🍵 Tea Seed (Tea Seed Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/perilla' : '/en/solutions/perilla'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🌱 苏子（苏子油）' : '🌱 Perilla Seed (Perilla Oil)' }}
-                  </a>
-                </div>
+            <div class="mobile-nav-subitem">
+              <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('seed-oils')">
+                <span>{{ currentLang === 'zh' ? '↳ 按油料类型详情' : 'By Oil Type Details' }}</span>
+                <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['seed-oils'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <polyline points="6,9 12,15 18,9"></polyline>
+                </svg>
               </div>
-
-              <!-- 坚果类 -->
-              <div class="mobile-nav-subitem">
-                <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('nuts')">
-                  <span>{{ currentLang === 'zh' ? '🥜 坚果类' : '🥜 Nut Oils' }}</span>
-                  <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus.nuts }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                    <polyline points="6,9 12,15 18,9"></polyline>
-                  </svg>
-                </div>
-                <div class="mobile-nested-submenu" v-show="nestedExpandedMenus.nuts">
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/coconut' : '/en/solutions/coconut'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🥥 椰子（椰子油）' : '🥥 Coconut (Coconut Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/palm' : '/en/solutions/palm'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🌴 棕榈（棕榈油）' : '🌴 Palm (Palm Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/walnut' : '/en/solutions/walnut'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🥜 核桃（核桃油）' : '🥜 Walnut (Walnut Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/almond' : '/en/solutions/almond'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🌰 杏仁（杏仁油）' : '🌰 Almond (Almond Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/hazelnut' : '/en/solutions/hazelnut'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🌰 榛子（榛子油）' : '🌰 Hazelnut (Hazelnut Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/cashew' : '/en/solutions/cashew'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🥜 腰果（腰果油）' : '🥜 Cashew (Cashew Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/pistachio' : '/en/solutions/pistachio'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🥜 开心果（开心果油）' : '🥜 Pistachio (Pistachio Oil)' }}
-                  </a>
-                </div>
-              </div>
-
-              <!-- 果实类 -->
-              <div class="mobile-nav-subitem">
-                <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('fruits')">
-                  <span>{{ currentLang === 'zh' ? '🥑 果实类' : '🥑 Fruit Oils' }}</span>
-                  <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus.fruits }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                    <polyline points="6,9 12,15 18,9"></polyline>
-                  </svg>
-                </div>
-                <div class="mobile-nested-submenu" v-show="nestedExpandedMenus.fruits">
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/avocado' : '/en/solutions/avocado'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🥑 鳄梨（牛油果油）' : '🥑 Avocado (Avocado Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/grape-seed' : '/en/solutions/grape-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🍇 葡萄籽（葡萄籽油）' : '🍇 Grape Seed (Grape Seed Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/pumpkin-seed' : '/en/solutions/pumpkin-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🎃 南瓜籽（南瓜籽油）' : '🎃 Pumpkin Seed (Pumpkin Seed Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/watermelon-seed' : '/en/solutions/watermelon-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🍉 西瓜籽（西瓜籽油）' : '🍉 Watermelon Seed (Watermelon Seed Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/peach-kernel' : '/en/solutions/peach-kernel'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🍑 桃核仁（核仁油）' : '🍑 Peach Kernel (Kernel Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/apricot-kernel' : '/en/solutions/apricot-kernel'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🌰 杏核仁（核仁油）' : '🌰 Apricot Kernel (Kernel Oil)' }}
-                  </a>
-                </div>
-              </div>
-
-              <!-- 其他特殊油料 -->
-              <div class="mobile-nav-subitem">
-                <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('special-oils')">
-                  <span>{{ currentLang === 'zh' ? '⚙️ 其他特殊油料' : '⚙️ Special Oils' }}</span>
-                  <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['special-oils'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                    <polyline points="6,9 12,15 18,9"></polyline>
-                  </svg>
-                </div>
-                <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['special-oils']">
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/rice-bran' : '/en/solutions/rice-bran'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🍚 米糠（米糠油）' : '🍚 Rice Bran (Rice Bran Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/corn-germ' : '/en/solutions/corn-germ'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🌽 玉米胚芽（玉米油）' : '🌽 Corn Germ (Corn Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/castor-seed' : '/en/solutions/castor-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🌿 蓖麻籽（蓖麻油）' : '🌿 Castor Seed (Castor Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/chili-seed' : '/en/solutions/chili-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🌶️ 辣椒籽（辣椒籽油）' : '🌶️ Chili Seed (Chili Seed Oil)' }}
-                  </a>
-                  <a :href="currentLang === 'zh' ? '/zh/solutions/buckwheat' : '/en/solutions/buckwheat'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                    {{ currentLang === 'zh' ? '🌾 荞麦籽（荞麦油）' : '🌾 Buckwheat (Buckwheat Oil)' }}
-                  </a>
-                </div>
+              <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['seed-oils']">
+                <a :href="currentLang === 'zh' ? '/zh/solutions/seed-oils' : '/en/solutions/seed-oils'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '粮油类概述' : 'Grain and Seed Oils Overview' }}
+                </a>
+                <!-- 添加具体的粮油类油料类型 -->
+                <a :href="currentLang === 'zh' ? '/zh/solutions/soybean' : '/en/solutions/soybean'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '🌱 大豆油' : '🌱 Soybean Oil' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/peanut' : '/en/solutions/peanut'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '🥜 花生油' : '🥜 Peanut Oil' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/sesame' : '/en/solutions/sesame'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '🌰 芝麻油' : '🌰 Sesame Oil' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/rapeseed' : '/en/solutions/rapeseed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '🌿 菜籽油' : '🌿 Rapeseed Oil' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/sunflower' : '/en/solutions/sunflower'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '🌻 向日葵油' : '🌻 Sunflower Oil' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/cottonseed' : '/en/solutions/cottonseed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '🧵 棉籽油' : '🧵 Cottonseed Oil' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/flaxseed' : '/en/solutions/flaxseed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '🌾 亚麻籽油' : '🌾 Flaxseed Oil' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/tea-seed' : '/en/solutions/tea-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '🍵 茶籽油' : '🍵 Tea Seed Oil' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/perilla' : '/en/solutions/perilla'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '🌱 紫苏油' : '🌱 Perilla Oil' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/nuts' : '/en/solutions/nuts'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '坚果油概述' : 'Nut Oils Overview' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/fruits' : '/en/solutions/fruits'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '水果油概述' : 'Fruit Oils Overview' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/special-oils' : '/en/solutions/special-oils'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '特种油料概述' : 'Special Oils Overview' }}
+                </a>
               </div>
             </div>
-            
-            <!-- 灌装配套方案 -->
-            <div class="mobile-submenu-group">
-              <div class="mobile-submenu-title">{{ currentLang === 'zh' ? '灌装配套方案' : 'Filling Supporting Solutions' }}</div>
-              
-              <!-- 冲瓶机系列 -->
-              <a :href="currentLang === 'zh' ? '/zh/solutions/bottle-washing/' : '/en/solutions/bottle-washing/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-                {{ currentLang === 'zh' ? '冲瓶机系列' : 'Bottle Washing Machine Series' }}
-              </a>
-              
-              <!-- 灌装机系列 -->
-              <a :href="currentLang === 'zh' ? '/zh/solutions/filling/' : '/en/solutions/filling/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-                {{ currentLang === 'zh' ? '灌装机系列' : 'Filling Machine Series' }}
-              </a>
-              
-              <!-- 灯检机系列 -->
-              <a :href="currentLang === 'zh' ? '/zh/solutions/light-inspection/' : '/en/solutions/light-inspection/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-                {{ currentLang === 'zh' ? '灯检机系列' : 'Light Inspection Machine Series' }}
-              </a>
-              
-              <!-- 封口机系列 -->
-              <a :href="currentLang === 'zh' ? '/zh/solutions/sealing/' : '/en/solutions/sealing/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-                {{ currentLang === 'zh' ? '封口机系列' : 'Sealing Machine Series' }}
-              </a>
-              
-              <!-- 打塞机系列 -->
-              <a :href="currentLang === 'zh' ? '/zh/solutions/corking/' : '/en/solutions/corking/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-                {{ currentLang === 'zh' ? '打塞机系列' : 'Corking Machine Series' }}
-              </a>
-              
-              <!-- 胶帽热缩机系列 -->
-              <a :href="currentLang === 'zh' ? '/zh/solutions/cap-shrinking/' : '/en/solutions/cap-shrinking/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-                {{ currentLang === 'zh' ? '胶帽热缩机系列' : 'Cap Shrinking Machine Series' }}
-              </a>
-              
-              <!-- 吹干机系列 -->
-              <a :href="currentLang === 'zh' ? '/zh/solutions/drying/' : '/en/solutions/drying/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-                {{ currentLang === 'zh' ? '吹干机系列' : 'Drying Machine Series' }}
-              </a>
-              
-              <!-- 贴标机系列 -->
-              <a :href="currentLang === 'zh' ? '/zh/solutions/labeling/' : '/en/solutions/labeling/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-                {{ currentLang === 'zh' ? '贴标机系列' : 'Labeling Machine Series' }}
-              </a>
-              
-              <!-- 激光打码机系列 -->
-              <a :href="currentLang === 'zh' ? '/zh/solutions/laser-coding/' : '/en/solutions/laser-coding/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-                {{ currentLang === 'zh' ? '激光打码机系列' : 'Laser Coding Machine Series' }}
-              </a>
-              
-              <!-- 装箱、码垛 -->
-              <a :href="currentLang === 'zh' ? '/zh/solutions/packing-palletizing/' : '/en/solutions/packing-palletizing/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-                {{ currentLang === 'zh' ? '装箱、码垛' : 'Packing and Palletizing' }}
-              </a>
-              
-              <!-- 蔬果类前期处理设备 -->
-              <a :href="currentLang === 'zh' ? '/zh/solutions/fruit-veg-processing/' : '/en/solutions/fruit-veg-processing/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-                {{ currentLang === 'zh' ? '蔬果类前期处理设备' : 'Fruit and Vegetable Pre-processing Equipment' }}
-              </a>
-              
-              <!-- 过滤机系列 -->
-              <a :href="currentLang === 'zh' ? '/zh/solutions/filtering/' : '/en/solutions/filtering/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-                {{ currentLang === 'zh' ? '过滤机系列' : 'Filtering Machine Series' }}
-              </a>
-              
-              <!-- 酿酒设备系列 -->
-              <a :href="currentLang === 'zh' ? '/zh/solutions/brewing/' : '/en/solutions/brewing/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-                {{ currentLang === 'zh' ? '酿酒设备系列' : 'Brewing Equipment Series' }}
-              </a>
-              
-              <!-- 奶类加工设备 -->
-              <a :href="currentLang === 'zh' ? '/zh/solutions/dairy-processing/' : '/en/solutions/dairy-processing/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-                {{ currentLang === 'zh' ? '奶类加工设备' : 'Dairy Processing Equipment' }}
-              </a>
+            <div class="mobile-nav-subitem">
+              <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('filling')">
+                <span>{{ currentLang === 'zh' ? '↳ 灌装配套方案详情' : 'Filling Supporting Solutions Details' }}</span>
+                <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus.filling }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <polyline points="6,9 12,15 18,9"></polyline>
+                </svg>
+              </div>
+              <div class="mobile-nested-submenu" v-show="nestedExpandedMenus.filling">
+                <a :href="currentLang === 'zh' ? '/zh/solutions/bottle-washing/' : '/en/solutions/bottle-washing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '冲瓶机系列' : 'Bottle Washing Machine Series' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/filling/' : '/en/solutions/filling/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '灌装机系列' : 'Filling Machine Series' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/light-inspection/' : '/en/solutions/light-inspection/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '灯检机系列' : 'Light Inspection Machine Series' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/sealing/' : '/en/solutions/sealing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '封口机系列' : 'Sealing Machine Series' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/corking/' : '/en/solutions/corking/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '打塞机系列' : 'Corking Machine Series' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/cap-shrinking/' : '/en/solutions/cap-shrinking/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '胶帽热缩机系列' : 'Cap Shrinking Machine Series' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/drying/' : '/en/solutions/drying/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '吹干机系列' : 'Drying Machine Series' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/labeling/' : '/en/solutions/labeling/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '贴标机系列' : 'Labeling Machine Series' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/laser-coding/' : '/en/solutions/laser-coding/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '激光打码机系列' : 'Laser Coding Machine Series' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/packing-palletizing/' : '/en/solutions/packing-palletizing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '装箱、码垛' : 'Packing and Palletizing' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/fruit-veg-processing/' : '/en/solutions/fruit-veg-processing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '蔬果类前期处理设备' : 'Fruit and Vegetable Pre-processing Equipment' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/filtering/' : '/en/solutions/filtering/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '过滤机系列' : 'Filtering Machine Series' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/brewing/' : '/en/solutions/brewing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '酿酒设备系列' : 'Brewing Equipment Series' }}
+                </a>
+                <a :href="currentLang === 'zh' ? '/zh/solutions/dairy-processing/' : '/en/solutions/dairy-processing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '奶类加工设备' : 'Dairy Processing Equipment' }}
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -614,7 +409,7 @@
           </div>
         </div>
         
-        <a href="https0://www.linkedin.com/newsletters/hydraulic-oil-pressing-machine-7331966128702836736/" target="_blank" rel="noopener noreferrer" class="mobile-social-icon" style="color: #0073B1;">
+        <a href="https://www.linkedin.com/newsletters/hydraulic-oil-pressing-machine-7331966128702836736/" target="_blank" rel="noopener noreferrer" class="mobile-social-icon" style="color: #0073B1;">
           <svg width="20" height="20" viewBox="0 0 1024 1024" fill="currentColor">
             <path d="M512 1024C229.2224 1024 0 794.7776 0 512 0 229.2224 229.2224 0 512 0c282.7776 0 512 229.2224 512 512 0 282.7776-229.2224 512-512 512z m-137.762133-286.378667V397.380267h-102.4V737.621333h102.4z m-51.2-488.448c-33.024 0-54.5792 22.954667-53.9136 53.589334-0.682667 29.218133 20.8896 52.872533 53.248 52.872533 33.672533 0 55.2448-23.6544 55.2448-52.8896-0.682667-30.6176-21.572267-53.572267-54.5792-53.572267z m133.410133 488.448h102.4V541.405867c0-9.728 1.365333-20.1728 4.061867-26.453334 6.724267-19.456 23.569067-39.645867 51.882666-39.645866 37.034667 0 51.882667 29.917867 51.882667 73.762133V737.621333h102.4V535.842133c0-100.181333-50.517333-146.1248-117.9136-146.1248-54.562133 0-88.251733 32.7168-101.7344 54.272h-2.030933l-4.7104-46.609066h-88.9344c1.348267 29.917867 2.696533 66.0992 2.696533 108.544V737.621333z"/>
           </svg>
@@ -648,8 +443,9 @@ const expandedMenus = ref({
 // 移动端嵌套子菜单展开状态
 const nestedExpandedMenus = ref({
   'seed-oils': false,
-  nuts: false,
-  fruits: false,
+  'grain-and-seed-oils': false, // 添加这一行用于中文和英文的粮油类油料
+  'nut-oils': false,
+  'fruit-oils': false,
   'special-oils': false,
   'series-300': false,
   'series-325': false,
@@ -658,7 +454,10 @@ const nestedExpandedMenus = ref({
   'series-426': false,
   'series-480': false,
   'series-500': false,
-  supporting: false
+  supporting: false,
+  'pre-treatment': false,
+  'post-treatment': false,
+  filling: false
 })
 
 // 获取当前语言

@@ -20,48 +20,15 @@ Palm is an important oil crop, palm oil has unique nutritional value and applica
 
 ## Processing Technology
 
-### Traditional Process Flow
-```mermaid
-graph TD
-    A[Palm Raw Material] --> B[Cleaning and Impurity Removal]
-    B --> C[Flesh Separation]
-    C --> D[Cooking Treatment]
-    D --> E[Oil Pressing]
-    E --> F[Filtration and Sedimentation]
-    F --> G[Palm Meal Drying]
-```
+Palm pulp + Palm kernel (Palm oil) processing technology (Recommended 300AC-390/325AC-390/355AC-390/400AC-390)
+ + Step 1: High-speed crushing
+ + Step 2: Steaming
+ + Step 3: Pressing
+![Palm Oil](/images/棕榈果肉_棕榈仁热榨工艺_Hot%20pressing%20process%20of%20palm%20pulp_palm%20kernel_.png)
 
-### Modern Process Flow
-```mermaid
-graph TD
-    A[Palm Raw Material] --> B[Intelligent Sorting]
-    B --> C[High-temperature Cooking]
-    C --> D[Mechanical Pressing]
-    D --> E[Centrifugal Separation]
-    E --> F[Refining Treatment]
-    F --> G[Fractionation Processing]
-    G --> H[Packaging and Storage]
-```
-
-## Equipment Recommendations
-
-### Small Processing (Daily 2-10 tons)
-- **300/325 Series Special Press**
-- Palm preprocessing equipment
-- Simple refining system
-- Investment cost: 500,000-1,500,000 yuan
-
-### Medium Processing (Daily 10-30 tons)
-- **355/400 Series Press**
-- Automated preprocessing production line
-- Continuous refining equipment
-- Investment cost: 2,000,000-6,000,000 yuan
-
-### Large Processing (Daily 30 tons+)
-- **425/480 Series Press**
-- Fully automatic production line
-- Intelligent management system
-- Investment cost: 10,000,000 yuan+
+Note:
+ + Palm fruit - Red oil   
+ + Palm kernel - Black oil
 
 ## Technical Advantages
 
@@ -114,29 +81,6 @@ graph TD
 - Food processing enterprises
 - Biodiesel production enterprises
 - Chemical raw material enterprises
-
-## Success Cases
-
-### Shandong Large Palm Oil Processing Plant
-- **Equipment Configuration**: 400 series press ×6 units
-- **Daily Processing Capacity**: 50 tons palm
-- **Oil Yield**: 48%
-- **Annual Production**: 6,000 tons palm oil
-- **Market Coverage**: 20 provinces nationwide
-
-### Henan Professional Palm Oil Enterprise
-- **Equipment Configuration**: 355 series special machine ×4 units
-- **Daily Processing Capacity**: 25 tons palm
-- **Product Quality**: National first-class standard
-- **Brand Building**: Regional well-known brand
-- **Annual Sales**: 20,000,000 yuan
-
-### Zhejiang High-end Palm Oil Brand
-- **Equipment Configuration**: 325 series special machine ×5 units
-- **Daily Processing Capacity**: 15 tons premium palm
-- **Product Quality**: Organic food certification
-- **Market Positioning**: High-end organic edible oil
-- **Export Markets**: Europe, USA
 
 ## Quality Standards
 
