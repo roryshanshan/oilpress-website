@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>山东盛世赫程机械有限公司 - 液压榨油机专业制造商</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .video-container {
+            width: 100%;
+            max-width: 800px;
+            margin: 0 auto 40px;
+        }
+        iframe {
+            width: 100%;
+            height: 450px;
+            border: none;
+            border-radius: 8px;
+        }
+        .content {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>液压榨油机专业制造商</h1>
+        <h2>山东盛世赫程机械有限公司</h2>
+    </div>
+
+    <div class="video-container">
+        <iframe id="bilibili-video-mobile"
+                width="100%"
+                height="450"
+                src="//player.bilibili.com/player.html?bvid=BV1XQHrz5Exb&page=1&autoplay=1&muted=0&playsinline=1&controls=1"
+                scrolling="no"
+                border="0"
+                frameborder="no"
+                framespacing="0"
+                allowfullscreen="true"
+                webkit-playsinline="true"
+                playsinline="true">
+        </iframe>
+    </div>
+
+    <div class="content">
+        <h3>公司简介</h3>
+        <p>山东盛世赫程机械有限公司成立于2008年，是国家重点油料压榨设备生产企业，专注于现代化自动液压榨油机系列和食用油精炼生产线设备的研发制造。</p>
+
+        <h3>产品系列</h3>
+        <ul>
+            <li>300系列 - 适合小型作坊</li>
+            <li>325系列 - 适合小型作坊</li>
+            <li>355系列 - 适合中小型企业</li>
+            <li>400系列 - 适合中型企业</li>
+            <li>426系列 - 适合中大型企业</li>
+            <li>480系列 - 适合大型企业</li>
+            <li>500系列 - 适合超大型企业</li>
+        </ul>
+    </div>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const videoFrame = document.getElementById('bilibili-video-mobile');
+
+        // 检测是否为移动设备
+        function isMobile() {
+            return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ||
+                   (window.innerWidth <= 768 && window.innerHeight <= 1024);
+        }
+
+        // 移动设备优化
+        if (isMobile()) {
+            // 尝试强制开启声音
+            function tryEnableSound() {
+                if (videoFrame && videoFrame.contentWindow) {
+                    try {
+                        // 发送消息到Bilibili播放器
+                        videoFrame.contentWindow.postMessage({
+                            type: 'setVolume',
+                            data: 1.0
+                        }, '*');
+
+                        // 也尝试其他方法
+                        videoFrame.contentWindow.postMessage({
+                            type: 'play'
+                        }, '*');
+                    } catch (e) {
+                        console.log('移动设备声音控制尝试失败');
+                    }
+                }
+            }
+
+            // 页面加载后尝试开启声音
+            setTimeout(tryEnableSound, 1000);
+
+            // 用户交互时再次尝试
+            function handleMobileInteraction() {
+                tryEnableSound();
+                // 移除事件监听器，避免重复调用
+                document.removeEventListener('touchstart', handleMobileInteraction);
+                document.removeEventListener('click', handleMobileInteraction);
+            }
+
+            document.addEventListener('touchstart', handleMobileInteraction, { once: true });
+            document.addEventListener('click', handleMobileInteraction, { once: true });
+
+            // 监听页面可见性变化
+            document.addEventListener('visibilitychange', function() {
+                if (!document.hidden) {
+                    setTimeout(tryEnableSound, 500);
+                }
+            });
+        } else {
+            // 桌面设备的声音处理
+            function handleDesktopInteraction() {
+                if (videoFrame && videoFrame.contentWindow) {
+                    try {
+                        videoFrame.contentWindow.postMessage({
+                            type: 'setVolume',
+                            data: 1.0
+                        }, '*');
+                    } catch (e) {
+                        console.log('桌面设备声音控制尝试失败');
+                    }
+                }
+            }
+
+            document.addEventListener('click', handleDesktopInteraction, { once: true });
+            document.addEventListener('scroll', handleDesktopInteraction, { once: true });
+            document.addEventListener('keydown', handleDesktopInteraction, { once: true });
+        }
+    });
+    </script>
+</body>
+</html>
