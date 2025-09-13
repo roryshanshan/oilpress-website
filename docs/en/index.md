@@ -12,6 +12,10 @@ title: Professional Hydraulic Oil Press Manufacturer - Shandong Shengshi Hecheng
   </h2>
 </div>
 
+<div style="width: 100%; margin: 2rem 0;">
+  <iframe width="100%" height="450" src="//player.bilibili.com/player.html?bvid=BV1XQHrz5Exb&page=1&autoplay=1&muted=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
 <div class="hero-section">
   <div class="hero-content">
     <h2>15 Years of Expertise in Hydraulic Oil Press Equipment</h2>

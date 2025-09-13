@@ -12,6 +12,10 @@ title: 液压榨油机专业制造商 - 山东盛世赫程机械有限公司
   </h2>
 </div>
 
+<div style="width: 100%; margin: 2rem 0;">
+  <iframe width="100%" height="450" src="//player.bilibili.com/player.html?bvid=BV1XQHrz5Exb&page=1&autoplay=1&muted=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
 <div class="hero-section">
   <div class="hero-content">
     <h2>专注液压榨油设备15年</h2>
