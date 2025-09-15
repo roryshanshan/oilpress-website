@@ -1,3 +1,9 @@
+---
+title: Honors and Qualifications - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Shandong Shengshi Hecheng honors and qualifications, national high-tech enterprise, Shandong provincial specialized and new SME, ISO9001 quality management system certification, CE European safety certification, technical honors and social responsibility.
+keywords: Honors and qualifications, Corporate qualifications, National high-tech enterprise, Shandong provincial specialized and new SME, ISO9001 certification, CE certification, Technical honors, Patent certificate, Industry recognition, Social responsibility, Shandong Shengshi Hecheng honors
+---
+
 # Honors and Qualifications
 
 ## Corporate Qualifications

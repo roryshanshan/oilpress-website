@@ -1,3 +1,9 @@
+---
+title: Pre-press Machine - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Pre-press machine adopts spiral crushing principle, designed for efficient and stable operation, low noise, low maintenance cost for wear parts, suitable for crushing rapeseed, soybean, flaxseed and other materials.
+keywords: Pre-press machine, Spiral crushing machine, Oilseed pre-press machine, Pre-pressing equipment, Oilseed crushing machine, Pre-pressing equipment, Spiral press machine, Oilseed preprocessing equipment, Crushing machine, Pre-press machine, Oilseed pressing preprocessing, Pre-pressing machinery
+---
+
 # Pre-press Machine
 
 ![](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)

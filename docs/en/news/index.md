@@ -1,3 +1,9 @@
+---
+title: News - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Shandong Shengshi Hecheng news, including company news, industry information, technical knowledge, learn about the latest developments in oil presses, industry trends and technological innovations.
+keywords: News, Company news, Industry information, Technical knowledge, Oil press news, Grain and oil exhibition, New factory operation, Edible oil market, Grain and oil policy, Oil yield improvement, Oilseed processing technology, Shandong Shengshi Hecheng news
+---
+
 # News
 
 ## Company News

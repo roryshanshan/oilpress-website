@@ -1,3 +1,9 @@
+---
+title: Rock Wool Lined/Stainless Steel Clad/Heat-Conducting Oil Flat-Bottom Electric Frying Pan - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Heat-conducting oil flat-bottom electric frying pan features double-layer reinforced bottom and motor reducer integrated design, rock wool insulation lining, stainless steel cladding, heat-conducting oil electric heating for uniform heating, energy-saving and environmentally friendly.
+keywords: Heat-conducting oil flat-bottom electric frying pan, Electric frying pan, Heat-conducting oil frying pan, Flat-bottom frying pan, Oilseed frying pan, Frying pan equipment, Electric heating frying pan, Rock wool insulation frying pan, Stainless steel frying pan, Oilseed processing frying pan, Frying pan machine, Electric frying pan equipment
+---
+
 # Rock Wool Lined/Stainless Steel Clad/Heat-Conducting Oil Flat-Bottom Electric Frying Pan
 ![](https://i.postimg.cc/3KvT2YJ1/202509051516277.png?dl=1)
 ## Product Overview

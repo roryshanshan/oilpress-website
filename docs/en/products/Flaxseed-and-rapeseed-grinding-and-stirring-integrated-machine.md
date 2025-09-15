@@ -1,3 +1,9 @@
+---
+title: Sesame & Rapeseed Grinding and Mixing Integrated Machine - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Sesame & Rapeseed Grinding and Mixing Integrated Machine is suitable for pharmaceutical, chemical, food industries, can crush various materials, capacity 750Kg/h, pure copper motor, uniform grinding, low power consumption.
+keywords: Sesame grinder, Rapeseed grinder, Grinding and mixing integrated machine, Pulverizer equipment, Oilseed preprocessing equipment, Sesame processing equipment, Rapeseed processing equipment, Grinding machine, Mixing machine, Grinding mixing machine, Oilseed crushing equipment, Grinding equipment, Mixing equipment, 15Kw grinder
+---
+
 # Sesame & Rapeseed Grinding and Mixing Integrated Machine
 
 ## Product Overview

@@ -1,3 +1,9 @@
+---
+title: Peanut (Peanut Oil) Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Professional peanut pressing solutions, providing peanut oil processing equipment and technical services, oil content 45-55%, using hot pressing process to highlight aroma, meeting different needs from small workshops to large factories.
+keywords: Peanut solutions, Peanut oil pressing, Peanut processing equipment, Peanut oil production line, Peanut hot pressing process, Peanut oil press, Peanut oil extraction, Peanut oilseed processing, Peanut oil pressing equipment, Peanut oil production equipment, Peanut oil processing plant
+---
+
 # Peanut (Peanut Oil) Solutions
 
 ## Overview

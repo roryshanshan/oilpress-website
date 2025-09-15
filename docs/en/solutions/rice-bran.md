@@ -1,3 +1,9 @@
+---
+title: Rice Bran (Rice Bran Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Professional rice bran pressing solutions, providing rice bran oil processing equipment and technical services, oil content 15-25%, using cold pressing process to preserve nutrition, meeting production needs of different scales.
+keywords: Rice bran solutions, Rice bran oil pressing, Rice bran processing equipment, Rice bran oil production line, Rice bran oil cold pressing process, Rice bran oil press, Rice bran oil extraction, Rice bran oilseed processing, Rice bran oil pressing equipment, Rice bran oil production equipment
+---
+
 # Rice Bran (Rice Bran Oil) Solution
 
 ## Overview

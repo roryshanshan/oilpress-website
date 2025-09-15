@@ -1,3 +1,9 @@
+---
+title: Tea Seed (Tea Seed Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Professional tea seed pressing solutions, providing tea seed oil processing equipment and technical services, oil content 25-35%, rich in oleic acid, using hot pressing process to ensure quality, meeting high-end edible oil and beauty product needs.
+keywords: Tea seed solutions, Tea seed oil pressing, Tea seed processing equipment, Tea seed oil production line, Tea seed hot pressing process, Tea seed oil press, Tea seed oil extraction, Tea seed oilseed processing, Tea seed oil pressing equipment, Tea oil, Camellia oil
+---
+
 # Tea Seed (Tea Seed Oil) Solution
 
 ## Overview

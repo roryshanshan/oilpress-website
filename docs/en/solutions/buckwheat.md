@@ -1,3 +1,9 @@
+---
+title: Buckwheat (Buckwheat Oil) Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Professional buckwheat oil pressing solutions, providing buckwheat oil processing equipment and technical services, oil content 25-35%, using appropriate pressing process to highlight nutritional value, meeting different needs from small workshops to large factories.
+keywords: Buckwheat solutions, Buckwheat oil pressing, Buckwheat processing equipment, Buckwheat oil production line, Buckwheat oil press, Buckwheat oil extraction, Buckwheat oilseed processing, Buckwheat oil pressing equipment, Buckwheat oil production equipment, Buckwheat oil processing plant, Buckwheat oil nutritional value
+---
+
 # Buckwheat (Buckwheat Oil) Solution
 
 ## Overview

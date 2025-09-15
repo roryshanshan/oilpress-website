@@ -1,3 +1,9 @@
+---
+title: Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Shandong Shengshi Hecheng provides professional oilseed processing solutions, classified by oilseed type including grain and oil, nuts, fruits, special oils, providing intelligent control, high-quality oil products, sustainable production.
+keywords: Solutions, Oilseed processing solutions, Grain and oil solutions, Nut solutions, Fruit solutions, Special oil solutions, Intelligent control, High-quality oil products, Sustainable production, Edible oil processing, Beauty and skincare, Health product manufacturing, Industrial applications, Shandong Shengshi Hecheng solutions
+---
+
 # Solutions
 
 ## By Oil Material Type

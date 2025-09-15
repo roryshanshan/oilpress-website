@@ -2,35 +2,20 @@
 
 ## Product Overview
 
-### Large Industrial Series
-Our top-tier industrial series, specifically designed for modern large and ultra-large oil mills.
-
-- [**426 Large Industrial Oil Press**](/en/products/426-large) - Specifically designed for modern large oil mills, 1-3 tons daily processing
-- [**480 Ultra Large Industrial Oil Press**](/en/products/480-ultra) - Ultra-large capacity design, 3-5 tons daily processing
-- [**500 Mega Industrial Oil Press**](/en/products/500-mega) - Mega capacity, 5-10 tons daily processing, future factory core equipment
-
----
-
-## 300/325 Series
-Our classic series, suitable for small and medium-sized oil mills.
+Shandong Shengshi Hecheng Machinery Co., Ltd. provides a complete hydraulic oil press product line, covering various needs from family workshops to large industrial production lines.
 
 ### 300 Series
-- [300 Coconut Oil Press (Food Grade Stainless Steel)](/en/products/300-coconut)
+Our classic entry-level series, suitable for small oil mills and family workshops, with compact structure, simple operation, and high cost performance.
+
+- [300 Coconut Oil Press (Food Grade Stainless Steel)](/en/products/300)
   Food grade stainless steel construction, specially designed for coconut pressing
 
-### 325 Series
-- [325 Extended Mother-Son Double Barrel Ultra High Pressure Oil Press](/en/products/325-double-barrel)
-  Mother-son double barrel structure, 40% increase in pressing efficiency
-- [325 Extended Double Barrel Ultra High Pressure Oil Press](/en/products/325-extended-double)
-  Parallel double barrel design, strong continuous operation capability
-- [325 Extended Single Barrel Sesame Hydraulic Oil Press](/en/products/325-sesame)
-  Specially designed pressing structure for sesame, highest oil yield
-- [325 Standard Extended Single Barrel Hydraulic Oil Press](/en/products/325-standard)
-  Classic single barrel design, excellent cost performance
-- [325 Extra Large Top Cake Ultra High Pressure Oil Press](/en/products/325-large-cake)
-  Extra large pressing chamber, suitable for mass production
+[View Complete 300 Series Introduction](/en/products/300)
 
-[View Complete 300/325 Series Introduction](/en/products/300-325)
+### 325 Series
+Classic series expansion model, suitable for small and medium-sized oil mills, providing more configuration options and higher production efficiency.
+
+[View Complete 325 Series Introduction](/en/products/325)
 
 ## 355/400 Series
 Our mid to high-end series, providing greater production capacity for medium and large oil mills.

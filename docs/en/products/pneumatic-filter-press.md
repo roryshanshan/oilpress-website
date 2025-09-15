@@ -1,3 +1,9 @@
+---
+title: Pneumatic Multi-layer Oil Filter Press - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Pneumatic multi-layer oil filter press uses 304 stainless steel material, integrated design, comes with motor, gear pump, air compressor, quick opening design, dual safety protection, suitable for oilseed refining and filtration.
+keywords: Pneumatic multi-layer oil filter press, Oil filter press, Oilseed filtering equipment, Multi-layer oil filter press, Pneumatic oil filter press, Oil filter machine, Oilseed refining equipment, Oil filtering equipment, Hydraulic oil filter press, Oilseed filter machine, Oil refining equipment, Oil filter press equipment
+---
+
 # Pneumatic Multi-layer Oil Filter Press
 ![](https://i.postimg.cc/mR4Z4z8S/image.png?dl=1)
 ## Product Overview

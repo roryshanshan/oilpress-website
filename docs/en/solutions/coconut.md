@@ -1,3 +1,9 @@
+---
+title: Coconut (Coconut Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Professional coconut pressing solutions, providing coconut oil processing equipment and technical services, oil content 60-70%, rich in lauric acid, using cold pressing process to preserve nutrition, meeting healthy edible oil and beauty product needs.
+keywords: Coconut solutions, Coconut oil pressing, Coconut processing equipment, Coconut oil production line, Coconut cold pressing process, Coconut oil press, Coconut oil extraction, Coconut oilseed processing, Coconut oil pressing equipment, Coconut oil production equipment
+---
+
 # Coconut (Coconut Oil) Solution
 
 ## Overview

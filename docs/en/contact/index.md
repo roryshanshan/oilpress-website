@@ -1,3 +1,9 @@
+---
+title: Contact Us - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Shandong Shengshi Hecheng Machinery Co., Ltd. contact information, address: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, Sales Director Gavin Lee, WeChat/WhatsApp: +8619906365856, email: gavin@oil-pressing-machine.com.
+keywords: Contact us, Shandong Shengshi Hecheng, Oil press equipment manufacturer, Contact information, Company address, Sales consultation, Technical support, Equipment procurement, Oil press price, Equipment ordering, After-sales service, Equipment maintenance, Technical consultation
+---
+
 # Contact Us
 
 ## Company Address

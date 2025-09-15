@@ -1,3 +1,9 @@
+---
+title: Hazelnut (Hazelnut Oil) Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Professional hazelnut oil pressing solutions, providing hazelnut oil processing equipment and technical services, oil content 55-65%, using cold pressing process to highlight aroma, meeting different needs from small workshops to large factories.
+keywords: Hazelnut solutions, Hazelnut oil pressing, Hazelnut processing equipment, Hazelnut oil production line, Hazelnut cold pressing process, Hazelnut oil press, Hazelnut oil extraction, Hazelnut oilseed processing, Hazelnut oil pressing equipment, Hazelnut oil production equipment, Hazelnut oil processing plant
+---
+
 # Hazelnut (Hazelnut Oil) Solution
 
 ## Overview

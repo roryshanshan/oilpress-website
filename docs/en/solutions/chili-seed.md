@@ -1,8 +1,14 @@
+---
+title: Chili Seed (Chili Seed Oil) Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Professional chili seed oil pressing solutions, providing chili seed oil processing equipment and technical services, oil content 15-25%, using appropriate pressing process to highlight nutritional value, meeting different needs from small workshops to large factories.
+keywords: Chili seed solutions, Chili seed oil pressing, Chili seed processing equipment, Chili seed oil production line, Chili seed oil press, Chili seed oil extraction, Chili seed oilseed processing, Chili seed oil pressing equipment, Chili seed oil production equipment, Chili seed oil processing plant
+---
+
 # Chili Seed (Chili Seed Oil) Solution
 
 ## Overview
 
-Chili seed is a by-product of chili processing, rich in high-quality oil, and can extract nutritious chili seed oil. Chili seed oil has unique flavor and nutritional value, widely used in edible oil and food processing. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional chili seed pressing solutions, meeting production needs of different scales.
+Chili seed is a by-product of chili processing, rich in high-quality oil, and can extract nutritious chili seed oil. Chili seed oil has unique flavor and nutritional value, widely used in edible油 and food processing. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional chili seed pressing solutions, meeting production needs of different scales.
 
 ## Chili Seed Characteristics
 

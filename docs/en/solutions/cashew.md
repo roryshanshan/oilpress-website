@@ -1,3 +1,9 @@
+---
+title: Cashew (Cashew Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Professional cashew pressing solutions, providing cashew oil processing equipment and technical services, oil content 40-50%, rich in oleic acid, using cold pressing process to preserve nutrition, meeting high-end edible oil and industrial lubricant needs.
+keywords: Cashew solutions, Cashew oil pressing, Cashew processing equipment, Cashew oil production line, Cashew cold pressing process, Cashew oil press, Cashew oil extraction, Cashew oilseed processing, Cashew oil pressing equipment, Cashew oil production equipment
+---
+
 # Cashew (Cashew Oil) Solution
 
 ## Overview
