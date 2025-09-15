@@ -1,6 +1,6 @@
 ---
 title: Corporate Culture - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng corporate culture, adhering to the business philosophy of 'Quality First, Customer Priority', core values: integrity, innovation, excellence, responsibility, corporate spirit: professional, innovative, efficient, win-win.
+description: Shandong Shengshi Hecheng corporate culture with core values of integrity, innovation, excellence, and responsibility.
 keywords: Corporate culture, Company culture, Corporate mission, Core values, Corporate spirit, Development philosophy, Shandong Shengshi Hecheng, Oil press manufacturer, Company introduction, Company philosophy, Corporate values, Corporate spirit
 ---
 
