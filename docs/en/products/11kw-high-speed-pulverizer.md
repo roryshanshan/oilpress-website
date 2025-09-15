@@ -1,3 +1,9 @@
+---
+title: 11Kw High-Speed Pulverizer - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: 11Kw High-Speed Pulverizer adopts flywheel structure design, can grind various hard materials such as camellia seeds, walnuts, avocados to micron level, processing capacity 750kg/h.
+keywords: High-speed pulverizer, 11KW pulverizer, Oilseed pulverizer, Camellia seed pulverizer, Walnut pulverizer, Avocado pulverizer, Micron grinding, Flywheel pulverizer, Oilseed preprocessing equipment, Pulverizing equipment, High-speed pulverizing equipment, 11Kw high-speed pulverizer, Pulverizer equipment, Oilseed processing equipment
+---
+
 # 11Kw High-Speed Pulverizer
 ![High-Speed Pulverizer](https://i.postimg.cc/QjCxz20G/image.png?dl=1)
 ## Product Overview
