@@ -7,8 +7,8 @@ Shandong Shengshi Hecheng Machinery Co., Ltd. provides a complete hydraulic oil 
 ### 300 Series
 Our classic entry-level series, suitable for small oil mills and family workshops, with compact structure, simple operation, and high cost performance.
 
-- [300 Coconut Oil Press (Food Grade Stainless Steel)](/en/products/300)
-  Food grade stainless steel construction, specially designed for coconut pressing
+- 300 Series
+  Suitable for small oil mills and family workshops, with compact structure, simple operation, and high cost performance.
 
 [View Complete 300 Series Introduction](/en/products/300)
 
@@ -17,45 +17,30 @@ Classic series expansion model, suitable for small and medium-sized oil mills, p
 
 [View Complete 325 Series Introduction](/en/products/325)
 
-## 355/400 Series
-Our mid to high-end series, providing greater production capacity for medium and large oil mills.
-
 ### 355 Series
-- [355 Extended Double Barrel Ultra High Pressure Oil Press](/en/products/355-double)
-  Large capacity double barrel design, intelligent pressure balance control
+Mid-range series, providing greater production capacity for medium-sized oil mills, featuring an integrated steel plate structure with stronger pressure bearing capacity.
+
+[View Complete 355 Series Introduction](/en/products/355)
 
 ### 400 Series
-- [400 Smart Temperature Control System Oil Press](/en/products/400-smart)
-  Precise temperature control system, intelligent production
-- [400 Fully Automatic Multi-stage Pressing System](/en/products/400-auto)
-  Three-stage pressing process, fully automatic control
+Mid to high-end series, providing greater production capacity for medium and large oil mills, featuring intelligent temperature control and automation functions.
 
-[View Complete 355/400 Series Introduction](/en/products/355-400)
-
-## Large Industrial Series
-Our top-tier industrial series, specifically designed for modern large and ultra-large oil mills.
+[View Complete 400 Series Introduction](/en/products/400)
 
 ### 426 Series
-- [426 Standard Double Cylinder Top Cake Hydraulic Oil Press](/en/products/426-standard)
-  Innovative top cake system design, synchronized double cylinder pressing
-- [426 Extended Single Barrel Ultra High Pressure Hydraulic Oil Press](/en/products/426-single)
-  Extra large pressing chamber, 42MPa ultra-high pressure system
-- [426 Large Industrial Oil Press](/en/products/426-large)
-  Specifically designed for modern large oil mills, 15-20 tons daily processing
+High-end series, specifically designed for modern large oil mills.
+
+[View Complete 426 Series Introduction](/en/products/426)
 
 ### 480 Series
-- [480 Smart Double Barrel Hydraulic Oil Press](/en/products/480-smart)
-  Fully intelligent control, IoT integration
-- [480 Ultra Large Industrial Oil Press](/en/products/480-ultra)
-  Ultra-large capacity design, 25-30 tons daily processing, AI intelligent control
+Ultra-large series, featuring ultra-large capacity design.
+
+[View Complete 480 Series Introduction](/en/products/480)
 
 ### 500 Series
-- [500 Extended Single/Double Barrel Ultra High Pressure Hydraulic Oil Press](/en/products/500-extended)
-  Modular design, maximum pressing force, Industry 4.0 standard
-- [500 Mega Industrial Oil Press](/en/products/500-mega)
-  Mega capacity, 35-40 tons daily processing, future factory core equipment
+Flagship series, featuring extra-large capacity.
 
-[View Complete 426/480 Series Introduction](/en/products/426-480)
+[View Complete 500 Series Introduction](/en/products/500)
 
 ## Supporting Equipment
 - [Pre-treatment Equipment](/en/products/pre-treatment)
