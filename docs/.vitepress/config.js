@@ -1,7 +1,7 @@
 export default {
   lastUpdated: true,
   sitemap: {
-    hostname: 'https://hyraulicoilpressing.opchn.com/'
+    hostname: 'https://hydraulicoilpressing.opchn.com/'
   },
   title: 'Shengshi Hecheng Oil Press',
   description: 'Professional Oil Press Manufacturer',
