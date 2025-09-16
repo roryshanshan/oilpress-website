@@ -321,7 +321,6 @@ export default {
             items: [
               { text: '方案概览', link: '/zh/solutions/' },
               { text: '按油料类型', link: '/zh/solutions/seed-oils' },
-              { text: '按规模', link: '/zh/solutions/small-workshop' },
               { text: '灌装配套方案', link: '/zh/solutions/filling' }
             ]
           },
@@ -587,7 +586,6 @@ export default {
             items: [
               { text: 'Solutions Overview', link: '/en/solutions/' },
               { text: 'By Oil Type', link: '/en/solutions/seed-oils' },
-              { text: 'By Scale', link: '/en/solutions/small-workshop' },
               { text: 'Filling Supporting Solutions', link: '/en/solutions/filling' }
             ]
           },
@@ -824,11 +822,543 @@ export default {
           copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
         }
       }
+    },
+    ru: {
+      label: 'Русский',
+      lang: 'ru-RU',
+      title: 'Гидравлический маслобойный пресс Shengshi Hecheng',
+      description: 'Профессиональный производитель маслобойных прессов',
+      themeConfig: {
+        nav: [
+          { text: 'Главная', link: '/ru/' },
+          {
+            text: 'Продукты',
+            link: '/ru/products/',
+            items: [
+              { text: 'Обзор продуктов', link: '/ru/products/' },
+              { text: 'Серия 300', link: '/ru/products/300' },
+              { text: 'Серия 325', link: '/ru/products/325' },
+              { text: 'Серия 355', link: '/ru/products/355' },
+              { text: 'Серия 400', link: '/ru/products/400' },
+              { text: 'Серия 426', link: '/ru/products/426' },
+              { text: 'Серия 480', link: '/ru/products/480' },
+              { text: 'Серия 500', link: '/ru/products/500' },
+              { text: 'Вспомогательное оборудование', link: '/ru/products/supporting' }
+            ]
+          },
+          {
+            text: 'Решения',
+            link: '/ru/solutions/',
+            items: [
+              { text: 'Обзор решений', link: '/ru/solutions/' },
+              { text: 'По типу масла', link: '/ru/solutions/seed-oils' },
+              { text: 'Решения для наполнения', link: '/ru/solutions/filling' }
+            ]
+          },
+          { text: 'Преимущества', link: '/ru/advantages/' },
+          { text: 'Новости', link: '/ru/news/' },
+          { text: 'О нас', link: '/ru/about/' },
+          { text: 'Контакты', link: '/ru/contact/' }
+        ],
+        sidebar: {
+          '/ru/products/': [
+            {
+              text: 'Продукты',
+              collapsed: false,
+              items: [
+                { text: 'Обзор продуктов', link: '/ru/products/' },
+                {
+                  text: 'Серия 300',
+                  collapsed: true,
+                  items: [
+                    { text: 'Обзор серии', link: '/ru/products/300' }
+                  ]
+                },
+                {
+                  text: 'Серия 325',
+                  collapsed: true,
+                  items: [
+                    { text: 'Обзор серии', link: '/ru/products/325' }
+                  ]
+                },
+                {
+                  text: 'Серия 355',
+                  collapsed: true,
+                  items: [
+                    { text: 'Обзор серии', link: '/ru/products/355' }
+                  ]
+                },
+                {
+                  text: 'Серия 400',
+                  collapsed: true,
+                  items: [
+                    { text: 'Обзор серии', link: '/ru/products/400' }
+                  ]
+                },
+                {
+                  text: 'Серия 426',
+                  collapsed: true,
+                  items: [
+                    { text: 'Обзор серии', link: '/ru/products/426' }
+                  ]
+                },
+                {
+                  text: 'Серия 480',
+                  collapsed: true,
+                  items: [
+                    { text: 'Обзор серии', link: '/ru/products/480' }
+                  ]
+                },
+                {
+                  text: 'Серия 500',
+                  collapsed: true,
+                  items: [
+                    { text: 'Обзор серии', link: '/ru/products/500' }
+                  ]
+                },
+                {
+                  text: 'Вспомогательное оборудование',
+                  collapsed: false,
+                  items: [
+                    { text: 'Обзор оборудования', link: '/ru/products/supporting' },
+                    {
+                      text: 'Оборудование предварительной обработки',
+                      collapsed: false,
+                      items: [
+                        { text: 'Обзор', link: '/ru/products/pre-treatment' },
+                        { text: '11kw Высокоскоростной измельчитель', link: '/ru/products/11kw-high-speed-pulverizer' },
+                        { text: '27kw Электрический паровар', link: '/ru/products/27kw-electric-steamer' },
+                        { text: 'Машина для измельчения и перемешивания льняного семени и рапса', link: '/ru/products/Flaxseed-and-rapeseed-grinding-and-stirring-integrated-machine' },
+                        { text: 'Автоматический барабанный обжарщик', link: '/ru/products/automatic-drum-roaster' },
+                        { text: 'Машина для упаковки жмыха', link: '/ru/products/cake-wrapping-machine' },
+                        { text: 'Оборудование для рафинирования пищевого масла', link: '/ru/products/edible-oil-refining-equipment' },
+                        { text: 'Интегрированная машина для подачи, дробления и жарки', link: '/ru/products/feeding-crushing-frying-integrated-machine' },
+                        { text: 'Плоская сковорода с теплоносителем', link: '/ru/products/heat-conducting-oil-flat-bottom-frying-pan' },
+                        { text: 'Пневматический фильтр-пресс', link: '/ru/products/pneumatic-filter-press' },
+                        { text: 'Предварительный пресс', link: '/ru/products/pre-press-machine' },
+                        { text: 'Дровяной паровар', link: '/ru/products/wood-fired-steamer' },
+                        { text: 'Дровяной плоский котел с теплоносителем', link: '/ru/products/wood-fired-thermal-oil-flat-bottom-wok' }
+                      ]
+                    },
+                    {
+                      text: 'Оборудование последующей обработки',
+                      collapsed: false,
+                      items: [
+                        { text: 'Обзор', link: '/ru/products/post-treatment' },
+                        { text: 'Измельчитель жмыха', link: '/ru/products/cake-pulverizer' }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          '/ru/solutions/': [
+            {
+              text: 'Решения',
+              collapsed: false,
+              items: [
+                { text: 'Обзор решений', link: '/ru/solutions/' },
+                {
+                  text: 'По типу масла',
+                  collapsed: true,
+                  items: [
+                    {
+                      text: '🌾 Масла зерновых и семян',
+                      collapsed: true,
+                      items: [
+                        { text: 'Обзор масел зерновых и семян', link: '/ru/solutions/seed-oils' },
+                        { text: '🌱 Соевый масло', link: '/ru/solutions/soybean' },
+                        { text: '🥜 Арахисовое масло', link: '/ru/solutions/peanut' },
+                        { text: '🌰 Кунжутное масло', link: '/ru/solutions/sesame' },
+                        { text: '🌿 Рапсовое масло', link: '/ru/solutions/rapeseed' },
+                        { text: '🌻 Подсолнечное масло', link: '/ru/solutions/sunflower' },
+                        { text: '🧵 Хлопковое масло', link: '/ru/solutions/cottonseed' },
+                        { text: '🌾 Льняное масло', link: '/ru/solutions/flaxseed' },
+                        { text: '🍵 Масло чайного семени', link: '/ru/solutions/tea-seed' },
+                        { text: '🌱 Масло периллы', link: '/ru/solutions/perilla' }
+                      ]
+                    },
+                    {
+                      text: '🥜 Ореховые масла',
+                      collapsed: true,
+                      items: [
+                        { text: 'Обзор ореховых масел', link: '/ru/solutions/nuts' },
+                        { text: '🥥 Кокосовое масло', link: '/ru/solutions/coconut' },
+                        { text: '🌴 Пальмовое масло', link: '/ru/solutions/palm' },
+                        { text: '🥜 Ореховое масло', link: '/ru/solutions/walnut' },
+                        { text: '🌰 Миндальное масло', link: '/ru/solutions/almond' },
+                        { text: '🌰 Фундуковое масло', link: '/ru/solutions/hazelnut' },
+                        { text: '🥜 Кешью масло', link: '/ru/solutions/cashew' },
+                        { text: '🥜 Фисташковое масло', link: '/ru/solutions/pistachio' }
+                      ]
+                    },
+                    {
+                      text: '🥑 Фруктовые масла',
+                      collapsed: true,
+                      items: [
+                        { text: 'Обзор фруктовых масел', link: '/ru/solutions/fruits' },
+                        { text: '🥑 Авокадовое масло', link: '/ru/solutions/avocado' },
+                        { text: '🍇 Виноградное масло', link: '/ru/solutions/grape-seed' },
+                        { text: '🎃 Тыквенное масло', link: '/ru/solutions/pumpkin-seed' },
+                        { text: '🍉 Арбузное масло', link: '/ru/solutions/watermelon-seed' },
+                        { text: '🍑 Масло персиковой косточки', link: '/ru/solutions/peach-kernel' },
+                        { text: '🌰 Абрикосовое масло', link: '/ru/solutions/apricot-kernel' }
+                      ]
+                    },
+                    {
+                      text: '⚙️ Специальные масла',
+                      collapsed: true,
+                      items: [
+                        { text: 'Обзор специальных масел', link: '/ru/solutions/special-oils' },
+                        { text: '🍚 Рисовое масло', link: '/ru/solutions/rice-bran' },
+                        { text: '🌽 Кукурузное масло', link: '/ru/solutions/corn-germ' },
+                        { text: '🌿 Касторовое масло', link: '/ru/solutions/castor-seed' },
+                        { text: '🌶️ Перечное масло', link: '/ru/solutions/chili-seed' },
+                        { text: '🍇 Виноградное масло', link: '/ru/solutions/grape-seed' },
+                        { text: '🌾 Гречишное масло', link: '/ru/solutions/buckwheat' }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  text: 'Решения для наполнения',
+                  collapsed: true,
+                  items: [
+                    { text: 'Серия машин для мытья бутылок', link: '/ru/solutions/bottle-washing/' },
+                    { text: 'Серия наливных машин', link: '/ru/solutions/filling/' },
+                    { text: 'Серия машин для световой инспекции', link: '/ru/solutions/light-inspection/' },
+                    { text: 'Серия укупорочных машин', link: '/ru/solutions/sealing/' },
+                    { text: 'Серия машин для укупоривания пробками', link: '/ru/solutions/corking/' },
+                    { text: 'Серия машин для усадки колпачков', link: '/ru/solutions/cap-shrinking/' },
+                    { text: 'Серия сушильных машин', link: '/ru/solutions/drying/' },
+                    { text: 'Серия этикетировочных машин', link: '/ru/solutions/labeling/' },
+                    { text: 'Серия лазерных кодировщиков', link: '/ru/solutions/laser-coding/' },
+                    { text: 'Упаковка и паллетизация', link: '/ru/solutions/packing-palletizing/' },
+                    { text: 'Оборудование для предварительной обработки фруктов и овощей', link: '/ru/solutions/fruit-veg-processing/' },
+                    { text: 'Серия фильтровальных машин', link: '/ru/solutions/filtering/' },
+                    { text: 'Серия оборудования для пивоварения', link: '/ru/solutions/brewing/' },
+                    { text: 'Оборудование для молочной промышленности', link: '/ru/solutions/dairy-processing/' }
+                  ]
+                }
+              ]
+            }
+          ],
+          '/ru/about/': [
+            {
+              text: 'О нас',
+              collapsed: false,
+              items: [
+                { text: 'Профиль компании', link: '/ru/about/' },
+                { text: 'Корпоративная культура', link: '/ru/about/culture' },
+                { text: 'История развития', link: '/ru/about/history' },
+                { text: 'Награды и квалификации', link: '/ru/about/honors' },
+                { text: 'Представление команды', link: '/ru/about/team' }
+              ]
+            }
+          ],
+          '/ru/advantages/': [
+            {
+              text: 'Преимущества компании',
+              collapsed: false,
+              items: [
+                { text: 'Обзор преимуществ', link: '/ru/advantages/' },
+                { text: 'Технологические инновации', link: '/ru/advantages/innovation' },
+                { text: 'Гарантия качества', link: '/ru/advantages/quality' },
+                { text: 'Сервис и поддержка', link: '/ru/advantages/service' },
+                { text: 'Успешные кейсы', link: '/ru/advantages/cases' }
+              ]
+            }
+          ],
+          '/ru/news/': [
+            {
+              text: 'Новости',
+              collapsed: false,
+              items: [
+                { text: 'Новостной центр', link: '/ru/news/' },
+                { text: 'Новости компании', link: '/ru/news/company' },
+                { text: 'Индустриальные новости', link: '/ru/news/industry' },
+                { text: 'Технические знания', link: '/ru/news/technology' }
+              ]
+            }
+          ]
+        },
+        footer: {
+          message: 'Профессиональное производство · Надежное качество',
+          copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
+        }
+      }
+    },
+    fr: {
+      label: 'Français',
+      lang: 'fr-FR',
+      title: 'Presse à huile hydraulique Shengshi Hecheng',
+      description: 'Fabricant professionnel de presses à huile',
+      themeConfig: {
+        nav: [
+          { text: 'Accueil', link: '/fr/' },
+          {
+            text: 'Produits',
+            link: '/fr/products/',
+            items: [
+              { text: 'Aperçu des produits', link: '/fr/products/' },
+              { text: 'Série 300', link: '/fr/products/300' },
+              { text: 'Série 325', link: '/fr/products/325' },
+              { text: 'Série 355', link: '/fr/products/355' },
+              { text: 'Série 400', link: '/fr/products/400' },
+              { text: 'Série 426', link: '/fr/products/426' },
+              { text: 'Série 480', link: '/fr/products/480' },
+              { text: 'Série 500', link: '/fr/products/500' },
+              { text: 'Équipements complémentaires', link: '/fr/products/supporting' }
+            ]
+          },
+          {
+            text: 'Solutions',
+            link: '/fr/solutions/',
+            items: [
+              { text: 'Aperçu des solutions', link: '/fr/solutions/' },
+              { text: 'Par type d\'huile', link: '/fr/solutions/seed-oils' },
+              { text: 'Solutions de remplissage', link: '/fr/solutions/filling' }
+            ]
+          },
+          { text: 'Avantages', link: '/fr/advantages/' },
+          { text: 'Actualités', link: '/fr/news/' },
+          { text: 'À propos', link: '/fr/about/' },
+          { text: 'Contact', link: '/fr/contact/' }
+        ],
+        sidebar: {
+          '/fr/products/': [
+            {
+              text: 'Produits',
+              collapsed: false,
+              items: [
+                { text: 'Aperçu des produits', link: '/fr/products/' },
+                {
+                  text: 'Série 300',
+                  collapsed: true,
+                  items: [
+                    { text: 'Aperçu de la série', link: '/fr/products/300' }
+                  ]
+                },
+                {
+                  text: 'Série 325',
+                  collapsed: true,
+                  items: [
+                    { text: 'Aperçu de la série', link: '/fr/products/325' }
+                  ]
+                },
+                {
+                  text: 'Série 355',
+                  collapsed: true,
+                  items: [
+                    { text: 'Aperçu de la série', link: '/fr/products/355' }
+                  ]
+                },
+                {
+                  text: 'Série 400',
+                  collapsed: true,
+                  items: [
+                    { text: 'Aperçu de la série', link: '/fr/products/400' }
+                  ]
+                },
+                {
+                  text: 'Série 426',
+                  collapsed: true,
+                  items: [
+                    { text: 'Aperçu de la série', link: '/fr/products/426' }
+                  ]
+                },
+                {
+                  text: 'Série 480',
+                  collapsed: true,
+                  items: [
+                    { text: 'Aperçu de la série', link: '/fr/products/480' }
+                  ]
+                },
+                {
+                  text: 'Série 500',
+                  collapsed: true,
+                  items: [
+                    { text: 'Aperçu de la série', link: '/fr/products/500' }
+                  ]
+                },
+                {
+                  text: 'Équipements complémentaires',
+                  collapsed: false,
+                  items: [
+                    { text: 'Aperçu des équipements', link: '/fr/products/supporting' },
+                    {
+                      text: 'Équipements de prétraitement',
+                      collapsed: false,
+                      items: [
+                        { text: 'Aperçu', link: '/fr/products/pre-treatment' },
+                        { text: 'Pulvérisateur haute vitesse 11kw', link: '/fr/products/11kw-high-speed-pulverizer' },
+                        { text: 'Vapeur électrique 27kw', link: '/fr/products/27kw-electric-steamer' },
+                        { text: 'Machine intégrée de broyage et mélange de graines de lin et colza', link: '/fr/products/Flaxseed-and-rapeseed-grinding-and-stirring-integrated-machine' },
+                        { text: 'Rôtisseur à tambour automatique', link: '/fr/products/automatic-drum-roaster' },
+                        { text: 'Machine d\'emballage de gâteau', link: '/fr/products/cake-wrapping-machine' },
+                        { text: 'Équipement de raffinage d\'huile comestible', link: '/fr/products/edible-oil-refining-equipment' },
+                        { text: 'Machine intégrée d\'alimentation, concassage et friture', link: '/fr/products/feeding-crushing-frying-integrated-machine' },
+                        { text: 'Poêle plate à huile conductrice de chaleur', link: '/fr/products/heat-conducting-oil-flat-bottom-frying-pan' },
+                        { text: 'Presse-filtre pneumatique', link: '/fr/products/pneumatic-filter-press' },
+                        { text: 'Machine de pré-pression', link: '/fr/products/pre-press-machine' },
+                        { text: 'Vapeur à bois', link: '/fr/products/wood-fired-steamer' },
+                        { text: 'Wok plat à bois avec huile thermique', link: '/fr/products/wood-fired-thermal-oil-flat-bottom-wok' }
+                      ]
+                    },
+                    {
+                      text: 'Équipements de post-traitement',
+                      collapsed: false,
+                      items: [
+                        { text: 'Aperçu', link: '/fr/products/post-treatment' },
+                        { text: 'Pulvérisateur de gâteau', link: '/fr/products/cake-pulverizer' }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          '/fr/solutions/': [
+            {
+              text: 'Solutions',
+              collapsed: false,
+              items: [
+                { text: 'Aperçu des solutions', link: '/fr/solutions/' },
+                {
+                  text: 'Par type d\'huile',
+                  collapsed: true,
+                  items: [
+                    {
+                      text: '🌾 Huiles de céréales et graines',
+                      collapsed: true,
+                      items: [
+                        { text: 'Aperçu des huiles de céréales et graines', link: '/fr/solutions/seed-oils' },
+                        { text: '🌱 Huile de soja', link: '/fr/solutions/soybean' },
+                        { text: '🥜 Huile d\'arachide', link: '/fr/solutions/peanut' },
+                        { text: '🌰 Huile de sésame', link: '/fr/solutions/sesame' },
+                        { text: '🌿 Huile de colza', link: '/fr/solutions/rapeseed' },
+                        { text: '🌻 Huile de tournesol', link: '/fr/solutions/sunflower' },
+                        { text: '🧵 Huile de coton', link: '/fr/solutions/cottonseed' },
+                        { text: '🌾 Huile de lin', link: '/fr/solutions/flaxseed' },
+                        { text: '🍵 Huile de graines de thé', link: '/fr/solutions/tea-seed' },
+                        { text: '🌱 Huile de pérille', link: '/fr/solutions/perilla' }
+                      ]
+                    },
+                    {
+                      text: '🥜 Huiles de noix',
+                      collapsed: true,
+                      items: [
+                        { text: 'Aperçu des huiles de noix', link: '/fr/solutions/nuts' },
+                        { text: '🥥 Huile de coco', link: '/fr/solutions/coconut' },
+                        { text: '🌴 Huile de palme', link: '/fr/solutions/palm' },
+                        { text: '🥜 Huile de noix', link: '/fr/solutions/walnut' },
+                        { text: '🌰 Huile d\'amande', link: '/fr/solutions/almond' },
+                        { text: '🌰 Huile de noisette', link: '/fr/solutions/hazelnut' },
+                        { text: '🥜 Huile de cajou', link: '/fr/solutions/cashew' },
+                        { text: '🥜 Huile de pistache', link: '/fr/solutions/pistachio' }
+                      ]
+                    },
+                    {
+                      text: '🥑 Huiles de fruits',
+                      collapsed: true,
+                      items: [
+                        { text: 'Aperçu des huiles de fruits', link: '/fr/solutions/fruits' },
+                        { text: '🥑 Huile d\'avocat', link: '/fr/solutions/avocado' },
+                        { text: '🍇 Huile de pépins de raisin', link: '/fr/solutions/grape-seed' },
+                        { text: '🎃 Huile de pépins de citrouille', link: '/fr/solutions/pumpkin-seed' },
+                        { text: '🍉 Huile de pépins de pastèque', link: '/fr/solutions/watermelon-seed' },
+                        { text: '🍑 Huile de noyau de pêche', link: '/fr/solutions/peach-kernel' },
+                        { text: '🌰 Huile d\'abricot', link: '/fr/solutions/apricot-kernel' }
+                      ]
+                    },
+                    {
+                      text: '⚙️ Huiles spéciales',
+                      collapsed: true,
+                      items: [
+                        { text: 'Aperçu des huiles spéciales', link: '/fr/solutions/special-oils' },
+                        { text: '🍚 Huile de son de riz', link: '/fr/solutions/rice-bran' },
+                        { text: '🌽 Huile de germe de maïs', link: '/fr/solutions/corn-germ' },
+                        { text: '🌿 Huile de ricin', link: '/fr/solutions/castor-seed' },
+                        { text: '🌶️ Huile de piments', link: '/fr/solutions/chili-seed' },
+                        { text: '🍇 Huile de pépins de raisin', link: '/fr/solutions/grape-seed' },
+                        { text: '🌾 Huile de sarrasin', link: '/fr/solutions/buckwheat' }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  text: 'Solutions de remplissage',
+                  collapsed: true,
+                  items: [
+                    { text: 'Série de machines à laver les bouteilles', link: '/fr/solutions/bottle-washing/' },
+                    { text: 'Série de machines de remplissage', link: '/fr/solutions/filling/' },
+                    { text: 'Série de machines d\'inspection lumineuse', link: '/fr/solutions/light-inspection/' },
+                    { text: 'Série de machines de scellement', link: '/fr/solutions/sealing/' },
+                    { text: 'Série de machines de bouchage', link: '/fr/solutions/corking/' },
+                    { text: 'Série de machines de rétrécissement de bouchons', link: '/fr/solutions/cap-shrinking/' },
+                    { text: 'Série de machines de séchage', link: '/fr/solutions/drying/' },
+                    { text: 'Série de machines d\'étiquetage', link: '/fr/solutions/labeling/' },
+                    { text: 'Série de codeurs laser', link: '/fr/solutions/laser-coding/' },
+                    { text: 'Emballage et palettisation', link: '/fr/solutions/packing-palletizing/' },
+                    { text: 'Équipement de prétraitement des fruits et légumes', link: '/fr/solutions/fruit-veg-processing/' },
+                    { text: 'Série de machines de filtration', link: '/fr/solutions/filtering/' },
+                    { text: 'Série d\'équipements de brassage', link: '/fr/solutions/brewing/' },
+                    { text: 'Équipement de transformation laitière', link: '/fr/solutions/dairy-processing/' }
+                  ]
+                }
+              ]
+            }
+          ],
+          '/fr/about/': [
+            {
+              text: 'À propos',
+              collapsed: false,
+              items: [
+                { text: 'Profil de l\'entreprise', link: '/fr/about/' },
+                { text: 'Culture d\'entreprise', link: '/fr/about/culture' },
+                { text: 'Historique de développement', link: '/fr/about/history' },
+                { text: 'Honneurs et qualifications', link: '/fr/about/honors' },
+                { text: 'Présentation de l\'équipe', link: '/fr/about/team' }
+              ]
+            }
+          ],
+          '/fr/advantages/': [
+            {
+              text: 'Avantages de l\'entreprise',
+              collapsed: false,
+              items: [
+                { text: 'Aperçu des avantages', link: '/fr/advantages/' },
+                { text: 'Innovation technologique', link: '/fr/advantages/innovation' },
+                { text: 'Garantie de qualité', link: '/fr/advantages/quality' },
+                { text: 'Service et support', link: '/fr/advantages/service' },
+                { text: 'Études de cas', link: '/fr/advantages/cases' }
+              ]
+            }
+          ],
+          '/fr/news/': [
+            {
+              text: 'Actualités',
+              collapsed: false,
+              items: [
+                { text: 'Centre d\'actualités', link: '/fr/news/' },
+                { text: 'Actualités de l\'entreprise', link: '/fr/news/company' },
+                { text: 'Actualités de l\'industrie', link: '/fr/news/industry' },
+                { text: 'Connaissances techniques', link: '/fr/news/technology' }
+              ]
+            }
+          ]
+        },
+        footer: {
+          message: 'Fabrication professionnelle · Qualité fiable',
+          copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
+        }
+      }
     }
   },
 
   themeConfig: {
-    // 社交链接 - 已移除，使用自定义布局中的图标
+    // 社交 ссылки - уже удалены, используем иконки в пользовательском макете
     socialLinks: []
   }
 }
