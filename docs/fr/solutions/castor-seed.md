@@ -10,13 +10,13 @@ keywords: Solutions de graines de ricin, pressage d'huile de ricin, équipement 
 
 La graine de ricin est la graine de la plante de ricin, riche en huile spéciale qui peut extraire l'huile de ricin. L'huile de ricin a des propriétés physico-chimiques uniques, principalement utilisée dans les domaines industriels tels que les lubrifiants, les revêtements et la médecine. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de ricin, répondant aux besoins de production d'échelles différentes.
 
-## Castor Seed Characteristics
+## Caractéristiques de la graine de ricin
 
-### 📊 Basic Parameters
-- **Oil Content**: 45-55%
-- **Protein Content**: 18-22%
-- **Main Component**: Ricinoleic acid (80-90%)
-- **Suitable Temperature**: Pressing temperature controlled at 80-100℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 45-55%
+- **Teneur en protéines** : 18-22%
+- **Composant principal** : Acide ricinoléique (80-90%)
+- **Température appropriée** : Température de pressage contrôlée à 80-100℃
 
 ### 🌱 Growth Characteristics
 - **Growth Cycle**: 150-180 days
