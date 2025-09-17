@@ -18,11 +18,11 @@ Les graines de tournesol sont une importante culture oléagineuse, l'huile de to
 - **Acides gras principaux** : Acide linoléique (55-75%), Acide oléique (14-35%), Acide palmitique (4-9%)
 - **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 80-120 days
-- **Suitable Climate**: Warm, sunny areas
-- **Soil Requirements**: Fertile, well-drained soil
-- **Annual Production**: Global annual production exceeds 500 million tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : 80-120 jours
+- **Climat approprié** : Zones chaudes et ensoleillées
+- **Exigences du sol** : Sol fertile et bien drainé
+- **Production annuelle** : Production annuelle mondiale dépasse 500 millions de tonnes
 
 ## Processing Technology
 

@@ -18,11 +18,11 @@ Les graines de thé sont une importante culture oléagineuse, l'huile de graines
 - **Acides gras principaux** : Acide oléique (75-85%), Acide linoléique (8-12%), Acide palmitique (8-10%)
 - **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 3-5 years
-- **Suitable Climate**: Warm, humid areas
-- **Soil Requirements**: Acidic, mountainous soil
-- **Annual Production**: China annual production exceeds 500,000 tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : 3-5 ans
+- **Climat approprié** : Zones chaudes et humides
+- **Exigences du sol** : Sol acide et montagneux
+- **Production annuelle** : Production annuelle chinoise dépasse 500 000 tonnes
 
 ## Processing Technology
 

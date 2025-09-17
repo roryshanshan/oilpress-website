@@ -18,11 +18,11 @@ La noix est une importante culture oléagineuse, l'huile de noix a une valeur nu
 - **Acides gras principaux** : Acide linoléique (55-65%), Acide oléique (15-25%), Acide linolénique (8-12%)
 - **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 3-5 years
-- **Suitable Climate**: Temperate, mountainous areas
-- **Soil Requirements**: Fertile, well-drained soil
-- **Annual Production**: Global annual production exceeds 3 million tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : 3-5 ans
+- **Climat approprié** : Zones tempérées et montagneuses
+- **Exigences du sol** : Sol fertile et bien drainé
+- **Production annuelle** : Production annuelle mondiale dépasse 3 millions de tonnes
 
 ## Processing Technology
 
