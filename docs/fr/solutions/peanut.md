@@ -10,13 +10,13 @@ keywords: Solutions d'arachide, pressage d'huile d'arachide, équipement de tran
 
 L'arachide est une importante graine oléagineuse et culture commerciale, et l'huile d'arachide a un arôme unique et une valeur nutritionnelle riche. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage d'arachide pour répondre aux besoins différents des petits ateliers aux grandes usines.
 
-## Peanut Characteristics
+## Caractéristiques d'arachide
 
-### 📊 Basic Parameters
-- **Oil Content**: 45-55%
-- **Protein Content**: 25-30%
-- **Main Fatty Acids**: Oleic acid (40-50%), Linoleic acid (30-40%)
-- **Suitable Temperature**: Pressing temperature controlled at 80-100℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 45-55%
+- **Teneur en protéines** : 25-30%
+- **Acides gras principaux** : Acide oléique (40-50%), Acide linoléique (30-40%)
+- **Température appropriée** : Température de pressage contrôlée à 80-100℃
 
 ### 🌱 Growth Characteristics
 - **Growth Cycle**: 120-150 days

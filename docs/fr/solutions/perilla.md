@@ -10,13 +10,13 @@ keywords: Solutions de graines de périlla, pressage d'huile de périlla, équip
 
 Les graines de périlla sont une importante culture oléagineuse, l'huile de périlla a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de périlla, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
-## Perilla Seed Characteristics
+## Caractéristiques de graines de périlla
 
-### 📊 Basic Parameters
-- **Oil Content**: 40-50%
-- **Protein Content**: 15-20%
-- **Main Fatty Acids**: α-Linolenic acid (50-60%), Linoleic acid (15-20%), Oleic acid (15-20%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 40-50%
+- **Teneur en protéines** : 15-20%
+- **Acides gras principaux** : Acide α-linolénique (50-60%), Acide linoléique (15-20%), Acide oléique (15-20%)
+- **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
 ### 🌱 Growth Characteristics
 - **Growth Cycle**: 100-120 days

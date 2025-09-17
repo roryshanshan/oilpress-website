@@ -10,13 +10,13 @@ keywords: Solutions de palmier, pressage d'huile de palme, équipement de transf
 
 Le palmier est une importante culture oléagineuse, l'huile de palme a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de palmier, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
-## Palm Characteristics
+## Caractéristiques du palmier
 
-### 📊 Basic Parameters
-- **Oil Content**: 45-55%
-- **Protein Content**: 2-3%
-- **Main Fatty Acids**: Palmitic acid (40-45%), Oleic acid (35-40%), Linoleic acid (8-12%)
-- **Suitable Temperature**: Pressing temperature controlled at 80-100℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 45-55%
+- **Teneur en protéines** : 2-3%
+- **Acides gras principaux** : Acide palmitique (40-45%), Acide oléique (35-40%), Acide linoléique (8-12%)
+- **Température appropriée** : Température de pressage contrôlée à 80-100℃
 
 ### 🌱 Growth Characteristics
 - **Growth Cycle**: 2-3 years
