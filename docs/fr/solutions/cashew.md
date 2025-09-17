@@ -1,28 +1,28 @@
 ---
-title: Cashew (Cashew Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional cashew pressing solutions, providing cashew oil processing equipment and technical services, oil content 40-50%, rich in oleic acid, using cold pressing process to preserve nutrition, meeting high-end edible oil and industrial lubricant needs.
-keywords: Cashew solutions, Cashew oil pressing, Cashew processing equipment, Cashew oil production line, Cashew cold pressing process, Cashew oil press, Cashew oil extraction, Cashew oilseed processing, Cashew oil pressing equipment, Cashew oil production equipment
+title: Solution de cajou (huile de cajou) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage de cajou, fournissant des équipements et services techniques de transformation d'huile de cajou, teneur en huile 40-50%, riche en acide oléique, utilisant le processus de pressage à froid pour préserver la nutrition, répondant aux besoins d'huiles alimentaires haut de gamme et de lubrifiants industriels.
+keywords: Solutions de cajou, pressage d'huile de cajou, équipement de transformation de cajou, ligne de production d'huile de cajou, processus de pressage à froid de cajou, presse à huile de cajou, extraction d'huile de cajou, transformation de graines de cajou, équipement de pressage d'huile de cajou, équipement de production d'huile de cajou
 ---
 
-# Cashew (Cashew Oil) Solution
+# Solution de cajou (huile de cajou)
 
-## Overview
+## Aperçu
 
-Cashew is an important oil crop, cashew oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional cashew pressing solutions, from small workshops to large factories with complete equipment and services.
+Le cajou est une importante culture oléagineuse, l'huile de cajou a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de cajou, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
-## Cashew Characteristics
+## Caractéristiques du cajou
 
-### 📊 Basic Parameters
-- **Oil Content**: 40-50%
-- **Protein Content**: 18-22%
-- **Main Fatty Acids**: Oleic acid (60-70%), Linoleic acid (15-20%), Palmitic acid (8-10%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 40-50%
+- **Teneur en protéines** : 18-22%
+- **Acides gras principaux** : Acide oléique (60-70%), Acide linoléique (15-20%), Acide palmitique (8-10%)
+- **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 2-3 years
-- **Suitable Climate**: Tropical, coastal areas
-- **Soil Requirements**: Sandy, well-drained soil
-- **Annual Production**: Global annual production exceeds 4 million tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : 2-3 ans
+- **Climat approprié** : Zones tropicales, côtières
+- **Exigences du sol** : Sol sableux et bien drainé
+- **Production annuelle** : Production annuelle mondiale dépasse 4 millions de tonnes
 
 ## Processing Technology
 
@@ -35,22 +35,22 @@ Cashew pressing process: (Recommended 426AC-390/480AC-390/500AC-390)
 + Cashew kernel cold pressing process: Direct pressing
     + ![Cashew Kernel Cold Pressing Process](/images/腰果仁冷榨工艺_Cold%20pressing%20process%20of%20cashew%20kernels_.png)
 
-## Technical Advantages
+## Avantages techniques
 
-### 🎯 Precise Control
-- Temperature control: ±2℃ precision
-- Pressure control: Intelligent adjustment
-- Humidity control: Optimal moisture content
+### 🎯 Contrôle précis
+- Contrôle de température : précision ±2℃
+- Contrôle de pression : ajustement intelligent
+- Contrôle d'humidité : teneur en humidité optimale
 
-### 💧 Oil Quality Guarantee
-- Low-temperature process preserves nutrition
-- Physical pressing without chemical residues
-- Oil yield up to 42-48%
+### 💧 Garantie de qualité de l'huile
+- Processus à basse température préserve la nutrition
+- Pressage physique sans résidus chimiques
+- Rendement en huile jusqu'à 42-48%
 
-### 🔄 Continuous Production
-- 24-hour uninterrupted operation
-- Automated feeding and discharging
-- Intelligent fault alarm
+### 🔄 Production continue
+- Fonctionnement ininterrompu 24 heures
+- Alimentation et déchargement automatisés
+- Alarme de panne intelligente
 
 ## Product Applications
 

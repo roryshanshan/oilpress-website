@@ -1,120 +1,120 @@
 ---
-title: Buckwheat (Buckwheat Oil) Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional buckwheat oil pressing solutions, providing buckwheat oil processing equipment and technical services, oil content 25-35%, using appropriate pressing process to highlight nutritional value, meeting different needs from small workshops to large factories.
-keywords: Buckwheat solutions, Buckwheat oil pressing, Buckwheat processing equipment, Buckwheat oil production line, Buckwheat oil press, Buckwheat oil extraction, Buckwheat oilseed processing, Buckwheat oil pressing equipment, Buckwheat oil production equipment, Buckwheat oil processing plant, Buckwheat oil nutritional value
+title: Solution de sarrasin (huile de sarrasin) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage d'huile de sarrasin, fournissant des équipements et services techniques de transformation d'huile de sarrasin, teneur en huile 25-35%, utilisant un processus de pressage approprié pour mettre en valeur la valeur nutritionnelle, répondant aux besoins différents des petits ateliers aux grandes usines.
+keywords: Solutions de sarrasin, pressage d'huile de sarrasin, équipement de transformation de sarrasin, ligne de production d'huile de sarrasin, presse à huile de sarrasin, extraction d'huile de sarrasin, transformation de graines de sarrasin, équipement de pressage d'huile de sarrasin, équipement de production d'huile de sarrasin, usine de transformation d'huile de sarrasin, valeur nutritionnelle de l'huile de sarrasin
 ---
 
-# Buckwheat (Buckwheat Oil) Solution
+# Solution de sarrasin (huile de sarrasin)
 
-## Overview
+## Aperçu
 
-Buckwheat seed is the seed of buckwheat, rich in high-quality oil that can extract nutritious buckwheat oil. Buckwheat oil has unique flavor and nutritional value, widely used in edible oil and food processing. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional buckwheat seed pressing solutions, meeting production needs of different scales.
+La graine de sarrasin est la graine du sarrasin, riche en huile de haute qualité qui peut extraire une huile de sarrasin nutritive. L'huile de sarrasin a une saveur unique et une valeur nutritionnelle, largement utilisée dans l'huile alimentaire et la transformation alimentaire. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de sarrasin, répondant aux besoins de production d'échelles différentes.
 
-## Buckwheat Seed Characteristics
+## Caractéristiques de la graine de sarrasin
 
-### 📊 Basic Parameters
-- **Oil Content**: 25-35%
-- **Protein Content**: 10-15%
-- **Main Fatty Acids**: Oleic acid (30-40%), Linoleic acid (40-50%)
-- **Suitable Temperature**: Pressing temperature controlled at 70-90℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 25-35%
+- **Teneur en protéines** : 10-15%
+- **Acides gras principaux** : Acide oléique (30-40%), Acide linoléique (40-50%)
+- **Température appropriée** : Température de pressage contrôlée à 70-90℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 80-100 days
-- **Suitable Climate**: Cool, humid climate
-- **Soil Requirements**: Poor, well-drained soil
-- **Annual Production**: Global buckwheat production about 3 million tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : 80-100 jours
+- **Climat approprié** : Climat frais et humide
+- **Exigences du sol** : Sol pauvre et bien drainé
+- **Production annuelle** : Production mondiale de sarrasin d'environ 3 millions de tonnes
 
-## Processing Technology
+## Technologie de transformation
 
-### Traditional Process Flow
-To be supplemented
+### Flux de processus traditionnel
+À compléter
 
-## Technical Advantages
+## Avantages techniques
 
-### 🎯 Precise Control
-- Temperature control: ±2℃ precision
-- Pressure control: Intelligent adjustment
-- Moisture control: Optimal process parameters
+### 🎯 Contrôle précis
+- Contrôle de température : précision ±2℃
+- Contrôle de pression : ajustement intelligent
+- Contrôle d'humidité : paramètres de processus optimaux
 
-### 💧 Oil Quality Guarantee
-- Low temperature pressing preserves nutrition
-- Physical pressing ensures purity
-- Oil yield up to 28-30%
+### 💧 Garantie de qualité de l'huile
+- Pressage à basse température préserve la nutrition
+- Pressage physique assure la pureté
+- Rendement en huile jusqu'à 28-30%
 
-### 🔄 Continuous Production
-- Automated production process
-- Continuous pressing technology
-- Intelligent quality monitoring
+### 🔄 Production continue
+- Processus de production automatisé
+- Technologie de pressage continue
+- Surveillance intelligente de la qualité
 
-## Product Applications
+## Applications des produits
 
-### 🍳 Edible Oil
-- Buckwheat oil: High-quality edible oil
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+### 🍳 Huile alimentaire
+- Huile de sarrasin : Huile alimentaire de haute qualité
+- Huile mélangée : Mélangée avec d'autres huiles
+- Huile spéciale : Huile nutritionnelle haut de gamme
 
-### 🥛 By-products
-- Buckwheat meal: High-quality protein feed
-- Buckwheat fiber: Feed additives
-- Buckwheat protein: Food additives
+### 🥛 Sous-produits
+- Farine de sarrasin : Aliment protéique de haute qualité
+- Fibre de sarrasin : Additifs alimentaires
+- Protéine de sarrasin : Additifs alimentaires
 
-### 💊 Functional Products
-- Buckwheat polyphenols
-- Buckwheat vitamin E
-- Buckwheat phospholipids
+### 💊 Produits fonctionnels
+- Polyphénols de sarrasin
+- Vitamine E de sarrasin
+- Phospholipides de sarrasin
 
-## Market Analysis
+## Analyse du marché
 
-### 📈 Development Trends
-- Growing demand for healthy edible oils
-- Expanding premium grain oil market
-- Increasing export trade opportunities
+### 📈 Tendances de développement
+- Demande croissante d'huiles alimentaires saines
+- Expansion du marché des huiles de céréales haut de gamme
+- Augmentation des opportunités de commerce exportateur
 
-### 🎯 Target Markets
-- Edible oil processing enterprises
-- Food processing enterprises
-- Grain processing enterprises
-- Export trading enterprises
+### 🎯 Marchés cibles
+- Entreprises de transformation d'huiles alimentaires
+- Entreprises de transformation alimentaire
+- Entreprises de transformation de céréales
+- Entreprises de commerce exportateur
 
-## Quality Standards
+## Normes de qualité
 
-### 🏆 Product Quality Standards
-- Complies with national edible oil standards
-- Complies with food safety standards
-- Complies with export food standards
-- Complies with organic food certification
+### 🏆 Normes de qualité des produits
+- Conforme aux normes nationales d'huile alimentaire
+- Conforme aux normes de sécurité alimentaire
+- Conforme aux normes d'aliments d'exportation
+- Conforme à la certification d'aliments biologiques
 
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color and transparency testing
-- Heavy metal content testing
-- Aflatoxin testing
-- Pesticide residue testing
+### 🔍 Éléments de test
+- Test de valeur d'acidité
+- Test de valeur de peroxyde
+- Test de couleur et de transparence
+- Test de teneur en métaux lourds
+- Test d'aflatoxine
+- Test de résidus de pesticides
 
-## Sustainable Development
+## Développement durable
 
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
+### 🌱 Production environnementale
+- Recyclage et valorisation des déchets
+- Processus d'économie d'énergie et de réduction d'émissions
+- Normes de production verte
 
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
+### 🔄 Valorisation des ressources
+- Valorisation complète des sous-produits
+- Extension de la chaîne industrielle
+- Modèle d'économie circulaire
 
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
+### 🌍 Responsabilité sociale
+- Soutien à l'augmentation des revenus des agriculteurs
+- Garantie de la sécurité alimentaire
+- Protection de l'environnement écologique
 
-## Contact Us
+## Nous contacter
 
-If you are interested in buckwheat seed pressing solutions, please contact our technical team:
+Si vous êtes intéressé par les solutions de pressage de graines de sarrasin, veuillez contacter notre équipe technique :
 
-- 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: sales@oil-pressing-machine.com
-- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
+- 📞 **Ligne d'assistance** : +86 19906365856
+- 📧 **Email** : sales@oil-pressing-machine.com
+- 📍 **Adresse** : N° 5888, rue Yineng, zone de développement, ville de Qingzhou, ville de Weifang, province du Shandong
 
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable buckwheat seed pressing solution.
+Nous fournissons des services de consultation technique gratuite, de test d'échantillons et d'inspection sur site pour vous offrir la solution de pressage de graines de sarrasin la plus adaptée.
