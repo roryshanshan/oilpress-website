@@ -1,14 +1,14 @@
 ---
-title: Chili Seed (Chili Seed Oil) Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional chili seed oil pressing solutions, providing chili seed oil processing equipment and technical services, oil content 15-25%, using appropriate pressing process to highlight nutritional value, meeting different needs from small workshops to large factories.
-keywords: Chili seed solutions, Chili seed oil pressing, Chili seed processing equipment, Chili seed oil production line, Chili seed oil press, Chili seed oil extraction, Chili seed oilseed processing, Chili seed oil pressing equipment, Chili seed oil production equipment, Chili seed oil processing plant
+title: Solution de graines de piment (huile de graines de piment) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage d'huile de graines de piment, fournissant des équipements et services techniques de transformation d'huile de graines de piment, teneur en huile 15-25%, utilisant un processus de pressage approprié pour mettre en valeur la valeur nutritionnelle, répondant aux besoins différents des petits ateliers aux grandes usines.
+keywords: Solutions de graines de piment, pressage d'huile de graines de piment, équipement de transformation de graines de piment, ligne de production d'huile de graines de piment, presse à huile de graines de piment, extraction d'huile de graines de piment, transformation de graines oléagineuses de piment, équipement de pressage d'huile de graines de piment, équipement de production d'huile de graines de piment, usine de transformation d'huile de graines de piment
 ---
 
-# Chili Seed (Chili Seed Oil) Solution
+# Solution de graines de piment (huile de graines de piment)
 
-## Overview
+## Aperçu
 
-Chili seed is a by-product of chili processing, rich in high-quality oil, and can extract nutritious chili seed oil. Chili seed oil has unique flavor and nutritional value, widely used in edible油 and food processing. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional chili seed pressing solutions, meeting production needs of different scales.
+La graine de piment est un sous-produit de la transformation du piment, riche en huile de haute qualité, et peut extraire une huile de graines de piment nutritive. L'huile de graines de piment a une saveur unique et une valeur nutritionnelle, largement utilisée dans l'huile alimentaire et la transformation alimentaire. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de piment, répondant aux besoins de production d'échelles différentes.
 
 ## Chili Seed Characteristics
 

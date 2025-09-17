@@ -1,14 +1,14 @@
 ---
-title: Coconut (Coconut Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional coconut pressing solutions, providing coconut oil processing equipment and technical services, oil content 60-70%, rich in lauric acid, using cold pressing process to preserve nutrition, meeting healthy edible oil and beauty product needs.
-keywords: Coconut solutions, Coconut oil pressing, Coconut processing equipment, Coconut oil production line, Coconut cold pressing process, Coconut oil press, Coconut oil extraction, Coconut oilseed processing, Coconut oil pressing equipment, Coconut oil production equipment
+title: Solution de noix de coco (huile de noix de coco) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage de noix de coco, fournissant des équipements et services techniques de transformation d'huile de noix de coco, teneur en huile 60-70%, riche en acide laurique, utilisant le processus de pressage à froid pour préserver la nutrition, répondant aux besoins d'huiles alimentaires saines et de produits de beauté.
+keywords: Solutions de noix de coco, pressage d'huile de noix de coco, équipement de transformation de noix de coco, ligne de production d'huile de noix de coco, processus de pressage à froid de noix de coco, presse à huile de noix de coco, extraction d'huile de noix de coco, transformation de graines oléagineuses de noix de coco, équipement de pressage d'huile de noix de coco, équipement de production d'huile de noix de coco
 ---
 
-# Coconut (Coconut Oil) Solution
+# Solution de noix de coco (huile de noix de coco)
 
-## Overview
+## Aperçu
 
-Coconut is an important oil crop, coconut oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional coconut pressing solutions, from small workshops to large factories with complete equipment and services.
+La noix de coco est une importante culture oléagineuse, l'huile de noix de coco a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de noix de coco, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
 ## Coconut Characteristics
 

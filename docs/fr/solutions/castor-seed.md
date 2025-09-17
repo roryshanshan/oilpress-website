@@ -1,14 +1,14 @@
 ---
-title: Castor Seed (Castor Oil) Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional castor seed oil pressing solutions, providing castor oil processing equipment and technical services, oil content 45-55%, using hot pressing process to highlight industrial characteristics, meeting different needs from small workshops to large factories.
-keywords: Castor seed solutions, Castor oil pressing, Castor seed processing equipment, Castor oil production line, Castor seed hot pressing process, Castor oil press, Castor oil extraction, Castor oilseed processing, Castor oil pressing equipment, Castor oil production equipment, Castor oil processing plant
+title: Solution de graines de ricin (huile de ricin) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage d'huile de graines de ricin, fournissant des équipements et services techniques de transformation d'huile de ricin, teneur en huile 45-55%, utilisant le processus de pressage à chaud pour mettre en valeur les caractéristiques industrielles, répondant aux besoins différents des petits ateliers aux grandes usines.
+keywords: Solutions de graines de ricin, pressage d'huile de ricin, équipement de transformation de graines de ricin, ligne de production d'huile de ricin, processus de pressage à chaud de graines de ricin, presse à huile de ricin, extraction d'huile de ricin, transformation de graines oléagineuses de ricin, équipement de pressage d'huile de ricin, équipement de production d'huile de ricin, usine de transformation d'huile de ricin
 ---
 
-# Castor Seed (Castor Oil) Solution
+# Solution de graines de ricin (huile de ricin)
 
-## Overview
+## Aperçu
 
-Castor seed is the seed of the castor plant, rich in special oil that can extract castor oil. Castor oil has unique physicochemical properties, mainly used in industrial fields such as lubricants, coatings, and medicine. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional castor seed pressing solutions, meeting production needs of different scales.
+La graine de ricin est la graine de la plante de ricin, riche en huile spéciale qui peut extraire l'huile de ricin. L'huile de ricin a des propriétés physico-chimiques uniques, principalement utilisée dans les domaines industriels tels que les lubrifiants, les revêtements et la médecine. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de ricin, répondant aux besoins de production d'échelles différentes.
 
 ## Castor Seed Characteristics
 
