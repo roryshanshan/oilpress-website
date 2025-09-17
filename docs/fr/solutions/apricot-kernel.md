@@ -10,13 +10,13 @@ keywords: Solutions de noyau d'abricot, pressage d'huile d'abricot, équipement 
 
 Le noyau d'abricot est la graine des arbres d'abricot, riche en huile de haute qualité qui peut extraire une huile d'abricot nutritive. L'huile d'abricot a d'excellents effets hydratants et nutritionnels, largement utilisée dans l'alimentation et les cosmétiques. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de noyau d'abricot pour répondre aux besoins de production d'échelles différentes.
 
-## Apricot Kernel Characteristics
+## Caractéristiques de noyau d'abricot
 
-### 📊 Basic Parameters
-- **Oil Content**: 40-50%
-- **Protein Content**: 20-25%
-- **Main Fatty Acids**: Oleic acid (60-70%), Linoleic acid (20-30%)
-- **Suitable Temperature**: Pressing temperature controlled at 70-90℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 40-50%
+- **Teneur en protéines** : 20-25%
+- **Acides gras principaux** : Acide oléique (60-70%), Acide linoléique (20-30%)
+- **Température appropriée** : Température de pressage contrôlée à 70-90℃
 
 ### 🌱 Growth Characteristics
 - **Growth Cycle**: Apricot trees have long growth cycles, seeds mature in one year
