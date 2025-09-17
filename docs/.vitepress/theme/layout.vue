@@ -45,13 +45,13 @@
         </a>
         
         <div class="wechat-container">
-          <a href="#" class="social-icon" style="color: #07C160;">
+          <a href="#" @click.prevent="toggleWechatQR" class="social-icon" style="color: #07C160;">
             <svg width="20" height="20" viewBox="0 0 1024 1024" fill="currentColor">
               <path d="M337.387283 341.82659c-17.757225 0-35.514451 11.83815-35.514451 29.595375s17.757225 29.595376 35.514451 29.595376 29.595376-11.83815 29.595376-29.595376c0-18.49711-11.83815-29.595376-29.595376-29.595375zM577.849711 513.479769c-11.83815 0-22.936416 12.578035-22.936416 23.6763 0 12.578035 11.83815 23.676301 22.936416 23.676301 17.757225 0 29.595376-11.83815 29.595376-23.676301s-11.83815-23.676301-29.595376-23.6763zM501.641618 401.017341c17.757225 0 29.595376-12.578035 29.595376-29.595376 0-17.757225-11.83815-29.595376-29.595376-29.595375s-35.514451 11.83815-35.51445 29.595375 17.757225 29.595376 35.51445 29.595376zM706.589595 513.479769c-11.83815 0-22.936416 12.578035-22.936416 23.6763 0 12.578035 11.83815 23.676301 22.936416 23.676301 17.757225 0 29.595376-11.83815 29.595376-23.676301s-11.83815-23.676301-29.595376-23.6763z"/>
               <path d="M510.520231 2.959538C228.624277 2.959538 0 231.583815 0 513.479769s228.624277 510.520231 510.520231 510.520231 510.520231-228.624277 510.520231-510.520231-228.624277-510.520231-510.520231-510.520231zM413.595376 644.439306c-29.595376 0-53.271676-5.919075-81.387284-12.578034l-81.387283 41.433526 22.936416-71.768786c-58.450867-41.433526-93.965318-95.445087-93.965317-159.815029 0-113.202312 105.803468-201.988439 233.803468-201.98844 114.682081 0 216.046243 71.028902 236.023121 166.473989-7.398844-0.739884-14.797688-1.479769-22.196532-1.479769-110.982659 1.479769-198.289017 85.086705-198.289017 188.67052 0 17.017341 2.959538 33.294798 7.398844 49.572255-7.398844 0.739884-15.537572 1.479769-22.936416 1.479768z m346.265896 82.867052l17.757225 59.190752-63.630058-35.514451c-22.936416 5.919075-46.612717 11.83815-70.289017 11.83815-111.722543 0-199.768786-76.947977-199.768786-172.393063-0.739884-94.705202 87.306358-171.653179 198.289017-171.65318 105.803468 0 199.028902 77.687861 199.028902 172.393064 0 53.271676-34.774566 100.624277-81.387283 136.138728z"/>
             </svg>
           </a>
-          <div class="wechat-qr">
+          <div class="wechat-qr" :class="{ 'show': showWechatQR }">
               <img src="https://i.postimg.cc/fzV3PSKV/202508260948733.png?dl=1" alt="微信二维码" width="200" height="200">
               <p>扫码添加微信</p>
             </div>
@@ -478,13 +478,13 @@
         </a>
         
         <div class="wechat-container">
-          <a href="#" class="mobile-social-icon" style="color: #07C160;">
+          <a href="#" @click.prevent="toggleMobileWechatQR" class="mobile-social-icon" style="color: #07C160;">
             <svg width="20" height="20" viewBox="0 0 1024 1024" fill="currentColor">
               <path d="M337.387283 341.82659c-17.757225 0-35.514451 11.83815-35.514451 29.595375s17.757225 29.595376 35.514451 29.595376 29.595376-11.83815 29.595376-29.595376c0-18.49711-11.83815-29.595376-29.595376-29.595375zM577.849711 513.479769c-11.83815 0-22.936416 12.578035-22.936416 23.6763 0 12.578035 11.83815 23.676301 22.936416 23.676301 17.757225 0 29.595376-11.83815 29.595376-23.676301s-11.83815-23.676301-29.595376-23.6763zM501.641618 401.017341c17.757225 0 29.595376-12.578035 29.595376-29.595376 0-17.757225-11.83815-29.595376-29.595376-29.595375s-35.514451 11.83815-35.51445 29.595375 17.757225 29.595376 35.51445 29.595376zM706.589595 513.479769c-11.83815 0-22.936416 12.578035-22.936416 23.6763 0 12.578035 11.83815 23.676301 22.936416 23.676301 17.757225 0 29.595376-11.83815 29.595376-23.676301s-11.83815-23.676301-29.595376-23.6763z"/>
               <path d="M510.520231 2.959538C228.624277 2.959538 0 231.583815 0 513.479769s228.624277 510.520231 510.520231 510.520231 510.520231-228.624277 510.520231-510.520231-228.624277-510.520231-510.520231-510.520231zM413.595376 644.439306c-29.595376 0-53.271676-5.919075-81.387284-12.578034l-81.387283 41.433526 22.936416-71.768786c-58.450867-41.433526-93.965318-95.445087-93.965317-159.815029 0-113.202312 105.803468-201.988439 233.803468-201.98844 114.682081 0 216.046243 71.028902 236.023121 166.473989-7.398844-0.739884-14.797688-1.479769-22.196532-1.479769-110.982659 1.479769-198.289017 85.086705-198.289017 188.67052 0 17.017341 2.959538 33.294798 7.398844 49.572255-7.398844 0.739884-15.537572 1.479769-22.936416 1.479768z m346.265896 82.867052l17.757225 59.190752-63.630058-35.514451c-22.936416 5.919075-46.612717 11.83815-70.289017 11.83815-111.722543 0-199.768786-76.947977-199.768786-172.393063-0.739884-94.705202 87.306358-171.653179 198.289017-171.65318 105.803468 0 199.028902 77.687861 199.028902 172.393064 0 53.271676-34.774566 100.624277-81.387283 136.138728z"/>
             </svg>
           </a>
-          <div class="wechat-qr">
+          <div class="wechat-qr" :class="{ 'show': showMobileWechatQR }">
             <img src="https://i.postimg.cc/fzV3PSKV/202508260948733.png?dl=1" alt="微信二维码" width="200" height="200">
             <p>扫码添加微信</p>
           </div>
@@ -541,6 +541,10 @@ const nestedExpandedMenus = ref({
   filling: false
 })
 
+// 微信二维码显示状态
+const showWechatQR = ref(false)
+const showMobileWechatQR = ref(false)
+
 // 获取当前语言
 const currentLang = computed(() => {
   const path = page.value.relativePath
@@ -578,6 +582,15 @@ const toggleSubmenu = (menuKey) => {
 // 切换嵌套子菜单显示
 const toggleNestedSubmenu = (nestedMenuKey) => {
   nestedExpandedMenus.value[nestedMenuKey] = !nestedExpandedMenus.value[nestedMenuKey]
+}
+
+// 切换微信二维码显示
+const toggleWechatQR = () => {
+  showWechatQR.value = !showWechatQR.value
+}
+
+const toggleMobileWechatQR = () => {
+  showMobileWechatQR.value = !showMobileWechatQR.value
 }
 
 // 切换到指定语言
@@ -652,18 +665,27 @@ const handleClickOutside = (event) => {
   // 检查点击是否在移动端菜单内部
   const mobileMenuContent = event.target.closest('.mobile-nav-content')
   const mobileMenuButton = event.target.closest('.mobile-menu-button')
-  
+
   // 检查点击是否在语言切换器内部
   const langDropdown = event.target.closest('.mobile-lang-switcher')
-  
+
+  // 检查点击是否在微信容器内部
+  const wechatContainer = event.target.closest('.wechat-container')
+
   // 如果点击的不是菜单内容和菜单按钮，则关闭菜单
   if (!mobileMenuContent && !mobileMenuButton && showMobileMenu.value) {
     showMobileMenu.value = false
   }
-  
+
   // 如果点击的不是语言切换器，则关闭下拉菜单
   if (!langDropdown && showDropdown.value) {
     showDropdown.value = false
+  }
+
+  // 如果点击的不是微信容器，则关闭微信二维码
+  if (!wechatContainer) {
+    showWechatQR.value = false
+    showMobileWechatQR.value = false
   }
 }
 
@@ -679,6 +701,8 @@ onMounted(() => {
     if (event.key === 'Escape') {
       showMobileMenu.value = false
       showDropdown.value = false
+      showWechatQR.value = false
+      showMobileWechatQR.value = false
     }
   }
   document.addEventListener('keydown', handleEscKey)
@@ -1018,7 +1042,8 @@ onMounted(() => {
   min-width: 200px;
 }
 
-.mobile-social-icons .wechat-container:hover .wechat-qr {
+.mobile-social-icons .wechat-container:hover .wechat-qr,
+.mobile-social-icons .wechat-qr.show {
   opacity: 1;
   visibility: visible;
 }
@@ -1257,6 +1282,48 @@ onMounted(() => {
   border-color: #3b82f6;
   color: #3b82f6;
   transform: translateY(-1px);
+}
+
+/* 桌面版微信二维码样式 */
+.social-icons .wechat-container {
+  position: relative;
+}
+
+.social-icons .wechat-qr {
+  position: absolute;
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  border: 2px solid var(--vp-c-brand);
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+  z-index: 10000;
+  min-width: 200px;
+}
+
+.social-icons .wechat-container:hover .wechat-qr,
+.social-icons .wechat-qr.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.social-icons .wechat-qr img {
+  width: 150px;
+  height: 150px;
+  border-radius: 8px;
+}
+
+.social-icons .wechat-qr p {
+  margin: 12px 0 0 0;
+  font-size: 14px;
+  color: var(--vp-c-text-2);
+  font-weight: 500;
 }
 
 .social-icons.mobile {
