@@ -18,11 +18,11 @@ Les pépins de raisin sont une importante culture oléagineuse, l'huile de pépi
 - **Acides gras principaux** : Acide linoléique (65-75%), Acide oléique (15-20%), Acide linolénique (5-8%)
 - **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 2-3 years
-- **Suitable Climate**: Temperate, warm areas
-- **Soil Requirements**: Fertile, well-drained soil
-- **Annual Production**: Global annual production exceeds 1 million tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : 2-3 ans
+- **Climat approprié** : Zones tempérées et chaudes
+- **Exigences du sol** : Sol fertile et bien drainé
+- **Production annuelle** : Production annuelle mondiale dépasse 1 million de tonnes
 
 ## Processing Technology
 

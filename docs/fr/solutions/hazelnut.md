@@ -18,11 +18,11 @@ La noisette est une importante culture oléagineuse, l'huile de noisette a une v
 - **Acides gras principaux** : Acide oléique (75-85%), Acide linoléique (10-15%), Acide palmitique (3-5%)
 - **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 4-6 years
-- **Suitable Climate**: Temperate, humid areas
-- **Soil Requirements**: Fertile, well-drained soil
-- **Annual Production**: Global annual production exceeds 800,000 tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : 4-6 ans
+- **Climat approprié** : Zones tempérées et humides
+- **Exigences du sol** : Sol fertile et bien drainé
+- **Production annuelle** : Production annuelle mondiale dépasse 800 000 tonnes
 
 ## Processing Technology
 
