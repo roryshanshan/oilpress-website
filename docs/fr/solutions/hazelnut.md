@@ -10,13 +10,13 @@ keywords: Solutions de noisette, pressage d'huile de noisette, équipement de tr
 
 La noisette est une importante culture oléagineuse, l'huile de noisette a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de noisette, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
-## Hazelnut Characteristics
+## Caractéristiques de noisette
 
-### 📊 Basic Parameters
-- **Oil Content**: 55-65%
-- **Protein Content**: 15-20%
-- **Main Fatty Acids**: Oleic acid (75-85%), Linoleic acid (10-15%), Palmitic acid (3-5%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 55-65%
+- **Teneur en protéines** : 15-20%
+- **Acides gras principaux** : Acide oléique (75-85%), Acide linoléique (10-15%), Acide palmitique (3-5%)
+- **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
 ### 🌱 Growth Characteristics
 - **Growth Cycle**: 4-6 years

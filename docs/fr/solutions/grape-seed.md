@@ -10,13 +10,13 @@ keywords: Solutions de pépins de raisin, pressage d'huile de pépins de raisin,
 
 Les pépins de raisin sont une importante culture oléagineuse, l'huile de pépins de raisin a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de pépins de raisin, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
-## Grape Seed Characteristics
+## Caractéristiques de pépins de raisin
 
-### 📊 Basic Parameters
-- **Oil Content**: 12-18%
-- **Protein Content**: 10-15%
-- **Main Fatty Acids**: Linoleic acid (65-75%), Oleic acid (15-20%), Linolenic acid (5-8%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 12-18%
+- **Teneur en protéines** : 10-15%
+- **Acides gras principaux** : Acide linoléique (65-75%), Acide oléique (15-20%), Acide linolénique (5-8%)
+- **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
 ### 🌱 Growth Characteristics
 - **Growth Cycle**: 2-3 years
