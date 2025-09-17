@@ -1,14 +1,14 @@
 ---
-title: Palm (Palm Oil) Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional palm oil pressing solutions, providing palm oil processing equipment and technical services, oil content 45-55%, using appropriate pressing process to highlight industrial applications, meeting different needs from small workshops to large factories.
-keywords: Palm solutions, Palm oil pressing, Palm processing equipment, Palm oil production line, Palm oil press, Palm oil extraction, Palm oilseed processing, Palm oil pressing equipment, Palm oil production equipment, Palm oil processing plant
+title: Solutions de palmier (huile de palme) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage d'huile de palme, fournissant des équipements et services techniques de transformation d'huile de palme, teneur en huile 45-55%, utilisant un processus de pressage approprié pour mettre en valeur les applications industrielles, répondant aux besoins différents des petits ateliers aux grandes usines.
+keywords: Solutions de palmier, pressage d'huile de palme, équipement de transformation de palmier, ligne de production d'huile de palme, presse à huile de palme, extraction d'huile de palme, transformation de graines oléagineuses de palmier, équipement de pressage d'huile de palme, équipement de production d'huile de palme, usine de transformation d'huile de palme
 ---
 
-# Palm (Palm Oil) Solution
+# Solution de palmier (huile de palme)
 
-## Overview
+## Aperçu
 
-Palm is an important oil crop, palm oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional palm pressing solutions, from small workshops to large factories with complete equipment and services.
+Le palmier est une importante culture oléagineuse, l'huile de palme a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de palmier, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
 ## Palm Characteristics
 

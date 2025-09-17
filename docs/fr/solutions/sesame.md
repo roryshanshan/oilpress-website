@@ -1,14 +1,14 @@
 ---
-title: Sesame (Sesame Oil) Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional sesame pressing solutions, providing sesame oil processing equipment and technical services, oil content 50-60%, using hot pressing process to highlight aroma, from small workshops to large factories with complete equipment and services.
-keywords: Sesame solutions, Sesame oil pressing, Sesame processing equipment, Sesame oil production line, Sesame hot pressing process, Sesame oil press, Sesame oil extraction, Sesame oilseed processing, Sesame oil pressing equipment, Sesame oil production equipment, Sesame oil processing plant
+title: Solutions de sésame (huile de sésame) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage de sésame, fournissant des équipements et services techniques de transformation d'huile de sésame, teneur en huile 50-60%, utilisant le processus de pressage à chaud pour mettre en valeur l'arôme, des petits ateliers aux grandes usines avec un équipement et des services complets.
+keywords: Solutions de sésame, pressage d'huile de sésame, équipement de transformation de sésame, ligne de production d'huile de sésame, processus de pressage à chaud de sésame, presse à huile de sésame, extraction d'huile de sésame, transformation de graines oléagineuses de sésame, équipement de pressage d'huile de sésame, équipement de production d'huile de sésame, usine de transformation d'huile de sésame
 ---
 
-# Sesame (Sesame Oil) Solutions
+# Solutions de sésame (huile de sésame)
 
-## Overview
+## Aperçu
 
-Sesame is an important oilseed crop, and sesame oil has unique aroma and rich nutritional value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional sesame pressing solutions, from small workshops to large factories with complete equipment and services.
+Le sésame est une importante culture oléagineuse, et l'huile de sésame a un arôme unique et une valeur nutritionnelle riche. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de sésame, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
 ## Sesame Characteristics
 

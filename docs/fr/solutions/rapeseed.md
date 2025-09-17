@@ -1,14 +1,14 @@
 ---
-title: Rapeseed (Rapeseed Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional rapeseed pressing solutions, providing rapeseed oil processing equipment and technical services, oil content 35-45%, using hot pressing process to ensure oil yield, from small workshops to large factories with complete equipment and services.
-keywords: Rapeseed solutions, Rapeseed oil pressing, Rapeseed processing equipment, Rapeseed oil production line, Rapeseed oil hot pressing process, Rapeseed oil press, Rapeseed oil extraction, Rapeseed oilseed processing, Rapeseed oil pressing equipment, Rapeseed oil production equipment, Rapeseed oil processing plant
+title: Solution de colza (huile de colza) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage de colza, fournissant des équipements et services techniques de transformation d'huile de colza, teneur en huile 35-45%, utilisant le processus de pressage à chaud pour assurer le rendement en huile, des petits ateliers aux grandes usines avec un équipement et des services complets.
+keywords: Solutions de colza, pressage d'huile de colza, équipement de transformation de colza, ligne de production d'huile de colza, processus de pressage à chaud d'huile de colza, presse à huile de colza, extraction d'huile de colza, transformation de graines oléagineuses de colza, équipement de pressage d'huile de colza, équipement de production d'huile de colza, usine de transformation d'huile de colza
 ---
 
-# Rapeseed (Rapeseed Oil) Solution
+# Solution de colza (huile de colza)
 
-## Overview
+## Aperçu
 
-Rapeseed is an important oil crop, rapeseed oil is one of the major edible oils globally. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional rapeseed pressing solutions, from small workshops to large factories with complete equipment and services.
+Le colza est une importante culture oléagineuse, l'huile de colza est l'une des principales huiles alimentaires au niveau mondial. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de colza, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
 ## Rapeseed Characteristics
 
