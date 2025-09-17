@@ -10,13 +10,13 @@ keywords: Solutions de noix, pressage d'huile de noix, équipement de transforma
 
 La noix est une importante culture oléagineuse, l'huile de noix a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de noix, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
-## Walnut Characteristics
+## Caractéristiques de noix
 
-### 📊 Basic Parameters
-- **Oil Content**: 60-70%
-- **Protein Content**: 15-20%
-- **Main Fatty Acids**: Linoleic acid (55-65%), Oleic acid (15-25%), Linolenic acid (8-12%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 60-70%
+- **Teneur en protéines** : 15-20%
+- **Acides gras principaux** : Acide linoléique (55-65%), Acide oléique (15-25%), Acide linolénique (8-12%)
+- **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
 ### 🌱 Growth Characteristics
 - **Growth Cycle**: 3-5 years

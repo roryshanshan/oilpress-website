@@ -10,13 +10,13 @@ keywords: Solutions de graines de pastèque, pressage d'huile de graines de past
 
 Les graines de pastèque sont une importante culture oléagineuse, l'huile de graines de pastèque a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de pastèque, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
-## Watermelon Seed Characteristics
+## Caractéristiques de graines de pastèque
 
-### 📊 Basic Parameters
-- **Oil Content**: 40-50%
-- **Protein Content**: 25-30%
-- **Main Fatty Acids**: Linoleic acid (50-60%), Oleic acid (20-30%), Palmitic acid (8-12%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 40-50%
+- **Teneur en protéines** : 25-30%
+- **Acides gras principaux** : Acide linoléique (50-60%), Acide oléique (20-30%), Acide palmitique (8-12%)
+- **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
 ### 🌱 Growth Characteristics
 - **Growth Cycle**: 80-100 days

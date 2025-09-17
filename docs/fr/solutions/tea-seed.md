@@ -10,13 +10,13 @@ keywords: Solutions de graines de thé, pressage d'huile de graines de thé, éq
 
 Les graines de thé sont une importante culture oléagineuse, l'huile de graines de thé a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de thé, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
-## Tea Seed Characteristics
+## Caractéristiques de graines de thé
 
-### 📊 Basic Parameters
-- **Oil Content**: 25-35%
-- **Protein Content**: 15-20%
-- **Main Fatty Acids**: Oleic acid (75-85%), Linoleic acid (8-12%), Palmitic acid (8-10%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 25-35%
+- **Teneur en protéines** : 15-20%
+- **Acides gras principaux** : Acide oléique (75-85%), Acide linoléique (8-12%), Acide palmitique (8-10%)
+- **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
 ### 🌱 Growth Characteristics
 - **Growth Cycle**: 3-5 years
