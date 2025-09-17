@@ -18,11 +18,11 @@ Le noyau de pêche est une importante culture oléagineuse, l'huile de noyau a u
 - **Acides gras principaux** : Acide oléique (60-70%), Acide linoléique (20-30%), Acide palmitique (4-6%)
 - **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 3-4 years
-- **Suitable Climate**: Temperate, warm areas
-- **Soil Requirements**: Fertile, well-drained soil
-- **Annual Production**: Global annual production exceeds 100,000 tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : 3-4 ans
+- **Climat approprié** : Zones tempérées et chaudes
+- **Exigences du sol** : Sol fertile et bien drainé
+- **Production annuelle** : Production annuelle mondiale dépasse 100 000 tonnes
 
 ## Processing Technology
 

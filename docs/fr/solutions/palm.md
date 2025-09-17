@@ -18,11 +18,11 @@ Le palmier est une importante culture oléagineuse, l'huile de palme a une valeu
 - **Acides gras principaux** : Acide palmitique (40-45%), Acide oléique (35-40%), Acide linoléique (8-12%)
 - **Température appropriée** : Température de pressage contrôlée à 80-100℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 2-3 years
-- **Suitable Climate**: Tropical, rainforest areas
-- **Soil Requirements**: Fertile, humid soil
-- **Annual Production**: Global annual production exceeds 70 million tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : 2-3 ans
+- **Climat approprié** : Zones tropicales, forêts pluviales
+- **Exigences du sol** : Sol fertile et humide
+- **Production annuelle** : Production annuelle mondiale dépasse 70 millions de tonnes
 
 ## Processing Technology
 

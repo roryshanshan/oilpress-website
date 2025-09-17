@@ -18,11 +18,11 @@ L'arachide est une importante graine oléagineuse et culture commerciale, et l'h
 - **Acides gras principaux** : Acide oléique (40-50%), Acide linoléique (30-40%)
 - **Température appropriée** : Température de pressage contrôlée à 80-100℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 120-150 days
-- **Suitable Climate**: Warm, sunny areas
-- **Soil Requirements**: Loose, fertile sandy soil
-- **Annual Production**: China annual production exceeds 16 million tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : 120-150 jours
+- **Climat approprié** : Zones chaudes et ensoleillées
+- **Exigences du sol** : Sol sableux lâche et fertile
+- **Production annuelle** : Production annuelle chinoise dépasse 16 millions de tonnes
 
 ## Processing Technology
 
