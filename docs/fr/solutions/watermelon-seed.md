@@ -18,11 +18,11 @@ Les graines de pastèque sont une importante culture oléagineuse, l'huile de gr
 - **Acides gras principaux** : Acide linoléique (50-60%), Acide oléique (20-30%), Acide palmitique (8-12%)
 - **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 80-100 days
-- **Suitable Climate**: Warm, dry areas
-- **Soil Requirements**: Sandy, fertile soil
-- **Annual Production**: Global annual production exceeds 500,000 tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : 80-100 jours
+- **Climat approprié** : Zones chaudes et sèches
+- **Exigences du sol** : Sol sableux et fertile
+- **Production annuelle** : Production annuelle mondiale dépasse 500 000 tonnes
 
 ## Processing Technology
 
