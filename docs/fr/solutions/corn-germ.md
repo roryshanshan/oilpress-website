@@ -1,14 +1,14 @@
 ---
-title: Corn Germ (Corn Germ Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional corn germ pressing solutions, providing corn germ oil processing equipment and technical services, oil content 35-45%, using hot pressing process to ensure oil yield, meeting production needs of different scales.
-keywords: Corn germ solutions, Corn germ oil pressing, Corn germ processing equipment, Corn germ oil production line, Corn germ oil hot pressing process, Corn germ oil press, Corn germ oil extraction, Corn germ oilseed processing, Corn germ oil pressing equipment, Corn germ oil production equipment
+title: Solution de germe de maïs (huile de germe de maïs) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage de germe de maïs, fournissant des équipements et services techniques de transformation d'huile de germe de maïs, teneur en huile 35-45%, utilisant le processus de pressage à chaud pour assurer le rendement en huile, répondant aux besoins de production d'échelles différentes.
+keywords: Solutions de germe de maïs, pressage d'huile de germe de maïs, équipement de transformation de germe de maïs, ligne de production d'huile de germe de maïs, processus de pressage à chaud d'huile de germe de maïs, presse à huile de germe de maïs, extraction d'huile de germe de maïs, transformation de graines oléagineuses de germe de maïs, équipement de pressage d'huile de germe de maïs, équipement de production d'huile de germe de maïs
 ---
 
-# Corn Germ (Corn Germ Oil) Solution
+# Solution de germe de maïs (huile de germe de maïs)
 
-## Overview
+## Aperçu
 
-Corn germ is an important by-product of corn processing, rich in high-quality oil, and can extract nutritious corn germ oil. Corn germ oil has good nutritional value and stability, widely used in edible oil and food processing. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional corn germ pressing solutions, meeting production needs of different scales.
+Le germe de maïs est un sous-produit important de la transformation du maïs, riche en huile de haute qualité, et peut extraire une huile de germe de maïs nutritive. L'huile de germe de maïs a une bonne valeur nutritionnelle et stabilité, largement utilisée dans l'huile alimentaire et la transformation alimentaire. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de germe de maïs, répondant aux besoins de production d'échelles différentes.
 
 ## Corn Germ Characteristics
 
