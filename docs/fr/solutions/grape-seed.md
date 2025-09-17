@@ -1,14 +1,14 @@
 ---
-title: Grape Seed (Grape Seed Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional grape seed pressing solutions, providing grape seed oil processing equipment and technical services, oil content 12-18%, rich in linoleic acid, using hot pressing process to ensure oil yield, meeting high-end edible oil and antioxidant product needs.
-keywords: Grape seed solutions, Grape seed oil pressing, Grape seed processing equipment, Grape seed oil production line, Grape seed hot pressing process, Grape seed oil press, Grape seed oil extraction, Grape seed oilseed processing, Grape seed oil pressing equipment, Grape seed oil production equipment
+title: Solution de pépins de raisin (huile de pépins de raisin) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage de pépins de raisin, fournissant des équipements et services techniques de transformation d'huile de pépins de raisin, teneur en huile 12-18%, riche en acide linoléique, utilisant le processus de pressage à chaud pour assurer le rendement en huile, répondant aux besoins d'huiles alimentaires haut de gamme et de produits antioxydants.
+keywords: Solutions de pépins de raisin, pressage d'huile de pépins de raisin, équipement de transformation de pépins de raisin, ligne de production d'huile de pépins de raisin, processus de pressage à chaud de pépins de raisin, presse à huile de pépins de raisin, extraction d'huile de pépins de raisin, transformation de graines oléagineuses de pépins de raisin, équipement de pressage d'huile de pépins de raisin, équipement de production d'huile de pépins de raisin
 ---
 
-# Grape Seed (Grape Seed Oil) Solution
+# Solution de pépins de raisin (huile de pépins de raisin)
 
-## Overview
+## Aperçu
 
-Grape seed is an important oil crop, grape seed oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional grape seed pressing solutions, from small workshops to large factories with complete equipment and services.
+Les pépins de raisin sont une importante culture oléagineuse, l'huile de pépins de raisin a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de pépins de raisin, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
 ## Grape Seed Characteristics
 

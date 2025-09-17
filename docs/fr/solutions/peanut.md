@@ -1,14 +1,14 @@
 ---
-title: Peanut (Peanut Oil) Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional peanut pressing solutions, providing peanut oil processing equipment and technical services, oil content 45-55%, using hot pressing process to highlight aroma, meeting different needs from small workshops to large factories.
-keywords: Peanut solutions, Peanut oil pressing, Peanut processing equipment, Peanut oil production line, Peanut hot pressing process, Peanut oil press, Peanut oil extraction, Peanut oilseed processing, Peanut oil pressing equipment, Peanut oil production equipment, Peanut oil processing plant
+title: Solutions d'arachide (huile d'arachide) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage d'arachide, fournissant des équipements et services techniques de transformation d'huile d'arachide, teneur en huile 45-55%, utilisant le processus de pressage à chaud pour mettre en valeur l'arôme, répondant aux besoins différents des petits ateliers aux grandes usines.
+keywords: Solutions d'arachide, pressage d'huile d'arachide, équipement de transformation d'arachide, ligne de production d'huile d'arachide, processus de pressage à chaud d'arachide, presse à huile d'arachide, extraction d'huile d'arachide, transformation de graines oléagineuses d'arachide, équipement de pressage d'huile d'arachide, équipement de production d'huile d'arachide, usine de transformation d'huile d'arachide
 ---
 
-# Peanut (Peanut Oil) Solutions
+# Solutions d'arachide (huile d'arachide)
 
-## Overview
+## Aperçu
 
-Peanut is an important oilseed and cash crop, and peanut oil has unique aroma and rich nutritional value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional peanut pressing solutions to meet different needs from small workshops to large factories.
+L'arachide est une importante graine oléagineuse et culture commerciale, et l'huile d'arachide a un arôme unique et une valeur nutritionnelle riche. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage d'arachide pour répondre aux besoins différents des petits ateliers aux grandes usines.
 
 ## Peanut Characteristics
 

@@ -1,14 +1,14 @@
 ---
-title: Hazelnut (Hazelnut Oil) Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional hazelnut oil pressing solutions, providing hazelnut oil processing equipment and technical services, oil content 55-65%, using cold pressing process to highlight aroma, meeting different needs from small workshops to large factories.
-keywords: Hazelnut solutions, Hazelnut oil pressing, Hazelnut processing equipment, Hazelnut oil production line, Hazelnut cold pressing process, Hazelnut oil press, Hazelnut oil extraction, Hazelnut oilseed processing, Hazelnut oil pressing equipment, Hazelnut oil production equipment, Hazelnut oil processing plant
+title: Solutions de noisette (huile de noisette) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage d'huile de noisette, fournissant des équipements et services techniques de transformation d'huile de noisette, teneur en huile 55-65%, utilisant le processus de pressage à froid pour mettre en valeur l'arôme, répondant aux besoins différents des petits ateliers aux grandes usines.
+keywords: Solutions de noisette, pressage d'huile de noisette, équipement de transformation de noisette, ligne de production d'huile de noisette, processus de pressage à froid de noisette, presse à huile de noisette, extraction d'huile de noisette, transformation de graines oléagineuses de noisette, équipement de pressage d'huile de noisette, équipement de production d'huile de noisette, usine de transformation d'huile de noisette
 ---
 
-# Hazelnut (Hazelnut Oil) Solution
+# Solution de noisette (huile de noisette)
 
-## Overview
+## Aperçu
 
-Hazelnut is an important oil crop, hazelnut oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional hazelnut pressing solutions, from small workshops to large factories with complete equipment and services.
+La noisette est une importante culture oléagineuse, l'huile de noisette a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de noisette, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
 ## Hazelnut Characteristics
 
