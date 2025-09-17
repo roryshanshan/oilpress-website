@@ -10,13 +10,13 @@ keywords: Solutions de pistache, pressage d'huile de pistache, équipement de tr
 
 La pistache est une noix nutritive, riche en huile de haute qualité, et peut extraire une huile de pistache précieuse. L'huile de pistache a une saveur unique et des composants nutritionnels, largement utilisée dans l'huile alimentaire haut de gamme et la transformation alimentaire. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de pistache, répondant aux besoins de production d'échelles différentes.
 
-## Pistachio Characteristics
+## Caractéristiques de pistache
 
-### 📊 Basic Parameters
-- **Oil Content**: 50-60%
-- **Protein Content**: 15-20%
-- **Main Fatty Acids**: Oleic acid (50-60%), Linoleic acid (25-35%)
-- **Suitable Temperature**: Pressing temperature controlled at 75-95℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 50-60%
+- **Teneur en protéines** : 15-20%
+- **Acides gras principaux** : Acide oléique (50-60%), Acide linoléique (25-35%)
+- **Température appropriée** : Température de pressage contrôlée à 75-95℃
 
 ### 🌱 Growth Characteristics
 - **Growth Cycle**: Tree has long growth cycle, fruit matures over many years

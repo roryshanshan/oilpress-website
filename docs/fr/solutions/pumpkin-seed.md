@@ -10,13 +10,13 @@ keywords: Solutions de graines de citrouille, pressage d'huile de graines de cit
 
 Les graines de citrouille sont une importante culture oléagineuse, l'huile de graines de citrouille a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de citrouille, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
-## Pumpkin Seed Characteristics
+## Caractéristiques de graines de citrouille
 
-### 📊 Basic Parameters
-- **Oil Content**: 35-45%
-- **Protein Content**: 25-30%
-- **Main Fatty Acids**: Linoleic acid (45-55%), Oleic acid (25-35%), Palmitic acid (10-15%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 35-45%
+- **Teneur en protéines** : 25-30%
+- **Acides gras principaux** : Acide linoléique (45-55%), Acide oléique (25-35%), Acide palmitique (10-15%)
+- **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
 ### 🌱 Growth Characteristics
 - **Growth Cycle**: 90-120 days

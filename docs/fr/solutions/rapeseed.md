@@ -10,13 +10,13 @@ keywords: Solutions de colza, pressage d'huile de colza, équipement de transfor
 
 Le colza est une importante culture oléagineuse, l'huile de colza est l'une des principales huiles alimentaires au niveau mondial. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de colza, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
-## Rapeseed Characteristics
+## Caractéristiques de colza
 
-### 📊 Basic Parameters
-- **Oil Content**: 35-45%
-- **Protein Content**: 20-25%
-- **Main Fatty Acids**: Oleic acid (55-70%), Linoleic acid (15-25%), Linolenic acid (5-10%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 35-45%
+- **Teneur en protéines** : 20-25%
+- **Acides gras principaux** : Acide oléique (55-70%), Acide linoléique (15-25%), Acide linolénique (5-10%)
+- **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
 ### 🌱 Growth Characteristics
 - **Growth Cycle**: 90-120 days
