@@ -24,16 +24,16 @@ Le cajou est une importante culture oléagineuse, l'huile de cajou a une valeur 
 - **Exigences du sol** : Sol sableux et bien drainé
 - **Production annuelle** : Production annuelle mondiale dépasse 4 millions de tonnes
 
-## Processing Technology
+## Technologie de transformation
 
-### Traditional Process Flow
+### Flux de processus traditionnel
 
-Cashew pressing process: (Recommended 426AC-390/480AC-390/500AC-390)
-+ Cashew peel hot pressing process: Pressing after steaming
-    + ![Cashew Peel Pressing Process](/images/腰果皮热榨工艺Hot%20pressing%20process%20of%20cashew%20peel.png)
+Processus de pressage de cajou : (Recommandé 426AC-390/480AC-390/500AC-390)
++ Processus de pressage à chaud de peau de cajou : Pressage après cuisson à la vapeur
+    + ![Processus de pressage de peau de cajou](/images/腰果皮热榨工艺Hot%20pressing%20process%20of%20cashew%20peel.png)
 
-+ Cashew kernel cold pressing process: Direct pressing
-    + ![Cashew Kernel Cold Pressing Process](/images/腰果仁冷榨工艺_Cold%20pressing%20process%20of%20cashew%20kernels_.png)
++ Processus de pressage à froid de noyau de cajou : Pressage direct
+    + ![Processus de pressage à froid de noyau de cajou](/images/腰果仁冷榨工艺_Cold%20pressing%20process%20of%20cashew%20kernels_.png)
 
 ## Avantages techniques
 

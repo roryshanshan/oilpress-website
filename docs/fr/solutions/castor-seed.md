@@ -18,11 +18,11 @@ La graine de ricin est la graine de la plante de ricin, riche en huile spéciale
 - **Composant principal** : Acide ricinoléique (80-90%)
 - **Température appropriée** : Température de pressage contrôlée à 80-100℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 150-180 days
-- **Suitable Climate**: Warm, humid climate
-- **Soil Requirements**: Fertile, well-drained soil
-- **Annual Production**: Global castor production about 2 million tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : 150-180 jours
+- **Climat approprié** : Climat chaud et humide
+- **Exigences du sol** : Sol fertile et bien drainé
+- **Production annuelle** : Production mondiale de ricin d'environ 2 millions de tonnes
 
 ## Processing Technology
 Castor seed oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/400AC-390)

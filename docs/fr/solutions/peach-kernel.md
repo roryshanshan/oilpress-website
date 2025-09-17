@@ -10,13 +10,13 @@ keywords: Solutions de noyau de pêche, pressage d'huile de noyau de pêche, éq
 
 Le noyau de pêche est une importante culture oléagineuse, l'huile de noyau a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de noyau de pêche, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
-## Peach Kernel Characteristics
+## Caractéristiques de noyau de pêche
 
-### 📊 Basic Parameters
-- **Oil Content**: 40-50%
-- **Protein Content**: 20-25%
-- **Main Fatty Acids**: Oleic acid (60-70%), Linoleic acid (20-30%), Palmitic acid (4-6%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 40-50%
+- **Teneur en protéines** : 20-25%
+- **Acides gras principaux** : Acide oléique (60-70%), Acide linoléique (20-30%), Acide palmitique (4-6%)
+- **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
 ### 🌱 Growth Characteristics
 - **Growth Cycle**: 3-4 years
