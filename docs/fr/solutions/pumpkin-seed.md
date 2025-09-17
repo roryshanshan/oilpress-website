@@ -1,14 +1,14 @@
 ---
-title: Pumpkin Seed (Pumpkin Seed Oil) Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional pumpkin seed oil pressing solutions, providing pumpkin seed oil processing equipment and technical services, oil content 35-45%, using cold pressing process to highlight nutritional value, meeting different needs from small workshops to large factories.
-keywords: Pumpkin seed solutions, Pumpkin seed oil pressing, Pumpkin seed processing equipment, Pumpkin seed oil production line, Pumpkin seed cold pressing process, Pumpkin seed oil press, Pumpkin seed oil extraction, Pumpkin seed oilseed processing, Pumpkin seed oil pressing equipment, Pumpkin seed oil production equipment, Pumpkin seed oil processing plant
+title: Solutions de graines de citrouille (huile de graines de citrouille) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage d'huile de graines de citrouille, fournissant des équipements et services techniques de transformation d'huile de graines de citrouille, teneur en huile 35-45%, utilisant le processus de pressage à froid pour mettre en valeur la valeur nutritionnelle, répondant aux besoins différents des petits ateliers aux grandes usines.
+keywords: Solutions de graines de citrouille, pressage d'huile de graines de citrouille, équipement de transformation de graines de citrouille, ligne de production d'huile de graines de citrouille, processus de pressage à froid de graines de citrouille, presse à huile de graines de citrouille, extraction d'huile de graines de citrouille, transformation de graines oléagineuses de graines de citrouille, équipement de pressage d'huile de graines de citrouille, équipement de production d'huile de graines de citrouille, usine de transformation d'huile de graines de citrouille
 ---
 
-# Pumpkin Seed (Pumpkin Seed Oil) Solution
+# Solution de graines de citrouille (huile de graines de citrouille)
 
-## Overview
+## Aperçu
 
-Pumpkin seed is an important oil crop, pumpkin seed oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional pumpkin seed pressing solutions, from small workshops to large factories with complete equipment and services.
+Les graines de citrouille sont une importante culture oléagineuse, l'huile de graines de citrouille a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de citrouille, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
 ## Pumpkin Seed Characteristics
 

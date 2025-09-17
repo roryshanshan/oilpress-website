@@ -1,14 +1,14 @@
 ---
-title: Pistachio (Pistachio Oil) Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional pistachio oil pressing solutions, providing pistachio oil processing equipment and technical services, oil content 50-60%, using appropriate pressing process to highlight nutritional value, meeting different needs from small workshops to large factories.
-keywords: Pistachio solutions, Pistachio oil pressing, Pistachio processing equipment, Pistachio oil production line, Pistachio oil press, Pistachio oil extraction, Pistachio oilseed processing, Pistachio oil pressing equipment, Pistachio oil production equipment, Pistachio oil processing plant, Pistachio oil nutritional value
+title: Solutions de pistache (huile de pistache) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage d'huile de pistache, fournissant des équipements et services techniques de transformation d'huile de pistache, teneur en huile 50-60%, utilisant un processus de pressage approprié pour mettre en valeur la valeur nutritionnelle, répondant aux besoins différents des petits ateliers aux grandes usines.
+keywords: Solutions de pistache, pressage d'huile de pistache, équipement de transformation de pistache, ligne de production d'huile de pistache, presse à huile de pistache, extraction d'huile de pistache, transformation de graines oléagineuses de pistache, équipement de pressage d'huile de pistache, équipement de production d'huile de pistache, usine de transformation d'huile de pistache, valeur nutritionnelle d'huile de pistache
 ---
 
-# Pistachio (Pistachio Oil) Solution
+# Solution de pistache (huile de pistache)
 
-## Overview
+## Aperçu
 
-Pistachio is a nutritious nut, rich in high-quality oil, and can extract valuable pistachio oil. Pistachio oil has unique flavor and nutritional components, widely used in premium edible oil and food processing. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional pistachio pressing solutions, meeting production needs of different scales.
+La pistache est une noix nutritive, riche en huile de haute qualité, et peut extraire une huile de pistache précieuse. L'huile de pistache a une saveur unique et des composants nutritionnels, largement utilisée dans l'huile alimentaire haut de gamme et la transformation alimentaire. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de pistache, répondant aux besoins de production d'échelles différentes.
 
 ## Pistachio Characteristics
 

@@ -1,14 +1,14 @@
 ---
-title: Perilla Seed (Perilla Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional perilla seed pressing solutions, providing perilla oil processing equipment and technical services, oil content 40-50%, rich in α-linolenic acid, using cold pressing process to preserve nutrition, meeting Ω-3 health oil and traditional medicine needs.
-keywords: Perilla seed solutions, Perilla oil pressing, Perilla seed processing equipment, Perilla oil production line, Perilla seed cold pressing process, Perilla seed oil press, Perilla oil extraction, Perilla seed oilseed processing, Perilla oil pressing equipment, Perilla oil, Ω-3 health oil
+title: Solution de graines de périlla (huile de périlla) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage de graines de périlla, fournissant des équipements et services techniques de transformation d'huile de périlla, teneur en huile 40-50%, riche en acide α-linolénique, utilisant le processus de pressage à froid pour préserver la nutrition, répondant aux besoins d'huiles de santé Ω-3 et de médecine traditionnelle.
+keywords: Solutions de graines de périlla, pressage d'huile de périlla, équipement de transformation de graines de périlla, ligne de production d'huile de périlla, processus de pressage à froid de graines de périlla, presse à huile de graines de périlla, extraction d'huile de périlla, transformation de graines oléagineuses de périlla, équipement de pressage d'huile de périlla, huile de périlla, huile de santé Ω-3
 ---
 
-# Perilla Seed (Perilla Oil) Solution
+# Solution de graines de périlla (huile de périlla)
 
-## Overview
+## Aperçu
 
-Perilla seed is an important oil crop, perilla oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional perilla seed pressing solutions, from small workshops to large factories with complete equipment and services.
+Les graines de périlla sont une importante culture oléagineuse, l'huile de périlla a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de périlla, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
 ## Perilla Seed Characteristics
 
