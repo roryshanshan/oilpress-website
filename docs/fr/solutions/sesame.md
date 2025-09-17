@@ -24,9 +24,9 @@ Le sésame est une importante culture oléagineuse, et l'huile de sésame a un a
 - **Exigences du sol** : Sol fertile et bien drainé
 - **Production annuelle** : Production annuelle mondiale dépasse 5 millions de tonnes
 
-## Processing Technology
+## Technologie de Transformation
 
-### Sesame Oil Hot Pressing Process
+### Sesame Oil Hot Pressage Process
 - Roll-type wok roasting sesame then directly feeding into hydraulic oil press bucket for pressing. The sesame oil produced by this process has a rich aroma, sweet aftertaste, and does not require hydration treatment with no foaming when cooking.
 - Basically no filtration treatment is needed, just sedimentation and bottling.
 - ![](/images/芝麻热榨工艺.png)
@@ -36,32 +36,32 @@ Le sésame est une importante culture oléagineuse, et l'huile de sésame a un a
 ### Recommended Equipment
 - **Sesame**: 300AC-390/325AC-390/355AC-390/400AC-390
 
-## Technical Advantages
+## Avantages Techniques
 
 ### 🎯 Precise Control
 - Roasting temperature control: ±5℃ accuracy
 - Roasting time control: Optimal process parameters
-- Pressing pressure control: Intelligent adjustment
+- Pressage pressure control: Intelligent adjustment
 
 ### 💧 Oil Quality Guarantee
 - Hot pressing process highlights aroma
 - Physical pressing ensures purity
 - Oil yield up to 52-58%
 
-### 🔄 Continuous Production
-- Automated roasting system
+### 🔄 Production Continue
+- Système de torréfaction automatisé
 - Continuous pressing process
 - Intelligent quality monitoring
 
-## Product Applications
+## Applications des Produits
 
 ### 🍳 Edible Oil
 - Sesame oil: Main edible oil variety
 - Blended oil: Mixed with other oils
 - Special oil: High-end nutritional oil
 
-### 🥛 By-products
-- Sesame meal: High-quality protein feed
+### 🥛 Sous-produits
+- Sesame meal: Aliment protéique de haute qualité
 - Sesame paste: Food processing raw material
 - Sesame protein: Food additives
 
@@ -106,9 +106,9 @@ Le sésame est une importante culture oléagineuse, et l'huile de sésame a un a
 - **Market Positioning**: Premium organic edible oil
 - **Export Market**: Southeast Asia, Japan
 
-## Quality Standards
+## Normes de Qualité
 
-### 🏆 Product Quality Standards
+### 🏆 Normes de Qualité des Produits
 - Meets national sesame oil standards (GB 8233)
 - Meets food safety standards
 - Meets export food standards
@@ -122,24 +122,24 @@ Le sésame est une importante culture oléagineuse, et l'huile de sésame a un a
 - Aflatoxin testing
 - Pesticide residue testing
 
-## Sustainable Development
+## Développement Durable
 
-### 🌱 Environmental Production
-- Waste recycling utilization
-- Energy saving and emission reduction processes
-- Green production standards
+### 🌱 Production Environnementale
+- Recyclage et utilisation des déchets
+- Processus d'économie d'énergie et de réduction d'émissions
+- Normes de production verte
 
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
+### 🔄 Utilisation des Ressources
+- Utilisation complète des sous-produits
+- Extension de la chaîne industrielle
+- Modèle d'économie circulaire
 
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
+### 🌍 Responsabilité Sociale
+- Soutien à l'augmentation des revenus des agriculteurs
+- Assurer la sécurité alimentaire
+- Protéger l'environnement écologique
 
-## Contact Us
+## Contactez-nous
 
 If you are interested in sesame pressing solutions, please contact our technical team:
 

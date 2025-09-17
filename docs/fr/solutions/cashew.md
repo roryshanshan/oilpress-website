@@ -82,9 +82,9 @@ Processus de pressage de cajou : (Recommandé 426AC-390/480AC-390/500AC-390)
 - Industrial oil enterprises
 - Export trade enterprises
 
-## Quality Standards
+## Normes de Qualité
 
-### 🏆 Product Quality Standards
+### 🏆 Normes de Qualité des Produits
 - Complies with national cashew oil standards
 - Complies with food safety standards
 - Complies with export food standards
@@ -97,24 +97,24 @@ Processus de pressage de cajou : (Recommandé 426AC-390/480AC-390/500AC-390)
 - Heavy metal content testing
 - Pesticide residue testing
 
-## Sustainable Development
+## Développement Durable
 
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
+### 🌱 Production Environnementale
+- Recyclage et utilisation des déchets
+- Processus d'économie d'énergie et de réduction d'émissions
+- Normes de production verte
 
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
+### 🔄 Utilisation des Ressources
+- Utilisation complète des sous-produits
+- Extension de la chaîne industrielle
+- Modèle d'économie circulaire
 
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
+### 🌍 Responsabilité Sociale
+- Soutien à l'augmentation des revenus des agriculteurs
+- Assurer la sécurité alimentaire
+- Protéger l'environnement écologique
 
-## Contact Us
+## Contactez-nous
 
 If you are interested in cashew pressing solutions, please contact our technical team:
 

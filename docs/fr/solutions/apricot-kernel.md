@@ -24,13 +24,13 @@ Le noyau d'abricot est la graine des arbres d'abricot, riche en huile de haute q
 - **Exigences du sol** : Sol bien drainé et fertile
 - **Production annuelle** : Production mondiale d'abricots d'environ 4 millions de tonnes
 
-## Processing Technology
+## Technologie de Transformation
 
 + Apricot kernels (Recommended 426AC-390/480AC-390/500AC-390)
-     + Apricot oil cold pressing process: After screening, cleaning, and high-speed crushing, directly fed into the hydraulic oil press bucket for pressing
+     + Processus de pressage à froid d'huile d'abricot: After screening, cleaning, and high-speed crushing, directly fed into the hydraulic oil press bucket for pressing
      + ![Apricot Kernels](/images/杏仁冷榨工艺概览_An%20Overview%20of%20the%20cold-pressing%20Process%20of%20%20Almond%20kernel.png)
 
-## Technical Advantages
+## Avantages Techniques
 
 ### 🎯 Precise Control
 - Temperature control: ±2℃ precision
@@ -42,20 +42,20 @@ Le noyau d'abricot est la graine des arbres d'abricot, riche en huile de haute q
 - Physical pressing ensures purity
 - Oil yield up to 45-48%
 
-### 🔄 Continuous Production
-- Automated production process
+### 🔄 Production Continue
+- Processus de production automatisé
 - Continuous pressing technology
 - Intelligent quality monitoring
 
-## Product Applications
+## Applications des Produits
 
 ### 🍳 Edible Oil
 - Apricot oil: High-quality edible oil
 - Blended oil: Mixed with other oils
 - Special oil: High-end nutritional oil
 
-### 🥛 By-products
-- Apricot meal: High-quality protein feed
+### 🥛 Sous-produits
+- Apricot meal: Aliment protéique de haute qualité
 - Apricot shells: Fuel or feed
 - Apricot protein: Food additives
 
@@ -77,9 +77,9 @@ Le noyau d'abricot est la graine des arbres d'abricot, riche en huile de haute q
 - Food processing enterprises
 - Export trading enterprises
 
-## Quality Standards
+## Normes de Qualité
 
-### 🏆 Product Quality Standards
+### 🏆 Normes de Qualité des Produits
 - Complies with national edible oil standards
 - Complies with food safety standards
 - Complies with export food standards
@@ -93,24 +93,24 @@ Le noyau d'abricot est la graine des arbres d'abricot, riche en huile de haute q
 - Aflatoxin testing
 - Pesticide residue testing
 
-## Sustainable Development
+## Développement Durable
 
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
+### 🌱 Production Environnementale
+- Recyclage et utilisation des déchets
+- Processus d'économie d'énergie et de réduction d'émissions
+- Normes de production verte
 
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
+### 🔄 Utilisation des Ressources
+- Utilisation complète des sous-produits
+- Extension de la chaîne industrielle
+- Modèle d'économie circulaire
 
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
+### 🌍 Responsabilité Sociale
+- Soutien à l'augmentation des revenus des agriculteurs
+- Assurer la sécurité alimentaire
+- Protéger l'environnement écologique
 
-## Contact Us
+## Contactez-nous
 
 If you are interested in apricot kernel pressing solutions, please contact our technical team:
 

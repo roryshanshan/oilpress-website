@@ -24,13 +24,13 @@ Les graines de coton sont une importante culture oléagineuse, et l'huile de gra
 - **Exigences du sol** : Sol fertile et bien drainé
 - **Production annuelle** : Production annuelle mondiale dépasse 50 millions de tonnes
 
-## Processing Technology
+## Technologie de Transformation
 
 ### Traditional Process Flow
 Cottonseed processing technology (recommended 300AC-390/325AC-390/355AC-390/400AC-390)
-+ Step 1: Steaming
-+ Step 2: Grinding + stirring
-+ Step 3: Pressing
++ Étape 1: Cuisson à la vapeur
++ Étape 2: Broyage + mélange
++ Étape 3: Pressage
 + ![Cottonseed processing technology](/images/棉籽热榨工艺.png)
 
 ## Equipment Recommendations
@@ -38,7 +38,7 @@ Cottonseed processing technology (recommended 300AC-390/325AC-390/355AC-390/400A
 ### Recommended Equipment
 - **Cottonseed**: 300AC-390/325AC-390/355AC-390/400AC-390
 
-## Technical Advantages
+## Avantages Techniques
 
 ### 🎯 Precise Control
 - Temperature control: ±2℃ accuracy
@@ -50,20 +50,20 @@ Cottonseed processing technology (recommended 300AC-390/325AC-390/355AC-390/400A
 - Physical pressing without chemical residues
 - Industry-leading oil yield (38-42%)
 
-### 🔄 Continuous Production
-- 24-hour uninterrupted operation
-- Automated feeding and discharging
-- Intelligent fault alarm
+### 🔄 Production Continue
+- Fonctionnement ininterrompu 24 heures
+- Alimentation et déchargement automatisés
+- Alarme de panne intelligente
 
-## Product Applications
+## Applications des Produits
 
 ### 🍳 Edible Oil
 - Cottonseed oil: Edible after detoxification
 - Blended oil: Mixed with other oils
 - Special oil: Industrial oil
 
-### 🥛 By-products
-- Cottonseed meal: High-quality protein feed
+### 🥛 Sous-produits
+- Cottonseed meal: Aliment protéique de haute qualité
 - Cottonseed protein: Food additives
 - Cottonseed phospholipids: Functional ingredients
 
@@ -77,7 +77,7 @@ Cottonseed processing technology (recommended 300AC-390/325AC-390/355AC-390/400A
 ### 📈 Development Trends
 - Industrial oil demand growth
 - Biodiesel market expansion
-- By-product comprehensive utilization improvement
+- Utilisation complète des sous-produits improvement
 
 ### 🎯 Target Markets
 - Edible oil processing enterprises
@@ -85,9 +85,9 @@ Cottonseed processing technology (recommended 300AC-390/325AC-390/355AC-390/400A
 - Chemical raw material enterprises
 - Biodiesel production enterprises
 
-## Quality Standards
+## Normes de Qualité
 
-### 🏆 Product Quality Standards
+### 🏆 Normes de Qualité des Produits
 - Meets national cottonseed oil standards (GB 1538)
 - Meets food safety standards
 - Meets export food standards
@@ -101,24 +101,24 @@ Cottonseed processing technology (recommended 300AC-390/325AC-390/355AC-390/400A
 - Aflatoxin testing
 - Gossypol content testing
 
-## Sustainable Development
+## Développement Durable
 
-### 🌱 Environmental Production
-- Waste recycling utilization
-- Energy saving and emission reduction processes
-- Green production standards
+### 🌱 Production Environnementale
+- Recyclage et utilisation des déchets
+- Processus d'économie d'énergie et de réduction d'émissions
+- Normes de production verte
 
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
+### 🔄 Utilisation des Ressources
+- Utilisation complète des sous-produits
+- Extension de la chaîne industrielle
+- Modèle d'économie circulaire
 
-### 🌍 Social Responsibility
+### 🌍 Responsabilité Sociale
 - Support cotton farmer income increase
-- Ensure food safety
-- Protect ecological environment
+- Assurer la sécurité alimentaire
+- Protéger l'environnement écologique
 
-## Contact Us
+## Contactez-nous
 
 If you are interested in cottonseed pressing solutions, please contact our technical team:
 

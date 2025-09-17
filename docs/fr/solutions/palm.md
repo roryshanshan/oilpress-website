@@ -24,19 +24,19 @@ Le palmier est une importante culture oléagineuse, l'huile de palme a une valeu
 - **Exigences du sol** : Sol fertile et humide
 - **Production annuelle** : Production annuelle mondiale dépasse 70 millions de tonnes
 
-## Processing Technology
+## Technologie de Transformation
 
 Palm pulp + Palm kernel (Palm oil) processing technology (Recommended 300AC-390/325AC-390/355AC-390/400AC-390)
- + Step 1: High-speed crushing
- + Step 2: Steaming
- + Step 3: Pressing
+ + Étape 1: Broyage à haute vitesse
+ + Étape 2: Cuisson à la vapeur
+ + Étape 3: Pressage
 ![Palm Oil](/images/棕榈果肉_棕榈仁热榨工艺_Hot%20pressing%20process%20of%20palm%20pulp_palm%20kernel_.png)
 
 Note:
  + Palm fruit - Red oil   
  + Palm kernel - Black oil
 
-## Technical Advantages
+## Avantages Techniques
 
 ### 🎯 Precise Control
 - Temperature control: ±2℃ precision
@@ -48,12 +48,12 @@ Note:
 - Physical pressing without chemical residues
 - Oil yield up to 48-52%
 
-### 🔄 Continuous Production
-- 24-hour uninterrupted operation
-- Automated feeding and discharging
-- Intelligent fault alarm
+### 🔄 Production Continue
+- Fonctionnement ininterrompu 24 heures
+- Alimentation et déchargement automatisés
+- Alarme de panne intelligente
 
-## Product Applications
+## Applications des Produits
 
 ### 🍳 Edible Oil
 - Palm oil: Main edible oil variety
@@ -88,9 +88,9 @@ Note:
 - Biodiesel production enterprises
 - Chemical raw material enterprises
 
-## Quality Standards
+## Normes de Qualité
 
-### 🏆 Product Quality Standards
+### 🏆 Normes de Qualité des Produits
 - Complies with national palm oil standards
 - Complies with food safety standards
 - Complies with export food standards
@@ -103,24 +103,24 @@ Note:
 - Heavy metal content testing
 - Pesticide residue testing
 
-## Sustainable Development
+## Développement Durable
 
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
+### 🌱 Production Environnementale
+- Recyclage et utilisation des déchets
+- Processus d'économie d'énergie et de réduction d'émissions
+- Normes de production verte
 
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
+### 🔄 Utilisation des Ressources
+- Utilisation complète des sous-produits
+- Extension de la chaîne industrielle
+- Modèle d'économie circulaire
 
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
+### 🌍 Responsabilité Sociale
+- Soutien à l'augmentation des revenus des agriculteurs
+- Assurer la sécurité alimentaire
+- Protéger l'environnement écologique
 
-## Contact Us
+## Contactez-nous
 
 If you are interested in palm pressing solutions, please contact our technical team:
 

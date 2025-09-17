@@ -2,7 +2,7 @@
 
 Filling machines are used to accurately fill liquid products into containers.
 
-## Product Features
+## Caractéristiques du Produit
 
 - Precise metering control
 - Multiple filling methods

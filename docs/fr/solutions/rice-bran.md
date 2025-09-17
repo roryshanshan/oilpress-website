@@ -21,15 +21,15 @@ Le son de riz est un sous-produit de la transformation du riz, riche en huile de
 ### 🌱 Source Characteristics
 - **Source**: Rice processing by-product
 - **Freshness Requirements**: Should be processed promptly to maintain oil quality
-- **Storage Conditions**: Low temperature, dry environment
+- **Conditions de Stockage**: Low temperature, dry environment
 - **Annual Production**: Global rice production about 500 million tons, rice bran production about 150 million tons
 
-## Processing Technology
+## Technologie de Transformation
 Glutinous rice oil pressing technology: (Recommended 426AC-390/480AC-390/500AC-390)
  + Glutinous rice cold pressing process: Direct pressing
  ++ ![Glutinous Rice](/images/糯米冷榨工艺_Cold-pressing%20process%20of%20glutinous%20rice_.png)
 
-## Technical Advantages
+## Avantages Techniques
 
 ### 🎯 Precise Control
 - Temperature control: ±2℃ precision
@@ -41,20 +41,20 @@ Glutinous rice oil pressing technology: (Recommended 426AC-390/480AC-390/500AC-3
 - Physical pressing ensures purity
 - Oil yield up to 20-22%
 
-### 🔄 Continuous Production
-- Automated production process
+### 🔄 Production Continue
+- Processus de production automatisé
 - Continuous pressing technology
 - Intelligent quality monitoring
 
-## Product Applications
+## Applications des Produits
 
 ### 🍳 Edible Oil
 - Rice bran oil: High-quality edible oil
 - Blended oil: Mixed with other oils
 - Special oil: High-end nutritional oil
 
-### 🥛 By-products
-- Rice bran meal: High-quality protein feed
+### 🥛 Sous-produits
+- Rice bran meal: Aliment protéique de haute qualité
 - Rice bran fiber: Feed additives
 - Rice bran protein: Food additives
 
@@ -76,9 +76,9 @@ Glutinous rice oil pressing technology: (Recommended 426AC-390/480AC-390/500AC-3
 - Food processing enterprises
 - Feed processing enterprises
 
-## Quality Standards
+## Normes de Qualité
 
-### 🏆 Product Quality Standards
+### 🏆 Normes de Qualité des Produits
 - Complies with national edible oil standards
 - Complies with food safety standards
 - Complies with export food standards
@@ -92,24 +92,24 @@ Glutinous rice oil pressing technology: (Recommended 426AC-390/480AC-390/500AC-3
 - Aflatoxin testing
 - Pesticide residue testing
 
-## Sustainable Development
+## Développement Durable
 
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
+### 🌱 Production Environnementale
+- Recyclage et utilisation des déchets
+- Processus d'économie d'énergie et de réduction d'émissions
+- Normes de production verte
 
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
+### 🔄 Utilisation des Ressources
+- Utilisation complète des sous-produits
+- Extension de la chaîne industrielle
+- Modèle d'économie circulaire
 
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
+### 🌍 Responsabilité Sociale
+- Soutien à l'augmentation des revenus des agriculteurs
+- Assurer la sécurité alimentaire
+- Protéger l'environnement écologique
 
-## Contact Us
+## Contactez-nous
 
 If you are interested in rice bran pressing solutions, please contact our technical team:
 

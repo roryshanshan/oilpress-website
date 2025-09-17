@@ -2,7 +2,7 @@
 
 Bottle washing machines are used to clean containers before filling to ensure they meet hygiene standards.
 
-## Product Features
+## Caractéristiques du Produit
 
 - High-efficiency cleaning capability
 - Multiple cleaning methods available

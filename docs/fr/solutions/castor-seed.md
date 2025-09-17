@@ -24,40 +24,40 @@ La graine de ricin est la graine de la plante de ricin, riche en huile spéciale
 - **Exigences du sol** : Sol fertile et bien drainé
 - **Production annuelle** : Production mondiale de ricin d'environ 2 millions de tonnes
 
-## Processing Technology
+## Technologie de Transformation
 Castor seed oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/400AC-390)
  + Hot pressing process for castor seed oil:
- + Step 1: Crushing
- + Step 2: Frying
- + Step 3: Pressing
+ + Étape 1: Broyage
+ + Étape 2: Friture
+ + Étape 3: Pressage
  + ![Castor Seed Oil](/images/蓖麻子热榨工艺_Hot%20pressing%20process%20of%20castor%20seeds_png.png)
 
-## Technical Advantages
+## Avantages Techniques
 
 ### 🎯 Precise Control
 - Temperature control: ±2℃ precision
 - Pressure control: Intelligent adjustment
-- Frying time: Optimal process parameters
+- Friture time: Optimal process parameters
 
 ### 💧 Oil Quality Guarantee
 - Hot pressing process highlights characteristics
 - Physical pressing ensures purity
 - Oil yield up to 50-52%
 
-### 🔄 Continuous Production
-- Automated production process
+### 🔄 Production Continue
+- Processus de production automatisé
 - Continuous pressing technology
 - Intelligent quality monitoring
 
-## Product Applications
+## Applications des Produits
 
 ### 🏭 Industrial Applications
 - Castor oil: High-quality industrial oil
 - Lubricants: Mechanical lubrication
 - Coating raw materials: Paint production
 
-### 🥛 By-products
-- Castor meal: High-quality protein feed
+### 🥛 Sous-produits
+- Castor meal: Aliment protéique de haute qualité
 - Castor shells: Fuel or feed
 - Castor protein: Industrial additives
 
@@ -102,9 +102,9 @@ Castor seed oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/
 - **Market Positioning**: Premium industrial oil
 - **Export Market**: Europe, Americas
 
-## Quality Standards
+## Normes de Qualité
 
-### 🏆 Product Quality Standards
+### 🏆 Normes de Qualité des Produits
 - Complies with industrial oil standards
 - Complies with export industrial standards
 - Complies with safe transportation standards
@@ -116,24 +116,24 @@ Castor seed oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/
 - Heavy metal content testing
 - Impurity content testing
 
-## Sustainable Development
+## Développement Durable
 
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
+### 🌱 Production Environnementale
+- Recyclage et utilisation des déchets
+- Processus d'économie d'énergie et de réduction d'émissions
+- Normes de production verte
 
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
+### 🔄 Utilisation des Ressources
+- Utilisation complète des sous-produits
+- Extension de la chaîne industrielle
+- Modèle d'économie circulaire
 
-### 🌍 Social Responsibility
-- Support farmer income increase
+### 🌍 Responsabilité Sociale
+- Soutien à l'augmentation des revenus des agriculteurs
 - Ensure production safety
-- Protect ecological environment
+- Protéger l'environnement écologique
 
-## Contact Us
+## Contactez-nous
 
 If you are interested in castor seed pressing solutions, please contact our technical team:
 

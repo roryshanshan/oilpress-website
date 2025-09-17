@@ -24,15 +24,15 @@ La graine de piment est un sous-produit de la transformation du piment, riche en
 - **Conditions de stockage** : Température basse, environnement sec
 - **Production annuelle** : Production mondiale de piment d'environ 35 millions de tonnes, production de graines d'environ 5 millions de tonnes
 
-## Processing Technology
+## Technologie de Transformation
 Chili oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/400AC-390)
  + Hot pressing process for castor seed oil:
- + Step 1: Crushing
- + Step 2: Steaming
- + Step 3: Pressing
+ + Étape 1: Broyage
+ + Étape 2: Cuisson à la vapeur
+ + Étape 3: Pressage
  + ![Chili Oil](/images/辣椒籽热榨工艺_Hot%20pressing%20process%20of%20chili%20seeds.png)
 
-## Technical Advantages
+## Avantages Techniques
 
 ### 🎯 Precise Control
 - Temperature control: ±2℃ precision
@@ -44,20 +44,20 @@ Chili oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/400AC-
 - Physical pressing ensures purity
 - Oil yield up to 18-20%
 
-### 🔄 Continuous Production
-- Automated production process
+### 🔄 Production Continue
+- Processus de production automatisé
 - Continuous pressing technology
 - Intelligent quality monitoring
 
-## Product Applications
+## Applications des Produits
 
 ### 🍳 Edible Oil
 - Chili seed oil: High-quality edible oil
 - Blended oil: Mixed with other oils
 - Special oil: High-end nutritional oil
 
-### 🥛 By-products
-- Chili seed meal: High-quality protein feed
+### 🥛 Sous-produits
+- Chili seed meal: Aliment protéique de haute qualité
 - Chili seed fiber: Feed additives
 - Chili seed protein: Food additives
 
@@ -79,9 +79,9 @@ Chili oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/400AC-
 - Food processing enterprises
 - Feed processing enterprises
 
-## Quality Standards
+## Normes de Qualité
 
-### 🏆 Product Quality Standards
+### 🏆 Normes de Qualité des Produits
 - Complies with national edible oil standards
 - Complies with food safety standards
 - Complies with export food standards
@@ -95,24 +95,24 @@ Chili oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/400AC-
 - Aflatoxin testing
 - Pesticide residue testing
 
-## Sustainable Development
+## Développement Durable
 
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
+### 🌱 Production Environnementale
+- Recyclage et utilisation des déchets
+- Processus d'économie d'énergie et de réduction d'émissions
+- Normes de production verte
 
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
+### 🔄 Utilisation des Ressources
+- Utilisation complète des sous-produits
+- Extension de la chaîne industrielle
+- Modèle d'économie circulaire
 
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
+### 🌍 Responsabilité Sociale
+- Soutien à l'augmentation des revenus des agriculteurs
+- Assurer la sécurité alimentaire
+- Protéger l'environnement écologique
 
-## Contact Us
+## Contactez-nous
 
 If you are interested in chili seed pressing solutions, please contact our technical team:
 

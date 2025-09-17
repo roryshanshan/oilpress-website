@@ -1,19 +1,19 @@
 ---
-title: Cake Wrapping Machine - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Cake wrapping machine is an essential accessory for horizontal hydraulic oil presses, cake pressing mold size can be customized, cake diameter 240-480mm, suitable for oilseed processing post-treatment.
-keywords: Cake wrapping machine, Cake wrapping machine, Hydraulic oil press supporting equipment, Cake pressing machine, Oil cake wrapping machine, Cake residue processing equipment, Oilseed post-processing equipment, Cake wrapping equipment, Cake residue wrapping, Oil cake machine, Cake wrapping machinery, Cake residue cake wrapping equipment
+title: Machine d'Emballage de Gâteau - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: La machine d'emballage de gâteau est un accessoire essentiel pour les presses à huile hydrauliques horizontales, la taille du moule de pressage de gâteau peut être personnalisée, diamètre du gâteau 240-480mm, adaptée au post-traitement du traitement des graines oléagineuses.
+keywords: Machine d'emballage de gâteau, Machine d'emballage de gâteau, Équipement d'accompagnement de presse à huile hydraulique, Machine de pressage de gâteau, Machine d'emballage de gâteau d'huile, Équipement de traitement des résidus de gâteau, Équipement de post-traitement des graines oléagineuses, Équipement d'emballage de gâteau, Emballage des résidus de gâteau, Machine à gâteau d'huile, Machinerie d'emballage de gâteau, Équipement d'emballage de gâteau de résidus de gâteau
 ---
 
-# Cake Wrapping Machine
-![Cake Wrapping Machine](https://i.postimg.cc/nFBLkqTX/image.png?dl=1)
-## Product Overview
+# Machine d'Emballage de Gâteau
+![Machine d'Emballage de Gâteau](https://i.postimg.cc/nFBLkqTX/image.png?dl=1)
+## Aperçu du Produit
 
-This machine is an essential accessory for horizontal hydraulic oil presses. The size of the cake pressing mold can be customized, with standard cake diameters ranging from 240-480mm, and other sizes requiring customization.
-Due to different production batches, there may be variations in the machine's appearance, color, size, weight, and material, which will not be notified separately later.
+Cette machine est un accessoire essentiel pour les presses à huile hydrauliques horizontales. La taille du moule de pressage de gâteau peut être personnalisée, avec des diamètres de gâteau standard allant de 240-480mm, et d'autres tailles nécessitant une personnalisation.
+En raison de différents lots de production, il peut y avoir des variations dans l'apparence, la couleur, la taille, le poids et le matériau de la machine, qui ne seront pas notifiées séparément ultérieurement.
 
-## Specifications
+## Spécifications
 
-| Total Height | 1320mm | Width | 750mm | Table Height | 600mm |
+| Hauteur Totale | 1320mm | Largeur | 750mm | Hauteur de Table | 600mm |
 |---|---|---|---|---|---|
-| Mold Inner Diameter | 240-480mm Customizable Size | Total Power | 1.1KW | Hydraulic Oil Model | No. 46 Wear-resistant |
-| Weight | Approx. 112Kg | Equipment Dimensions | 945x750x1320mm | Material | Carbon Steel |
+| Diamètre Intérieur du Moule | 240-480mm Taille Personnalisable | Puissance Totale | 1.1KW | Modèle d'Huile Hydraulique | N° 46 Résistant à l'Usure |
+| Poids | Environ 112Kg | Dimensions de l'Équipement | 945x750x1320mm | Matériau | Acier au Carbone |

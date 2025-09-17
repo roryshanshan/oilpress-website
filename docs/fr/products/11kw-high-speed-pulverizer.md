@@ -1,21 +1,21 @@
 ---
-title: 11Kw High-Speed Pulverizer - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: 11Kw High-Speed Pulverizer adopts flywheel structure design, can grind various hard materials such as camellia seeds, walnuts, avocados to micron level, processing capacity 750kg/h.
-keywords: High-speed pulverizer, 11KW pulverizer, Oilseed pulverizer, Camellia seed pulverizer, Walnut pulverizer, Avocado pulverizer, Micron grinding, Flywheel pulverizer, Oilseed preprocessing equipment, Pulverizing equipment, High-speed pulverizing equipment, 11Kw high-speed pulverizer, Pulverizer equipment, Oilseed processing equipment
+title: Pulvérisateur Haute Vitesse 11Kw - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Le Pulvérisateur Haute Vitesse 11Kw adopte un design de structure à volant, peut broyer divers matériaux durs tels que les graines de camélia, les noix, les avocats au niveau micron, capacité de traitement 750kg/h.
+keywords: Pulvérisateur haute vitesse, Pulvérisateur 11KW, Pulvérisateur de graines oléagineuses, Pulvérisateur de graines de camélia, Pulvérisateur de noix, Pulvérisateur d'avocat, Broyage micron, Pulvérisateur à volant, Équipement de prétraitement de graines oléagineuses, Équipement de pulvérisation, Équipement de pulvérisation haute vitesse, Pulvérisateur haute vitesse 11Kw, Équipement de pulvérisateur, Équipement de traitement de graines oléagineuses
 ---
 
-# 11Kw High-Speed Pulverizer
-![High-Speed Pulverizer](https://i.postimg.cc/QjCxz20G/image.png?dl=1)
-## Product Overview
+# Pulvérisateur Haute Vitesse 11Kw
+![Pulvérisateur Haute Vitesse](https://i.postimg.cc/QjCxz20G/image.png?dl=1)
+## Aperçu du Produit
 
-This machine adopts a flywheel structure design, and different screens can be replaced according to needs, with the finest grinding down to micron level.
-It can process various hard materials with shells, such as camellia seeds, walnuts, and avocados.
-There is also a 15KW option available, with a processing capacity of 3T/h.
+Cette machine adopte un design de structure à volant, et différents tamis peuvent être remplacés selon les besoins, avec le broyage le plus fin jusqu'au niveau micron.
+Elle peut traiter divers matériaux durs avec coques, tels que les graines de camélia, les noix et les avocats.
+Il y a aussi une option 15KW disponible, avec une capacité de traitement de 3T/h.
 
-## Specifications
+## Spécifications
 
-| Model | JJ-11FS | Power | 11KW |
+| Modèle | JJ-11FS | Puissance | 11KW |
 |---|---|---|---|
-| Voltage | 380V | Speed | 1460r/min |
-| Weight | 218Kg | Dimensions | 1400x802X800mm |
-| Noise | 82dB | Processing Capacity | 750kg/h |
+| Tension | 380V | Vitesse | 1460r/min |
+| Poids | 218Kg | Dimensions | 1400x802X800mm |
+| Bruit | 82dB | Capacité de Traitement | 750kg/h |

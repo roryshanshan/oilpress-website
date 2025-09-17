@@ -24,18 +24,18 @@ Les graines de tournesol sont une importante culture oléagineuse, l'huile de to
 - **Exigences du sol** : Sol fertile et bien drainé
 - **Production annuelle** : Production annuelle mondiale dépasse 500 millions de tonnes
 
-## Processing Technology
+## Technologie de Transformation
 
-### Sunflower Oil Hot Pressing Process
-- Sunflower seeds go through cleaning, crushing, and frying processes before being fed into the hydraulic oil press bucket for pressing.
-- ![Sunflower Oil Hot Pressing Process](/images/葵花籽热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressing%20Process%20of%20Sunflower%20seeds.png)
+### Processus de Pressage à Chaud d'Huile de Tournesol
+- Les graines de tournesol passent par les processus de nettoyage, de concassage et de friture avant d'être alimentées dans le seau de presse hydraulique pour le pressage.
+- ![Processus de Pressage à Chaud d'Huile de Tournesol](/images/葵花籽热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressage%20Process%20of%20Sunflower%20seeds.png)
 
-## Equipment Recommendations
+## Recommandations d'Équipement
 
-### Recommended Equipment
-- **Sunflower**: 300AC-390/325AC-390/355AC-390/400AC-390
+### Équipement Recommandé
+- **Tournesol**: 300AC-390/325AC-390/355AC-390/400AC-390
 
-## Technical Advantages
+## Avantages Techniques
 
 ### 🎯 Precise Control
 - Temperature control: ±2℃ precision
@@ -47,75 +47,75 @@ Les graines de tournesol sont une importante culture oléagineuse, l'huile de to
 - Physical pressing without chemical residues
 - Oil yield up to 42-48%
 
-### 🔄 Continuous Production
-- Automated production process
+### 🔄 Production Continue
+- Processus de production automatisé
 - Continuous pressing technology
 - Intelligent quality monitoring
 
-## Product Applications
+## Applications des Produits
 
-### 🍳 Edible Oil
-- Sunflower oil: Main edible oil variety
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+### 🍳 Huile Alimentaire
+- Huile de tournesol : Principale variété d'huile alimentaire
+- Huile mélangée : Mélangée avec d'autres huiles
+- Huile spéciale : Huile nutritionnelle haut de gamme
 
-### 🥛 By-products
-- Sunflower meal: High-quality protein feed
-- Sunflower hulls: Fuel or feed
-- Sunflower protein: Food additives
+### 🥛 Sous-produits
+- Tourteau de tournesol : Aliment protéique de haute qualité
+- Coques de tournesol : Combustible ou aliment
+- Protéine de tournesol : Additifs alimentaires
 
-### 💊 Functional Products
-- Sunflower phospholipids
-- Sunflower sterols
-- Sunflower polyphenols
+### 💊 Produits Fonctionnels
+- Phospholipides de tournesol
+- Stérols de tournesol
+- Polyphénols de tournesol
 
-## Market Analysis
+## Analyse de Marché
 
-### 📈 Development Trends
-- Growing demand for healthy edible oils
-- Expanding high-end sunflower oil market
-- Increasing export trade opportunities
+### 📈 Tendances de Développement
+- Demande croissante pour les huiles alimentaires saines
+- Expansion du marché de l'huile de tournesol haut de gamme
+- Augmentation des opportunités de commerce d'exportation
 
-### 🎯 Target Markets
-- Edible oil processing enterprises
-- Food processing enterprises
-- Chain catering enterprises
-- Export trade enterprises
+### 🎯 Marchés Cibles
+- Entreprises de transformation d'huile alimentaire
+- Entreprises de transformation alimentaire
+- Entreprises de restauration en chaîne
+- Entreprises de commerce d'exportation
 
-## Quality Standards
+## Normes de Qualité
 
-### 🏆 Product Quality Standards
-- Complies with national sunflower oil standards (GB 1537)
-- Complies with food safety standards
-- Complies with export food standards
-- Complies with organic food certification
+### 🏆 Normes de Qualité des Produits
+- Respecte les normes nationales d'huile de tournesol (GB 1537)
+- Respecte les normes de sécurité alimentaire
+- Respecte les normes d'exportation alimentaire
+- Respecte la certification alimentaire biologique
 
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color and transparency testing
-- Heavy metal content testing
-- Pesticide residue testing
-- Benzo[a]pyrene testing
+### 🔍 Éléments de Test
+- Test de valeur acide
+- Test de valeur peroxyde
+- Test de couleur et transparence
+- Test de teneur en métaux lourds
+- Test de résidus de pesticides
+- Test de benzo[a]pyrène
 
-## Sustainable Development
+## Développement Durable
 
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
+### 🌱 Production Environnementale
+- Recyclage et utilisation des déchets
+- Processus d'économie d'énergie et de réduction d'émissions
+- Normes de production verte
 
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
+### 🔄 Utilisation des Ressources
+- Utilisation complète des sous-produits
+- Extension de la chaîne industrielle
+- Modèle d'économie circulaire
 
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
+### 🌍 Responsabilité Sociale
+- Soutien à l'augmentation des revenus des agriculteurs
+- Assurer la sécurité alimentaire
+- Protéger l'environnement écologique
 
-## Contact Us
+## Contactez-nous
 
 If you are interested in sunflower seed pressing solutions, please contact our technical team:
 

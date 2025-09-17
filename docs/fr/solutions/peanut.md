@@ -24,9 +24,9 @@ L'arachide est une importante graine oléagineuse et culture commerciale, et l'h
 - **Exigences du sol** : Sol sableux lâche et fertile
 - **Production annuelle** : Production annuelle chinoise dépasse 16 millions de tonnes
 
-## Processing Technology
+## Technologie de Transformation
 
-### Peanut Oil (Aromatic Type) Hot Pressing Process
+### Peanut Oil (Aromatic Type) Hot Pressage Process
 - Crush peanuts - flat-bottomed wok frying peanut grits - directly feed into hydraulic oil press bucket for pressing
 - The peanut oil produced by this process has a rich aroma, golden and bright color, good taste, and does not require hydration treatment with no foaming when cooking.
 - Basically no filtration treatment is needed, just sedimentation and bottling. This is the pressing process adopted by COFCO Group's premium peanut oil (the crushing, frying, pressing, and filtration equipment for this project are provided by our factory).
@@ -37,7 +37,7 @@ L'arachide est une importante graine oléagineuse et culture commerciale, et l'h
 ### Recommended Equipment
 - **Peanut**: 300AC-390/325AC-390/355AC-390/400AC-390
 
-## Technical Advantages
+## Avantages Techniques
 
 ### 🎯 Precise Control
 - Temperature control: ±2℃ accuracy
@@ -49,20 +49,20 @@ L'arachide est une importante graine oléagineuse et culture commerciale, et l'h
 - Physical pressing ensures purity
 - Oil yield up to 48-50%
 
-### 🔄 Continuous Production
-- Automated production process
+### 🔄 Production Continue
+- Processus de production automatisé
 - Continuous pressing technology
 - Intelligent quality monitoring
 
-## Product Applications
+## Applications des Produits
 
 ### 🍳 Edible Oil
 - Peanut oil: High-quality edible oil
 - Blended oil: Mixed with other oils
 - Special oil: High-end nutritional oil
 
-### 🥛 By-products
-- Peanut meal: High-quality protein feed
+### 🥛 Sous-produits
+- Peanut meal: Aliment protéique de haute qualité
 - Peanut shells: Fuel or feed
 - Peanut protein: Food additives
 
@@ -84,9 +84,9 @@ L'arachide est une importante graine oléagineuse et culture commerciale, et l'h
 - Catering chain enterprises
 - Export trading enterprises
 
-## Quality Standards
+## Normes de Qualité
 
-### 🏆 Product Quality Standards
+### 🏆 Normes de Qualité des Produits
 - Meets national peanut oil standards (GB 1535)
 - Meets food safety standards
 - Meets export food standards
@@ -100,24 +100,24 @@ L'arachide est une importante graine oléagineuse et culture commerciale, et l'h
 - Aflatoxin testing
 - Pesticide residue testing
 
-## Sustainable Development
+## Développement Durable
 
-### 🌱 Environmental Production
-- Waste recycling utilization
-- Energy saving and emission reduction processes
-- Green production standards
+### 🌱 Production Environnementale
+- Recyclage et utilisation des déchets
+- Processus d'économie d'énergie et de réduction d'émissions
+- Normes de production verte
 
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
+### 🔄 Utilisation des Ressources
+- Utilisation complète des sous-produits
+- Extension de la chaîne industrielle
+- Modèle d'économie circulaire
 
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
+### 🌍 Responsabilité Sociale
+- Soutien à l'augmentation des revenus des agriculteurs
+- Assurer la sécurité alimentaire
+- Protéger l'environnement écologique
 
-## Contact Us
+## Contactez-nous
 
 If you are interested in peanut pressing solutions, please contact our technical team:
 

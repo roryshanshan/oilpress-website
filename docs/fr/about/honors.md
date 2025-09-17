@@ -25,6 +25,6 @@ keywords: Honors and qualifications, Corporate qualifications, National high-tec
 - **Outstanding Private Enterprise in Shandong Province**
 - **Major Taxpayer in Qingzhou City**
 
-## Social Responsibility
+## Responsabilité Sociale
 
-Actively participates in public welfare and has been awarded the title of "Outstanding Corporate Social Responsibility Enterprise".
+Actively participates in public welfare and has been awarded the title of "Outstanding Corporate Responsabilité Sociale Enterprise".

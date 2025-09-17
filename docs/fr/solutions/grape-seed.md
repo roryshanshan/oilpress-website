@@ -24,17 +24,17 @@ Les pépins de raisin sont une importante culture oléagineuse, l'huile de pépi
 - **Exigences du sol** : Sol fertile et bien drainé
 - **Production annuelle** : Production annuelle mondiale dépasse 1 million de tonnes
 
-## Processing Technology
+## Technologie de Transformation
 
 ### Traditional Process Flow
 Grape seed processing technology: (Recommended 426AC-390/480AC-390/500AC-390)
  + Grape seed hot pressing process:
-    + Step 1: High-speed crushing
-    + Step 2: High-temperature steaming
-    + Step 3: Hydraulic oil press pressing
- + ![Grape Seed Pressing Process](/images/葡萄籽热榨工艺_Hot%20pressing%20process%20of%20grape%20seeds_.png)
+    + Étape 1: Broyage à haute vitesse
+    + Étape 2: Cuisson à la vapeur à haute température
+    + Étape 3: Pressage de presse à huile hydraulique
+ + ![Grape Seed Pressage Process](/images/葡萄籽热榨工艺_Hot%20pressing%20process%20of%20grape%20seeds_.png)
 
-## Technical Advantages
+## Avantages Techniques
 
 ### 🎯 Precise Control
 - Temperature control: ±2℃ precision
@@ -46,12 +46,12 @@ Grape seed processing technology: (Recommended 426AC-390/480AC-390/500AC-390)
 - Physical pressing without chemical residues
 - Oil yield up to 13-16%
 
-### 🔄 Continuous Production
-- 24-hour uninterrupted operation
-- Automated feeding and discharging
-- Intelligent fault alarm
+### 🔄 Production Continue
+- Fonctionnement ininterrompu 24 heures
+- Alimentation et déchargement automatisés
+- Alarme de panne intelligente
 
-## Product Applications
+## Applications des Produits
 
 ### 🍳 Edible Oil
 - Grape seed oil: Main edible oil variety
@@ -81,9 +81,9 @@ Grape seed processing technology: (Recommended 426AC-390/480AC-390/500AC-390)
 - Beauty and skincare enterprises
 - Export trade enterprises
 
-## Quality Standards
+## Normes de Qualité
 
-### 🏆 Product Quality Standards
+### 🏆 Normes de Qualité des Produits
 - Complies with national grape seed oil standards
 - Complies with food safety standards
 - Complies with export food standards
@@ -96,24 +96,24 @@ Grape seed processing technology: (Recommended 426AC-390/480AC-390/500AC-390)
 - Heavy metal content testing
 - Pesticide residue testing
 
-## Sustainable Development
+## Développement Durable
 
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
+### 🌱 Production Environnementale
+- Recyclage et utilisation des déchets
+- Processus d'économie d'énergie et de réduction d'émissions
+- Normes de production verte
 
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
+### 🔄 Utilisation des Ressources
+- Utilisation complète des sous-produits
+- Extension de la chaîne industrielle
+- Modèle d'économie circulaire
 
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
+### 🌍 Responsabilité Sociale
+- Soutien à l'augmentation des revenus des agriculteurs
+- Assurer la sécurité alimentaire
+- Protéger l'environnement écologique
 
-## Contact Us
+## Contactez-nous
 
 If you are interested in grape seed pressing solutions, please contact our technical team:
 
