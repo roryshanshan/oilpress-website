@@ -1,14 +1,14 @@
 ---
-title: Peach Kernel (Kernel Oil) Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional peach kernel oil pressing solutions, providing kernel oil processing equipment and technical services, oil content 40-50%, using appropriate pressing process to highlight nutritional value, meeting different needs from small workshops to large factories.
-keywords: Peach kernel solutions, Peach kernel oil pressing, Peach kernel processing equipment, Peach kernel oil production line, Peach kernel oil press, Peach kernel oil extraction, Peach kernel oilseed processing, Peach kernel oil pressing equipment, Peach kernel oil production equipment, Peach kernel oil processing plant
+title: Solutions de noyau de pêche (huile de noyau) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage d'huile de noyau de pêche, fournissant des équipements et services techniques de transformation d'huile de noyau, teneur en huile 40-50%, utilisant un processus de pressage approprié pour mettre en valeur la valeur nutritionnelle, répondant aux besoins différents des petits ateliers aux grandes usines.
+keywords: Solutions de noyau de pêche, pressage d'huile de noyau de pêche, équipement de transformation de noyau de pêche, ligne de production d'huile de noyau de pêche, presse à huile de noyau de pêche, extraction d'huile de noyau de pêche, transformation de graines oléagineuses de noyau de pêche, équipement de pressage d'huile de noyau de pêche, équipement de production d'huile de noyau de pêche, usine de transformation d'huile de noyau de pêche
 ---
 
-# Peach Kernel (Kernel Oil) Solution
+# Solution de noyau de pêche (huile de noyau)
 
-## Overview
+## Aperçu
 
-Peach kernel is an important oil crop, kernel oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional peach kernel pressing solutions, from small workshops to large factories with complete equipment and services.
+Le noyau de pêche est une importante culture oléagineuse, l'huile de noyau a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de noyau de pêche, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
 ## Peach Kernel Characteristics
 
