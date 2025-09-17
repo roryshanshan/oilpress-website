@@ -18,11 +18,11 @@ Le colza est une importante culture oléagineuse, l'huile de colza est l'une des
 - **Acides gras principaux** : Acide oléique (55-70%), Acide linoléique (15-25%), Acide linolénique (5-10%)
 - **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 90-120 days
-- **Suitable Climate**: Cool, humid areas
-- **Soil Requirements**: Fertile, neutral soil
-- **Annual Production**: Global annual production exceeds 70 million tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : 90-120 jours
+- **Climat approprié** : Zones fraîches et humides
+- **Exigences du sol** : Sol fertile et neutre
+- **Production annuelle** : Production annuelle mondiale dépasse 70 millions de tonnes
 
 ## Processing Technology
 

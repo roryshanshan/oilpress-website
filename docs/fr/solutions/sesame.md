@@ -10,13 +10,13 @@ keywords: Solutions de sésame, pressage d'huile de sésame, équipement de tran
 
 Le sésame est une importante culture oléagineuse, et l'huile de sésame a un arôme unique et une valeur nutritionnelle riche. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de sésame, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
-## Sesame Characteristics
+## Caractéristiques de sésame
 
-### 📊 Basic Parameters
-- **Oil Content**: 50-60%
-- **Protein Content**: 18-25%
-- **Main Fatty Acids**: Oleic acid (35-50%), Linoleic acid (35-45%), Palmitic acid (8-12%)
-- **Suitable Temperature**: Roasting temperature controlled at 180-220℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 50-60%
+- **Teneur en protéines** : 18-25%
+- **Acides gras principaux** : Acide oléique (35-50%), Acide linoléique (35-45%), Acide palmitique (8-12%)
+- **Température appropriée** : Température de torréfaction contrôlée à 180-220℃
 
 ### 🌱 Growth Characteristics
 - **Growth Cycle**: 90-120 days
