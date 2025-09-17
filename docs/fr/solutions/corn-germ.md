@@ -10,13 +10,13 @@ keywords: Solutions de germe de maïs, pressage d'huile de germe de maïs, équi
 
 Le germe de maïs est un sous-produit important de la transformation du maïs, riche en huile de haute qualité, et peut extraire une huile de germe de maïs nutritive. L'huile de germe de maïs a une bonne valeur nutritionnelle et stabilité, largement utilisée dans l'huile alimentaire et la transformation alimentaire. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de germe de maïs, répondant aux besoins de production d'échelles différentes.
 
-## Corn Germ Characteristics
+## Caractéristiques du germe de maïs
 
-### 📊 Basic Parameters
-- **Oil Content**: 35-45%
-- **Protein Content**: 15-20%
-- **Main Fatty Acids**: Oleic acid (25-35%), Linoleic acid (50-60%)
-- **Suitable Temperature**: Pressing temperature controlled at 70-90℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 35-45%
+- **Teneur en protéines** : 15-20%
+- **Acides gras principaux** : Acide oléique (25-35%), Acide linoléique (50-60%)
+- **Température appropriée** : Température de pressage contrôlée à 70-90℃
 
 ### 🌱 Source Characteristics
 - **Source**: Corn processing by-product

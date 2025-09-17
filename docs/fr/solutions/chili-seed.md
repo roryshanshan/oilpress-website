@@ -10,13 +10,13 @@ keywords: Solutions de graines de piment, pressage d'huile de graines de piment,
 
 La graine de piment est un sous-produit de la transformation du piment, riche en huile de haute qualité, et peut extraire une huile de graines de piment nutritive. L'huile de graines de piment a une saveur unique et une valeur nutritionnelle, largement utilisée dans l'huile alimentaire et la transformation alimentaire. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de piment, répondant aux besoins de production d'échelles différentes.
 
-## Chili Seed Characteristics
+## Caractéristiques de la graine de piment
 
-### 📊 Basic Parameters
-- **Oil Content**: 15-25%
-- **Protein Content**: 15-20%
-- **Main Fatty Acids**: Oleic acid (20-30%), Linoleic acid (50-60%)
-- **Suitable Temperature**: Pressing temperature controlled at 70-90℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 15-25%
+- **Teneur en protéines** : 15-20%
+- **Acides gras principaux** : Acide oléique (20-30%), Acide linoléique (50-60%)
+- **Température appropriée** : Température de pressage contrôlée à 70-90℃
 
 ### 🌱 Source Characteristics
 - **Source**: Chili processing by-product

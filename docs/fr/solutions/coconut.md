@@ -10,13 +10,13 @@ keywords: Solutions de noix de coco, pressage d'huile de noix de coco, équipeme
 
 La noix de coco est une importante culture oléagineuse, l'huile de noix de coco a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de noix de coco, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
-## Coconut Characteristics
+## Caractéristiques de la noix de coco
 
-### 📊 Basic Parameters
-- **Oil Content**: 60-70%
-- **Protein Content**: 3-4%
-- **Main Fatty Acids**: Lauric acid (45-50%), Myristic acid (15-20%), Palmitic acid (8-10%)
-- **Suitable Temperature**: Room temperature pressing
+### 📊 Paramètres de base
+- **Teneur en huile** : 60-70%
+- **Teneur en protéines** : 3-4%
+- **Acides gras principaux** : Acide laurique (45-50%), Acide myristique (15-20%), Acide palmitique (8-10%)
+- **Température appropriée** : Pressage à température ambiante
 
 ### 🌱 Growth Characteristics
 - **Growth Cycle**: 5-6 years
