@@ -18,11 +18,11 @@ Le noyau d'abricot est la graine des arbres d'abricot, riche en huile de haute q
 - **Acides gras principaux** : Acide oléique (60-70%), Acide linoléique (20-30%)
 - **Température appropriée** : Température de pressage contrôlée à 70-90℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: Apricot trees have long growth cycles, seeds mature in one year
-- **Suitable Climate**: Temperate climate, abundant sunshine
-- **Soil Requirements**: Well-drained, fertile soil
-- **Annual Production**: Global apricot production about 4 million tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : Les abricotiers ont des cycles de croissance longs, les graines mûrissent en un an
+- **Climat approprié** : Climat tempéré, ensoleillé abondant
+- **Exigences du sol** : Sol bien drainé et fertile
+- **Production annuelle** : Production mondiale d'abricots d'environ 4 millions de tonnes
 
 ## Processing Technology
 
