@@ -18,11 +18,11 @@ Les graines de périlla sont une importante culture oléagineuse, l'huile de pé
 - **Acides gras principaux** : Acide α-linolénique (50-60%), Acide linoléique (15-20%), Acide oléique (15-20%)
 - **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 100-120 days
-- **Suitable Climate**: Warm, humid areas
-- **Soil Requirements**: Fertile, well-drained soil
-- **Annual Production**: Asian annual production exceeds 100,000 tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : 100-120 jours
+- **Climat approprié** : Zones chaudes et humides
+- **Exigences du sol** : Sol fertile et bien drainé
+- **Production annuelle** : Production annuelle asiatique dépasse 100 000 tonnes
 
 ## Processing Technology
 

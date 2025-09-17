@@ -18,11 +18,11 @@ La pistache est une noix nutritive, riche en huile de haute qualité, et peut ex
 - **Acides gras principaux** : Acide oléique (50-60%), Acide linoléique (25-35%)
 - **Température appropriée** : Température de pressage contrôlée à 75-95℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: Tree has long growth cycle, fruit matures over many years
-- **Suitable Climate**: Arid, warm climate
-- **Soil Requirements**: Well-drained, alkaline soil
-- **Annual Production**: Global pistachio production about 1 million tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : L'arbre a un long cycle de croissance, le fruit mûrit sur plusieurs années
+- **Climat approprié** : Climat aride et chaud
+- **Exigences du sol** : Sol bien drainé et alcalin
+- **Production annuelle** : Production mondiale de pistache d'environ 1 million de tonnes
 
 ## Processing Technology
 

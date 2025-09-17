@@ -18,11 +18,11 @@ Les graines de citrouille sont une importante culture oléagineuse, l'huile de g
 - **Acides gras principaux** : Acide linoléique (45-55%), Acide oléique (25-35%), Acide palmitique (10-15%)
 - **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 90-120 days
-- **Suitable Climate**: Temperate, warm areas
-- **Soil Requirements**: Fertile, well-drained soil
-- **Annual Production**: Global annual production exceeds 1 million tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : 90-120 jours
+- **Climat approprié** : Zones tempérées et chaudes
+- **Exigences du sol** : Sol fertile et bien drainé
+- **Production annuelle** : Production annuelle mondiale dépasse 1 million de tonnes
 
 ## Processing Technology
 
