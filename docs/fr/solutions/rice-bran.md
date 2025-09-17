@@ -1,14 +1,14 @@
 ---
-title: Rice Bran (Rice Bran Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional rice bran pressing solutions, providing rice bran oil processing equipment and technical services, oil content 15-25%, using cold pressing process to preserve nutrition, meeting production needs of different scales.
-keywords: Rice bran solutions, Rice bran oil pressing, Rice bran processing equipment, Rice bran oil production line, Rice bran oil cold pressing process, Rice bran oil press, Rice bran oil extraction, Rice bran oilseed processing, Rice bran oil pressing equipment, Rice bran oil production equipment
+title: Solution de son de riz (huile de son de riz) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage de son de riz, fournissant des équipements et services techniques de transformation d'huile de son de riz, teneur en huile 15-25%, utilisant le processus de pressage à froid pour préserver la nutrition, répondant aux besoins de production d'échelles différentes.
+keywords: Solutions de son de riz, pressage d'huile de son de riz, équipement de transformation de son de riz, ligne de production d'huile de son de riz, processus de pressage à froid d'huile de son de riz, presse à huile de son de riz, extraction d'huile de son de riz, transformation de graines oléagineuses de son de riz, équipement de pressage d'huile de son de riz, équipement de production d'huile de son de riz
 ---
 
-# Rice Bran (Rice Bran Oil) Solution
+# Solution de son de riz (huile de son de riz)
 
-## Overview
+## Aperçu
 
-Rice bran is a by-product of rice processing, rich in high-quality oil, and can extract nutritious rice bran oil. Rice bran oil has unique flavor and nutritional value, widely used in edible oil and food processing. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional rice bran pressing solutions, meeting production needs of different scales.
+Le son de riz est un sous-produit de la transformation du riz, riche en huile de haute qualité, et peut extraire une huile de son de riz nutritive. L'huile de son de riz a une saveur unique et une valeur nutritionnelle, largement utilisée dans l'huile alimentaire et la transformation alimentaire. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de son de riz, répondant aux besoins de production d'échelles différentes.
 
 ## Rice Bran Characteristics
 

@@ -1,14 +1,14 @@
 ---
-title: Watermelon Seed (Watermelon Seed Oil) Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional watermelon seed oil pressing solutions, providing watermelon seed oil processing equipment and technical services, oil content 40-50%, using appropriate pressing process to highlight nutritional value, meeting different needs from small workshops to large factories.
-keywords: Watermelon seed solutions, Watermelon seed oil pressing, Watermelon seed processing equipment, Watermelon seed oil production line, Watermelon seed oil press, Watermelon seed oil extraction, Watermelon seed oilseed processing, Watermelon seed oil pressing equipment, Watermelon seed oil production equipment, Watermelon seed oil processing plant
+title: Solutions de graines de pastèque (huile de graines de pastèque) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage d'huile de graines de pastèque, fournissant des équipements et services techniques de transformation d'huile de graines de pastèque, teneur en huile 40-50%, utilisant un processus de pressage approprié pour mettre en valeur la valeur nutritionnelle, répondant aux besoins différents des petits ateliers aux grandes usines.
+keywords: Solutions de graines de pastèque, pressage d'huile de graines de pastèque, équipement de transformation de graines de pastèque, ligne de production d'huile de graines de pastèque, presse à huile de graines de pastèque, extraction d'huile de graines de pastèque, transformation de graines oléagineuses de graines de pastèque, équipement de pressage d'huile de graines de pastèque, équipement de production d'huile de graines de pastèque, usine de transformation d'huile de graines de pastèque
 ---
 
-# Watermelon Seed (Watermelon Seed Oil) Solution
+# Solution de graines de pastèque (huile de graines de pastèque)
 
-## Overview
+## Aperçu
 
-Watermelon seed is an important oil crop, watermelon seed oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional watermelon seed pressing solutions, from small workshops to large factories with complete equipment and services.
+Les graines de pastèque sont une importante culture oléagineuse, l'huile de graines de pastèque a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de pastèque, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
 ## Watermelon Seed Characteristics
 

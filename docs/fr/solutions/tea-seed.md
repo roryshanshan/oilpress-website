@@ -1,14 +1,14 @@
 ---
-title: Tea Seed (Tea Seed Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional tea seed pressing solutions, providing tea seed oil processing equipment and technical services, oil content 25-35%, rich in oleic acid, using hot pressing process to ensure quality, meeting high-end edible oil and beauty product needs.
-keywords: Tea seed solutions, Tea seed oil pressing, Tea seed processing equipment, Tea seed oil production line, Tea seed hot pressing process, Tea seed oil press, Tea seed oil extraction, Tea seed oilseed processing, Tea seed oil pressing equipment, Tea oil, Camellia oil
+title: Solution de graines de thé (huile de graines de thé) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage de graines de thé, fournissant des équipements et services techniques de transformation d'huile de graines de thé, teneur en huile 25-35%, riche en acide oléique, utilisant le processus de pressage à chaud pour assurer la qualité, répondant aux besoins d'huiles alimentaires haut de gamme et de produits de beauté.
+keywords: Solutions de graines de thé, pressage d'huile de graines de thé, équipement de transformation de graines de thé, ligne de production d'huile de graines de thé, processus de pressage à chaud de graines de thé, presse à huile de graines de thé, extraction d'huile de graines de thé, transformation de graines oléagineuses de graines de thé, équipement de pressage d'huile de graines de thé, huile de thé, huile de camélia
 ---
 
-# Tea Seed (Tea Seed Oil) Solution
+# Solution de graines de thé (huile de graines de thé)
 
-## Overview
+## Aperçu
 
-Tea seed is an important oil crop, tea seed oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional tea seed pressing solutions, from small workshops to large factories with complete equipment and services.
+Les graines de thé sont une importante culture oléagineuse, l'huile de graines de thé a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de thé, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
 ## Tea Seed Characteristics
 
