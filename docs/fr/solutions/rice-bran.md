@@ -10,13 +10,13 @@ keywords: Solutions de son de riz, pressage d'huile de son de riz, équipement d
 
 Le son de riz est un sous-produit de la transformation du riz, riche en huile de haute qualité, et peut extraire une huile de son de riz nutritive. L'huile de son de riz a une saveur unique et une valeur nutritionnelle, largement utilisée dans l'huile alimentaire et la transformation alimentaire. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de son de riz, répondant aux besoins de production d'échelles différentes.
 
-## Rice Bran Characteristics
+## Caractéristiques de son de riz
 
-### 📊 Basic Parameters
-- **Oil Content**: 15-25%
-- **Protein Content**: 12-15%
-- **Main Fatty Acids**: Oleic acid (40-50%), Linoleic acid (30-40%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 15-25%
+- **Teneur en protéines** : 12-15%
+- **Acides gras principaux** : Acide oléique (40-50%), Acide linoléique (30-40%)
+- **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
 ### 🌱 Source Characteristics
 - **Source**: Rice processing by-product

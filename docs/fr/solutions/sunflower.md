@@ -10,13 +10,13 @@ keywords: Solutions de graines de tournesol, pressage d'huile de tournesol, équ
 
 Les graines de tournesol sont une importante culture oléagineuse, l'huile de tournesol a une couleur dorée et un goût rafraîchissant. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de tournesol, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
-## Sunflower Seed Characteristics
+## Caractéristiques de graines de tournesol
 
-### 📊 Basic Parameters
-- **Oil Content**: 40-50%
-- **Protein Content**: 15-20%
-- **Main Fatty Acids**: Linoleic acid (55-75%), Oleic acid (14-35%), Palmitic acid (4-9%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 40-50%
+- **Teneur en protéines** : 15-20%
+- **Acides gras principaux** : Acide linoléique (55-75%), Acide oléique (14-35%), Acide palmitique (4-9%)
+- **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
 ### 🌱 Growth Characteristics
 - **Growth Cycle**: 80-120 days
