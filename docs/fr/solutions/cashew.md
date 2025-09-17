@@ -52,22 +52,22 @@ Processus de pressage de cajou : (Recommandé 426AC-390/480AC-390/500AC-390)
 - Alimentation et déchargement automatisés
 - Alarme de panne intelligente
 
-## Product Applications
+## Applications des produits
 
-### 🍳 Edible Oil
-- Cashew oil: Main edible oil variety
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+### 🍳 Huile alimentaire
+- Huile de cajou : Variété d'huile alimentaire principale
+- Huile mélangée : Mélangée avec d'autres huiles
+- Huile spéciale : Huile nutritionnelle haut de gamme
 
-### 🏭 Industrial Oil
-- Cashew oil: Base oil raw material
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+### 🏭 Huile industrielle
+- Huile de cajou : Matière première d'huile de base
+- Huile mélangée : Mélangée avec d'autres huiles
+- Huile spéciale : Huile nutritionnelle haut de gamme
 
-### 💄 Beauty and Skincare
-- Cashew oil: Natural skincare oil
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+### 💄 Beauté et soins de la peau
+- Huile de cajou : Huile naturelle pour soins de la peau
+- Huile mélangée : Mélangée avec d'autres huiles
+- Huile spéciale : Huile nutritionnelle haut de gamme
 
 ## Market Analysis
 
