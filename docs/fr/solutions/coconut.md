@@ -18,11 +18,11 @@ La noix de coco est une importante culture oléagineuse, l'huile de noix de coco
 - **Acides gras principaux** : Acide laurique (45-50%), Acide myristique (15-20%), Acide palmitique (8-10%)
 - **Température appropriée** : Pressage à température ambiante
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 5-6 years
-- **Suitable Climate**: Tropical, coastal areas
-- **Soil Requirements**: Sandy, well-drained soil
-- **Annual Production**: Global annual production exceeds 6,000 million tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : 5-6 ans
+- **Climat approprié** : Zones tropicales, côtières
+- **Exigences du sol** : Sol sableux et bien drainé
+- **Production annuelle** : Production annuelle mondiale dépasse 6 000 millions de tonnes
 
 ## Processing Technology
 

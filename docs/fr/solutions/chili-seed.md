@@ -18,11 +18,11 @@ La graine de piment est un sous-produit de la transformation du piment, riche en
 - **Acides gras principaux** : Acide oléique (20-30%), Acide linoléique (50-60%)
 - **Température appropriée** : Température de pressage contrôlée à 70-90℃
 
-### 🌱 Source Characteristics
-- **Source**: Chili processing by-product
-- **Freshness Requirements**: Should be processed promptly to maintain oil quality
-- **Storage Conditions**: Low temperature, dry environment
-- **Annual Production**: Global chili production about 35 million tons, seed production about 5 million tons
+### 🌱 Caractéristiques de source
+- **Source** : Sous-produit de transformation du piment
+- **Exigences de fraîcheur** : Doit être transformé rapidement pour maintenir la qualité de l'huile
+- **Conditions de stockage** : Température basse, environnement sec
+- **Production annuelle** : Production mondiale de piment d'environ 35 millions de tonnes, production de graines d'environ 5 millions de tonnes
 
 ## Processing Technology
 Chili oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/400AC-390)
