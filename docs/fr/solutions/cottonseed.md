@@ -18,11 +18,11 @@ Les graines de coton sont une importante culture oléagineuse, et l'huile de gra
 - **Acides gras principaux** : Acide linoléique (45-55%), Acide palmitique (20-25%), Acide oléique (15-20%)
 - **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 150-180 days
-- **Suitable Climate**: Warm, dry areas
-- **Soil Requirements**: Fertile, well-drained soil
-- **Annual Production**: Global annual production exceeds 50 million tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : 150-180 jours
+- **Climat approprié** : Zones chaudes et sèches
+- **Exigences du sol** : Sol fertile et bien drainé
+- **Production annuelle** : Production annuelle mondiale dépasse 50 millions de tonnes
 
 ## Processing Technology
 
