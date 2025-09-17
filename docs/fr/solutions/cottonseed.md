@@ -10,13 +10,13 @@ keywords: Solutions de graines de coton, pressage d'huile de graines de coton, �
 
 Les graines de coton sont une importante culture oléagineuse, et l'huile de graines de coton a des applications industrielles et alimentaires étendues. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de coton, offrant un équipement et des services complets des petits ateliers aux grandes usines.
 
-## Cottonseed Characteristics
+## Caractéristiques de la graine de coton
 
-### 📊 Basic Parameters
-- **Oil Content**: 35-45%
-- **Protein Content**: 20-25%
-- **Main Fatty Acids**: Linoleic acid (45-55%), Palmitic acid (20-25%), Oleic acid (15-20%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+### 📊 Paramètres de base
+- **Teneur en huile** : 35-45%
+- **Teneur en protéines** : 20-25%
+- **Acides gras principaux** : Acide linoléique (45-55%), Acide palmitique (20-25%), Acide oléique (15-20%)
+- **Température appropriée** : Température de pressage contrôlée à 60-80℃
 
 ### 🌱 Growth Characteristics
 - **Growth Cycle**: 150-180 days
