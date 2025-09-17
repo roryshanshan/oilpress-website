@@ -1025,21 +1025,23 @@ onMounted(() => {
 }
 
 .mobile-social-icons .wechat-qr {
-  position: absolute;
-  bottom: 60px;
+  position: fixed;
+  bottom: 120px;
   left: 50%;
   transform: translateX(-50%);
   background: white;
   border: 2px solid var(--vp-c-brand);
   border-radius: 12px;
-  padding: 16px;
+  padding: 12px;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
   text-align: center;
   opacity: 0;
   visibility: hidden;
   transition: all 0.3s ease;
-  z-index: 10000;
-  min-width: 200px;
+  z-index: 10002;
+  min-width: 180px;
+  max-width: 85vw;
+  margin: 0 auto;
 }
 
 .mobile-social-icons .wechat-container:hover .wechat-qr,
@@ -1049,9 +1051,12 @@ onMounted(() => {
 }
 
 .mobile-social-icons .wechat-qr img {
-  width: 150px;
-  height: 150px;
+  width: 120px;
+  height: 120px;
   border-radius: 8px;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
 }
 
 .mobile-social-icons .wechat-qr p {
