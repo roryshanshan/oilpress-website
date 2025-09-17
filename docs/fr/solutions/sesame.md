@@ -18,11 +18,11 @@ Le sésame est une importante culture oléagineuse, et l'huile de sésame a un a
 - **Acides gras principaux** : Acide oléique (35-50%), Acide linoléique (35-45%), Acide palmitique (8-12%)
 - **Température appropriée** : Température de torréfaction contrôlée à 180-220℃
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 90-120 days
-- **Suitable Climate**: Warm, dry areas
-- **Soil Requirements**: Fertile, well-drained soil
-- **Annual Production**: Global annual production exceeds 5 million tons
+### 🌱 Caractéristiques de croissance
+- **Cycle de croissance** : 90-120 jours
+- **Climat approprié** : Zones chaudes et sèches
+- **Exigences du sol** : Sol fertile et bien drainé
+- **Production annuelle** : Production annuelle mondiale dépasse 5 millions de tonnes
 
 ## Processing Technology
 
