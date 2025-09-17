@@ -1,14 +1,14 @@
 ---
-title: Sunflower Seed (Sunflower Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional sunflower seed pressing solutions, providing sunflower oil processing equipment and technical services, oil content 40-50%, using hot pressing process to ensure oil yield, from small workshops to large factories with complete equipment and services.
-keywords: Sunflower seed solutions, Sunflower oil pressing, Sunflower seed processing equipment, Sunflower oil production line, Sunflower oil hot pressing process, Sunflower seed oil press, Sunflower oil extraction, Sunflower seed oilseed processing, Sunflower oil pressing equipment, Sunflower oil production equipment, Sunflower oil processing plant
+title: Solution de graines de tournesol (huile de tournesol) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage de graines de tournesol, fournissant des équipements et services techniques de transformation d'huile de tournesol, teneur en huile 40-50%, utilisant le processus de pressage à chaud pour assurer le rendement en huile, des petits ateliers aux grandes usines avec un équipement et des services complets.
+keywords: Solutions de graines de tournesol, pressage d'huile de tournesol, équipement de transformation de graines de tournesol, ligne de production d'huile de tournesol, processus de pressage à chaud d'huile de tournesol, presse à huile de graines de tournesol, extraction d'huile de tournesol, transformation de graines oléagineuses de graines de tournesol, équipement de pressage d'huile de tournesol, équipement de production d'huile de tournesol, usine de transformation d'huile de tournesol
 ---
 
-# Sunflower Seed (Sunflower Oil) Solution
+# Solution de graines de tournesol (huile de tournesol)
 
-## Overview
+## Aperçu
 
-Sunflower seed is an important oil crop, sunflower oil has golden color and refreshing taste. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional sunflower seed pressing solutions, from small workshops to large factories with complete equipment and services.
+Les graines de tournesol sont une importante culture oléagineuse, l'huile de tournesol a une couleur dorée et un goût rafraîchissant. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de tournesol, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
 ## Sunflower Seed Characteristics
 

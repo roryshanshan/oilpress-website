@@ -1,14 +1,14 @@
 ---
-title: Walnut (Walnut Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional walnut pressing solutions, providing walnut oil processing equipment and technical services, oil content 60-70%, using cold pressing process to preserve nutrition, meeting high-end edible oil and nutritional health product needs.
-keywords: Walnut solutions, Walnut oil pressing, Walnut processing equipment, Walnut oil production line, Walnut cold pressing process, Walnut oil press, Walnut oil extraction, Walnut oilseed processing, Walnut oil pressing equipment, Walnut oil production equipment, Premium edible oil
+title: Solution de noix (huile de noix) - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Solutions professionnelles de pressage de noix, fournissant des équipements et services techniques de transformation d'huile de noix, teneur en huile 60-70%, utilisant le processus de pressage à froid pour préserver la nutrition, répondant aux besoins d'huiles alimentaires haut de gamme et de produits de santé nutritionnelle.
+keywords: Solutions de noix, pressage d'huile de noix, équipement de transformation de noix, ligne de production d'huile de noix, processus de pressage à froid de noix, presse à huile de noix, extraction d'huile de noix, transformation de graines oléagineuses de noix, équipement de pressage d'huile de noix, équipement de production d'huile de noix, huile alimentaire haut de gamme
 ---
 
-# Walnut (Walnut Oil) Solution
+# Solution de noix (huile de noix)
 
-## Overview
+## Aperçu
 
-Walnut is an important oil crop, walnut oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional walnut pressing solutions, from small workshops to large factories with complete equipment and services.
+La noix est une importante culture oléagineuse, l'huile de noix a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de noix, des petits ateliers aux grandes usines avec un équipement et des services complets.
 
 ## Walnut Characteristics
 
