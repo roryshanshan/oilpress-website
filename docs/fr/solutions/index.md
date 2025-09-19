@@ -45,7 +45,7 @@ Couvre les cultures oléagineuses spéciales telles que le son de riz, le germe 
 - Surveillance en temps réel et alerte précoce
 
 ### 💧 Produits huileux de haute qualité
-- Pressage physique sans résidus chimiques
+- Pressing physique sans résidus chimiques
 - Procédé de pressage à froid préserve les nutriments
 - Rendement en huile leader de l'industrie
 
@@ -57,7 +57,7 @@ Couvre les cultures oléagineuses spéciales telles que le son de riz, le germe 
 ## Scénarios d'application industrielle
 
 ### 🍳 Transformation d'huiles alimentaires
-- Pressage de céréales et oléagineux
+- Pressing de céréales et oléagineux
 - Production d'huiles spéciales
 - Transformation d'huiles biologiques
 

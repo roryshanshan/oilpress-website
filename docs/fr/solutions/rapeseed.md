@@ -26,7 +26,7 @@ Le colza est une importante culture oléagineuse, l'huile de colza est l'une des
 
 ## Technologie de Transformation
 
-### Rapeseed Oil Hot Pressage Process
+### Rapeseed Oil Hot Pressing Process
 - Rapeseed goes through cleaning, crushing, frying and steaming processes before being fed into the hydraulic oil press bucket for pressing.
 - The rapeseed oil produced by this process has high oil yield, golden color, and fresh aroma.
 - ![](/images/菜籽热榨工艺.png)

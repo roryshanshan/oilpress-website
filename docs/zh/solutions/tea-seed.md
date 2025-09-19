@@ -30,6 +30,9 @@ keywords: 茶籽解决方案, 茶籽油压榨, 茶籽加工设备, 茶籽油生�
         + 茶籽油热榨工艺：茶籽经过筛选、清洗、烘干、破碎、蒸炒后接入液压榨油机料桶压榨。
         + 采用此工艺压榨的茶籽油，色泽清亮，香味纯正，营养丰富。
         + ![](/images/茶籽热榨工艺.png)
+## 加工工艺视频
+
+<iframe width="700" height="330" src="https://www.youtube.com/embed/Yz1FETcJv7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

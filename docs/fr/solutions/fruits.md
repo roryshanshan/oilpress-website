@@ -10,37 +10,37 @@ Les huiles de fruits proviennent de diverses pulpes de fruits, noyaux ou graines
 **Teneur en huile** : 15-25%
 **Caractéristiques** : Haute teneur en acides gras insaturés, beauté et soins de la peau
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Séparation de la pulpe → Pressage à froid → Filtration → Réfrigération
+**Technologie de transformation** : Séparation de la pulpe → Pressing à froid → Filtration → Réfrigération
 
 ### 🍇 Pépins de raisin (Huile de pépins de raisin)
 **Teneur en huile** : 12-18%
 **Caractéristiques** : Haute teneur en polyphénols, antioxydant puissant
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Séparation de la coque des graines → Pressage à froid → Filtration → Raffinage
+**Technologie de transformation** : Séparation de la coque des graines → Pressing à froid → Filtration → Raffinage
 
 ### 🎃 Graines de citrouille (Huile de graines de citrouille)
 **Teneur en huile** : 35-45%
 **Caractéristiques** : Riche en carotène, nutrition équilibrée
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Décorticage → Pressage à froid → Filtration
+**Technologie de transformation** : Décorticage → Pressing à froid → Filtration
 
 ### 🍉 Graines de pastèque (Huile de graines de pastèque)
 **Teneur en huile** : 40-50%
 **Caractéristiques** : Naturellement rafraîchissant, adapté à la consommation estivale
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Décorticage → Pressage à froid → Filtration
+**Technologie de transformation** : Décorticage → Pressing à froid → Filtration
 
 ### 🧵 Noyaux de graines de coton (Huile de coton)
 **Teneur en huile** : 35-45%
 **Caractéristiques** : Huile industrielle, nécessite une détoxification professionnelle
 **Équipement approprié** : Presse industrielle série 425/480
-**Technologie de transformation** : Décorticage → Cuisson à la vapeur → Pressage → Détoxification → Raffinage
+**Technologie de transformation** : Décorticage → Cuisson à la vapeur → Pressing → Détoxification → Raffinage
 
 ### 🍑 Noyau de pêche/Noyau d'amande (Huile de noyaux)
 **Teneur en huile** : 40-50%
 **Caractéristiques** : Valeur médicinale, beauté et soins de la peau
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Décorticage → Pressage à froid → Filtration → Raffinage
+**Technologie de transformation** : Décorticage → Pressing à froid → Filtration → Raffinage
 
 ## Recommandations d'équipement
 
@@ -70,7 +70,7 @@ graph TD
     B --> C[Séparation de la pulpe]
     C --> D[Traitement de séchage]
     D --> E[Traitement de broyage]
-    E --> F[Pressage à froid]
+    E --> F[Pressing à froid]
     F --> G[Séparation centrifuge]
     G --> H[Raffinage et filtration]
     H --> I[Emballage et stockage]

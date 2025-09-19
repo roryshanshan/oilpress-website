@@ -30,8 +30,8 @@ Le noyau de pêche est une importante culture oléagineuse, l'huile de noyau a u
 Peach kernel processing technology: (Recommended 426AC-390/480AC-390/500AC-390)
  + Peach kernel pressing process:
     + Étape 1: Broyage à haute vitesse
-    + Étape 2: Pressage de presse à huile hydraulique
-  + ![Peach Kernel Pressage Process](/images/桃仁冷榨工艺概览_An%20Overview%20of%20the%20cold-pressing%20Process%20of%20Peach%20Kernels.png)
+    + Étape 2: Pressing de presse à huile hydraulique
+  + ![Peach Kernel Pressing Process](/images/桃仁冷榨工艺概览_An%20Overview%20of%20the%20cold-pressing%20Process%20of%20Peach%20Kernels.png)
 
 ## Avantages Techniques
 

@@ -29,7 +29,7 @@ Le palmier est une importante culture oléagineuse, l'huile de palme a une valeu
 Palm pulp + Palm kernel (Palm oil) processing technology (Recommended 300AC-390/325AC-390/355AC-390/400AC-390)
  + Étape 1: Broyage à haute vitesse
  + Étape 2: Cuisson à la vapeur
- + Étape 3: Pressage
+ + Étape 3: Pressing
 ![Palm Oil](/images/棕榈果肉_棕榈仁热榨工艺_Hot%20pressing%20process%20of%20palm%20pulp_palm%20kernel_.png)
 
 Note:

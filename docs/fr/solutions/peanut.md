@@ -26,7 +26,7 @@ L'arachide est une importante graine oléagineuse et culture commerciale, et l'h
 
 ## Technologie de Transformation
 
-### Peanut Oil (Aromatic Type) Hot Pressage Process
+### Peanut Oil (Aromatic Type) Hot Pressing Process
 - Crush peanuts - flat-bottomed wok frying peanut grits - directly feed into hydraulic oil press bucket for pressing
 - The peanut oil produced by this process has a rich aroma, golden and bright color, good taste, and does not require hydration treatment with no foaming when cooking.
 - Basically no filtration treatment is needed, just sedimentation and bottling. This is the pressing process adopted by COFCO Group's premium peanut oil (the crushing, frying, pressing, and filtration equipment for this project are provided by our factory).

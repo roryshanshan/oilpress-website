@@ -15,12 +15,12 @@ keywords: 大豆油液压榨油机, 花生油液压榨油机, 芝麻油液压榨
 </div>
 
 <div style="margin: 2rem 0;">
-  <iframe src="//player.bilibili.com/player.html?bvid=BV1XQHrz5Exb" 
-          scrolling="no" 
-          border="0" 
-          frameborder="no" 
-          framespacing="0" 
-          allowfullscreen="true" 
+  <iframe src="//player.bilibili.com/player.html?bvid=BV1XQHrz5Exb"
+          scrolling="no"
+          border="0"
+          frameborder="no"
+          framespacing="0"
+          allowfullscreen="true"
           style="width: 100%; height: 500px; max-width: 800px; margin: 0 auto; display: block;">
   </iframe>
 </div>

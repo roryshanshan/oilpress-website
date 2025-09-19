@@ -9,7 +9,7 @@ Différentes cultures oléagineuses nécessitent des paramètres de prétraiteme
 - Humidité : 5–8 % avant le pressage ; 6–10 % après le conditionnement améliore la plasticité.
 - Taille des particules : concassage ou écaillage à 0,25–0,35 mm pour un transfert de chaleur efficace et une rupture cellulaire.
 - Conditionnement : chauffage et humidification progressifs pour dénaturer les protéines et améliorer l'élasticité.
-- Pressage : gradient de température et de pression approprié pour le pressage à chaud/froid ; envisager un second pressage ou une extraction si nécessaire.
+- Pressing : gradient de température et de pression approprié pour le pressage à chaud/froid ; envisager un second pressage ou une extraction si nécessaire.
 
 ::: tip Qualité et sécurité
 - Nettoyer et séparer magnétiquement pour éliminer les contaminants métalliques.

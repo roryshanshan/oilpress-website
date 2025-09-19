@@ -30,6 +30,9 @@ keywords: 花生解决方案, 花生油压榨, 花生加工设备, 花生油生�
         + 采用此工艺压榨的花生油，香味浓郁，金黄透亮，入口口感好，压榨出的油不用水化处理，下锅不起泡。
         + 基本不需要过滤处理，沉淀装瓶即可，中粮集团高端花生油采用的压榨工艺（该项目粉碎、炒料，压榨，过滤设备由我厂提供）。
         + ![](/images/花生热榨工艺.png)
+## 加工工艺视频
+
+ <iframe width="700" height="330" src="https://www.youtube.com/embed/ggkjZM5n0vM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

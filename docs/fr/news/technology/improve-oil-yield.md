@@ -14,7 +14,7 @@ Maximiser le rendement en huile augmente la rentabilité, réduit le gaspillage 
 1) Matières premières : variété, maturité, propreté, teneur en coques, humidité initiale.
 2) Prétraitement : nettoyage, décorticage, concassage, ramollissement, écaillage.
 3) Conditionnement : température, humidité, temps de séjour (dénaturation des protéines et plasticité).
-4) Pressage : configuration de la vis, contre-pression, profil de température, débit d'alimentation.
+4) Pressing : configuration de la vis, contre-pression, profil de température, débit d'alimentation.
 5) Stockage et manutention : éviter la réabsorption d'humidité ; prévenir l'oxydation.
 
 ## Conseils pratiques

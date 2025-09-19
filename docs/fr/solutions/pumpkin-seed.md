@@ -28,7 +28,7 @@ Les graines de citrouille sont une importante culture oléagineuse, l'huile de g
 
 + Graines de citrouille (Recommandé 426AC-390)
      + Processus de pressage à froid d'huile de graines de citrouille : Après triage, nettoyage et broyage à haute vitesse, alimenté directement dans le seau de presse hydraulique pour le pressage
-     + ![Graines de Citrouille](/images/南瓜籽冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressage%20Process%20of%20Pumpkin%20Seeds.png)
+     + ![Graines de Citrouille](/images/南瓜籽冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressing%20Process%20of%20Pumpkin%20Seeds.png)
 
 ## Avantages Techniques
 

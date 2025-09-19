@@ -48,6 +48,10 @@ keywords: Success cases, Customer cases, Oil factory projects, Oil press cases, 
 
 ## International Market Cases
 
+### Pakistani Customer Almond Pressing
+ <iframe width="700" height="330" src="https://www.youtube.com/embed/rM4hgCIApAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="700" height="330" src="https://www.youtube.com/embed/kSeQ570mtvo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Southeast Asian Customer
 
 **Project Location**: Indonesia

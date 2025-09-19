@@ -47,6 +47,9 @@ keywords: 成功案例, 客户案例, 油厂项目, 榨油机案例, 大型油�
 - 获得绿色生产认证
 
 ## 海外市场案例
+## 巴基斯坦客户压榨杏仁
+ <iframe width="700" height="330" src="https://www.youtube.com/embed/rM4hgCIApAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="700" height="330" src="https://www.youtube.com/embed/kSeQ570mtvo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 东南亚客户
 

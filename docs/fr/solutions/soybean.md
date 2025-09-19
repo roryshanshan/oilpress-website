@@ -49,7 +49,7 @@ Le soja est l'une des principales cultures oléagineuses mondiales, et l'huile d
 
 ### 💧 Garantie de qualité de l'huile
 - Procédé de pressage à froid préserve les nutriments
-- Pressage physique sans résidus chimiques
+- Pressing physique sans résidus chimiques
 - Rendement en huile leader de l'industrie (18-20%)
 
 ### 🔄 Production continue

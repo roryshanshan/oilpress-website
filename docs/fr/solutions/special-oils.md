@@ -10,31 +10,31 @@ Les huiles spéciales comprennent la son d'origine, le germe de maïs, les grain
 **Teneur en huile** : 15-25%
 **Caractéristiques** : Haute teneur en antioxydant naturel γ-oryzanol
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Extraction de son d'origine → Pressage à froid → Filtration → Raffinage
+**Technologie de transformation** : Extraction de son d'origine → Pressing à froid → Filtration → Raffinage
 
 ### 🌽 Germe de maïs (Huile de maïs)
 **Teneur en huile** : 35-45%
 **Caractéristiques** : Riche en vitamine E, bonne stabilité
 **Équipement approprié** : Presse à huile série 355/400
-**Technologie de transformation** : Séparation des germes → Séchage → Pressage → Filtration
+**Technologie de transformation** : Séparation des germes → Séchage → Pressing → Filtration
 
 ### 🌿 Graines de ricin (Huile de ricin)
 **Teneur en huile** : 45-55%
 **Caractéristiques** : Huile lubrifiante industrielle, matière première pour biodiesel
 **Équipement approprié** : Presse industrielle série 425/480
-**Technologie de transformation** : Décorticage → Cuisson → Pressage → Raffinage
+**Technologie de transformation** : Décorticage → Cuisson → Pressing → Raffinage
 
 ### 🌶️ Graines de piment (Huile de graines de piment)
 **Teneur en huile** : 15-25%
 **Caractéristiques** : Haute teneur en capsaïcine, valeur pour la santé
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Décorticage → Pressage à froid → Filtration
+**Technologie de transformation** : Décorticage → Pressing à froid → Filtration
 
 ### 🍇 Pépins de raisin/Graines de sarrasin (Huile de haute valeur)
 **Teneur en huile** : 10-20%
 **Caractéristiques** : Haute teneur en polyphénols, forte capacité antioxydante
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Séparation de la coque des graines → Pressage à froid → Filtration → Raffinage
+**Technologie de transformation** : Séparation de la coque des graines → Pressing à froid → Filtration → Raffinage
 
 ## Recommandations d'équipement
 
@@ -64,7 +64,7 @@ graph TD
     B --> C[Préparation du prétraitement]
     C --> D[Traitement de broyage]
     D --> E[Technologie spéciale]
-    E --> F[Pressage et extraction d'huile]
+    E --> F[Pressing et extraction d'huile]
     F --> G[Séparation et purification]
     G --> H[Traitement de raffinage]
     H --> I[Emballage et stockage]

@@ -29,7 +29,7 @@ Castor seed oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/
  + Hot pressing process for castor seed oil:
  + Étape 1: Broyage
  + Étape 2: Friture
- + Étape 3: Pressage
+ + Étape 3: Pressing
  + ![Castor Seed Oil](/images/蓖麻子热榨工艺_Hot%20pressing%20process%20of%20castor%20seeds_png.png)
 
 ## Avantages Techniques

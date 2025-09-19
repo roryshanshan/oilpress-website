@@ -26,7 +26,7 @@ Les graines de thé sont une importante culture oléagineuse, l'huile de graines
 
 ## Technologie de Transformation
 
-### Tea Seed Oil Hot Pressage Process
+### Tea Seed Oil Hot Pressing Process
 - Tea seeds go through screening, cleaning, drying, crushing, and steaming before being fed into the hydraulic oil press bucket for pressing.
 - The tea seed oil produced by this process has clear color, pure aroma, and rich nutrition.
 - ![](/images/茶籽热榨工艺.png)

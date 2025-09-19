@@ -37,8 +37,8 @@ La graine de sarrasin est la graine du sarrasin, riche en huile de haute qualit�
 - Contrôle d'humidité : paramètres de processus optimaux
 
 ### 💧 Garantie de qualité de l'huile
-- Pressage à basse température préserve la nutrition
-- Pressage physique assure la pureté
+- Pressing à basse température préserve la nutrition
+- Pressing physique assure la pureté
 - Rendement en huile jusqu'à 28-30%
 
 ### 🔄 Production continue

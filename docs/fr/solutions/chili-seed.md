@@ -29,7 +29,7 @@ Chili oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/400AC-
  + Hot pressing process for castor seed oil:
  + Étape 1: Broyage
  + Étape 2: Cuisson à la vapeur
- + Étape 3: Pressage
+ + Étape 3: Pressing
  + ![Chili Oil](/images/辣椒籽热榨工艺_Hot%20pressing%20process%20of%20chili%20seeds.png)
 
 ## Avantages Techniques

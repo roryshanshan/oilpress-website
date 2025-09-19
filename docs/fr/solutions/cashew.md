@@ -29,10 +29,10 @@ Le cajou est une importante culture oléagineuse, l'huile de cajou a une valeur 
 ### Flux de processus traditionnel
 
 Processus de pressage de cajou : (Recommandé 426AC-390/480AC-390/500AC-390)
-+ Processus de pressage à chaud de peau de cajou : Pressage après cuisson à la vapeur
++ Processus de pressage à chaud de peau de cajou : Pressing après cuisson à la vapeur
     + ![Processus de pressage de peau de cajou](/images/腰果皮热榨工艺Hot%20pressing%20process%20of%20cashew%20peel.png)
 
-+ Processus de pressage à froid de noyau de cajou : Pressage direct
++ Processus de pressage à froid de noyau de cajou : Pressing direct
     + ![Processus de pressage à froid de noyau de cajou](/images/腰果仁冷榨工艺_Cold%20pressing%20process%20of%20cashew%20kernels_.png)
 
 ## Avantages techniques
@@ -44,7 +44,7 @@ Processus de pressage de cajou : (Recommandé 426AC-390/480AC-390/500AC-390)
 
 ### 💧 Garantie de qualité de l'huile
 - Processus à basse température préserve la nutrition
-- Pressage physique sans résidus chimiques
+- Pressing physique sans résidus chimiques
 - Rendement en huile jusqu'à 42-48%
 
 ### 🔄 Production continue

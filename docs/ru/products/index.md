@@ -42,6 +42,16 @@
 
 [Посмотреть полное введение в серию 500](/ru/products/500)
 
+## Персонализированная версия
+
+Наша команда службы персонализации может предоставить персонализированные решения гидравлического маслобойного пресса в соответствии с вашими конкретными потребностями.
+
+[Посмотреть полное введение в персонализированную версию](/ru/products/customized-hydraulic-oil-press)
+
+## Видео заказа и отгрузки клиента
+
+[Посмотреть видео заказа и отгрузки клиента](/ru/products/customer-order-shipping-video)
+
 ## Вспомогательное оборудование
 - [Предварительная обработка](/ru/products/pre-treatment)
 - [Постобработка](/ru/products/post-treatment)
@@ -71,6 +81,8 @@
 ![](https://i.postimg.cc/hcnMNxpS/202509011621472.png?dl=1)
 ![](https://i.postimg.cc/9cK9HHCG/202509011625161.png?dl=1)
 ![](https://i.postimg.cc/69Zv9bpF/202509011625094.png?dl=1)
+Видео зеркального проката гидравлического цилиндра:
+<iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 4. Контрольный блок
 + Система управления использует микрокомпьютерную систему, все программы программно соединены, работа системы управления проста;
@@ -82,6 +94,11 @@
 + Эта модель оснащена бочкой для материала диаметром 390 мм;
 + Бочка для материала сварена с равномерно расположенными трапециевидными полосами ключевых стержней, трапециевидные ключевые стержни большие снаружи и маленькие внутри, не блокируют масляные каналы, нет подъема масла в бочке, и большая площадь выхода масла для более быстрого выхода масла, в 15 раз больше площади сверления с выходом масла до 2-3%;
 + Внешнее кольцо использует кованый фланец, материал использует сталь Shangang Q690, высокая прочность, высокое растяжение, высокая износостойкость, без деформации.
+<iframe width="700" height="330" src="https://www.youtube.com/embed/HWjvDznT95U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 6. Шток поршня
+Видео закалки штока поршня маслобойного пресса, закалка штока поршня увеличивает поверхностную твердость без царапин, продлевая срок службы гидравлического цилиндра
+<iframe width="700" height="330" src="https://www.youtube.com/embed/twPxOI2VQIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Изнашиваемые детали
 

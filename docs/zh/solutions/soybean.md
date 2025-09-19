@@ -30,6 +30,10 @@ keywords: 大豆解决方案, 豆油压榨, 大豆加工设备, 豆油生产线,
         + ![](/images/大豆冷榨工艺.png)
         + 热榨工艺：大豆磨成胚状（粉碎）一 蒸熟-一压榨
         + ![](/images/大豆热榨工艺.png)
+
+## 加工工艺视频
+
+ <iframe width="700" height="330" src="https://www.youtube.com/embed/ggkjZM5n0vM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## 技术优势
 
 ### 🎯 精准控制

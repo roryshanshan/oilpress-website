@@ -39,7 +39,7 @@ L'amande est une importante culture oléagineuse, l'huile d'amande possède une 
 
 ### 💧 Garantie de qualité de l'huile
 - Procédé à basse température préserve les nutriments
-- Pressage physique sans résidus chimiques
+- Pressing physique sans résidus chimiques
 - Rendement en huile jusqu'à 46-52%
 
 ### 🔄 Production continue

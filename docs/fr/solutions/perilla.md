@@ -26,13 +26,13 @@ Les graines de périlla sont une importante culture oléagineuse, l'huile de pé
 
 ## Technologie de Transformation
 
-### Hot Pressage Process
+### Hot Pressing Process
 - Les graines de périlla passent par le criblage, cleaning, frying, crushing, and then steaming before finally being fed into the hydraulic oil press bucket for pressing.
-- ![Perilla Seeds](/images/紫苏热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressage%20Process%20of%20Perilla.png)
+- ![Perilla Seeds](/images/紫苏热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressing%20Process%20of%20Perilla.png)
 
-### Cold Pressage Process
+### Cold Pressing Process
 - Les graines de périlla passent par le criblage, cleaning, and crushing before being directly fed into the hydraulic oil press bucket for pressing.
-- ![Perilla Seeds](/images/紫苏冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressage%20Process%20of%20Perilla.png)
+- ![Perilla Seeds](/images/紫苏冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressing%20Process%20of%20Perilla.png)
 
 ## Equipment Recommendations
 

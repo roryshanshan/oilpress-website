@@ -30,7 +30,7 @@ Hot pressing technology for corn germ oil: (Recommended 300AC-390/325AC-390/355A
  + Cold pressing process for corn germ oil:
  + Étape 1: Broyage
  + Étape 2: Cuisson à la vapeur
- + Étape 3: Pressage
+ + Étape 3: Pressing
  + ![Corn Germ Oil](/images/玉米胚芽热榨工艺_Hot%20pressing%20process%20of%20corn%20germ_.png)
 
 ## Avantages Techniques

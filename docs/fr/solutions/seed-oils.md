@@ -10,67 +10,67 @@ Les huiles de graines sont la principale source d'huiles industrielles et alimen
 **Teneur en huile** : 18-22%
 **Caractéristiques** : Source de protéines de haute qualité, huile claire
 **Équipement approprié** : Presse à huile série 355/400
-**Technologie de transformation** : Trempage → Cuisson à la vapeur → Pressage → Filtration
+**Technologie de transformation** : Trempage → Cuisson à la vapeur → Pressing → Filtration
 
 ### 🥜 Arachide (Huile d'arachide)
 **Teneur en huile** : 45-55%
 **Caractéristiques** : Arôme riche, haute nutrition
 **Équipement approprié** : Presse à huile série 300/325
-**Technologie de transformation** : Décorticage → Cuisson à la vapeur → Pressage → Filtration
+**Technologie de transformation** : Décorticage → Cuisson à la vapeur → Pressing → Filtration
 
 ### 🌰 Sésame (Huile de sésame)
 **Teneur en huile** : 50-60%
 **Caractéristiques** : Arôme unique, antioxydant puissant
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Nettoyage → Torréfaction → Pressage → Filtration
+**Technologie de transformation** : Nettoyage → Torréfaction → Pressing → Filtration
 
 ### 🌿 Colza/Canola (Huile de colza)
 **Teneur en huile** : 35-45%
 **Caractéristiques** : Rendement élevé, prix abordable
 **Équipement approprié** : Presse à huile série 355/400
-**Technologie de transformation** : Décorticage → Cuisson à la vapeur → Pressage → Raffinage
+**Technologie de transformation** : Décorticage → Cuisson à la vapeur → Pressing → Raffinage
 
 ### 🌻 Graines de tournesol (Huile de tournesol)
 **Teneur en huile** : 40-50%
 **Caractéristiques** : Couleur dorée, goût rafraîchissant
 **Équipement approprié** : Presse à huile série 355/400
-**Technologie de transformation** : Décorticage → Cuisson à la vapeur → Pressage → Filtration
+**Technologie de transformation** : Décorticage → Cuisson à la vapeur → Pressing → Filtration
 
 ### 🧵 Graines de coton (Huile de coton)
 **Teneur en huile** : 35-45%
 **Caractéristiques** : Huile industrielle, nécessite une détoxification
 **Équipement approprié** : Presse industrielle série 425/480
-**Technologie de transformation** : Décorticage → Cuisson à la vapeur → Pressage → Détoxification → Raffinage
+**Technologie de transformation** : Décorticage → Cuisson à la vapeur → Pressing → Détoxification → Raffinage
 
 ### 🍇 Pépins de raisin (Huile de pépins de raisin)
 **Teneur en huile** : 12-18%
 **Caractéristiques** : Riche en nutriments, antioxydant puissant
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Décorticage → Pressage à froid → Filtration → Raffinage
+**Technologie de transformation** : Décorticage → Pressing à froid → Filtration → Raffinage
 
 ### 🌾 Sarrasin (Huile de sarrasin)
 **Teneur en huile** : 25-35%
 **Caractéristiques** : Huile céréalière, nutrition équilibrée
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Nettoyage → Cuisson à la vapeur → Pressage → Filtration
+**Technologie de transformation** : Nettoyage → Cuisson à la vapeur → Pressing → Filtration
 
 ### 🌾 Lin (Huile de lin)
 **Teneur en huile** : 35-45%
 **Caractéristiques** : Haute teneur en oméga-3
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Pressage à froid → Filtration → Réfrigération
+**Technologie de transformation** : Pressing à froid → Filtration → Réfrigération
 
 ### 🍵 Graines de thé/Graines de camélia (Huile de graines de thé)
 **Teneur en huile** : 25-35%
 **Caractéristiques** : Haute teneur en polyphénols de thé, antioxydant
 **Équipement approprié** : Presse à huile série 300/325
-**Technologie de transformation** : Décorticage → Pressage à froid → Filtration
+**Technologie de transformation** : Décorticage → Pressing à froid → Filtration
 
 ### 🌱 Graines de périlla (Huile de périlla/Huile de graines de ssu)
 **Teneur en huile** : 40-50%
 **Caractéristiques** : Arôme spécial, valeur médicinale
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Pressage à froid → Filtration → Raffinage
+**Technologie de transformation** : Pressing à froid → Filtration → Raffinage
 
 ## Recommandations d'équipement
 
@@ -99,7 +99,7 @@ graph TD
     A[Réception des matières premières] --> B[Nettoyage et élimination]
     B --> C[Broyage et décorticage]
     C --> D[Cuisson à la vapeur et ramollissement]
-    D --> E[Pressage et extraction d'huile]
+    D --> E[Pressing et extraction d'huile]
     E --> F[Filtration et précipitation]
     F --> G[Traitement de raffinage]
     G --> H[Emballage et stockage]
@@ -118,7 +118,7 @@ graph TD
 - Alarme de panne intelligente
 
 ### 💧 Garantie de qualité de l'huile
-- Pressage physique, sans résidus chimiques
+- Pressing physique, sans résidus chimiques
 - Procédé de pressage à froid préserve les nutriments
 - Rendement en huile leader de l'industrie
 

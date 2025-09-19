@@ -29,7 +29,7 @@ La noisette est une importante culture oléagineuse, l'huile de noisette a une v
 + Hazelnut pressing process (Recommended 426AC-390/480AC-390/500AC-390)
      + Cold pressing process: Hazelnuts go through screening, cleaning, and high-speed crushing before being directly fed into the hydraulic oil press bucket for pressing.
      + L'huile de noisette produite par ce processus has golden color and a sweet aftertaste. The pressed oil does not require hydration treatment and does not foam when used in cooking.
-     + ![Hazelnut Pressage Process](/images/榛子冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressage%20Process%20of%20Hazelnuts.png)
+     + ![Hazelnut Pressing Process](/images/榛子冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressing%20Process%20of%20Hazelnuts.png)
 
 ## Avantages Techniques
 

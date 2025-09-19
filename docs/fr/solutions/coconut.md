@@ -16,7 +16,7 @@ La noix de coco est une importante culture oléagineuse, l'huile de noix de coco
 - **Teneur en huile** : 60-70%
 - **Teneur en protéines** : 3-4%
 - **Acides gras principaux** : Acide laurique (45-50%), Acide myristique (15-20%), Acide palmitique (8-10%)
-- **Température appropriée** : Pressage à température ambiante
+- **Température appropriée** : Pressing à température ambiante
 
 ### 🌱 Caractéristiques de croissance
 - **Cycle de croissance** : 5-6 ans

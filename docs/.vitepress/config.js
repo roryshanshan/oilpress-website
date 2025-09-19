@@ -312,6 +312,8 @@ export default {
               { text: '426系列', link: '/zh/products/426' },
               { text: '480系列', link: '/zh/products/480' },
               { text: '500系列', link: '/zh/products/500' },
+              { text: '客户定制款液压榨油机', link: '/zh/products/customized-hydraulic-oil-press' },
+              { text: '客户订货发货视频', link: '/zh/products/customer-order-shipping-video' },
               { text: '配套设备', link: '/zh/products/supporting' }
             ]
           },
@@ -383,6 +385,20 @@ export default {
                   collapsed: true,
                   items: [
                     { text: '系列概述', link: '/zh/products/500' }
+                  ]
+                },
+                {
+                  text: '客户定制款液压榨油机',
+                  collapsed: false,
+                  items: [
+                    { text: '概述', link: '/zh/products/customized-hydraulic-oil-press' }
+                  ]
+                },
+                {
+                  text: '客户订货发货视频',
+                  collapsed: false,
+                  items: [
+                    { text: '概述', link: '/zh/products/customer-order-shipping-video' }
                   ]
                 },
                 {
@@ -577,6 +593,8 @@ export default {
               { text: '426 Series', link: '/en/products/426' },
               { text: '480 Series', link: '/en/products/480' },
               { text: '500 Series', link: '/en/products/500' },
+              { text: 'Customized Hydraulic Oil Press', link: '/en/products/customized-hydraulic-oil-press' },
+              { text: 'Customer Order Shipping Video', link: '/en/products/customer-order-shipping-video' },
               { text: 'Supporting Equipment', link: '/en/products/supporting' }
             ]
           },
@@ -648,6 +666,20 @@ export default {
                   collapsed: true,
                   items: [
                     { text: 'Series Overview', link: '/en/products/500' }
+                  ]
+                },
+                {
+                  text: 'Customized Hydraulic Oil Press',
+                  collapsed: false,
+                  items: [
+                    { text: 'Overview', link: '/en/products/customized-hydraulic-oil-press' }
+                  ]
+                },
+                {
+                  text: 'Customer Order Shipping Video',
+                  collapsed: false,
+                  items: [
+                    { text: 'Overview', link: '/en/products/customer-order-shipping-video' }
                   ]
                 },
                 {
@@ -843,6 +875,8 @@ export default {
               { text: 'Серия 426', link: '/ru/products/426' },
               { text: 'Серия 480', link: '/ru/products/480' },
               { text: 'Серия 500', link: '/ru/products/500' },
+              { text: 'Гидравлический маслопресс на заказ', link: '/ru/products/customized-hydraulic-oil-press' },
+              { text: 'Видео заказа и отгрузки клиента', link: '/ru/products/customer-order-shipping-video' },
               { text: 'Вспомогательное оборудование', link: '/ru/products/supporting' }
             ]
           },
@@ -914,6 +948,20 @@ export default {
                   collapsed: true,
                   items: [
                     { text: 'Обзор серии', link: '/ru/products/500' }
+                  ]
+                },
+                {
+                  text: 'Гидравлический маслопресс на заказ',
+                  collapsed: false,
+                  items: [
+                    { text: 'Обзор', link: '/ru/products/customized-hydraulic-oil-press' }
+                  ]
+                },
+                {
+                  text: 'Видео заказа и отгрузки клиента',
+                  collapsed: false,
+                  items: [
+                    { text: 'Обзор', link: '/ru/products/customer-order-shipping-video' }
                   ]
                 },
                 {
@@ -1109,6 +1157,8 @@ export default {
               { text: 'Série 426', link: '/fr/products/426' },
               { text: 'Série 480', link: '/fr/products/480' },
               { text: 'Série 500', link: '/fr/products/500' },
+              { text: 'Presse hydraulique sur mesure', link: '/fr/products/customized-hydraulic-oil-press' },
+              { text: 'Vidéo d\'expédition de commande client', link: '/fr/products/customer-order-shipping-video' },
               { text: 'Équipements complémentaires', link: '/fr/products/supporting' }
             ]
           },
@@ -1180,6 +1230,20 @@ export default {
                   collapsed: true,
                   items: [
                     { text: 'Aperçu de la série', link: '/fr/products/500' }
+                  ]
+                },
+                {
+                  text: 'Presse hydraulique sur mesure',
+                  collapsed: false,
+                  items: [
+                    { text: 'Aperçu', link: '/fr/products/customized-hydraulic-oil-press' }
+                  ]
+                },
+                {
+                  text: 'Vidéo d\'expédition de commande client',
+                  collapsed: false,
+                  items: [
+                    { text: 'Aperçu', link: '/fr/products/customer-order-shipping-video' }
                   ]
                 },
                 {

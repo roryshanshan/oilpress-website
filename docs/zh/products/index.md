@@ -42,6 +42,27 @@
 
 [查看500系列完整介绍](/zh/products/500)
 
+## 客户定制款
+
+我们的定制服务团队可以根据您的具体需求，提供个性化的液压榨油机解决方案。
+
+[查看客户定制款完整介绍](/zh/products/customized-hydraulic-oil-press)
+
+## 客户订货发货视频
+
+[查看客户订货发货视频](/zh/products/customer-order-shipping-video)
+
+## 配套设备
+
+[查看配套设备](/zh/products/supporting)
+
+
+## 液压油缸工作原理
+
+详细了解液压油缸的工作原理、基本组成和关键公式。
+
+[查看液压油缸工作原理](/zh/products/hydraulic-cylinder-principle)
+
 ---
 
 ## 液压榨油机部分部件详解
@@ -58,7 +79,6 @@
 + 采用纯铜电机，工作效率高且经久耐用，质量坚硬，不易损坏。
 ![](https://i.postimg.cc/pR7bDsP0/202509011615213.png?dl=1)
 ### 3.液压油缸
-
 + 油缸产地湖北大冶（国企），采用27硅锰合金管材质，缸筒经过热处理调制而成，材质性能更稳定，超高压不易爆缸，压力可达80兆帕；
 + 油封为日本进口配件，采用高压组合格莱圈和挡圈式Y型组合油封，更耐超高压，两道油封更不易泄露，使用材质是普通材质的数倍，质量过硬，密封性能强，不易漏油；
 + 活塞采用两道前后导向带，更不易损坏油缸内壁，不会跑偏磨壁。
@@ -67,6 +87,8 @@
 ![](https://i.postimg.cc/hcnMNxpS/202509011621472.png?dl=1)
 ![](https://i.postimg.cc/9cK9HHCG/202509011625161.png?dl=1)
 ![](https://i.postimg.cc/69Zv9bpF/202509011625094.png?dl=1)
+液压油缸镜面辊压视频：
+<iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 4.控制箱
 + 控制系统使用微电脑系统，所有程序全部软件连接，控制系统操作简单；
@@ -79,8 +101,11 @@
 + 本款机型配备直径390mm料桶；
 + 料桶整体采用梯形条排式键条均匀排列焊接而成，梯形键条外大里小不堵油道，桶内不向上爬油，且出油面积大出油更快，是钻孔面积的15倍出油率高达2%-3%；
 + 外圈采用锻打法兰，材质采用山钢Q690钢材，高强度，高抗拉，高耐磨，不变形。
+<iframe width="700" height="330" src="https://www.youtube.com/embed/HWjvDznT95U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+### 6.活塞杆
+榨油机活塞杆淬火处理视频，活塞杆淬火处理后增加表面硬度不被划伤，延长液压油缸使用寿命
+<iframe width="700" height="330" src="https://www.youtube.com/embed/twPxOI2VQIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 易损件
 
@@ -95,3 +120,4 @@
 #### 9.阀块
 #### 10.钢珠
 #### 11.弹簧
+

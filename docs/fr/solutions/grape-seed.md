@@ -31,8 +31,8 @@ Grape seed processing technology: (Recommended 426AC-390/480AC-390/500AC-390)
  + Grape seed hot pressing process:
     + Étape 1: Broyage à haute vitesse
     + Étape 2: Cuisson à la vapeur à haute température
-    + Étape 3: Pressage de presse à huile hydraulique
- + ![Grape Seed Pressage Process](/images/葡萄籽热榨工艺_Hot%20pressing%20process%20of%20grape%20seeds_.png)
+    + Étape 3: Pressing de presse à huile hydraulique
+ + ![Grape Seed Pressing Process](/images/葡萄籽热榨工艺_Hot%20pressing%20process%20of%20grape%20seeds_.png)
 
 ## Avantages Techniques
 

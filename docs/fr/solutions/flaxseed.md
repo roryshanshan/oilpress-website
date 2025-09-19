@@ -28,7 +28,7 @@ Les graines de lin sont une culture oléagineuse importante, l'huile de graines 
 
 ### Procédé de pressage à chaud de graines de lin
 - Procédé de pressage à chaud de graines de lin/lin : Les graines de lin sont chauffées et frites + broyées et frites avant d'être alimentées dans le seau de presse hydraulique pour le pressage.
-- ![Procédé de pressage à chaud de graines de lin/lin](/images/胡麻_亚麻籽热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressage%20Process%20of%20Flaxseed.png)
+- ![Procédé de pressage à chaud de graines de lin/lin](/images/胡麻_亚麻籽热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressing%20Process%20of%20Flaxseed.png)
 - Procédé de pressage à chaud d'huile de graines de lin : Les graines de lin sont broyées par broyeur à haute vitesse avant d'être alimentées dans le seau de presse hydraulique pour le pressage. Goût sucré après, goût sucré et parfumé, l'huile pressée ne nécessite pas de traitement d'hydratation et ne mousse pas lors de la cuisson.
 - ![Procédé de pressage à chaud d'huile de graines de lin](/images/胡麻_亚麻籽冷榨工艺概览_An%20Overview%20of%20the%20Cold%20pressing%20Process%20of%20Flaxseed.png)
 
@@ -46,7 +46,7 @@ Les graines de lin sont une culture oléagineuse importante, l'huile de graines 
 
 ### 💧 Garantie de qualité de l'huile
 - Procédé à basse température préserve la nutrition
-- Pressage physique sans résidus chimiques
+- Pressing physique sans résidus chimiques
 - Rendement en huile jusqu'à 38-42%
 
 ### 🔄 Production continue

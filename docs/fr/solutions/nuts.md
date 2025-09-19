@@ -10,43 +10,43 @@ Les huiles de noix ont une teneur élevée en huile, une valeur nutritionnelle r
 **Teneur en huile** : 60-70%
 **Caractéristiques** : Haute teneur en acides gras saturés, bonne stabilité
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Séparation de la pulpe de noix de coco → Séchage → Pressage à froid → Filtration
+**Technologie de transformation** : Séparation de la pulpe de noix de coco → Séchage → Pressing à froid → Filtration
 
 ### 🌴 Fruit de palme/Noyau de palme (Huile de palme/Huile de noyau de palme)
 **Teneur en huile** : 45-55%
 **Caractéristiques** : Huile industrielle, point de fusion modéré
 **Équipement approprié** : Presse industrielle série 425/480
-**Technologie de transformation** : Séparation de la pulpe → Cuisson → Pressage → Raffinage
+**Technologie de transformation** : Séparation de la pulpe → Cuisson → Pressing → Raffinage
 
 ### 🥜 Noix (Huile de noix)
 **Teneur en huile** : 60-70%
 **Caractéristiques** : Riche en acides gras insaturés, haute valeur nutritionnelle
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Décorticage → Pressage à froid → Filtration → Réfrigération
+**Technologie de transformation** : Décorticage → Pressing à froid → Filtration → Réfrigération
 
 ### 🌰 Amande/Amande amère (Huile d'amande)
 **Teneur en huile** : 45-55%
 **Caractéristiques** : Beauté et soins de la peau, valeur médicinale
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Décorticage → Pressage à froid → Filtration → Raffinage
+**Technologie de transformation** : Décorticage → Pressing à froid → Filtration → Raffinage
 
 ### 🌰 Noisette (Huile de noisette)
 **Teneur en huile** : 55-65%
 **Caractéristiques** : Haute teneur en vitamine E, antioxydant
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Décorticage → Pressage à froid → Filtration
+**Technologie de transformation** : Décorticage → Pressing à froid → Filtration
 
 ### 🥜 Noix de cajou (Huile de noix de cajou)
 **Teneur en huile** : 40-50%
 **Caractéristiques** : Arôme spécial, aliment de haute qualité
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Décorticage → Pressage à froid → Filtration
+**Technologie de transformation** : Décorticage → Pressing à froid → Filtration
 
 ### 🥜 Pistache (Huile de pistache)
 **Teneur en huile** : 45-55%
 **Caractéristiques** : Vert et sain, nutrition équilibrée
 **Équipement approprié** : Presse spéciale série 300/325
-**Technologie de transformation** : Décorticage → Pressage à froid → Filtration
+**Technologie de transformation** : Décorticage → Pressing à froid → Filtration
 
 ## Recommandations d'équipement
 
@@ -76,7 +76,7 @@ graph TD
     B --> C[Traitement du décorticage]
     C --> D[Traitement de broyage]
     D --> E[Vapeur froide]
-    E --> F[Pressage et extraction d'huile]
+    E --> F[Pressing et extraction d'huile]
     F --> G[Séparation centrifuge]
     G --> H[Traitement de raffinage]
     H --> I[Emballage et stockage]

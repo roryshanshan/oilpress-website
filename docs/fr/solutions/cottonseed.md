@@ -30,7 +30,7 @@ Les graines de coton sont une importante culture oléagineuse, et l'huile de gra
 Cottonseed processing technology (recommended 300AC-390/325AC-390/355AC-390/400AC-390)
 + Étape 1: Cuisson à la vapeur
 + Étape 2: Broyage + mélange
-+ Étape 3: Pressage
++ Étape 3: Pressing
 + ![Cottonseed processing technology](/images/棉籽热榨工艺.png)
 
 ## Equipment Recommendations

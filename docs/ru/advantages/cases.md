@@ -48,6 +48,10 @@ keywords: Успешные проекты, Клиентские кейсы, Ма
 
 ## Международные проекты
 
+### Пакистанский клиент прессует миндаль
+ <iframe width="700" height="330" src="https://www.youtube.com/embed/rM4hgCIApAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="700" height="330" src="https://www.youtube.com/embed/kSeQ570mtvo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Заказчик из Юго-Восточной Азии
 
 **Расположение проекта**: Индонезия  
