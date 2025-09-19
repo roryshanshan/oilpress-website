@@ -15,18 +15,26 @@ Notre équipe d'expédition a une riche expérience et peut fournir des solution
 ## Aperçu du site d'expédition domestique
 
 ### Processus d'emballage et d'expédition de presse hydraulique
- <iframe width="700" height="330" src="https://www.youtube.com/embed/rrY56IsqT24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <div class="video-container">
+  <iframe src="https://www.youtube.com/embed/rrY56IsqT24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Chargement et transport d'équipement
- <iframe width="700" height="330" src="https://www.youtube.com/embed/example1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <div class="video-container">
+  <iframe src="https://www.youtube.com/embed/example1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Service d'expédition internationale
 
 ### Acceptation d'équipement client étranger
- <iframe width="700" height="330" src="https://www.youtube.com/embed/example2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <div class="video-container">
+  <iframe src="https://www.youtube.com/embed/example2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Processus de chargement de conteneur
- <iframe width="700" height="330" src="https://www.youtube.com/embed/example3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <div class="video-container">
+  <iframe src="https://www.youtube.com/embed/example3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Caractéristiques du service d'expédition
 
@@ -57,9 +65,8 @@ Notre équipe d'expédition a une riche expérience et peut fournir des solution
 
 Si vous avez besoin de connaître plus d'informations sur les services d'expédition, ou avez des besoins spéciaux d'expédition, veuillez nous contacter :
 
-- **Ligne d'assistance expédition** : +86-XXX-XXXXXXX
-- **Email service logistique** : shipping@shengshihecheng.com
-- **Support technique** : En ligne 24h/24
+- **Ligne d'assistance expédition** : +86-19906365856
+
 
 ---
 

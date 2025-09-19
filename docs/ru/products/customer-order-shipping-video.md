@@ -15,18 +15,26 @@ Shandong Shengshi Hecheng Machinery Co., Ltd. предоставляет про�
 ## Обзор отечественного сайта отгрузки
 
 ### Процесс упаковки и отгрузки гидравлического маслопресса
- <iframe width="700" height="330" src="https://www.youtube.com/embed/rrY56IsqT24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <div class="video-container">
+  <iframe src="https://www.youtube.com/embed/rrY56IsqT24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Погрузка и транспортировка оборудования
- <iframe width="700" height="330" src="https://www.youtube.com/embed/example1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <div class="video-container">
+  <iframe src="https://www.youtube.com/embed/example1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Международная услуга отгрузки
 
 ### Приемка оборудования зарубежного клиента
- <iframe width="700" height="330" src="https://www.youtube.com/embed/example2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <div class="video-container">
+  <iframe src="https://www.youtube.com/embed/example2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Процесс погрузки контейнера
- <iframe width="700" height="330" src="https://www.youtube.com/embed/example3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <div class="video-container">
+  <iframe src="https://www.youtube.com/embed/example3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Особенности услуги отгрузки
 
@@ -62,5 +70,33 @@ Shandong Shengshi Hecheng Machinery Co., Ltd. предоставляет про�
 - **Техническая поддержка**: Круглосуточно онлайн
 
 ---
+
+*Shandong Shengshi Hecheng Machinery Co., Ltd. · Профессиональное производство · Качественный сервис*
+<style>
+.video-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  margin: 1rem 0;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+  .video-container {
+    padding-bottom: 56.25%;
+    margin: 0.5rem 0;
+  }
+}
+</style>
 
 *Shandong Shengshi Hecheng Machinery Co., Ltd. · Профессиональное производство · Качественный сервис*
