@@ -21,6 +21,39 @@ keywords: 定制液压榨油机, 个性化榨油设备, 客户定制油压机, �
 ## 椰奶压榨机
 <iframe width="700" height="330" src="https://www.youtube.com/embed/-Lk1JHj3xkk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## 四联体液压榨油机，定制花椒&废白土液压榨油机，压力 500 吨
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/hZoQa6JGuKY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/lRvo4gAoD4I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## 外框外包不锈钢液压榨油机
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/znK2333voV0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## 客户定制面渣油泥液压榨油机
+ + 如下视频是客户定制10台并联全自动面渣液压压榨机
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/-gRDYsb-ibY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+ + 如下视频是单台客户定制面渣液压压榨机
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/q-6y2bdQ7eQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## 客户定制椰肉液压榨油机，压榨率 86%
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/ummelRZ5yAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+
+
 ## 定制服务内容
 
 ### 1. 设备规格定制

@@ -192,7 +192,7 @@ graph TD
 If you are interested in nut oil processing solutions, please contact our expert team:
 
 - 📞 **Hotline**: +86 19906365856
-- 📧 **Email**: sales@oil-pressing-machine.com
+- 📧 **Email**: gavin@oil-pressing-machine.com
 - 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
 
 We provide free technical consultation and on-site inspection services, customizing the most suitable nut oil processing solutions for you.

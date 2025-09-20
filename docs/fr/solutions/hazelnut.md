@@ -115,7 +115,7 @@ La noisette est une importante culture oléagineuse, l'huile de noisette a une v
 If you are interested in hazelnut pressing solutions, please contact our technical team:
 
 - 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: sales@oil-pressing-machine.com
+- 📧 **Email**: gavin@oil-pressing-machine.com
 - 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable hazelnut pressing solution.

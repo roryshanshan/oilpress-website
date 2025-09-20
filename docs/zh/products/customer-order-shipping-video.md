@@ -21,19 +21,30 @@ keywords: 客户订货发货视频, 设备打包发货, 液压榨油机发货, �
 
 ### 设备装车运输
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/example1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/mjzmVves1SU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### 国内客户设备验收
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/--mJg9RNZwA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## 国际发货服务
 
-### 海外客户设备验收
+### 海外客户设备发货记录
++ 巴基斯坦杏仁冷榨客户，机型 426-390AC
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/example2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/jjbll8mzB70" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ 
++ 缅甸客户液压榨油机发货
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/qbhvJQ6amLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### 集装箱装载过程
+### 客户大批量订购液压榨油机，备货中
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/example3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/U077XRSuR-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## 发货服务特点
@@ -65,9 +76,7 @@ keywords: 客户订货发货视频, 设备打包发货, 液压榨油机发货, �
 
 如果您需要了解更多发货服务信息，或有特殊发货需求，请联系我们：
 
-- **发货咨询热线**：+86-XXX-XXXXXXX
-- **物流服务邮箱**：shipping@shengshihecheng.com
-- **技术支持**：24小时在线
+- **发货咨询热线**：+86-19906365856
 
 ---
 

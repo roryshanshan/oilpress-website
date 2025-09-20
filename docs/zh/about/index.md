@@ -24,6 +24,11 @@ keywords: 山东盛世赫程, 榨油设备制造商, 液压榨油机厂家, 油�
 - 严格质量管控
 - 完善检测体系
 
+### 车间成品展示
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/U077XRSuR-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### 服务网络
 - 全球销售网络
 - 本地化服务

@@ -192,7 +192,7 @@ graph TD
 Si vous êtes intéressé par les solutions de transformation d'huile de noix, veuillez contacter notre équipe d'experts :
 
 - 📞 **Ligne directe** : +86 19906365856
-- 📧 **Email** : sales@oil-pressing-machine.com
+- 📧 **Email** : gavin@oil-pressing-machine.com
 - 📍 **Adresse** : N° 5888, rue Yineng, zone de développement, ville de Qingzhou, ville de Weifang, province du Shandong, Chine
 
 Nous fournissons des consultations techniques gratuites et des services d'inspection sur site, en personnalisant les solutions de transformation d'huile de noix les plus adaptées pour vous.

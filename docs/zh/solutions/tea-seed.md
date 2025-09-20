@@ -30,11 +30,17 @@ keywords: 茶籽解决方案, 茶籽油压榨, 茶籽加工设备, 茶籽油生�
         + 茶籽油热榨工艺：茶籽经过筛选、清洗、烘干、破碎、蒸炒后接入液压榨油机料桶压榨。
         + 采用此工艺压榨的茶籽油，色泽清亮，香味纯正，营养丰富。
         + ![](/images/茶籽热榨工艺.png)
-## 加工工艺视频
 
-<iframe width="700" height="330" src="https://www.youtube.com/embed/Yz1FETcJv7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## 茶籽热榨工艺视频
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/s5h70JVB46Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
+### 如果追求更高的出油率可以选择先剥壳，剥壳机视频如下：
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/Yz1FETcJv7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## 技术优势
 
@@ -121,7 +127,7 @@ keywords: 茶籽解决方案, 茶籽油压榨, 茶籽加工设备, 茶籽油生�
 如果您对茶籽压榨解决方案感兴趣，请联系我们的技术团队：
 
 - 📞 **咨询热线**: +86 19906365856
-- 📧 **邮箱**: sales@oil-pressing-machine.com
+- 📧 **邮箱**: gavin@oil-pressing-machine.com
 - 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
 
 我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的茶籽压榨解决方案。

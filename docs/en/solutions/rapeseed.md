@@ -121,7 +121,7 @@ Rapeseed is an important oil crop, rapeseed oil is one of the major edible oils 
 If you are interested in rapeseed pressing solutions, please contact our technical team:
 
 - 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: sales@oil-pressing-machine.com
+- 📧 **Email**: gavin@oil-pressing-machine.com
 - 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable rapeseed pressing solution.

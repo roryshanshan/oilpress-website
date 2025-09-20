@@ -121,7 +121,7 @@ Couvre les cultures oléagineuses spéciales telles que le son de riz, le germe 
 Si vous avez besoin de solutions professionnelles de transformation d'huiles, veuillez contacter notre équipe technique :
 
 - 📞 **Ligne directe** : +86 19906365856
-- 📧 **Email** : sales@oil-pressing-machine.com
+- 📧 **Email** : gavin@oil-pressing-machine.com
 - 📍 **Adresse** : N° 5888, rue Yineng, zone de développement, ville de Qingzhou, ville de Weifang, province du Shandong, Chine
 
 Nous fournissons des consultations techniques gratuites, des enquêtes sur site et des services de conception de solutions personnalisées.

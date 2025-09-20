@@ -121,7 +121,7 @@ Covers special oil crops such as rice bran, corn germ, castor seeds, etc., meeti
 If you need professional oil processing solutions, please contact our technical team:
 
 - 📞 **Hotline**: +86 19906365856
-- 📧 **Email**: sales@oil-pressing-machine.com
+- 📧 **Email**: gavin@oil-pressing-machine.com
 - 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
 
 We provide free technical consultation, on-site investigation, and personalized solution design services.

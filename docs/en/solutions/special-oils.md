@@ -214,7 +214,7 @@ graph TD
 If you are interested in special oil processing solutions, please contact our expert team:
 
 - 📞 **Hotline**: +86 19906365856
-- 📧 **Email**: sales@oil-pressing-machine.com
+- 📧 **Email**: gavin@oil-pressing-machine.com
 - 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
 
 We provide free technical consultation, sample testing, and process verification services, providing you with the most professional special oil processing solutions.

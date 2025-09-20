@@ -1427,7 +1427,7 @@ ${config.applications.map(app => `### ${app === '食用油' ? '🍳' : app === '
 如果您对${config.name}压榨解决方案感兴趣，请联系我们的技术团队：
 
 - 📞 **咨询热线**: +86 19906365856
-- 📧 **邮箱**: sales@oil-pressing-machine.com
+- 📧 **邮箱**: gavin@oil-pressing-machine.com
 - 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
 
 我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的${config.name}压榨解决方案。`;
@@ -1596,7 +1596,7 @@ ${config.applications.map(app => `### ${app === 'Edible Oil' ? '🍳' : app === 
 If you are interested in ${config.name} pressing solutions, please contact our technical team:
 
 - 📞 **Hotline**: +86 19906365856
-- 📧 **Email**: sales@oil-pressing-machine.com
+- 📧 **Email**: gavin@oil-pressing-machine.com
 - 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable ${config.name} pressing solutions.`;

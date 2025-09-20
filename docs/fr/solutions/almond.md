@@ -114,7 +114,7 @@ L'amande est une importante culture oléagineuse, l'huile d'amande possède une 
 Si vous êtes intéressé par les solutions de pressage d'amandes, veuillez contacter notre équipe technique :
 
 - 📞 **Ligne d'assistance** : +86 19906365856
-- 📧 **Email** : sales@oil-pressing-machine.com
+- 📧 **Email** : gavin@oil-pressing-machine.com
 - 📍 **Adresse** : N° 5888, rue Yineng, zone de développement, ville de Qingzhou, ville de Weifang, province du Shandong
 
 Nous fournissons des services de consultation technique gratuite, de test d'échantillons et d'inspection sur site pour vous offrir la solution de pressage d'amandes la plus adaptée.

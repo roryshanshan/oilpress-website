@@ -114,7 +114,7 @@ Les graines de citrouille sont une importante culture oléagineuse, l'huile de g
 Si vous êtes intéressé par les solutions de pressage de graines de citrouille, veuillez contacter notre équipe technique :
 
 - 📞 **Ligne de Consultation** : +86 19906365856
-- 📧 **Email** : sales@oil-pressing-machine.com
+- 📧 **Email** : gavin@oil-pressing-machine.com
 - 📍 **Adresse** : No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
 Nous fournissons des consultations techniques gratuites, des tests d'échantillons et des services d'inspection sur site pour vous fournir la solution de pressage de graines de citrouille la plus appropriée.

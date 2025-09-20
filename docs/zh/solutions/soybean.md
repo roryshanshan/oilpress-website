@@ -31,9 +31,7 @@ keywords: 大豆解决方案, 豆油压榨, 大豆加工设备, 豆油生产线,
         + 热榨工艺：大豆磨成胚状（粉碎）一 蒸熟-一压榨
         + ![](/images/大豆热榨工艺.png)
 
-## 加工工艺视频
 
- <iframe width="700" height="330" src="https://www.youtube.com/embed/ggkjZM5n0vM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## 技术优势
 
 ### 🎯 精准控制
@@ -121,7 +119,7 @@ keywords: 大豆解决方案, 豆油压榨, 大豆加工设备, 豆油生产线,
 如果您对大豆压榨解决方案感兴趣，请联系我们的技术团队：
 
 - 📞 **咨询热线**: +86 19906365856
-- 📧 **邮箱**: sales@oil-pressing-machine.com
+- 📧 **邮箱**: gavin@oil-pressing-machine.com
 - 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
 
 我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的大豆压榨解决方案。

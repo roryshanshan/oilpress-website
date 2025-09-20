@@ -1422,6 +1422,10 @@ export default {
   },
 
   themeConfig: {
+    // 全局搜索配置
+    search: {
+      provider: 'local'
+    },
     // 社交 ссылки - уже удалены, используем иконки в пользовательском макете
     socialLinks: []
   }

@@ -83,12 +83,17 @@
 + 油封为日本进口配件，采用高压组合格莱圈和挡圈式Y型组合油封，更耐超高压，两道油封更不易泄露，使用材质是普通材质的数倍，质量过硬，密封性能强，不易漏油；
 + 活塞采用两道前后导向带，更不易损坏油缸内壁，不会跑偏磨壁。
 ![](https://i.postimg.cc/knHfHphZ/202509011620773.png?dl=1)
-![](https://i.postimg.cc/G3wzLsRx/202509011620379.png?dl=1)
-![](https://i.postimg.cc/hcnMNxpS/202509011621472.png?dl=1)
+
 ![](https://i.postimg.cc/9cK9HHCG/202509011625161.png?dl=1)
 ![](https://i.postimg.cc/69Zv9bpF/202509011625094.png?dl=1)
+
 液压油缸镜面辊压视频：
 <iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+超高压液压油缸加焊工艺视频：
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/8TpO4JBcJ_A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### 4.控制箱
 + 控制系统使用微电脑系统，所有程序全部软件连接，控制系统操作简单；
@@ -104,6 +109,7 @@
 <iframe width="700" height="330" src="https://www.youtube.com/embed/HWjvDznT95U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 6.活塞杆
+![](https://i.postimg.cc/hcnMNxpS/202509011621472.png?dl=1)
 榨油机活塞杆淬火处理视频，活塞杆淬火处理后增加表面硬度不被划伤，延长液压油缸使用寿命
 <iframe width="700" height="330" src="https://www.youtube.com/embed/twPxOI2VQIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

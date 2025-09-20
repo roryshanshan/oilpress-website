@@ -118,7 +118,7 @@ Hot pressing technology for corn germ oil: (Recommended 300AC-390/325AC-390/355A
 If you are interested in corn germ pressing solutions, please contact our technical team:
 
 - 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: sales@oil-pressing-machine.com
+- 📧 **Email**: gavin@oil-pressing-machine.com
 - 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable corn germ pressing solution.

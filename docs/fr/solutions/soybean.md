@@ -125,7 +125,7 @@ Le soja est l'une des principales cultures oléagineuses mondiales, et l'huile d
 Si vous êtes intéressé par les solutions de pressage de soja, veuillez contacter notre équipe technique :
 
 - 📞 **Ligne d'assistance** : +86 19906365856
-- 📧 **Email** : sales@oil-pressing-machine.com
+- 📧 **Email** : gavin@oil-pressing-machine.com
 - 📍 **Adresse** : N° 5888, rue Yineng, zone de développement, ville de Qingzhou, province du Shandong, Chine
 
 Nous fournissons des services de consultation technique gratuite, de test d'échantillons et d'inspection sur site pour vous offrir les solutions de pressage de soja les plus adaptées.

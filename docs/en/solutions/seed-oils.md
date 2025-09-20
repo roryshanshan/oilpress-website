@@ -176,7 +176,7 @@ graph TD
 If you are interested in seed oil processing solutions, please contact our technical team:
 
 - 📞 **Hotline**: +86 19906365856
-- 📧 **Email**: sales@oil-pressing-machine.com
+- 📧 **Email**: gavin@oil-pressing-machine.com
 - 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
 
 We will provide personalized solutions based on your specific needs and technical support.

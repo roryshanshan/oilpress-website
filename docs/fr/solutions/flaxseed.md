@@ -121,7 +121,7 @@ Les graines de lin sont une culture oléagineuse importante, l'huile de graines 
 Si vous êtes intéressé par les solutions de pressage de graines de lin, veuillez contacter notre équipe technique :
 
 - 📞 **Ligne de consultation** : +86 19906365856
-- 📧 **Email** : sales@oil-pressing-machine.com
+- 📧 **Email** : gavin@oil-pressing-machine.com
 - 📍 **Adresse** : N° 5888, rue Yineng, zone de développement, ville de Qingzhou, ville de Weifang, province du Shandong
 
 Nous fournissons des services de consultation technique gratuite, de test d'échantillons et d'inspection sur site pour vous offrir la solution de pressage de graines de lin la plus adaptée.

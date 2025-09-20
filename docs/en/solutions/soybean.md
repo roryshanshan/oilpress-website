@@ -125,7 +125,7 @@ Soybean is one of the world's most important oilseed crops, and soybean oil is a
 If you are interested in soybean pressing solutions, please contact our technical team:
 
 - 📞 **Hotline**: +86 19906365856
-- 📧 **Email**: sales@oil-pressing-machine.com
+- 📧 **Email**: gavin@oil-pressing-machine.com
 - 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable soybean pressing solutions.
