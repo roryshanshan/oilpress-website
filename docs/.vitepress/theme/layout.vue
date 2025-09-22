@@ -150,9 +150,6 @@
                     <a :href="currentLang === 'zh' ? '/zh/products/cake-wrapping-machine' : '/en/products/cake-wrapping-machine'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
                       {{ currentLang === 'zh' ? '饼粕包饼机' : 'Cake Wrapping Machine' }}
                     </a>
-                    <a :href="currentLang === 'zh' ? '/zh/products/edible-oil-refining-equipment' : '/en/products/edible-oil-refining-equipment'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                      {{ currentLang === 'zh' ? '食用油精炼设备' : 'Edible Oil Refining Equipment' }}
-                    </a>
                     <a :href="currentLang === 'zh' ? '/zh/products/feeding-crushing-frying-integrated-machine' : '/en/products/feeding-crushing-frying-integrated-machine'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
                       {{ currentLang === 'zh' ? '上料/粉碎/炒制一体机' : 'Feeding Crushing Frying Integrated Machine' }}
                     </a>
@@ -186,6 +183,9 @@
                     </a>
                     <a :href="currentLang === 'zh' ? '/zh/products/cake-pulverizer' : '/en/products/cake-pulverizer'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
                       {{ currentLang === 'zh' ? '饼粕粉碎机' : 'Cake Pulverizer' }}
+                    </a>
+                    <a :href="currentLang === 'zh' ? '/zh/products/edible-oil-refining-equipment' : '/en/products/edible-oil-refining-equipment'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '食用油精炼设备' : 'Edible Oil Refining Equipment' }}
                     </a>
                   </div>
                 </div>
