@@ -416,7 +416,6 @@ export default {
                         { text: '亚麻籽菜籽研磨搅拌一体机', link: '/zh/products/Flaxseed-and-rapeseed-grinding-and-stirring-integrated-machine' },
                         { text: '自动滚筒炒锅', link: '/zh/products/automatic-drum-roaster' },
                         { text: '饼粕包饼机', link: '/zh/products/cake-wrapping-machine' },
-                        { text: '食用油精炼设备', link: '/zh/products/edible-oil-refining-equipment' },
                         { text: '上料/粉碎/炒制一体机', link: '/zh/products/feeding-crushing-frying-integrated-machine' },
                         { text: '导热油平底煎锅', link: '/zh/products/heat-conducting-oil-flat-bottom-frying-pan' },
                         { text: '气动滤油机', link: '/zh/products/pneumatic-filter-press' },
@@ -430,7 +429,8 @@ export default {
                       collapsed: false,
                       items: [
                         { text: '概述', link: '/zh/products/post-treatment' },
-                        { text: '饼粕粉碎机', link: '/zh/products/cake-pulverizer' }
+                        { text: '饼粕粉碎机', link: '/zh/products/cake-pulverizer' },
+                        { text: '食用油精炼设备', link: '/zh/products/edible-oil-refining-equipment' }
                       ]
                     }
                   ]
@@ -697,7 +697,6 @@ export default {
                         { text: 'Flaxseed and Rapeseed Grinding and Stirring Integrated Machine', link: '/en/products/Flaxseed-and-rapeseed-grinding-and-stirring-integrated-machine' },
                         { text: 'Automatic Drum Roaster', link: '/en/products/automatic-drum-roaster' },
                         { text: 'Cake Wrapping Machine', link: '/en/products/cake-wrapping-machine' },
-                        { text: 'Edible Oil Refining Equipment', link: '/en/products/edible-oil-refining-equipment' },
                         { text: 'Feeding Crushing Frying Integrated Machine', link: '/en/products/feeding-crushing-frying-integrated-machine' },
                         { text: 'Heat Conducting Oil Flat Bottom Frying Pan', link: '/en/products/heat-conducting-oil-flat-bottom-frying-pan' },
                         { text: 'Pneumatic Filter Press', link: '/en/products/pneumatic-filter-press' },
@@ -711,7 +710,8 @@ export default {
                       collapsed: false,
                       items: [
                         { text: 'Overview', link: '/en/products/post-treatment' },
-                        { text: 'Cake Pulverizer', link: '/en/products/cake-pulverizer' }
+                        { text: 'Cake Pulverizer', link: '/en/products/cake-pulverizer' },
+                        { text: 'Edible Oil Refining Equipment', link: '/en/products/edible-oil-refining-equipment' }
                       ]
                     }
                   ]
@@ -979,7 +979,6 @@ export default {
                         { text: 'Машина для измельчения и перемешивания льняного семени и рапса', link: '/ru/products/Flaxseed-and-rapeseed-grinding-and-stirring-integrated-machine' },
                         { text: 'Автоматический барабанный обжарщик', link: '/ru/products/automatic-drum-roaster' },
                         { text: 'Машина для упаковки жмыха', link: '/ru/products/cake-wrapping-machine' },
-                        { text: 'Оборудование для рафинирования пищевого масла', link: '/ru/products/edible-oil-refining-equipment' },
                         { text: 'Интегрированная машина для подачи, дробления и жарки', link: '/ru/products/feeding-crushing-frying-integrated-machine' },
                         { text: 'Плоская сковорода с теплоносителем', link: '/ru/products/heat-conducting-oil-flat-bottom-frying-pan' },
                         { text: 'Пневматический фильтр-пресс', link: '/ru/products/pneumatic-filter-press' },
@@ -993,7 +992,8 @@ export default {
                       collapsed: false,
                       items: [
                         { text: 'Обзор', link: '/ru/products/post-treatment' },
-                        { text: 'Измельчитель жмыха', link: '/ru/products/cake-pulverizer' }
+                        { text: 'Измельчитель жмыха', link: '/ru/products/cake-pulverizer' },
+                        { text: 'Оборудование для рафинирования пищевого масла', link: '/ru/products/edible-oil-refining-equipment' }
                       ]
                     }
                   ]
@@ -1261,7 +1261,6 @@ export default {
                         { text: 'Machine intégrée de broyage et mélange de graines de lin et colza', link: '/fr/products/Flaxseed-and-rapeseed-grinding-and-stirring-integrated-machine' },
                         { text: 'Rôtisseur à tambour automatique', link: '/fr/products/automatic-drum-roaster' },
                         { text: 'Machine d\'emballage de gâteau', link: '/fr/products/cake-wrapping-machine' },
-                        { text: 'Équipement de raffinage d\'huile comestible', link: '/fr/products/edible-oil-refining-equipment' },
                         { text: 'Machine intégrée d\'alimentation, concassage et friture', link: '/fr/products/feeding-crushing-frying-integrated-machine' },
                         { text: 'Poêle plate à huile conductrice de chaleur', link: '/fr/products/heat-conducting-oil-flat-bottom-frying-pan' },
                         { text: 'Presse-filtre pneumatique', link: '/fr/products/pneumatic-filter-press' },
@@ -1275,7 +1274,8 @@ export default {
                       collapsed: false,
                       items: [
                         { text: 'Aperçu', link: '/fr/products/post-treatment' },
-                        { text: 'Pulvérisateur de gâteau', link: '/fr/products/cake-pulverizer' }
+                        { text: 'Pulvérisateur de gâteau', link: '/fr/products/cake-pulverizer' },
+                        { text: 'Équipement de raffinage d\'huile comestible', link: '/fr/products/edible-oil-refining-equipment' }
                       ]
                     }
                   ]
