@@ -26,10 +26,31 @@ Le colza est une importante culture oléagineuse, l'huile de colza est l'une des
 
 ## Technologie de Transformation
 
-### Rapeseed Oil Hot Pressing Process
-- Rapeseed goes through cleaning, crushing, frying and steaming processes before being fed into the hydraulic oil press bucket for pressing.
-- The rapeseed oil produced by this process has high oil yield, golden color, and fresh aroma.
+### Procédé de pressage à chaud de l'huile de colza
+- Le colza subit des processus de nettoyage, de concassage, de friture et de cuisson à la vapeur avant d'être introduit dans le seau de presse à huile hydraulique pour le pressage.
+- L'huile de colza produite par ce processus a un rendement en huile élevé, une couleur dorée et une saveur fraîche.
 - ![](/images/菜籽热榨工艺.png)
+
+## Vidéo du processus de pressage à chaud du colza
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/lwE0mqSozlM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Effet du gâteau pressé de la presse à huile hydraulique
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/Dwoq8gX_24E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/KEcZjEd7dV4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### La vidéo suivante montre le processus de production de presse à huile à vis de colza, capacité de traitement quotidienne de 100 tonnes, à titre de référence uniquement, pas notre produit principal
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/X8jgHKbJsxQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Equipment Recommendations
 

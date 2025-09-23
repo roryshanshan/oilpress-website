@@ -31,8 +31,25 @@ Rapeseed is an important oil crop, rapeseed oil is one of the major edible oils 
 - The rapeseed oil produced by this process has high oil yield, golden color, and fresh aroma.
 - ![](/images/菜籽热榨工艺.png)
 
+## Rapeseed Hot Pressing Process Video
+
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/lwE0mqSozlM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Hydraulic Oil Press Pressed Cake Effect
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/Dwoq8gX_24E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/KEcZjEd7dV4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### The following video shows rapeseed screw oil press production process, daily processing capacity 100 tons, for reference only, not our main product
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/X8jgHKbJsxQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Equipment Recommendations

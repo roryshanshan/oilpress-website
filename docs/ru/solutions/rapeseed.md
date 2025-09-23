@@ -31,6 +31,27 @@ keywords: Решения для рапса, Отжим масла рапса, О
 - Масло рапса, произведенное этим процессом, имеет высокий выход масла, золотистый цвет и свежий аромат.
 - ![](/images/菜籽热榨工艺.png)
 
+## Видео процесса горячего отжима рапса
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/lwE0mqSozlM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Эффект прессованного жмыха гидравлического маслобойного пресса
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/Dwoq8gX_24E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/KEcZjEd7dV4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Следующее видео показывает процесс производства шнекового маслобойного пресса для рапса, суточная производительность 100 тонн, только для справки, не наш основной продукт
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/X8jgHKbJsxQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Рекомендации по оборудованию
 
 ### Рекомендуемое оборудование
