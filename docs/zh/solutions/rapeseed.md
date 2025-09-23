@@ -29,7 +29,28 @@ keywords: 油菜籽解决方案, 菜籽油压榨, 油菜籽加工设备, 菜籽�
  + 菜籽(建议300AC-390/325AC-390/355AC-390/400AC-390)
         + 菜籽油热榨工艺：菜籽经过清理、破碎、炒制蒸制工艺后再放入液压榨油机料桶压榨。
         + 采用此工艺压榨的菜籽油，出油率高，色泽金黄，口感清香。
-        + ![](/images/菜籽热榨工艺.png)
+        + ![](/images/菜籽热榨工艺.png)‘
+## 菜籽热榨工艺视频
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/lwE0mqSozlM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### 液压榨油机压榨后的枯饼效果
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/Dwoq8gX_24E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/KEcZjEd7dV4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+### 如下视频为菜籽螺旋榨油机生产工艺，日处理量 100 吨，仅供参考，非我司主营产品
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/X8jgHKbJsxQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## 技术优势
 

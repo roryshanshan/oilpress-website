@@ -6,6 +6,9 @@ keywords: 导热油平底电炒锅, 电炒锅, 导热油炒锅, 平底炒锅, �
 
 # 内衬岩棉/外包不锈钢/导热油平底电炒锅
 ![](https://i.postimg.cc/3KvT2YJ1/202509051516277.png?dl=1)
+![](https://i.postimg.cc/hg2f5LdS/IMG-6945.jpg?dl=1)
+![](https://i.postimg.cc/tpf7X9kw/IMG-6946.jpg?dl=1)
+![](https://i.postimg.cc/r879x6qP/202509220959703.png?dl=1)
 ## 产品概述
 
 我们的导热油平底电炒锅采用双层锅底加强筋与电机减速机一体化设计，锅体外围内衬岩棉保温层，外包不锈钢，美观大方。导热油电加热方式受热更均匀，降温慢，更加节能。
@@ -32,3 +35,9 @@ keywords: 导热油平底电炒锅, 电炒锅, 导热油炒锅, 平底炒锅, �
 | 重量           | 约308Kg      |
 | 设备尺寸       | 1200x1200x1550mm |
 | 自备导热油     | 350号/50Kg   |
+
+## 视频参考
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/7R_KAefASfo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

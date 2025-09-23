@@ -28,7 +28,10 @@ keywords: 向日葵籽解决方案, 葵花籽油压榨, 向日葵籽加工设备
 + 葵花籽(建议300AC-390/325AC-390/355AC-390/400AC-390)
             + 葵花籽油热榨工艺：葵花籽经过清理、破碎、炒制工艺后再放入液压榨油机料桶压榨。
             ![葵花籽油热榨工艺](/images/葵花籽热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressing%20Process%20of%20Sunflower%20seeds.png)
-
+## 葵花籽油热榨压榨视频
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/BdmN8beHRyg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## 技术优势
 

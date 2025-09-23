@@ -35,6 +35,11 @@ keywords: 花生解决方案, 花生油压榨, 花生加工设备, 花生油生�
  <iframe width="700" height="330" src="https://www.youtube.com/embed/ggkjZM5n0vM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/VAdu4VcKCpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 
 ## 技术优势
 

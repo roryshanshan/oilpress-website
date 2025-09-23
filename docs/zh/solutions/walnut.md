@@ -30,7 +30,10 @@ keywords: 核桃解决方案, 核桃油压榨, 核桃加工设备, 核桃油生�
      + 冷榨工艺：核桃经过筛选、清洗、高速粉碎后直接入液压榨油机料桶压榨。
      + 采用此工艺压榨的核桃油，色泽金黄，入口回甘，压榨出的油不用水化处理，下锅不起泡。
      + ![](/images/核桃冷榨工艺.png)
-
+## 核桃冷榨参考视频，视频中测试机为 325 型，不建议做为生产使用，仅供参考。
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/2Y0HsdtzfWg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## 技术优势
 

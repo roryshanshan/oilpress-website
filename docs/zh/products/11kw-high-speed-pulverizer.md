@@ -19,3 +19,8 @@ keywords: 高速粉碎机, 11KW粉碎机, 油料粉碎机, 山茶籽粉碎机, �
 | 电压 | 380V | 转速 | 1460r/min |
 | 重量 | 218Kg | 尺寸 | 1400x802x800mm |
 | 噪音 | 82dB | 加工量 | 750kg/h |
+## 视频参考
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/o-APYfttI74" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

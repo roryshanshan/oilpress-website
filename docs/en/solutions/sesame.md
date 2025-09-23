@@ -83,28 +83,6 @@ Sesame is an important oilseed crop, and sesame oil has unique aroma and rich nu
 - Catering chain enterprises
 - Export trading enterprises
 
-## Success Cases
-
-### Shandong Large Sesame Oil Processing Plant
-- **Equipment Configuration**: 400 Series Oil Press × 6 units
-- **Daily Processing Capacity**: 50 tons sesame
-- **Oil Yield**: 55%
-- **Annual Production**: 8,000 tons sesame oil
-- **Market Coverage**: 20 provinces and cities nationwide
-
-### Henan Professional Sesame Oil Enterprise
-- **Equipment Configuration**: 355 Series Special Press × 4 units
-- **Daily Processing Capacity**: 25 tons sesame
-- **Product Quality**: National first-class standards
-- **Brand Building**: Regional well-known brand
-- **Annual Sales**: 30 million RMB
-
-### Anhui Premium Sesame Oil Brand
-- **Equipment Configuration**: 325 Series Special Press × 6 units
-- **Daily Processing Capacity**: 15 tons premium sesame
-- **Product Quality**: Organic food certification
-- **Market Positioning**: Premium organic edible oil
-- **Export Market**: Southeast Asia, Japan
 
 ## Quality Standards
 

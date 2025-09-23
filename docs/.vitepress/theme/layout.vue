@@ -181,11 +181,11 @@
                     <a :href="currentLang === 'zh' ? '/zh/products/post-treatment' : currentLang === 'ru' ? '/ru/products/post-treatment' : currentLang === 'fr' ? '/fr/products/post-treatment' : '/en/products/post-treatment'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
                       {{ currentLang === 'zh' ? '概述' : currentLang === 'ru' ? 'Обзор' : currentLang === 'fr' ? 'Aperçu' : 'Overview' }}
                     </a>
-                    <a :href="currentLang === 'zh' ? '/zh/products/cake-pulverizer' : '/en/products/cake-pulverizer'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                      {{ currentLang === 'zh' ? '饼粕粉碎机' : 'Cake Pulverizer' }}
+                    <a :href="currentLang === 'zh' ? '/zh/products/cake-pulverizer' : currentLang === 'ru' ? '/ru/products/cake-pulverizer' : currentLang === 'fr' ? '/fr/products/cake-pulverizer' : '/en/products/cake-pulverizer'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '饼粕粉碎机' : currentLang === 'ru' ? 'Измельчитель жмыха' : currentLang === 'fr' ? 'Pulvérisateur de gâteau' : 'Cake Pulverizer' }}
                     </a>
-                    <a :href="currentLang === 'zh' ? '/zh/products/edible-oil-refining-equipment' : '/en/products/edible-oil-refining-equipment'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                      {{ currentLang === 'zh' ? '食用油精炼设备' : 'Edible Oil Refining Equipment' }}
+                    <a :href="currentLang === 'zh' ? '/zh/products/edible-oil-refining-equipment' : currentLang === 'ru' ? '/ru/products/edible-oil-refining-equipment' : currentLang === 'fr' ? '/fr/products/edible-oil-refining-equipment' : '/en/products/edible-oil-refining-equipment'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '食用油精炼设备' : currentLang === 'ru' ? 'Оборудование для рафинирования пищевого масла' : currentLang === 'fr' ? 'Équipement de raffinage d\'huile comestible' : 'Edible Oil Refining Equipment' }}
                     </a>
                   </div>
                 </div>

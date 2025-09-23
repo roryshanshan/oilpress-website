@@ -30,3 +30,14 @@ keywords: 27kW电蒸锅, 电蒸锅, 升级款电蒸锅, 油料蒸锅, 蒸锅设�
 | 重量         | 约54Kg           |
 | 设备尺寸     | 1105x700x1080mm  |
 | 蒸锅材质     | 201不锈钢        |
+
+## 视频参考
+## 视频参考
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/7DEUDsks6_k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/pOfefDJgwMQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

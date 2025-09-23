@@ -27,11 +27,15 @@ keywords: 亚麻籽解决方案, 亚麻籽油压榨, 亚麻籽加工设备, 亚�
 ## 加工工艺
 
 + 胡麻/亚麻籽(建议300AC-390/325AC-390/355AC-390/400AC-390)
-       + 胡麻/亚麻籽热榨工艺：胡麻籽经过加热炒制+磨糁炒制后再放入液压榨油机料桶压榨。
-        + ![胡麻/亚麻籽热榨工艺](/images/胡麻_亚麻籽热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressing%20Process%20of%20Flaxseed.png)
-       + 胡麻籽油热榨工艺：胡麻籽经过高速粉碎机粉碎后再放入液压榨油机料桶压榨。入口回甘，入口香甜，压榨出的油不用水化处理，下锅不起泡。
-       + ![胡麻籽油热榨工艺](/images/胡麻_亚麻籽冷榨工艺概览_An%20Overview%20of%20the%20Cold%20pressing%20Process%20of%20Flaxseed.png)
+ + 胡麻/亚麻籽热榨工艺：胡麻籽经过加热炒制+磨糁炒制后再放入液压榨油机料桶压榨。
+ + ![胡麻/亚麻籽热榨工艺](/images/胡麻_亚麻籽热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressing%20Process%20of%20Flaxseed.png)
+ + 胡麻籽油热榨工艺：胡麻籽经过高速粉碎机粉碎后再放入液压榨油机料桶压榨。入口回甘，入口香甜，压榨出的油不用水化处理，下锅不起泡。
+ + ![胡麻籽油热榨工艺](/images/胡麻_亚麻籽冷榨工艺概览_An%20Overview%20of%20the%20Cold%20pressing%20Process%20of%20Flaxseed.png)
 ## 加工工艺视频
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/g6zdZIm7aMs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <iframe width="700" height="330" src="https://www.youtube.com/embed/Ye3Ni2Lz9cM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
