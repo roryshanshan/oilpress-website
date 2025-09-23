@@ -31,6 +31,10 @@ Sesame is an important oilseed crop, and sesame oil has unique aroma and rich nu
 - Basically no filtration treatment is needed, just sedimentation and bottling.
 - ![](/images/芝麻热榨工艺.png)
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/TeSE53ywSw4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Equipment Recommendations
 
 ### Recommended Equipment
