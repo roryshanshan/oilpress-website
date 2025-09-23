@@ -31,6 +31,10 @@ Rapeseed is an important oil crop, rapeseed oil is one of the major edible oils 
 - The rapeseed oil produced by this process has high oil yield, golden color, and fresh aroma.
 - ![](/images/菜籽热榨工艺.png)
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/lwE0mqSozlM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Equipment Recommendations
 
 ### Recommended Equipment
