@@ -31,6 +31,18 @@ Tea seed is an important oil crop, tea seed oil has unique nutritional value and
 - The tea seed oil produced by this process has clear color, pure aroma, and rich nutrition.
 - ![](/images/茶籽热榨工艺.png)
 
+## Tea Seed Hot Pressing Process Video
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/s5h70JVB46Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### If pursuing higher oil yield, shelling can be done first, shelling machine video as follows:
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/Yz1FETcJv7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Equipment Recommendations
 
 ### Recommended Equipment

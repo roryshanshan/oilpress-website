@@ -26,12 +26,21 @@ Les graines de thé sont une importante culture oléagineuse, l'huile de graines
 
 ## Technologie de Transformation
 
-### Tea Seed Oil Hot Pressing Process
-- Tea seeds go through screening, cleaning, drying, crushing, and steaming before being fed into the hydraulic oil press bucket for pressing.
-- The tea seed oil produced by this process has clear color, pure aroma, and rich nutrition.
+### Procédé de Pressage à Chaud d'Huile de Graine de Thé
+- Les graines de thé subissent un criblage, un nettoyage, un séchage, un concassage et une cuisson à la vapeur avant d'être introduites dans le seau de presse hydraulique pour le pressage.
+- L'huile de graines de thé produite par ce processus a une couleur claire, un arôme pur et une riche nutrition.
 - ![](/images/茶籽热榨工艺.png)
+
+## Vidéo du processus de pressage à chaud des graines de thé
+
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/qBI23dYcG2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/s5h70JVB46Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Si vous recherchez un rendement en huile plus élevé, vous pouvez d'abord décortiquer, vidéo de la machine à décortiquer comme suit :
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/Yz1FETcJv7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ## Equipment Recommendations
 
