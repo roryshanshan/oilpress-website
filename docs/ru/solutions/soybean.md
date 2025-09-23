@@ -34,6 +34,8 @@ keywords: Решения для соевых бобов, Отжим соевог
 - Измельчение соевых бобов в форму зародыша (измельчение) - пропаривание - отжим
 - ![](/images/大豆热榨工艺.png)
 
+Процесс горячей переработки соевых бобов показан в следующем видео:
+
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/FoADdpLvCGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

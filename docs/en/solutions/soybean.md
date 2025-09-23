@@ -34,6 +34,8 @@ Soybean is one of the world's most important oilseed crops, and soybean oil is a
 - Soybean grinding into embryo shape (crushing) - steaming - pressing
 - ![](/images/大豆热榨工艺.png)
 
+The hot pressing process for soybean processing is shown in the following video:
+
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/FoADdpLvCGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

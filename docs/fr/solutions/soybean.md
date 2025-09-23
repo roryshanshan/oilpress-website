@@ -34,6 +34,8 @@ Le soja est l'une des principales cultures oléagineuses mondiales, et l'huile d
 - Broyage de soja en forme d'embryon (broyage) - cuisson à la vapeur - pressage
 - ![](/images/大豆热榨工艺.png)
 
+La vidéo suivante montre le processus de transformation du soja par pressage à chaud :
+
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/FoADdpLvCGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
