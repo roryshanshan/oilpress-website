@@ -33,8 +33,10 @@ Flaxseed is an important oil crop, flaxseed oil has unique nutritional value and
 - ![Flaxseed Oil Hot Pressing Process](/images/胡麻_亚麻籽冷榨工艺概览_An%20Overview%20of%20the%20Cold%20pressing%20Process%20of%20Flaxseed.png)
 
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/qBI23dYcG2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/g6zdZIm7aMs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<iframe width="700" height="330" src="https://www.youtube.com/embed/Ye3Ni2Lz9cM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Equipment Recommendations
 
