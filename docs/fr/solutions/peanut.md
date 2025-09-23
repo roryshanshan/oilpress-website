@@ -32,6 +32,8 @@ L'arachide est une importante graine oléagineuse et culture commerciale, et l'h
 - Basically no filtration treatment is needed, just sedimentation and bottling. This is the pressing process adopted by COFCO Group's premium peanut oil (the crushing, frying, pressing, and filtration equipment for this project are provided by our factory).
 - ![](/images/花生热榨工艺.png)
 
+<iframe width="700" height="330" src="https://www.youtube.com/embed/ggkjZM5n0vM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/VAdu4VcKCpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

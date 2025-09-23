@@ -32,6 +32,12 @@ keywords: Решения для арахиса, Отжим масла арахи
 - По сути, не требуется фильтрация, достаточно отстаивания и розлива. Это процесс отжима, принятый в премиальном арахисовом масле COFCO Group (оборудование для измельчения, обжарки, отжима и фильтрации для этого проекта предоставлено нашим заводом).
 - ![](/images/花生热榨工艺.png)
 
+<iframe width="700" height="330" src="https://www.youtube.com/embed/ggkjZM5n0vM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/VAdu4VcKCpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Рекомендации по оборудованию
 
 ### Рекомендуемое оборудование
