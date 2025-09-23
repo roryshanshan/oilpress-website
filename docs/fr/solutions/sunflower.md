@@ -30,6 +30,10 @@ Les graines de tournesol sont une importante culture oléagineuse, l'huile de to
 - Les graines de tournesol passent par les processus de nettoyage, de concassage et de friture avant d'être alimentées dans le seau de presse hydraulique pour le pressage.
 - ![Processus de Pressing à Chaud d'Huile de Tournesol](/images/葵花籽热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressing%20Process%20of%20Sunflower%20seeds.png)
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/qBI23dYcG2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Recommandations d'Équipement
 
 ### Équipement Recommandé

@@ -29,9 +29,13 @@ keywords: Решения для льняного семени, Отжим льн
 ### Процесс горячего отжима
 - Льняное семя проходит скрининг, очистку, обжарку, измельчение, а затем пропаривание перед подачей в гидравлический прессовый бак для отжима.
 - ![Процесс горячего отжима льняного семени/льняного масла](/images/胡麻_亚麻籽热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressing%20Process%20of%20Flaxseed.png)
-- Процесс горячего отжима льняного масла: Льняное семя измельчается высокоскоростной дробилкой перед подачей в гидравлический прессовый бак для отжима. Сладкий послевкусие, сладкий и ароматный вкус, отжатое масло не требует гидратационной обработки и не пенится при приготовлении.
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/qBI23dYcG2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>- Процесс горячего отжима льняного масла: Льняное семя измельчается высокоскоростной дробилкой перед подачей в гидравлический прессовый бак для отжима. Сладкий послевкусие, сладкий и ароматный вкус, отжатое масло не требует гидратационной обработки и не пенится при приготовлении.
 - ![Процесс холодного отжима льняного масла](/images/胡麻_亚麻籽冷榨工艺概览_An%20Overview%20of%20the%20Cold%20pressing%20Process%20of%20Flaxseed.png)
-
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/qBI23dYcG2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ## Рекомендации по оборудованию
 
 ### Рекомендуемое оборудование

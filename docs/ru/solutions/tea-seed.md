@@ -30,7 +30,9 @@ keywords: Решения для чайного семени, Отжим масл
 - Чайные семена проходят скрининг, очистку, сушку, измельчение и пропаривание перед подачей в гидравлический прессовый бак для отжима.
 - Масло чайного семени, произведенное этим процессом, имеет чистый цвет, чистый аромат и богатое питание.
 - ![](/images/茶籽热榨工艺.png)
-
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/qBI23dYcG2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ## Рекомендации по оборудованию
 
 ### Рекомендуемое оборудование

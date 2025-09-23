@@ -30,7 +30,9 @@ Les graines de thé sont une importante culture oléagineuse, l'huile de graines
 - Tea seeds go through screening, cleaning, drying, crushing, and steaming before being fed into the hydraulic oil press bucket for pressing.
 - The tea seed oil produced by this process has clear color, pure aroma, and rich nutrition.
 - ![](/images/茶籽热榨工艺.png)
-
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/qBI23dYcG2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ## Equipment Recommendations
 
 ### Recommended Equipment
