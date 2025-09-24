@@ -29,6 +29,11 @@ keywords: 米糠解决方案, 米糠油压榨, 米糠加工设备, 米糠油生�
  +糯米冷榨工艺：直接压榨
  ++ ![糯米](/images/糯米冷榨工艺_Cold-pressing%20process%20of%20glutinous%20rice_.png)
 
+## 暂无液压榨油机工艺视频，请先参考螺旋榨油机加工工艺视频
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/AUK9h05fRZg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 
 ## 技术优势

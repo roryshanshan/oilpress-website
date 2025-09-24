@@ -32,6 +32,9 @@ keywords: 向日葵籽解决方案, 葵花籽油压榨, 向日葵籽加工设备
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/BdmN8beHRyg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/MgEJddnC56k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## 技术优势
 

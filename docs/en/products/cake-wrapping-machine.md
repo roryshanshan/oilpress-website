@@ -17,3 +17,13 @@ Due to different production batches, there may be variations in the machine's ap
 |---|---|---|---|---|---|
 | Mold Inner Diameter | 240-480mm Customizable Size | Total Power | 1.1KW | Hydraulic Oil Model | No. 46 Wear-resistant |
 | Weight | Approx. 112Kg | Equipment Dimensions | 945x750x1320mm | Material | Carbon Steel |
+
+## Video Reference
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/DuqPg3TkmJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/zkMgP3CotoA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

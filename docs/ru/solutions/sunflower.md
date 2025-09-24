@@ -32,6 +32,11 @@ keywords: Решения для семян подсолнечника, Отжи�
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/qBI23dYcG2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/MgEJddnC56k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Рекомендации по оборудованию
 
 ### Рекомендуемое оборудование

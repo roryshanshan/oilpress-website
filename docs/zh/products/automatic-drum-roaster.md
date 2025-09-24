@@ -44,6 +44,8 @@ keywords: 全自动滚筒炒锅, 自动炒锅, 滚筒炒锅, 电磁加热炒锅,
  - 「一机多能，满足多行业需求」
 
  ## 视频展示
- 这里是视频演示：
-
-<iframe width="700" height="330" src="https://www.youtube.com/embed/uvP8pCAGf78" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  这里是视频演示：
+ 
+ <div class="video-container">
+   <iframe width="700" height="330" src="https://www.youtube.com/embed/uvP8pCAGf78" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </div>

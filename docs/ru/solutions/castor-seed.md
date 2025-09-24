@@ -32,6 +32,12 @@ Castor seed oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/
  + Step 3: Pressing
  + ![Castor Seed Oil](/images/蓖麻子热榨工艺_Hot%20pressing%20process%20of%20castor%20seeds_png.png)
 
+## Видео обработки высокого давления большой емкости от нашей компании пока недоступно, пожалуйста, временно обратитесь к следующему корейскому прессу для масла, прессующему семена клещевины
+
+<div class="video-container">
+ <iframe src="https://www.youtube.com/embed/4AhVzopNoc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Technical Advantages
 
 ### 🎯 Precise Control

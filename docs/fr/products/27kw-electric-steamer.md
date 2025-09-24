@@ -30,3 +30,13 @@ Cette vapeur électrique 27kW est une mise à niveau complètement nouvelle bas�
 | Poids                 | Environ 54Kg     |
 | Dimensions de l'Équipement | 1105x700x1080mm |
 | Matériau de Vapeur    | Acier Inoxydable 201|
+
+## Référence vidéo
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/7DEUDsks6_k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/pOfefDJgwMQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

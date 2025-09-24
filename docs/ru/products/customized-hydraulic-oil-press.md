@@ -13,12 +13,29 @@ Shandong Shengshi Hecheng Machinery Co., Ltd. предоставляет про�
 Наши услуги персонализации охватывают все аспекты от небольших семейных мастерских до крупных промышленных производственных линий, гарантируя, что каждое оборудование сможет максимизировать свою эффективность.
 
 ## Прессование остатков масла KFC
-<iframe width="700" height="330" src="https://www.youtube.com/embed/t3RhPLN3Oo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="700" height="330" src="https://www.youtube.com/embed/Hd5MGpv6eec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="700" height="330" src="https://www.youtube.com/embed/r_W8egUkavc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/t3RhPLN3Oo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/Hd5MGpv6eec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/r_W8egUkavc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Пресс для кокосового молока
-<iframe width="700" height="330" src="https://www.youtube.com/embed/-Lk1JHj3xkk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/-Lk1JHj3xkk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/hZoQa6JGuKY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/lRvo4gAoD4I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/znK2333voV0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Содержание услуги персонализации
 

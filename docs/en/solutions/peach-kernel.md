@@ -33,6 +33,15 @@ Peach kernel processing technology: (Recommended 426AC-390/480AC-390/500AC-390)
     + Step 2: Hydraulic oil press pressing
   + ![Peach Kernel Pressing Process](/images/桃仁冷榨工艺概览_An%20Overview%20of%20the%20cold-pressing%20Process%20of%20Peach%20Kernels.png)
 
+## No peach kernel pressing video available yet, please refer to Pakistani customer feedback almond cold pressing video:
+
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/rM4hgCIApAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/kSeQ570mtvo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Technical Advantages
 
 ### 🎯 Precise Control

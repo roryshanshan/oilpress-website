@@ -30,3 +30,13 @@ This 27kW electric steamer is a completely new upgrade based on the older models
 | Weight                | Approx. 54Kg     |
 | Equipment Dimensions  | 1105x700x1080mm  |
 | Steamer Material      | 201 Stainless Steel|
+
+## Video Reference
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/7DEUDsks6_k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/pOfefDJgwMQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

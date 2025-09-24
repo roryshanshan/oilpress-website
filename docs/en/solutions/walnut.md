@@ -31,6 +31,12 @@ Walnut is an important oil crop, walnut oil has unique nutritional value and app
      + The walnut oil produced by this process has golden color and a sweet aftertaste. The pressed oil does not require hydration treatment and does not foam when used in cooking.
      + ![](/images/核桃冷榨工艺.png)
 
+## Walnut cold pressing reference video, the test machine in the video is 325 type, not recommended for production use, for reference only.
+
+<div class="video-container">
+ <iframe src="https://www.youtube.com/embed/2Y0HsdtzfWg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Technical Advantages
 
 ### 🎯 Precise Control

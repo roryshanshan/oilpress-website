@@ -10,3 +10,9 @@ keywords: Feeding crushing frying integrated machine, Oilseed processing integra
 
 * Integration of feeding, crushing, and frying processes, saving space and conversion costs between processes.
 * Customized services, tailored to customer needs and installation conditions to achieve the optimal solution.
+
+## Video Reference
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/VAdu4VcKCpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

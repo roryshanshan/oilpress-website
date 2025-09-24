@@ -13,12 +13,20 @@ Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional hydraulic oi
 Our customization services cover all aspects from small family workshops to large industrial production lines, ensuring that each piece of equipment can maximize its effectiveness.
 
 ## KFC Oil Residue Pressing
-<iframe width="700" height="330" src="https://www.youtube.com/embed/t3RhPLN3Oo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="700" height="330" src="https://www.youtube.com/embed/Hd5MGpv6eec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="700" height="330" src="https://www.youtube.com/embed/r_W8egUkavc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/t3RhPLN3Oo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/Hd5MGpv6eec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/r_W8egUkavc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Coconut Milk Press
-<iframe width="700" height="330" src="https://www.youtube.com/embed/-Lk1JHj3xkk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/-Lk1JHj3xkk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Customized Service Content
 

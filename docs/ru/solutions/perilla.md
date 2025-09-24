@@ -34,6 +34,12 @@ keywords: Решения для семян периллы, Отжим масла
 - Семена периллы проходят скрининг, очистку и измельчение перед прямой подачей в гидравлический прессовый бак для отжима.
 - ![Семена периллы](/images/紫苏冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressing%20Process%20of%20Perilla.png)
 
+## Видео-референс горячего отжима семян периллы
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/mPu9Fmnkg4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Рекомендации по оборудованию
 
 ### Рекомендуемое оборудование

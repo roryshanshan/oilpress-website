@@ -33,6 +33,12 @@ Hot pressing technology for corn germ oil: (Recommended 300AC-390/325AC-390/355A
  + Step 3: Pressing
  + ![Corn Germ Oil](/images/玉米胚芽热榨工艺_Hot%20pressing%20process%20of%20corn%20germ_.png)
 
+## No hydraulic oil press video available yet, below is a screw oil press pressing corn germ for reference only
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/sOGUMzBJF-g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Technical Advantages
 
 ### 🎯 Precise Control

@@ -34,6 +34,12 @@ Les graines de périlla sont une importante culture oléagineuse, l'huile de pé
 - Les graines de périlla passent par le criblage, cleaning, and crushing before being directly fed into the hydraulic oil press bucket for pressing.
 - ![Perilla Seeds](/images/紫苏冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressing%20Process%20of%20Perilla.png)
 
+## Référence vidéo de pressage à chaud des graines de périlla
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/mPu9Fmnkg4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Equipment Recommendations
 
 ### Recommended Equipment

@@ -32,3 +32,9 @@ Our heat-conducting oil flat-bottom electric frying pan features an integrated d
 | Weight                | Approx. 308Kg    |
 | Equipment Dimensions  | 1200x1200x1550mm |
 | Self-provided Heat-Conducting Oil| 350#/50Kg        |
+
+## Video Reference
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/7R_KAefASfo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

@@ -24,6 +24,11 @@ Shandong Shengshi Hecheng Machinery Co., Ltd., established in 2008, is a high-te
 - Strict Quality Control
 - Comprehensive Testing System
 
+### Workshop Finished Product Display
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/U077XRSuR-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### Service Network
 - Global Sales Network
 - Localized Service

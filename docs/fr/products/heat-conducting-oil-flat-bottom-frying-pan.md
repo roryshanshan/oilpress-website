@@ -32,3 +32,9 @@ Notre wok électrique à fond plat avec huile conductrice de chaleur présente u
 | Poids                | Environ 308Kg    |
 | Dimensions de l'équipement  | 1200x1200x1550mm |
 | Huile conductrice de chaleur auto-fournie| 350#/50Kg        |
+
+## Référence vidéo
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/7R_KAefASfo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

@@ -20,3 +20,9 @@ keywords: Высокоскоростная дробилка, дробилка 11
 | Напряжение | 380В | Скорость вращения | 1460 об/мин |
 | Вес | 218 кг | Габариты | 1400×802×800 мм |
 | Уровень шума | 82 дБ | Производительность | 750 кг/ч |
+
+## Видео-референс
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/o-APYfttI74" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

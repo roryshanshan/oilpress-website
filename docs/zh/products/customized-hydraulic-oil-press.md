@@ -14,12 +14,20 @@ keywords: 定制液压榨油机, 个性化榨油设备, 客户定制油压机, �
 
 
 ## 肯德基油渣压榨
-<iframe width="700" height="330" src="https://www.youtube.com/embed/t3RhPLN3Oo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="700" height="330" src="https://www.youtube.com/embed/Hd5MGpv6eec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="700" height="330" src="https://www.youtube.com/embed/r_W8egUkavc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/t3RhPLN3Oo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/Hd5MGpv6eec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/r_W8egUkavc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## 椰奶压榨机
-<iframe width="700" height="330" src="https://www.youtube.com/embed/-Lk1JHj3xkk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/-Lk1JHj3xkk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## 四联体液压榨油机，定制花椒&废白土液压榨油机，压力 500 吨
 <div class="video-container">

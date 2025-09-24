@@ -29,6 +29,12 @@ La noix de coco est une importante culture oléagineuse, l'huile de noix de coco
 +  Coconut Oil (Recommended 300AC-390/325AC-390/355AC-390/400AC-390)
      + Cold pressing process: The crushed coconut pulp is directly fed into the hydraulic oil press bucket for pressing
      +  ![Coconut Oil](/images/椰蓉Coconut%20puree冷榨工艺.png)
+## Référence vidéo de presse à huile hydraulique pour jus de coco/lait de coco/purée de coco
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/O17xVfT6-Sg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## Avantages Techniques
 

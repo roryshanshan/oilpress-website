@@ -32,7 +32,11 @@ keywords: 苏子解决方案, 苏子油压榨, 苏子加工设备, 苏子油生�
      + 冷榨工艺：紫苏子经过筛选、清洗、粉碎后直接入液压榨油机料桶压榨
      +  ![紫苏子](/images/紫苏冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressing%20Process%20of%20Perilla.png)
 
+## 热榨紫苏籽视频参考
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/mPu9Fmnkg4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## 技术优势
 

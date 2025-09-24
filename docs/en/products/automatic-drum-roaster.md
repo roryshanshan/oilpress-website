@@ -42,3 +42,10 @@ Suitable for roasting various materials, including:
 - "The Smart Assistant for Food Processing - Automatic Drum Roaster"
 - "Say Goodbye to Open Flames, Embrace Smart Electromagnetic Heating"
 - "One Machine, Multiple Functions, Meeting Diverse Industry Needs"
+
+## Video Display
+Here is the video demonstration:
+
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/uvP8pCAGf78" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

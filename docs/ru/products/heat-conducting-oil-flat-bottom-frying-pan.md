@@ -33,3 +33,9 @@ keywords: электрическая сковорода с плоским дно
 | Вес                                | Прибл. 308 кг       |
 | Размеры оборудования               | 1200x1200x1550 мм   |
 | Самостоятельно обеспечиваемое теплоносительное масло | 350#/50 кг        |
+
+## Видео-референс
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/7R_KAefASfo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

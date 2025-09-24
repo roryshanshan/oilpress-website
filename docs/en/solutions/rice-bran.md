@@ -29,6 +29,12 @@ Glutinous rice oil pressing technology: (Recommended 426AC-390/480AC-390/500AC-3
  + Glutinous rice cold pressing process: Direct pressing
  ++ ![Glutinous Rice](/images/糯米冷榨工艺_Cold-pressing%20process%20of%20glutinous%20rice_.png)
 
+## No hydraulic oil press process video available yet, please refer to the screw oil press processing video first
+
+<div class="video-container">
+ <iframe src="https://www.youtube.com/embed/AUK9h05fRZg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Technical Advantages
 
 ### 🎯 Precise Control

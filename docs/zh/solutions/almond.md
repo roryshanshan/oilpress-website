@@ -29,6 +29,14 @@ keywords: 杏仁解决方案, 杏仁油压榨, 杏仁加工设备, 杏仁油生�
      + 杏仁油冷榨工艺：经过筛选、清洗、高速粉碎后直接入液压榨油机料桶压榨
      + ![杏仁](/images/杏仁冷榨工艺概览_An%20Overview%20of%20the%20cold-pressing%20Process%20of%20%20Almond%20kernel.png)
 
+## 巴基斯坦客户回传的杏仁油冷榨压榨视频参考
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/rM4hgCIApAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/kSeQ570mtvo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## 技术优势
 
 ### 🎯 精准控制

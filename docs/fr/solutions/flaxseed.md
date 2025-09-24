@@ -36,7 +36,9 @@ Les graines de lin sont une culture oléagineuse importante, l'huile de graines 
   <iframe src="https://www.youtube.com/embed/g6zdZIm7aMs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<iframe width="700" height="330" src="https://www.youtube.com/embed/Ye3Ni2Lz9cM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/Ye3Ni2Lz9cM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ## Recommandations d'équipement
 
 ### Équipement recommandé

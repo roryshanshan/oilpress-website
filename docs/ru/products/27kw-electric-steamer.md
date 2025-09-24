@@ -31,3 +31,13 @@ keywords: электрическая пароварка 27 кВт, электр�
 | Вес                       | Прибл. 54 кг       |
 | Размеры оборудования      | 1105x700x1080 мм   |
 | Материал пароварки        | Нержавеющая сталь 201|
+
+## Видео-референс
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/7DEUDsks6_k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/pOfefDJgwMQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

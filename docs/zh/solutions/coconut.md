@@ -30,7 +30,10 @@ keywords: 椰子解决方案, 椰子油压榨, 椰子加工设备, 椰子油生�
      + 冷榨工艺：粉碎后的椰蓉直接进入液压榨油机料桶压榨
      +  ![椰子油](/images/椰蓉Coconut%20puree冷榨工艺.png)
 
-
+## 椰子汁/椰浆/椰蓉液压榨油机视频参考
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/O17xVfT6-Sg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## 技术优势
 

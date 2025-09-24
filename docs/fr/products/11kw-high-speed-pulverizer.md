@@ -19,3 +19,9 @@ Il y a aussi une option 15KW disponible, avec une capacité de traitement de 3T/
 | Tension | 380V | Vitesse | 1460r/min |
 | Poids | 218Kg | Dimensions | 1400x802X800mm |
 | Bruit | 82dB | Capacité de Traitement | 750kg/h |
+
+## Référence vidéo
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/o-APYfttI74" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

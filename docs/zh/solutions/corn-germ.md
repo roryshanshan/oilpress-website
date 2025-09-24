@@ -33,6 +33,12 @@ keywords: 玉米胚芽解决方案, 玉米胚芽油压榨, 玉米胚芽加工设
  + 第三步：压榨
  + ![玉米胚芽油](/images/玉米胚芽热榨工艺_Hot%20pressing%20process%20of%20corn%20germ_.png)
 
+ ## 暂无液压榨油机视频，如下为螺旋榨油机压榨玉米胚芽，仅供参考
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/sOGUMzBJF-g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## 技术优势
 

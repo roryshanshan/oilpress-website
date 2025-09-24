@@ -29,6 +29,15 @@ Apricot kernel is the seed of apricot trees, rich in high-quality oil that can e
 + Apricot kernels (Recommended 426AC-390/480AC-390/500AC-390)
      + Apricot oil cold pressing process: After screening, cleaning, and high-speed crushing, directly fed into the hydraulic oil press bucket for pressing
      + ![Apricot Kernels](/images/杏仁冷榨工艺概览_An%20Overview%20of%20the%20cold-pressing%20Process%20of%20%20Almond%20kernel.png)
+## Pakistani customer feedback apricot oil cold pressing video reference
+
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/rM4hgCIApAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/kSeQ570mtvo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## Technical Advantages
 

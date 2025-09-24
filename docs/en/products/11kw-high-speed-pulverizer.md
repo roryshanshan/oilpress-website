@@ -19,3 +19,9 @@ There is also a 15KW option available, with a processing capacity of 3T/h.
 | Voltage | 380V | Speed | 1460r/min |
 | Weight | 218Kg | Dimensions | 1400x802X800mm |
 | Noise | 82dB | Processing Capacity | 750kg/h |
+
+## Video Reference
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/o-APYfttI74" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

@@ -32,7 +32,9 @@ keywords: 花生解决方案, 花生油压榨, 花生加工设备, 花生油生�
         + ![](/images/花生热榨工艺.png)
 ## 加工工艺视频
 
- <iframe width="700" height="330" src="https://www.youtube.com/embed/ggkjZM5n0vM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/ggkjZM5n0vM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 <div class="video-container">

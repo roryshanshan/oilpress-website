@@ -34,6 +34,12 @@ Perilla seed is an important oil crop, perilla oil has unique nutritional value 
 - Perilla seeds go through screening, cleaning, and crushing before being directly fed into the hydraulic oil press bucket for pressing.
 - ![Perilla Seeds](/images/紫苏冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressing%20Process%20of%20Perilla.png)
 
+## Hot pressing perilla seed video reference
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/mPu9Fmnkg4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Equipment Recommendations
 
 ### Recommended Equipment

@@ -30,6 +30,15 @@ keywords: Решения для миндаля, отжим миндальног�
      + Процесс холодного отжима миндального масла: После сортировки, очистки и высокоскоростного измельчения, сырье напрямую подается в гидравлический пресс для отжима
      + ![Миндаль](/images/杏仁冷榨工艺概览_An%20Overview%20of%20the%20cold-pressing%20Process%20of%20%20Almond%20kernel.png)
 
+## Видео холодного отжима миндального масла, присланное пакистанским клиентом
+
+<div class="video-container">
+ <iframe width="700" height="330" src="https://www.youtube.com/embed/rM4hgCIApAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+ <iframe width="700" height="330" src="https://www.youtube.com/embed/kSeQ570mtvo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Технические преимущества
 
 ### 🎯 Точный контроль

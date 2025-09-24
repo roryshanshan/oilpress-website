@@ -34,6 +34,10 @@ Les graines de tournesol sont une importante culture oléagineuse, l'huile de to
   <iframe src="https://www.youtube.com/embed/qBI23dYcG2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/MgEJddnC56k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Recommandations d'Équipement
 
 ### Équipement Recommandé

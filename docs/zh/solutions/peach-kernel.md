@@ -33,6 +33,14 @@ keywords: 桃核仁解决方案, 核仁油压榨, 桃核仁加工设备, 核仁�
     + 第二步：液压榨油机压榨
   + ![桃仁压榨工艺](/images/桃仁冷榨工艺概览_An%20Overview%20of%20the%20cold-pressing%20Process%20of%20Peach%20Kernels.png)
 
+## 暂无桃仁压榨视频，请参考巴基斯坦客户回传的杏仁冷榨压榨视频：
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/rM4hgCIApAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/kSeQ570mtvo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## 技术优势
 

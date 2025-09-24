@@ -81,7 +81,9 @@ Notre équipe de service de personnalisation peut fournir des solutions de press
 ![](https://i.postimg.cc/9cK9HHCG/202509011625161.png?dl=1)
 ![](https://i.postimg.cc/69Zv9bpF/202509011625094.png?dl=1)
 Vidéo de laminage en miroir du cylindre hydraulique :
-<iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### 4. Boîte de commande
 + Le système de contrôle utilise un système à micro-ordinateur, tous les programmes sont connectés par logiciel, le fonctionnement du système de contrôle est simple;
@@ -93,11 +95,15 @@ Vidéo de laminage en miroir du cylindre hydraulique :
 + Ce modèle est équipé d'un baril à matériaux de diamètre 390 mm;
 + Le baril à matériaux est soudé avec des barres clés en rangées trapézoïdales uniformément disposées, les barres clés trapézoïdales sont grandes à l'extérieur et petites à l'intérieur, ne bloquent pas les canaux d'huile, pas d'ascension d'huile dans le baril, et grande surface de sortie d'huile pour une sortie d'huile plus rapide, 15 fois la surface de forage avec un rendement en huile jusqu'à 2-3%;
 + L'anneau externe adopte un collier forgé, le matériau utilise l'acier Shangang Q690, haute résistance, haute traction, haute résistance à l'usure, pas de déformation.
-<iframe width="700" height="330" src="https://www.youtube.com/embed/HWjvDznT95U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/HWjvDznT95U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### 6. Tige de piston
 Vidéo de traitement de trempe de la tige de piston de presse à huile, le traitement de trempe de la tige de piston augmente la dureté de surface sans rayures, prolongeant la durée de vie du cylindre hydraulique
-<iframe width="700" height="330" src="https://www.youtube.com/embed/twPxOI2VQIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/twPxOI2VQIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Pièces d'usure
 

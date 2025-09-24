@@ -30,6 +30,15 @@ Almond is an important oil crop, almond oil has unique nutritional value and app
      + Almond oil cold pressing process: After screening, cleaning, and high-speed crushing, directly fed into the hydraulic oil press bucket for pressing
      + ![Almond](/images/杏仁冷榨工艺概览_An%20Overview%20of%20the%20cold-pressing%20Process%20of%20%20Almond%20kernel.png)
 
+## Pakistani customer feedback almond oil cold pressing video reference
+
+<div class="video-container">
+ <iframe width="700" height="330" src="https://www.youtube.com/embed/rM4hgCIApAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+ <iframe width="700" height="330" src="https://www.youtube.com/embed/kSeQ570mtvo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Technical Advantages
 
 ### 🎯 Precise Control

@@ -88,7 +88,9 @@
 ![](https://i.postimg.cc/69Zv9bpF/202509011625094.png?dl=1)
 
 液压油缸镜面辊压视频：
-<iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 超高压液压油缸加焊工艺视频：
 <div class="video-container">
@@ -106,12 +108,16 @@
 + 本款机型配备直径390mm料桶；
 + 料桶整体采用梯形条排式键条均匀排列焊接而成，梯形键条外大里小不堵油道，桶内不向上爬油，且出油面积大出油更快，是钻孔面积的15倍出油率高达2%-3%；
 + 外圈采用锻打法兰，材质采用山钢Q690钢材，高强度，高抗拉，高耐磨，不变形。
-<iframe width="700" height="330" src="https://www.youtube.com/embed/HWjvDznT95U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/HWjvDznT95U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### 6.活塞杆
 ![](https://i.postimg.cc/hcnMNxpS/202509011621472.png?dl=1)
 榨油机活塞杆淬火处理视频，活塞杆淬火处理后增加表面硬度不被划伤，延长液压油缸使用寿命
-<iframe width="700" height="330" src="https://www.youtube.com/embed/twPxOI2VQIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/twPxOI2VQIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### 易损件
 

@@ -82,7 +82,9 @@ Our customization service team can provide personalized hydraulic oil press solu
 ![](https://i.postimg.cc/9cK9HHCG/202509011625161.png?dl=1)
 ![](https://i.postimg.cc/69Zv9bpF/202509011625094.png?dl=1)
 Hydraulic cylinder mirror rolling video:
-<iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### 4. Control Box
 + Control system uses microcomputer system, all programs are software connected, control system operation is simple;
@@ -94,11 +96,15 @@ Hydraulic cylinder mirror rolling video:
 + This model is equipped with a 390mm diameter material barrel;
 + The material barrel is welded with trapezoidal strip row key bars evenly arranged, trapezoidal key bars are large outside and small inside, not blocking oil channels, no oil climbing up in the barrel, and large oil output area for faster oil output, 15 times the drilling area with oil yield up to 2%-3%;
 + The outer ring adopts forged flange, material uses Shangang Q690 steel, high strength, high tensile, high wear resistance, no deformation.
-<iframe width="700" height="330" src="https://www.youtube.com/embed/HWjvDznT95U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/HWjvDznT95U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### 6. Piston Rod
 Oil press piston rod quenching treatment video, piston rod quenching treatment increases surface hardness without scratches, extending hydraulic cylinder service life
-<iframe width="700" height="330" src="https://www.youtube.com/embed/twPxOI2VQIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/twPxOI2VQIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Wearing Parts
 

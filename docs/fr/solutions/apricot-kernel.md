@@ -29,6 +29,15 @@ Le noyau d'abricot est la graine des arbres d'abricot, riche en huile de haute q
 + Apricot kernels (Recommended 426AC-390/480AC-390/500AC-390)
      + Processus de pressage à froid d'huile d'abricot: After screening, cleaning, and high-speed crushing, directly fed into the hydraulic oil press bucket for pressing
      + ![Apricot Kernels](/images/杏仁冷榨工艺概览_An%20Overview%20of%20the%20cold-pressing%20Process%20of%20%20Almond%20kernel.png)
+## Référence vidéo de pressage à froid d'huile d'abricot renvoyée par le client pakistanais
+
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/rM4hgCIApAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/kSeQ570mtvo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## Avantages Techniques
 
