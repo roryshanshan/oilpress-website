@@ -30,7 +30,7 @@ keywords: Решения для семян подсолнечника, Отжи�
 - Семена подсолнечника проходят очистку, измельчение и обжарку перед подачей в гидравлический прессовый бак для отжима.
 - ![Процесс горячего отжима масла подсолнечника](/images/葵花籽热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressing%20Process%20of%20Sunflower%20seeds.png)
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/qBI23dYcG2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/BdmN8beHRyg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="video-container">
