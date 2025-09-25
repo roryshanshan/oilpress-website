@@ -3,5 +3,8 @@
   "buildCommand": "npm run docs:build",
   "outputDirectory": "docs/.vitepress/dist",
   "devCommand": "npm run docs:dev",
-  "installCommand": "npm install"
+  "installCommand": "npm install",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
 }

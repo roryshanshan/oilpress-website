@@ -596,64 +596,50 @@ const toggleMobileWechatQR = () => {
 // 切换到指定语言
 const switchToLanguage = (lang) => {
   showDropdown.value = false
-  const currentPath = page.value.relativePath
+
+  // 获取当前URL路径
+  const currentPath = window.location.pathname
   let newPath = ''
-  
+
   console.log('Current path:', currentPath) // 调试信息
-  
-  // 获取当前页面路径（去除语言前缀和.md扩展名）
+
+  // 获取当前页面路径（去除语言前缀）
   let basePath = ''
-  if (currentPath.startsWith('zh/')) {
-    basePath = currentPath.replace(/^zh\//, '').replace(/\.md$/, '')
-  } else if (currentPath.startsWith('ru/')) {
-    basePath = currentPath.replace(/^ru\//, '').replace(/\.md$/, '')
-  } else if (currentPath.startsWith('fr/')) {
-    basePath = currentPath.replace(/^fr\//, '').replace(/\.md$/, '')
-  } else if (currentPath.startsWith('en/')) {
-    basePath = currentPath.replace(/^en\//, '').replace(/\.md$/, '')
+  if (currentPath.startsWith('/zh/')) {
+    basePath = currentPath.replace(/^\/zh\//, '')
+  } else if (currentPath.startsWith('/ru/')) {
+    basePath = currentPath.replace(/^\/ru\//, '')
+  } else if (currentPath.startsWith('/fr/')) {
+    basePath = currentPath.replace(/^\/fr\//, '')
+  } else if (currentPath.startsWith('/en/')) {
+    basePath = currentPath.replace(/^\/en\//, '')
   } else {
-    basePath = currentPath.replace(/\.md$/, '')
+    basePath = currentPath.replace(/^\//, '')
   }
-  
+
   // 处理首页路径
-  if (basePath === 'index' || basePath === '') {
+  if (basePath === '' || basePath === 'index.html') {
     basePath = ''
   }
-  
+
   console.log('Base path:', basePath) // 调试信息
-  
+
   if (lang === 'zh') {
     // 切换到中文
-    if (basePath === '') {
-      newPath = '/zh/'
-    } else {
-      newPath = `/zh/${basePath}/`
-    }
+    newPath = basePath === '' ? '/zh/' : `/zh/${basePath}`
   } else if (lang === 'ru') {
     // 切换到俄语
-    if (basePath === '') {
-      newPath = '/ru/'
-    } else {
-      newPath = `/ru/${basePath}/`
-    }
+    newPath = basePath === '' ? '/ru/' : `/ru/${basePath}`
   } else if (lang === 'fr') {
     // 切换到法语
-    if (basePath === '') {
-      newPath = '/fr/'
-    } else {
-      newPath = `/fr/${basePath}/`
-    }
+    newPath = basePath === '' ? '/fr/' : `/fr/${basePath}`
   } else {
     // 切换到英文
-    if (basePath === '') {
-      newPath = '/en/'
-    } else {
-      newPath = `/en/${basePath}/`
-    }
+    newPath = basePath === '' ? '/en/' : `/en/${basePath}`
   }
-  
+
   console.log('New path:', newPath) // 调试信息
-  
+
   // 使用 window.location.href 进行导航
   if (newPath) {
     window.location.href = newPath
@@ -716,7 +702,7 @@ onMounted(() => {
 </script>
 
 <style scoped>
-  /* 移动端语言切换按钮 */
+  /* 移动端语言切换按钮 - 桌面端隐藏 */
   .mobile-lang-switcher {
     display: none;
   }
@@ -1067,17 +1053,33 @@ onMounted(() => {
 }
 
 @media (max-width: 768px) {
+  /* 确保导航栏使用flex布局 */
+  .VPNavBar .content {
+    display: flex !important;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .VPNavBar .content-body {
+    display: flex !important;
+    align-items: center;
+    flex: 1;
+    min-width: 0;
+  }
+
   .mobile-lang-switcher {
     display: flex !important;
     align-items: center;
-    margin-right: 12px;
+    margin-right: 8px;
     position: relative;
+    order: 1;
+    flex-shrink: 0;
   }
-  
+
   .mobile-menu-button {
     display: flex !important;
     align-items: center;
-    margin-left: 12px;
+    margin-left: 8px;
     cursor: pointer;
     padding: 8px;
     border-radius: 6px;
@@ -1086,6 +1088,8 @@ onMounted(() => {
     transition: all 0.3s ease;
     touch-action: manipulation;
     -webkit-tap-highlight-color: transparent;
+    order: 3;
+    flex-shrink: 0;
   }
   
   .mobile-menu-button:hover,
@@ -1380,6 +1384,15 @@ onMounted(() => {
 @media (max-width: 768px) {
   .social-icons {
     display: none;
+  }
+
+  /* 确保搜索按钮在移动端显示 */
+  .VPNavBarSearch {
+    display: block !important;
+  }
+
+  .VPNavBarSearch .search {
+    display: block !important;
   }
 }
 </style>

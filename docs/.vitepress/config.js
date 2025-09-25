@@ -1151,7 +1151,7 @@ s0.parentNode.insertBefore(s1,s0);
     fr: {
       label: 'Français',
       lang: 'fr-FR',
-      title: 'Presse à huile hydraulique Shengshi Hecheng',
+      title: 'Presse à huile Shengshi Hecheng',
       description: 'Fabricant professionnel de presses à huile',
       themeConfig: {
         nav: [
@@ -1438,6 +1438,8 @@ s0.parentNode.insertBefore(s1,s0);
       provider: 'local'
     },
     // 社交 ссылки - уже удалены, используем иконки в пользовательском макете
-    socialLinks: []
+    socialLinks: [],
+    // 禁用默认语言切换器
+    i18nRouting: false
   }
 }
