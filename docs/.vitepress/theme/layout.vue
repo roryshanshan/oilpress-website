@@ -1,8 +1,8 @@
 <template>
   <Layout>
     <template #nav-bar-content-before>
-      <!-- 移动端语言切换按钮 -->
-      <div class="mobile-lang-switcher">
+      <!-- 移动端语言切换按钮 - 仅在移动端显示 -->
+      <div v-if="isMobile" class="mobile-lang-switcher">
         <div class="lang-dropdown" @click="toggleDropdown">
           <div class="lang-icon">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
@@ -559,6 +559,16 @@ const currentLang = computed(() => {
   return 'en'
 })
 
+// 检测是否为移动端
+const isMobile = ref(false)
+
+// 更新移动端状态
+const updateMobileState = () => {
+  if (typeof window !== 'undefined') {
+    isMobile.value = window.innerWidth <= 768
+  }
+}
+
 // 切换下拉菜单显示
 const toggleDropdown = (event) => {
   event.stopPropagation()
@@ -673,9 +683,15 @@ onMounted(() => {
   // 确保初始状态为关闭
   showMobileMenu.value = false
   showDropdown.value = false
-  
+
+  // 初始化移动端状态
+  updateMobileState()
+
   document.addEventListener('click', handleClickOutside)
-  
+
+  // 添加窗口大小变化监听
+  window.addEventListener('resize', updateMobileState)
+
   // 添加ESC键关闭菜单
   const handleEscKey = (event) => {
     if (event.key === 'Escape') {
@@ -686,11 +702,12 @@ onMounted(() => {
     }
   }
   document.addEventListener('keydown', handleEscKey)
-  
+
   // 在组件卸载时清理事件监听
   onUnmounted(() => {
     document.removeEventListener('click', handleClickOutside)
     document.removeEventListener('keydown', handleEscKey)
+    window.removeEventListener('resize', updateMobileState)
   })
 })
 </script>
