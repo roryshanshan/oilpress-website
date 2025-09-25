@@ -5,6 +5,6 @@
   "devCommand": "npm run docs:dev",
   "installCommand": "npm install",
   "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
+    { "source": "/((?!api|_next|favicon.ico|robots.txt|sitemap.xml|assets|images|vp-icons.css).*)", "destination": "/index.html" }
   ]
 }
