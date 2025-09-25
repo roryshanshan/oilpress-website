@@ -1439,7 +1439,7 @@ s0.parentNode.insertBefore(s1,s0);
     },
     // 社交 ссылки - уже удалены, используем иконки в пользовательском макете
     socialLinks: [],
-    // 禁用默认语言切换器
-    i18nRouting: false
+    // 启用多语言路由
+    i18nRouting: true
   }
 }

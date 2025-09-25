@@ -502,11 +502,12 @@
 
 <script setup>
 import DefaultTheme from 'vitepress/theme'
-import { useData } from 'vitepress'
+import { useData, useRouter } from 'vitepress'
 import { computed, ref, onMounted, onUnmounted } from 'vue'
 
 const { Layout } = DefaultTheme
 const { frontmatter, site, page } = useData()
+const router = useRouter()
 
 // 下拉菜单状态
 const showDropdown = ref(false)
@@ -597,52 +598,45 @@ const toggleMobileWechatQR = () => {
 const switchToLanguage = (lang) => {
   showDropdown.value = false
 
-  // 获取当前URL路径
-  const currentPath = window.location.pathname
-  let newPath = ''
-
-  console.log('Current path:', currentPath) // 调试信息
-
-  // 获取当前页面路径（去除语言前缀）
+  // 获取当前页面路径（去除语言前缀和.md扩展名）
   let basePath = ''
-  if (currentPath.startsWith('/zh/')) {
-    basePath = currentPath.replace(/^\/zh\//, '')
-  } else if (currentPath.startsWith('/ru/')) {
-    basePath = currentPath.replace(/^\/ru\//, '')
-  } else if (currentPath.startsWith('/fr/')) {
-    basePath = currentPath.replace(/^\/fr\//, '')
-  } else if (currentPath.startsWith('/en/')) {
-    basePath = currentPath.replace(/^\/en\//, '')
+  const currentPath = page.value.relativePath
+
+  if (currentPath.startsWith('zh/')) {
+    basePath = currentPath.replace(/^zh\//, '').replace(/\.md$/, '')
+  } else if (currentPath.startsWith('ru/')) {
+    basePath = currentPath.replace(/^ru\//, '').replace(/\.md$/, '')
+  } else if (currentPath.startsWith('fr/')) {
+    basePath = currentPath.replace(/^fr\//, '').replace(/\.md$/, '')
+  } else if (currentPath.startsWith('en/')) {
+    basePath = currentPath.replace(/^en\//, '').replace(/\.md$/, '')
   } else {
-    basePath = currentPath.replace(/^\//, '')
+    basePath = currentPath.replace(/\.md$/, '')
   }
 
   // 处理首页路径
-  if (basePath === '' || basePath === 'index.html') {
+  if (basePath === 'index' || basePath === '') {
     basePath = ''
   }
 
-  console.log('Base path:', basePath) // 调试信息
-
+  // 构建目标路径
+  let targetPath = ''
   if (lang === 'zh') {
-    // 切换到中文
-    newPath = basePath === '' ? '/zh/' : `/zh/${basePath}`
+    targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
   } else if (lang === 'ru') {
-    // 切换到俄语
-    newPath = basePath === '' ? '/ru/' : `/ru/${basePath}`
+    targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
   } else if (lang === 'fr') {
-    // 切换到法语
-    newPath = basePath === '' ? '/fr/' : `/fr/${basePath}`
+    targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
   } else {
-    // 切换到英文
-    newPath = basePath === '' ? '/en/' : `/en/${basePath}`
+    // 英文作为默认语言
+    targetPath = basePath === '' ? '/' : `/${basePath}/`
   }
 
-  console.log('New path:', newPath) // 调试信息
+  console.log('Target path:', targetPath) // 调试信息
 
-  // 使用 window.location.href 进行导航
-  if (newPath) {
-    window.location.href = newPath
+  // 使用VitePress路由进行导航
+  if (targetPath) {
+    router.go(targetPath)
   }
 }
 
