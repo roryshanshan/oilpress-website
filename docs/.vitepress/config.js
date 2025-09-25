@@ -278,7 +278,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/en/advantages/': [
+          '/en/advantages': [
             {
               text: 'Company Advantages',
               collapsed: false,
@@ -291,7 +291,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/en/news/': [
+          '/en/news': [
             {
               text: 'News',
               collapsed: false,
@@ -344,7 +344,7 @@ s0.parentNode.insertBefore(s1,s0);
           { text: '联系我们', link: '/zh/contact/' }
         ],
         sidebar: {
-          '/zh/products/': [
+          '/zh/products': [
             {
               text: '产品系列',
               collapsed: false,
@@ -450,7 +450,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/zh/solutions/': [
+          '/zh/solutions': [
             {
               text: '解决方案',
               collapsed: false,
@@ -540,7 +540,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/zh/about/': [
+          '/zh/about': [
             {
               text: '关于我们',
               collapsed: false,
@@ -553,7 +553,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/zh/advantages/': [
+          '/zh/advantages': [
             {
               text: '公司优势',
               collapsed: false,
@@ -566,7 +566,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/zh/news/': [
+          '/zh/news': [
             {
               text: '新闻资讯',
               collapsed: false,
@@ -625,7 +625,7 @@ s0.parentNode.insertBefore(s1,s0);
           { text: 'Contact Us', link: '/en/contact/' }
         ],
         sidebar: {
-          '/en/products/': [
+          '/en/products': [
             {
               text: 'Products',
               collapsed: false,
@@ -731,7 +731,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/en/solutions/': [
+          '/en/solutions': [
             {
               text: 'Solutions',
               collapsed: false,
@@ -835,7 +835,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/en/advantages/': [
+          '/en/advantages': [
             {
               text: 'Company Advantages',
               collapsed: false,
@@ -848,7 +848,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/en/news/': [
+          '/en/news': [
             {
               text: 'News',
               collapsed: false,
@@ -907,7 +907,7 @@ s0.parentNode.insertBefore(s1,s0);
           { text: 'Контакты', link: '/ru/contact/' }
         ],
         sidebar: {
-          '/ru/products/': [
+          '/ru/products': [
             {
               text: 'Продукты',
               collapsed: false,
@@ -1013,7 +1013,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/ru/solutions/': [
+          '/ru/solutions': [
             {
               text: 'Решения',
               collapsed: false,
@@ -1104,7 +1104,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/ru/about/': [
+          '/ru/about': [
             {
               text: 'О нас',
               collapsed: false,
@@ -1117,7 +1117,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/ru/advantages/': [
+          '/ru/advantages': [
             {
               text: 'Преимущества компании',
               collapsed: false,
@@ -1130,7 +1130,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/ru/news/': [
+          '/ru/news': [
             {
               text: 'Новости',
               collapsed: false,
@@ -1189,7 +1189,7 @@ s0.parentNode.insertBefore(s1,s0);
           { text: 'Contact', link: '/fr/contact/' }
         ],
         sidebar: {
-          '/fr/products/': [
+          '/fr/products': [
             {
               text: 'Produits',
               collapsed: false,
@@ -1295,7 +1295,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/fr/solutions/': [
+          '/fr/solutions': [
             {
               text: 'Solutions',
               collapsed: false,
@@ -1386,7 +1386,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/fr/about/': [
+          '/fr/about': [
             {
               text: 'À propos',
               collapsed: false,
@@ -1399,7 +1399,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/fr/advantages/': [
+          '/fr/advantages': [
             {
               text: 'Avantages de l\'entreprise',
               collapsed: false,
@@ -1412,7 +1412,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/fr/news/': [
+          '/fr/news': [
             {
               text: 'Actualités',
               collapsed: false,
