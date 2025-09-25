@@ -5,7 +5,7 @@ export default {
   },
   title: 'Shengshi Hecheng Oil Press',
   description: 'Professional Oil Press Manufacturer',
-  cleanUrls: true,
+  cleanUrls: false,
   ignoreDeadLinks: true,
   head: [
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
