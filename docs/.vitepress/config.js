@@ -5,9 +5,18 @@ export default {
   },
   title: 'Shengshi Hecheng Oil Press',
   description: 'Professional Oil Press Manufacturer',
-  cleanUrls: false,
+  cleanUrls: true,
   base: '/',
   ignoreDeadLinks: true,
+  vite: {
+    build: {
+      rollupOptions: {
+        output: {
+          manualChunks: undefined
+        }
+      }
+    }
+  },
   head: [
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
     ['meta', { name: 'description', content: 'Professional Oil Press Manufacturer - Shengshi Hecheng' }],
@@ -72,7 +81,7 @@ s0.parentNode.insertBefore(s1,s0);
           { text: 'Contact Us', link: '/en/contact/' }
         ],
         sidebar: {
-          '/en/products/': [
+          '/en/products': [
             {
               text: 'Products',
               collapsed: false,
@@ -164,7 +173,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/en/solutions/': [
+          '/en/solutions': [
             {
               text: 'Solutions',
               collapsed: false,
@@ -265,7 +274,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/en/about/': [
+          '/en/about': [
             {
               text: 'About Us',
               collapsed: false,
@@ -822,7 +831,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/en/about/': [
+          '/en/about': [
             {
               text: 'About Us',
               collapsed: false,
