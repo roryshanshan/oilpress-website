@@ -1450,6 +1450,11 @@ s0.parentNode.insertBefore(s1,s0);
     // 社交 ссылки - уже удалены, используем иконки в пользовательском макете
     socialLinks: [],
     // 启用多语言路由
-    i18nRouting: true
+    i18nRouting: true,
+    // 启用完整的TOC（目录）
+    outline: {
+      level: [2, 6],
+      label: 'On this page'
+    }
   }
 }
