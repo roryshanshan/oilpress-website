@@ -1,7 +1,18 @@
 export default {
   lastUpdated: true,
   sitemap: {
-    hostname: 'https://hydraulicoilpressing.opchn.com/'
+    hostname: 'https://hydraulicoilpressing.opchn.com/',
+    lastmod: new Date().toISOString(),
+    changefreq: 'weekly',
+    priority: 0.8,
+    urls: [
+      // 确保包含所有语言版本的首页
+      { url: '/', changefreq: 'daily', priority: 1.0 },
+      { url: '/zh/', changefreq: 'daily', priority: 1.0 },
+      { url: '/en/', changefreq: 'daily', priority: 1.0 },
+      { url: '/ru/', changefreq: 'daily', priority: 1.0 },
+      { url: '/fr/', changefreq: 'daily', priority: 1.0 }
+    ]
   },
   title: 'Shengshi Hecheng Oil Press',
   description: 'Professional Oil Press Manufacturer',
