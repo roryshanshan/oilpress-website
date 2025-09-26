@@ -22,6 +22,7 @@ export default {
     ['meta', { name: 'description', content: 'Professional Oil Press Manufacturer - Shengshi Hecheng' }],
     ['meta', { name: 'keywords', content: 'oil press, hydraulic press, oil extraction, oil press machine' }],
     ['meta', { name: 'author', content: 'Shengshi Hecheng' }],
+    ['meta', { name: 'baidu-site-verification', content: 'codeva-wjCh7UrQj8' }],
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
     ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=AW-17559313965' }],
     ['script', {}, `
