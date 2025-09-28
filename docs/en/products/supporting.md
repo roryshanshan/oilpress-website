@@ -64,7 +64,7 @@ keywords: Supporting equipment, Oil pressing supporting equipment, Pre-treatment
 - Customized services
 - Customized according to customer needs
 
-### Flaxseed and Rapeseed Grinding and Stirring Integrated Machine
+### Hemp and Flaxseed Grinding and Stirring Integrated Machine
 - Power: 15Kw
 - Capacity: 750Kg/h
 - Pure copper motor

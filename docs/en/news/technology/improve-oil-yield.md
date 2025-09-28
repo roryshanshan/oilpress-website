@@ -50,8 +50,3 @@ Maximizing oil yield boosts profitability, reduces raw material waste, and enhan
 ::: info Equipment-Process Synergy
 Shengshi Hecheng provides parameter sets and equipment recommendations tailored to each oil crop (hot/cold pressing, single/double screw, pre-press and extraction), plus on-site commissioning and operator training to help you reach stable high yield quickly.
 :::
-
-Related products:
-- Large industrial presses 425/480 series → /en/products/425-480
-- Medium-large presses 355/400 series → /en/products/355-400
-- Small-medium presses 300/325 series → /en/products/300-325

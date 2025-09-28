@@ -74,14 +74,14 @@ keywords: 配套设备, 榨油配套设备, 预处理设备, 后处理设备, �
 
 [查看详细参数](/zh/products/feeding-crushing-frying-integrated-machine)
 
-### 胡麻菜籽研磨搅拌一体机
+### 胡麻亚麻籽研磨搅拌一体机
 - 功率：15Kw
 - 产能：750Kg/h
 - 纯铜电机
 - 粉碎均匀、耗电量低
 - 占地面积小
 
-[查看详细参数](/zh/products/Flaxseed-and-rapeseed-grinding-and-stirring-integrated-machine)
+[查看详细参数](/zh/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine)
 
 ### 预榨机
 - 电机功率：7.5Kw (可选11Kw)

@@ -111,8 +111,8 @@ Our customization services cover all aspects from small family workshops to larg
 
 If you have special oil pressing equipment needs, please contact our technical team, and we will provide you with professional customized solutions.
 
-- **Consultation Hotline**: +86-XXX-XXXXXXX
-- **Email**: custom@shengshihecheng.com
+- **Consultation Hotline**: +8619906365856
+- **Email**: gavin@oil-pressing-machine.com
 - **Technical Support**: 24-hour online
 
 ---

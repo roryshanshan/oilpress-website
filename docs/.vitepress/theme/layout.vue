@@ -141,8 +141,8 @@
                     <a :href="currentLang === 'zh' ? '/zh/products/27kw-electric-steamer' : '/en/products/27kw-electric-steamer'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
                       {{ currentLang === 'zh' ? '27kw电蒸锅' : '27kw Electric Steamer' }}
                     </a>
-                    <a :href="currentLang === 'zh' ? '/zh/products/Flaxseed-and-rapeseed-grinding-and-stirring-integrated-machine' : '/en/products/Flaxseed-and-rapeseed-grinding-and-stirring-integrated-machine'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                      {{ currentLang === 'zh' ? '亚麻籽菜籽研磨搅拌一体机' : 'Flaxseed and Rapeseed Grinding and Stirring Integrated Machine' }}
+                    <a :href="currentLang === 'zh' ? '/zh/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine' : '/en/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '胡麻亚麻籽研磨搅拌一体机' : 'Hemp and Flaxseed Grinding and Stirring Integrated Machine' }}
                     </a>
                     <a :href="currentLang === 'zh' ? '/zh/products/automatic-drum-roaster' : '/en/products/automatic-drum-roaster'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
                       {{ currentLang === 'zh' ? '自动滚筒炒锅' : 'Automatic Drum Roaster' }}

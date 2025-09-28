@@ -15,13 +15,11 @@ keywords: Гидравлический маслобойный пресс для 
 </div>
 
 <div style="margin: 2rem 0;">
-  <iframe src="//player.bilibili.com/player.html?bvid=BV1XQHrz5Exb"
-          scrolling="no"
-          border="0"
-          frameborder="no"
-          framespacing="0"
-          allowfullscreen="true"
-          style="width: 100%; height: 500px; max-width: 800px; margin: 0 auto; display: block;">
+  <iframe width="100%" height="500" src="https://www.youtube.com/embed/3uE1lah9Dpw?autoplay=1&mute=0"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+          style="width: 100%; height: 500px; display: block;">
   </iframe>
 </div>
 

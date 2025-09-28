@@ -51,7 +51,3 @@ Maximiser le rendement en huile augmente la rentabilité, réduit le gaspillage 
 Shengshi Hecheng fournit des ensembles de paramètres et des recommandations d'équipement adaptés à chaque culture oléagineuse (pressage à chaud/froid, vis simple/double, pré-pressage et extraction), ainsi que la mise en service sur site et la formation des opérateurs pour vous aider à atteindre rapidement un rendement stable et élevé.
 :::
 
-Produits associés :
-- Presses industrielles de grande taille série 425/480 → /en/products/425-480
-- Presses de taille moyenne à grande série 355/400 → /en/products/355-400
-- Presses de petite et moyenne taille série 300/325 → /en/products/300-325

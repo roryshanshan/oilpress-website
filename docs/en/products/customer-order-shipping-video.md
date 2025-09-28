@@ -80,7 +80,7 @@ Our shipping team has rich experience and can provide personalized packaging and
 
 If you need to know more about shipping services, or have special shipping needs, please contact us:
 
-- **Shipping Consultation Hotline**: +86-XXX-XXXXXXX
+- **Shipping Consultation Hotline**: +8619906365856
 - **Logistics Service Email**: shipping@shengshihecheng.com
 - **Technical Support**: 24-hour online
 

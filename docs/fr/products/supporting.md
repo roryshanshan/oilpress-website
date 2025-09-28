@@ -64,7 +64,7 @@ keywords: Équipements auxiliaires, Équipements auxiliaires de pressage d'huile
 - Services personnalisés
 - Personnalisé selon les exigences du client
 
-### Machine de broyage et mélange intégrée de graines de lin et de colza
+### Machine de broyage et mélange intégrée de graines de chanvre et de lin
 - Puissance : 15Kw
 - Capacité : 750Kg/h
 - Moteur en cuivre pur

@@ -120,8 +120,8 @@ Nos services de personnalisation couvrent tous les aspects, des petits ateliers 
 
 Si vous avez des besoins spéciaux en équipement de pressage d'huile, veuillez contacter notre équipe technique, et nous vous fournirons des solutions de personnalisation professionnelles.
 
-- **Ligne de consultation** : +86-XXX-XXXXXXX
-- **Email** : custom@shengshihecheng.com
+- **Ligne de consultation** : +8619906365856
+- **Email** : gavin@oil-pressing-machine.com
 - **Support technique** : En ligne 24h/24
 
 ---

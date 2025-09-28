@@ -61,7 +61,3 @@ Différentes cultures oléagineuses nécessitent des paramètres de prétraiteme
 Shengshi Hecheng propose des packages de paramètres et une sélection d'équipements adaptés à chaque culture oléagineuse (pressage à chaud/froid, vis simple/double, pré-pressage + extraction), ainsi que la mise en service sur site et la formation pour vous aider à atteindre rapidement une production stable et élevée.
 :::
 
-Produits associés :
-- Presses industrielles de grande taille série 425/480 → /en/products/425-480
-- Presses de taille moyenne à grande série 355/400 → /en/products/355-400
-- Presses de petite et moyenne taille série 300/325 → /en/products/300-325

@@ -345,6 +345,7 @@ s0.parentNode.insertBefore(s1,s0);
               { text: '426系列', link: '/zh/products/426' },
               { text: '480系列', link: '/zh/products/480' },
               { text: '500系列', link: '/zh/products/500' },
+              { text: '设备使用说明书', link: '/zh/products/instruction-manual' },
               { text: '客户定制款液压榨油机', link: '/zh/products/customized-hydraulic-oil-press' },
               { text: '客户订货发货视频', link: '/zh/products/customer-order-shipping-video' },
               { text: '配套设备', link: '/zh/products/supporting' }
@@ -421,6 +422,13 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
+                  text: '设备使用说明书',
+                  collapsed: false,
+                  items: [
+                    { text: '概述', link: '/zh/products/instruction-manual' }
+                  ]
+                },
+                {
                   text: '客户定制款液压榨油机',
                   collapsed: false,
                   items: [
@@ -446,7 +454,7 @@ s0.parentNode.insertBefore(s1,s0);
                         { text: '概述', link: '/zh/products/pre-treatment' },
                         { text: '11kw高速粉碎机', link: '/zh/products/11kw-high-speed-pulverizer' },
                         { text: '27kw电蒸锅', link: '/zh/products/27kw-electric-steamer' },
-                        { text: '亚麻籽菜籽研磨搅拌一体机', link: '/zh/products/Flaxseed-and-rapeseed-grinding-and-stirring-integrated-machine' },
+                        { text: '胡麻亚麻籽研磨搅拌一体机', link: '/zh/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine' },
                         { text: '自动滚筒炒锅', link: '/zh/products/automatic-drum-roaster' },
                         { text: '饼粕包饼机', link: '/zh/products/cake-wrapping-machine' },
                         { text: '上料/粉碎/炒制一体机', link: '/zh/products/feeding-crushing-frying-integrated-machine' },
@@ -626,6 +634,7 @@ s0.parentNode.insertBefore(s1,s0);
               { text: '426 Series', link: '/en/products/426' },
               { text: '480 Series', link: '/en/products/480' },
               { text: '500 Series', link: '/en/products/500' },
+              { text: 'Equipment Instruction Manual', link: '/en/products/instruction-manual' },
               { text: 'Customized Hydraulic Oil Press', link: '/en/products/customized-hydraulic-oil-press' },
               { text: 'Customer Order Shipping Video', link: '/en/products/customer-order-shipping-video' },
               { text: 'Supporting Equipment', link: '/en/products/supporting' }
@@ -702,6 +711,13 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
+                  text: 'Equipment Instruction Manual',
+                  collapsed: false,
+                  items: [
+                    { text: 'Overview', link: '/en/products/instruction-manual' }
+                  ]
+                },
+                {
                   text: 'Customized Hydraulic Oil Press',
                   collapsed: false,
                   items: [
@@ -727,7 +743,7 @@ s0.parentNode.insertBefore(s1,s0);
                         { text: 'Overview', link: '/en/products/pre-treatment' },
                         { text: '11kw High Speed Pulverizer', link: '/en/products/11kw-high-speed-pulverizer' },
                         { text: '27kw Electric Steamer', link: '/en/products/27kw-electric-steamer' },
-                        { text: 'Flaxseed and Rapeseed Grinding and Stirring Integrated Machine', link: '/en/products/Flaxseed-and-rapeseed-grinding-and-stirring-integrated-machine' },
+                        { text: 'Hemp and Flaxseed Grinding and Stirring Integrated Machine', link: '/en/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine' },
                         { text: 'Automatic Drum Roaster', link: '/en/products/automatic-drum-roaster' },
                         { text: 'Cake Wrapping Machine', link: '/en/products/cake-wrapping-machine' },
                         { text: 'Feeding Crushing Frying Integrated Machine', link: '/en/products/feeding-crushing-frying-integrated-machine' },
@@ -908,6 +924,7 @@ s0.parentNode.insertBefore(s1,s0);
               { text: 'Серия 426', link: '/ru/products/426' },
               { text: 'Серия 480', link: '/ru/products/480' },
               { text: 'Серия 500', link: '/ru/products/500' },
+              { text: 'Руководство по Эксплуатации Оборудования', link: '/ru/products/instruction-manual' },
               { text: 'Гидравлический маслопресс на заказ', link: '/ru/products/customized-hydraulic-oil-press' },
               { text: 'Видео заказа и отгрузки клиента', link: '/ru/products/customer-order-shipping-video' },
               { text: 'Вспомогательное оборудование', link: '/ru/products/supporting' }
@@ -984,6 +1001,13 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
+                  text: 'Руководство по Эксплуатации Оборудования',
+                  collapsed: false,
+                  items: [
+                    { text: 'Обзор', link: '/ru/products/instruction-manual' }
+                  ]
+                },
+                {
                   text: 'Гидравлический маслопресс на заказ',
                   collapsed: false,
                   items: [
@@ -1009,7 +1033,7 @@ s0.parentNode.insertBefore(s1,s0);
                         { text: 'Обзор', link: '/ru/products/pre-treatment' },
                         { text: '11kw Высокоскоростной измельчитель', link: '/ru/products/11kw-high-speed-pulverizer' },
                         { text: '27kw Электрический паровар', link: '/ru/products/27kw-electric-steamer' },
-                        { text: 'Машина для измельчения и перемешивания льняного семени и рапса', link: '/ru/products/Flaxseed-and-rapeseed-grinding-and-stirring-integrated-machine' },
+                        { text: 'Интегрированная машина для измельчения и смешивания конопли и льна', link: '/ru/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine' },
                         { text: 'Автоматический барабанный обжарщик', link: '/ru/products/automatic-drum-roaster' },
                         { text: 'Машина для упаковки жмыха', link: '/ru/products/cake-wrapping-machine' },
                         { text: 'Интегрированная машина для подачи, дробления и жарки', link: '/ru/products/feeding-crushing-frying-integrated-machine' },
@@ -1190,6 +1214,7 @@ s0.parentNode.insertBefore(s1,s0);
               { text: 'Série 426', link: '/fr/products/426' },
               { text: 'Série 480', link: '/fr/products/480' },
               { text: 'Série 500', link: '/fr/products/500' },
+              { text: 'Manuel d\'Instructions de l\'Équipement', link: '/fr/products/instruction-manual' },
               { text: 'Presse hydraulique sur mesure', link: '/fr/products/customized-hydraulic-oil-press' },
               { text: 'Vidéo d\'expédition de commande client', link: '/fr/products/customer-order-shipping-video' },
               { text: 'Équipements complémentaires', link: '/fr/products/supporting' }
@@ -1266,6 +1291,13 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
+                  text: 'Manuel d\'Instructions de l\'Équipement',
+                  collapsed: false,
+                  items: [
+                    { text: 'Aperçu', link: '/fr/products/instruction-manual' }
+                  ]
+                },
+                {
                   text: 'Presse hydraulique sur mesure',
                   collapsed: false,
                   items: [
@@ -1291,7 +1323,7 @@ s0.parentNode.insertBefore(s1,s0);
                         { text: 'Aperçu', link: '/fr/products/pre-treatment' },
                         { text: 'Pulvérisateur haute vitesse 11kw', link: '/fr/products/11kw-high-speed-pulverizer' },
                         { text: 'Vapeur électrique 27kw', link: '/fr/products/27kw-electric-steamer' },
-                        { text: 'Machine intégrée de broyage et mélange de graines de lin et colza', link: '/fr/products/Flaxseed-and-rapeseed-grinding-and-stirring-integrated-machine' },
+                        { text: 'Machine intégrée de broyage et mélange de graines de chanvre et de lin', link: '/fr/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine' },
                         { text: 'Rôtisseur à tambour automatique', link: '/fr/products/automatic-drum-roaster' },
                         { text: 'Machine d\'emballage de gâteau', link: '/fr/products/cake-wrapping-machine' },
                         { text: 'Machine intégrée d\'alimentation, concassage et friture', link: '/fr/products/feeding-crushing-frying-integrated-machine' },

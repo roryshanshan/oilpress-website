@@ -61,7 +61,3 @@ Different oil crops require tailored pretreatment and pressing parameters to rea
 Shengshi Hecheng offers crop-specific parameter packages and equipment selection (hot/cold pressing, single/double screw, pre-press + extraction), along with on-site commissioning and training to help you reach stable high output quickly.
 :::
 
-Related products:
-- Large industrial presses 425/480 series → /en/products/425-480
-- Medium-large presses 355/400 series → /en/products/355-400
-- Small-medium presses 300/325 series → /en/products/300-325
