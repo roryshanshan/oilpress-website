@@ -464,6 +464,21 @@
           </div>
         </div>
 
+        <!-- 设备使用说明书 -->
+        <a :href="currentLang === 'zh' ? '/zh/products/instruction-manual' : '/en/products/instruction-manual'" class="mobile-nav-link" @click="closeMobileMenu">
+          {{ currentLang === 'zh' ? '设备使用说明书' : 'Instruction Manual' }}
+        </a>
+
+        <!-- 客户定制款液压榨油机 -->
+        <a :href="currentLang === 'zh' ? '/zh/products/customized-hydraulic-oil-press' : '/en/products/customized-hydraulic-oil-press'" class="mobile-nav-link" @click="closeMobileMenu">
+          {{ currentLang === 'zh' ? '客户定制款液压榨油机' : 'Customized Hydraulic Oil Press' }}
+        </a>
+
+        <!-- 客户订货发货视频 -->
+        <a :href="currentLang === 'zh' ? '/zh/products/customer-order-shipping-video' : '/en/products/customer-order-shipping-video'" class="mobile-nav-link" @click="closeMobileMenu">
+          {{ currentLang === 'zh' ? '客户订货发货视频' : 'Customer Order Shipping Video' }}
+        </a>
+
         <!-- 联系我们 -->
         <a :href="currentLang === 'zh' ? '/zh/contact/' : currentLang === 'ru' ? '/ru/contact/' : currentLang === 'fr' ? '/fr/contact/' : '/en/contact/'" class="mobile-nav-link" @click="closeMobileMenu">
           {{ currentLang === 'zh' ? '联系我们' : currentLang === 'ru' ? 'Контакты' : currentLang === 'fr' ? 'Contact' : 'Contact' }}
@@ -759,13 +774,33 @@ onMounted(() => {
     border-bottom: 1px solid #eee;
     background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
     border-radius: 12px 12px 0 0;
+    position: relative;
+  }
+
+  .mobile-nav-header::before {
+    content: '';
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 32px;
+    height: 32px;
+    background-image: url('/images/oil-press-hero.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.8;
   }
   
   .mobile-nav-header h3 {
-    margin: 0;
+    margin: 0 0 0 44px;
     font-size: 18px;
-    font-weight: 600;
-    color: var(--vp-c-brand);
+    font-weight: 700;
+    color: #e74c3c;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    letter-spacing: 0.5px;
+    z-index: 10;
+    position: relative;
   }
   
   .close-btn {

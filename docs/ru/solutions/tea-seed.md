@@ -42,6 +42,13 @@ keywords: Решения для чайного семени, Отжим масл
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/Yz1FETcJv7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+## Видео частичного оборудования для отжима чайного семени
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/_6HHsTppNS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Рекомендации по оборудованию
 
 ### Рекомендуемое оборудование

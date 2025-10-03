@@ -28,6 +28,56 @@ Our customization services cover all aspects from small family workshops to larg
   <iframe width="700" height="330" src="https://www.youtube.com/embed/-Lk1JHj3xkk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Quadruple Hydraulic Oil Press, Customized Sichuan Pepper & Waste Clay Hydraulic Oil Press, Pressure 500 tons
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/hZoQa6JGuKY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/lRvo4gAoD4I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Stainless Steel Hydraulic Oil Press with External Frame
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/znK2333voV0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Customer Customized Flour Residue Oil Sludge Hydraulic Oil Press
++ The following video shows 10 parallel fully automatic flour residue hydraulic presses customized by customers
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/-gRDYsb-ibY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
++ The following video shows a single customer customized flour residue hydraulic press
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/q-6y2bdQ7eQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Customer Customized Coconut Meat Hydraulic Oil Press, Oil Yield 86%
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/ummelRZ5yAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Customer Customized Oil Sludge Hydraulic Oil Press Small Production Line
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/qlNlu8wPDA0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Customer Customized Single Barrel Capacity 1.5 Tons Hydraulic Oil Press
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/wFifjVgOyFs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Customer Customized Ultra Large Barrel Hydraulic Oil Press Under Preparation
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/thicC1mfTs8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Customer Customized Batch of Double Barrel Hydraulic Oil Press, Pressing Peanuts and Soybeans
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/c-R9bHN11Sc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Customized Service Content
 
 ### 1. Equipment Specifications Customization

@@ -52,17 +52,3 @@ Devenir le principal fabricant mondial d'équipements d'extraction d'huile
 - Centre technologique d'entreprise provincial
 - Brevets d'invention multiples
 
-## Nous contacter
-
-### Siège social
-Zone de développement économique, ville de Qingzhou, province du Shandong, Chine
-
-### Informations de contact
-- Téléphone : +86 199 0636 5856
-- Email : info@oil-pressing-machine.com
-- Site web : www.oil-pressing-machine.com
-
-### Réseaux sociaux
-- Compte officiel WeChat : ShengshiHecheng
-- LinkedIn : Shengshi Hecheng
-- Facebook : Oil Press Machine

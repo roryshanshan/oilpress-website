@@ -91,6 +91,11 @@
 <div class="video-container">
   <iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+液压油缸成品展示视频：
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/taGBjx0XnkA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 超高压液压油缸加焊工艺视频：
 <div class="video-container">

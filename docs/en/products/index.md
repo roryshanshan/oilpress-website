@@ -85,6 +85,16 @@ Hydraulic cylinder mirror rolling video:
 <div class="video-container">
   <iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+Hydraulic cylinder finished product display video:
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/taGBjx0XnkA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+Ultra-high pressure hydraulic cylinder welding process video:
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/8TpO4JBcJ_A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### 4. Control Box
 + Control system uses microcomputer system, all programs are software connected, control system operation is simple;

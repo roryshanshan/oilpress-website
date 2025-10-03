@@ -57,17 +57,4 @@ keywords: 山东盛世赫程, 榨油设备制造商, 液压榨油机厂家, 油�
 - 省级企业技术中心
 - 多项发明专利
 
-## 联系我们
 
-### 总部地址
-山东省青州市经济开发区
-
-### 联系方式
-- 电话：+86 199 0636 5856
-- 邮箱：info@oil-pressing-machine.com
-- 网址：www.oil-pressing-machine.com
-
-### 社交媒体
-- 微信公众号：盛世赫程
-- LinkedIn：Shengshi Hecheng
-- Facebook：Oil Press Machine

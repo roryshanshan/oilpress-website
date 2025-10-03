@@ -37,6 +37,43 @@ Nos services de personnalisation couvrent tous les aspects, des petits ateliers 
   <iframe src="https://www.youtube.com/embed/znK2333voV0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Presse hydraulique personnalisée pour résidus de farine et boue d'huile
++ La vidéo suivante montre 10 presses hydrauliques entièrement automatiques en parallèle pour résidus de farine personnalisées pour les clients
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/-gRDYsb-ibY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
++ La vidéo suivante montre une presse hydraulique pour résidus de farine personnalisée pour un client
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/q-6y2bdQ7eQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Presse hydraulique personnalisée pour chair de coco, rendement en huile 86%
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/ummelRZ5yAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Petite ligne de production de presse hydraulique personnalisée pour boue d'huile
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/qlNlu8wPDA0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Presse hydraulique personnalisée avec capacité d'un seul baril de 1,5 tonne
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/wFifjVgOyFs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Presse hydraulique personnalisée avec baril ultra-grand en préparation
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/thicC1mfTs8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Lot de presses hydrauliques à deux barils personnalisées, pressage d'arachides et de soja
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/c-R9bHN11Sc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Contenu du service de personnalisation
 
 ### 1. Personnalisation des spécifications d'équipement

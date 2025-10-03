@@ -37,6 +37,43 @@ Shandong Shengshi Hecheng Machinery Co., Ltd. предоставляет про�
   <iframe src="https://www.youtube.com/embed/znK2333voV0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Персонализированный пресс для отжима жмыха и масляного ила
++ Ниже видео показывает 10 параллельных полностью автоматических прессов для отжима жмыха, персонализированных для клиентов
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/-gRDYsb-ibY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
++ Ниже видео показывает один персонализированный пресс для отжима жмыха клиента
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/q-6y2bdQ7eQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Персонализированный пресс для отжима кокосовой мякоти, выход масла 86%
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/ummelRZ5yAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Персонализированная небольшая производственная линия пресса для отжима масляного ила
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/qlNlu8wPDA0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Персонализированный пресс для отжима с объемом одного бака 1,5 тонны
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/wFifjVgOyFs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Персонализированный пресс для отжима с ультрабольшим баком в подготовке
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/thicC1mfTs8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Персонализированная партия двухбаковых прессов для отжима, отжим арахиса и сои
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/c-R9bHN11Sc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Содержание услуги персонализации
 
 ### 1. Персонализация спецификаций оборудования

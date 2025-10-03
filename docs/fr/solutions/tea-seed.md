@@ -42,6 +42,13 @@ Les graines de thé sont une importante culture oléagineuse, l'huile de graines
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/Yz1FETcJv7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+## Vidéo partielle d'équipement de pressage de graines de thé
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/_6HHsTppNS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Equipment Recommendations
 
 ### Recommended Equipment

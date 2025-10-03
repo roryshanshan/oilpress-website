@@ -35,6 +35,12 @@ keywords: Решения для рисовой шелухи, Отжим масл
  <iframe src="https://www.youtube.com/embed/AUK9h05fRZg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Видео отжима проса, 107 цзинь проса дает 1 цзинь масла проса
+
+<div class="video-container">
+ <iframe src="https://www.youtube.com/embed/aJ6codz9fao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Технические преимущества
 
 ### 🎯 Точный контроль

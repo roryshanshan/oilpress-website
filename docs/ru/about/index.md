@@ -52,17 +52,3 @@ keywords: Shandong Shengshi Hecheng, производитель оборудов
 - Провинциальный центр технологий предприятия
 - Множество патентов на изобретения
 
-## Свяжитесь с нами
-
-### Штаб-квартира
-Зона экономического развития, город Цинчжоу, провинция Шаньдун, Китай
-
-### Контактная информация
-- Тел: +86 199 0636 5856
-- Email: info@oil-pressing-machine.com
-- Веб-сайт: www.oil-pressing-machine.com
-
-### Социальные сети
-- Официальный аккаунт WeChat: ShengshiHecheng
-- LinkedIn: Shengshi Hecheng
-- Facebook: Oil Press Machine

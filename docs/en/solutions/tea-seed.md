@@ -43,6 +43,12 @@ Tea seed is an important oil crop, tea seed oil has unique nutritional value and
   <iframe src="https://www.youtube.com/embed/Yz1FETcJv7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Some tea seed pressing equipment video
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/_6HHsTppNS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Equipment Recommendations
 
 ### Recommended Equipment

@@ -42,10 +42,16 @@ keywords: 客户订货发货视频, 设备打包发货, 液压榨油机发货, �
   <iframe src="https://www.youtube.com/embed/qbhvJQ6amLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
++ 尼日利亚客户 10 台液压榨油机发货
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/3z6FzOGXqmA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### 客户大批量订购液压榨油机，备货中
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/U077XRSuR-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ## 发货服务特点
 

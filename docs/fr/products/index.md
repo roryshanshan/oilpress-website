@@ -84,6 +84,16 @@ Vidéo de laminage en miroir du cylindre hydraulique :
 <div class="video-container">
   <iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+Vidéo de démonstration du produit fini du cylindre hydraulique :
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/taGBjx0XnkA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+Vidéo du processus de soudage du cylindre hydraulique à ultra-haute pression :
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/8TpO4JBcJ_A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### 4. Boîte de commande
 + Le système de contrôle utilise un système à micro-ordinateur, tous les programmes sont connectés par logiciel, le fonctionnement du système de contrôle est simple;

@@ -12,6 +12,7 @@ keywords: 高速粉碎机, 11KW粉碎机, 油料粉碎机, 山茶籽粉碎机, �
 可带壳加工粉碎山茶籽、文冠果、牛油果等各类坚硬物料。
 另有15KW可选，加工量3T/h。
 
+
 ## 规格参数
 
 | 型号 | JJ-11FS | 功率 | 11KW |
@@ -23,4 +24,8 @@ keywords: 高速粉碎机, 11KW粉碎机, 油料粉碎机, 山茶籽粉碎机, �
 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/o-APYfttI74" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/kMQk9llFYXk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

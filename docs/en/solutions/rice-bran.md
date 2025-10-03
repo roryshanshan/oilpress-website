@@ -35,6 +35,12 @@ Glutinous rice oil pressing technology: (Recommended 426AC-390/480AC-390/500AC-3
  <iframe src="https://www.youtube.com/embed/AUK9h05fRZg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Millet pressing video, 107 jin millet produces 1 jin millet oil
+
+<div class="video-container">
+ <iframe src="https://www.youtube.com/embed/aJ6codz9fao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Technical Advantages
 
 ### 🎯 Precise Control

@@ -58,9 +58,26 @@ keywords: 定制液压榨油机, 个性化榨油设备, 客户定制油压机, �
   <iframe src="https://www.youtube.com/embed/ummelRZ5yAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## 客户定制油泥液压榨油机小型生产线
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/qlNlu8wPDA0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
+## 客户定制单桶容量1.5吨液压榨油机
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/wFifjVgOyFs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
+## 客户定制超大料桶液压榨油机整备中
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/thicC1mfTs8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## 客户定制的一批双桶液压榨油机，压榨花生跟大豆
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/c-R9bHN11Sc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## 定制服务内容
 

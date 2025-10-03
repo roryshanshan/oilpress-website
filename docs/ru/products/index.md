@@ -85,6 +85,16 @@
 <div class="video-container">
   <iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+Видео демонстрации готовой продукции гидравлического цилиндра:
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/taGBjx0XnkA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+Видео сварочного процесса сверхвысоконапорного гидравлического цилиндра:
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/8TpO4JBcJ_A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### 4. Контрольный блок
 + Система управления использует микрокомпьютерную систему, все программы программно соединены, работа системы управления проста;
