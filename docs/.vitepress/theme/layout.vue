@@ -66,9 +66,6 @@
     </template>
   </Layout>
 
-  <!-- Vercel Speed Insights -->
-  <SpeedInsights />
-
   <!-- 自定义移动端菜单内容 - 直接放在Layout外部 -->
   <div class="custom-mobile-menu" v-if="showMobileMenu" @click.self="toggleMobileMenu">
     <div class="mobile-nav-content" @click.stop>
@@ -522,7 +519,7 @@
 import DefaultTheme from 'vitepress/theme'
 import { useData, useRouter } from 'vitepress'
 import { computed, ref, onMounted, onUnmounted } from 'vue'
-import { SpeedInsights } from "@vercel/speed-insights/next"
+import { injectSpeedInsights } from '@vercel/speed-insights'
 
 const { Layout } = DefaultTheme
 const { frontmatter, site, page } = useData()
@@ -705,6 +702,9 @@ onMounted(() => {
 
   // 初始化移动端状态
   updateMobileState()
+
+  // 注入Vercel Speed Insights
+  injectSpeedInsights()
 
   document.addEventListener('click', handleClickOutside)
 
