@@ -74,6 +74,27 @@ Shandong Shengshi Hecheng Machinery Co., Ltd. предоставляет про�
   <iframe src="https://www.youtube.com/embed/c-R9bHN11Sc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Персонализированный пресс для отжима большого объема кухонных отходов
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/fnhSOVJGLNQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Персонализированный пресс для отжима большого объема химического ила, снижение влажности с 85% до 30%
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/p1FUpsOhQS0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Государственная закупка пресса для отжима ила с обезвоживанием
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/VwK3-biB_ic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Персонализированный пресс для отжима пяти тонн ила, без нагрева сушка и снижение, влажность с 80% до 30%
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/ymQNvi8Vxlg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Содержание услуги персонализации
 
 ### 1. Персонализация спецификаций оборудования

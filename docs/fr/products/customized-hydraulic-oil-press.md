@@ -74,6 +74,27 @@ Nos services de personnalisation couvrent tous les aspects, des petits ateliers 
   <iframe src="https://www.youtube.com/embed/c-R9bHN11Sc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Presse hydraulique personnalisée à grande capacité pour déchets de cuisine
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/fnhSOVJGLNQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Presse hydraulique personnalisée à grande capacité pour boue chimique, réduction d'humidité de 85% à 30%
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/p1FUpsOhQS0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Achat d'entreprise d'État pour presse hydraulique de réduction de boue avec déshydratation
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/VwK3-biB_ic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Presse hydraulique personnalisée pour cinq tonnes de boue, séchage sans chaleur et réduction, humidité de 80% à 30%
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/ymQNvi8Vxlg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Contenu du service de personnalisation
 
 ### 1. Personnalisation des spécifications d'équipement
