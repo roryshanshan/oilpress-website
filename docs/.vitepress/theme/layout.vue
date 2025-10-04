@@ -629,15 +629,15 @@ const switchToLanguage = (lang) => {
   const currentPath = page.value.relativePath
 
   if (currentPath.startsWith('zh/')) {
-    basePath = currentPath.replace(/^zh\//, '').replace(/\.md$/, '')
+    basePath = currentPath.replace(/^zh\//, '').replace(/\.md$/, '').replace(/\/index$/, '')
   } else if (currentPath.startsWith('ru/')) {
-    basePath = currentPath.replace(/^ru\//, '').replace(/\.md$/, '')
+    basePath = currentPath.replace(/^ru\//, '').replace(/\.md$/, '').replace(/\/index$/, '')
   } else if (currentPath.startsWith('fr/')) {
-    basePath = currentPath.replace(/^fr\//, '').replace(/\.md$/, '')
+    basePath = currentPath.replace(/^fr\//, '').replace(/\.md$/, '').replace(/\/index$/, '')
   } else if (currentPath.startsWith('en/')) {
-    basePath = currentPath.replace(/^en\//, '').replace(/\.md$/, '')
+    basePath = currentPath.replace(/^en\//, '').replace(/\.md$/, '').replace(/\/index$/, '')
   } else {
-    basePath = currentPath.replace(/\.md$/, '')
+    basePath = currentPath.replace(/\.md$/, '').replace(/\/index$/, '')
   }
 
   // 处理首页路径
@@ -658,11 +658,13 @@ const switchToLanguage = (lang) => {
     targetPath = basePath === '' ? '/' : `/${basePath}/`
   }
 
+  console.log('Current path:', currentPath) // 调试信息
+  console.log('Base path:', basePath) // 调试信息
   console.log('Target path:', targetPath) // 调试信息
 
-  // 使用VitePress路由进行导航
+  // 使用window.location进行导航，避免VitePress路由问题
   if (targetPath) {
-    router.go(targetPath)
+    window.location.href = targetPath
   }
 }
 
