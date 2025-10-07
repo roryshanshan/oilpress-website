@@ -24,13 +24,42 @@ Peanut is an important oilseed and cash crop, and peanut oil has unique aroma an
 - **Soil Requirements**: Loose, fertile sandy soil
 - **Annual Production**: China annual production exceeds 16 million tons
 
-## Processing Technology
+## Peanut Oil Processing and Advantages
 
-### Peanut Oil (Aromatic Type) Hot Pressing Process
-- Crush peanuts - flat-bottomed wok frying peanut grits - directly feed into hydraulic oil press bucket for pressing
-- The peanut oil produced by this process has a rich aroma, golden and bright color, good taste, and does not require hydration treatment with no foaming when cooking.
-- Basically no filtration treatment is needed, just sedimentation and bottling. This is the pressing process adopted by COFCO Group's premium peanut oil (the crushing, frying, pressing, and filtration equipment for this project are provided by our factory).
-- ![](/images/花生热榨工艺.png)
+### 🛠 Processing Technology Overview
+The production process of peanut oil mainly includes cleaning, crushing, roasting, pressing, filtering and sedimentation. Our factory adopts hydraulic cold pressing or hot pressing processes, which can be flexibly configured according to customer needs:
+
+- **Cold Pressing Process**: Maintains the original flavor and nutritional components of peanut oil, with clear color and soft taste.
+- **Hot Pressing Process**: By controlling the roasting temperature, the peanut aroma is more intense and the oil yield is higher.
+
+Hydraulic oil press uses pure physical extrusion principle, without adding any chemical solvents, pure oil quality, suitable for producing high-end edible oil.
+
+### 🥇 Peanut Oil Advantages
+1️⃣ Rich in Unsaturated Fatty Acids
+	•	Oleic acid accounts for 40-50% in peanut oil, linoleic acid accounts for 30-40%, both are healthy monounsaturated and polyunsaturated fatty acids.
+	•	Helps reduce cholesterol in the blood and protect cardiovascular health.
+
+2️⃣ Rich in Vitamins and Antioxidants
+	•	Contains Vitamin E and phytosterols, with antioxidant effects, helping to delay aging and protect cell health.
+
+3️⃣ Healthy Cooking Oil
+	•	Cold-pressed peanut oil retains natural nutrition, pure taste, suitable for cold dishes, frying, stir-frying and other cooking methods.
+	•	Has a high smoke point, less likely to produce harmful substances when frying.
+
+4️⃣ Improve Immunity and Digestion
+	•	The nutritional components of peanut oil help enhance immunity and also have certain protective effects on the digestive system.
+
+5️⃣ Natural Flavor and Taste
+	•	Peanut oil has a rich aroma, soft taste, can enhance the flavor of dishes, especially suitable for Chinese cooking.
+
+## Peanut Hot Pressing Process Description
++ Peanut (recommended 300AC-390/325AC-390/355AC-390/400AC-390)
++ Peanut Oil (Aromatic Type) Hot Pressing Process: Crush peanuts - flat-bottomed wok frying peanut grits - directly feed into hydraulic oil press bucket for pressing
+   + The peanut oil produced by this process has a rich aroma, golden and bright color, good taste, and does not require hydration treatment with no foaming when cooking.
+   + Basically no filtration treatment is needed, just sedimentation and bottling. This is the pressing process adopted by COFCO Group's premium peanut oil (the crushing, frying, pressing, and filtration equipment for this project are provided by our factory).
+   + ![](/images/花生热榨工艺.png)
+
+## Processing Technology Videos
 
 <div class="video-container">
   <iframe width="700" height="330" src="https://www.youtube.com/embed/ggkjZM5n0vM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -43,6 +72,19 @@ Peanut is an important oilseed and cash crop, and peanut oil has unique aroma an
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/NoGVyosPoeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### ⚙️ Hydraulic Oil Press Core Features
+- **High Pressure Stability**: Uses high-end hydraulic components for continuous stable pressure output;
+- **Quiet Hydraulic System**: Smooth operation, low noise, suitable for continuous production;
+- **High Oil Yield Design**: Cooperates with special barrel and piston structure for more thorough oilseed pressing;
+- **Easy Cleaning and Maintenance**: Simple structure, hygienic, safe, convenient disassembly and assembly;
+- **Energy Saving and Environmental Protection**: Low energy consumption, no pollution, no residual wastewater discharge.
+
+### 💧 Oil Quality and Process Optimization
+- No chemical additives in the pressing process;
+- Pure oil output, transparent, no bubbles;
+- Suitable for sesame, walnut, peanut and other high-oil oilseeds;
+- Can be configured with automatic feeding and filtering system to achieve integrated operation.
 
 ## Equipment Recommendations
 

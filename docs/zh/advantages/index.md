@@ -96,6 +96,10 @@ keywords: 公司优势, 核心竞争力, 技术创新, 质量保证, 服务支�
 
 ### 国际案例
 - 东南亚椰子油加工厂
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/D8R1iUMUihk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 - 中亚地区芝麻油生产线
 - 非洲花生油加工项目
 

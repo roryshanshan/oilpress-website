@@ -649,12 +649,14 @@ const switchToLanguage = (lang) => {
   let targetPath = ''
   if (lang === 'zh') {
     targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
+  } else if (lang === 'en') {
+    targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
   } else if (lang === 'ru') {
     targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
   } else if (lang === 'fr') {
     targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
   } else {
-    // 英文作为默认语言
+    // 默认语言（英文）
     targetPath = basePath === '' ? '/' : `/${basePath}/`
   }
 

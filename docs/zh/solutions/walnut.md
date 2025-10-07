@@ -35,6 +35,14 @@ keywords: 核桃解决方案, 核桃油压榨, 核桃加工设备, 核桃油生�
   <iframe src="https://www.youtube.com/embed/2Y0HsdtzfWg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## 核桃油出油视频参考
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/ocadE6hnkEQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
 ## 技术优势
 
 ### 🎯 精准控制

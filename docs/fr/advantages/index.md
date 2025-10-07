@@ -95,6 +95,10 @@ Shandong Shengshi Hecheng Machinery Co., Ltd. a formé des avantages concurrenti
 
 ### Cas internationaux
 - Usine de transformation d'huile de noix de coco en Asie du Sud-Est
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/D8R1iUMUihk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 - Ligne de production d'huile de sésame en Asie centrale
 - Projet de transformation d'huile d'arachide en Afrique
 

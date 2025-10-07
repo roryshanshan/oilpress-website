@@ -29,6 +29,20 @@ Coconut is an important oil crop, coconut oil has unique nutritional value and a
 +  Coconut Oil (Recommended 300AC-390/325AC-390/355AC-390/400AC-390)
      + Cold pressing process: The crushed coconut pulp is directly fed into the hydraulic oil press bucket for pressing
      +  ![Coconut Oil](/images/椰蓉Coconut%20puree冷榨工艺.png)
+## Coconut juice/coconut milk/coconut puree hydraulic oil press video reference
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/O17xVfT6-Sg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/D8R1iUMUihk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Customized Coconut Meat/Coconut Puree/Coconut Milk/Coconut Juice Hydraulic Oil Press
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/8ZQjPdvZ6DE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Technical Advantages
 

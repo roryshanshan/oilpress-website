@@ -24,6 +24,13 @@ After more than a year of construction, our company's new factory was officially
 
 ## Industry News
 
+### Global Edible Oil Market Outlook 2024-2025: Trends, Challenges, and Opportunities
+*October 4, 2024*
+
+The global edible oil market is projected to reach $245 billion by 2025, driven by rising population, increasing incomes, and growing demand for healthy and sustainable food options. This comprehensive analysis covers market trends, regional dynamics, technological innovations, and strategic recommendations for industry players navigating the evolving landscape.
+
+[Read More](/en/news/industry/2024-market-outlook)
+
 ### Global Edible Oil Market Trend Analysis 2023
 *May 10, 2023*
 

@@ -78,6 +78,28 @@ Our customization services cover all aspects from small family workshops to larg
   <iframe src="https://www.youtube.com/embed/c-R9bHN11Sc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Customer Customized Large Capacity Kitchen Waste Hydraulic Oil Press
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/fnhSOVJGLNQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+## Customer Customized Large Capacity Chemical Sludge Reduction Hydraulic Oil Press, Moisture Content Reduced from 85% to 30%
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/p1FUpsOhQS0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## State-Owned Enterprise Procurement Sludge Reduction Dehydration Hydraulic Oil Press
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/VwK3-biB_ic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Customer Customized Five Tons Sludge Hydraulic Oil Press, Heat-Free Drying Reduction, Moisture Content Reduced from 80% to 30%
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/ymQNvi8Vxlg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Customized Service Content
 
 ### 1. Equipment Specifications Customization

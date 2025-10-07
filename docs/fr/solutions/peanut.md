@@ -24,7 +24,42 @@ L'arachide est une importante graine oléagineuse et culture commerciale, et l'h
 - **Exigences du sol** : Sol sableux lâche et fertile
 - **Production annuelle** : Production annuelle chinoise dépasse 16 millions de tonnes
 
-## Technologie de Transformation
+## Transformation et Avantages de l'Huile d'Arachide
+
+### 🛠 Aperçu de la Technologie de Transformation
+Le processus de production de l'huile d'arachide comprend principalement le nettoyage, le concassage, la torréfaction, le pressage, la filtration et la sédimentation. Notre usine adopte des processus de pressage à froid ou à chaud hydraulique, qui peuvent être configurés de manière flexible selon les besoins des clients :
+
+- **Processus de Pressage à Froid** : Préserve la saveur originale et les composants nutritionnels de l'huile d'arachide, couleur claire et goût doux.
+- **Processus de Pressage à Chaud** : En contrôlant la température de torréfaction, l'arôme d'arachide est plus intense et le rendement en huile est plus élevé.
+
+La presse à huile hydraulique utilise le principe d'extrusion physique pure, sans ajout de solvants chimiques, qualité d'huile pure, adaptée à la production d'huile alimentaire haut de gamme.
+
+### 🥇 Avantages de l'Huile d'Arachide
+1️⃣ Riche en Acides Gras Insaturés
+	•	L'acide oléique représente 40-50% dans l'huile d'arachide, l'acide linoléique représente 30-40%, tous deux sont des acides gras monoinsaturés et polyinsaturés sains.
+	•	Aide à réduire le cholestérol dans le sang et à protéger la santé cardiovasculaire.
+
+2️⃣ Riche en Vitamines et Antioxydants
+	•	Contient de la Vitamine E et des phytostérols, avec des effets antioxydants, aidant à retarder le vieillissement et à protéger la santé cellulaire.
+
+3️⃣ Huile de Cuisine Saine
+	•	L'huile d'arachide pressée à froid conserve la nutrition naturelle, goût pur, adaptée aux plats froids, friture, sauté et autres méthodes de cuisson.
+	•	A un point de fumée élevé, moins susceptible de produire des substances nocives lors de la friture.
+
+4️⃣ Améliorer l'Immunité et la Digestion
+	•	Les composants nutritionnels de l'huile d'arachide aident à renforcer l'immunité et ont également certains effets protecteurs sur le système digestif.
+
+5️⃣ Saveur et Goût Naturels
+	•	L'huile d'arachide a un arôme riche, goût doux, peut améliorer la saveur des plats, particulièrement adaptée à la cuisine chinoise.
+
+## Description du Processus de Pressage à Chaud d'Arachide
++ Arachide (recommandé 300AC-390/325AC-390/355AC-390/400AC-390)
++ Processus de Pressage à Chaud d'Huile d'Arachide (Type Aromatique) : Concasser les arachides - wok à fond plat torréfaction des grits d'arachide - alimentation directe dans le seau de presse à huile hydraulique pour pressage
+   + L'huile d'arachide produite par ce processus a un arôme riche, couleur dorée et brillante, bon goût, et ne nécessite pas de traitement d'hydratation sans mousse lors de la cuisson.
+   + Fondamentalement, aucun traitement de filtration n'est nécessaire, juste sédimentation et mise en bouteille. C'est le processus de pressage adopté par l'huile d'arachide premium du Groupe COFCO (l'équipement de concassage, torréfaction, pressage et filtration pour ce projet est fourni par notre usine).
+   + ![](/images/花生热榨工艺.png)
+
+## Vidéos de Technologie de Transformation
 
 ### Peanut Oil (Aromatic Type) Hot Pressing Process
 - Crush peanuts - flat-bottomed wok frying peanut grits - directly feed into hydraulic oil press bucket for pressing
@@ -43,6 +78,19 @@ L'arachide est une importante graine oléagineuse et culture commerciale, et l'h
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/NoGVyosPoeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### ⚙️ Caractéristiques Principales de la Presse à Huile Hydraulique
+- **Stabilité de Haute Pression** : Utilise des composants hydrauliques haut de gamme pour une sortie de pression stable continue ;
+- **Système Hydraulique Silencieux** : Fonctionnement fluide, faible bruit, adapté à la production continue ;
+- **Conception de Haut Rendement en Huile** : Coopère avec une structure spéciale de baril et de piston pour un pressage plus approfondi des graines oléagineuses ;
+- **Nettoyage et Maintenance Faciles** : Structure simple, hygiénique, sûre, démontage et montage pratiques ;
+- **Économie d'Énergie et Protection de l'Environnement** : Faible consommation d'énergie, sans pollution, pas de rejet d'eaux usées résiduelles.
+
+### 💧 Qualité de l'Huile et Optimisation du Processus
+- Aucun additif chimique dans le processus de pressage ;
+- Sortie d'huile pure, transparente, sans bulles ;
+- Adapté aux graines oléagineuses riches en huile comme sésame, noix, arachide ;
+- Peut être configuré avec un système d'alimentation automatique et de filtration pour réaliser une opération intégrée.
 
 ## Equipment Recommendations
 

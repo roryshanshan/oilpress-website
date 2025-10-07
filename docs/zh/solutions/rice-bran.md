@@ -39,6 +39,9 @@ keywords: 米糠解决方案, 米糠油压榨, 米糠加工设备, 米糠油生�
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/aJ6codz9fao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/7pGqmfLwS1g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ## 技术优势

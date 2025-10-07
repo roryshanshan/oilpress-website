@@ -48,6 +48,9 @@ keywords: 茶籽解决方案, 茶籽油压榨, 茶籽加工设备, 茶籽油生�
 </div>
 
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/dedion7Oq20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## 技术优势
 

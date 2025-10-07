@@ -40,7 +40,10 @@ keywords: 芝麻解决方案, 芝麻油压榨, 芝麻加工设备, 芝麻油生�
   <iframe src="https://www.youtube.com/embed/4lPfRSG2xu8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
+## 芝麻液压榨油机冷榨工艺视频展示
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/FJJ1DKef6cE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## 技术优势
 

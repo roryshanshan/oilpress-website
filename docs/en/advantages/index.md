@@ -95,6 +95,10 @@ Shandong Shengshi Hecheng Machinery Co., Ltd. has formed unique core competitive
 
 ### International Cases
 - Coconut oil processing factory in Southeast Asia
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/D8R1iUMUihk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 - Sesame oil production line in Central Asia
 - Peanut oil processing project in Africa
 

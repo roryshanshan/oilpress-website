@@ -41,6 +41,17 @@ keywords: 亚麻籽解决方案, 亚麻籽油压榨, 亚麻籽加工设备, 亚�
   <iframe width="700" height="330" src="https://www.youtube.com/embed/Ye3Ni2Lz9cM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## 冷榨亚麻籽出油视频
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/foGFBDrm-a0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/IjIx4_hpdOY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## 技术优势
 

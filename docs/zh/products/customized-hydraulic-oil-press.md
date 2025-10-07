@@ -79,6 +79,28 @@ keywords: 定制液压榨油机, 个性化榨油设备, 客户定制油压机, �
   <iframe src="https://www.youtube.com/embed/c-R9bHN11Sc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## 客户定制大容量餐余餐厨垃圾液压榨油机
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/fnhSOVJGLNQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+## 客户定制大容量化工污泥减量液压榨油机，含水率从 85% 降到 30%
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/p1FUpsOhQS0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## 国企采购污泥减量脱水液压榨油机
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/VwK3-biB_ic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## 客户定制五吨污泥液压榨油机，无热源干化减量，含水率从 80% 降到 30%
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/ymQNvi8Vxlg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## 定制服务内容
 
 ### 1. 设备规格定制

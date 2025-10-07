@@ -95,6 +95,10 @@ keywords: Преимущества компании, Основные конку
 
 ### Международные кейсы
 - Завод по переработке кокосового масла в Юго-Восточной Азии
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/D8R1iUMUihk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 - Линия производства кунжутного масла в Центральной Азии
 - Проект переработки арахисового масла в Африке
 

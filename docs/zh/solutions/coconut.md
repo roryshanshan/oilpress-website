@@ -35,6 +35,15 @@ keywords: 椰子解决方案, 椰子油压榨, 椰子加工设备, 椰子油生�
   <iframe src="https://www.youtube.com/embed/O17xVfT6-Sg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/D8R1iUMUihk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## 定制化椰肉、椰蓉、椰浆、椰汁液压榨油机
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/8ZQjPdvZ6DE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## 技术优势
 
 ### 🎯 精准控制

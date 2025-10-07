@@ -24,6 +24,13 @@ Après plus d'un an de construction, le nouvel usine de notre entreprise a été
 
 ## Actualités sectorielles
 
+### Perspectives du marché mondial des huiles comestibles 2024-2025 : tendances, défis et opportunités
+*4 octobre 2024*
+
+Le marché mondial des huiles comestibles devrait atteindre 245 milliards de dollars d'ici 2025, stimulé par la croissance démographique, l'augmentation des revenus et la demande croissante pour des options alimentaires saines et durables. Cette analyse complète couvre les tendances du marché, la dynamique régionale, les innovations technologiques et les recommandations stratégiques pour les acteurs de l'industrie naviguant dans le paysage en évolution.
+
+[En savoir plus](/fr/news/industry/2024-market-outlook)
+
 ### Analyse des tendances du marché mondial des huiles comestibles 2023
 *10 mai 2023*
 
