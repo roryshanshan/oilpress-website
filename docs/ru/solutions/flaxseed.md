@@ -39,6 +39,16 @@ keywords: Решения для льняного семени, Отжим льн
 <div class="video-container">
   <iframe width="700" height="330" src="https://www.youtube.com/embed/Ye3Ni2Lz9cM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+## Видео производства льняного масла холодного отжима
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/foGFBDrm-a0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/IjIx4_hpdOY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Рекомендации по оборудованию
 
 ### Рекомендуемое оборудование

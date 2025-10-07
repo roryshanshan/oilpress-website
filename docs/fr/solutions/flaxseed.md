@@ -39,6 +39,16 @@ Les graines de lin sont une culture oléagineuse importante, l'huile de graines 
 <div class="video-container">
   <iframe width="700" height="330" src="https://www.youtube.com/embed/Ye3Ni2Lz9cM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+## Vidéo de production d'huile de graines de lin pressée à froid
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/foGFBDrm-a0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/IjIx4_hpdOY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Recommandations d'équipement
 
 ### Équipement recommandé

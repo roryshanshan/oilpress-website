@@ -40,6 +40,15 @@ Flaxseed is an important oil crop, flaxseed oil has unique nutritional value and
   <iframe width="700" height="330" src="https://www.youtube.com/embed/Ye3Ni2Lz9cM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Cold Pressed Flaxseed Oil Production Video
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/foGFBDrm-a0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/IjIx4_hpdOY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Equipment Recommendations
 
 ### Recommended Equipment
