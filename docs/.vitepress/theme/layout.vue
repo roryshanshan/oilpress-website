@@ -520,6 +520,7 @@ import DefaultTheme from 'vitepress/theme'
 import { useData, useRouter } from 'vitepress'
 import { computed, ref, onMounted, onUnmounted } from 'vue'
 import { injectSpeedInsights } from '@vercel/speed-insights'
+import { inject } from '@vercel/analytics'
 
 const { Layout } = DefaultTheme
 const { frontmatter, site, page } = useData()
@@ -709,6 +710,9 @@ onMounted(() => {
 
   // 注入Vercel Speed Insights
   injectSpeedInsights()
+
+  // 注入Vercel Analytics
+  inject()
 
   document.addEventListener('click', handleClickOutside)
 
