@@ -20,6 +20,27 @@ keywords: Peanut solutions, Peanut oil pressing, Peanut processing equipment, Pe
 
 Peanut is an important oilseed and cash crop, and peanut oil has unique aroma and rich nutritional value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional peanut pressing solutions to meet different needs from small workshops to large factories.
 
+## Peanut Hot Pressing Process Description
++ Peanut (recommended 300AC-390/325AC-390/355AC-390/400AC-390)
++ Peanut Oil (Aromatic Type) Hot Pressing Process: Crush peanuts - flat-bottomed wok frying peanut grits - directly feed into hydraulic oil press bucket for pressing
+   + The peanut oil produced by this process has a rich aroma, golden and bright color, good taste, and does not require hydration treatment with no foaming when cooking.
+   + Basically no filtration treatment is needed, just sedimentation and bottling. This is the pressing process adopted by COFCO Group's premium peanut oil (the crushing, frying, pressing, and filtration equipment for this project are provided by our factory).
+   + ![](/images/花生热榨工艺.png)
+
+## Processing Technology Videos
+
+<div class="video-container">
+  <iframe width="700" height="330" src="https://www.youtube.com/embed/ggkjZM5n0vM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/VAdu4VcKCpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/NoGVyosPoeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Product Introduction
 
 This machine adopts advanced computer-aided design and manufacturing CAD/CAM, sourced from German technology high and low pressure dual pump combination ultra-high pressure hydraulic system, making the whole machine have the advantages of simple operation, large pressing force, low residual oil rate in cake, high production efficiency, energy saving and efficiency, and can also achieve constant temperature self-control, greatly reducing the labor intensity of workers. Its characteristics are mainly reflected in the following aspects:
@@ -74,26 +95,6 @@ Hydraulic oil press uses pure physical extrusion principle, without adding any c
 5️⃣ Natural Flavor and Taste
 	•	Peanut oil has a rich aroma, soft taste, can enhance the flavor of dishes, especially suitable for Chinese cooking.
 
-## Peanut Hot Pressing Process Description
-+ Peanut (recommended 300AC-390/325AC-390/355AC-390/400AC-390)
-+ Peanut Oil (Aromatic Type) Hot Pressing Process: Crush peanuts - flat-bottomed wok frying peanut grits - directly feed into hydraulic oil press bucket for pressing
-   + The peanut oil produced by this process has a rich aroma, golden and bright color, good taste, and does not require hydration treatment with no foaming when cooking.
-   + Basically no filtration treatment is needed, just sedimentation and bottling. This is the pressing process adopted by COFCO Group's premium peanut oil (the crushing, frying, pressing, and filtration equipment for this project are provided by our factory).
-   + ![](/images/花生热榨工艺.png)
-
-## Processing Technology Videos
-
-<div class="video-container">
-  <iframe width="700" height="330" src="https://www.youtube.com/embed/ggkjZM5n0vM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/VAdu4VcKCpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/NoGVyosPoeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ### ⚙️ Hydraulic Oil Press Core Features
 ### ⚙️ Technical Highlights
@@ -134,33 +135,13 @@ Hydraulic oil press uses pure physical extrusion principle, without adding any c
 - ✅ One-year warranty, lifetime maintenance
 - ✅ Customized exclusive production lines and logo identification
 
+## Oil Quality and Process Optimization
+
 ### 💧 Oil Quality and Process Optimization
 - No chemical additives in the pressing process;
 - Pure oil output, transparent, no bubbles;
 - Suitable for sesame, walnut, peanut and other high-oil oilseeds;
 - Can be configured with automatic feeding and filtering system to achieve integrated operation.
-
-### 💧 Oil Quality Guarantee
-- Hot pressing process highlights aroma
-- Physical pressing ensures purity
-- Oil yield up to 48-50%
-
-### 🔄 Continuous Production
-- Automated production process
-- Continuous pressing technology
-- Intelligent quality monitoring
-
-## Equipment Recommendations
-
-### Recommended Equipment
-- **Peanut**: 300AC-390/325AC-390/355AC-390/400AC-390
-
-## Technical Advantages
-
-### 🎯 Precise Control
-- Temperature control: ±2℃ accuracy
-- Pressure control: Intelligent adjustment
-- Roasting time: Optimal process parameters
 
 ### 💧 Oil Quality Guarantee
 - Hot pressing process highlights aroma
