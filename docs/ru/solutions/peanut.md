@@ -5,7 +5,7 @@ keywords: Решения для арахиса, Отжим масла арахи
 ---
 
 # Решения для арахиса (Масло арахиса)
-![Пресс для масла серии 300](https://i.postimg.cc/hDSpTNj7/202509021048710.png?dl=1)
+![Пресс для масла серии 300](/images/300-325-series.jpg)
 
 <div style="margin: 2rem 0;">
   <iframe width="100%" height="500" src="https://www.youtube.com/embed/3uE1lah9Dpw?autoplay=1&mute=0"

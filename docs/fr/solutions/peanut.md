@@ -5,7 +5,7 @@ keywords: Solutions d'arachide, pressage d'huile d'arachide, équipement de tran
 ---
 
 # Solutions d'arachide (huile d'arachide)
-![Presse à huile série 300](https://i.postimg.cc/hDSpTNj7/202509021048710.png?dl=1)
+![Presse à huile série 300](/images/300-325-series.jpg)
 
 <div style="margin: 2rem 0;">
   <iframe width="100%" height="500" src="https://www.youtube.com/embed/3uE1lah9Dpw?autoplay=1&mute=0"
