@@ -11,7 +11,8 @@ export default {
       { url: '/zh/', changefreq: 'daily', priority: 1.0 },
       { url: '/en/', changefreq: 'daily', priority: 1.0 },
       { url: '/ru/', changefreq: 'daily', priority: 1.0 },
-      { url: '/fr/', changefreq: 'daily', priority: 1.0 }
+      { url: '/fr/', changefreq: 'daily', priority: 1.0 },
+      { url: '/bn/', changefreq: 'daily', priority: 1.0 }
     ]
   },
   title: 'Shengshi Hecheng Oil Press',
@@ -267,6 +268,7 @@ s0.parentNode.insertBefore(s1,s0);
                   text: 'Filling Supporting Solutions',
                   collapsed: true,
                   items: [
+                    { text: 'Filling Packages Overview', link: '/en/solutions/filling-packages' },
                     { text: 'Bottle Washing Machine Series', link: '/en/solutions/bottle-washing/' },
                     { text: 'Filling Machine Series', link: '/en/solutions/filling/' },
                     { text: 'Light Inspection Machine Series', link: '/en/solutions/light-inspection/' },
@@ -550,6 +552,7 @@ s0.parentNode.insertBefore(s1,s0);
                   text: '灌装配套方案',
                   collapsed: true,
                   items: [
+                    { text: '灌装配套方案概览', link: '/zh/solutions/filling-packages' },
                     { text: '冲瓶机系列', link: '/zh/solutions/bottle-washing/' },
                     { text: '灌装机系列', link: '/zh/solutions/filling/' },
                     { text: '灯检机系列', link: '/zh/solutions/light-inspection/' },
@@ -1420,6 +1423,7 @@ s0.parentNode.insertBefore(s1,s0);
                   text: 'Solutions de remplissage',
                   collapsed: true,
                   items: [
+                    { text: 'Aperçu des solutions de remplissage', link: '/fr/solutions/filling-packages' },
                     { text: 'Série de machines à laver les bouteilles', link: '/fr/solutions/bottle-washing/' },
                     { text: 'Série de machines de remplissage', link: '/fr/solutions/filling/' },
                     { text: 'Série de machines d\'inspection lumineuse', link: '/fr/solutions/light-inspection/' },
@@ -1480,6 +1484,297 @@ s0.parentNode.insertBefore(s1,s0);
         },
         footer: {
           message: 'Fabrication professionnelle · Qualité fiable',
+          copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
+        }
+      }
+    },
+    bn: {
+      label: 'বাংলা',
+      lang: 'bn-BD',
+      title: 'শেংশি হেচেং হাইড্রোলিক অয়েল প্রেস',
+      description: 'পেশাদার অয়েল প্রেস ম্যানুফ্যাকচারার',
+      themeConfig: {
+        nav: [
+          { text: 'হোম', link: '/bn/' },
+          {
+            text: 'পণ্যসমূহ',
+            link: '/bn/products/',
+            items: [
+              { text: 'পণ্য ওভারভিউ', link: '/bn/products/' },
+              { text: '৩০০ সিরিজ', link: '/bn/products/300' },
+              { text: '৩২৫ সিরিজ', link: '/bn/products/325' },
+              { text: '৩৫৫ সিরিজ', link: '/bn/products/355' },
+              { text: '৪০০ সিরিজ', link: '/bn/products/400' },
+              { text: '৪২৬ সিরিজ', link: '/bn/products/426' },
+              { text: '৪৮০ সিরিজ', link: '/bn/products/480' },
+              { text: '৫০০ সিরিজ', link: '/bn/products/500' },
+              { text: 'যন্ত্রপাতি ব্যবহারের নির্দেশিকা', link: '/bn/products/instruction-manual' },
+              { text: 'কাস্টমাইজড হাইড্রোলিক অয়েল প্রেস', link: '/bn/products/customized-hydraulic-oil-press' },
+              { text: 'গ্রাহক অর্ডার শিপিং ভিডিও', link: '/bn/products/customer-order-shipping-video' },
+              { text: 'সহায়ক যন্ত্রপাতি', link: '/bn/products/supporting' }
+            ]
+          },
+          {
+            text: 'সমাধানসমূহ',
+            link: '/bn/solutions/',
+            items: [
+              { text: 'সমাধান ওভারভিউ', link: '/bn/solutions/' },
+              { text: 'তেলের ধরন অনুসারে', link: '/bn/solutions/seed-oils' },
+              { text: 'ফিলিং সহায়ক সমাধান', link: '/bn/solutions/filling' }
+            ]
+          },
+          { text: 'সুবিধাসমূহ', link: '/bn/advantages/' },
+          { text: 'সংবাদ', link: '/bn/news/' },
+          { text: 'আমাদের সম্পর্কে', link: '/bn/about/' },
+          { text: 'যোগাযোগ', link: '/bn/contact/' }
+        ],
+        sidebar: {
+          '/bn/products': [
+            {
+              text: 'পণ্যসমূহ',
+              collapsed: false,
+              items: [
+                { text: 'পণ্য ওভারভিউ', link: '/bn/products/' },
+                {
+                  text: '৩০০ সিরিজ',
+                  collapsed: true,
+                  items: [
+                    { text: 'সিরিজ ওভারভিউ', link: '/bn/products/300' }
+                  ]
+                },
+                {
+                  text: '৩২৫ সিরিজ',
+                  collapsed: true,
+                  items: [
+                    { text: 'সিরিজ ওভারভিউ', link: '/bn/products/325' }
+                  ]
+                },
+                {
+                  text: '৩৫৫ সিরিজ',
+                  collapsed: true,
+                  items: [
+                    { text: 'সিরিজ ওভারভিউ', link: '/bn/products/355' }
+                  ]
+                },
+                {
+                  text: '৪০০ সিরিজ',
+                  collapsed: true,
+                  items: [
+                    { text: 'সিরিজ ওভারভিউ', link: '/bn/products/400' }
+                  ]
+                },
+                {
+                  text: '৪২৬ সিরিজ',
+                  collapsed: true,
+                  items: [
+                    { text: 'সিরিজ ওভারভিউ', link: '/bn/products/426' }
+                  ]
+                },
+                {
+                  text: '৪৮০ সিরিজ',
+                  collapsed: true,
+                  items: [
+                    { text: 'সিরিজ ওভারভিউ', link: '/bn/products/480' }
+                  ]
+                },
+                {
+                  text: '৫০০ সিরিজ',
+                  collapsed: true,
+                  items: [
+                    { text: 'সিরিজ ওভারভিউ', link: '/bn/products/500' }
+                  ]
+                },
+                {
+                  text: 'যন্ত্রপাতি ব্যবহারের নির্দেশিকা',
+                  collapsed: false,
+                  items: [
+                    { text: 'ওভারভিউ', link: '/bn/products/instruction-manual' }
+                  ]
+                },
+                {
+                  text: 'কাস্টমাইজড হাইড্রোলিক অয়েল প্রেস',
+                  collapsed: false,
+                  items: [
+                    { text: 'ওভারভিউ', link: '/bn/products/customized-hydraulic-oil-press' }
+                  ]
+                },
+                {
+                  text: 'গ্রাহক অর্ডার শিপিং ভিডিও',
+                  collapsed: false,
+                  items: [
+                    { text: 'ওভারভিউ', link: '/bn/products/customer-order-shipping-video' }
+                  ]
+                },
+                {
+                  text: 'সহায়ক যন্ত্রপাতি',
+                  collapsed: false,
+                  items: [
+                    { text: 'যন্ত্রপাতি ওভারভিউ', link: '/bn/products/supporting' },
+                    {
+                      text: 'প্রাক-প্রক্রিয়াকরণ যন্ত্রপাতি',
+                      collapsed: false,
+                      items: [
+                        { text: 'ওভারভিউ', link: '/bn/products/pre-treatment' },
+                        { text: '১১কিলোওয়াট উচ্চ গতির পিষক', link: '/bn/products/11kw-high-speed-pulverizer' },
+                        { text: '২৭কিলোওয়াট বৈদ্যুতিক স্টিমার', link: '/bn/products/27kw-electric-steamer' },
+                        { text: 'শণ এবং তিসি বীজ পিষণ এবং মিশ্রণ ইন্টিগ্রেটেড মেশিন', link: '/bn/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine' },
+                        { text: 'স্বয়ংক্রিয় ড্রাম রোস্টার', link: '/bn/products/automatic-drum-roaster' },
+                        { text: 'কেক মোড়ানো মেশিন', link: '/bn/products/cake-wrapping-machine' },
+                        { text: 'ফিডিং ক্রাশিং ফ্রাইং ইন্টিগ্রেটেড মেশিন', link: '/bn/products/feeding-crushing-frying-integrated-machine' },
+                        { text: 'তাপ পরিবাহী তেল ফ্ল্যাট বটম ফ্রাইং প্যান', link: '/bn/products/heat-conducting-oil-flat-bottom-frying-pan' },
+                        { text: 'নিউম্যাটিক ফিল্টার প্রেস', link: '/bn/products/pneumatic-filter-press' },
+                        { text: 'প্রি-প্রেস মেশিন', link: '/bn/products/pre-press-machine' },
+                        { text: 'কাঠের আগুনের স্টিমার', link: '/bn/products/wood-fired-steamer' },
+                        { text: 'কাঠের আগুনের তাপীয় তেল ফ্ল্যাট বটম ওয়াক', link: '/bn/products/wood-fired-thermal-oil-flat-bottom-wok' }
+                      ]
+                    },
+                    {
+                      text: 'পোস্ট-প্রক্রিয়াকরণ যন্ত্রপাতি',
+                      collapsed: false,
+                      items: [
+                        { text: 'ওভারভিউ', link: '/bn/products/post-treatment' },
+                        { text: 'কেক পিষক', link: '/bn/products/cake-pulverizer' },
+                        { text: 'ভোজ্য তেল পরিশোধন যন্ত্রপাতি', link: '/bn/products/edible-oil-refining-equipment' }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          '/bn/solutions': [
+            {
+              text: 'সমাধানসমূহ',
+              collapsed: false,
+              items: [
+                { text: 'সমাধান ওভারভিউ', link: '/bn/solutions/' },
+                {
+                  text: 'তেলের ধরন অনুসারে',
+                  collapsed: true,
+                  items: [
+                    {
+                      text: '🌾 শস্য এবং বীজ তেল',
+                      collapsed: true,
+                      items: [
+                        { text: 'শস্য এবং বীজ তেল ওভারভিউ', link: '/bn/solutions/seed-oils' },
+                        { text: '🌱 সয়াবিন তেল', link: '/bn/solutions/soybean' },
+                        { text: '🥜 চিনাবাদাম তেল', link: '/bn/solutions/peanut' },
+                        { text: '🌰 তিলের তেল', link: '/bn/solutions/sesame' },
+                        { text: '🌿 রেপসিড তেল', link: '/bn/solutions/rapeseed' },
+                        { text: '🌻 সূর্যমুখী তেল', link: '/bn/solutions/sunflower' },
+                        { text: '🧵 তুলাবীজ তেল', link: '/bn/solutions/cottonseed' },
+                        { text: '🌾 তিসি বীজ তেল', link: '/bn/solutions/flaxseed' },
+                        { text: '🍵 চা বীজ তেল', link: '/bn/solutions/tea-seed' },
+                        { text: '🌱 পেরিলা তেল', link: '/bn/solutions/perilla' }
+                      ]
+                    },
+                    {
+                      text: '🥜 বাদাম তেল',
+                      collapsed: true,
+                      items: [
+                        { text: 'বাদাম তেল ওভারভিউ', link: '/bn/solutions/nuts' },
+                        { text: '🥥 নারকেল তেল', link: '/bn/solutions/coconut' },
+                        { text: '🌴 পাম তেল', link: '/bn/solutions/palm' },
+                        { text: '🥜 আখরোট তেল', link: '/bn/solutions/walnut' },
+                        { text: '🌰 বাদাম তেল', link: '/bn/solutions/almond' },
+                        { text: '🌰 হ্যাজেলনাট তেল', link: '/bn/solutions/hazelnut' },
+                        { text: '🥜 কাজু তেল', link: '/bn/solutions/cashew' },
+                        { text: '🥜 পেস্তা তেল', link: '/bn/solutions/pistachio' }
+                      ]
+                    },
+                    {
+                      text: '🥑 ফলের তেল',
+                      collapsed: true,
+                      items: [
+                        { text: 'ফলের তেল ওভারভিউ', link: '/bn/solutions/fruits' },
+                        { text: '🥑 অ্যাভোকাডো তেল', link: '/bn/solutions/avocado' },
+                        { text: '🍇 আঙ্গুর বীজ তেল', link: '/bn/solutions/grape-seed' },
+                        { text: '🎃 কুমড়া বীজ তেল', link: '/bn/solutions/pumpkin-seed' },
+                        { text: '🍉 তরমুজ বীজ তেল', link: '/bn/solutions/watermelon-seed' },
+                        { text: '🍑 পীচ কার্নেল তেল', link: '/bn/solutions/peach-kernel' },
+                        { text: '🌰 এপ্রিকট কার্নেল তেল', link: '/bn/solutions/apricot-kernel' }
+                      ]
+                    },
+                    {
+                      text: '⚙️ বিশেষ তেল',
+                      collapsed: true,
+                      items: [
+                        { text: 'বিশেষ তেল ওভারভিউ', link: '/bn/solutions/special-oils' },
+                        { text: '🍚 চালের ভুসি তেল', link: '/bn/solutions/rice-bran' },
+                        { text: '🌽 ভুট্টা জীবাণু তেল', link: '/bn/solutions/corn-germ' },
+                        { text: '🌿 ক্যাস্টর বীজ তেল', link: '/bn/solutions/castor-seed' },
+                        { text: '🌶️ মরিচ বীজ তেল', link: '/bn/solutions/chili-seed' },
+                        { text: '🍇 আঙ্গুর বীজ তেল', link: '/bn/solutions/grape-seed' },
+                        { text: '🌾 বাকউইট তেল', link: '/bn/solutions/buckwheat' }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  text: 'ফিলিং সহায়ক সমাধান',
+                  collapsed: true,
+                  items: [
+                    { text: 'ফিলিং প্যাকেজ ওভারভিউ', link: '/bn/solutions/filling-packages' },
+                    { text: 'বোতল ধোয়ার মেশিন সিরিজ', link: '/bn/solutions/bottle-washing/' },
+                    { text: 'ফিলিং মেশিন সিরিজ', link: '/bn/solutions/filling/' },
+                    { text: 'আলো পরিদর্শন মেশিন সিরিজ', link: '/bn/solutions/light-inspection/' },
+                    { text: 'সিলিং মেশিন সিরিজ', link: '/bn/solutions/sealing/' },
+                    { text: 'কর্কিং মেশিন সিরিজ', link: '/bn/solutions/corking/' },
+                    { text: 'ক্যাপ সঙ্কুচিত মেশিন সিরিজ', link: '/bn/solutions/cap-shrinking/' },
+                    { text: 'শুকানোর মেশিন সিরিজ', link: '/bn/solutions/drying/' },
+                    { text: 'লেবেলিং মেশিন সিরিজ', link: '/bn/solutions/labeling/' },
+                    { text: 'লেজার কোডিং মেশিন সিরিজ', link: '/bn/solutions/laser-coding/' },
+                    { text: 'প্যাকিং এবং প্যালেটাইজিং', link: '/bn/solutions/packing-palletizing/' },
+                    { text: 'ফল এবং সবজি প্রাক-প্রক্রিয়াকরণ যন্ত্রপাতি', link: '/bn/solutions/fruit-veg-processing/' },
+                    { text: 'ফিল্টারিং মেশিন সিরিজ', link: '/bn/solutions/filtering/' },
+                    { text: 'ব্রুইং যন্ত্রপাতি সিরিজ', link: '/bn/solutions/brewing/' },
+                    { text: 'দুগ্ধ প্রক্রিয়াকরণ যন্ত্রপাতি', link: '/bn/solutions/dairy-processing/' }
+                  ]
+                }
+              ]
+            }
+          ],
+          '/bn/about': [
+            {
+              text: 'আমাদের সম্পর্কে',
+              collapsed: false,
+              items: [
+                { text: 'কোমপানি প্রোফাইল', link: '/bn/about/' },
+                { text: 'কর্পোরেট কালচার', link: '/bn/about/culture' },
+                { text: 'উন্নয়ন ইতিহাস', link: '/bn/about/history' },
+                { text: 'সম্মান এবং যোগ্যতা', link: '/bn/about/honors' },
+                { text: 'টিম পরিচিতি', link: '/bn/about/team' }
+              ]
+            }
+          ],
+          '/bn/advantages': [
+            {
+              text: 'কোমপানির সুবিধাসমূহ',
+              collapsed: false,
+              items: [
+                { text: 'সুবিধা ওভারভিউ', link: '/bn/advantages/' },
+                { text: 'প্রযুক্তিগত উদ্ভাবন', link: '/bn/advantages/innovation' },
+                { text: 'গুণমান নিশ্চিতি', link: '/bn/advantages/quality' },
+                { text: 'সেবা এবং সহায়তা', link: '/bn/advantages/service' },
+                { text: 'সাফল্যের কেস', link: '/bn/advantages/cases' }
+              ]
+            }
+          ],
+          '/bn/news': [
+            {
+              text: 'সংবাদ',
+              collapsed: false,
+              items: [
+                { text: 'সংবাদ কেন্দ্র', link: '/bn/news/' },
+                { text: 'কোমপানি সংবাদ', link: '/bn/news/company' },
+                { text: 'শিল্প সংবাদ', link: '/bn/news/industry' },
+                { text: 'প্রযুক্তিগত জ্ঞান', link: '/bn/news/technology' }
+              ]
+            }
+          ]
+        },
+        footer: {
+          message: 'পেশাদার উৎপাদন · বিশ্বস্ত গুণমান',
           copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
         }
       }
