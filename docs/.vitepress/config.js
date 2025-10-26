@@ -62,12 +62,12 @@ s0.parentNode.insertBefore(s1,s0);
       lang: 'en',
       themeConfig: {
         nav: [
-          { text: 'Home', link: '/en/' },
+          { text: '🏠 Home', link: '/en/' },
           {
-            text: 'Products',
+            text: '🛠️ Products',
             link: '/en/products/',
             items: [
-              { text: 'Product Overview', link: '/en/products/' },
+              { text: '📋 Product Overview', link: '/en/products/' },
               { text: '300 Series', link: '/en/products/300' },
               { text: '325 Series', link: '/en/products/325' },
               { text: '355 Series', link: '/en/products/355' },
@@ -75,23 +75,23 @@ s0.parentNode.insertBefore(s1,s0);
               { text: '426 Series', link: '/en/products/426' },
               { text: '480 Series', link: '/en/products/480' },
               { text: '500 Series', link: '/en/products/500' },
-              { text: 'Supporting Equipment', link: '/en/products/supporting' }
+              { text: '🔧 Supporting Equipment', link: '/en/products/supporting' }
             ]
           },
           {
-            text: 'Solutions',
+            text: '💡 Solutions',
             link: '/en/solutions/',
             items: [
-              { text: 'Solutions Overview', link: '/en/solutions/' },
-              { text: 'By Oil Type', link: '/en/solutions/seed-oils' },
-              { text: 'By Scale', link: '/en/solutions/small-workshop' },
-              { text: 'Filling Supporting Solutions', link: '/en/solutions/filling' }
+              { text: '📚 Solutions Overview', link: '/en/solutions/' },
+              { text: '🌾 By Oil Type', link: '/en/solutions/seed-oils' },
+              { text: '📏 By Scale', link: '/en/solutions/small-workshop' },
+              { text: '🏭 Filling Supporting Solutions', link: '/en/solutions/filling' }
             ]
           },
-          { text: 'Advantages', link: '/en/advantages/' },
-          { text: 'News', link: '/en/news/' },
-          { text: 'About Us', link: '/en/about/' },
-          { text: 'Contact Us', link: '/en/contact/' }
+          { text: '⭐ Advantages', link: '/en/advantages/' },
+          { text: '📰 News', link: '/en/news/' },
+          { text: '👥 About Us', link: '/en/about/' },
+          { text: '📞 Contact Us', link: '/en/contact/' }
         ],
         sidebar: {
           '/en/products': [

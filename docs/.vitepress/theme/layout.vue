@@ -17,6 +17,9 @@
             <div class="lang-option" @click.stop="switchToLanguage('en')" :class="{ 'active': currentLang === 'en' }">
               <span>English</span>
             </div>
+            <div class="lang-option" @click.stop="switchToLanguage('bn')" :class="{ 'active': currentLang === 'bn' }">
+              <span>বাংলা</span>
+            </div>
             <div class="lang-option" @click.stop="switchToLanguage('ru')" :class="{ 'active': currentLang === 'ru' }">
               <span>Русский</span>
             </div>
@@ -70,52 +73,52 @@
   <div class="custom-mobile-menu" v-if="showMobileMenu" @click.self="toggleMobileMenu">
     <div class="mobile-nav-content" @click.stop>
       <div class="mobile-nav-header">
-        <h3>{{ currentLang === 'zh' ? '菜单' : currentLang === 'ru' ? 'Меню' : currentLang === 'fr' ? 'Menu' : 'Menu' }}</h3>
+        <h3>{{ currentLang === 'zh' ? '菜单' : currentLang === 'ru' ? 'Меню' : currentLang === 'fr' ? 'Menu' : currentLang === 'bn' ? 'মেনু' : 'Menu' }}</h3>
         <button class="close-btn" @click.stop="toggleMobileMenu">×</button>
       </div>
       
       <div class="mobile-nav-menu">
         <!-- 首页 -->
-        <a :href="currentLang === 'zh' ? '/zh/' : currentLang === 'ru' ? '/ru/' : currentLang === 'fr' ? '/fr/' : '/en/'" class="mobile-nav-link" @click="closeMobileMenu">
-          {{ currentLang === 'zh' ? '首页' : currentLang === 'ru' ? 'Главная' : currentLang === 'fr' ? 'Accueil' : 'Home' }}
+        <a :href="currentLang === 'zh' ? '/zh/' : currentLang === 'ru' ? '/ru/' : currentLang === 'fr' ? '/fr/' : currentLang === 'bn' ? '/bn/' : '/en/'" class="mobile-nav-link" @click="closeMobileMenu">
+          {{ currentLang === 'zh' ? '首页' : currentLang === 'ru' ? 'Главная' : currentLang === 'fr' ? 'Accueil' : currentLang === 'bn' ? 'হোম' : 'Home' }}
         </a>
 
         <!-- 产品系列 -->
         <div class="mobile-nav-item">
           <div class="mobile-nav-link has-submenu" @click="toggleSubmenu('products')">
-            <span>{{ currentLang === 'zh' ? '产品系列' : currentLang === 'ru' ? 'Продукты' : currentLang === 'fr' ? 'Produits' : 'Products' }}</span>
+            <span>{{ currentLang === 'zh' ? '产品系列' : currentLang === 'ru' ? 'Продукты' : currentLang === 'fr' ? 'Produits' : currentLang === 'bn' ? 'পণ্যসমূহ' : 'Products' }}</span>
             <svg class="submenu-icon" :class="{ 'rotated': expandedMenus.products }" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
               <polyline points="6,9 12,15 18,9"></polyline>
             </svg>
           </div>
           <div class="mobile-submenu" v-show="expandedMenus.products">
-            <a :href="currentLang === 'zh' ? '/zh/products/' : currentLang === 'ru' ? '/ru/products/' : currentLang === 'fr' ? '/fr/products/' : '/en/products/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '产品概览' : currentLang === 'ru' ? 'Обзор продуктов' : currentLang === 'fr' ? 'Aperçu des produits' : 'Product Overview' }}
+            <a :href="currentLang === 'zh' ? '/zh/products/' : currentLang === 'ru' ? '/ru/products/' : currentLang === 'fr' ? '/fr/products/' : currentLang === 'bn' ? '/bn/products/' : '/en/products/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '产品概览' : currentLang === 'ru' ? 'Обзор продуктов' : currentLang === 'fr' ? 'Aperçu des produits' : currentLang === 'bn' ? 'পণ্য সংক্ষিপ্ত বিবরণ' : 'Product Overview' }}
             </a>
-            <a :href="currentLang === 'zh' ? '/zh/products/300' : currentLang === 'ru' ? '/ru/products/300' : currentLang === 'fr' ? '/fr/products/300' : '/en/products/300'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '300系列' : currentLang === 'ru' ? 'Серия 300' : currentLang === 'fr' ? 'Série 300' : '300 Series' }}
+            <a :href="currentLang === 'zh' ? '/zh/products/300' : currentLang === 'ru' ? '/ru/products/300' : currentLang === 'fr' ? '/fr/products/300' : currentLang === 'bn' ? '/bn/products/300' : '/en/products/300'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '300系列' : currentLang === 'ru' ? 'Серия 300' : currentLang === 'fr' ? 'Série 300' : currentLang === 'bn' ? '৩০০ সিরিজ' : '300 Series' }}
             </a>
-            <a :href="currentLang === 'zh' ? '/zh/products/325' : currentLang === 'ru' ? '/ru/products/325' : currentLang === 'fr' ? '/fr/products/325' : '/en/products/325'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '325系列' : currentLang === 'ru' ? 'Серия 325' : currentLang === 'fr' ? 'Série 325' : '325 Series' }}
+            <a :href="currentLang === 'zh' ? '/zh/products/325' : currentLang === 'ru' ? '/ru/products/325' : currentLang === 'fr' ? '/fr/products/325' : currentLang === 'bn' ? '/bn/products/325' : '/en/products/325'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '325系列' : currentLang === 'ru' ? 'Серия 325' : currentLang === 'fr' ? 'Série 325' : currentLang === 'bn' ? '৩২৫ সিরিজ' : '325 Series' }}
             </a>
-            <a :href="currentLang === 'zh' ? '/zh/products/355' : currentLang === 'ru' ? '/ru/products/355' : currentLang === 'fr' ? '/fr/products/355' : '/en/products/355'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '355系列' : currentLang === 'ru' ? 'Серия 355' : currentLang === 'fr' ? 'Série 355' : '355 Series' }}
+            <a :href="currentLang === 'zh' ? '/zh/products/355' : currentLang === 'ru' ? '/ru/products/355' : currentLang === 'fr' ? '/fr/products/355' : currentLang === 'bn' ? '/bn/products/355' : '/en/products/355'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '355系列' : currentLang === 'ru' ? 'Серия 355' : currentLang === 'fr' ? 'Série 355' : currentLang === 'bn' ? '৩৫৫ সিরিজ' : '355 Series' }}
             </a>
-            <a :href="currentLang === 'zh' ? '/zh/products/400' : currentLang === 'ru' ? '/ru/products/400' : currentLang === 'fr' ? '/fr/products/400' : '/en/products/400'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '400系列' : currentLang === 'ru' ? 'Серия 400' : currentLang === 'fr' ? 'Série 400' : '400 Series' }}
+            <a :href="currentLang === 'zh' ? '/zh/products/400' : currentLang === 'ru' ? '/ru/products/400' : currentLang === 'fr' ? '/fr/products/400' : currentLang === 'bn' ? '/bn/products/400' : '/en/products/400'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '400系列' : currentLang === 'ru' ? 'Серия 400' : currentLang === 'fr' ? 'Série 400' : currentLang === 'bn' ? '৪০০ সিরিজ' : '400 Series' }}
             </a>
-            <a :href="currentLang === 'zh' ? '/zh/products/426' : currentLang === 'ru' ? '/ru/products/426' : currentLang === 'fr' ? '/fr/products/426' : '/en/products/426'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '426系列' : currentLang === 'ru' ? 'Серия 426' : currentLang === 'fr' ? 'Série 426' : '426 Series' }}
+            <a :href="currentLang === 'zh' ? '/zh/products/426' : currentLang === 'ru' ? '/ru/products/426' : currentLang === 'fr' ? '/fr/products/426' : currentLang === 'bn' ? '/bn/products/426' : '/en/products/426'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '426系列' : currentLang === 'ru' ? 'Серия 426' : currentLang === 'fr' ? 'Série 426' : currentLang === 'bn' ? '৪২৬ সিরিজ' : '426 Series' }}
             </a>
-            <a :href="currentLang === 'zh' ? '/zh/products/480' : currentLang === 'ru' ? '/ru/products/480' : currentLang === 'fr' ? '/fr/products/480' : '/en/products/480'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '480系列' : currentLang === 'ru' ? 'Серия 480' : currentLang === 'fr' ? 'Série 480' : '480 Series' }}
+            <a :href="currentLang === 'zh' ? '/zh/products/480' : currentLang === 'ru' ? '/ru/products/480' : currentLang === 'fr' ? '/fr/products/480' : currentLang === 'bn' ? '/bn/products/480' : '/en/products/480'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '480系列' : currentLang === 'ru' ? 'Серия 480' : currentLang === 'fr' ? 'Série 480' : currentLang === 'bn' ? '৪৮০ সিরিজ' : '480 Series' }}
             </a>
-            <a :href="currentLang === 'zh' ? '/zh/products/500' : currentLang === 'ru' ? '/ru/products/500' : currentLang === 'fr' ? '/fr/products/500' : '/en/products/500'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '500系列' : currentLang === 'ru' ? 'Серия 500' : currentLang === 'fr' ? 'Série 500' : '500 Series' }}
+            <a :href="currentLang === 'zh' ? '/zh/products/500' : currentLang === 'ru' ? '/ru/products/500' : currentLang === 'fr' ? '/fr/products/500' : currentLang === 'bn' ? '/bn/products/500' : '/en/products/500'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '500系列' : currentLang === 'ru' ? 'Серия 500' : currentLang === 'fr' ? 'Série 500' : currentLang === 'bn' ? '৫০০ সিরিজ' : '500 Series' }}
             </a>
             <div class="mobile-nav-subitem">
               <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('supporting')">
-                <span>{{ currentLang === 'zh' ? '↳ 配套设备详情' : currentLang === 'ru' ? '↳ Вспомогательное оборудование' : currentLang === 'fr' ? '↳ Équipements complémentaires' : 'Supporting Equipment Details' }}</span>
+                <span>{{ currentLang === 'zh' ? '↳ 配套设备详情' : currentLang === 'ru' ? '↳ Вспомогательное оборудование' : currentLang === 'fr' ? '↳ Équipements complémentaires' : currentLang === 'bn' ? '↳ সহায়ক সরঞ্জামের বিবরণ' : 'Supporting Equipment Details' }}</span>
                 <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus.supporting }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                   <polyline points="6,9 12,15 18,9"></polyline>
                 </svg>
@@ -144,8 +147,8 @@
                     <a :href="currentLang === 'zh' ? '/zh/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine' : '/en/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
                       {{ currentLang === 'zh' ? '胡麻亚麻籽研磨搅拌一体机' : 'Hemp and Flaxseed Grinding and Stirring Integrated Machine' }}
                     </a>
-                    <a :href="currentLang === 'zh' ? '/zh/products/automatic-drum-roaster' : '/en/products/automatic-drum-roaster'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                      {{ currentLang === 'zh' ? '自动滚筒炒锅' : 'Automatic Drum Roaster' }}
+                    <a :href="currentLang === 'zh' ? '/zh/products/automatic-drum-roaster' : currentLang === 'bn' ? '/bn/products/automatic-drum-roaster' : '/en/products/automatic-drum-roaster'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '自动滚筒炒锅' : currentLang === 'bn' ? 'স্বয়ংক্রিয় ড্রাম রোস্টার' : 'Automatic Drum Roaster' }}
                     </a>
                     <a :href="currentLang === 'zh' ? '/zh/products/cake-wrapping-machine' : '/en/products/cake-wrapping-machine'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
                       {{ currentLang === 'zh' ? '饼粕包饼机' : 'Cake Wrapping Machine' }}
@@ -172,20 +175,20 @@
                 </div>
                 <div class="mobile-nav-subitem">
                   <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('post-treatment')">
-                    <span>{{ currentLang === 'zh' ? '↳ 后处理设备详情' : currentLang === 'ru' ? '↳ Оборудование последующей обработки' : currentLang === 'fr' ? '↳ Équipements de post-traitement' : 'Post-treatment Equipment Details' }}</span>
+                    <span>{{ currentLang === 'zh' ? '↳ 后处理设备详情' : currentLang === 'ru' ? '↳ Оборудование последующей обработки' : currentLang === 'fr' ? '↳ Équipements de post-traitement' : currentLang === 'bn' ? '↳ পোস্ট-ট্রিটমেন্ট সরঞ্জামের বিবরণ' : 'Post-treatment Equipment Details' }}</span>
                     <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['post-treatment'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                       <polyline points="6,9 12,15 18,9"></polyline>
                     </svg>
                   </div>
                   <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['post-treatment']">
-                    <a :href="currentLang === 'zh' ? '/zh/products/post-treatment' : currentLang === 'ru' ? '/ru/products/post-treatment' : currentLang === 'fr' ? '/fr/products/post-treatment' : '/en/products/post-treatment'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                      {{ currentLang === 'zh' ? '概述' : currentLang === 'ru' ? 'Обзор' : currentLang === 'fr' ? 'Aperçu' : 'Overview' }}
+                    <a :href="currentLang === 'zh' ? '/zh/products/post-treatment' : currentLang === 'ru' ? '/ru/products/post-treatment' : currentLang === 'fr' ? '/fr/products/post-treatment' : currentLang === 'bn' ? '/bn/products/post-treatment' : '/en/products/post-treatment'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '概述' : currentLang === 'ru' ? 'Обзор' : currentLang === 'fr' ? 'Aperçu' : currentLang === 'bn' ? 'সংক্ষিপ্ত বিবরণ' : 'Overview' }}
                     </a>
-                    <a :href="currentLang === 'zh' ? '/zh/products/cake-pulverizer' : currentLang === 'ru' ? '/ru/products/cake-pulverizer' : currentLang === 'fr' ? '/fr/products/cake-pulverizer' : '/en/products/cake-pulverizer'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                      {{ currentLang === 'zh' ? '饼粕粉碎机' : currentLang === 'ru' ? 'Измельчитель жмыха' : currentLang === 'fr' ? 'Pulvérisateur de gâteau' : 'Cake Pulverizer' }}
+                    <a :href="currentLang === 'zh' ? '/zh/products/cake-pulverizer' : currentLang === 'ru' ? '/ru/products/cake-pulverizer' : currentLang === 'fr' ? '/fr/products/cake-pulverizer' : currentLang === 'bn' ? '/bn/products/cake-pulverizer' : '/en/products/cake-pulverizer'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '饼粕粉碎机' : currentLang === 'ru' ? 'Измельчитель жмыха' : currentLang === 'fr' ? 'Pulvérisateur de gâteau' : currentLang === 'bn' ? 'কেক পালভারাইজার' : 'Cake Pulverizer' }}
                     </a>
-                    <a :href="currentLang === 'zh' ? '/zh/products/edible-oil-refining-equipment' : currentLang === 'ru' ? '/ru/products/edible-oil-refining-equipment' : currentLang === 'fr' ? '/fr/products/edible-oil-refining-equipment' : '/en/products/edible-oil-refining-equipment'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                      {{ currentLang === 'zh' ? '食用油精炼设备' : currentLang === 'ru' ? 'Оборудование для рафинирования пищевого масла' : currentLang === 'fr' ? 'Équipement de raffinage d\'huile comestible' : 'Edible Oil Refining Equipment' }}
+                    <a :href="currentLang === 'zh' ? '/zh/products/edible-oil-refining-equipment' : currentLang === 'ru' ? '/ru/products/edible-oil-refining-equipment' : currentLang === 'fr' ? '/fr/products/edible-oil-refining-equipment' : currentLang === 'bn' ? '/bn/products/edible-oil-refining-equipment' : '/en/products/edible-oil-refining-equipment'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                      {{ currentLang === 'zh' ? '食用油精炼设备' : currentLang === 'ru' ? 'Оборудование для рафинирования пищевого масла' : currentLang === 'fr' ? 'Équipement de raffinage d\'huile comestible' : currentLang === 'bn' ? 'খাদ্য তেল রিফাইনিং যন্ত্রপাতি' : 'Edible Oil Refining Equipment' }}
                     </a>
                   </div>
                 </div>
@@ -197,189 +200,189 @@
         <!-- 解决方案 -->
         <div class="mobile-nav-item">
           <div class="mobile-nav-link has-submenu" @click="toggleSubmenu('solutions')">
-            <span>{{ currentLang === 'zh' ? '解决方案' : currentLang === 'ru' ? 'Решения' : currentLang === 'fr' ? 'Solutions' : 'Solutions' }}</span>
+            <span>{{ currentLang === 'zh' ? '解决方案' : currentLang === 'ru' ? 'Решения' : currentLang === 'fr' ? 'Solutions' : currentLang === 'bn' ? 'সমাধান' : 'Solutions' }}</span>
             <svg class="submenu-icon" :class="{ 'rotated': expandedMenus.solutions }" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
               <polyline points="6,9 12,15 18,9"></polyline>
             </svg>
           </div>
           <div class="mobile-submenu" v-show="expandedMenus.solutions">
             <a :href="currentLang === 'zh' ? '/zh/solutions/' : currentLang === 'ru' ? '/ru/solutions/' : currentLang === 'fr' ? '/fr/solutions/' : '/en/solutions/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '方案概览' : currentLang === 'ru' ? 'Обзор решений' : currentLang === 'fr' ? 'Aperçu des solutions' : 'Overview' }}
+              {{ currentLang === 'zh' ? '方案概览' : currentLang === 'ru' ? 'Обзор решений' : currentLang === 'fr' ? 'Aperçu des solutions' : currentLang === 'bn' ? 'সমাধানের সংক্ষিপ্ত বিবরণ' : 'Overview' }}
             </a>
             <!-- 主要类别及其二级菜单 -->
             <div class="mobile-nav-subitem">
               <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('grain-seed-oils')">
-                <span>{{ currentLang === 'zh' ? '🌾 粮油类（种子类）解决方案' : currentLang === 'ru' ? '🌾 Решения для зерновых и семенных масел' : currentLang === 'fr' ? '🌾 Solutions d\'huile de graines' : '🌾 Grain and Seed Oils Solutions' }}</span>
+                <span>{{ currentLang === 'zh' ? '🌾 粮油类（种子类）解决方案' : currentLang === 'ru' ? '🌾 Решения для зерновых и семенных масел' : currentLang === 'fr' ? '🌾 Solutions d\'huile de graines' : currentLang === 'bn' ? '🌾 শস্য ও বীজের তেলের সমাধান' : '🌾 Grain and Seed Oils Solutions' }}</span>
                 <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['grain-seed-oils'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                   <polyline points="6,9 12,15 18,9"></polyline>
                 </svg>
               </div>
               <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['grain-seed-oils']">
-                <a :href="currentLang === 'zh' ? '/zh/solutions/seed-oils' : '/en/solutions/seed-oils'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '粮油类概述' : 'Grain and Seed Oils Overview' }}
+                <a :href="currentLang === 'zh' ? '/zh/solutions/seed-oils' : currentLang === 'bn' ? '/bn/solutions/seed-oils' : '/en/solutions/seed-oils'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '粮油类概述' : currentLang === 'bn' ? 'শস্য ও বীজের তেল সংক্ষিপ্ত বিবরণ' : 'Grain and Seed Oils Overview' }}
                 </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/soybean' : '/en/solutions/soybean'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🌱 大豆油' : '🌱 Soybean Oil' }}
+                <a :href="currentLang === 'zh' ? '/zh/solutions/soybean' : currentLang === 'bn' ? '/bn/solutions/soybean' : '/en/solutions/soybean'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '🌱 大豆油' : currentLang === 'bn' ? '🌱 সয়াবিন তেল' : '🌱 Soybean Oil' }}
                 </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/peanut' : '/en/solutions/peanut'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🥜 花生油' : '🥜 Peanut Oil' }}
+                <a :href="currentLang === 'zh' ? '/zh/solutions/peanut' : currentLang === 'bn' ? '/bn/solutions/peanut' : '/en/solutions/peanut'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '🥜 花生油' : currentLang === 'bn' ? '🥜 চিনাবাদাম তেল' : '🥜 Peanut Oil' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/sesame' : '/en/solutions/sesame'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🌰 芝麻油' : '🌰 Sesame Oil' }}
+                  {{ currentLang === 'zh' ? '🌰 芝麻油' : currentLang === 'bn' ? '🌰 তিলের তেল' : '🌰 Sesame Oil' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/rapeseed' : '/en/solutions/rapeseed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🌿 菜籽油' : '🌿 Rapeseed Oil' }}
+                  {{ currentLang === 'zh' ? '🌿 菜籽油' : currentLang === 'bn' ? '🌿 সরিষার তেল' : '🌿 Rapeseed Oil' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/sunflower' : '/en/solutions/sunflower'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🌻 向日葵油' : '🌻 Sunflower Oil' }}
+                  {{ currentLang === 'zh' ? '🌻 向日葵油' : currentLang === 'bn' ? '🌻 সূর্যমুখী তেল' : '🌻 Sunflower Oil' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/cottonseed' : '/en/solutions/cottonseed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🧵 棉籽油' : '🧵 Cottonseed Oil' }}
+                  {{ currentLang === 'zh' ? '🧵 棉籽油' : currentLang === 'bn' ? '🧵 তুলার বীজের তেল' : '🧵 Cottonseed Oil' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/flaxseed' : '/en/solutions/flaxseed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🌾 亚麻籽油' : '🌾 Flaxseed Oil' }}
+                  {{ currentLang === 'zh' ? '🌾 亚麻籽油' : currentLang === 'bn' ? '🌾 তিসির তেল' : '🌾 Flaxseed Oil' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/tea-seed' : '/en/solutions/tea-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🍵 茶籽油' : '🍵 Tea Seed Oil' }}
+                  {{ currentLang === 'zh' ? '🍵 茶籽油' : currentLang === 'bn' ? '🍵 চা বীজের তেল' : '🍵 Tea Seed Oil' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/perilla' : '/en/solutions/perilla'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🌱 紫苏油' : '🌱 Perilla Oil' }}
+                  {{ currentLang === 'zh' ? '🌱 紫苏油' : currentLang === 'bn' ? '🌱 পেরিলা তেল' : '🌱 Perilla Oil' }}
                 </a>
               </div>
             </div>
 
             <div class="mobile-nav-subitem">
               <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('nut-oils')">
-                <span>{{ currentLang === 'zh' ? '🥜 坚果类油料解决方案' : currentLang === 'ru' ? '🥜 Решения для ореховых масел' : currentLang === 'fr' ? '🥜 Solutions d\'huile de noix' : '🥜 Nut Oils Solutions' }}</span>
+                <span>{{ currentLang === 'zh' ? '🥜 坚果类油料解决方案' : currentLang === 'ru' ? '🥜 Решения для ореховых масел' : currentLang === 'fr' ? '🥜 Solutions d\'huile de noix' : currentLang === 'bn' ? '🥜 বাদামের তেলের সমাধান' : '🥜 Nut Oils Solutions' }}</span>
                 <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['nut-oils'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                   <polyline points="6,9 12,15 18,9"></polyline>
                 </svg>
               </div>
               <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['nut-oils']">
-                <a :href="currentLang === 'zh' ? '/zh/solutions/nuts' : '/en/solutions/nuts'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '坚果油概述' : 'Nut Oils Overview' }}
+                <a :href="currentLang === 'zh' ? '/zh/solutions/nuts' : currentLang === 'bn' ? '/bn/solutions/nuts' : '/en/solutions/nuts'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '坚果油概述' : currentLang === 'bn' ? 'বাদামের তেলের সংক্ষিপ্ত বিবরণ' : 'Nut Oils Overview' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/walnut' : '/en/solutions/walnut'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🌰 核桃油' : '🌰 Walnut Oil' }}
+                  {{ currentLang === 'zh' ? '🌰 核桃油' : currentLang === 'bn' ? '🌰 আখরোট তেল' : '🌰 Walnut Oil' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/hazelnut' : '/en/solutions/hazelnut'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🌰 榛子油' : '🌰 Hazelnut Oil' }}
+                  {{ currentLang === 'zh' ? '🌰 榛子油' : currentLang === 'bn' ? '🌰 হেজেলনাট তেল' : '🌰 Hazelnut Oil' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/apricot-kernel' : '/en/solutions/apricot-kernel'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🌰 杏仁油' : '🌰 Apricot Kernel Oil' }}
+                  {{ currentLang === 'zh' ? '🌰 杏仁油' : currentLang === 'bn' ? '🌰 খুবানি শাঁসের তেল' : '🌰 Apricot Kernel Oil' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/coconut' : '/en/solutions/coconut'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🥥 椰子油' : '🥥 Coconut Oil' }}
+                  {{ currentLang === 'zh' ? '🥥 椰子油' : currentLang === 'bn' ? '🥥 নারিকেল তেল' : '🥥 Coconut Oil' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/cashew' : '/en/solutions/cashew'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🥜 腰果油' : '🥜 Cashew Oil' }}
+                  {{ currentLang === 'zh' ? '🥜 腰果油' : currentLang === 'bn' ? '🥜 কাজু বাদামের তেল' : '🥜 Cashew Oil' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/pistachio' : '/en/solutions/pistachio'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🥜 开心果油' : '🥜 Pistachio Oil' }}
+                  {{ currentLang === 'zh' ? '🥜 开心果油' : currentLang === 'bn' ? '🥜 পেস্তা বাদামের তেল' : '🥜 Pistachio Oil' }}
                 </a>
               </div>
             </div>
 
             <div class="mobile-nav-subitem">
               <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('fruit-oils')">
-                <span>{{ currentLang === 'zh' ? '🥑 果实类油料解决方案' : currentLang === 'ru' ? '🥑 Решения для фруктовых масел' : currentLang === 'fr' ? '🥑 Solutions d\'huile de fruits' : '🥑 Fruit Oils Solutions' }}</span>
+                <span>{{ currentLang === 'zh' ? '🥑 果实类油料解决方案' : currentLang === 'ru' ? '🥑 Решения для фруктовых масел' : currentLang === 'fr' ? '🥑 Solutions d\'huile de fruits' : currentLang === 'bn' ? '🥑 ফলের তেলের সমাধান' : '🥑 Fruit Oils Solutions' }}</span>
                 <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['fruit-oils'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                   <polyline points="6,9 12,15 18,9"></polyline>
                 </svg>
               </div>
               <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['fruit-oils']">
-                <a :href="currentLang === 'zh' ? '/zh/solutions/fruits' : '/en/solutions/fruits'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '水果油概述' : 'Fruit Oils Overview' }}
+                <a :href="currentLang === 'zh' ? '/zh/solutions/fruits' : currentLang === 'bn' ? '/bn/solutions/fruits' : '/en/solutions/fruits'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '水果油概述' : currentLang === 'bn' ? 'ফলের তেলের সংক্ষিপ্ত বিবরণ' : 'Fruit Oils Overview' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/avocado' : '/en/solutions/avocado'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🥑 鳄梨油' : '🥑 Avocado Oil' }}
+                  {{ currentLang === 'zh' ? '🥑 鳄梨油' : currentLang === 'bn' ? '🥑 এভোকাডো তেল' : '🥑 Avocado Oil' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/grape-seed' : '/en/solutions/grape-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🍇 葡萄籽油' : '🍇 Grape Seed Oil' }}
+                  {{ currentLang === 'zh' ? '🍇 葡萄籽油' : currentLang === 'bn' ? '🍇 আঙ্গুর বীজের তেল' : '🍇 Grape Seed Oil' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/pumpkin-seed' : '/en/solutions/pumpkin-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🎃 南瓜籽油' : '🎃 Pumpkin Seed Oil' }}
+                  {{ currentLang === 'zh' ? '🎃 南瓜籽油' : currentLang === 'bn' ? '🎃 কুমড়ার বীজের তেল' : '🎃 Pumpkin Seed Oil' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/watermelon-seed' : '/en/solutions/watermelon-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🍉 西瓜籽油' : '🍉 Watermelon Seed Oil' }}
+                  {{ currentLang === 'zh' ? '🍉 西瓜籽油' : currentLang === 'bn' ? '🍉 তরমুজের বীজের তেল' : '🍉 Watermelon Seed Oil' }}
                 </a>
               </div>
             </div>
 
             <div class="mobile-nav-subitem">
               <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('special-oils')">
-                <span>{{ currentLang === 'zh' ? '⚙️ 其他特殊油料解决方案' : currentLang === 'ru' ? '⚙️ Решения для специальных масел' : currentLang === 'fr' ? '⚙️ Solutions d\'huiles spéciales' : '⚙️ Special Oils Solutions' }}</span>
+                <span>{{ currentLang === 'zh' ? '⚙️ 其他特殊油料解决方案' : currentLang === 'ru' ? '⚙️ Решения для специальных масел' : currentLang === 'fr' ? '⚙️ Solutions d\'huiles spéciales' : currentLang === 'bn' ? '⚙️ বিশেষ তেলের সমাধান' : '⚙️ Special Oils Solutions' }}</span>
                 <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus['special-oils'] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                   <polyline points="6,9 12,15 18,9"></polyline>
                 </svg>
               </div>
               <div class="mobile-nested-submenu" v-show="nestedExpandedMenus['special-oils']">
                 <a :href="currentLang === 'zh' ? '/zh/solutions/special-oils' : '/en/solutions/special-oils'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '特种油料概述' : 'Special Oils Overview' }}
+                  {{ currentLang === 'zh' ? '特种油料概述' : currentLang === 'bn' ? 'বিশেষ তেলের সংক্ষিপ্ত বিবরণ' : 'Special Oils Overview' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/rice-bran' : '/en/solutions/rice-bran'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🌾 米糠油' : '🌾 Rice Bran Oil' }}
+                  {{ currentLang === 'zh' ? '🌾 米糠油' : currentLang === 'bn' ? '🌾 চালের কুঁড়োর তেল' : '🌾 Rice Bran Oil' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/corn-germ' : '/en/solutions/corn-germ'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🌽 玉米胚芽油' : '🌽 Corn Germ Oil' }}
+                  {{ currentLang === 'zh' ? '🌽 玉米胚芽油' : currentLang === 'bn' ? '🌽 ভুট্টার অঙ্কুর তেল' : '🌽 Corn Germ Oil' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/castor-seed' : '/en/solutions/castor-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🌱 蓖麻籽油' : '🌱 Castor Seed Oil' }}
+                  {{ currentLang === 'zh' ? '🌱 蓖麻籽油' : currentLang === 'bn' ? '🌱 ভেরেন্ডা বীজের তেল' : '🌱 Castor Seed Oil' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/chili-seed' : '/en/solutions/chili-seed'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '🌶️ 辣椒籽油' : '🌶️ Chili Seed Oil' }}
+                  {{ currentLang === 'zh' ? '🌶️ 辣椒籽油' : currentLang === 'bn' ? '🌶️ মরিচের বীজের তেল' : '🌶️ Chili Seed Oil' }}
                 </a>
               </div>
             </div>
             <div class="mobile-nav-subitem">
               <div class="mobile-nav-sublink has-nested-submenu" @click="toggleNestedSubmenu('filling')">
-                <span>{{ currentLang === 'zh' ? '↳ 灌装配套方案详情' : 'Filling Supporting Solutions Details' }}</span>
+                <span>{{ currentLang === 'zh' ? '↳ 灌装配套方案详情' : currentLang === 'bn' ? '↳ ফিলিং সহায়ক সমাধানের বিবরণ' : 'Filling Supporting Solutions Details' }}</span>
                 <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus.filling }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                   <polyline points="6,9 12,15 18,9"></polyline>
                 </svg>
               </div>
               <div class="mobile-nested-submenu" v-show="nestedExpandedMenus.filling">
-                <a :href="currentLang === 'zh' ? '/zh/solutions/bottle-washing/' : '/en/solutions/bottle-washing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '冲瓶机系列' : 'Bottle Washing Machine Series' }}
+                <a :href="currentLang === 'zh' ? '/zh/solutions/bottle-washing/' : currentLang === 'bn' ? '/bn/solutions/bottle-washing/' : '/en/solutions/bottle-washing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '冲瓶机系列' : currentLang === 'bn' ? 'বোতল ধোয়ার মেশিন সিরিজ' : 'Bottle Washing Machine Series' }}
                 </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/filling/' : '/en/solutions/filling/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '灌装机系列' : 'Filling Machine Series' }}
+                <a :href="currentLang === 'zh' ? '/zh/solutions/filling/' : currentLang === 'bn' ? '/bn/solutions/filling/' : '/en/solutions/filling/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '灌装机系列' : currentLang === 'bn' ? 'ফিলিং মেশিন সিরিজ' : 'Filling Machine Series' }}
                 </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/light-inspection/' : '/en/solutions/light-inspection/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '灯检机系列' : 'Light Inspection Machine Series' }}
+                <a :href="currentLang === 'zh' ? '/zh/solutions/light-inspection/' : currentLang === 'bn' ? '/bn/solutions/light-inspection/' : '/en/solutions/light-inspection/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '灯检机系列' : currentLang === 'bn' ? 'আলো পরীক্ষণ মেশিন সিরিজ' : 'Light Inspection Machine Series' }}
                 </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/sealing/' : '/en/solutions/sealing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '封口机系列' : 'Sealing Machine Series' }}
+                <a :href="currentLang === 'zh' ? '/zh/solutions/sealing/' : currentLang === 'bn' ? '/bn/solutions/sealing/' : '/en/solutions/sealing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '封口机系列' : currentLang === 'bn' ? 'সিলিং মেশিন সিরিজ' : 'Sealing Machine Series' }}
                 </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/corking/' : '/en/solutions/corking/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '打塞机系列' : 'Corking Machine Series' }}
+                <a :href="currentLang === 'zh' ? '/zh/solutions/corking/' : currentLang === 'bn' ? '/bn/solutions/corking/' : '/en/solutions/corking/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
+                  {{ currentLang === 'zh' ? '打塞机系列' : currentLang === 'bn' ? 'কর্কিং মেশিন সিরিজ' : 'Corking Machine Series' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/cap-shrinking/' : '/en/solutions/cap-shrinking/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '胶帽热缩机系列' : 'Cap Shrinking Machine Series' }}
+                  {{ currentLang === 'zh' ? '胶帽热缩机系列' : currentLang === 'bn' ? 'ক্যাপ শ্রিংকিং মেশিন সিরিজ' : 'Cap Shrinking Machine Series' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/drying/' : '/en/solutions/drying/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '吹干机系列' : 'Drying Machine Series' }}
+                  {{ currentLang === 'zh' ? '吹干机系列' : currentLang === 'bn' ? 'শুকানো মেশিন সিরিজ' : 'Drying Machine Series' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/labeling/' : '/en/solutions/labeling/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '贴标机系列' : 'Labeling Machine Series' }}
+                  {{ currentLang === 'zh' ? '贴标机系列' : currentLang === 'bn' ? 'লেবেলিং মেশিন সিরিজ' : 'Labeling Machine Series' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/laser-coding/' : '/en/solutions/laser-coding/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '激光打码机系列' : 'Laser Coding Machine Series' }}
+                  {{ currentLang === 'zh' ? '激光打码机系列' : currentLang === 'bn' ? 'লেজার কোডিং মেশিন সিরিজ' : 'Laser Coding Machine Series' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/packing-palletizing/' : '/en/solutions/packing-palletizing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '装箱、码垛' : 'Packing and Palletizing' }}
+                  {{ currentLang === 'zh' ? '装箱、码垛' : currentLang === 'bn' ? 'প্যাকিং এবং প্যালেটাইজিং' : 'Packing and Palletizing' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/fruit-veg-processing/' : '/en/solutions/fruit-veg-processing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '蔬果类前期处理设备' : 'Fruit and Vegetable Pre-processing Equipment' }}
+                  {{ currentLang === 'zh' ? '蔬果类前期处理设备' : currentLang === 'bn' ? 'ফল ও সবজি প্রি-প্রসেসিং যন্ত্রপাতি' : 'Fruit and Vegetable Pre-processing Equipment' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/filtering/' : '/en/solutions/filtering/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '过滤机系列' : 'Filtering Machine Series' }}
+                  {{ currentLang === 'zh' ? '过滤机系列' : currentLang === 'bn' ? 'ফিল্টারিং মেশিন সিরিজ' : 'Filtering Machine Series' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/brewing/' : '/en/solutions/brewing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '酿酒设备系列' : 'Brewing Equipment Series' }}
+                  {{ currentLang === 'zh' ? '酿酒设备系列' : currentLang === 'bn' ? 'ব্রুইং যন্ত্রপাতি সিরিজ' : 'Brewing Equipment Series' }}
                 </a>
                 <a :href="currentLang === 'zh' ? '/zh/solutions/dairy-processing/' : '/en/solutions/dairy-processing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '奶类加工设备' : 'Dairy Processing Equipment' }}
+                  {{ currentLang === 'zh' ? '奶类加工设备' : currentLang === 'bn' ? 'দুগ্ধ প্রক্রিয়াকরণ যন্ত্রপাতি' : 'Dairy Processing Equipment' }}
                 </a>
               </div>
             </div>
@@ -389,26 +392,26 @@
         <!-- 公司优势 -->
         <div class="mobile-nav-item">
           <div class="mobile-nav-link has-submenu" @click="toggleSubmenu('advantages')">
-            <span>{{ currentLang === 'zh' ? '公司优势' : currentLang === 'ru' ? 'Преимущества' : currentLang === 'fr' ? 'Avantages' : 'Advantages' }}</span>
+            <span>{{ currentLang === 'zh' ? '公司优势' : currentLang === 'ru' ? 'Преимущества' : currentLang === 'fr' ? 'Avantages' : currentLang === 'bn' ? 'সুবিধাসমূহ' : 'Advantages' }}</span>
             <svg class="submenu-icon" :class="{ 'rotated': expandedMenus.advantages }" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
               <polyline points="6,9 12,15 18,9"></polyline>
             </svg>
           </div>
           <div class="mobile-submenu" v-show="expandedMenus.advantages">
-            <a :href="currentLang === 'zh' ? '/zh/advantages/' : currentLang === 'ru' ? '/ru/advantages/' : currentLang === 'fr' ? '/fr/advantages/' : '/en/advantages/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '优势概览' : currentLang === 'ru' ? 'Обзор преимуществ' : currentLang === 'fr' ? 'Aperçu des avantages' : 'Overview' }}
+            <a :href="currentLang === 'zh' ? '/zh/advantages/' : currentLang === 'ru' ? '/ru/advantages/' : currentLang === 'fr' ? '/fr/advantages/' : currentLang === 'bn' ? '/bn/advantages/' : '/en/advantages/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '优势概览' : currentLang === 'ru' ? 'Обзор преимуществ' : currentLang === 'fr' ? 'Aperçu des avantages' : currentLang === 'bn' ? 'সুবিধার সংক্ষিপ্ত বিবরণ' : 'Overview' }}
             </a>
-            <a :href="currentLang === 'zh' ? '/zh/advantages/innovation' : '/en/advantages/innovation'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '技术创新' : 'Technical Innovation' }}
+            <a :href="currentLang === 'zh' ? '/zh/advantages/innovation' : currentLang === 'bn' ? '/bn/advantages/innovation' : '/en/advantages/innovation'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '技术创新' : currentLang === 'bn' ? 'কারিগরি উদ্ভাবন' : 'Technical Innovation' }}
             </a>
-            <a :href="currentLang === 'zh' ? '/zh/advantages/quality' : '/en/advantages/quality'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '质量保证' : 'Quality Assurance' }}
+            <a :href="currentLang === 'zh' ? '/zh/advantages/quality' : currentLang === 'bn' ? '/bn/advantages/quality' : '/en/advantages/quality'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '质量保证' : currentLang === 'bn' ? 'মানের নিশ্চয়তা' : 'Quality Assurance' }}
             </a>
-            <a :href="currentLang === 'zh' ? '/zh/advantages/service' : '/en/advantages/service'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '服务支持' : 'Service Support' }}
+            <a :href="currentLang === 'zh' ? '/zh/advantages/service' : currentLang === 'bn' ? '/bn/advantages/service' : '/en/advantages/service'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '服务支持' : currentLang === 'bn' ? 'সেবা সহায়তা' : 'Service Support' }}
             </a>
-            <a :href="currentLang === 'zh' ? '/zh/advantages/cases' : '/en/advantages/cases'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '成功案例' : 'Success Cases' }}
+            <a :href="currentLang === 'zh' ? '/zh/advantages/cases' : currentLang === 'bn' ? '/bn/advantages/cases' : '/en/advantages/cases'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '成功案例' : currentLang === 'bn' ? 'সফল কেস স্টাডি' : 'Success Cases' }}
             </a>
           </div>
         </div>
@@ -416,23 +419,23 @@
         <!-- 新闻资讯 -->
         <div class="mobile-nav-item">
           <div class="mobile-nav-link has-submenu" @click="toggleSubmenu('news')">
-            <span>{{ currentLang === 'zh' ? '新闻资讯' : currentLang === 'ru' ? 'Новости' : currentLang === 'fr' ? 'Actualités' : 'News' }}</span>
+            <span>{{ currentLang === 'zh' ? '新闻资讯' : currentLang === 'ru' ? 'Новости' : currentLang === 'fr' ? 'Actualités' : currentLang === 'bn' ? 'সংবাদ' : 'News' }}</span>
             <svg class="submenu-icon" :class="{ 'rotated': expandedMenus.news }" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
               <polyline points="6,9 12,15 18,9"></polyline>
             </svg>
           </div>
           <div class="mobile-submenu" v-show="expandedMenus.news">
-            <a :href="currentLang === 'zh' ? '/zh/news/' : currentLang === 'ru' ? '/ru/news/' : currentLang === 'fr' ? '/fr/news/' : '/en/news/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '新闻中心' : currentLang === 'ru' ? 'Новостной центр' : currentLang === 'fr' ? 'Centre d\'actualités' : 'News Center' }}
+            <a :href="currentLang === 'zh' ? '/zh/news/' : currentLang === 'ru' ? '/ru/news/' : currentLang === 'fr' ? '/fr/news/' : currentLang === 'bn' ? '/bn/news/' : '/en/news/'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '新闻中心' : currentLang === 'ru' ? 'Новостной центр' : currentLang === 'fr' ? 'Centre d\'actualités' : currentLang === 'bn' ? 'সংবাদ কেন্দ্র' : 'News Center' }}
             </a>
-            <a :href="currentLang === 'zh' ? '/zh/news/company' : currentLang === 'ru' ? '/ru/news/company' : currentLang === 'fr' ? '/fr/news/company' : '/en/news/company'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '公司动态' : currentLang === 'ru' ? 'Новости компании' : currentLang === 'fr' ? 'Actualités de l\'entreprise' : 'Company News' }}
+            <a :href="currentLang === 'zh' ? '/zh/news/company' : currentLang === 'ru' ? '/ru/news/company' : currentLang === 'fr' ? '/fr/news/company' : currentLang === 'bn' ? '/bn/news/company' : '/en/news/company'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '公司动态' : currentLang === 'ru' ? 'Новости компании' : currentLang === 'fr' ? 'Actualités de l\'entreprise' : currentLang === 'bn' ? 'কোম্পানি সংবাদ' : 'Company News' }}
             </a>
-            <a :href="currentLang === 'zh' ? '/zh/news/industry' : currentLang === 'ru' ? '/ru/news/industry' : currentLang === 'fr' ? '/fr/news/industry' : '/en/news/industry'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '行业资讯' : currentLang === 'ru' ? 'Индустриальные новости' : currentLang === 'fr' ? 'Actualités de l\'industrie' : 'Industry News' }}
+            <a :href="currentLang === 'zh' ? '/zh/news/industry' : currentLang === 'ru' ? '/ru/news/industry' : currentLang === 'fr' ? '/fr/news/industry' : currentLang === 'bn' ? '/bn/news/industry' : '/en/news/industry'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '行业资讯' : currentLang === 'ru' ? 'Индустриальные новости' : currentLang === 'fr' ? 'Actualités de l\'industrie' : currentLang === 'bn' ? 'শিল্প সংবাদ' : 'Industry News' }}
             </a>
-            <a :href="currentLang === 'zh' ? '/zh/news/technology' : currentLang === 'ru' ? '/ru/news/technology' : currentLang === 'fr' ? '/fr/news/technology' : '/en/news/technology'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '技术知识' : currentLang === 'ru' ? 'Технические знания' : currentLang === 'fr' ? 'Connaissances techniques' : 'Technical Knowledge' }}
+            <a :href="currentLang === 'zh' ? '/zh/news/technology' : currentLang === 'ru' ? '/ru/news/technology' : currentLang === 'fr' ? '/fr/news/technology' : currentLang === 'bn' ? '/bn/news/technology' : '/en/news/technology'" class="mobile-nav-sublink" @click="closeMobileMenu">
+              {{ currentLang === 'zh' ? '技术知识' : currentLang === 'ru' ? 'Технические знания' : currentLang === 'fr' ? 'Connaissances techniques' : currentLang === 'bn' ? 'কারিগরি জ্ঞান' : 'Technical Knowledge' }}
             </a>
           </div>
         </div>
@@ -440,48 +443,48 @@
         <!-- 关于我们 -->
         <div class="mobile-nav-item">
           <div class="mobile-nav-link has-submenu" @click="toggleSubmenu('about')">
-            <span>{{ currentLang === 'zh' ? '关于我们' : currentLang === 'ru' ? 'О нас' : currentLang === 'fr' ? 'À propos' : 'About' }}</span>
+            <span>{{ currentLang === 'zh' ? '关于我们' : currentLang === 'ru' ? 'О нас' : currentLang === 'fr' ? 'À propos' : currentLang === 'bn' ? 'আমাদের সম্পর্কে' : 'About' }}</span>
             <svg class="submenu-icon" :class="{ 'rotated': expandedMenus.about }" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
               <polyline points="6,9 12,15 18,9"></polyline>
             </svg>
           </div>
           <div class="mobile-submenu" v-show="expandedMenus.about">
             <a :href="currentLang === 'zh' ? '/zh/about/' : currentLang === 'ru' ? '/ru/about/' : currentLang === 'fr' ? '/fr/about/' : '/en/about/'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '公司简介' : currentLang === 'ru' ? 'Профиль компании' : currentLang === 'fr' ? 'Profil de l\'entreprise' : 'Company Profile' }}
+              {{ currentLang === 'zh' ? '公司简介' : currentLang === 'ru' ? 'Профиль компании' : currentLang === 'fr' ? 'Profil de l\'entreprise' : currentLang === 'bn' ? 'কোম্পানি প্রোফাইল' : 'Company Profile' }}
             </a>
             <a :href="currentLang === 'zh' ? '/zh/about/culture' : currentLang === 'ru' ? '/ru/about/culture' : currentLang === 'fr' ? '/fr/about/culture' : '/en/about/culture'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '企业文化' : currentLang === 'ru' ? 'Корпоративная культура' : currentLang === 'fr' ? 'Culture d\'entreprise' : 'Corporate Culture' }}
+              {{ currentLang === 'zh' ? '企业文化' : currentLang === 'ru' ? 'Корпоративная культура' : currentLang === 'fr' ? 'Culture d\'entreprise' : currentLang === 'bn' ? 'প্রাতিষ্ঠানিক সংস্কৃতি' : 'Corporate Culture' }}
             </a>
             <a :href="currentLang === 'zh' ? '/zh/about/history' : currentLang === 'ru' ? '/ru/about/history' : currentLang === 'fr' ? '/fr/about/history' : '/en/about/history'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '发展历程' : currentLang === 'ru' ? 'История развития' : currentLang === 'fr' ? 'Historique de développement' : 'Development History' }}
+              {{ currentLang === 'zh' ? '发展历程' : currentLang === 'ru' ? 'История развития' : currentLang === 'fr' ? 'Historique de développement' : currentLang === 'bn' ? 'উন্নয়নের ইতিহাস' : 'Development History' }}
             </a>
             <a :href="currentLang === 'zh' ? '/zh/about/honors' : currentLang === 'ru' ? '/ru/about/honors' : currentLang === 'fr' ? '/fr/about/honors' : '/en/about/honors'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '荣誉资质' : currentLang === 'ru' ? 'Награды и квалификации' : currentLang === 'fr' ? 'Honneurs et qualifications' : 'Honors & Certifications' }}
+              {{ currentLang === 'zh' ? '荣誉资质' : currentLang === 'ru' ? 'Награды и квалификации' : currentLang === 'fr' ? 'Honneurs et qualifications' : currentLang === 'bn' ? 'সম্মান ও সনদপত্র' : 'Honors & Certifications' }}
             </a>
             <a :href="currentLang === 'zh' ? '/zh/about/team' : currentLang === 'ru' ? '/ru/about/team' : currentLang === 'fr' ? '/fr/about/team' : '/en/about/team'" class="mobile-nav-sublink" @click="closeMobileMenu">
-              {{ currentLang === 'zh' ? '团队介绍' : currentLang === 'ru' ? 'Представление команды' : currentLang === 'fr' ? 'Présentation de l\'équipe' : 'Our Team' }}
+              {{ currentLang === 'zh' ? '团队介绍' : currentLang === 'ru' ? 'Представление команды' : currentLang === 'fr' ? 'Présentation de l\'équipe' : currentLang === 'bn' ? 'আমাদের টিম' : 'Our Team' }}
             </a>
           </div>
         </div>
 
         <!-- 设备使用说明书 -->
         <a :href="currentLang === 'zh' ? '/zh/products/instruction-manual' : '/en/products/instruction-manual'" class="mobile-nav-link" @click="closeMobileMenu">
-          {{ currentLang === 'zh' ? '设备使用说明书' : 'Instruction Manual' }}
+          {{ currentLang === 'zh' ? '设备使用说明书' : currentLang === 'bn' ? 'যন্ত্রপাতির ব্যবহার নির্দেশিকা' : 'Instruction Manual' }}
         </a>
 
         <!-- 客户定制款液压榨油机 -->
         <a :href="currentLang === 'zh' ? '/zh/products/customized-hydraulic-oil-press' : '/en/products/customized-hydraulic-oil-press'" class="mobile-nav-link" @click="closeMobileMenu">
-          {{ currentLang === 'zh' ? '客户定制款液压榨油机' : 'Customized Hydraulic Oil Press' }}
+          {{ currentLang === 'zh' ? '客户定制款液压榨油机' : currentLang === 'bn' ? 'কাস্টমাইজড হাইড্রোলিক অয়েল প্রেস' : 'Customized Hydraulic Oil Press' }}
         </a>
 
         <!-- 客户订货发货视频 -->
-        <a :href="currentLang === 'zh' ? '/zh/products/customer-order-shipping-video' : '/en/products/customer-order-shipping-video'" class="mobile-nav-link" @click="closeMobileMenu">
-          {{ currentLang === 'zh' ? '客户订货发货视频' : 'Customer Order Shipping Video' }}
+        <a :href="currentLang === 'zh' ? '/zh/products/customer-order-shipping-video' : currentLang === 'bn' ? '/bn/products/customer-order-shipping-video' : '/en/products/customer-order-shipping-video'" class="mobile-nav-link" @click="closeMobileMenu">
+          {{ currentLang === 'zh' ? '客户订货发货视频' : currentLang === 'bn' ? 'গ্রাহক অর্ডার শিপিং ভিডিও' : 'Customer Order Shipping Video' }}
         </a>
 
         <!-- 联系我们 -->
         <a :href="currentLang === 'zh' ? '/zh/contact/' : currentLang === 'ru' ? '/ru/contact/' : currentLang === 'fr' ? '/fr/contact/' : '/en/contact/'" class="mobile-nav-link" @click="closeMobileMenu">
-          {{ currentLang === 'zh' ? '联系我们' : currentLang === 'ru' ? 'Контакты' : currentLang === 'fr' ? 'Contact' : 'Contact' }}
+          {{ currentLang === 'zh' ? '联系我们' : currentLang === 'ru' ? 'Контакты' : currentLang === 'fr' ? 'Contact' : currentLang === 'bn' ? 'যোগাযোগ' : 'Contact' }}
         </a>
       </div>
       
@@ -572,6 +575,8 @@ const currentLang = computed(() => {
     return 'ru'
   } else if (path.startsWith('fr/')) {
     return 'fr'
+  } else if (path.startsWith('bn/')) {
+    return 'bn'
   }
   return 'en'
 })
@@ -635,6 +640,8 @@ const switchToLanguage = (lang) => {
     basePath = currentPath.replace(/^ru\//, '').replace(/\.md$/, '').replace(/\/index$/, '')
   } else if (currentPath.startsWith('fr/')) {
     basePath = currentPath.replace(/^fr\//, '').replace(/\.md$/, '').replace(/\/index$/, '')
+  } else if (currentPath.startsWith('bn/')) {
+    basePath = currentPath.replace(/^bn\//, '').replace(/\.md$/, '').replace(/\/index$/, '')
   } else if (currentPath.startsWith('en/')) {
     basePath = currentPath.replace(/^en\//, '').replace(/\.md$/, '').replace(/\/index$/, '')
   } else {
@@ -655,6 +662,8 @@ const switchToLanguage = (lang) => {
   } else if (lang === 'ru') {
     targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
   } else if (lang === 'fr') {
+    targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
+  } else if (lang === 'bn') {
     targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
   } else {
     // 默认语言（英文）
