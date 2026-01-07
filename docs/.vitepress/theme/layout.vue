@@ -26,6 +26,9 @@
             <div class="lang-option" @click.stop="switchToLanguage('fr')" :class="{ 'active': currentLang === 'fr' }">
               <span>Français</span>
             </div>
+            <div class="lang-option" @click.stop="switchToLanguage('vi')" :class="{ 'active': currentLang === 'vi' }">
+              <span>Tiếng Việt</span>
+            </div>
           </div>
         </div>
       </div>
@@ -577,6 +580,8 @@ const currentLang = computed(() => {
     return 'fr'
   } else if (path.startsWith('bn/')) {
     return 'bn'
+  } else if (path.startsWith('vi/')) {
+    return 'vi'
   }
   return 'en'
 })
@@ -634,19 +639,7 @@ const switchToLanguage = (lang) => {
   let basePath = ''
   const currentPath = page.value.relativePath
 
-  if (currentPath.startsWith('zh/')) {
-    basePath = currentPath.replace(/^zh\//, '').replace(/\.md$/, '').replace(/\/index$/, '')
-  } else if (currentPath.startsWith('ru/')) {
-    basePath = currentPath.replace(/^ru\//, '').replace(/\.md$/, '').replace(/\/index$/, '')
-  } else if (currentPath.startsWith('fr/')) {
-    basePath = currentPath.replace(/^fr\//, '').replace(/\.md$/, '').replace(/\/index$/, '')
-  } else if (currentPath.startsWith('bn/')) {
-    basePath = currentPath.replace(/^bn\//, '').replace(/\.md$/, '').replace(/\/index$/, '')
-  } else if (currentPath.startsWith('en/')) {
-    basePath = currentPath.replace(/^en\//, '').replace(/\.md$/, '').replace(/\/index$/, '')
-  } else {
-    basePath = currentPath.replace(/\.md$/, '').replace(/\/index$/, '')
-  }
+  basePath = currentPath.replace(/^(zh|ru|fr|bn|en|vi)\//, '').replace(/\.md$/, '').replace(/\/index$/, '')
 
   // 处理首页路径
   if (basePath === 'index' || basePath === '') {
@@ -664,6 +657,8 @@ const switchToLanguage = (lang) => {
   } else if (lang === 'fr') {
     targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
   } else if (lang === 'bn') {
+    targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
+  } else if (lang === 'vi') {
     targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
   } else {
     // 默认语言（英文）

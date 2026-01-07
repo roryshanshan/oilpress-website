@@ -1,0 +1,138 @@
+---
+title: Giải pháp mè (Dầu mè) - Công ty TNHH Shengshi Hecheng Sơn Đông
+description: 'Giải pháp ép mè chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu mè, tỷ lệ dầu 50-60%, sử dụng quy trình ép nóng để giữ hương thơm đặc trưng, phù hợp cho mọi quy mô sản xuất.'
+keywords: giải pháp vừng, ép dầu vừng, thiết bị chế biến vừng, dây chuyền sản xuất dầu vừng, quy trình ép nóng vừng, máy ép vừng, thiết bị chiết xuất dầu vừng
+---
+
+# Giải pháp mè (Dầu mè)
+
+## Tổng quan
+
+芝麻是重要的油料作物，芝麻油具有独特的香味和丰富的营养价值。山东盛世赫程机械有限公司提供专业的芝麻压榨解决方案，从小型作坊到大型工厂的全套设备和服务。
+
+## 芝麻特性
+
+### 📊 基本参数
+- **含油率**: 50-60%
+- **蛋白质含量**: 18-25%
+- **主要脂肪酸**: 油酸（35-50%）、亚油酸（35-45%）、棕榈酸（8-12%）
+- **适宜温度**: 炒制温度控制在180-220℃
+
+### 🌱 生长特性
+- **生长周期**: 90-120天
+- **适宜气候**: 温暖、干燥地区
+- **土壤要求**: 肥沃、排水良好的土壤
+- **年产量**: 全球年产量超过500万吨
+
+## 加工工艺
+
++ 芝麻(建议300AC-390/325AC-390/355AC-390/400AC-390)
+ + 芝麻油热榨工艺：滚筒炒锅炒制芝麻后直接入液压榨油机料桶压榨。采用此工艺压榨的芝麻油，香味浓郁，入口回甘，压榨出的油不用水化处理，下锅不起泡。
+ + 基本不需要过滤处理，沉淀装瓶即可。
+ + ![](/images/芝麻热榨工艺.png)
+
+## 芝麻液压榨油机热榨工艺视频展示
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/TeSE53ywSw4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/4lPfRSG2xu8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## 芝麻液压榨油机冷榨工艺视频展示
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/FJJ1DKef6cE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## 技术优势
+
+### 🎯 精准控制
+- 炒制温度控制：±5℃精度
+- 炒制时间控制：最佳工艺参数
+- 压榨压力控制：智能调节
+
+### 💧 油质保证
+- 热榨工艺突出香味
+- 物理压榨保证纯净
+- 出油率高达52-58%
+
+### 🔄 连续生产
+- 自动化炒制系统
+- 连续压榨工艺
+- 智能质量监控
+
+## 产品应用
+
+### 🍳 食用油
+- 芝麻油：主要食用油品种
+- 调和油：与其他油脂混合
+- 特种油：高端营养油
+
+### 🥛 副产品
+- 芝麻粕：优质蛋白饲料
+- 芝麻酱：食品加工原料
+- 芝麻蛋白：食品添加剂
+
+### 💊 功能性产品
+- 芝麻素
+- 芝麻多酚
+- 芝麻磷脂
+
+## 市场分析
+
+### 📈 发展趋势
+- 健康食用油需求增长
+- 高端芝麻油市场扩大
+- 出口贸易机会增加
+
+### 🎯 目标市场
+- 食用油加工企业
+- 食品加工企业
+- 餐饮连锁企业
+- 出口贸易企业
+
+
+
+## 质量标准
+
+### 🏆 产品质量标准
+- 符合国家芝麻油标准（GB 8233）
+- 符合食品安全标准
+- 符合出口食品标准
+- 符合有机食品认证
+
+### 🔍 检测项目
+- 酸价检测
+- 过氧化值检测
+- 色泽透明度检测
+- 重金属含量检测
+- 黄曲霉毒素检测
+- 农药残留检测
+
+## 可持续发展
+
+### 🌱 环保生产
+- 废弃物循环利用
+- 节能减排工艺
+- 绿色生产标准
+
+### 🔄 资源利用
+- 副产品综合利用
+- 产业链延伸
+- 循环经济模式
+
+### 🌍 社会责任
+- 支持农民增收
+- 保障食品安全
+- 保护生态环境
+
+## 联系我们
+
+如果您对芝麻压榨解决方案感兴趣，请联系我们的技术团队：
+
+- 📞 **咨询热线**: +86 19906365856
+- 📧 **邮箱**: gavin@oil-pressing-machine.com
+- 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
+
+我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的芝麻压榨解决方案。

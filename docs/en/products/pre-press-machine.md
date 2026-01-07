@@ -25,8 +25,7 @@ Our pre-press machine adopts the principle of spiral crushing, designed for effi
 | Parameter         | Value       |
 | :---------------- | :---------- |
 | Model             | YZJ-7.5     |
-| Dimensions (cm)   | 103*100*75  |
-| Capacity          | 300-350 Kg/h|
+| Dimensions (cm)   | 103x100x75  |
 | Machine Weight    | 174 Kg      |
 | Machine Power     | 7.5 Kw      |
 | Working Voltage   | 380V        |

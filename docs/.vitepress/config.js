@@ -12,7 +12,8 @@ export default {
       { url: '/en/', changefreq: 'daily', priority: 1.0 },
       { url: '/ru/', changefreq: 'daily', priority: 1.0 },
       { url: '/fr/', changefreq: 'daily', priority: 1.0 },
-      { url: '/bn/', changefreq: 'daily', priority: 1.0 }
+      { url: '/bn/', changefreq: 'daily', priority: 1.0 },
+      { url: '/vi/', changefreq: 'daily', priority: 1.0 }
     ]
   },
   title: 'Shengshi Hecheng Oil Press',
@@ -1485,6 +1486,175 @@ s0.parentNode.insertBefore(s1,s0);
         footer: {
           message: 'Fabrication professionnelle · Qualité fiable',
           copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
+        }
+      }
+    },
+    vi: {
+      label: 'Tiếng Việt',
+      lang: 'vi-VN',
+      title: 'Shengshi Hecheng Oil Press',
+      description: 'Nhà sản xuất máy ép dầu chuyên nghiệp',
+      themeConfig: {
+        nav: [
+          { text: 'Trang chủ', link: '/vi/' },
+          { text: 'Sản phẩm', link: '/vi/products/' },
+          { text: 'Giải pháp', link: '/vi/solutions/' },
+          { text: 'Ưu điểm', link: '/vi/advantages/' },
+          { text: 'Tin tức', link: '/vi/news/' },
+          { text: 'Về chúng tôi', link: '/vi/about/' },
+          { text: 'Liên hệ', link: '/vi/contact/' }
+        ],
+        sidebar: {
+          '/vi/products': [
+            {
+              text: 'Sản phẩm',
+              collapsed: false,
+              items: [
+                { text: 'Tổng quan sản phẩm', link: '/vi/products/' },
+                {
+                  text: '300 Series',
+                  collapsed: true,
+                  items: [
+                    { text: 'Tổng quan Series', link: '/vi/products/300' }
+                  ]
+                },
+                {
+                  text: '325 Series',
+                  collapsed: true,
+                  items: [
+                    { text: 'Tổng quan Series', link: '/vi/products/325' }
+                  ]
+                },
+                {
+                  text: '355 Series',
+                  collapsed: true,
+                  items: [
+                    { text: 'Tổng quan Series', link: '/vi/products/355' }
+                  ]
+                },
+                {
+                  text: '400 Series',
+                  collapsed: true,
+                  items: [
+                    { text: 'Tổng quan Series', link: '/vi/products/400' }
+                  ]
+                },
+                {
+                  text: '426 Series',
+                  collapsed: true,
+                  items: [
+                    { text: 'Tổng quan Series', link: '/vi/products/426' }
+                  ]
+                },
+                {
+                  text: '480 Series',
+                  collapsed: true,
+                  items: [
+                    { text: 'Tổng quan Series', link: '/vi/products/480' }
+                  ]
+                },
+                {
+                  text: '500 Series',
+                  collapsed: true,
+                  items: [
+                    { text: 'Tổng quan Series', link: '/vi/products/500' }
+                  ]
+                },
+                {
+                  text: 'Thiết bị hỗ trợ',
+                  collapsed: false,
+                  items: [
+                    { text: 'Tổng quan thiết bị', link: '/vi/products/supporting' },
+                    {
+                      text: 'Thiết bị tiền xử lý',
+                      collapsed: false,
+                      items: [
+                        { text: 'Tổng quan', link: '/vi/products/pre-treatment' },
+                        { text: '11kw High Speed Pulverizer', link: '/vi/products/11kw-high-speed-pulverizer' },
+                        { text: '27kw Electric Steamer', link: '/vi/products/27kw-electric-steamer' },
+                        { text: 'Hemp and Flaxseed Grinding and Stirring Integrated Machine', link: '/vi/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine' },
+                        { text: 'Automatic Drum Roaster', link: '/vi/products/automatic-drum-roaster' },
+                        { text: 'Cake Wrapping Machine', link: '/vi/products/cake-wrapping-machine' },
+                        { text: 'Edible Oil Refining Equipment', link: '/vi/products/edible-oil-refining-equipment' },
+                        { text: 'Feeding Crushing Frying Integrated Machine', link: '/vi/products/feeding-crushing-frying-integrated-machine' },
+                        { text: 'Heat Conducting Oil Flat Bottom Frying Pan', link: '/vi/products/heat-conducting-oil-flat-bottom-frying-pan' },
+                        { text: 'Pneumatic Filter Press', link: '/vi/products/pneumatic-filter-press' },
+                        { text: 'Pre-Press Machine', link: '/vi/products/pre-press-machine' },
+                        { text: 'Wood Fired Steamer', link: '/vi/products/wood-fired-steamer' },
+                        { text: 'Wood Fired Thermal Oil Flat Bottom Wok', link: '/vi/products/wood-fired-thermal-oil-flat-bottom-wok' }
+                      ]
+                    },
+                    {
+                      text: 'Thiết bị sau xử lý',
+                      collapsed: false,
+                      items: [
+                        { text: 'Tổng quan', link: '/vi/products/post-treatment' },
+                        { text: 'Cake Pulverizer', link: '/vi/products/cake-pulverizer' },
+                        { text: 'Edible Oil Refining Equipment', link: '/vi/products/edible-oil-refining-equipment' }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          '/vi/solutions': [
+            {
+              text: 'Giải pháp',
+              collapsed: false,
+              items: [
+                { text: 'Tổng quan giải pháp', link: '/vi/solutions/' },
+                {
+                  text: 'Theo loại dầu',
+                  collapsed: true,
+                  items: [
+                    { text: 'Tổng quan', link: '/vi/solutions/seed-oils' },
+                    { text: 'Dầu đậu nành', link: '/vi/solutions/soybean' },
+                    { text: 'Dầu lạc', link: '/vi/solutions/peanut' },
+                    { text: 'Dầu vừng', link: '/vi/solutions/sesame' },
+                    { text: 'Dầu cải', link: '/vi/solutions/rapeseed' },
+                    { text: 'Dầu hướng dương', link: '/vi/solutions/sunflower' }
+                  ]
+                }
+              ]
+            }
+          ],
+          '/vi/about': [
+            {
+              text: 'Về chúng tôi',
+              collapsed: false,
+              items: [
+                { text: 'Giới thiệu', link: '/vi/about/' },
+                { text: 'Văn hóa', link: '/vi/about/culture' },
+                { text: 'Lịch sử phát triển', link: '/vi/about/history' },
+                { text: 'Danh hiệu', link: '/vi/about/honors' },
+                { text: 'Đội ngũ', link: '/vi/about/team' }
+              ]
+            }
+          ],
+          '/vi/advantages': [
+            {
+              text: 'Ưu điểm',
+              collapsed: false,
+              items: [
+                { text: 'Tổng quan', link: '/vi/advantages/' },
+                { text: 'Đổi mới công nghệ', link: '/vi/advantages/innovation' },
+                { text: 'Chất lượng', link: '/vi/advantages/quality' },
+                { text: 'Dịch vụ', link: '/vi/advantages/service' },
+                { text: 'Trường hợp thành công', link: '/vi/advantages/cases' }
+              ]
+            }
+          ],
+          '/vi/news': [
+            {
+              text: 'Tin tức',
+              collapsed: false,
+              items: [
+                { text: 'Tin tức', link: '/vi/news/' },
+                { text: 'Tin công ty', link: '/vi/news/company' }
+              ]
+            }
+          ]
         }
       }
     },

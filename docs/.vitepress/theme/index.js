@@ -2,6 +2,7 @@
 import DefaultTheme from 'vitepress/theme'
 import Layout from './layout.vue'
 import './custom.css'
+import './custom.css'
 
 export default {
   ...DefaultTheme,

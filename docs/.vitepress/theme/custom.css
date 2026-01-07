@@ -34,33 +34,62 @@
   --vp-c-gray-light-2: #e0e0e0;
 }
 
-/* 导航栏高度调整 */
+/* 导航栏高度调整：单行并启用水平滚动以适配较长语言标签 */
 .VPNav {
-  height: 80px !important;
+  min-height: 80px !important;
 }
 
 .VPNavBar {
-  height: 80px !important;
+  min-height: 80px !important;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 0 16px;
 }
 
 .VPNavBarTitle {
-  height: 80px !important;
+  min-height: 80px !important;
   line-height: 80px !important;
+  flex: 0 0 auto;
 }
 
+/* 导航菜单保持单行，占据中间可伸缩空间，超出时可水平滚动 */
 .VPNavBarMenu {
-  height: 80px !important;
-  line-height: 80px !important;
+  display: flex;
+  flex: 1 1 auto;
+  min-width: 0; /* 允许溢出滚动 */
+  flex-wrap: nowrap;
+  gap: 8px;
+  min-height: 80px !important;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  white-space: nowrap;
+  align-items: center;
 }
 
+/* 菜单项保持单行，垂直居中 */
 .VPNavBarMenuLink {
-  height: 80px !important;
-  line-height: 80px !important;
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  line-height: normal;
+  height: auto !important;
+  white-space: nowrap;
+}
+
+/* 美化水平滚动条（仅现代浏览器） */
+.VPNavBarMenu::-webkit-scrollbar {
+  height: 6px;
+}
+.VPNavBarMenu::-webkit-scrollbar-thumb {
+  background: rgba(0,0,0,0.12);
+  border-radius: 3px;
 }
 
 .VPNavBarExtra {
-  height: 80px !important;
-  line-height: 80px !important;
+  min-height: 80px !important;
+  line-height: normal;
 }
 
 .VPNavScreen {
@@ -258,32 +287,58 @@
 }
 
 /* 社交媒体图标样式 */
+.nav-bar {
+  position: relative; /* 让子元素可以绝对定位 */
+}
 .nav-bar .social-icons {
-  display: flex;
+  display: flex !important;
   align-items: center;
   gap: 8px;
   margin-left: 12px;
+  z-index: 9999;
+  overflow: visible !important;
+  position: absolute; /* 固定在右侧，避免被菜单挤出 */
+  right: 120px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/* 在较窄屏幕上回退到文档流内（避免遮挡或位置错乱） */
+@media (max-width: 1024px) {
+  .nav-bar .social-icons {
+    position: static !important;
+    transform: none !important;
+    right: auto !important;
+    margin-left: 12px !important;
+  }
 }
 
 .nav-bar .social-icon {
-  display: flex;
+  display: flex !important;
   align-items: center;
   justify-content: center;
-  width: 32px;
-  height: 32px;
-  border-radius: 50%;
-  background: transparent;
-  border: 1px solid rgba(60, 60, 67, 0.12);
-  color: rgba(60, 60, 67, 0.7);
-  transition: all 0.3s ease;
-  text-decoration: none;
+  width: 32px !important;
+  height: 32px !important;
+  border-radius: 50% !important;
+  background: transparent !important;
+  border: 1px solid rgba(60, 60, 67, 0.12) !important;
+  color: rgba(60, 60, 67, 0.9) !important;
+  transition: all 0.3s ease !important;
+  text-decoration: none !important;
+}
+
+/* 强制 SVG 使用当前文本颜色填充并确保大小 */
+.nav-bar .social-icon svg {
+  fill: currentColor !important;
+  width: 18px !important;
+  height: 18px !important;
 }
 
 .nav-bar .social-icon:hover {
-  background: rgba(60, 60, 67, 0.05);
-  border-color: var(--vp-c-brand);
-  color: var(--vp-c-brand);
-  transform: translateY(-1px);
+  background: rgba(60, 60, 67, 0.05) !important;
+  border-color: var(--vp-c-brand) !important;
+  color: var(--vp-c-brand) !important;
+  transform: translateY(-1px) !important;
 }
 
 .wechat-container {
