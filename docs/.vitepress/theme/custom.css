@@ -297,10 +297,8 @@
   margin-left: 12px;
   z-index: 9999;
   overflow: visible !important;
-  position: absolute; /* 固定在右侧，避免被菜单挤出 */
-  right: 120px;
-  top: 50%;
-  transform: translateY(-50%);
+  /* 回流到文档流，避免固定像素偏移造成空白或裁剪 */
+  position: static !important;
 }
 
 /* 在较窄屏幕上回退到文档流内（避免遮挡或位置错乱） */
@@ -1199,7 +1197,7 @@
     flex: 1 1 auto !important;
     min-width: 0 !important;
     overflow: hidden !important;
-    margin-right: 90px !important;
+    margin-right: 12px !important;
     position: relative !important;
   }
   
@@ -1208,7 +1206,7 @@
     overflow: hidden !important;
     text-overflow: ellipsis !important;
     font-size: 18px !important;
-    max-width: calc(100vw - 110px) !important;
+    max-width: 100% !important;
   }
   
   /* 针对英文界面的特殊处理 - 使用更强的选择器和更大的空间预留 */
@@ -1219,7 +1217,7 @@
   body[data-lang="en"] .VPNavBarTitle,
   [lang="en"] .VPNavBarTitle,
   [data-lang="en"] .VPNavBarTitle {
-    margin-right: 130px !important;
+    margin-right: 16px !important;
   }
   
   .VPApp .VPNavBarTitle .title,
@@ -1229,7 +1227,7 @@
   body[data-lang="en"] .VPNavBarTitle .title,
   [lang="en"] .VPNavBarTitle .title,
   [data-lang="en"] .VPNavBarTitle .title {
-    max-width: calc(100vw - 150px) !important;
+    max-width: 100% !important;
     font-size: 14px !important;
   }
   
