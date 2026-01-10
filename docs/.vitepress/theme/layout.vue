@@ -770,7 +770,7 @@ onMounted(() => {
   /* 自定义移动端菜单样式 */
   .custom-mobile-menu {
     position: fixed;
-    top: 0;
+    top: var(--vp-layout-top-height, 60px);
     left: 0;
     right: 0;
     bottom: 0;

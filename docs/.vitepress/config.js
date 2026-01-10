@@ -45,6 +45,12 @@ export default {
 
   gtag('config', 'AW-17559313965');
     `],
+    // GA4 - Google Analytics 4
+    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-ZQC83SKWK2' }],
+    ['script', {}, `
+  // If gtag already initialized above (for AW), simply configure GA4
+  gtag('config', 'G-ZQC83SKWK2');
+    `],
     ['script', { type: 'text/javascript' }, `
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
