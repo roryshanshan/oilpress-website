@@ -55,43 +55,43 @@ keywords: Máy ép dầu đậu tương thủy lực, Máy ép dầu lạc thủ
 
 <div class="product-series">
   <div class="product-card">
-    <img src="/images/300-325-series.jpg" alt="Máy ép dầu thủy lực dòng 300" />
+    <img src="/images/300-325-series.webp" alt="Máy ép dầu thủy lực dòng 300" />
   <h3>Dòng 300</h3>
   <p>Phù hợp xưởng nhỏ, sản lượng dầu 0.3-0.8 tấn/ngày</p>
   <a href="/vi/products/300" class="learn-more">Tìm hiểu thêm</a>
   </div>
   <div class="product-card">
-    <img src="/images/300-325-series.jpg" alt="Máy ép dầu thủy lực dòng 325" />
+    <img src="/images/300-325-series.webp" alt="Máy ép dầu thủy lực dòng 325" />
   <h3>Dòng 325</h3>
   <p>Phù hợp xưởng nhỏ, sản lượng dầu 0.5-1 tấn/ngày</p>
   <a href="/vi/products/325" class="learn-more">Tìm hiểu thêm</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="Máy ép dầu thủy lực dòng 355" />
+    <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 355" />
   <h3>Dòng 355</h3>
   <p>Phù hợp doanh nghiệp vừa và nhỏ, sản lượng dầu 1-2 tấn/ngày</p>
   <a href="/vi/products/355" class="learn-more">Tìm hiểu thêm</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="Máy ép dầu thủy lực dòng 400" />
+    <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 400" />
   <h3>Dòng 400</h3>
   <p>Phù hợp doanh nghiệp vừa, sản lượng dầu 2-3 tấn/ngày</p>
   <a href="/vi/products/400" class="learn-more">Tìm hiểu thêm</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="Máy ép dầu thủy lực dòng 426" />
+    <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 426" />
   <h3>Dòng 426</h3>
   <p>Phù hợp doanh nghiệp vừa và lớn, sản lượng dầu 3-5 tấn/ngày</p>
   <a href="/vi/products/426" class="learn-more">Tìm hiểu thêm</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="Máy ép dầu thủy lực dòng 480" />
+    <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 480" />
   <h3>Dòng 480</h3>
   <p>Phù hợp doanh nghiệp lớn, sản lượng dầu 5-8 tấn/ngày</p>
   <a href="/vi/products/480" class="learn-more">Tìm hiểu thêm</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="Máy ép dầu thủy lực dòng 500" />
+    <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 500" />
   <h3>Dòng 500</h3>
   <p>Phù hợp doanh nghiệp siêu lớn, sản lượng dầu 8-15 tấn/ngày</p>
   <a href="/vi/products/500" class="learn-more">Tìm hiểu thêm</a>

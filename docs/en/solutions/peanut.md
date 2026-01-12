@@ -5,7 +5,7 @@ keywords: Peanut solutions, Peanut oil pressing, Peanut processing equipment, Pe
 ---
 
 # Peanut (Peanut Oil) Solutions
-![300 Series Oil Press](/images/300-325-series.jpg)
+![300 Series Oil Press](/images/300-325-series.webp)
 
 <div style="margin: 2rem 0;">
   <iframe width="100%" height="500" src="https://www.youtube.com/embed/3uE1lah9Dpw?autoplay=1&mute=0"

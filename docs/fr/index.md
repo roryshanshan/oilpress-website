@@ -55,43 +55,43 @@ keywords: Presse à huile hydraulique pour huile de soja, Presse à huile hydrau
 
 <div class="product-series">
   <div class="product-card">
-    <img src="/images/300-325-series.jpg" alt="Presse à huile série 300" />
+    <img src="/images/300-325-series.webp" alt="Presse à huile série 300" />
     <h3>Série 300</h3>
     <p>Adaptée aux petites ateliers, production quotidienne d'huile 0,3-0,8 tonnes</p>
     <a href="/fr/products/300" class="learn-more">En savoir plus</a>
   </div>
   <div class="product-card">
-    <img src="/images/300-325-series.jpg" alt="Presse à huile série 325" />
+    <img src="/images/300-325-series.webp" alt="Presse à huile série 325" />
     <h3>Série 325</h3>
     <p>Adaptée aux petites ateliers, production quotidienne d'huile 0,5-1 tonne</p>
     <a href="/fr/products/325" class="learn-more">En savoir plus</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="Presse à huile série 355" />
+    <img src="/images/355-500-series.webp" alt="Presse à huile série 355" />
     <h3>Série 355</h3>
     <p>Adaptée aux petites et moyennes entreprises, production quotidienne d'huile 1-2 tonnes</p>
     <a href="/fr/products/355" class="learn-more">En savoir plus</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="Presse à huile série 400" />
+    <img src="/images/355-500-series.webp" alt="Presse à huile série 400" />
     <h3>Série 400</h3>
     <p>Adaptée aux moyennes entreprises, production quotidienne d'huile 2-3 tonnes</p>
     <a href="/fr/products/400" class="learn-more">En savoir plus</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="Presse à huile série 426" />
+    <img src="/images/355-500-series.webp" alt="Presse à huile série 426" />
     <h3>Série 426</h3>
     <p>Adaptée aux moyennes et grandes entreprises, production quotidienne d'huile 3-5 tonnes</p>
     <a href="/fr/products/426" class="learn-more">En savoir plus</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="Presse à huile série 480" />
+    <img src="/images/355-500-series.webp" alt="Presse à huile série 480" />
     <h3>Série 480</h3>
     <p>Adaptée aux grandes entreprises, production quotidienne d'huile 5-8 tonnes</p>
     <a href="/fr/products/480" class="learn-more">En savoir plus</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="Presse à huile série 500" />
+    <img src="/images/355-500-series.webp" alt="Presse à huile série 500" />
     <h3>Série 500</h3>
     <p>Adaptée aux très grandes entreprises, production quotidienne d'huile 8-15 tonnes</p>
     <a href="/fr/products/500" class="learn-more">En savoir plus</a>

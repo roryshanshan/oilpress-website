@@ -5,7 +5,7 @@ keywords: giải pháp lạc, ép dầu lạc, thiết bị chế biến lạc, 
 ---
 
 # Giải pháp đậu phộng (Dầu đậu phộng)
-![300系列榨油机](/images/300-325-series.jpg)
+![300系列榨油机](/images/300-325-series.webp)
 
 <div style="margin: 2rem 0;">
   <iframe width="100%" height="500" src="https://www.youtube.com/embed/3uE1lah9Dpw?autoplay=1&mute=0"

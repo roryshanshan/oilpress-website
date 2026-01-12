@@ -55,43 +55,43 @@ keywords: 大豆油液压榨油机, 花生油液压榨油机, 芝麻油液压榨
 
 <div class="product-series">
   <div class="product-card">
-    <img src="/images/300-325-series.jpg" alt="300系列榨油机" />
+    <img src="/images/300-325-series.webp" alt="300系列榨油机" />
     <h3>300系列</h3>
     <p>适合小型作坊，日产油量0.3-0.8吨</p>
     <a href="/zh/products/300" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
-    <img src="/images/300-325-series.jpg" alt="325系列榨油机" />
+    <img src="/images/300-325-series.webp" alt="325系列榨油机" />
     <h3>325系列</h3>
     <p>适合小型作坊，日产油量0.5-1吨</p>
     <a href="/zh/products/325" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="355系列榨油机" />
+    <img src="/images/355-500-series.webp" alt="355系列榨油机" />
     <h3>355系列</h3>
     <p>适合中小型企业，日产油量1-2吨</p>
     <a href="/zh/products/355" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="400系列榨油机" />
+    <img src="/images/355-500-series.webp" alt="400系列榨油机" />
     <h3>400系列</h3>
     <p>适合中型企业，日产油量2-3吨</p>
     <a href="/zh/products/400" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="426系列榨油机" />
+    <img src="/images/355-500-series.webp" alt="426系列榨油机" />
     <h3>426系列</h3>
     <p>适合中大型企业，日产油量3-5吨</p>
     <a href="/zh/products/426" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="480系列榨油机" />
+    <img src="/images/355-500-series.webp" alt="480系列榨油机" />
     <h3>480系列</h3>
     <p>适合大型企业，日产油量5-8吨</p>
     <a href="/zh/products/480" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="500系列榨油机" />
+    <img src="/images/355-500-series.webp" alt="500系列榨油机" />
     <h3>500系列</h3>
     <p>适合超大型企业，日产油量8-15吨</p>
     <a href="/zh/products/500" class="learn-more">了解更多</a>

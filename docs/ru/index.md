@@ -55,43 +55,43 @@ keywords: Гидравлический маслобойный пресс для 
 
 <div class="product-series">
   <div class="product-card">
-    <img src="/images/300-325-series.jpg" alt="Маслобойный пресс серии 300" />
+    <img src="/images/300-325-series.webp" alt="Маслобойный пресс серии 300" />
     <h3>Серия 300</h3>
     <p>Подходит для малых мастерских, суточное производство масла 0,3-0,8 тонн</p>
     <a href="/ru/products/300" class="learn-more">Узнать больше</a>
   </div>
   <div class="product-card">
-    <img src="/images/300-325-series.jpg" alt="Маслобойный пресс серии 325" />
+    <img src="/images/300-325-series.webp" alt="Маслобойный пресс серии 325" />
     <h3>Серия 325</h3>
     <p>Подходит для малых мастерских, суточное производство масла 0,5-1 тонна</p>
     <a href="/ru/products/325" class="learn-more">Узнать больше</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="Маслобойный пресс серии 355" />
+    <img src="/images/355-500-series.webp" alt="Маслобойный пресс серии 355" />
     <h3>Серия 355</h3>
     <p>Подходит для малых и средних предприятий, суточное производство масла 1-2 тонны</p>
     <a href="/ru/products/355" class="learn-more">Узнать больше</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="Маслобойный пресс серии 400" />
+    <img src="/images/355-500-series.webp" alt="Маслобойный пресс серии 400" />
     <h3>Серия 400</h3>
     <p>Подходит для средних предприятий, суточное производство масла 2-3 тонны</p>
     <a href="/ru/products/400" class="learn-more">Узнать больше</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="Маслобойный пресс серии 426" />
+    <img src="/images/355-500-series.webp" alt="Маслобойный пресс серии 426" />
     <h3>Серия 426</h3>
     <p>Подходит для средних и крупных предприятий, суточное производство масла 3-5 тонн</p>
     <a href="/ru/products/426" class="learn-more">Узнать больше</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="Маслобойный пресс серии 480" />
+    <img src="/images/355-500-series.webp" alt="Маслобойный пресс серии 480" />
     <h3>Серия 480</h3>
     <p>Подходит для крупных предприятий, суточное производство масла 5-8 тонн</p>
     <a href="/ru/products/480" class="learn-more">Узнать больше</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="Маслобойный пресс серии 500" />
+    <img src="/images/355-500-series.webp" alt="Маслобойный пресс серии 500" />
     <h3>Серия 500</h3>
     <p>Подходит для сверхкрупных предприятий, суточное производство масла 8-15 тонн</p>
     <a href="/ru/products/500" class="learn-more">Узнать больше</a>

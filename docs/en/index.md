@@ -55,43 +55,43 @@ keywords: Soybean oil hydraulic oil press, Peanut oil hydraulic oil press, Sesam
 
 <div class="product-series">
   <div class="product-card">
-    <img src="/images/300-325-series.jpg" alt="300 Series Oil Press" />
+    <img src="/images/300-325-series.webp" alt="300 Series Oil Press" />
     <h3>300 Series</h3>
     <p>Suitable for small workshops, daily oil production 0.3-0.8 tons</p>
     <a href="/en/products/300" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
-    <img src="/images/300-325-series.jpg" alt="325 Series Oil Press" />
+    <img src="/images/300-325-series.webp" alt="325 Series Oil Press" />
     <h3>325 Series</h3>
     <p>Suitable for small workshops, daily oil production 0.5-1 ton</p>
     <a href="/en/products/325" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="355 Series Oil Press" />
+    <img src="/images/355-500-series.webp" alt="355 Series Oil Press" />
     <h3>355 Series</h3>
     <p>Suitable for small to medium enterprises, daily oil production 1-2 tons</p>
     <a href="/en/products/355" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="400 Series Oil Press" />
+    <img src="/images/355-500-series.webp" alt="400 Series Oil Press" />
     <h3>400 Series</h3>
     <p>Suitable for medium enterprises, daily oil production 2-3 tons</p>
     <a href="/en/products/400" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="426 Series Oil Press" />
+    <img src="/images/355-500-series.webp" alt="426 Series Oil Press" />
     <h3>426 Series</h3>
     <p>Suitable for medium to large enterprises, daily oil production 3-5 tons</p>
     <a href="/en/products/426" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="480 Series Oil Press" />
+    <img src="/images/355-500-series.webp" alt="480 Series Oil Press" />
     <h3>480 Series</h3>
     <p>Suitable for large enterprises, daily oil production 5-8 tons</p>
     <a href="/en/products/480" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.jpg" alt="500 Series Oil Press" />
+    <img src="/images/355-500-series.webp" alt="500 Series Oil Press" />
     <h3>500 Series</h3>
     <p>Suitable for super large enterprises, daily oil production 8-15 tons</p>
     <a href="/en/products/500" class="learn-more">Learn More</a>
