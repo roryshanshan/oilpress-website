@@ -33,7 +33,7 @@ keywords: Presse à huile hydraulique pour huile de soja, Presse à huile hydrau
     </div>
   </div>
   <div class="hero-image">
-    <img src="/images/hero-oil-press.jpg" alt="Presse à huile hydraulique Shengshi Hecheng" />
+    <img src="/images/hero-oil-press.webp" alt="Presse à huile hydraulique Shengshi Hecheng" />
   </div>
 </div>
 
@@ -47,7 +47,7 @@ keywords: Presse à huile hydraulique pour huile de soja, Presse à huile hydrau
     <a href="/fr/about/" class="learn-more">En savoir plus →</a>
   </div>
   <div class="intro-image">
-    <img src="/images/hero-oil-press.jpg" alt="Usine Shengshi Hecheng" />
+    <img src="/images/hero-oil-press.webp" alt="Usine Shengshi Hecheng" />
   </div>
 </div>
 

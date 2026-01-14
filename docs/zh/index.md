@@ -33,7 +33,7 @@ keywords: 大豆油液压榨油机, 花生油液压榨油机, 芝麻油液压榨
     </div>
   </div>
   <div class="hero-image">
-    <img src="/images/hero-oil-press.jpg" alt="盛世赫程液压榨油机" />
+    <img src="/images/hero-oil-press.webp" alt="盛世赫程液压榨油机" />
   </div>
 </div>
 
@@ -47,7 +47,7 @@ keywords: 大豆油液压榨油机, 花生油液压榨油机, 芝麻油液压榨
     <a href="/zh/about/" class="learn-more">了解更多 →</a>
   </div>
   <div class="intro-image">
-    <img src="/images/hero-oil-press.jpg" alt="盛世赫程工厂" />
+    <img src="/images/hero-oil-press.webp" alt="盛世赫程工厂" />
   </div>
 </div>
 

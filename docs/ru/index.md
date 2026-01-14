@@ -33,7 +33,7 @@ keywords: Гидравлический маслобойный пресс для 
     </div>
   </div>
   <div class="hero-image">
-    <img src="/images/hero-oil-press.jpg" alt="Гидравлический маслобойный пресс Shengshi Hecheng" />
+    <img src="/images/hero-oil-press.webp" alt="Гидравлический маслобойный пресс Shengshi Hecheng" />
   </div>
 </div>
 
@@ -47,7 +47,7 @@ keywords: Гидравлический маслобойный пресс для 
     <a href="/ru/about/" class="learn-more">Узнать больше →</a>
   </div>
   <div class="intro-image">
-    <img src="/images/hero-oil-press.jpg" alt="Завод Shengshi Hecheng" />
+    <img src="/images/hero-oil-press.webp" alt="Завод Shengshi Hecheng" />
   </div>
 </div>
 

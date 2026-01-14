@@ -33,7 +33,7 @@ keywords: Máy ép dầu đậu tương thủy lực, Máy ép dầu lạc thủ
     </div>
   </div>
   <div class="hero-image">
-  <img src="/images/hero-oil-press.jpg" alt="Máy ép dầu thủy lực Shengshi Hecheng" />
+  <img src="/images/hero-oil-press.webp" alt="Máy ép dầu thủy lực Shengshi Hecheng" />
   </div>
 </div>
 
@@ -47,7 +47,7 @@ keywords: Máy ép dầu đậu tương thủy lực, Máy ép dầu lạc thủ
   <a href="/vi/about/" class="learn-more">Tìm hiểu thêm →</a>
   </div>
   <div class="intro-image">
-  <img src="/images/hero-oil-press.jpg" alt="Nhà máy Shengshi Hecheng" />
+  <img src="/images/hero-oil-press.webp" alt="Nhà máy Shengshi Hecheng" />
   </div>
 </div>
 

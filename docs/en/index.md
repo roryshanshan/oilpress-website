@@ -33,7 +33,7 @@ keywords: Soybean oil hydraulic oil press, Peanut oil hydraulic oil press, Sesam
     </div>
   </div>
   <div class="hero-image">
-    <img src="/images/hero-oil-press.jpg" alt="Shengshi Hecheng Hydraulic Oil Press" />
+    <img src="/images/hero-oil-press.webp" alt="Shengshi Hecheng Hydraulic Oil Press" />
   </div>
 </div>
 
@@ -47,7 +47,7 @@ keywords: Soybean oil hydraulic oil press, Peanut oil hydraulic oil press, Sesam
     <a href="/en/about/" class="learn-more">Learn More →</a>
   </div>
   <div class="intro-image">
-    <img src="/images/hero-oil-press.jpg" alt="Shengshi Hecheng Factory" />
+    <img src="/images/hero-oil-press.webp" alt="Shengshi Hecheng Factory" />
   </div>
 </div>
 
