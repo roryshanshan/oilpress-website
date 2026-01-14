@@ -66,6 +66,7 @@ s0.parentNode.insertBefore(s1,s0);
 
   locales: {
     root: {
+      label: 'English',
       lang: 'en',
       themeConfig: {
         nav: [
