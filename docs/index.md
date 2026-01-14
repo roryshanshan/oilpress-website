@@ -1,233 +1,238 @@
 ---
 layout: home
-title: 液压榨油机专业制造商 - 山东盛世赫程机械有限公司
+title: Professional Hydraulic Oil Press Manufacturer - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Shandong Shengshi Hecheng Machinery Co., Ltd. specializes in hydraulic oil press R&D and manufacturing, providing hydraulic oil pressing equipment for various oilseeds such as soybean oil, peanut oil, sesame oil, and one-stop oil processing solutions.
+keywords: Soybean oil hydraulic oil press, Peanut oil hydraulic oil press, Sesame oil hydraulic oil press, Rapeseed oil hydraulic oil press, Sunflower oil hydraulic oil press, Cottonseed oil hydraulic oil press, Flaxseed oil hydraulic oil press, Tea seed oil hydraulic oil press, Perilla oil hydraulic oil press, Coconut oil hydraulic oil press, Palm oil hydraulic oil press, Walnut oil hydraulic oil press, Almond oil hydraulic oil press, Hazelnut oil hydraulic oil press, Cashew oil hydraulic oil press, Pistachio oil hydraulic oil press, Avocado oil hydraulic oil press, Grape seed oil hydraulic oil press, Pumpkin seed oil hydraulic oil press, Watermelon seed oil hydraulic oil press, Peach kernel oil hydraulic oil press, Apricot kernel oil hydraulic oil press, 300 ton pressure hydraulic oil press, 325 ton pressure hydraulic oil press, 380 ton pressure hydraulic oil press, 410 ton pressure hydraulic oil press, 480 ton pressure hydraulic oil press, 500 ton pressure hydraulic oil press, 530 ton pressure hydraulic oil press, Oilseed oil press, Nut oil press, Fruit seed oil press, 300T pressure hydraulic oil press, 325T pressure hydraulic oil press, 380T pressure hydraulic oil press, 410T pressure hydraulic oil press, 480T pressure hydraulic oil press, 500T pressure hydraulic oil press, 530T pressure hydraulic oil press, Oil crop oil press, Nut oilseed oil press, Fruit oilseed oil press, Soybean hydraulic oil press, Peanut hydraulic oil press, Sesame hydraulic oil press, Rapeseed hydraulic oil press, Sunflower hydraulic oil press, Cottonseed hydraulic oil press, Flaxseed hydraulic oil press, Tea seed hydraulic oil press, Perilla hydraulic oil press, Coconut hydraulic oil press, Palm hydraulic oil press, Walnut hydraulic oil press, Almond hydraulic oil press, Hazelnut hydraulic oil press, Cashew hydraulic oil press, Pistachio hydraulic oil press, Avocado hydraulic oil press, Grape seed hydraulic oil press, Pumpkin seed hydraulic oil press, Watermelon seed hydraulic oil press, Peach kernel hydraulic oil press, Apricot kernel hydraulic oil press
 ---
 
-<script setup>
-if (typeof window !== 'undefined') {
-  const lang = (navigator.language || navigator.userLanguage || '').toLowerCase()
-  window.location.replace(lang.startsWith('zh') ? '/zh/' : '/en/')
-}
-</script>
 
 <div style="text-align: center; margin: 2rem 0;">
   <h1 style="font-size: 2rem; font-weight: bold; color: var(--vp-c-brand); margin-bottom: 0.5rem;">
-    液压榨油机专业制造商
+    Professional Hydraulic Oil Press Manufacturer
   </h1>
   <h2 style="font-size: 1.5rem; font-weight: 500; color: var(--vp-c-text-2);">
-    山东盛世赫程机械有限公司
+    Shandong Shengshi Hecheng Machinery Co., Ltd.
   </h2>
+</div>
+
+<div style="margin: 2rem 0;">
+  <iframe width="100%" height="500" src="https://www.youtube.com/embed/3uE1lah9Dpw?autoplay=1&mute=0"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+          style="width: 100%; height: 500px; display: block;">
+  </iframe>
 </div>
 
 <div class="hero-section">
   <div class="hero-content">
-    <h2>专注液压榨油设备15年</h2>
-    <p>国家重点油料压榨设备生产企业，为您提供一站式油料加工解决方案</p>
+    <h2>15 Years of Expertise in Hydraulic Oil Press Equipment</h2>
+    <p>National key oilseed pressing equipment manufacturer, providing one-stop oil processing solutions</p>
     <div class="hero-buttons">
-      <a href="/zh/products/" class="primary-button">查看产品系列</a>
-      <a href="/zh/contact/" class="contact-link-button">联系我们</a>
+      <a href="/products/" class="primary-button">View Products</a>
+      <a href="/contact/" class="contact-link-button">Contact Us</a>
     </div>
   </div>
   <div class="hero-image">
-    <img src="https://i.postimg.cc/WTGcb8WY/26ce783e76d55ee47b2a3b9ca4d2f4f9.jpg" alt="盛世赫程液压榨油机" />
+    <img src="/images/hero-oil-press.jpg" alt="Shengshi Hecheng Hydraulic Oil Press" />
   </div>
 </div>
 
-## 公司简介
+## Company Profile
 
 <div class="company-intro">
   <div class="intro-content">
-    <p>山东盛世赫程机械有限公司成立于2008年，是国家重点油料压榨设备生产企业，专注于现代化自动液压榨油机系列和食用油精炼生产线设备的研发制造。</p>
-    <p>公司位于山东省青州市，地理位置优越，交通便利。拥有20000平方米的现代化生产基地，配备先进的生产设备和检测仪器，年产各类液压榨油设备2000余台。</p>
-    <p>我们秉承"品质至上，客户为先"的经营理念，产品远销全国各地及东南亚、非洲、中东等30多个国家和地区。</p>
-    <a href="/zh/about/" class="learn-more">了解更多 →</a>
+    <p>Shandong Shengshi Hecheng Machinery Co., Ltd., established in 2008, is a national key oilseed pressing equipment manufacturer. We specialize in research, development, and manufacturing of modern automatic hydraulic oil press series and edible oil refining production line equipment.</p>
+    <p>The company is strategically located in Qingzhou City, Shandong Province, with convenient transportation access. We have a 20,000 square meter modern production facility equipped with advanced production equipment and testing instruments, producing over 2,000 hydraulic oil press machines annually.</p>
+    <p>Adhering to the business philosophy of "Quality First, Customer Priority", our products are exported to more than 30 countries and regions including Southeast Asia, Africa, and the Middle East.</p>
+    <a href="/about/" class="learn-more">Learn More →</a>
   </div>
   <div class="intro-image">
-    <img src="https://i.postimg.cc/WTGcb8WY/26ce783e76d55ee47b2a3b9ca4d2f4f9.jpg" alt="盛世赫程工厂" />
+    <img src="/images/hero-oil-press.jpg" alt="Shengshi Hecheng Factory" />
   </div>
 </div>
 
-## 产品系列
+## Product Series
 
 <div class="product-series">
   <div class="product-card">
-    <img src="https://i.postimg.cc/hDSpTNj7/202509021048710.png" alt="300系列榨油机" />
-    <h3>300系列</h3>
-    <p>适合小型作坊，日产油量0.3-0.8吨</p>
-    <a href="/zh/products/300" class="learn-more">了解更多</a>
+    <img src="/images/300-325-series.webp" alt="300 Series Oil Press" />
+    <h3>300 Series</h3>
+    <p>Suitable for small workshops, daily oil production 0.3-0.8 tons</p>
+    <a href="/products/300" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
-    <img src="https://i.postimg.cc/hDSpTNj7/202509021048710.png" alt="325系列榨油机" />
-    <h3>325系列</h3>
-    <p>适合小型作坊，日产油量0.5-1吨</p>
-    <a href="/zh/products/325" class="learn-more">了解更多</a>
+    <img src="/images/300-325-series.webp" alt="325 Series Oil Press" />
+    <h3>325 Series</h3>
+    <p>Suitable for small workshops, daily oil production 0.5-1 ton</p>
+    <a href="/products/325" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
-    <img src="https://i.postimg.cc/zJjVksQn/202509021406600.png" alt="355系列榨油机" />
-    <h3>355系列</h3>
-    <p>适合中小型企业，日产油量1-2吨</p>
-    <a href="/zh/products/355" class="learn-more">了解更多</a>
+    <img src="/images/355-500-series.webp" alt="355 Series Oil Press" />
+    <h3>355 Series</h3>
+    <p>Suitable for small to medium enterprises, daily oil production 1-2 tons</p>
+    <a href="/products/355" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
-    <img src="https://i.postimg.cc/zJjVksQn/202509021406600.png" alt="400系列榨油机" />
-    <h3>400系列</h3>
-    <p>适合中型企业，日产油量2-3吨</p>
-    <a href="/zh/products/400" class="learn-more">了解更多</a>
+    <img src="/images/355-500-series.webp" alt="400 Series Oil Press" />
+    <h3>400 Series</h3>
+    <p>Suitable for medium enterprises, daily oil production 2-3 tons</p>
+    <a href="/products/400" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
-    <img src="https://i.postimg.cc/zJjVksQn/202509021406600.png" alt="426系列榨油机" />
-    <h3>426系列</h3>
-    <p>适合中大型企业，日产油量3-5吨</p>
-    <a href="/zh/products/426" class="learn-more">了解更多</a>
+    <img src="/images/355-500-series.webp" alt="426 Series Oil Press" />
+    <h3>426 Series</h3>
+    <p>Suitable for medium to large enterprises, daily oil production 3-5 tons</p>
+    <a href="/products/426" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
-    <img src="https://i.postimg.cc/zJjVksQn/202509021406600.png" alt="480系列榨油机" />
-    <h3>480系列</h3>
-    <p>适合大型企业，日产油量5-8吨</p>
-    <a href="/zh/products/480" class="learn-more">了解更多</a>
+    <img src="/images/355-500-series.webp" alt="480 Series Oil Press" />
+    <h3>480 Series</h3>
+    <p>Suitable for large enterprises, daily oil production 5-8 tons</p>
+    <a href="/products/480" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
-    <img src="https://i.postimg.cc/zJjVksQn/202509021406600.png" alt="500系列榨油机" />
-    <h3>500系列</h3>
-    <p>适合超大型企业，日产油量8-15吨</p>
-    <a href="/zh/products/500" class="learn-more">了解更多</a>
+    <img src="/images/355-500-series.webp" alt="500 Series Oil Press" />
+    <h3>500 Series</h3>
+    <p>Suitable for super large enterprises, daily oil production 8-15 tons</p>
+    <a href="/products/500" class="learn-more">Learn More</a>
   </div>
 </div>
 
-## 产品优势
+## Product Advantages
 
 <div class="advantages-grid">
   <div class="advantage-item">
     <div class="advantage-icon">🔍</div>
-    <h3>高效生产</h3>
-    <p>压榨效率比传统设备提高30-50%，自动化操作系统减少人工干预，具备强大的连续作业能力</p>
+    <h3>High Efficiency Production</h3>
+    <p>30-50% higher pressing efficiency compared to traditional equipment, automated operating system reducing manual intervention, with strong continuous operation capability</p>
   </div>
   <div class="advantage-item">
     <div class="advantage-icon">💧</div>
-    <h3>优质出油率</h3>
-    <p>精确压力控制，出油率超过95%，低温冷榨工艺保留营养成分，适用于多种油料作物</p>
+    <h3>Superior Oil Yield</h3>
+    <p>Precise pressure control with oil yield over 95%, low-temperature cold pressing process preserving nutrients, applicable to a wide variety of oil crops</p>
   </div>
   <div class="advantage-item">
     <div class="advantage-icon">🛠️</div>
-    <h3>坚固耐用</h3>
-    <p>采用高强度合金钢材料，关键部件经特殊热处理，使用寿命长达15-20年，大大降低维护成本</p>
+    <h3>Durable Construction</h3>
+    <p>Made of high-strength alloy steel, key components undergo special heat treatment, with a service life of 15-20 years, significantly reducing maintenance costs</p>
   </div>
   <div class="advantage-item">
     <div class="advantage-icon">🌿</div>
-    <h3>绿色环保</h3>
-    <p>无需添加任何化学溶剂，物理压榨工艺，生产过程零污染，符合现代食品安全标准</p>
+    <h3>Environmentally Friendly</h3>
+    <p>No chemical solvents required, physical pressing process, zero pollution during production, complying with modern food safety standards</p>
   </div>
 </div>
 
-## 适用原料
+## Applicable Raw Materials
 
 <div class="materials-section">
   <div class="materials-grid">
     <div class="material-item">
-      <img src="/images/peanut.svg" alt="花生" />
-      <span>花生</span>
+      <img src="/images/peanut.svg" alt="Peanut" />
+      <span>Peanut</span>
     </div>
     <div class="material-item">
-      <img src="/images/soybean.svg" alt="大豆" />
-      <span>大豆</span>
+      <img src="/images/soybean.svg" alt="Soybean" />
+      <span>Soybean</span>
     </div>
     <div class="material-item">
-      <img src="/images/tea-seed.svg" alt="茶籽" />
-      <span>茶籽</span>
+      <img src="/images/tea-seed.svg" alt="Tea Seed" />
+      <span>Tea Seed</span>
     </div>
     <div class="material-item">
-      <img src="/images/sesame.svg" alt="芝麻" />
-      <span>芝麻</span>
+      <img src="/images/sesame.svg" alt="Sesame" />
+      <span>Sesame</span>
     </div>
     <div class="material-item">
-      <img src="/images/corn.svg" alt="玉米胚芽" />
-      <span>玉米胚芽</span>
+      <img src="/images/corn.svg" alt="Corn Germ" />
+      <span>Corn Germ</span>
     </div>
     <div class="material-item">
-      <img src="/images/flax.svg" alt="亚麻" />
-      <span>亚麻</span>
+      <img src="/images/flax.svg" alt="Flax" />
+      <span>Flax</span>
     </div>
     <div class="material-item">
-      <img src="/images/rapeseed.svg" alt="油菜籽" />
-      <span>油菜籽</span>
+      <img src="/images/rapeseed.svg" alt="Rapeseed" />
+      <span>Rapeseed</span>
     </div>
     <div class="material-item">
-      <img src="/images/cottonseed.svg" alt="棉籽" />
-      <span>棉籽</span>
+      <img src="/images/cottonseed.svg" alt="Cottonseed" />
+      <span>Cottonseed</span>
     </div>
   </div>
-  <p class="materials-more">以及其他植物油料作物和动物油籽</p>
+  <p class="materials-more">And other vegetable oil crops and animal oilseeds</p>
 </div>
 
-## 工程服务
+## Engineering Services
 
 <div class="services-section">
   <div class="service-item">
-    <h3>方案设计</h3>
-    <p>基于CAD设计系统提供专业设计，根据客户需求定制最优榨油方案</p>
+    <h3>Solution Design</h3>
+    <p>Professional design based on CAD system, customizing optimal oil pressing solutions according to customer requirements</p>
   </div>
   <div class="service-item">
-    <h3>生产线定制</h3>
-    <p>可定制日产1-100吨的生产线，从原料预处理到成品包装的全套解决方案</p>
+    <h3>Production Line Customization</h3>
+    <p>Customizable production line with 1-100 tons daily output, complete solutions from raw material pre-treatment to finished product packaging</p>
   </div>
   <div class="service-item">
-    <h3>安装调试</h3>
-    <p>专业技术团队提供现场安装指导和设备调试，确保设备正常运行</p>
+    <h3>Installation & Commissioning</h3>
+    <p>Professional technical team providing on-site installation guidance and equipment commissioning to ensure normal operation</p>
   </div>
   <div class="service-item">
-    <h3>售后保障</h3>
-    <p>提供全方位技术支持和售后服务，24小时响应机制，终身维护</p>
+    <h3>After-sales Support</h3>
+    <p>Comprehensive technical support and after-sales service, 24-hour response mechanism, lifetime maintenance</p>
   </div>
 </div>
 
-## 客户案例
+## Customer Cases
 
 <div class="case-studies">
   <div class="case-item">
-    <img src="/images/case1.svg" alt="新疆油厂案例" />
+    <img src="/images/case1.svg" alt="Xinjiang Oil Factory Case" />
     <div class="case-content">
-      <h3>新疆大型油厂</h3>
-      <p>采用我公司425系列榨油机，日产油20吨，出油率提高15%，年增收200万元</p>
+      <h3>Large Oil Factory in Xinjiang</h3>
+      <p>Using our 425 Series oil press, with a daily output of 20 tons, oil yield increased by 15%, resulting in an annual revenue increase of 2 million yuan</p>
     </div>
   </div>
   <div class="case-item">
-    <img src="/images/case2.svg" alt="东南亚客户案例" />
-    <h3>东南亚客户</h3>
-    <p>引进我公司全套榨油生产线，实现了从手工作坊到现代化工厂的转变，产能提升5倍</p>
+    <img src="/images/case2.svg" alt="Southeast Asian Customer Case" />
+    <h3>Southeast Asian Customer</h3>
+    <p>Introduced our complete oil pressing production line, transforming from a manual workshop to a modern factory, with a 5-fold increase in production capacity</p>
   </div>
 </div>
 
-## 联系我们
+## Contact Us
 
 <div class="contact-section">
   <div class="contact-info">
-    <h3>Gavin Lee - 专业的销售总监为您提供服务</h3>
-    <p><strong>📱 微信：</strong> +8619906365856</p>
-    <p><strong>📱 WhatsApp：</strong> +8619906365856</p>
-    <p><strong>📧 邮箱：</strong> roryshanshan@gmail.com</p>
-    <p><strong>📧 商务：</strong> gavin@oil-pressing-machine.com</p>
-    <p><strong>🏭 地址：</strong> 山东省潍坊市青州市开发区益能街5888号</p>
-    <a href="/zh/contact/" class="contact-button">联系我们</a>
+    <h3>Gavin Lee - Professional Sales Director at Your Service</h3>
+    <p><strong>📱 WeChat:</strong> +8619906365856</p>
+    <p><strong>📱 WhatsApp:</strong> +8619906365856</p>
+    <p><strong>📧 Email:</strong> roryshanshan@gmail.com</p>
+    <p><strong>📧 Business:</strong> gavin@oil-pressing-machine.com</p>
+    <p><strong>🏭 Address:</strong> No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China</p>
+    <a href="/contact/" class="contact-button">Contact Us</a>
   </div>
   <div class="contact-form">
     <form action="https://formspree.io/f/xblaoewy" method="POST">
-      <input type="text" id="name" name="name" placeholder="您的姓名" required />
-      <input type="email" id="email" name="email" placeholder="您的邮箱地址" required />
-      <input type="tel" id="phone" name="phone" placeholder="联系电话" required />
-      <input type="hidden" name="_subject" value="首页咨询表单" />
-      <input type="hidden" name="_next" value="/zh/contact/" />
-      <textarea id="message" name="message" rows="5" placeholder="留言内容" required></textarea>
-      <button type="submit">提交咨询</button>
+      <input type="text" id="name" name="name" placeholder="Your Name" required />
+      <input type="email" id="email" name="email" placeholder="Your Email Address" required />
+      <input type="tel" id="phone" name="phone" placeholder="Contact Number" required />
+      <input type="hidden" name="_subject" value="Homepage Inquiry Form" />
+      <input type="hidden" name="_next" value="/contact/" />
+      <textarea id="message" name="message" rows="5" placeholder="Message" required></textarea>
+      <button type="submit">Submit Inquiry</button>
     </form>
   </div>
 </div>
 
-::: tip 温馨提示
-您的一站式油料加工基地，我们致力于为您提供最优质的榨油设备解决方案。
+::: tip Note
+Your one-stop oil processing base - we are committed to providing you with the highest quality oil pressing equipment solutions.
 :::
 
 <style>
-/* 英雄区域样式 */
+/* Hero Section Styles */
 .hero-section {
   display: flex;
   align-items: center;
@@ -273,7 +278,7 @@ if (typeof window !== 'undefined') {
   background-color: var(--vp-c-brand-dark);
 }
 
-/* 公司简介样式 */
+/* Company Intro Styles */
 .company-intro {
   display: flex;
   gap: 2rem;
@@ -290,7 +295,7 @@ if (typeof window !== 'undefined') {
   padding: 0;
 }
 
-/* 产品系列样式 */
+/* Product Series Styles */
 .product-series {
   display: flex;
   gap: 1.5rem;
@@ -327,7 +332,7 @@ if (typeof window !== 'undefined') {
   padding: 0;
 }
 
-/* 产品优势样式 */
+/* Advantages Styles */
 .advantages-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
@@ -351,7 +356,7 @@ if (typeof window !== 'undefined') {
   margin: 0.5rem 0;
 }
 
-/* 适用原料样式 */
+/* Materials Styles */
 .materials-section {
   margin: 2rem 0;
 }
@@ -379,7 +384,7 @@ if (typeof window !== 'undefined') {
   font-style: italic;
 }
 
-/* 工程服务样式 */
+/* Services Styles */
 .services-section {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
@@ -400,7 +405,7 @@ if (typeof window !== 'undefined') {
   color: var(--vp-c-brand);
 }
 
-/* 客户案例样式 */
+/* Case Studies Styles */
 .case-studies {
   display: flex;
   flex-direction: column;
@@ -428,7 +433,7 @@ if (typeof window !== 'undefined') {
   margin: 0 0 0.5rem 0;
 }
 
-/* 联系我们样式 */
+/* Contact Styles */
 .contact-section {
   display: flex;
   gap: 2rem;
@@ -473,7 +478,7 @@ if (typeof window !== 'undefined') {
   background-color: var(--vp-c-brand-dark);
 }
 
-/* 响应式调整 */
+/* Responsive Adjustments */
 @media (max-width: 768px) {
   .hero-section, .company-intro {
     flex-direction: column;

@@ -143,8 +143,10 @@ if (typeof window !== 'undefined') {
 
 @media (max-width: 768px) {
   .language-selector-container {
-    top: 5px;
-    right: 5px;
+    top: auto;
+    bottom: 20px;
+    right: 20px;
+    left: auto;
   }
 
   .language-button {
@@ -154,6 +156,8 @@ if (typeof window !== 'undefined') {
 
   .language-dropdown {
     min-width: 100px;
+    bottom: 100%;
+    top: auto;
   }
 
   .language-option {
@@ -161,42 +165,4 @@ if (typeof window !== 'undefined') {
     font-size: 12px;
   }
 }
-</style>
-</script>
-
-<style scoped>
-.lang-select {
-  position: fixed;
-  top: 10px;
-  right: 10px;
-  z-index: 9999;
-  padding: 6px 8px;
-  font-size: 14px;
-  background: white;
-  border: 1px solid #ddd;
-  border-radius: 6px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  cursor: pointer;
-  appearance: none;
-  -webkit-appearance: none;
-  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
-  background-repeat: no-repeat;
-  background-position: right 8px center;
-  background-size: 12px;
-  padding-right: 28px;
-}
-
-@media (max-width: 768px) {
-  .lang-select {
-    top: 5px;
-    right: 5px;
-    font-size: 12px;
-    padding: 4px 24px 4px 6px;
-    background-size: 10px;
-    background-position: right 6px center;
-  }
-}
-</style>
-</style>
-
 </style>
