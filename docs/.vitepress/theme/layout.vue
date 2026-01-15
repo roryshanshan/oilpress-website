@@ -647,47 +647,61 @@ const toggleMobileWechatQR = () => {
   showMobileWechatQR.value = !showMobileWechatQR.value
 }
 
-// 切换到指定语言
+// 切换到指定语言 - 修复核心问题
 const switchToLanguage = (lang) => {
   showDropdown.value = false
 
-  // 获取当前页面路径（去除语言前缀和.md扩展名）
-  let basePath = ''
-  const currentPath = page.value.relativePath
+  // 使用 VitePress 的相对路径，移除 .md 扩展名
+  const currentPath = page.value.relativePath.replace(/\.md$/, '')
 
-  basePath = currentPath.replace(/^(zh|ru|fr|bn|en|vi)\//, '').replace(/\.md$/, '').replace(/\/index$/, '')
+  // 提取内容路径和当前语言
+  let contentPath = currentPath
+  let currentLang = 'en' // 默认英文
 
-  // 处理首页路径
-  if (basePath === 'index' || basePath === '') {
-    basePath = ''
+  const langPrefixes = ['zh', 'en', 'ru', 'fr', 'bn', 'vi']
+
+  for (const prefix of langPrefixes) {
+    if (contentPath.startsWith(`${prefix}/`)) {
+      currentLang = prefix
+      contentPath = contentPath.substring(prefix.length + 1)
+      break
+    } else if (contentPath === prefix) {
+      currentLang = prefix
+      contentPath = ''
+      break
+    }
+  }
+
+  // 如果是根路径或 index，认为是英文
+  if (currentPath === '' || currentPath === 'index') {
+    currentLang = 'en'
+    contentPath = ''
+  }
+
+  // 如果已经在目标语言，不切换
+  if (currentLang === lang) {
+    return
+  }
+
+  // 清理内容路径
+  contentPath = contentPath.replace(/^\/+|\/+$/g, '')
+  if (contentPath === 'index' || contentPath.endsWith('/index')) {
+    contentPath = contentPath.replace(/\/index$/, '')
   }
 
   // 构建目标路径
   let targetPath = ''
-  if (lang === 'zh') {
-    targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
-  } else if (lang === 'en') {
-    targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
-  } else if (lang === 'ru') {
-    targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
-  } else if (lang === 'fr') {
-    targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
-  } else if (lang === 'bn') {
-    targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
-  } else if (lang === 'vi') {
-    targetPath = basePath === '' ? `/${lang}/` : `/${lang}/${basePath}/`
+  if (lang === 'en') {
+    // 英文加前缀
+    targetPath = contentPath === '' ? '/en/' : `/en/${contentPath}/`
   } else {
-    // 默认语言（英文）
-    targetPath = basePath === '' ? '/' : `/${basePath}/`
+    // 其他语言加前缀
+    targetPath = contentPath === '' ? `/${lang}/` : `/${lang}/${contentPath}/`
   }
 
-  console.log('Current path:', currentPath) // 调试信息
-  console.log('Base path:', basePath) // 调试信息
-  console.log('Target path:', targetPath) // 调试信息
-
-  // 使用window.location进行导航，避免VitePress路由问题
-  if (targetPath) {
-    window.location.href = targetPath
+  // 使用VitePress路由进行导航
+  if (targetPath && targetPath !== `/${currentPath}/`) {
+    router.push(targetPath)
   }
 }
 
@@ -757,6 +771,7 @@ onMounted(() => {
     window.removeEventListener('resize', updateMobileState)
   })
 })
+
 </script>
 
 <style scoped>
@@ -764,7 +779,7 @@ onMounted(() => {
   .mobile-lang-switcher {
     display: none;
   }
-  
+
   .mobile-menu-button {
     display: none;
   }

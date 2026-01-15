@@ -1,5 +1,19 @@
 export default {
   lastUpdated: true,
+  // 移除 rewrites 配置，让 VitePress 的多语言路由系统自然工作
+  // 这些重写规则可能导致路由混乱和多重语言前缀问题
+  
+  // 添加智能的根路径处理
+  transformPageData: (pageData, { site }) => {
+    // 处理根路径重定向逻辑
+    if (pageData.relativePath === 'index.md') {
+      // 可以在这里添加智能的语言检测逻辑
+      // 例如基于浏览器语言偏好、用户之前的设置等
+      // 暂时保持默认行为，让 VitePress 的多语言系统自然处理
+    }
+    return pageData;
+  },
+  
   sitemap: {
     hostname: 'https://hydraulicoilpressing.opchn.com/',
     lastmod: new Date().toISOString(),
@@ -102,7 +116,7 @@ s0.parentNode.insertBefore(s1,s0);
           { text: '📞 Contact Us', link: '/en/contact/' }
         ],
         sidebar: {
-          '/en/products': [
+          '/products': [
             {
               text: 'Products',
               collapsed: false,
@@ -194,12 +208,12 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/en/solutions': [
+          '/solutions': [
             {
               text: 'Solutions',
               collapsed: false,
               items: [
-                { text: 'Solutions Overview', link: '/en/solutions/' },
+                { text: 'Solutions Overview', link: '/solutions/' },
                 {
                   text: 'By Oil Type',
                   collapsed: true,
@@ -208,56 +222,56 @@ s0.parentNode.insertBefore(s1,s0);
                       text: '🌾 Grain and Seed Oils',
                       collapsed: true,
                       items: [
-                        { text: 'Grain and Seed Oils Overview', link: '/en/solutions/seed-oils' },
-                        { text: '🌱 Soybean Oil', link: '/en/solutions/soybean' },
-                        { text: '🥜 Peanut Oil', link: '/en/solutions/peanut' },
-                        { text: '🌰 Sesame Oil', link: '/en/solutions/sesame' },
-                        { text: '🌿 Rapeseed Oil', link: '/en/solutions/rapeseed' },
-                        { text: '🌻 Sunflower Oil', link: '/en/solutions/sunflower' },
-                        { text: '🧵 Cottonseed Oil', link: '/en/solutions/cottonseed' },
-                        { text: '🌾 Flaxseed Oil', link: '/en/solutions/flaxseed' },
-                        { text: '🍵 Tea Seed Oil', link: '/en/solutions/tea-seed' },
-                        { text: '🌱 Perilla Oil', link: '/en/solutions/perilla' }
+                        { text: 'Grain and Seed Oils Overview', link: '/solutions/seed-oils' },
+                        { text: '🌱 Soybean Oil', link: '/solutions/soybean' },
+                        { text: '🥜 Peanut Oil', link: '/solutions/peanut' },
+                        { text: '🌰 Sesame Oil', link: '/solutions/sesame' },
+                        { text: '🌿 Rapeseed Oil', link: '/solutions/rapeseed' },
+                        { text: '🌻 Sunflower Oil', link: '/solutions/sunflower' },
+                        { text: '🧵 Cottonseed Oil', link: '/solutions/cottonseed' },
+                        { text: '🌾 Flaxseed Oil', link: '/solutions/flaxseed' },
+                        { text: '🍵 Tea Seed Oil', link: '/solutions/tea-seed' },
+                        { text: '🌱 Perilla Oil', link: '/solutions/perilla' }
                       ]
                     },
                     {
                       text: '🥜 Nut Oils',
                       collapsed: true,
                       items: [
-                        { text: 'Nut Oils Overview', link: '/en/solutions/nuts' },
-                        { text: '🥥 Coconut Oil', link: '/en/solutions/coconut' },
-                        { text: '🌴 Palm Oil', link: '/en/solutions/palm' },
-                        { text: '🥜 Walnut Oil', link: '/en/solutions/walnut' },
-                        { text: '🌰 Almond Oil', link: '/en/solutions/almond' },
-                        { text: '🌰 Hazelnut Oil', link: '/en/solutions/hazelnut' },
-                        { text: '🥜 Cashew Oil', link: '/en/solutions/cashew' },
-                        { text: '🥜 Pistachio Oil', link: '/en/solutions/pistachio' }
+                        { text: 'Nut Oils Overview', link: '/solutions/nuts' },
+                        { text: '🥥 Coconut Oil', link: '/solutions/coconut' },
+                        { text: '🌴 Palm Oil', link: '/solutions/palm' },
+                        { text: '🥜 Walnut Oil', link: '/solutions/walnut' },
+                        { text: '🌰 Almond Oil', link: '/solutions/almond' },
+                        { text: '🌰 Hazelnut Oil', link: '/solutions/hazelnut' },
+                        { text: '🥜 Cashew Oil', link: '/solutions/cashew' },
+                        { text: '🥜 Pistachio Oil', link: '/solutions/pistachio' }
                       ]
                     },
                     {
                       text: '🥑 Fruit Oils',
                       collapsed: true,
                       items: [
-                        { text: 'Fruit Oils Overview', link: '/en/solutions/fruits' },
-                        { text: '🥑 Avocado Oil', link: '/en/solutions/avocado' },
-                        { text: '🍇 Grape Seed Oil', link: '/en/solutions/grape-seed' },
-                        { text: '🎃 Pumpkin Seed Oil', link: '/en/solutions/pumpkin-seed' },
-                        { text: '🍉 Watermelon Seed Oil', link: '/en/solutions/watermelon-seed' },
-                        { text: '🍑 Peach Kernel Oil', link: '/en/solutions/peach-kernel' },
-                        { text: '🌰 Apricot Kernel Oil', link: '/en/solutions/apricot-kernel' }
+                        { text: 'Fruit Oils Overview', link: '/solutions/fruits' },
+                        { text: '🥑 Avocado Oil', link: '/solutions/avocado' },
+                        { text: '🍇 Grape Seed Oil', link: '/solutions/grape-seed' },
+                        { text: '🎃 Pumpkin Seed Oil', link: '/solutions/pumpkin-seed' },
+                        { text: '🍉 Watermelon Seed Oil', link: '/solutions/watermelon-seed' },
+                        { text: '🍑 Peach Kernel Oil', link: '/solutions/peach-kernel' },
+                        { text: '🌰 Apricot Kernel Oil', link: '/solutions/apricot-kernel' }
                       ]
                     },
                     {
                       text: '⚙️ Other Special Oils',
                       collapsed: true,
                       items: [
-                        { text: 'Special Oils Overview', link: '/en/solutions/special-oils' },
-                        { text: '🍚 Rice Bran Oil', link: '/en/solutions/rice-bran' },
-                        { text: '🌽 Corn Germ Oil', link: '/en/solutions/corn-germ' },
-                        { text: '🌿 Castor Seed Oil', link: '/en/solutions/castor-seed' },
-                        { text: '🌶️ Chili Seed Oil', link: '/en/solutions/chili-seed' },
-                        { text: '🍇 Grape Seed Oil', link: '/en/solutions/grape-seed' },
-                        { text: '🌾 Buckwheat Oil', link: '/en/solutions/buckwheat' }
+                        { text: 'Special Oils Overview', link: '/solutions/special-oils' },
+                        { text: '🍚 Rice Bran Oil', link: '/solutions/rice-bran' },
+                        { text: '🌽 Corn Germ Oil', link: '/solutions/corn-germ' },
+                        { text: '🌿 Castor Seed Oil', link: '/solutions/castor-seed' },
+                        { text: '🌶️ Chili Seed Oil', link: '/solutions/chili-seed' },
+                        { text: '🍇 Grape Seed Oil', link: '/solutions/grape-seed' },
+                        { text: '🌾 Buckwheat Oil', link: '/solutions/buckwheat' }
                       ]
                     }
                   ]
@@ -266,69 +280,69 @@ s0.parentNode.insertBefore(s1,s0);
                   text: 'By Scale',
                   collapsed: true,
                   items: [
-                    { text: '🏠 Small Oil Mill Solution', link: '/en/solutions/small-workshop' },
-                    { text: '🏭 Medium Oil Factory Solution', link: '/en/solutions/medium-factory' },
-                    { text: '🏢 Large Industrial Solution', link: '/en/solutions/large-industrial' },
-                    { text: '🔬 Special Oil Processing Solution', link: '/en/solutions/special-oil' }
+                    { text: '🏠 Small Oil Mill Solution', link: '/solutions/small-workshop' },
+                    { text: '🏭 Medium Oil Factory Solution', link: '/solutions/medium-factory' },
+                    { text: '🏢 Large Industrial Solution', link: '/solutions/large-industrial' },
+                    { text: '🔬 Special Oil Processing Solution', link: '/solutions/special-oil' }
                   ]
                 },
                 {
                   text: 'Filling Supporting Solutions',
                   collapsed: true,
                   items: [
-                    { text: 'Filling Packages Overview', link: '/en/solutions/filling-packages' },
-                    { text: 'Bottle Washing Machine Series', link: '/en/solutions/bottle-washing/' },
-                    { text: 'Filling Machine Series', link: '/en/solutions/filling/' },
-                    { text: 'Light Inspection Machine Series', link: '/en/solutions/light-inspection/' },
-                    { text: 'Sealing Machine Series', link: '/en/solutions/sealing/' },
-                    { text: 'Corking Machine Series', link: '/en/solutions/corking/' },
-                    { text: 'Cap Shrinking Machine Series', link: '/en/solutions/cap-shrinking/' },
-                    { text: 'Drying Machine Series', link: '/en/solutions/drying/' },
-                    { text: 'Labeling Machine Series', link: '/en/solutions/labeling/' },
-                    { text: 'Laser Coding Machine Series', link: '/en/solutions/laser-coding/' },
-                    { text: 'Packing and Palletizing', link: '/en/solutions/packing-palletizing/' },
-                    { text: 'Fruit and Vegetable Pre-processing Equipment', link: '/en/solutions/fruit-veg-processing/' },
-                    { text: 'Filtering Machine Series', link: '/en/solutions/filtering/' },
-                    { text: 'Brewing Equipment Series', link: '/en/solutions/brewing/' },
-                    { text: 'Dairy Processing Equipment', link: '/en/solutions/dairy-processing/' }
+                    { text: 'Filling Packages Overview', link: '/solutions/filling-packages' },
+                    { text: 'Bottle Washing Machine Series', link: '/solutions/bottle-washing/' },
+                    { text: 'Filling Machine Series', link: '/solutions/filling/' },
+                    { text: 'Light Inspection Machine Series', link: '/solutions/light-inspection/' },
+                    { text: 'Sealing Machine Series', link: '/solutions/sealing/' },
+                    { text: 'Corking Machine Series', link: '/solutions/corking/' },
+                    { text: 'Cap Shrinking Machine Series', link: '/solutions/cap-shrinking/' },
+                    { text: 'Drying Machine Series', link: '/solutions/drying/' },
+                    { text: 'Labeling Machine Series', link: '/solutions/labeling/' },
+                    { text: 'Laser Coding Machine Series', link: '/solutions/laser-coding/' },
+                    { text: 'Packing and Palletizing', link: '/solutions/packing-palletizing/' },
+                    { text: 'Fruit and Vegetable Pre-processing Equipment', link: '/solutions/fruit-veg-processing/' },
+                    { text: 'Filtering Machine Series', link: '/solutions/filtering/' },
+                    { text: 'Brewing Equipment Series', link: '/solutions/brewing/' },
+                    { text: 'Dairy Processing Equipment', link: '/solutions/dairy-processing/' }
                   ]
                 }
               ]
             }
           ],
-          '/en/about': [
+          '/about': [
             {
               text: 'About Us',
               collapsed: false,
               items: [
-                { text: 'Company Profile', link: '/en/about/' },
-                { text: 'Corporate Culture', link: '/en/about/culture' },
-                { text: 'Development History', link: '/en/about/history' },
-                { text: 'Honors and Qualifications', link: '/en/about/honors' },
-                { text: 'Team Introduction', link: '/en/about/team' }
+                { text: 'Company Profile', link: '/about/' },
+                { text: 'Corporate Culture', link: '/about/culture' },
+                { text: 'Development History', link: '/about/history' },
+                { text: 'Honors and Qualifications', link: '/about/honors' },
+                { text: 'Team Introduction', link: '/about/team' }
               ]
             }
           ],
-          '/en/advantages': [
+          '/advantages': [
             {
               text: 'Company Advantages',
               collapsed: false,
               items: [
-                { text: 'Advantages Overview', link: '/en/advantages/' },
-                { text: 'Technological Innovation', link: '/en/advantages/innovation' },
-                { text: 'Quality Assurance', link: '/en/advantages/quality' },
-                { text: 'Service and Support', link: '/en/advantages/service' },
-                { text: 'Success Cases', link: '/en/advantages/cases' }
+                { text: 'Advantages Overview', link: '/advantages/' },
+                { text: 'Technological Innovation', link: '/advantages/innovation' },
+                { text: 'Quality Assurance', link: '/advantages/quality' },
+                { text: 'Service and Support', link: '/advantages/service' },
+                { text: 'Success Cases', link: '/advantages/cases' }
               ]
             }
           ],
-          '/en/news': [
+          '/ru/news': [
             {
               text: 'News',
               collapsed: false,
               items: [
-                { text: 'News Center', link: '/en/news/' },
-                { text: 'Company News', link: '/en/news/company' }
+                { text: 'News Center', link: '/news/' },
+                { text: 'Company News', link: '/news/company' }
               ]
             }
           ]
@@ -381,107 +395,107 @@ s0.parentNode.insertBefore(s1,s0);
               text: '产品系列',
               collapsed: false,
               items: [
-                { text: '产品概览', link: '/zh/products/' },
+                { text: '产品概览', link: '/products/' },
                 {
                   text: '300系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述', link: '/zh/products/300' }
+                    { text: '系列概述', link: '/products/300' }
                   ]
                 },
                 {
                   text: '325系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述', link: '/zh/products/325' }
+                    { text: '系列概述', link: '/products/325' }
                   ]
                 },
                 {
                   text: '355系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述', link: '/zh/products/355' }
+                    { text: '系列概述', link: '/products/355' }
                   ]
                 },
                 {
                   text: '400系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述', link: '/zh/products/400' }
+                    { text: '系列概述', link: '/products/400' }
                   ]
                 },
                 {
                   text: '426系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述', link: '/zh/products/426' }
+                    { text: '系列概述', link: '/products/426' }
                   ]
                 },
                 {
                   text: '480系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述', link: '/zh/products/480' }
+                    { text: '系列概述', link: '/products/480' }
                   ]
                 },
                 {
                   text: '500系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述', link: '/zh/products/500' }
+                    { text: '系列概述', link: '/products/500' }
                   ]
                 },
                 {
                   text: '设备使用说明书',
                   collapsed: false,
                   items: [
-                    { text: '概述', link: '/zh/products/instruction-manual' }
+                    { text: '概述', link: '/products/instruction-manual' }
                   ]
                 },
                 {
                   text: '客户定制款液压榨油机',
                   collapsed: false,
                   items: [
-                    { text: '概述', link: '/zh/products/customized-hydraulic-oil-press' }
+                    { text: '概述', link: '/products/customized-hydraulic-oil-press' }
                   ]
                 },
                 {
                   text: '客户订货发货视频',
                   collapsed: false,
                   items: [
-                    { text: '概述', link: '/zh/products/customer-order-shipping-video' }
+                    { text: '概述', link: '/products/customer-order-shipping-video' }
                   ]
                 },
                 {
                   text: '配套设备',
                   collapsed: false,
                   items: [
-                    { text: '设备概述', link: '/zh/products/supporting' },
+                    { text: '设备概述', link: '/products/supporting' },
                     {
                       text: '预处理设备',
                       collapsed: false,
                       items: [
-                        { text: '概述', link: '/zh/products/pre-treatment' },
-                        { text: '11kw高速粉碎机', link: '/zh/products/11kw-high-speed-pulverizer' },
-                        { text: '27kw电蒸锅', link: '/zh/products/27kw-electric-steamer' },
-                        { text: '胡麻亚麻籽研磨搅拌一体机', link: '/zh/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine' },
-                        { text: '自动滚筒炒锅', link: '/zh/products/automatic-drum-roaster' },
-                        { text: '饼粕包饼机', link: '/zh/products/cake-wrapping-machine' },
-                        { text: '上料/粉碎/炒制一体机', link: '/zh/products/feeding-crushing-frying-integrated-machine' },
-                        { text: '导热油平底煎锅', link: '/zh/products/heat-conducting-oil-flat-bottom-frying-pan' },
-                        { text: '气动滤油机', link: '/zh/products/pneumatic-filter-press' },
-                        { text: '预榨机', link: '/zh/products/pre-press-machine' },
-                        { text: '燃木蒸锅', link: '/zh/products/wood-fired-steamer' },
-                        { text: '燃木导热油平底锅', link: '/zh/products/wood-fired-thermal-oil-flat-bottom-wok' }
+                        { text: '概述', link: '/products/pre-treatment' },
+                        { text: '11kw高速粉碎机', link: '/products/11kw-high-speed-pulverizer' },
+                        { text: '27kw电蒸锅', link: '/products/27kw-electric-steamer' },
+                        { text: '胡麻亚麻籽研磨搅拌一体机', link: '/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine' },
+                        { text: '自动滚筒炒锅', link: '/products/automatic-drum-roaster' },
+                        { text: '饼粕包饼机', link: '/products/cake-wrapping-machine' },
+                        { text: '上料/粉碎/炒制一体机', link: '/products/feeding-crushing-frying-integrated-machine' },
+                        { text: '导热油平底煎锅', link: '/products/heat-conducting-oil-flat-bottom-frying-pan' },
+                        { text: '气动滤油机', link: '/products/pneumatic-filter-press' },
+                        { text: '预榨机', link: '/products/pre-press-machine' },
+                        { text: '燃木蒸锅', link: '/products/wood-fired-steamer' },
+                        { text: '燃木导热油平底锅', link: '/products/wood-fired-thermal-oil-flat-bottom-wok' }
                       ]
                     },
                     {
                       text: '后处理设备',
                       collapsed: false,
                       items: [
-                        { text: '概述', link: '/zh/products/post-treatment' },
-                        { text: '饼粕粉碎机', link: '/zh/products/cake-pulverizer' },
-                        { text: '食用油精炼设备', link: '/zh/products/edible-oil-refining-equipment' }
+                        { text: '概述', link: '/products/post-treatment' },
+                        { text: '饼粕粉碎机', link: '/products/cake-pulverizer' },
+                        { text: '食用油精炼设备', link: '/products/edible-oil-refining-equipment' }
                       ]
                     }
                   ]
@@ -1161,7 +1175,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/fr/about': [
+          '/ru/about': [
             {
               text: 'À propos',
               collapsed: false,
@@ -1174,7 +1188,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/fr/advantages': [
+          '/ru/advantages': [
             {
               text: 'Avantages de l\'entreprise',
               collapsed: false,
@@ -1187,7 +1201,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/fr/news': [
+          '/ru/news': [
             {
               text: 'Actualités',
               collapsed: false,
@@ -1213,16 +1227,16 @@ s0.parentNode.insertBefore(s1,s0);
       description: 'Nhà sản xuất máy ép dầu chuyên nghiệp',
       themeConfig: {
         nav: [
-          { text: 'Trang chủ', link: '/vi/' },
-          { text: 'Sản phẩm', link: '/vi/products/' },
-          { text: 'Giải pháp', link: '/vi/solutions/' },
-          { text: 'Ưu điểm', link: '/vi/advantages/' },
-          { text: 'Tin tức', link: '/vi/news/' },
-          { text: 'Về chúng tôi', link: '/vi/about/' },
-          { text: 'Liên hệ', link: '/vi/contact/' }
+          { text: 'Trang chủ', link: '/' },
+          { text: 'Sản phẩm', link: '/products/' },
+          { text: 'Giải pháp', link: '/solutions/' },
+          { text: 'Ưu điểm', link: '/advantages/' },
+          { text: 'Tin tức', link: '/news/' },
+          { text: 'Về chúng tôi', link: '/about/' },
+          { text: 'Liên hệ', link: '/contact/' }
         ],
         sidebar: {
-          '/vi/products': [
+          '/fr/products': [
             {
               text: 'Sản phẩm',
               collapsed: false,
@@ -1315,7 +1329,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/vi/solutions': [
+          '/fr/solutions': [
             {
               text: 'Giải pháp',
               collapsed: false,
@@ -1336,7 +1350,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/vi/about': [
+          '/ru/about': [
             {
               text: 'Về chúng tôi',
               collapsed: false,
@@ -1349,7 +1363,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/vi/advantages': [
+          '/ru/advantages': [
             {
               text: 'Ưu điểm',
               collapsed: false,
@@ -1362,7 +1376,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/vi/news': [
+          '/ru/news': [
             {
               text: 'Tin tức',
               collapsed: false,
@@ -1382,51 +1396,51 @@ s0.parentNode.insertBefore(s1,s0);
       description: 'পেশাদার অয়েল প্রেস ম্যানুফ্যাকচারার',
       themeConfig: {
         nav: [
-          { text: 'হোম', link: '/bn/' },
+          { text: 'হোম', link: '/' },
           {
             text: 'পণ্যসমূহ',
-            link: '/bn/products/',
+            link: '/products/',
             items: [
-              { text: 'পণ্য ওভারভিউ', link: '/bn/products/' },
-              { text: '৩০০ সিরিজ', link: '/bn/products/300' },
-              { text: '৩২৫ সিরিজ', link: '/bn/products/325' },
-              { text: '৩৫৫ সিরিজ', link: '/bn/products/355' },
-              { text: '৪০০ সিরিজ', link: '/bn/products/400' },
-              { text: '৪২৬ সিরিজ', link: '/bn/products/426' },
-              { text: '৪৮০ সিরিজ', link: '/bn/products/480' },
-              { text: '৫০০ সিরিজ', link: '/bn/products/500' },
-              { text: 'যন্ত্রপাতি ব্যবহারের নির্দেশিকা', link: '/bn/products/instruction-manual' },
-              { text: 'কাস্টমাইজড হাইড্রোলিক অয়েল প্রেস', link: '/bn/products/customized-hydraulic-oil-press' },
-              { text: 'গ্রাহক অর্ডার শিপিং ভিডিও', link: '/bn/products/customer-order-shipping-video' },
-              { text: 'সহায়ক যন্ত্রপাতি', link: '/bn/products/supporting' }
+              { text: 'পণ্য ওভারভিউ', link: '/products/' },
+              { text: '৩০০ সিরিজ', link: '/products/300' },
+              { text: '৩২৫ সিরিজ', link: '/products/325' },
+              { text: '৩৫৫ সিরিজ', link: '/products/355' },
+              { text: '৪০০ সিরিজ', link: '/products/400' },
+              { text: '৪২৬ সিরিজ', link: '/products/426' },
+              { text: '৪৮০ সিরিজ', link: '/products/480' },
+              { text: '৫০০ সিরিজ', link: '/products/500' },
+              { text: 'যন্ত্রপাতি ব্যবহারের নির্দেশিকা', link: '/products/instruction-manual' },
+              { text: 'কাস্টমাইজড হাইড্রোলিক অয়েল প্রেস', link: '/products/customized-hydraulic-oil-press' },
+              { text: 'গ্রাহক অর্ডার শিপিং ভিডিও', link: '/products/customer-order-shipping-video' },
+              { text: 'সহায়ক যন্ত্রপাতি', link: '/products/supporting' }
             ]
           },
           {
             text: 'সমাধানসমূহ',
-            link: '/bn/solutions/',
+            link: '/solutions/',
             items: [
-              { text: 'সমাধান ওভারভিউ', link: '/bn/solutions/' },
-              { text: 'তেলের ধরন অনুসারে', link: '/bn/solutions/seed-oils' },
-              { text: 'ফিলিং সহায়ক সমাধান', link: '/bn/solutions/filling' }
+              { text: 'সমাধান ওভারভিউ', link: '/solutions/' },
+              { text: 'তেলের ধরন অনুসারে', link: '/solutions/seed-oils' },
+              { text: 'ফিলিং সহায়ক সমাধান', link: '/solutions/filling' }
             ]
           },
-          { text: 'সুবিধাসমূহ', link: '/bn/advantages/' },
-          { text: 'সংবাদ', link: '/bn/news/' },
-          { text: 'আমাদের সম্পর্কে', link: '/bn/about/' },
-          { text: 'যোগাযোগ', link: '/bn/contact/' }
+          { text: 'সুবিধাসমূহ', link: '/advantages/' },
+          { text: 'সংবাদ', link: '/news/' },
+          { text: 'আমাদের সম্পর্কে', link: '/about/' },
+          { text: 'যোগাযোগ', link: '/contact/' }
         ],
         sidebar: {
-          '/bn/products': [
+          '/fr/products': [
             {
               text: 'পণ্যসমূহ',
               collapsed: false,
               items: [
-                { text: 'পণ্য ওভারভিউ', link: '/bn/products/' },
+                { text: 'পণ্য ওভারভিউ', link: '/products/' },
                 {
                   text: '৩০০ সিরিজ',
                   collapsed: true,
                   items: [
-                    { text: 'সিরিজ ওভারভিউ', link: '/bn/products/300' }
+                    { text: 'সিরিজ ওভারভিউ', link: '/products/300' }
                   ]
                 },
                 {
@@ -1529,7 +1543,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/bn/solutions': [
+          '/fr/solutions': [
             {
               text: 'সমাধানসমূহ',
               collapsed: false,
@@ -1621,7 +1635,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/bn/about': [
+          '/ru/about': [
             {
               text: 'আমাদের সম্পর্কে',
               collapsed: false,
@@ -1634,7 +1648,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/bn/advantages': [
+          '/ru/advantages': [
             {
               text: 'কোমপানির সুবিধাসমূহ',
               collapsed: false,
@@ -1647,7 +1661,7 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ],
-          '/bn/news': [
+          '/ru/news': [
             {
               text: 'সংবাদ',
               collapsed: false,
@@ -1676,7 +1690,7 @@ s0.parentNode.insertBefore(s1,s0);
     // 社交 ссылки - уже удалены, используем иконки в пользовательском макете
     socialLinks: [],
     // 启用多语言路由
-    i18nRouting: true,
+    i18nRouting: false,
     // 启用完整的TOC（目录）
     outline: {
       level: [2, 6],
