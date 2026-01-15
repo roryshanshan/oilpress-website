@@ -17,6 +17,8 @@ keywords: Máy ép dầu đậu tương thủy lực, Máy ép dầu lạc thủ
 <div style="margin: 2rem 0;">
   <iframe width="100%" height="500" src="https://www.youtube.com/embed/3uE1lah9Dpw?autoplay=1&mute=0"
           frameborder="0"
+          loading="lazy"
+          title="Hydraulic Oil Press Working Video"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
           style="width: 100%; height: 500px; display: block;">

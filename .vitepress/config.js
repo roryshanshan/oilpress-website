@@ -44,7 +44,32 @@ export default defineConfig({
       label: 'English',
       lang: 'en',
       themeConfig: {
-        nav: [{ text: 'Home', link: '/' }]
+        nav: [
+          { text: 'Home', link: '/' },
+          { text: 'Products', link: '/products/' },
+          { text: 'Solutions', link: '/solutions/' },
+          { text: 'Advantages', link: '/advantages/' },
+          { text: 'News', link: '/news/' },
+          { text: 'Contact', link: '/contact/' }
+        ],
+        sidebar: {
+          '/products/': [
+            { text: 'Product Overview', link: '/products/' },
+            { text: '300 Series', link: '/products/300' },
+            { text: '325 Series', link: '/products/325' },
+            { text: '355 Series', link: '/products/355' },
+            { text: '400 Series', link: '/products/400' },
+            { text: '426 Series', link: '/products/426' },
+            { text: '480 Series', link: '/products/480' },
+            { text: '500 Series', link: '/products/500' }
+          ],
+          '/solutions/': [
+            { text: 'Solutions Overview', link: '/solutions/' },
+            { text: 'Oil Crops', link: '/solutions/oil-crops' },
+            { text: 'Special Oils', link: '/solutions/special-oils' },
+            { text: 'Seed Oils', link: '/solutions/seed-oils' }
+          ]
+        }
       }
     },
     zh: {

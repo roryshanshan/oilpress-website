@@ -1,10 +1,10 @@
 {
   "scripts": {
-    "docs:dev": "vitepress dev docs --host 0.0.0.0",
+    "docs:dev": "vitepress dev docs --host 127.0.0.1",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "build": "vitepress build docs",
-    "dev": "vitepress dev docs --host 0.0.0.0"
+    "dev": "vitepress dev docs --host 127.0.0.1"
   },
   "devDependencies": {
     "vitepress": "^2.0.0-alpha.12"
