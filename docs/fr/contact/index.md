@@ -78,6 +78,7 @@ input, textarea {
   padding: 10px;
   border: 1px solid #ddd;
   border-radius: 4px;
+  color: #333;
 }
 button {
   background-color: #1e88e5;

@@ -460,6 +460,7 @@ Trung tâm chế biến dầu một cửa của bạn, chúng tôi cam kết cun
   border: 1px solid #ddd;
   border-radius: 4px;
   font-family: inherit;
+  color: #333;
 }
 .contact-form textarea {
   min-height: 120px;

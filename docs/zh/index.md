@@ -460,6 +460,7 @@ keywords: 大豆油液压榨油机, 花生油液压榨油机, 芝麻油液压榨
   border: 1px solid #ddd;
   border-radius: 4px;
   font-family: inherit;
+  color: #333;
 }
 .contact-form textarea {
   min-height: 120px;

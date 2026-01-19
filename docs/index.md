@@ -461,6 +461,7 @@ Your one-stop oil processing base - we are committed to providing you with the h
   border: 1px solid #ddd;
   border-radius: 4px;
   font-family: inherit;
+  color: #333;
 }
 .contact-form textarea {
   min-height: 120px;
