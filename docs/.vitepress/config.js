@@ -51,6 +51,15 @@ export default {
   // If gtag already initialized above (for AW), simply configure GA4
   gtag('config', 'G-ZQC83SKWK2');
     `],
+    ['script', {}, `document.addEventListener('click', function (e) {
+        var dom = e.target.closest('button[type="submit"]');
+        if (dom === null) return;
+        var form = dom.closest('form');
+        if (form.checkValidity() === false) return;
+        
+        gtag('event', 'conversion', {'send_to': 'AW-17559313965/ChGqCP2Il-gbEK2897RB'});
+    });
+    `],
     ['script', { type: 'text/javascript' }, `
 var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
