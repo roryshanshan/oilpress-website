@@ -130,3 +130,13 @@ keywords: 大豆解决方案, 豆油压榨, 大豆加工设备, 豆油生产线,
 - 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
 
 我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的大豆压榨解决方案。
+
+## 相关链接
+
+- [解决方案总览](/zh/solutions/)
+- [粮油类（种子类）解决方案](/zh/solutions/seed-oils)
+- [花生（花生油）解决方案](/zh/solutions/peanut)
+- [芝麻（芝麻油）解决方案](/zh/solutions/sesame)
+- [300系列液压榨油机](/zh/products/300)
+- [联系我们获取方案](/zh/contact/)
+- [English Page](/en/solutions/soybean)

@@ -161,6 +161,16 @@ If you are interested in peanut pressing solutions, please contact our technical
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable peanut pressing solutions.
 
+## Related Links
+
+- [Solutions Overview](/en/solutions/)
+- [Seed Oil Solutions](/en/solutions/seed-oils)
+- [Soybean Solutions](/en/solutions/soybean)
+- [Sesame Solutions](/en/solutions/sesame)
+- [325 Series Hydraulic Oil Press](/en/products/325)
+- [Contact Technical Team](/en/contact/)
+- [中文页面](/zh/solutions/peanut)
+
 
 ## Other Notes
 
@@ -172,5 +182,4 @@ seo:
   title: Hydraulic Oil Press Machine for Peanut Oil Processing | 325 Hydraulic Oil Press Manufacturer
   description: High pressure hydraulic oil press machine for peanut and groundnut oil processing. 325 hydraulic oil press offers up to 55% oil yield, low residual oil, stable performance. Factory direct supply.
   keywords: hydraulic oil press machine, hydraulic oil press for peanut, hydraulic oil press manufacturer, peanut hydraulic oil press, groundnut hydraulic oil press, high pressure oil press machine, industrial hydraulic oil press
-
 

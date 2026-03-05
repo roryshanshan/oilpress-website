@@ -1,3 +1,9 @@
+---
+title: Nut Oil Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Nut oil processing solutions for coconut, walnut, almond, hazelnut, and cashew, covering premium edible oil and skincare-grade oil production needs.
+keywords: nut oil processing solutions, walnut oil extraction, almond oil pressing line, coconut oil production equipment, hazelnut oil processing, cashew oil machine
+---
+
 # Nut Oil Solutions
 
 ## Overview
@@ -196,3 +202,13 @@ If you are interested in nut oil processing solutions, please contact our expert
 - 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
 
 We provide free technical consultation and on-site inspection services, customizing the most suitable nut oil processing solutions for you.
+
+## Related Links
+
+- [Solutions Overview](/en/solutions/)
+- [Walnut Solutions](/en/solutions/walnut)
+- [Almond Solutions](/en/solutions/almond)
+- [Cashew Solutions](/en/solutions/cashew)
+- [426 Series Hydraulic Oil Press](/en/products/426)
+- [Contact Technical Team](/en/contact/)
+- [中文页面](/zh/solutions/nuts)

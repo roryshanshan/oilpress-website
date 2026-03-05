@@ -20,23 +20,6 @@ Cible les cultures fruitières telles que l'avocat, les pépins de raisin, les g
 ### ⚙️ [Solutions d'huiles spéciales](./special-oils)
 Couvre les cultures oléagineuses spéciales telles que le son de riz, le germe de maïs, les graines de ricin, etc., répondant aux demandes diversifiées du marché.
 
-## Par échelle
-
-### 🏠 [Solutions de petite huilerie](./small-workshop)
-- **Capacité de traitement quotidienne** : 1-3 tonnes
-- **Coût d'investissement** : 200 000-500 000 yuans
-- **Utilisateurs cibles** : Entrepreneurs, coopératives rurales, ateliers familiaux
-
-### 🏭 [Solutions d'usine d'huile de taille moyenne](./medium-factory)
-- **Capacité de traitement quotidienne** : 5-20 tonnes
-- **Coût d'investissement** : 1 000 000-5 000 000 yuans
-- **Utilisateurs cibles** : Huileries professionnelles, marques régionales, entreprises en chaîne
-
-### 🏢 [Solutions d'usine moderne de grande taille](./large-industrial)
-- **Capacité de traitement quotidienne** : 20+ tonnes
-- **Coût d'investissement** : 5 000 000 yuans+
-- **Utilisateurs cibles** : Grandes entreprises, marques connues, transformation d'exportation
-
 ## Avantages techniques principaux
 
 ### 🎯 Contrôle intelligent

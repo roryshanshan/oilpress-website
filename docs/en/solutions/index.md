@@ -20,23 +20,6 @@ Targets fruit crops such as avocado, grape seeds, pumpkin seeds, etc., providing
 ### ⚙️ [Special Oil Solutions](./special-oils)
 Covers special oil crops such as rice bran, corn germ, castor seeds, etc., meeting diversified market demands.
 
-## By Scale
-
-### 🏠 [Small Oil Mill Solutions](./small-workshop)
-- **Daily Processing Capacity**: 1-3 tons
-- **Investment Cost**: 200,000-500,000 RMB
-- **Target Users**: Entrepreneurs, rural cooperatives, family workshops
-
-### 🏭 [Medium-sized Oil Factory Solutions](./medium-factory)
-- **Daily Processing Capacity**: 5-20 tons
-- **Investment Cost**: 1,000,000-5,000,000 RMB
-- **Target Users**: Professional oil mills, regional brands, chain enterprises
-
-### 🏢 [Large Modern Factory Solutions](./large-industrial)
-- **Daily Processing Capacity**: 20+ tons
-- **Investment Cost**: 5,000,000 RMB+
-- **Target Users**: Large enterprises, well-known brands, export processing
-
 ## Core Technical Advantages
 
 ### 🎯 Intelligent Control
@@ -115,6 +98,14 @@ Covers special oil crops such as rice bran, corn germ, castor seeds, etc., meeti
 - **Product Application**: Health product raw materials
 - **Quality Standards**: GMP certification
 - **Annual Production**: 2,000 tons
+
+## Related Resources
+
+- [Hydraulic Oil Press Product Overview](/en/products/)
+- [Supporting Equipment](/en/products/supporting)
+- [Company Advantages](/en/advantages/)
+- [Contact Technical Team](/en/contact/)
+- [中文解决方案页面](/zh/solutions/)
 
 ## Contact Us
 

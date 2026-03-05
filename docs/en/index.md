@@ -203,6 +203,27 @@ keywords: Soybean oil hydraulic oil press, Peanut oil hydraulic oil press, Sesam
   </div>
 </div>
 
+## Explore Related Pages
+
+- Product hub: [Hydraulic Oil Press Product Overview](/en/products/)
+- Solution hub: [Oil Processing Solutions](/en/solutions/)
+- Technical strengths: [Company Advantages](/en/advantages/)
+- Company and factory: [About Us](/en/about/)
+- Latest updates: [News Center](/en/news/)
+- Inquiry and quotation: [Contact Us](/en/contact/)
+- Chinese version: [中文首页](/zh/)
+
+## Frequently Asked Questions
+
+### What oilseeds can your hydraulic presses process?
+Our equipment supports soybean, peanut, sesame, rapeseed, sunflower, flaxseed, tea seed, walnut, and many other oil-bearing materials. You can review complete raw material coverage on the [solutions pages](/en/solutions/).
+
+### How do I choose between 300/325/355/400/426/480/500 series?
+Selection depends on daily capacity, raw material characteristics, and automation needs. Start from the [product overview](/en/products/) and then contact us for a tailored recommendation.
+
+### Do you provide full line support beyond the main press?
+Yes. We provide pre-treatment, post-treatment, filtering, and filling-line supporting equipment. See [supporting equipment](/en/products/supporting) and [filling solutions](/en/solutions/filling-packages).
+
 ## Contact Us
 
 <div class="contact-section">

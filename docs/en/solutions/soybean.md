@@ -135,3 +135,13 @@ If you are interested in soybean pressing solutions, please contact our technica
 - 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable soybean pressing solutions.
+
+## Related Links
+
+- [Solutions Overview](/en/solutions/)
+- [Seed Oil Solutions](/en/solutions/seed-oils)
+- [Peanut Solutions](/en/solutions/peanut)
+- [Sesame Solutions](/en/solutions/sesame)
+- [300 Series Hydraulic Oil Press](/en/products/300)
+- [Contact Technical Team](/en/contact/)
+- [中文页面](/zh/solutions/soybean)

@@ -1,3 +1,9 @@
+---
+title: Seed Oil Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Seed oil processing solutions for soybean, peanut, sesame, rapeseed, and sunflower, with scalable equipment configurations from workshop to industrial plant.
+keywords: seed oil processing solutions, soybean oil production line, peanut oil extraction equipment, sesame oil pressing, rapeseed oil processing, sunflower oil plant
+---
+
 # Seed Oil Solutions
 
 ## Overview
@@ -180,3 +186,13 @@ If you are interested in seed oil processing solutions, please contact our techn
 - 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
 
 We will provide personalized solutions based on your specific needs and technical support.
+
+## Related Links
+
+- [Solutions Overview](/en/solutions/)
+- [Soybean Solutions](/en/solutions/soybean)
+- [Peanut Solutions](/en/solutions/peanut)
+- [Rapeseed Solutions](/en/solutions/rapeseed)
+- [Product Series Overview](/en/products/)
+- [Contact Technical Team](/en/contact/)
+- [中文页面](/zh/solutions/seed-oils)

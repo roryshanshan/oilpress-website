@@ -1,3 +1,9 @@
+---
+title: Fruit Oil Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
+description: Fruit oil processing solutions for avocado, grape seed, pumpkin seed, and related materials with process design for high-value nutritional oils.
+keywords: fruit oil processing solutions, avocado oil extraction, grape seed oil production, pumpkin seed oil pressing, nutritional oil manufacturing
+---
+
 # Fruit Oil Solutions
 
 ## Overview
@@ -220,3 +226,13 @@ If you are interested in fruit oil processing solutions, please contact our expe
 - 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
 
 We provide free technical consultation, sample testing, and on-site inspection services, customizing the most suitable fruit oil processing solutions for you.
+
+## Related Links
+
+- [Solutions Overview](/en/solutions/)
+- [Avocado Solutions](/en/solutions/avocado)
+- [Grape Seed Solutions](/en/solutions/grape-seed)
+- [Pumpkin Seed Solutions](/en/solutions/pumpkin-seed)
+- [400 Series Hydraulic Oil Press](/en/products/400)
+- [Contact Technical Team](/en/contact/)
+- [中文页面](/zh/solutions/fruits)

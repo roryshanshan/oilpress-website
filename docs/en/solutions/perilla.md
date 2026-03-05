@@ -1,7 +1,7 @@
 ---
 title: Perilla Seed (Perilla Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional perilla seed pressing solutions, providing perilla oil processing equipment and technical services, oil content 40-50%, rich in α-linolenic acid, using cold pressing process to preserve nutrition, meeting Ω-3 health oil and traditional medicine needs.
-keywords: Perilla seed solutions, Perilla oil pressing, Perilla seed processing equipment, Perilla oil production line, Perilla seed cold pressing process, Perilla seed oil press, Perilla oil extraction, Perilla seed oilseed processing, Perilla oil pressing equipment, Perilla oil, Ω-3 health oil
+description: Perilla oil processing solution with cold pressing process control, designed for omega-3 rich nutritional oil production and specialty market applications.
+keywords: perilla oil processing solution, perilla seed cold pressing line, omega 3 oil production equipment, perilla oil extraction machine, specialty nutritional oil project
 ---
 
 # Perilla Seed (Perilla Oil) Solution
@@ -133,3 +133,13 @@ If you are interested in perilla seed pressing solutions, please contact our tec
 - 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable perilla seed pressing solution.
+
+## Related Links
+
+- [Solutions Overview](/en/solutions/)
+- [Special Oil Solutions](/en/solutions/special-oils)
+- [Flaxseed Solutions](/en/solutions/flaxseed)
+- [Tea Seed Solutions](/en/solutions/tea-seed)
+- [426 Series Hydraulic Oil Press](/en/products/426)
+- [Contact Technical Team](/en/contact/)
+- [中文页面](/zh/solutions/perilla)

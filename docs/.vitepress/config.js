@@ -1,4 +1,394 @@
 export default {
+  transformHead: ({ pageData }) => {
+    const site = 'https://hydraulicoilpressing.opchn.com'
+    const rel = pageData.relativePath || 'index.md'
+    const normalized = rel.replace(/\\/g, '/').replace(/\.md$/, '')
+    let route = `/${normalized}`
+
+    if (route === '/index') route = '/'
+    if (route.endsWith('/index')) route = `${route.slice(0, -6)}/`
+    if (route !== '/' && route.endsWith('/')) route = route.slice(0, -1)
+
+    const canonical = `${site}${route}`
+
+    let enAlt = `${site}/en/`
+    let zhAlt = `${site}/zh/`
+
+    if (route.startsWith('/en/')) {
+      const suffix = route.slice('/en/'.length)
+      enAlt = `${site}${route}`
+      zhAlt = `${site}/zh/${suffix}`
+    } else if (route.startsWith('/zh/')) {
+      const suffix = route.slice('/zh/'.length)
+      enAlt = `${site}/en/${suffix}`
+      zhAlt = `${site}${route}`
+    }
+
+    const pageSchemas = []
+
+    if (route === '/en' || route === '/zh') {
+      const isZh = route === '/zh'
+      pageSchemas.push({
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        inLanguage: isZh ? 'zh-CN' : 'en',
+        mainEntity: isZh
+          ? [
+              {
+                '@type': 'Question',
+                name: '设备支持哪些油料原料？',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: '可覆盖大豆、花生、芝麻、油菜籽、向日葵籽、亚麻籽、茶籽、核桃等多种油料。'
+                }
+              },
+              {
+                '@type': 'Question',
+                name: '300/325/355/400/426/480/500 系列如何选型？',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: '建议按日产能、原料特性、自动化需求综合评估，我们可根据项目需求提供定制化选型建议。'
+                }
+              },
+              {
+                '@type': 'Question',
+                name: '除主机外是否提供整线配套？',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: '提供。我们可提供预处理、后处理、过滤、灌装等配套设备与整线方案。'
+                }
+              }
+            ]
+          : [
+              {
+                '@type': 'Question',
+                name: 'What oilseeds can your hydraulic presses process?',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: 'Our equipment supports soybean, peanut, sesame, rapeseed, sunflower, flaxseed, tea seed, walnut, and many other oil-bearing materials.'
+                }
+              },
+              {
+                '@type': 'Question',
+                name: 'How do I choose between 300/325/355/400/426/480/500 series?',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: 'Selection depends on daily capacity, raw material characteristics, and automation needs. We provide model recommendation based on your project requirements.'
+                }
+              },
+              {
+                '@type': 'Question',
+                name: 'Do you provide full line support beyond the main press?',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: 'Yes. We provide pre-treatment, post-treatment, filtering, and filling-line supporting equipment for one-stop oil processing solutions.'
+                }
+              }
+            ]
+      })
+    }
+
+    if (route === '/en/products' || route === '/zh/products') {
+      const isZh = route === '/zh/products'
+      const basePath = `${site}${route}`
+      const series = ['300', '325', '355', '400', '426', '480', '500']
+      pageSchemas.push({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: isZh ? '液压榨油机产品系列' : 'Hydraulic Oil Press Product Series',
+        inLanguage: isZh ? 'zh-CN' : 'en',
+        url: `${basePath}/`,
+        mainEntity: {
+          '@type': 'ItemList',
+          itemListElement: series.map((s, i) => ({
+            '@type': 'ListItem',
+            position: i + 1,
+            name: isZh ? `${s}系列` : `${s} Series`,
+            url: `${basePath}/${s}`
+          }))
+        }
+      })
+    }
+
+    if (route === '/en/solutions' || route === '/zh/solutions') {
+      const isZh = route === '/zh/solutions'
+      pageSchemas.push({
+        '@context': 'https://schema.org',
+        '@type': 'Service',
+        name: isZh ? '油料加工解决方案' : 'Oil Processing Solutions',
+        inLanguage: isZh ? 'zh-CN' : 'en',
+        url: `${site}${route}/`,
+        provider: {
+          '@type': 'Organization',
+          name: isZh ? '山东盛世赫程机械有限公司' : 'Shandong Shengshi Hecheng Machinery Co., Ltd.',
+          url: `${site}/`
+        },
+        areaServed: 'Worldwide'
+      })
+    }
+
+    const solutionCategoryMatch = route.match(/^\/(en|zh)\/solutions\/(seed-oils|nuts|fruits|special-oils)$/)
+    if (solutionCategoryMatch) {
+      const lang = solutionCategoryMatch[1]
+      const slug = solutionCategoryMatch[2]
+      const isZh = lang === 'zh'
+      const names = {
+        'seed-oils': isZh ? '粮油类（种子类）解决方案' : 'Seed Oil Solutions',
+        nuts: isZh ? '坚果类油料解决方案' : 'Nut Oil Solutions',
+        fruits: isZh ? '果实类油料解决方案' : 'Fruit Oil Solutions',
+        'special-oils': isZh ? '特殊油料解决方案' : 'Special Oil Solutions'
+      }
+      pageSchemas.push({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: names[slug],
+        inLanguage: isZh ? 'zh-CN' : 'en',
+        url: `${site}${route}`,
+        isPartOf: {
+          '@type': 'WebSite',
+          name: 'Shengshi Hecheng Oil Press',
+          url: `${site}/`
+        }
+      })
+    }
+
+    const productDetailMatch = route.match(/^\/(en|zh)\/products\/(300|325|355|400|426|480|500)$/)
+    if (productDetailMatch) {
+      const lang = productDetailMatch[1]
+      const model = productDetailMatch[2]
+      const isZh = lang === 'zh'
+      const productName = isZh
+        ? `${model}系列液压榨油机`
+        : `${model} Series Hydraulic Oil Press`
+
+      pageSchemas.push({
+        '@context': 'https://schema.org',
+        '@type': 'Product',
+        name: productName,
+        category: isZh ? '液压榨油机' : 'Hydraulic Oil Press',
+        url: `${site}${route}`,
+        inLanguage: isZh ? 'zh-CN' : 'en',
+        brand: {
+          '@type': 'Brand',
+          name: isZh ? '盛世赫程' : 'Shengshi Hecheng'
+        },
+        manufacturer: {
+          '@type': 'Organization',
+          name: 'Shandong Shengshi Hecheng Machinery Co., Ltd.',
+          url: `${site}/`
+        },
+        additionalProperty: [
+          {
+            '@type': 'PropertyValue',
+            name: isZh ? '系列型号' : 'Model Series',
+            value: model
+          }
+        ]
+      })
+
+      pageSchemas.push({
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        inLanguage: isZh ? 'zh-CN' : 'en',
+        mainEntity: isZh
+          ? [
+              {
+                '@type': 'Question',
+                name: `${model}系列适合哪些用户？`,
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: `${model}系列适合中小型油厂、家庭作坊及初创油料加工项目。`
+                }
+              },
+              {
+                '@type': 'Question',
+                name: '是否支持多种油料压榨？',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: '支持大豆、花生、芝麻、油菜籽等多种常见油料，并可按工艺进行冷榨或热榨配置。'
+                }
+              },
+              {
+                '@type': 'Question',
+                name: '是否提供安装与售后服务？',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: '提供安装调试、操作培训、备件支持和长期技术服务。'
+                }
+              }
+            ]
+          : [
+              {
+                '@type': 'Question',
+                name: `Who is the ${model} series suitable for?`,
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: `The ${model} series is suitable for small to medium oil mills, family workshops, and startup oil processing projects.`
+                }
+              },
+              {
+                '@type': 'Question',
+                name: 'Can it process multiple oilseed materials?',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: 'Yes. It supports soybean, peanut, sesame, rapeseed and other common oil-bearing materials with hot or cold pressing process options.'
+                }
+              },
+              {
+                '@type': 'Question',
+                name: 'Do you provide installation and after-sales support?',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: 'Yes. We provide installation, training, spare parts support, and long-term technical service.'
+                }
+              }
+            ]
+      })
+    }
+
+    const solutionDetailMatch = route.match(/^\/(en|zh)\/solutions\/(soybean|peanut|sesame|rapeseed|sunflower|flaxseed|tea-seed|walnut|coconut|corn-germ|almond|hazelnut|cashew|avocado|grape-seed|pumpkin-seed|perilla|palm|pistachio|apricot-kernel|peach-kernel|watermelon-seed|cottonseed|chili-seed|castor-seed|rice-bran|buckwheat)$/)
+    if (solutionDetailMatch) {
+      const lang = solutionDetailMatch[1]
+      const slug = solutionDetailMatch[2]
+      const isZh = lang === 'zh'
+      const labels = {
+        soybean: isZh ? '大豆' : 'Soybean',
+        peanut: isZh ? '花生' : 'Peanut',
+        sesame: isZh ? '芝麻' : 'Sesame',
+        rapeseed: isZh ? '油菜籽' : 'Rapeseed',
+        sunflower: isZh ? '向日葵籽' : 'Sunflower Seed',
+        flaxseed: isZh ? '亚麻籽' : 'Flaxseed',
+        'tea-seed': isZh ? '茶籽' : 'Tea Seed',
+        walnut: isZh ? '核桃' : 'Walnut',
+        coconut: isZh ? '椰子' : 'Coconut',
+        'corn-germ': isZh ? '玉米胚芽' : 'Corn Germ',
+        almond: isZh ? '杏仁' : 'Almond',
+        hazelnut: isZh ? '榛子' : 'Hazelnut',
+        cashew: isZh ? '腰果' : 'Cashew',
+        avocado: isZh ? '牛油果' : 'Avocado',
+        'grape-seed': isZh ? '葡萄籽' : 'Grape Seed',
+        'pumpkin-seed': isZh ? '南瓜籽' : 'Pumpkin Seed',
+        perilla: isZh ? '苏子' : 'Perilla Seed',
+        palm: isZh ? '棕榈' : 'Palm',
+        pistachio: isZh ? '开心果' : 'Pistachio',
+        'apricot-kernel': isZh ? '杏核仁' : 'Apricot Kernel',
+        'peach-kernel': isZh ? '桃核仁' : 'Peach Kernel',
+        'watermelon-seed': isZh ? '西瓜籽' : 'Watermelon Seed',
+        cottonseed: isZh ? '棉籽' : 'Cottonseed',
+        'chili-seed': isZh ? '辣椒籽' : 'Chili Seed',
+        'castor-seed': isZh ? '蓖麻籽' : 'Castor Seed',
+        'rice-bran': isZh ? '米糠' : 'Rice Bran',
+        buckwheat: isZh ? '荞麦籽' : 'Buckwheat'
+      }
+      const label = labels[slug]
+
+      pageSchemas.push({
+        '@context': 'https://schema.org',
+        '@type': 'Service',
+        name: isZh ? `${label}压榨解决方案` : `${label} Pressing Solutions`,
+        inLanguage: isZh ? 'zh-CN' : 'en',
+        url: `${site}${route}`,
+        provider: {
+          '@type': 'Organization',
+          name: isZh ? '山东盛世赫程机械有限公司' : 'Shandong Shengshi Hecheng Machinery Co., Ltd.',
+          url: `${site}/`
+        },
+        areaServed: 'Worldwide',
+        serviceType: isZh ? `${label}油料加工` : `${label} oil processing`
+      })
+
+      pageSchemas.push({
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        inLanguage: isZh ? 'zh-CN' : 'en',
+        mainEntity: isZh
+          ? [
+              {
+                '@type': 'Question',
+                name: `${label}压榨推荐哪些机型？`,
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: `通常可选300/325/355系列，具体按产能、工艺与原料状态匹配。`
+                }
+              },
+              {
+                '@type': 'Question',
+                name: '能否提供整线方案？',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: '可以。可提供预处理、压榨、过滤、精炼与灌装等整线配置建议。'
+                }
+              },
+              {
+                '@type': 'Question',
+                name: '是否支持样品测试和工艺评估？',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: '支持。可根据原料样品与目标油品要求提供测试与工艺建议。'
+                }
+              }
+            ]
+          : [
+              {
+                '@type': 'Question',
+                name: `Which models are recommended for ${label.toLowerCase()} processing?`,
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: '300/325/355 series are commonly recommended, and final selection depends on capacity, process route, and raw material condition.'
+                }
+              },
+              {
+                '@type': 'Question',
+                name: 'Can you provide a full processing line solution?',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: 'Yes. We can provide integrated recommendations for pretreatment, pressing, filtering, refining, and filling.'
+                }
+              },
+              {
+                '@type': 'Question',
+                name: 'Do you support sample testing and process evaluation?',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: 'Yes. We provide testing and process recommendations based on your raw material samples and target oil quality.'
+                }
+              }
+            ]
+      })
+    }
+
+    return [
+      ['link', { rel: 'canonical', href: canonical }],
+      ['meta', { property: 'og:url', content: canonical }],
+      ['link', { rel: 'alternate', hreflang: 'en', href: enAlt }],
+      ['link', { rel: 'alternate', hreflang: 'zh-CN', href: zhAlt }],
+      ['link', { rel: 'alternate', hreflang: 'x-default', href: `${site}/en/` }],
+      ['script', { type: 'application/ld+json' }, JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: route === '/'
+          ? [{
+              '@type': 'ListItem',
+              position: 1,
+              name: 'Home',
+              item: `${site}/`
+            }]
+          : route
+              .split('/')
+              .filter(Boolean)
+              .map((seg, idx, arr) => {
+                const path = `/${arr.slice(0, idx + 1).join('/')}`
+                return {
+                  '@type': 'ListItem',
+                  position: idx + 1,
+                  name: seg.replace(/-/g, ' '),
+                  item: `${site}${path}`
+                }
+              })
+      })],
+      ...pageSchemas.map((schema) => ['script', { type: 'application/ld+json' }, JSON.stringify(schema)])
+    ]
+  },
   lastUpdated: true,
   sitemap: {
     hostname: 'https://hydraulicoilpressing.opchn.com/',
@@ -35,8 +425,56 @@ export default {
     ['meta', { name: 'description', content: 'Professional Oil Press Manufacturer - Shengshi Hecheng' }],
     ['meta', { name: 'keywords', content: 'oil press, hydraulic press, oil extraction, oil press machine' }],
     ['meta', { name: 'author', content: 'Shengshi Hecheng' }],
+    ['meta', { name: 'robots', content: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' }],
+    ['meta', { name: 'theme-color', content: '#e74c3c' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:site_name', content: 'Shengshi Hecheng Oil Press' }],
+    ['meta', { property: 'og:title', content: 'Shengshi Hecheng Oil Press' }],
+    ['meta', { property: 'og:description', content: 'Professional Hydraulic Oil Press Manufacturer and One-stop Oil Processing Solutions.' }],
+    ['meta', { property: 'og:image', content: 'https://hydraulicoilpressing.opchn.com/images/hero-oil-press.webp' }],
+    ['meta', { property: 'og:image:alt', content: 'Shengshi Hecheng hydraulic oil press equipment' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:title', content: 'Shengshi Hecheng Oil Press' }],
+    ['meta', { name: 'twitter:description', content: 'Professional Hydraulic Oil Press Manufacturer and One-stop Oil Processing Solutions.' }],
+    ['meta', { name: 'twitter:image', content: 'https://hydraulicoilpressing.opchn.com/images/hero-oil-press.webp' }],
     ['meta', { name: 'baidu-site-verification', content: 'codeva-wjCh7UrQj8' }],
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    ['script', { type: 'application/ld+json' }, JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'Organization',
+      name: 'Shandong Shengshi Hecheng Machinery Co., Ltd.',
+      url: 'https://hydraulicoilpressing.opchn.com/',
+      logo: 'https://hydraulicoilpressing.opchn.com/images/hero-oil-press.webp',
+      contactPoint: [{
+        '@type': 'ContactPoint',
+        telephone: '+86-19906365856',
+        contactType: 'sales',
+        areaServed: 'Worldwide',
+        availableLanguage: ['en', 'zh']
+      }],
+      address: {
+        '@type': 'PostalAddress',
+        streetAddress: 'No. 5888, Yineng Street, Development Zone',
+        addressLocality: 'Qingzhou',
+        addressRegion: 'Shandong',
+        addressCountry: 'CN'
+      },
+      sameAs: [
+        'https://www.linkedin.com/newsletters/hydraulic-oil-pressing-machine-7331966128702836736/'
+      ]
+    })],
+    ['script', { type: 'application/ld+json' }, JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: 'Shengshi Hecheng Oil Press',
+      url: 'https://hydraulicoilpressing.opchn.com/',
+      inLanguage: ['en', 'zh-CN'],
+      potentialAction: {
+        '@type': 'SearchAction',
+        target: 'https://hydraulicoilpressing.opchn.com/en/news/?q={search_term_string}',
+        'query-input': 'required name=search_term_string'
+      }
+    })],
     ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=AW-17559313965' }],
     ['script', {}, `
   window.dataLayer = window.dataLayer || [];
@@ -100,7 +538,6 @@ s0.parentNode.insertBefore(s1,s0);
             items: [
               { text: '📚 Solutions Overview', link: '/en/solutions/' },
               { text: '🌾 By Oil Type', link: '/en/solutions/seed-oils' },
-              { text: '📏 By Scale', link: '/en/solutions/small-workshop' },
               { text: '🏭 Filling Supporting Solutions', link: '/en/solutions/filling' }
             ]
           },
@@ -177,7 +614,7 @@ s0.parentNode.insertBefore(s1,s0);
                         { text: 'Overview', link: '/en/products/pre-treatment' },
                         { text: '11kw High Speed Pulverizer', link: '/en/products/11kw-high-speed-pulverizer' },
                         { text: '27kw Electric Steamer', link: '/en/products/27kw-electric-steamer' },
-                        { text: 'Flaxseed and Rapeseed Grinding and Stirring Integrated Machine', link: '/en/products/Flaxseed-and-rapeseed-grinding-and-stirring-integrated-machine' },
+                        { text: 'Flaxseed and Rapeseed Grinding and Stirring Integrated Machine', link: '/en/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine' },
                         { text: 'Automatic Drum Roaster', link: '/en/products/automatic-drum-roaster' },
                         { text: 'Cake Wrapping Machine', link: '/en/products/cake-wrapping-machine' },
                         { text: 'Edible Oil Refining Equipment', link: '/en/products/edible-oil-refining-equipment' },
@@ -268,16 +705,6 @@ s0.parentNode.insertBefore(s1,s0);
                         { text: '🌾 Buckwheat Oil', link: '/en/solutions/buckwheat' }
                       ]
                     }
-                  ]
-                },
-                {
-                  text: 'By Scale',
-                  collapsed: true,
-                  items: [
-                    { text: '🏠 Small Oil Mill Solution', link: '/en/solutions/small-workshop' },
-                    { text: '🏭 Medium Oil Factory Solution', link: '/en/solutions/medium-factory' },
-                    { text: '🏢 Large Industrial Solution', link: '/en/solutions/large-industrial' },
-                    { text: '🔬 Special Oil Processing Solution', link: '/en/solutions/special-oil' }
                   ]
                 },
                 {

@@ -139,3 +139,13 @@ If you are interested in sesame pressing solutions, please contact our technical
 - 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable sesame pressing solutions.
+
+## Related Links
+
+- [Solutions Overview](/en/solutions/)
+- [Seed Oil Solutions](/en/solutions/seed-oils)
+- [Soybean Solutions](/en/solutions/soybean)
+- [Peanut Solutions](/en/solutions/peanut)
+- [300 Series Hydraulic Oil Press](/en/products/300)
+- [Contact Technical Team](/en/contact/)
+- [中文页面](/zh/solutions/sesame)
