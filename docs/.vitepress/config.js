@@ -11,18 +11,17 @@ export default {
 
     const canonical = `${site}${route}`
 
-    let enAlt = `${site}/en/`
-    let zhAlt = `${site}/zh/`
-
-    if (route.startsWith('/en/')) {
-      const suffix = route.slice('/en/'.length)
-      enAlt = `${site}${route}`
-      zhAlt = `${site}/zh/${suffix}`
-    } else if (route.startsWith('/zh/')) {
-      const suffix = route.slice('/zh/'.length)
-      enAlt = `${site}/en/${suffix}`
-      zhAlt = `${site}${route}`
+    const locales = { en: 'en', zh: 'zh-CN', fr: 'fr', ru: 'ru', vi: 'vi', bn: 'bn' }
+    const allLangs = Object.keys(locales)
+    let routeSuffix = ''
+    for (const lang of allLangs) {
+      if (route === `/${lang}`) { routeSuffix = ''; break }
+      if (route.startsWith(`/${lang}/`)) { routeSuffix = route.slice(`/${lang}`.length); break }
     }
+    const altHrefs = allLangs.map(lang => {
+      const href = routeSuffix ? `${site}/${lang}${routeSuffix}` : `${site}/${lang}/`
+      return { hreflang: locales[lang], href }
+    })
 
     const pageSchemas = []
 
@@ -357,11 +356,46 @@ export default {
       })
     }
 
+    const newsArticleMatch = route.match(/^\/(en|zh|fr|ru|vi|bn)\/news\/(company|industry|technology)\/.+$/)
+    if (newsArticleMatch) {
+      const lang = newsArticleMatch[1]
+      const langCode = locales[lang] || lang
+      const title = pageData.frontmatter?.title || ''
+      const description = pageData.frontmatter?.description || ''
+      const date = pageData.frontmatter?.date || ''
+      if (title) {
+        pageSchemas.push({
+          '@context': 'https://schema.org',
+          '@type': 'Article',
+          headline: title,
+          ...(description ? { description } : {}),
+          ...(date ? { datePublished: date } : {}),
+          inLanguage: langCode,
+          url: `${site}${route}`,
+          author: {
+            '@type': 'Organization',
+            name: 'Shandong Shengshi Hecheng Machinery Co., Ltd.',
+            url: `${site}/`
+          },
+          publisher: {
+            '@type': 'Organization',
+            name: 'Shandong Shengshi Hecheng Machinery Co., Ltd.',
+            url: `${site}/`,
+            logo: {
+              '@type': 'ImageObject',
+              url: `${site}/images/hero-oil-press.webp`
+            }
+          }
+        })
+      }
+    }
+
     return [
       ['link', { rel: 'canonical', href: canonical }],
       ['meta', { property: 'og:url', content: canonical }],
-      ['link', { rel: 'alternate', hreflang: 'en', href: enAlt }],
-      ['link', { rel: 'alternate', hreflang: 'zh-CN', href: zhAlt }],
+      ...(pageData.frontmatter?.title ? [['meta', { property: 'og:title', content: pageData.frontmatter.title }]] : []),
+      ...(pageData.frontmatter?.description ? [['meta', { property: 'og:description', content: pageData.frontmatter.description }]] : []),
+      ...altHrefs.map(({ hreflang, href }) => ['link', { rel: 'alternate', hreflang, href }]),
       ['link', { rel: 'alternate', hreflang: 'x-default', href: `${site}/en/` }],
       ['script', { type: 'application/ld+json' }, JSON.stringify({
         '@context': 'https://schema.org',
@@ -763,7 +797,17 @@ s0.parentNode.insertBefore(s1,s0);
               collapsed: false,
               items: [
                 { text: 'News Center', link: '/en/news/' },
-                { text: 'Company News', link: '/en/news/company' }
+                { text: 'Company News', link: '/en/news/company' },
+                {
+                  text: 'Technical Knowledge',
+                  collapsed: false,
+                  items: [
+                    { text: 'Hydraulic Press vs Screw Press', link: '/en/news/technology/hydraulic-vs-screw-press' },
+                    { text: 'Cold Press vs Hot Press Guide', link: '/en/news/technology/cold-press-vs-hot-press' },
+                    { text: 'How to Improve Oil Yield', link: '/en/news/technology/improve-oil-yield' },
+                    { text: 'Oil Crops Pressing Processes', link: '/en/news/technology/oil-crops-process' }
+                  ]
+                }
               ]
             }
           ]
@@ -1049,7 +1093,16 @@ s0.parentNode.insertBefore(s1,s0);
                 { text: '新闻中心', link: '/zh/news/' },
                 { text: '公司新闻', link: '/zh/news/company' },
                 { text: '行业资讯', link: '/zh/news/industry' },
-                { text: '技术知识', link: '/zh/news/technology' }
+                {
+                  text: '技术知识',
+                  collapsed: false,
+                  items: [
+                    { text: '液压榨油机与螺旋榨油机对比', link: '/zh/news/technology/hydraulic-vs-screw-press' },
+                    { text: '冷榨与热榨对比指南', link: '/zh/news/technology/cold-press-vs-hot-press' },
+                    { text: '如何提高榨油机出油率', link: '/zh/news/technology/improve-oil-yield' },
+                    { text: '不同油料作物最佳榨油工艺', link: '/zh/news/technology/oil-crops-process' }
+                  ]
+                }
               ]
             }
           ]

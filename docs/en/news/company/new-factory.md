@@ -1,3 +1,10 @@
+---
+title: "Shengshi Hecheng New Factory Opens: 50% Capacity Increase | Hydraulic Oil Press Manufacturer"
+description: "Shengshi Hecheng's new 20,000 m² production facility in Qingzhou, Shandong officially opens, boosting hydraulic oil press annual output capacity by 50% with advanced manufacturing equipment."
+keywords: Shengshi Hecheng new factory, oil press manufacturer expansion, Qingzhou hydraulic oil press factory, oil press production capacity
+date: "2023-09-18"
+---
+
 # Shengshi Hecheng New Production Facility Officially Commences Operations
 
 *Published: September 18, 2023*

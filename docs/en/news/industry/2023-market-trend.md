@@ -1,3 +1,10 @@
+---
+title: "Global Edible Oil Market Trends Analysis 2023 | Shengshi Hecheng"
+description: "Analysis of global edible oil market trends in 2023: palm oil, soybean oil, rapeseed oil demand, production statistics, and growth forecast for the coming years."
+keywords: global edible oil market 2023, edible oil market trends, palm oil demand 2023, soybean oil market, edible oil industry growth, global oil production statistics
+date: "2023-10-15"
+---
+
 # Global Edible Oil Market Trends Analysis 2023
 
 *Published: October 15, 2023*

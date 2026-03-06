@@ -47,6 +47,20 @@ Multiple departments including the National Development and Reform Commission an
 
 ## Technical Knowledge
 
+### Hydraulic Oil Press vs Screw Press: Which Should You Choose?
+*March 1, 2025*
+
+A detailed comparison of hydraulic oil press vs screw (expeller) press covering oil yield, oil quality, maintenance cost, production capacity, and best use cases. Make the right investment decision for your oil business.
+
+[Read More](/en/news/technology/hydraulic-vs-screw-press)
+
+### Cold Press vs Hot Press Oil: Complete Guide
+*March 10, 2025*
+
+Understand the key differences between cold pressing and hot pressing: oil yield, nutrient retention, aroma, market positioning, and which method suits your oilseed type and target market.
+
+[Read More](/en/news/technology/cold-press-vs-hot-press)
+
 ### How to Improve Oil Press Yield
 *April 12, 2023*
 
