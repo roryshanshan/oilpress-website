@@ -1,6 +1,6 @@
 ---
-title: Solutions de graines de citrouille (huile de graines de citrouille) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage d'huile de graines de citrouille, fournissant des équipements et services techniques de transformation d'huile de graines de citrouille, teneur en huile 35-45%, utilisant le processus de pressage à froid pour mettre en valeur la valeur nutritionnelle, répondant aux besoins différents des petits ateliers aux grandes usines.
+title: Solution de graines de citrouille (huile de graines de
+description: Solutions professionnelles de pressage d'huile de graines de citrouille
 keywords: Solutions de graines de citrouille, pressage d'huile de graines de citrouille, équipement de transformation de graines de citrouille, ligne de production d'huile de graines de citrouille, processus de pressage à froid de graines de citrouille, presse à huile de graines de citrouille, extraction d'huile de graines de citrouille, transformation de graines oléagineuses de graines de citrouille, équipement de pressage d'huile de graines de citrouille, équipement de production d'huile de graines de citrouille, usine de transformation d'huile de graines de citrouille
 ---
 

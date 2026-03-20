@@ -1,6 +1,6 @@
 ---
-title: Solutions de noyau d'abricot (huile d'abricot) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage d'huile de noyau d'abricot, fournissant des équipements et services techniques de transformation d'huile d'abricot, teneur en huile 40-50%, utilisant un processus de pressage approprié pour mettre en valeur les propriétés nutritionnelles et hydratantes, répondant aux besoins différents des petits ateliers aux grandes usines.
+title: Solutions de noyau d'abricot (huile d'abricot) - Shengshi Hecheng
+description: Solutions professionnelles de pressage d'huile de noyau d'abricot, fournissant des équipements et services techniques de transformation d'huile d'abricot
 keywords: Solutions de noyau d'abricot, pressage d'huile d'abricot, équipement de transformation de noyau d'abricot, ligne de production d'huile d'abricot, presse à huile d'abricot, extraction d'huile d'abricot, transformation de graines oléagineuses d'abricot, équipement de pressage d'huile d'abricot, équipement de production d'huile d'abricot, usine de transformation d'huile d'abricot
 ---
 

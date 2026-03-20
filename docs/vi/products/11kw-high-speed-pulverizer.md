@@ -1,6 +1,6 @@
 ---
 title: Máy nghiền tốc độ cao 11Kw - Shengshi Hecheng Shandong
-description: Máy nghiền tốc độ cao 11Kw thiết kế kiểu bánh đà, có thể nghiền các loại vật liệu cứng như hạt trà dầu, hạt mắc ca, bơ, v.v., độ mịn tối đa đạt cấp micromet, năng suất 750kg/h.
+description: Máy nghiền tốc độ cao 11Kw thiết kế kiểu bánh đà, có thể nghiền các loại vật liệu cứng như hạt trà dầu, hạt mắc ca, bơ, v. v.
 keywords: máy nghiền tốc độ cao, máy nghiền 11KW, máy nghiền nguyên liệu dầu, máy nghiền hạt trà dầu, máy nghiền mắc ca, máy nghiền bơ, nghiền cấp micromet, máy nghiền kiểu bánh đà, thiết bị tiền xử lý nguyên liệu dầu, thiết bị nghiền, thiết bị nghiền tốc độ cao, máy nghiền 11Kw, thiết bị nghiền, thiết bị chế biến nguyên liệu dầu
 ---
 

@@ -1,3 +1,8 @@
+---
+title: Dòng máy rửa chai
+description: Máy rửa chai là thiết bị dùng để làm sạch chai, đảm bảo dụng cụ đạt tiêu chuẩn vệ sinh trước khi đóng gói.
+keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
+---
 # Dòng máy rửa chai
 
 Máy rửa chai là thiết bị dùng để làm sạch chai, đảm bảo dụng cụ đạt tiêu chuẩn vệ sinh trước khi đóng gói.

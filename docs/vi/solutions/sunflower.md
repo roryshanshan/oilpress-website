@@ -1,6 +1,6 @@
 ---
-title: Giải pháp hạt hướng dương (Dầu hướng dương) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Giải pháp ép hạt hướng dương chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hướng dương, tỷ lệ dầu 40-50%, sử dụng quy trình ép nóng để đảm bảo tỷ lệ chiết xuất, phù hợp cho mọi quy mô sản xuất.'
+title: Giải pháp hạt hướng dương (Dầu hướng dương) | Shengshi Hecheng
+description: Giải pháp ép hạt hướng dương chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hướng dương, tỷ lệ dầu 40-50%
 keywords: giải pháp hạt hướng dương, ép dầu hướng dương, thiết bị chế biến hạt hướng dương, dây chuyền sản xuất dầu hướng dương, quy trình ép nóng hạt hướng dương, máy ép hạt hướng dương
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Solution de pépins de raisin (huile de pépins de raisin) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage de pépins de raisin, fournissant des équipements et services techniques de transformation d'huile de pépins de raisin, teneur en huile 12-18%, riche en acide linoléique, utilisant le processus de pressage à chaud pour assurer le rendement en huile, répondant aux besoins d'huiles alimentaires haut de gamme et de produits antioxydants.
+title: Solution de pépins de raisin (huile de pépins de raisin)
+description: Solutions professionnelles de pressage de pépins de raisin, fournissant des équipements et services techniques de transformation d'huile de pépins de raisin
 keywords: Solutions de pépins de raisin, pressage d'huile de pépins de raisin, équipement de transformation de pépins de raisin, ligne de production d'huile de pépins de raisin, processus de pressage à chaud de pépins de raisin, presse à huile de pépins de raisin, extraction d'huile de pépins de raisin, transformation de graines oléagineuses de pépins de raisin, équipement de pressage d'huile de pépins de raisin, équipement de production d'huile de pépins de raisin
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Honors and Qualifications - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng honors and qualifications, national high-tech enterprise, Shandong provincial specialized and new SME, ISO9001 quality management system certification, CE European safety certification, technical honors and social responsibility.
-keywords: Honors and qualifications, Corporate qualifications, National high-tech enterprise, Shandong provincial specialized and new SME, ISO9001 certification, CE certification, Technical honors, Patent certificate, Industry recognition, Social responsibility, Shandong Shengshi Hecheng honors
+title: Honors and Qualifications - Shengshi Hecheng
+description: Shandong Shengshi Hecheng honors and qualifications, national high-tech enterprise, Shandong provincial specialized and new SME
+keywords: Honors and Qualifications, Shandong Shengshi Hecheng, hydraulic oil press manufacturer, oil press equipment factory, oilseed processing equipment, oil press R&D, Corporate qualifications, National high-tech enterprise
 ---
 
 # Honors and Qualifications

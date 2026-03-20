@@ -1,6 +1,6 @@
 ---
-title: Thiết bị tinh luyện dầu ăn - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Thiết bị tinh luyện dầu ăn chuyên nghiệp, công suất xử lý 1–5 tấn/ngày, sử dụng quy trình tinh luyện tiên tiến để loại bỏ tạp chất, nâng cao chất lượng dầu; phù hợp cho nhiều loại nguyên liệu và hỗ trợ sản xuất tùy chỉnh.
+title: Thiết bị tinh luyện dầu ăn - Shengshi Hecheng
+description: Thiết bị tinh luyện dầu ăn chuyên nghiệp, công suất xử lý 1–5 tấn/ngày, sử dụng quy trình tinh luyện tiên tiến để loại bỏ tạp chất
 keywords: thiết bị tinh luyện dầu ăn, thiết bị tinh luyện dầu, dây chuyền tinh luyện dầu, tinh luyện dầu 1-5 tấn, thiết bị lọc dầu, tinh luyện kiềm, tẩy màu, khử mùi, nhà máy tinh luyện dầu 1-5 tấn
 ---
 

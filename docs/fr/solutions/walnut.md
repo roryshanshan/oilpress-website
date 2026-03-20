@@ -1,6 +1,6 @@
 ---
-title: Solution de noix (huile de noix) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage de noix, fournissant des équipements et services techniques de transformation d'huile de noix, teneur en huile 60-70%, utilisant le processus de pressage à froid pour préserver la nutrition, répondant aux besoins d'huiles alimentaires haut de gamme et de produits de santé nutritionnelle.
+title: Solution de noix (huile de noix) - Shengshi Hecheng
+description: Solutions professionnelles de pressage de noix, fournissant des équipements et services techniques de transformation d'huile de noix, teneur en huile 60-70%
 keywords: Solutions de noix, pressage d'huile de noix, équipement de transformation de noix, ligne de production d'huile de noix, processus de pressage à froid de noix, presse à huile de noix, extraction d'huile de noix, transformation de graines oléagineuses de noix, équipement de pressage d'huile de noix, équipement de production d'huile de noix, huile alimentaire haut de gamme
 ---
 

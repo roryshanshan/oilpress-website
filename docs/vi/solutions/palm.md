@@ -1,6 +1,6 @@
 ---
-title: Giải pháp dầu cọ (Dầu cọ) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Giải pháp ép dầu cọ chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu cọ, tỷ lệ dầu 45-55%, giàu axit palmitic, sử dụng quy trình ép nóng để đảm bảo hiệu suất, phù hợp cho chế biến thực phẩm, nhiên liệu sinh học và nguyên liệu công nghiệp.'
+title: Giải pháp dầu cọ (Dầu cọ) | Shengshi Hecheng
+description: Giải pháp ép dầu cọ chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu cọ, tỷ lệ dầu 45-55%, giàu axit palmitic
 keywords: giải pháp cọ, ép dầu cọ, thiết bị chế biến cọ, dây chuyền sản xuất dầu cọ, quy trình ép nóng cọ, máy ép cọ, nguyên liệu sản xuất biodiesel
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Perilla Seed (Perilla Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
+title: Perilla Seed (Perilla Oil) Solution - Shengshi Hecheng
 description: Perilla oil processing solution with cold pressing process control, designed for omega-3 rich nutritional oil production and specialty market applications.
-keywords: perilla oil processing solution, perilla seed cold pressing line, omega 3 oil production equipment, perilla oil extraction machine, specialty nutritional oil project
+keywords: Perilla Seed (Perilla Oil) Solution, oil processing solutions, oil press machine, oilseed processing equipment, oil extraction process, oil processing line price, oil processing line quotation, cold press oil, perilla oil processing solution, perilla seed cold pressing line
 ---
 
 # Perilla Seed (Perilla Oil) Solution

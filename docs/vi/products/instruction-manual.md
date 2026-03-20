@@ -1,6 +1,7 @@
 ---
 title: Sách hướng dẫn sử dụng thiết bị
 description: Tải xuống hướng dẫn sử dụng máy ép dầu thủy lực thương hiệu Qianlong
+keywords: Hướng dẫn sử dụng, máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu, nhà sản xuất máy ép dầu, dịch vụ hậu mãi, thiết bị chế biến hạt có dầu
 ---
 
 # Sách hướng dẫn sử dụng thiết bị

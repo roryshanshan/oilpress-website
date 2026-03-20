@@ -1,6 +1,6 @@
 ---
 title: Danh hiệu & Chứng nhận - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: Các danh hiệu và chứng nhận mà Công ty TNHH Shengshi Hecheng Sơn Đông đạt được, bao gồm doanh nghiệp công nghệ cao, bằng sáng chế, chứng nhận hệ thống quản lý chất lượng, v.v.
+description: Các danh hiệu và chứng nhận mà Công ty TNHH Shengshi Hecheng Sơn Đông đạt được, bao gồm doanh nghiệp công nghệ cao, bằng sáng chế
 keywords: Danh hiệu, Chứng nhận doanh nghiệp, Bằng cấp, Doanh nghiệp công nghệ cao, Bằng sáng chế, Hệ thống quản lý chất lượng, Shengshi Hecheng Sơn Đông, Nhà sản xuất máy ép dầu, Giới thiệu doanh nghiệp
 ---
 

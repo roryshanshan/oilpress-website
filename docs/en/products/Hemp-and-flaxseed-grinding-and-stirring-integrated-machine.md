@@ -1,3 +1,8 @@
+---
+title: Hemp & Flaxseed Grinding and Mixing Integrated Machine
+description: This machine is widely used in the pharmaceutical, chemical, food, industrial, and agricultural industries.
+keywords: hydraulic oil press, oil press machine, oil processing equipment
+---
 # Hemp & Flaxseed Grinding and Mixing Integrated Machine
 
 ## Product Overview

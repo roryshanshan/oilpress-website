@@ -1,7 +1,7 @@
 ---
-title: Customer Order Shipping Video - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng customer order shipping video showcase, including equipment packaging, loading and transportation, customer acceptance and other processes, let you understand our professional shipping services.
-keywords: Customer order shipping video, Equipment packaging shipping, Hydraulic oil press shipping, Shipping site, Customer acceptance, Shandong Shengshi Hecheng shipping video, Equipment transportation, Shipping service
+title: Customer Order Shipping Video - Shengshi Hecheng
+description: Shandong Shengshi Hecheng customer order shipping video showcase, including equipment packaging, loading and transportation
+keywords: Customer Order Shipping Video, oil press machine, oil press price, oil press quotation, oil press supplier, oil processing equipment, supporting equipment, after-sales service, oilseed processing equipment, Equipment packaging shipping
 ---
 
 #  <center> Customer Order Shipping Video</center>

@@ -1,3 +1,8 @@
+---
+title: Connaissances techniques
+description: Le rendement d'extraction d'huile de la presse est un indicateur important pour mesurer les performances de l'équipement.
+keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
+---
 # Connaissances techniques
 
 ## Partage technique

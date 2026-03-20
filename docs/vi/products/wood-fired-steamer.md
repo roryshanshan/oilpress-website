@@ -1,6 +1,6 @@
 ---
 title: Nồi hấp đốt gỗ - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Nồi hấp đốt gỗ được chế tạo từ vật liệu Q355B, có thể sử dụng than/gỗ/khí tự nhiên để sưởi ấm, bình nước tích hợp, lò nồi từ thép không gỉ 304, phù hợp cho sơ chế hấp nấu dầu cây.
+description: Nồi hấp đốt gỗ được chế tạo từ vật liệu Q355B, có thể sử dụng than/gỗ/khí tự nhiên để sưởi ấm, bình nước tích hợp, lò nồi từ thép không gỉ 304
 keywords: nồi hấp đốt gỗ, thiết bị hấp, nồi hấp sưởi đốt gỗ, nồi hấp khí tự nhiên, nồi hấp đốt than, nồi hấp dầu cây, thiết bị hấp nấu, máy hấp, thiết bị hấp, nồi hấp chế biến dầu cây, lò hấp nấu, nồi hấp
 ---
 

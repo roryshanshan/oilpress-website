@@ -1,7 +1,7 @@
 ---
-title: Technological Innovation - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng technological innovation, core technical advantages, intelligent control system, precision pressure control technology, energy-saving and environmental design, R&D investment, patent technology, PLC programmable controller, servo motor drive.
-keywords: Technological innovation, Core technical advantages, Intelligent control system, Precision pressure control technology, Energy-saving and environmental design, R&D investment, Patent technology, PLC programmable controller, Servo motor drive, Variable frequency speed control technology, Low-temperature cold pressing process, Shandong Shengshi Hecheng innovation
+title: Technological Innovation - Shengshi Hecheng
+description: Shandong Shengshi Hecheng technological innovation, core technical advantages, intelligent control system, precision pressure control technology
+keywords: Technological Innovation, oil press manufacturer advantages, technology innovation, quality assurance, service support, Core technical advantages, Intelligent control system, Precision pressure control technology
 ---
 
 # Technological Innovation

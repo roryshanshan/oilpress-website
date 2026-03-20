@@ -1,6 +1,6 @@
 ---
-title: Giải pháp hạt bông (Dầu hạt bông) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Giải pháp ép hạt bông chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt bông, tỷ lệ dầu 35-45%, kết hợp quy trình xử lý khử độc đặc biệt, phù hợp cho dầu ăn và ứng dụng công nghiệp.'
+title: Giải pháp hạt bông (Dầu hạt bông) | Shengshi Hecheng
+description: Giải pháp ép hạt bông chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt bông, tỷ lệ dầu 35-45%, kết hợp quy trình xử lý khử độc đặc biệt
 keywords: giải pháp hạt bông, ép dầu hạt bông, thiết bị chế biến hạt bông, dây chuyền sản xuất dầu hạt bông, quy trình ép hạt bông, máy ép hạt bông
 ---
 

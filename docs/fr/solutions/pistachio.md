@@ -1,6 +1,6 @@
 ---
-title: Solutions de pistache (huile de pistache) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage d'huile de pistache, fournissant des équipements et services techniques de transformation d'huile de pistache, teneur en huile 50-60%, utilisant un processus de pressage approprié pour mettre en valeur la valeur nutritionnelle, répondant aux besoins différents des petits ateliers aux grandes usines.
+title: Solutions de pistache (huile de pistache) - Shengshi Hecheng
+description: Solutions professionnelles de pressage d'huile de pistache, fournissant des équipements et services techniques de transformation d'huile de pistache
 keywords: Solutions de pistache, pressage d'huile de pistache, équipement de transformation de pistache, ligne de production d'huile de pistache, presse à huile de pistache, extraction d'huile de pistache, transformation de graines oléagineuses de pistache, équipement de pressage d'huile de pistache, équipement de production d'huile de pistache, usine de transformation d'huile de pistache, valeur nutritionnelle d'huile de pistache
 ---
 

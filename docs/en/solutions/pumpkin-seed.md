@@ -1,7 +1,7 @@
 ---
-title: Pumpkin Seed (Pumpkin Seed Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
+title: Pumpkin Seed (Pumpkin Seed Oil) Solution - Shengshi Hecheng
 description: Pumpkin seed oil processing solution emphasizing cold pressing and nutritional preservation for premium edible oil and health product markets.
-keywords: pumpkin seed oil processing solution, pumpkin seed cold pressing line, pumpkin seed oil extraction equipment, nutritional oil production project
+keywords: Pumpkin Seed (Pumpkin Seed Oil) Solution, oil processing solutions, oil press machine, oilseed processing equipment, oil extraction process, oil processing line price, oil processing line quotation, cold press oil, pumpkin seed oil processing solution, pumpkin seed cold pressing line
 ---
 
 # Pumpkin Seed (Pumpkin Seed Oil) Solution

@@ -1,6 +1,6 @@
 ---
-title: Solutions de sésame (huile de sésame) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage de sésame, fournissant des équipements et services techniques de transformation d'huile de sésame, teneur en huile 50-60%, utilisant le processus de pressage à chaud pour mettre en valeur l'arôme, des petits ateliers aux grandes usines avec un équipement et des services complets.
+title: Solutions de sésame (huile de sésame) - Shengshi Hecheng
+description: Solutions professionnelles de pressage de sésame, fournissant des équipements et services techniques de transformation d'huile de sésame, teneur en huile 50-60%
 keywords: Solutions de sésame, pressage d'huile de sésame, équipement de transformation de sésame, ligne de production d'huile de sésame, processus de pressage à chaud de sésame, presse à huile de sésame, extraction d'huile de sésame, transformation de graines oléagineuses de sésame, équipement de pressage d'huile de sésame, équipement de production d'huile de sésame, usine de transformation d'huile de sésame
 ---
 

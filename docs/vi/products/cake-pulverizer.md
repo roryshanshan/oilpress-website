@@ -1,6 +1,6 @@
 ---
 title: Máy nghiền bánh - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Máy nghiền bánh phù hợp cho các loại bánh bã đậu, bánh lạc, bánh hạt bông v.v., cấu trúc đơn giản, dễ bảo trì; công suất 11Kw, năng suất 1-4Kg/h, lưỡi nghiền dạng búa.
+description: Máy nghiền bánh phù hợp cho các loại bánh bã đậu, bánh lạc, bánh hạt bông v. v.
 keywords: Máy nghiền bánh, máy nghiền bã, nghiền bánh đậu, nghiền bánh lạc, nghiền bánh hạt bông, thiết bị nghiền, thiết bị chế biến bã, máy nghiền thức ăn, máy nghiền bánh khối, thiết bị nghiền dầu
 ---
 

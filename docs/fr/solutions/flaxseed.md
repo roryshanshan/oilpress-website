@@ -1,6 +1,6 @@
 ---
-title: Solution de graines de lin (huile de graines de lin) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage de graines de lin, fournissant équipement de transformation d'huile de graines de lin et services techniques, teneur en huile 35-45%, riche en α-linolénique, utilisant le procédé de pressage à froid pour préserver la nutrition, répondant aux besoins d'huiles alimentaires saines et de suppléments Ω-3.
+title: Solution de graines de lin (huile de graines de lin)
+description: Solutions professionnelles de pressage de graines de lin, fournissant équipement de transformation d'huile de graines de lin et services techniques
 keywords: Solutions de graines de lin, pressage d'huile de graines de lin, équipement de transformation de graines de lin, ligne de production d'huile de graines de lin, procédé de pressage à froid de graines de lin, presse à huile de graines de lin, extraction d'huile de graines de lin, transformation de graines de graines de lin, équipement de pressage d'huile de graines de lin, suppléments Ω-3, huile de lin
 ---
 

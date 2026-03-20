@@ -1,6 +1,6 @@
 ---
-title: Solution de graines de ricin (huile de ricin) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage d'huile de graines de ricin, fournissant des équipements et services techniques de transformation d'huile de ricin, teneur en huile 45-55%, utilisant le processus de pressage à chaud pour mettre en valeur les caractéristiques industrielles, répondant aux besoins différents des petits ateliers aux grandes usines.
+title: Solution de graines de ricin (huile de ricin) - Shengshi Hecheng
+description: Solutions professionnelles de pressage d'huile de graines de ricin, fournissant des équipements et services techniques de transformation d'huile de ricin
 keywords: Solutions de graines de ricin, pressage d'huile de ricin, équipement de transformation de graines de ricin, ligne de production d'huile de ricin, processus de pressage à chaud de graines de ricin, presse à huile de ricin, extraction d'huile de ricin, transformation de graines oléagineuses de ricin, équipement de pressage d'huile de ricin, équipement de production d'huile de ricin, usine de transformation d'huile de ricin
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Giải pháp hạt bí ngô (Dầu hạt bí) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: Giải pháp ép hạt bí ngô chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt bí, tỷ lệ dầu 35-45%, giàu axit linoleic, áp dụng quy trình ép lạnh để giữ dưỡng chất, phù hợp cho dầu ăn cao cấp và sản phẩm bổ dưỡng。
+title: Giải pháp hạt bí ngô (Dầu hạt bí) | Shengshi Hecheng
+description: Giải pháp ép hạt bí ngô chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt bí, tỷ lệ dầu 35-45%, giàu axit linoleic
 keywords: giải pháp hạt bí, ép dầu hạt bí, thiết bị chế biến hạt bí, dây chuyền sản xuất dầu hạt bí, quy trình ép lạnh hạt bí, máy ép hạt bí
 ---
 

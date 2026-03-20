@@ -1,3 +1,8 @@
+---
+title: Hỗ trợ dịch vụ
+description: Cung cấp tư vấn trước bán hàng, lắp đặt, đào tạo vận hành và hỗ trợ kỹ thuật sau bán hàng cho dự án máy ép dầu thủy lực.
+keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
+---
 # Hỗ trợ dịch vụ
 
 ## Hệ thống dịch vụ toàn diện

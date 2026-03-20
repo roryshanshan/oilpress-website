@@ -1,3 +1,8 @@
+---
+title: Bottle Washing Series
+description: Bottle washing machines are used to clean containers before filling to ensure they meet hygiene standards.
+keywords: гидравлический маслопресс, пресс для масла, оборудование для отжима масла
+---
 # Bottle Washing Series
 
 Bottle washing machines are used to clean containers before filling to ensure they meet hygiene standards.

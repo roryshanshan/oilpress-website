@@ -1,6 +1,6 @@
 ---
-title: Solutions de noyau de pêche (huile de noyau) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage d'huile de noyau de pêche, fournissant des équipements et services techniques de transformation d'huile de noyau, teneur en huile 40-50%, utilisant un processus de pressage approprié pour mettre en valeur la valeur nutritionnelle, répondant aux besoins différents des petits ateliers aux grandes usines.
+title: Solutions de noyau de pêche (huile de noyau) - Shengshi Hecheng
+description: Solutions professionnelles de pressage d'huile de noyau de pêche, fournissant des équipements et services techniques de transformation d'huile de noyau
 keywords: Solutions de noyau de pêche, pressage d'huile de noyau de pêche, équipement de transformation de noyau de pêche, ligne de production d'huile de noyau de pêche, presse à huile de noyau de pêche, extraction d'huile de noyau de pêche, transformation de graines oléagineuses de noyau de pêche, équipement de pressage d'huile de noyau de pêche, équipement de production d'huile de noyau de pêche, usine de transformation d'huile de noyau de pêche
 ---
 

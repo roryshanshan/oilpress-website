@@ -1,8 +1,8 @@
 ---
 layout: home
-title: "Hydraulic Oil Press Manufacturer | 300–500 Series | Shengshi Hecheng"
-description: "Shandong Shengshi Hecheng — professional hydraulic oil press manufacturer since 2008. 300 to 500 series oil presses for peanut, sesame, walnut, rapeseed, soybean, flaxseed and 30+ more oilseeds. One-stop oil processing solutions worldwide."
-keywords: hydraulic oil press manufacturer, hydraulic oil press machine, oil press machine for sale, peanut oil press, sesame oil press, walnut oil press, rapeseed oil press, cold press oil machine, oil mill equipment China, Shengshi Hecheng
+title: Hydraulic Oil Press Manufacturer | 300-500 Series Oil Press
+description: Shengshi Hecheng is a China hydraulic oil press manufacturer offering 300-500 series oil press machines, custom oil processing lines, and after-sales support.
+keywords: hydraulic oil press manufacturer, 300-500 series oil press, hydraulic oil press machine, oil press machine supplier, custom oil processing line, peanut oil press, sesame oil press, soybean oil press, oil press quotation, Shengshi Hecheng
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
@@ -28,10 +28,11 @@ keywords: hydraulic oil press manufacturer, hydraulic oil press machine, oil pre
 <div class="hero-section">
   <div class="hero-content">
     <h2>15 Years of Expertise in Hydraulic Oil Press Equipment</h2>
-    <p>National key oilseed pressing equipment manufacturer, providing one-stop oil processing solutions</p>
+    <p>300-500 series hydraulic oil press machines, custom oil processing lines, and global after-sales support for edible oil projects.</p>
     <div class="hero-buttons">
       <a href="/en/products/" class="primary-button">View Products</a>
       <a href="/en/contact/" class="contact-link-button">Contact Us</a>
+      <a href="https://hydraulic-oil-press.com/" class="secondary-button" target="_blank" rel="noopener">Official Website</a>
     </div>
   </div>
   <div class="hero-image">

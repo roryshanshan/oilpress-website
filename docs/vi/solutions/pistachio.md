@@ -1,6 +1,6 @@
 ---
-title: Giải pháp hồ đào (Dầu hồ đào) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: Giải pháp ép hồ đào chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hồ đào, tỷ lệ dầu 50-60%, giàu axit oleic, phù hợp cho dầu ăn cao cấp và thực phẩm bổ dưỡng。
+title: Giải pháp hồ đào (Dầu hồ đào) | Shengshi Hecheng
+description: Giải pháp ép hồ đào chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hồ đào, tỷ lệ dầu 50-60%, giàu axit oleic
 keywords: giải pháp hồ trăn, ép dầu hồ trăn, thiết bị chế biến hồ trăn, dây chuyền sản xuất dầu hồ trăn, quy trình ép hồ trăn, máy ép hồ trăn, thiết bị sản xuất dầu hồ trăn
 ---
 

@@ -1,3 +1,8 @@
+---
+title: Solutions d'huiles spéciales
+description: Les huiles spéciales comprennent la son d'origine, le germe de maïs, les graines de ricin, etc.
+keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
+---
 # Solutions d'huiles spéciales
 
 ## Aperçu

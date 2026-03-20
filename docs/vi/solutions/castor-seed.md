@@ -1,6 +1,6 @@
 ---
-title: Giải pháp hạt thầu dầu (Dầu thầu dầu) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Giải pháp ép hạt thầu dầu chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu thầu dầu, tỷ lệ dầu 45-55%, giàu axit ricinoleic, sử dụng quy trình ép nóng để đảm bảo hiệu suất, phù hợp cho ngành công nghiệp như dầu bôi trơn và nguyên liệu sơn.'
+title: Giải pháp hạt thầu dầu (Dầu thầu dầu) | Shengshi Hecheng
+description: Giải pháp ép hạt thầu dầu chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu thầu dầu, tỷ lệ dầu 45-55%, giàu axit ricinoleic
 keywords: giải pháp hạt thầu dầu, ép dầu thầu dầu, thiết bị chế biến hạt thầu dầu, dây chuyền sản xuất dầu thầu dầu, quy trình ép nóng thầu dầu, máy ép thầu dầu, dầu công nghiệp bôi trơn
 ---
 

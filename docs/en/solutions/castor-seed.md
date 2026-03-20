@@ -1,7 +1,7 @@
 ---
-title: Castor Seed (Castor Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
+title: Castor Seed (Castor Oil) Solution - Shengshi Hecheng
 description: Castor oil processing solution with hot pressing and industrial quality control, suitable for lubricant, coating, and chemical feedstock production.
-keywords: castor oil processing solution, castor seed hot pressing line, castor oil extraction machine, industrial castor oil production, chemical oil project
+keywords: Castor Seed (Castor Oil) Solution, oil processing solutions, oil press machine, oilseed processing equipment, oil extraction process, oil processing line price, oil processing line quotation, hot press oil, castor oil processing solution, castor seed hot pressing line
 ---
 
 # Castor Seed (Castor Oil) Solution

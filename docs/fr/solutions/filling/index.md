@@ -1,3 +1,8 @@
+---
+title: Filling Machine Series
+description: Filling machines are used to accurately fill liquid products into containers.
+keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
+---
 # Filling Machine Series
 
 Filling machines are used to accurately fill liquid products into containers.

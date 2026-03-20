@@ -1,6 +1,6 @@
 ---
-title: Wok électrique à fond plat avec huile conductrice de chaleur, doublé de laine de roche/en acier inoxydable - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Le wok électrique à fond plat avec huile conductrice de chaleur présente un fond renforcé double couche et un design intégré moteur-réducteur, doublé de laine de roche pour l'isolation, en acier inoxydable, chauffage électrique à huile conductrice de chaleur pour un chauffage uniforme, économe en énergie et respectueux de l'environnement.
+title: Wok électrique à fond plat avec huile conductrice de chaleur,
+description: Le wok électrique à fond plat avec huile conductrice de chaleur présente un fond renforcé double couche et un design intégré moteur-réducteur
 keywords: Wok électrique à fond plat avec huile conductrice de chaleur, Wok électrique, Wok avec huile conductrice de chaleur, Wok à fond plat, Wok pour graines oléagineuses, Équipement de wok, Wok à chauffage électrique, Wok avec isolation en laine de roche, Wok en acier inoxydable, Wok de traitement de graines oléagineuses, Machine de wok, Équipement de wok électrique
 ---
 

@@ -1,3 +1,8 @@
+---
+title: Solutions d'huile de graines
+description: Les huiles de graines sont la principale source d'huiles industrielles et alimentaires, caractérisées par un rendement élevé
+keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
+---
 # Solutions d'huile de graines
 
 ## Aperçu

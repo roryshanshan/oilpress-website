@@ -1,7 +1,7 @@
 ---
-title: Rapeseed (Rapeseed Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Rapeseed oil processing solution with complete hot pressing equipment, process design, and technical support for oil mills from small workshops to industrial plants.
-keywords: rapeseed oil processing solution, rapeseed hot pressing line, rapeseed oil press equipment, canola oil extraction machine, rapeseed oil plant design, industrial oil processing service
+title: Rapeseed (Rapeseed Oil) Solution - Shengshi Hecheng
+description: Rapeseed oil processing solution with complete hot pressing equipment, process design
+keywords: Rapeseed (Rapeseed Oil) Solution, oil processing solutions, oil press machine, oilseed processing equipment, oil extraction process, oil processing line price, oil processing line quotation, hot press oil, rapeseed oil processing solution, rapeseed hot pressing line
 ---
 
 # Rapeseed (Rapeseed Oil) Solution

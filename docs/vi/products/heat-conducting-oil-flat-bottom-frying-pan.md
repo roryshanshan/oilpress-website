@@ -1,6 +1,6 @@
 ---
-title: Chảo điện đáy phẳng dẫn nhiệt bằng dầu (lót bông khoáng/bao inox) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Chảo điện đáy phẳng dẫn nhiệt bằng dầu sử dụng thiết kế đáy hai lớp gia cường và motor giảm tốc tích hợp, lót bông khoáng giữ nhiệt, bọc inox bên ngoài; phương pháp gia nhiệt bằng dầu dẫn nhiệt giúp nhiệt phân bố đều, tiết kiệm năng lượng và thân thiện môi trường。
+title: Chảo điện đáy phẳng dẫn nhiệt bằng dầu (lót bông khoáng/bao inox)
+description: Chảo điện đáy phẳng dẫn nhiệt bằng dầu sử dụng thiết kế đáy hai lớp gia cường và motor giảm tốc tích hợp, lót bông khoáng giữ nhiệt
 keywords: chảo điện đáy phẳng dẫn nhiệt dầu, chảo điện, chảo dẫn nhiệt dầu, chảo đáy phẳng, chảo chế biến dầu, thiết bị rang xào, chảo gia nhiệt điện, chảo cách nhiệt bông khoáng, chảo inox
 ---
 

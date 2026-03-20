@@ -1,6 +1,6 @@
 ---
-title: Équipements auxiliaires - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng fournit des solutions complètes d'équipements auxiliaires pour presses à huile, y compris les équipements de prétraitement, de post-traitement, les broyeurs, les filtres à huile, etc., assurant le fonctionnement efficace des lignes de production de traitement de graines oléagineuses.
+title: Équipements auxiliaires - Shengshi Hecheng
+description: Shandong Shengshi Hecheng fournit des solutions complètes d'équipements auxiliaires pour presses à huile, y compris les équipements de prétraitement
 keywords: Équipements auxiliaires, Équipements auxiliaires de pressage d'huile, Équipements de prétraitement, Équipements de post-traitement, Broyeur, Filtre à huile, Cuiseur, Poêle, Équipements de traitement de graines oléagineuses, Équipements auxiliaires de pressage d'huile, Équipements de ligne de production de pressage d'huile, Équipements auxiliaires de traitement de graines oléagineuses
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Giải pháp nhân đào (Dầu hạt đào) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Giải pháp ép nhân đào chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt đào, tỷ lệ dầu 40-50%, giàu axit oleic, áp dụng quy trình ép lạnh để giữ dưỡng chất, phù hợp cho dầu ăn và mỹ phẩm.'
+title: Giải pháp nhân đào (Dầu hạt đào) | Shengshi Hecheng
+description: Giải pháp ép nhân đào chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt đào, tỷ lệ dầu 40-50%, giàu axit oleic
 keywords: giải pháp nhân đào, ép dầu nhân đào, thiết bị chế biến nhân đào, dây chuyền sản xuất dầu nhân đào, quy trình ép lạnh nhân đào, máy ép nhân đào
 ---
 

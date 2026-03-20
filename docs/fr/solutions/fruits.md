@@ -1,3 +1,8 @@
+---
+title: Solutions d'huile de fruits
+description: Les huiles de fruits proviennent de diverses pulpes de fruits, noyaux ou graines, présentant des composants nutritionnels uniques et une valeur santé.
+keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
+---
 # Solutions d'huile de fruits
 
 ## Aperçu

@@ -1,6 +1,6 @@
 ---
-title: Solutions de palmier (huile de palme) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage d'huile de palme, fournissant des équipements et services techniques de transformation d'huile de palme, teneur en huile 45-55%, utilisant un processus de pressage approprié pour mettre en valeur les applications industrielles, répondant aux besoins différents des petits ateliers aux grandes usines.
+title: Solutions de palmier (huile de palme) - Shengshi Hecheng
+description: Solutions professionnelles de pressage d'huile de palme, fournissant des équipements et services techniques de transformation d'huile de palme
 keywords: Solutions de palmier, pressage d'huile de palme, équipement de transformation de palmier, ligne de production d'huile de palme, presse à huile de palme, extraction d'huile de palme, transformation de graines oléagineuses de palmier, équipement de pressage d'huile de palme, équipement de production d'huile de palme, usine de transformation d'huile de palme
 ---
 

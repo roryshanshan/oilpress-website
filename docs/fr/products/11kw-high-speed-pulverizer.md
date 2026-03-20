@@ -1,6 +1,6 @@
 ---
-title: Pulvérisateur Haute Vitesse 11Kw - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Le Pulvérisateur Haute Vitesse 11Kw adopte un design de structure à volant, peut broyer divers matériaux durs tels que les graines de camélia, les noix, les avocats au niveau micron, capacité de traitement 750kg/h.
+title: Pulvérisateur Haute Vitesse 11Kw - Shengshi Hecheng
+description: Le Pulvérisateur Haute Vitesse 11Kw adopte un design de structure à volant, peut broyer divers matériaux durs tels que les graines de camélia, les noix
 keywords: Pulvérisateur haute vitesse, Pulvérisateur 11KW, Pulvérisateur de graines oléagineuses, Pulvérisateur de graines de camélia, Pulvérisateur de noix, Pulvérisateur d'avocat, Broyage micron, Pulvérisateur à volant, Équipement de prétraitement de graines oléagineuses, Équipement de pulvérisation, Équipement de pulvérisation haute vitesse, Pulvérisateur haute vitesse 11Kw, Équipement de pulvérisateur, Équipement de traitement de graines oléagineuses
 ---
 

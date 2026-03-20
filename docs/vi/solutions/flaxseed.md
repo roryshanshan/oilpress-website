@@ -1,6 +1,6 @@
 ---
-title: Giải pháp hạt lanh (Dầu hạt lanh) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Giải pháp ép hạt lanh chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt lanh, tỷ lệ dầu 35-45%, giàu axit α-linolenic, áp dụng quy trình ép lạnh để giữ dưỡng chất, phù hợp cho dầu ăn lành mạnh và thực phẩm bổ sung Omega-3.'
+title: Giải pháp hạt lanh (Dầu hạt lanh) | Shengshi Hecheng
+description: Giải pháp ép hạt lanh chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt lanh, tỷ lệ dầu 35-45%, giàu axit α-linolenic
 keywords: giải pháp hạt lanh, ép dầu hạt lanh, thiết bị chế biến hạt lanh, dây chuyền sản xuất dầu hạt lanh, quy trình ép lạnh hạt lanh, máy ép hạt lanh, thiết bị chiết xuất dầu hạt lanh, bổ sung Omega-3, dầu mè
 ---
 

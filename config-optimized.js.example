@@ -1,0 +1,144 @@
+// VitePress配置优化示例
+// 使用方法：参考此文件修改你的 docs/.vitepress/config.js
+
+import viteImagemin from 'vite-plugin-imagemin'
+
+export default {
+  // ... 保留你现有的所有配置 ...
+
+  // ===== 新增性能优化配置 =====
+  vite: {
+    build: {
+      // 代码分割优化
+      chunkSizeWarningLimit: 1000,
+
+      rollupOptions: {
+        output: {
+          // 更细粒度的代码分割
+          manualChunks(id) {
+            // 将Vercel相关包分离
+            if (id.includes('@vercel/analytics') || id.includes('@vercel/speed-insights')) {
+              return 'vercel-vendor'
+            }
+            // 将VitePress分离
+            if (id.includes('vitepress')) {
+              return 'vitepress-vendor'
+            }
+            // 其他第三方库
+            if (id.includes('node_modules')) {
+              return 'vendor'
+            }
+          }
+        }
+      },
+
+      // 压缩优化
+      minify: 'terser',
+      terserOptions: {
+        compress: {
+          drop_console: true, // 移除console.log
+          drop_debugger: true, // 移除debugger
+          pure_funcs: ['console.log', 'console.info']
+        }
+      },
+
+      // CSS优化
+      cssCodeSplit: true,
+
+      // 资源文件名
+      assetFileNames: (assetInfo) => {
+        if (assetInfo.name.endsWith('.css')) {
+          return 'assets/css/[name].[hash][extname]'
+        }
+        return 'assets/[name].[hash][extname]'
+      },
+
+      chunkFileNames: 'assets/js/[name].[hash].js',
+      entryFileNames: 'assets/js/[name].[hash].js'
+    },
+
+    // 图片优化插件
+    plugins: [
+      viteImagemin({
+        gifsicle: { optimizationLevel: 3 },
+        optipng: { optimizationLevel: 7 },
+        mozjpeg: { quality: 80, progressive: true },
+        svgo: {
+          plugins: [
+            { name: 'removeViewBox', active: false },
+            { name: 'removeEmptyAttrs', active: true }
+          ]
+        },
+        webp: { quality: 80 }
+      })
+    ],
+
+    // 开发服务器优化
+    server: {
+      host: '127.0.0.1',
+      port: 5173,
+      open: false,
+      cors: true,
+      // 热更新优化
+      hmr: {
+        overlay: true
+      }
+    },
+
+    // 依赖优化
+    optimizeDeps: {
+      include: ['vitepress'],
+      exclude: []
+    }
+  },
+
+  // ===== 优化Sitemap配置 =====
+  sitemap: {
+    hostname: 'https://hydraulicoilpressing.opchn.com/',
+    lastmod: new Date().toISOString(),
+    changefreq: 'weekly',
+    priority: 0.8,
+
+    // 排除不需要索引的页面
+    excludeRoutes: [
+      '/404',
+      '/search'
+    ],
+
+    // 为不同类型页面设置不同优先级
+    transformItems: (items) => {
+      return items.map((item) => {
+        // 首页最高优先级
+        if (item.url === '/' || item.url.match(/^\/(en|zh)\/$/)) {
+          item.priority = 1.0
+          item.changefreq = 'daily'
+        }
+        // 产品页高优先级
+        else if (item.url.includes('/products/')) {
+          item.priority = 0.9
+          item.changefreq = 'weekly'
+        }
+        // 解决方案页
+        else if (item.url.includes('/solutions/')) {
+          item.priority = 0.8
+          item.changefreq = 'weekly'
+        }
+        // 新闻页
+        else if (item.url.includes('/news/')) {
+          item.priority = 0.7
+          item.changefreq = 'weekly'
+        }
+        // 其他页面
+        else {
+          item.priority = 0.6
+          item.changefreq = 'monthly'
+        }
+        return item
+      })
+    }
+  },
+
+  // ===== 保留现有的所有其他配置 =====
+  // transformHead, locales, themeConfig 等保持不变
+  // ...
+}

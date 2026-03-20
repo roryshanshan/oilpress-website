@@ -1,6 +1,6 @@
 ---
-title: Nồi hấp điện 27kW (phiên bản nâng cấp) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Nồi hấp điện 27kW phiên bản nâng cấp có thiết kế hai bình nước dày hơn, tách riêng khoang nước và điện, an toàn; có thể hấp tối đa 100Kg/lần, thời gian 7–10 phút, vật liệu inox 304.
+title: Nồi hấp điện 27kW (phiên bản nâng cấp) - Shengshi Hecheng
+description: Nồi hấp điện 27kW phiên bản nâng cấp có thiết kế hai bình nước dày hơn, tách riêng khoang nước và điện, an toàn; có thể hấp tối đa 100Kg/lần
 keywords: nồi hấp điện 27kW, nồi hấp điện, phiên bản nâng cấp nồi hấp, nồi hấp xử lý nguyên liệu dầu, thiết bị hấp, thiết bị hấp điện, nồi hấp 27KW, thiết bị tiền xử lý dầu, máy hấp, nồi hấp gia nhiệt điện, thiết bị hấp chế biến dầu
 ---
 

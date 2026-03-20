@@ -1,3 +1,8 @@
+---
+title: Machine intégrée de broyage et mélange de graines de chanvre et
+description: Cette machine est largement utilisée dans les industries pharmaceutique, chimique, alimentaire, industrielle et agricole.
+keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
+---
 # Machine intégrée de broyage et mélange de graines de chanvre et de lin
 
 ## Aperçu du produit

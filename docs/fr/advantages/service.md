@@ -1,3 +1,8 @@
+---
+title: Service et support
+description: Services complets de conseil, installation, formation et support apres-vente pour les projets de presse a huile hydraulique.
+keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
+---
 # Service et support
 
 ## Système de service complet

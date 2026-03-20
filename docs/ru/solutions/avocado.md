@@ -1,6 +1,6 @@
 ---
-title: Avocado (Avocado Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional avocado pressing solutions, providing avocado oil processing equipment and technical services, oil content 15-25%, rich in oleic acid, meeting high-end edible oil and beauty skincare product needs.
+title: Avocado (Avocado Oil) Solution - Shengshi Hecheng
+description: Professional avocado pressing solutions, providing avocado oil processing equipment and technical services, oil content 15-25%, rich in oleic acid
 keywords: Avocado solutions, Avocado oil pressing, Avocado processing equipment, Avocado oil production line, Avocado pressing process, Avocado oil press, Avocado oil extraction, Avocado oilseed processing, Avocado oil pressing equipment, Avocado oil production equipment
 ---
 

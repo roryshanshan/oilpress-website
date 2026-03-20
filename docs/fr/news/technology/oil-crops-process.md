@@ -1,3 +1,8 @@
+---
+title: Processus optimaux de pressage d'huile pour différentes cultures
+description: "Publié : 25 janvier 2023"
+keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
+---
 # Processus optimaux de pressage d'huile pour différentes cultures oléagineuses
 
 *Publié : 25 janvier 2023*

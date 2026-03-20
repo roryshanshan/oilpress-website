@@ -1,6 +1,6 @@
 ---
-title: Solutions de graines de pastèque (huile de graines de pastèque) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage d'huile de graines de pastèque, fournissant des équipements et services techniques de transformation d'huile de graines de pastèque, teneur en huile 40-50%, utilisant un processus de pressage approprié pour mettre en valeur la valeur nutritionnelle, répondant aux besoins différents des petits ateliers aux grandes usines.
+title: Solution de graines de pastèque (huile de graines de pastèque)
+description: Solutions professionnelles de pressage d'huile de graines de pastèque
 keywords: Solutions de graines de pastèque, pressage d'huile de graines de pastèque, équipement de transformation de graines de pastèque, ligne de production d'huile de graines de pastèque, presse à huile de graines de pastèque, extraction d'huile de graines de pastèque, transformation de graines oléagineuses de graines de pastèque, équipement de pressage d'huile de graines de pastèque, équipement de production d'huile de graines de pastèque, usine de transformation d'huile de graines de pastèque
 ---
 

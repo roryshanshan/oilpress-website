@@ -1,6 +1,6 @@
 ---
-title: Giải pháp hạnh nhân (Dầu hạnh nhân) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Giải pháp ép hạnh nhân chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạnh nhân, tỷ lệ dầu 45-55%, áp dụng quy trình ép lạnh để giữ dưỡng chất, phù hợp cho dầu ăn cao cấp và mỹ phẩm.'
+title: Giải pháp hạnh nhân (Dầu hạnh nhân) | Shengshi Hecheng
+description: Giải pháp ép hạnh nhân chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạnh nhân, tỷ lệ dầu 45-55%, áp dụng quy trình ép lạnh để giữ dưỡng chất
 keywords: giải pháp hạt hạnh nhân, ép dầu hạnh nhân, thiết bị chế biến hạt hạnh nhân, dây chuyền sản xuất dầu hạnh nhân, quy trình ép lạnh hạnh nhân, máy ép hạnh nhân, ứng dụng mỹ phẩm
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Giải pháp hạt tía tô (Dầu hạt tía tô) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Giải pháp ép hạt tía tô chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt tía tô, tỷ lệ dầu 40-50%, giàu axit α-linolenic, áp dụng quy trình ép lạnh để giữ dưỡng chất, phù hợp cho dầu bổ sung Omega-3 và ứng dụng y học cổ truyền.'
+title: Giải pháp hạt tía tô (Dầu hạt tía tô) | Shengshi Hecheng
+description: Giải pháp ép hạt tía tô chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt tía tô, tỷ lệ dầu 40-50%, giàu axit α-linolenic
 keywords: giải pháp tía tô, ép dầu tía tô, thiết bị chế biến tía tô, dây chuyền sản xuất dầu tía tô, quy trình ép lạnh tía tô, máy ép tía tô, dầu tía tô, dầu giàu Ω-3
 ---
 

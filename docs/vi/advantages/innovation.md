@@ -1,6 +1,6 @@
 ---
 title: Đổi mới công nghệ - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: Đổi mới công nghệ của Shengshi Hecheng, gồm lợi thế công nghệ cốt lõi, hệ thống điều khiển thông minh, kỹ thuật kiểm soát áp lực chính xác, thiết kế tiết kiệm năng lượng và thân thiện môi trường, đầu tư R&D và các bằng sáng chế.
+description: Đổi mới công nghệ của Shengshi Hecheng, gồm lợi thế công nghệ cốt lõi, hệ thống điều khiển thông minh, kỹ thuật kiểm soát áp lực chính xác
 keywords: đổi mới công nghệ, lợi thế kỹ thuật, hệ thống điều khiển thông minh, kiểm soát áp lực chính xác, thiết kế tiết kiệm năng lượng, đầu tư R&D, bằng sáng chế, PLC, động cơ servo, biến tần, công nghệ ép lạnh
 ---
 

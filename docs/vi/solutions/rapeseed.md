@@ -1,6 +1,6 @@
 ---
-title: Giải pháp hạt cải (Dầu cải) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Giải pháp ép hạt cải chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu cải, tỷ lệ dầu 35-45%, sử dụng quy trình ép nóng để đảm bảo tỷ lệ chiết xuất, phù hợp cho mọi quy mô sản xuất.'
+title: Giải pháp hạt cải (Dầu cải) | Shengshi Hecheng
+description: Giải pháp ép hạt cải chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu cải, tỷ lệ dầu 35-45%, sử dụng quy trình ép nóng để đảm bảo tỷ lệ chiết xuất
 keywords: giải pháp hạt cải, ép dầu cải, thiết bị chế biến hạt cải, dây chuyền sản xuất dầu cải, quy trình ép nóng hạt cải, máy ép hạt cải, thiết bị chiết xuất dầu cải, nhà máy chế biến dầu cải
 ---
 

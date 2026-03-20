@@ -1,6 +1,6 @@
 ---
-title: Solution de graines de thé (huile de graines de thé) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage de graines de thé, fournissant des équipements et services techniques de transformation d'huile de graines de thé, teneur en huile 25-35%, riche en acide oléique, utilisant le processus de pressage à chaud pour assurer la qualité, répondant aux besoins d'huiles alimentaires haut de gamme et de produits de beauté.
+title: Solution de graines de thé (huile de graines de thé)
+description: Solutions professionnelles de pressage de graines de thé, fournissant des équipements et services techniques de transformation d'huile de graines de thé
 keywords: Solutions de graines de thé, pressage d'huile de graines de thé, équipement de transformation de graines de thé, ligne de production d'huile de graines de thé, processus de pressage à chaud de graines de thé, presse à huile de graines de thé, extraction d'huile de graines de thé, transformation de graines oléagineuses de graines de thé, équipement de pressage d'huile de graines de thé, huile de thé, huile de camélia
 ---
 

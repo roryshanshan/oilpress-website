@@ -1,6 +1,6 @@
 ---
-title: Giải pháp hạt dưa hấu (Dầu hạt dưa) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Giải pháp ép hạt dưa hấu chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt dưa, tỷ lệ dầu 40-50%, giàu axit linoleic, phù hợp cho dầu ăn đặc sản và sản phẩm dinh dưỡng.'
+title: Giải pháp hạt dưa hấu (Dầu hạt dưa) | Shengshi Hecheng
+description: Giải pháp ép hạt dưa hấu chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt dưa, tỷ lệ dầu 40-50%, giàu axit linoleic
 keywords: giải pháp hạt dưa hấu, ép dầu hạt dưa hấu, thiết bị chế biến hạt dưa hấu, dây chuyền sản xuất dầu hạt dưa hấu, quy trình ép hạt dưa hấu, máy ép hạt dưa hấu
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Solutions de soja (huile de soja) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng fournit des solutions professionnelles de pressage de soja, équipements et services complets des petits ateliers aux grandes usines, teneur en huile de soja 18-22%, fournissant des procédés de pressage à froid et à chaud.
+title: Solutions de soja (huile de soja) - Shengshi Hecheng
+description: Shandong Shengshi Hecheng fournit des solutions professionnelles de pressage de soja, équipements et services complets des petits ateliers aux grandes usines
 keywords: Solutions de soja, pressage d'huile de soja, équipement de transformation de soja, ligne de production d'huile de soja, procédé de pressage à froid de soja, procédé de pressage à chaud de soja, presse à huile de soja, transformation de tourteau de soja, extraction d'huile de soja, transformation de graines de soja, équipement de pressage de soja, équipement de raffinage d'huile de soja, usine de transformation d'huile de soja, technologie de pressage de soja, équipement de production d'huile de soja
 ---
 

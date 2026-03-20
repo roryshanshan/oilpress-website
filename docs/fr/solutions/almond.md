@@ -1,6 +1,6 @@
 ---
-title: Solution d'amande (huile d'amande) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage d'amandes, fournissant des équipements et services techniques de transformation d'huile d'amande, teneur en huile 45-55%, utilisant le procédé de pressage à froid pour préserver les nutriments, répondant aux besoins d'huiles alimentaires haut de gamme et de produits de soin de la peau.
+title: Solution d'amande (huile d'amande) - Shengshi Hecheng
+description: Solutions professionnelles de pressage d'amandes, fournissant des équipements et services techniques de transformation d'huile d'amande, teneur en huile 45-55%
 keywords: Solutions d'amande, pressage d'huile d'amande, équipement de transformation d'amande, ligne de production d'huile d'amande, procédé de pressage à froid d'amande, presse à huile d'amande, extraction d'huile d'amande, transformation de graines d'amande, équipement de pressage d'huile d'amande, équipement de production d'huile d'amande, soin de la peau
 ---
 

@@ -1,3 +1,8 @@
+---
+title: Technical Knowledge
+description: Oil press yield is an important indicator for measuring equipment performance.
+keywords: hydraulic oil press, oil press machine, oil processing equipment
+---
 # Technical Knowledge
 
 ## Technical Sharing

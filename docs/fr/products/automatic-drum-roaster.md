@@ -1,6 +1,6 @@
 ---
-title: Rôtisseur à Tambour Automatique - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Le Rôtisseur à Tambour Automatique utilise la méthode de chauffage électromagnétique, adapté au rôtissage de graines de lin, sésame, arachides, soja et autres matériaux, niveaux de puissance ajustables, chauffage rapide, sûr et fiable, économie d'énergie et respectueux de l'environnement.
+title: Rôtisseur à Tambour Automatique - Shengshi Hecheng
+description: Le Rôtisseur à Tambour Automatique utilise la méthode de chauffage électromagnétique, adapté au rôtissage de graines de lin, sésame, arachides
 keywords: Rôtisseur à tambour automatique, Rôtisseur automatique, Rôtisseur à tambour, Rôtisseur à chauffage électromagnétique, Équipement de rôtissage de graines oléagineuses, Rôtisseur de graines de lin, Rôtisseur de sésame, Rôtisseur d'arachides, Rôtisseur de soja, Équipement de rôtissage, Machine de rôtissage, Équipement de prétraitement de graines oléagineuses, Machine de rôtissage, Rôtisseur électromagnétique, Machine de rôtissage automatique
 ---
 

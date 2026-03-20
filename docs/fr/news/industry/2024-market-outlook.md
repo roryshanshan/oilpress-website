@@ -1,3 +1,8 @@
+---
+title: Perspectives du marché mondial des huiles comestibles 2024-2025
+description: "Publié le : 4 octobre 2024"
+keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
+---
 # Perspectives du marché mondial des huiles comestibles 2024-2025 : tendances, défis et opportunités
 
 *Publié le : 4 octobre 2024*

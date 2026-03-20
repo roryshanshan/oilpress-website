@@ -1,3 +1,8 @@
+---
+title: La nouvelle politique nationale stimule le développement de
+description: "Publié : 8 août 2023"
+keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
+---
 # La nouvelle politique nationale stimule le développement de l'industrie de transformation des céréales et huiles
 
 *Publié : 8 août 2023*

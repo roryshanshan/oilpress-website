@@ -1,6 +1,6 @@
 ---
-title: Pulvérisateur de gâteau - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Le pulvérisateur de gâteau est adapté au broyage de divers matériaux tels que les gâteaux de soja, les gâteaux d'arachide, les gâteaux de coton, avec une structure simple, facile à entretenir, puissance de 11Kw, capacité de traitement de 1-4Kg/h, lames de broyage à marteaux.
+title: Pulvérisateur de gâteau - Shengshi Hecheng
+description: Le pulvérisateur de gâteau est adapté au broyage de divers matériaux tels que les gâteaux de soja, les gâteaux d'arachide, les gâteaux de coton
 keywords: pulvérisateur de gâteau, pulvérisateur de gâteau de soja, pulvérisateur de gâteau d'arachide, pulvérisateur de gâteau de coton, équipement de pulvérisation, équipement de traitement de gâteau de soja, pulvérisateur d'aliments pour animaux, pulvérisateur de blocs de gâteau, pulvérisateur de gâteau d'huile, équipement de pulvérisation, équipement de pulvérisation de gâteau de soja
 ---
 

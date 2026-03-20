@@ -1,6 +1,6 @@
 ---
 title: Actualités - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Actualités de Shandong Shengshi Hecheng, y compris les actualités de l'entreprise, les informations sectorielles, les connaissances techniques, découvrez les dernières évolutions dans les presses à huile, les tendances du secteur et les innovations technologiques.
+description: Actualités de Shandong Shengshi Hecheng, y compris les actualités de l'entreprise, les informations sectorielles, les connaissances techniques
 keywords: Actualités, Actualités de l'entreprise, Informations sectorielles, Connaissances techniques, Actualités des presses à huile, Salon du grain et de l'huile, Mise en service du nouvel usine, Marché des huiles comestibles, Politique du grain et de l'huile, Amélioration du rendement en huile, Technologie de transformation des oléagineux, Actualités de Shandong Shengshi Hecheng
 ---
 

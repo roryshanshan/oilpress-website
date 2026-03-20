@@ -1,6 +1,6 @@
 ---
-title: Giải pháp đậu phộng (Dầu đậu phộng) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: Giải pháp ép đậu phộng chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu đậu phộng, tỷ lệ dầu 45-55%, sử dụng quy trình ép nóng để đảm bảo hương vị đặc trưng và độ chiết xuất cao, phù hợp cho mọi quy mô sản xuất。
+title: Giải pháp đậu phộng (Dầu đậu phộng) | Shengshi Hecheng
+description: Giải pháp ép đậu phộng chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu đậu phộng, tỷ lệ dầu 45-55%
 keywords: giải pháp lạc, ép dầu lạc, thiết bị chế biến lạc, dây chuyền sản xuất dầu lạc, quy trình ép nóng lạc, máy ép lạc, thiết bị chiết xuất dầu lạc, nhà máy chế biến dầu lạc
 ---
 

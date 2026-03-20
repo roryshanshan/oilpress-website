@@ -1,6 +1,6 @@
 ---
-title: Solution de noix de coco (huile de noix de coco) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage de noix de coco, fournissant des équipements et services techniques de transformation d'huile de noix de coco, teneur en huile 60-70%, riche en acide laurique, utilisant le processus de pressage à froid pour préserver la nutrition, répondant aux besoins d'huiles alimentaires saines et de produits de beauté.
+title: Solution de noix de coco (huile de noix de coco)
+description: Solutions professionnelles de pressage de noix de coco, fournissant des équipements et services techniques de transformation d'huile de noix de coco
 keywords: Solutions de noix de coco, pressage d'huile de noix de coco, équipement de transformation de noix de coco, ligne de production d'huile de noix de coco, processus de pressage à froid de noix de coco, presse à huile de noix de coco, extraction d'huile de noix de coco, transformation de graines oléagineuses de noix de coco, équipement de pressage d'huile de noix de coco, équipement de production d'huile de noix de coco
 ---
 

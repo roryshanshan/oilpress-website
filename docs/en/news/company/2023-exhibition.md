@@ -1,7 +1,7 @@
 ---
-title: "Shengshi Hecheng at 2023 China International Grain & Oil Exhibition"
-description: "Shengshi Hecheng showcased its latest hydraulic oil press series and fully automatic oil production lines at the 2023 China International Grain & Oil Exhibition in Beijing, attracting global buyers."
-keywords: Shengshi Hecheng exhibition 2023, China grain oil exhibition, hydraulic oil press show, oil press manufacturer trade fair
+title: Shengshi Hecheng Shines at 2023 China International Grain and
+description: Shengshi Hecheng showcased its latest hydraulic oil press series and fully automatic oil production lines at the 2023 China International Grain & Oil Exhibit...
+keywords: oil extraction technology, oil press machine, oil processing knowledge, Shengshi Hecheng exhibition 2023, China grain oil exhibition, hydraulic oil press show, oil press manufacturer trade fair
 date: "2023-11-28"
 ---
 

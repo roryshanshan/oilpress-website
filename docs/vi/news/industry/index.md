@@ -1,3 +1,8 @@
+---
+title: Tin tức ngành công nghiệp
+description: Cùng với sự tăng trưởng dân số toàn cầu và sự thay đổi cơ cấu chế độ ăn, nhu cầu thị trường dầu ăn tiếp tục tăng.
+keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
+---
 # Tin tức ngành công nghiệp
 
 ## Tin tức mới nhất

@@ -1,6 +1,6 @@
 ---
 title: À propos de nous - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng Machinery Co., Ltd. a été fondée en 2008, se spécialisant dans la R&D et la fabrication d'équipements d'extraction d'huile, avec une base de production moderne et une équipe R&D professionnelle, fournissant des solutions d'équipements d'extraction d'huile de pointe mondialement reconnues.
+description: Shandong Shengshi Hecheng Machinery Co., Ltd.
 keywords: Shandong Shengshi Hecheng, fabricant d'équipements d'extraction d'huile, fabricant de presses à huile hydrauliques, équipements de traitement des oléagineux, R&D d'équipements d'extraction d'huile, production d'équipements d'extraction d'huile, entreprise de haute technologie, usine d'équipements d'extraction d'huile, fabricant de presses à huile, équipements d'extraction d'oléagineux, usine de production de presses à huile, machines de traitement des oléagineux
 ---
 

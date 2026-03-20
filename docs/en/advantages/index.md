@@ -1,7 +1,7 @@
 ---
-title: Company Advantages - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng company advantages, core competitiveness, technical innovation, quality assurance, service support, professional R&D team, patented technology, ISO9001 certification, lifetime technical support.
-keywords: Company advantages, Core competitiveness, Technical innovation, Quality assurance, Service support, R&D team, Patented technology, Quality management system, After-sales guarantee, Shandong Shengshi Hecheng advantages, Oil press manufacturer advantages
+title: Company Advantages - Shengshi Hecheng
+description: Shandong Shengshi Hecheng company advantages, core competitiveness, technical innovation, quality assurance, service support, professional R&D team
+keywords: Company Advantages, oil press manufacturer advantages, technology innovation, quality assurance, service support, Core competitiveness, Technical innovation, R&D team
 ---
 
 # Company Advantages

@@ -1,3 +1,8 @@
+---
+title: Tin tức công ty
+description: Công ty đã tham gia Triển lãm Công nghệ Chế biến Dầu Quốc tế Trung Quốc 2023, trưng bày thiết bị ép dầu thủy lực loạt mới nhất, thu hút sự chú ý rộng rãi.
+keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
+---
 # Tin tức công ty
 
 ## Tin tức mới nhất

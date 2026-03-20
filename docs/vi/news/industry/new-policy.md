@@ -1,3 +1,8 @@
+---
+title: Quốc gia ban hành chính sách mới để hỗ trợ phát triển ngành chế
+description: "Thời gian công bố: 15 tháng 2 năm 2023"
+keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
+---
 # Quốc gia ban hành chính sách mới để hỗ trợ phát triển ngành chế biến hạt lúa và dầu ăn
 
 *Thời gian công bố: 15 tháng 2 năm 2023*

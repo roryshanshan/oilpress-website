@@ -1,6 +1,6 @@
 ---
-title: Équipements de prétraitement de graines oléagineuses - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Les équipements de prétraitement de graines oléagineuses constituent une partie importante de la ligne de production d'extrusion d'huile, incluant les équipements de nettoyage, de séchage, de broyage, affectant directement la qualité finale du produit et améliorant le rendement en huile.
+title: Équipements de prétraitement de graines oléagineuses
+description: Les équipements de prétraitement de graines oléagineuses constituent une partie importante de la ligne de production d'extrusion d'huile
 keywords: Équipements de prétraitement de graines oléagineuses, Équipements de prétraitement de graines oléagineuses, Équipements de nettoyage, Équipements de séchage, Équipements de broyage, Prétraitement de graines oléagineuses, Équipements de prétraitement, Machine de nettoyage de graines oléagineuses, Séchoir de graines oléagineuses, Broyeur de graines oléagineuses, Ligne de prétraitement, Processus de prétraitement de graines oléagineuses
 ---
 

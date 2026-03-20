@@ -1,7 +1,7 @@
 ---
-title: Chili Seed (Chili Seed Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
+title: Chili Seed (Chili Seed Oil) Solution - Shengshi Hecheng
 description: Chili seed oil processing solution focused on controlled pressing and quality retention for functional edible oils and specialty product lines.
-keywords: chili seed oil processing solution, chili seed oil extraction equipment, functional seed oil production, chili seed pressing machine, specialty oil project
+keywords: Chili Seed (Chili Seed Oil) Solution, oil processing solutions, oil press machine, oilseed processing equipment, oil extraction process, oil processing line price, oil processing line quotation, chili seed oil processing solution, chili seed oil extraction equipment, functional seed oil production
 ---
 
 # Chili Seed (Chili Seed Oil) Solution

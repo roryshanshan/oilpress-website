@@ -1,6 +1,6 @@
 ---
 title: Liên hệ - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Thông tin liên hệ của Công ty TNHH Shengshi Hecheng Sơn Đông: địa chỉ Khu phát triển, đường Yineng 5888, thành phố Thanh Châu, Weifang, Sơn Đông; Giám đốc kinh doanh Gavin Lee; WeChat/WhatsApp: +8619906365856; email: gavin@oil-pressing-machine.com.'
+description: "Thông tin liên hệ của Công ty TNHH Shengshi Hecheng Sơn Đông: địa chỉ Khu phát triển, đường Yineng 5888, thành phố Thanh Châu, Weifang"
 keywords: Liên hệ, Công ty Shengshi Hecheng, Thiết bị ép dầu, Thông tin liên hệ, Địa chỉ công ty, Tư vấn bán hàng, Hỗ trợ kỹ thuật, Mua thiết bị, Báo giá, Dịch vụ hậu mãi, Bảo trì thiết bị, Tư vấn kỹ thuật
 ---
 

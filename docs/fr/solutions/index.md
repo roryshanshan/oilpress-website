@@ -1,6 +1,6 @@
 ---
 title: Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng fournit des solutions professionnelles de transformation de graines oléagineuses, classées par type de graine oléagineuse incluant les céréales et oléagineux, les noix, les fruits, les huiles spéciales, assurant un contrôle intelligent, des produits huileux de haute qualité, une production durable.
+description: Shandong Shengshi Hecheng fournit des solutions professionnelles de transformation de graines oléagineuses
 keywords: Solutions, Solutions de transformation de graines oléagineuses, Solutions de céréales et oléagineux, Solutions de noix, Solutions de fruits, Solutions d'huiles spéciales, Contrôle intelligent, Produits huileux de haute qualité, Production durable, Transformation d'huiles alimentaires, Beauté et soins de la peau, Fabrication de produits de santé, Applications industrielles, Solutions Shandong Shengshi Hecheng
 ---
 

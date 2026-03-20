@@ -1,6 +1,6 @@
 ---
-title: Solution de son de riz (huile de son de riz) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage de son de riz, fournissant des équipements et services techniques de transformation d'huile de son de riz, teneur en huile 15-25%, utilisant le processus de pressage à froid pour préserver la nutrition, répondant aux besoins de production d'échelles différentes.
+title: Solution de son de riz (huile de son de riz) - Shengshi Hecheng
+description: Solutions professionnelles de pressage de son de riz, fournissant des équipements et services techniques de transformation d'huile de son de riz
 keywords: Solutions de son de riz, pressage d'huile de son de riz, équipement de transformation de son de riz, ligne de production d'huile de son de riz, processus de pressage à froid d'huile de son de riz, presse à huile de son de riz, extraction d'huile de son de riz, transformation de graines oléagineuses de son de riz, équipement de pressage d'huile de son de riz, équipement de production d'huile de son de riz
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Avantages de l'entreprise - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Avantages de l'entreprise Shandong Shengshi Hecheng, compétitivité essentielle, innovation technique, garantie de qualité, support service, équipe R&D professionnelle, technologie brevetée, certification ISO9001, support technique à vie.
+title: Avantages de l'entreprise - Shengshi Hecheng
+description: Avantages de l'entreprise Shandong Shengshi Hecheng, compétitivité essentielle, innovation technique, garantie de qualité, support service
 keywords: Avantages de l'entreprise, Compétitivité essentielle, Innovation technique, Garantie de qualité, Support service, Équipe R&D, Technologie brevetée, Système de management de la qualité, Garantie après-vente, Avantages Shandong Shengshi Hecheng, Avantages du fabricant de presses à huile
 ---
 

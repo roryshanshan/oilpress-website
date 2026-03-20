@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Nhà sản xuất máy ép dầu thủy lực chuyên nghiệp - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: Công ty TNHH Shengshi Hecheng Sơn Đông chuyên về nghiên cứu và sản xuất máy ép dầu thủy lực, cung cấp thiết bị ép dầu cho các loại nguyên liệu như đậu tương, lạc, vừng..., giải pháp chế biến dầu một cửa.
+title: Nhà sản xuất máy ép dầu thủy lực chuyên nghiệp - Công ty TNHH
+description: Công ty TNHH Shengshi Hecheng Sơn Đông chuyên về nghiên cứu và sản xuất máy ép dầu thủy lực, cung cấp thiết bị ép dầu cho các loại nguyên liệu như đậu tương
 keywords: Máy ép dầu đậu tương thủy lực, Máy ép dầu lạc thủy lực, Máy ép dầu vừng thủy lực, Máy ép dầu cải thủy lực, Máy ép dầu hướng dương thủy lực, Máy ép dầu hạt bông thủy lực, Máy ép dầu hạt lanh thủy lực, Máy ép dầu trà thủy lực, Máy ép dầu tía tô thủy lực, Máy ép dầu dừa thủy lực, Máy ép dầu cọ thủy lực, Máy ép dầu óc chó thủy lực, Máy ép dầu hạnh nhân thủy lực, Máy ép dầu hạt phỉ thủy lực, Máy ép dầu hạt điều thủy lực, Máy ép dầu hạt dẻ cười thủy lực, Máy ép dầu bơ thủy lực, Máy ép dầu hạt nho thủy lực, Máy ép dầu hạt bí thủy lực, Máy ép dầu hạt dưa thủy lực, Máy ép dầu hạt đào thủy lực, Máy ép dầu hạt mơ thủy lực, Máy ép dầu 300 tấn, Máy ép dầu 325 tấn, Máy ép dầu 380 tấn, Máy ép dầu 410 tấn, Máy ép dầu 480 tấn, Máy ép dầu 500 tấn, Máy ép dầu 530 tấn, Máy ép dầu nguyên liệu, Máy ép dầu hạt cứng, Máy ép dầu hạt trái cây, Máy ép dầu 300T, Máy ép dầu 325T, Máy ép dầu 380T, Máy ép dầu 410T, Máy ép dầu 480T, Máy ép dầu 500T, Máy ép dầu 530T, Máy ép dầu cây dầu, Máy ép dầu hạt cứng, Máy ép dầu hạt trái cây, Máy ép dầu đậu tương, Máy ép dầu lạc, Máy ép dầu vừng, Máy ép dầu cải, Máy ép dầu hướng dương, Máy ép dầu hạt bông, Máy ép dầu hạt lanh, Máy ép dầu trà, Máy ép dầu tía tô, Máy ép dầu óc chó, Máy ép dầu dừa, Máy ép dầu cọ, Máy ép dầu hạt đào, Máy ép dầu hạt mơ, Máy ép dầu hạt bí, Máy ép dầu hạt dưa, Máy ép dầu hạnh nhân
 ---
 
@@ -207,23 +207,23 @@ keywords: Máy ép dầu đậu tương thủy lực, Máy ép dầu lạc thủ
 
 <div class="contact-section">
   <div class="contact-info">
-  <h3>Gavin Lee - Giám đốc kinh doanh chuyên nghiệp phục vụ bạn</h3>
-  <p><strong>📱 WeChat:</strong> +8619906365856</p>
-  <p><strong>📱 WhatsApp:</strong> +8619906365856</p>
-  <p><strong>📧 Email:</strong> roryshanshan@gmail.com</p>
-  <p><strong>📧 Kinh doanh:</strong> gavin@oil-pressing-machine.com</p>
-  <p><strong>🏭 Địa chỉ:</strong> Khu phát triển, đường Yineng, số 5888, thành phố Thanh Châu, Weifang, Sơn Đông</p>
-  <a href="/zh/contact/" class="contact-button">Liên hệ chúng tôi</a>
+    <h3>Gavin Lee - Giám đốc kinh doanh chuyên nghiệp phục vụ bạn</h3>
+    <p><strong>📱 WeChat:</strong> +8619906365856</p>
+    <p><strong>📱 WhatsApp:</strong> +8619906365856</p>
+    <p><strong>📧 Email:</strong> roryshanshan@gmail.com</p>
+    <p><strong>📧 Kinh doanh:</strong> gavin@oil-pressing-machine.com</p>
+    <p><strong>🏭 Địa chỉ:</strong> Số 5888, đường Yineng, Khu phát triển, thành phố Thanh Châu, Weifang, Sơn Đông, Trung Quốc</p>
+    <a href="/vi/contact/" class="contact-button">Liên hệ chúng tôi</a>
   </div>
   <div class="contact-form">
     <form action="https://formspree.io/f/xblaoewy" method="POST">
-  <input type="text" id="name" name="name" placeholder="Tên của bạn" required />
-  <input type="email" id="email" name="email" placeholder="Địa chỉ email của bạn" required />
-  <input type="tel" id="phone" name="phone" placeholder="Số điện thoại liên hệ" required />
-  <input type="hidden" name="_subject" value="Biểu mẫu tư vấn trang chủ" />
-  <input type="hidden" name="_next" value="/zh/contact/" />
-  <textarea id="message" name="message" rows="5" placeholder="Nội dung tin nhắn" required></textarea>
-  <button type="submit">Gửi tư vấn</button>
+      <input type="text" id="name" name="name" placeholder="Họ và tên" required />
+      <input type="email" id="email" name="email" placeholder="Email" required />
+      <input type="tel" id="phone" name="phone" placeholder="Số điện thoại" required />
+      <input type="hidden" name="_subject" value="Biểu mẫu liên hệ - Trang chủ" />
+      <input type="hidden" name="_next" value="/vi/contact/" />
+      <textarea id="message" name="message" rows="5" placeholder="Nội dung liên hệ" required></textarea>
+      <button type="submit">Gửi yêu cầu</button>
     </form>
   </div>
 </div>

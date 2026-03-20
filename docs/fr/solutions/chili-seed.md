@@ -1,6 +1,6 @@
 ---
-title: Solution de graines de piment (huile de graines de piment) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage d'huile de graines de piment, fournissant des équipements et services techniques de transformation d'huile de graines de piment, teneur en huile 15-25%, utilisant un processus de pressage approprié pour mettre en valeur la valeur nutritionnelle, répondant aux besoins différents des petits ateliers aux grandes usines.
+title: Solution de graines de piment (huile de graines de piment)
+description: Solutions professionnelles de pressage d'huile de graines de piment
 keywords: Solutions de graines de piment, pressage d'huile de graines de piment, équipement de transformation de graines de piment, ligne de production d'huile de graines de piment, presse à huile de graines de piment, extraction d'huile de graines de piment, transformation de graines oléagineuses de piment, équipement de pressage d'huile de graines de piment, équipement de production d'huile de graines de piment, usine de transformation d'huile de graines de piment
 ---
 

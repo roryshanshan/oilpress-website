@@ -1,6 +1,6 @@
 ---
-title: Wok à fond plat avec huile thermique à combustion bois - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Le wok à fond plat avec huile thermique à combustion bois est équipé de son propre four, le modèle à huile thermique résout le problème de chauffage inégal, peut brûler du bois et du gaz naturel, doublé de laine de roche pour l'isolation, extérieur en acier inoxydable, adapté au prétraitement de friture des graines oléagineuses.
+title: Wok à fond plat avec huile thermique à combustion bois
+description: Le wok à fond plat avec huile thermique à combustion bois est équipé de son propre four, le modèle à huile thermique résout le problème de chauffage inégal
 keywords: Wok à fond plat à combustion bois avec huile thermique, Wok à huile thermique, Wok à fond plat, Wok à combustion bois, Wok au gaz, Wok pour graines oléagineuses, Équipement de wok, Wok à chauffage à huile thermique, Wok avec isolation en laine de roche, Wok en acier inoxydable, Wok de traitement de graines oléagineuses, Machine de wok, Équipement de wok
 ---
 

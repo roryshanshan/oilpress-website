@@ -1,6 +1,6 @@
 ---
 title: Giải pháp bơ (Dầu bơ) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: Giải pháp ép bơ chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu bơ, tỷ lệ dầu 15-25%, giàu axit oleic, phù hợp cho dầu ăn cao cấp và sản phẩm chăm sóc da。
+description: Giải pháp ép bơ chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu bơ, tỷ lệ dầu 15-25%, giàu axit oleic
 keywords: giải pháp bơ, ép dầu bơ, thiết bị chế biến bơ, dây chuyền sản xuất dầu bơ, quy trình ép bơ, máy ép bơ
 ---
 

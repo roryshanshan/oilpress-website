@@ -1,6 +1,6 @@
 ---
-title: Giải pháp hạt óc chó (Dầu hạt óc chó) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Giải pháp ép hạt óc chó chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt óc chó, tỷ lệ dầu 60-70%, áp dụng quy trình ép lạnh để giữ dưỡng chất, phù hợp cho dầu ăn cao cấp và thực phẩm bổ dưỡng.'
+title: Giải pháp hạt óc chó (Dầu hạt óc chó) | Shengshi Hecheng
+description: Giải pháp ép hạt óc chó chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt óc chó, tỷ lệ dầu 60-70%, áp dụng quy trình ép lạnh để giữ dưỡng chất
 keywords: giải pháp hạt óc chó, ép dầu óc chó, thiết bị chế biến óc chó, dây chuyền sản xuất dầu óc chó, quy trình ép lạnh óc chó, máy ép óc chó, dầu ăn cao cấp
 ---
 

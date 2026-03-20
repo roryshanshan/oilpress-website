@@ -1,6 +1,6 @@
 ---
-title: Giải pháp hạt nho (Dầu hạt nho) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: Giải pháp ép hạt nho chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt nho, tỷ lệ dầu 12-18%, giàu axit linoleic, sử dụng quy trình ép nóng để đảm bảo tỷ lệ chiết xuất, phù hợp cho dầu ăn cao cấp và các sản phẩm chống oxy hóa。
+title: Giải pháp hạt nho (Dầu hạt nho) | Shengshi Hecheng
+description: Giải pháp ép hạt nho chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt nho, tỷ lệ dầu 12-18%, giàu axit linoleic
 keywords: giải pháp hạt nho, ép dầu hạt nho, thiết bị chế biến hạt nho, dây chuyền sản xuất dầu hạt nho, quy trình ép nóng hạt nho, máy ép hạt nho
 ---
 

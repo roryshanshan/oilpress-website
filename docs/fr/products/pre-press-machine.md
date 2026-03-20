@@ -1,6 +1,6 @@
 ---
-title: Machine de pré-pressage - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: La machine de pré-pressage adopte le principe de broyage spiral, conçue pour un fonctionnement efficace et stable, faible bruit, faible coût d'entretien pour les pièces d'usure, adaptée au broyage de colza, de soja, de graines de lin et d'autres matériaux.
+title: Machine de pré-pressage - Shengshi Hecheng
+description: La machine de pré-pressage adopte le principe de broyage spiral, conçue pour un fonctionnement efficace et stable, faible bruit
 keywords: Machine de pré-pressage, Machine de broyage spiral, Machine de pré-pressage de graines oléagineuses, Équipement de pré-pressage, Machine de broyage de graines oléagineuses, Équipement de pré-pressage, Machine à vis, Équipement de prétraitement de graines oléagineuses, Machine de broyage, Machine de pré-pressage, Prétraitement de pressage de graines oléagineuses, Machinerie de pré-pressage
 ---
 

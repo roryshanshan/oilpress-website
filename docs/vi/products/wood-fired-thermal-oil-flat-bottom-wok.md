@@ -1,6 +1,6 @@
 ---
-title: Nồi rang dầu dáy bằng đốt gỗ - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Nồi rang dầu dáy bằng đốt gỗ có lò tích hợp, dạng dầu dẫn nhiệt giải quyết vấn đề mất cân bằng nhiệt, có thể đốt gỗ và khí tự nhiên, lót bông khoáng giữ nhiệt, bao ngoài bằng thép không gỉ, phù hợp cho xử lý tiền nhân tạo dầu thực phẩm.
+title: Nồi rang dầu dáy bằng đốt gỗ - Shengshi Hecheng
+description: Nồi rang dầu dáy bằng đốt gỗ có lò tích hợp, dạng dầu dẫn nhiệt giải quyết vấn đề mất cân bằng nhiệt, có thể đốt gỗ và khí tự nhiên, lót bông khoáng giữ nhiệt
 keywords: nồi rang dầu dáy bằng đốt gỗ, nồi rang dầu dẫn nhiệt, nồi rang dáy bằng, nồi rang đốt gỗ, nồi rang khí tự nhiên, nồi rang dầu thực phẩm, thiết bị nồi rang, nồi rang dẫn nhiệt, nồi rang giữ nhiệt khoáng bông, nồi rang thép không gỉ, nồi rang xử lý dầu, máy nồi rang, thiết bị nồi rang
 ---
 

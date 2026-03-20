@@ -1,7 +1,7 @@
 ---
-title: "China's New Policy Boosts Grain and Oil Processing Industry Development"
-description: "China's National Development and Reform Commission and Ministry of Agriculture jointly issue guidance on high-quality development of the grain and oil processing industry, targeting improvements in technology and energy efficiency by 2025."
-keywords: China grain oil processing policy 2023, grain oil industry policy, edible oil processing regulations, China oilseed processing development
+title: New National Policy Boosts Grain and Oil Processing Industry
+description: China's National Development and Reform Commission and Ministry of Agriculture jointly issue guidance on high-quality development of the grain and oil proces...
+keywords: oil extraction technology, oil press machine, oil processing knowledge, China grain oil processing policy 2023, grain oil industry policy, edible oil processing regulations, China oilseed processing development
 date: "2023-08-08"
 ---
 

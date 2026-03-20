@@ -1,6 +1,6 @@
 ---
 title: Assurance qualité - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng a obtenu la certification du système de management de la qualité ISO9001, a établi un système de contrôle qualité complet, du contrôle des matières premières à l'inspection des produits finis, assurant la haute qualité de chaque équipement d'extraction d'huile.
+description: Shandong Shengshi Hecheng a obtenu la certification du système de management de la qualité ISO9001, a établi un système de contrôle qualité complet
 keywords: Assurance qualité, Certification ISO9001, Qualité de l'équipement d'extraction d'huile, Système de management de la qualité, Contrôle de la qualité de l'équipement, Assurance de la qualité du produit, Qualité de l'équipement d'extraction, Garantie de l'équipement, Traçabilité de la qualité, Inspection de la qualité de l'équipement, Certification de la qualité du produit, Normes de qualité de l'équipement
 ---
 

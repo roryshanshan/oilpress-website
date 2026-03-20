@@ -1,7 +1,7 @@
 ---
 title: Team Introduction - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng team introduction, leadership team, technical team, sales and service team, corporate culture, Sales Director Gavin Lee, senior engineering team, professional sales team, international market team.
-keywords: Team introduction, Leadership team, Technical team, Sales and service team, Corporate culture, Sales director, Engineering team, Mechanical design engineer, Electrical automation engineer, Process engineer, Quality engineer, Shandong Shengshi Hecheng team
+description: Shandong Shengshi Hecheng team introduction, leadership team, technical team, sales and service team, corporate culture, Sales Director Gavin Lee
+keywords: Team Introduction, Shandong Shengshi Hecheng, hydraulic oil press manufacturer, oil press equipment factory, oilseed processing equipment, oil press R&D, Leadership team, Technical team
 ---
 
 # Team Introduction

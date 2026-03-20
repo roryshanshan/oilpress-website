@@ -1,6 +1,6 @@
 ---
-title: Giải pháp cám gạo (Dầu cám gạo) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: Giải pháp ép cám gạo chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu cám gạo, tỷ lệ dầu 15-25%, áp dụng quy trình ép lạnh để giữ dưỡng chất, phù hợp cho mọi quy mô sản xuất。
+title: Giải pháp cám gạo (Dầu cám gạo) | Shengshi Hecheng
+description: Giải pháp ép cám gạo chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu cám gạo, tỷ lệ dầu 15-25%, áp dụng quy trình ép lạnh để giữ dưỡng chất
 keywords: giải pháp cám gạo, ép dầu cám gạo, thiết bị chế biến cám gạo, dây chuyền sản xuất dầu cám gạo, quy trình ép lạnh cám gạo, máy ép cám gạo, thiết bị sản xuất dầu cám gạo
 ---
 

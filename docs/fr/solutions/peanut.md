@@ -1,6 +1,6 @@
 ---
-title: Solutions d'arachide (huile d'arachide) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage d'arachide, fournissant des équipements et services techniques de transformation d'huile d'arachide, teneur en huile 45-55%, utilisant le processus de pressage à chaud pour mettre en valeur l'arôme, répondant aux besoins différents des petits ateliers aux grandes usines.
+title: Solutions d'arachide (huile d'arachide) - Shengshi Hecheng
+description: Solutions professionnelles de pressage d'arachide, fournissant des équipements et services techniques de transformation d'huile d'arachide
 keywords: Solutions d'arachide, pressage d'huile d'arachide, équipement de transformation d'arachide, ligne de production d'huile d'arachide, processus de pressage à chaud d'arachide, presse à huile d'arachide, extraction d'huile d'arachide, transformation de graines oléagineuses d'arachide, équipement de pressage d'huile d'arachide, équipement de production d'huile d'arachide, usine de transformation d'huile d'arachide
 ---
 

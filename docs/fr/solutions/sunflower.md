@@ -1,6 +1,6 @@
 ---
-title: Solution de graines de tournesol (huile de tournesol) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage de graines de tournesol, fournissant des équipements et services techniques de transformation d'huile de tournesol, teneur en huile 40-50%, utilisant le processus de pressage à chaud pour assurer le rendement en huile, des petits ateliers aux grandes usines avec un équipement et des services complets.
+title: Solution de graines de tournesol (huile de tournesol)
+description: Solutions professionnelles de pressage de graines de tournesol, fournissant des équipements et services techniques de transformation d'huile de tournesol
 keywords: Solutions de graines de tournesol, pressage d'huile de tournesol, équipement de transformation de graines de tournesol, ligne de production d'huile de tournesol, processus de pressage à chaud d'huile de tournesol, presse à huile de graines de tournesol, extraction d'huile de tournesol, transformation de graines oléagineuses de graines de tournesol, équipement de pressage d'huile de tournesol, équipement de production d'huile de tournesol, usine de transformation d'huile de tournesol
 ---
 

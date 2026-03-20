@@ -1,3 +1,8 @@
+---
+title: Actualités de l'entreprise
+description: L'entreprise a participé à l'exposition internationale chinoise des technologies de transformation des graines oléagineuses 2023
+keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
+---
 # Actualités de l'entreprise
 
 ## Dernières mises à jour

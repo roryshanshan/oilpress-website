@@ -1,6 +1,6 @@
 ---
-title: Solution de sarrasin (huile de sarrasin) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage d'huile de sarrasin, fournissant des équipements et services techniques de transformation d'huile de sarrasin, teneur en huile 25-35%, utilisant un processus de pressage approprié pour mettre en valeur la valeur nutritionnelle, répondant aux besoins différents des petits ateliers aux grandes usines.
+title: Solution de sarrasin (huile de sarrasin) - Shengshi Hecheng
+description: Solutions professionnelles de pressage d'huile de sarrasin, fournissant des équipements et services techniques de transformation d'huile de sarrasin
 keywords: Solutions de sarrasin, pressage d'huile de sarrasin, équipement de transformation de sarrasin, ligne de production d'huile de sarrasin, presse à huile de sarrasin, extraction d'huile de sarrasin, transformation de graines de sarrasin, équipement de pressage d'huile de sarrasin, équipement de production d'huile de sarrasin, usine de transformation d'huile de sarrasin, valeur nutritionnelle de l'huile de sarrasin
 ---
 

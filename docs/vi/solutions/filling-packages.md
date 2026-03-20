@@ -1,6 +1,6 @@
 ---
-title: Giải pháp bao bì lắp đặt toàn diện - Tổng quan | Công ty TNHH Máy móc Shandong Shengshi Hezheng
-description: Giải pháp bao bì lắp đặt của chúng tôi bao phủ các giải pháp dây chuyền hoàn chỉnh cho dầu thực vật lỏng, dầu đặc biệt và dầu compack nhỏ, bao gồm cấu hình thiết bị, quy trình sản xuất, công suất và dịch vụ sau bán.
+title: Giải pháp bao bì lắp đặt toàn diện - Tổng quan
+description: Giải pháp bao bì lắp đặt của chúng tôi bao phủ các giải pháp dây chuyền hoàn chỉnh cho dầu thực vật lỏng, dầu đặc biệt và dầu compack nhỏ
 keywords: bao bì lắp đặt, giải pháp bao bì, bao bì dầu ăn, dây chuyền sản xuất, thiết bị bao bì, giải pháp
 ---
 

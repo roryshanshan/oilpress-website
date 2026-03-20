@@ -1,6 +1,6 @@
 ---
-title: Apricot Kernel (Apricot Oil) Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional apricot kernel oil pressing solutions, providing apricot oil processing equipment and technical services, oil content 40-50%, using appropriate pressing process to highlight nutritional and moisturizing properties, meeting different needs from small workshops to large factories.
+title: Apricot Kernel (Apricot Oil) Solutions - Shengshi Hecheng
+description: Professional apricot kernel oil pressing solutions, providing apricot oil processing equipment and technical services, oil content 40-50%
 keywords: Apricot kernel solutions, Apricot oil pressing, Apricot kernel processing equipment, Apricot oil production line, Apricot oil press, Apricot oil extraction, Apricot oilseed processing, Apricot oil pressing equipment, Apricot oil production equipment, Apricot oil processing plant
 ---
 

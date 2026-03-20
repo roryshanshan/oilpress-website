@@ -1,8 +1,8 @@
 ---
 layout: home
-title: "液压榨油机专业制造商 | 300-500系列 | 盛世赫程"
-description: "山东盛世赫程机械有限公司，2008年成立，专业研发制造液压榨油机。300至500系列产品，适用于花生、芝麻、核桃、油菜籽、大豆、亚麻籽等30余种油料，提供一站式油料加工整线解决方案。"
-keywords: 液压榨油机厂家, 液压榨油机, 榨油机械, 花生榨油机, 芝麻榨油机, 核桃榨油机, 菜籽榨油机, 冷榨榨油机, 油坊设备, 盛世赫程榨油机
+title: "液压榨油机厂家 | 300-500系列液压榨油机"
+description: "盛世赫程专注液压榨油机与油料加工整线，提供300-500系列设备、定制方案、报价支持与售后服务，适用于花生、芝麻、大豆、核桃等油料。"
+keywords: 液压榨油机厂家, 300-500系列液压榨油机, 液压榨油机, 榨油机报价, 榨油机价格, 油料加工整线, 花生榨油机, 芝麻榨油机, 大豆榨油机, 盛世赫程
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
@@ -28,10 +28,11 @@ keywords: 液压榨油机厂家, 液压榨油机, 榨油机械, 花生榨油机,
 <div class="hero-section">
   <div class="hero-content">
     <h2>专注液压榨油设备15年</h2>
-    <p>国家重点油料压榨设备生产企业，为您提供一站式油料加工解决方案</p>
+    <p>提供300-500系列液压榨油机、油料加工整线方案、设备报价与全球售后支持。</p>
     <div class="hero-buttons">
       <a href="/zh/products/" class="primary-button">查看产品系列</a>
       <a href="/zh/contact/" class="contact-link-button">联系我们</a>
+      <a href="https://hydraulic-oil-press.com/" class="secondary-button" target="_blank" rel="noopener">官方网站</a>
     </div>
   </div>
   <div class="hero-image">

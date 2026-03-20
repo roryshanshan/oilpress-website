@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Fabricant professionnel de presses à huile hydrauliques - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng Machinery Co., Ltd. se spécialise dans la R&D et la fabrication de presses à huile hydrauliques, fournissant des équipements d'extraction d'huile végétale pour diverses graines oléagineuses telles que l'huile de soja, d'arachide, de sésame, et des solutions complètes de transformation d'huile.
+title: Fabricant professionnel de presses à huile hydrauliques - Shen
+description: Shandong Shengshi Hecheng Machinery Co., Ltd.
 keywords: Presse à huile hydraulique pour huile de soja, Presse à huile hydraulique pour huile d'arachide, Presse à huile hydraulique pour huile de sésame, Presse à huile hydraulique pour huile de colza, Presse à huile hydraulique pour huile de tournesol, Presse à huile hydraulique pour huile de coton, Presse à huile hydraulique pour huile de lin, Presse à huile hydraulique pour huile de thé, Presse à huile hydraulique pour huile de perilla, Presse à huile hydraulique pour huile de noix de coco, Presse à huile hydraulique pour huile de palme, Presse à huile hydraulique pour huile de noix, Presse à huile hydraulique pour huile d'amande, Presse à huile hydraulique pour huile de noisette, Presse à huile hydraulique pour huile de cajou, Presse à huile hydraulique pour huile de pistache, Presse à huile hydraulique pour huile d'avocat, Presse à huile hydraulique pour huile de pépins de raisin, Presse à huile hydraulique pour huile de citrouille, Presse à huile hydraulique pour huile de pépins de pastèque, Presse à huile hydraulique pour huile de noyau de pêche, Presse à huile hydraulique pour huile de noyau d'abricot, Presse à huile hydraulique 300 tonnes, Presse à huile hydraulique 325 tonnes, Presse à huile hydraulique 380 tonnes, Presse à huile hydraulique 410 tonnes, Presse à huile hydraulique 480 tonnes, Presse à huile hydraulique 500 tonnes, Presse à huile hydraulique 530 tonnes, Presse à huile pour oléagineux, Presse à huile pour noix, Presse à huile pour pépins de fruits, Presse à huile hydraulique 300T, Presse à huile hydraulique 325T, Presse à huile hydraulique 380T, Presse à huile hydraulique 410T, Presse à huile hydraulique 480T, Presse à huile hydraulique 500T, Presse à huile hydraulique 530T, Presse à huile pour cultures oléagineuses, Presse à huile pour oléagineux, Presse à huile pour pépins de fruits, Presse à huile hydraulique pour soja, Presse à huile hydraulique pour arachide, Presse à huile hydraulique pour sésame, Presse à huile hydraulique pour colza, Presse à huile hydraulique pour tournesol, Presse à huile hydraulique pour coton, Presse à huile hydraulique pour lin, Presse à huile hydraulique pour thé, Presse à huile hydraulique pour perilla, Presse à huile hydraulique pour noix de coco, Presse à huile hydraulique pour palme, Presse à huile hydraulique pour noix, Presse à huile hydraulique pour amande, Presse à huile hydraulique pour noisette, Presse à huile hydraulique pour cajou, Presse à huile hydraulique pour pistache, Presse à huile hydraulique pour avocat, Presse à huile hydraulique pour pépins de raisin, Presse à huile hydraulique pour pépins de citrouille, Presse à huile hydraulique pour pépins de pastèque, Presse à huile hydraulique pour noyau de pêche, Presse à huile hydraulique pour noyau d'abricot
 ---
 
@@ -212,10 +212,29 @@ keywords: Presse à huile hydraulique pour huile de soja, Presse à huile hydrau
   </div>
 </div>
 
+## Contactez-nous
+
 <div class="contact-section">
-  <h2>Contactez-nous pour une solution personnalisée</h2>
-  <p>Une équipe d'ingénieurs professionnels vous fournira une solution personnalisée de transformation d'huile</p>
-  <a href="/fr/contact/" class="contact-button">Nous contacter</a>
+  <div class="contact-info">
+    <h3>Gavin Lee - Directeur des ventes professionnel à votre service</h3>
+    <p><strong>📱 WeChat :</strong> +8619906365856</p>
+    <p><strong>📱 WhatsApp :</strong> +8619906365856</p>
+    <p><strong>📧 Email :</strong> roryshanshan@gmail.com</p>
+    <p><strong>📧 Commercial :</strong> gavin@oil-pressing-machine.com</p>
+    <p><strong>🏭 Adresse :</strong> No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China</p>
+    <a href="/fr/contact/" class="contact-button">Nous contacter</a>
+  </div>
+  <div class="contact-form">
+    <form action="https://formspree.io/f/xblaoewy" method="POST">
+      <input type="text" id="name" name="name" placeholder="Votre nom" required />
+      <input type="email" id="email" name="email" placeholder="Votre email" required />
+      <input type="tel" id="phone" name="phone" placeholder="Téléphone" required />
+      <input type="hidden" name="_subject" value="Formulaire de contact - Accueil" />
+      <input type="hidden" name="_next" value="/fr/contact/" />
+      <textarea id="message" name="message" rows="5" placeholder="Votre message" required></textarea>
+      <button type="submit">Envoyer la demande</button>
+    </form>
+  </div>
 </div>
 
 <style>
@@ -489,39 +508,48 @@ keywords: Presse à huile hydraulique pour huile de soja, Presse à huile hydrau
 }
 
 .contact-section {
-  text-align: center;
-  margin: 4rem 0;
-  padding: 3rem;
-  background: linear-gradient(135deg, var(--vp-c-brand) 0%, var(--vp-c-brand-dark) 100%);
-  color: white;
-  border-radius: 1rem;
+  display: flex;
+  gap: 2rem;
+  margin: 2rem 0;
+  flex-wrap: wrap;
 }
-
-.contact-section h2 {
-  font-size: 2rem;
-  margin-bottom: 1rem;
+.contact-info, .contact-form {
+  flex: 1;
+  min-width: 300px;
 }
-
-.contact-section p {
-  font-size: 1.1rem;
-  margin-bottom: 2rem;
-  opacity: 0.9;
-}
-
 .contact-button {
-  display: inline-block;
-  padding: 1rem 2rem;
-  background-color: white;
-  color: var(--vp-c-brand);
-  text-decoration: none;
-  border-radius: 0.5rem;
-  font-weight: 500;
-  font-size: 1.1rem;
-  transition: transform 0.3s;
+  background-color: var(--vp-c-brand);
+  color: white;
+  margin-top: 1rem;
 }
-
-.contact-button:hover {
-  transform: translateY(-2px);
+.contact-form form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.contact-form input, .contact-form textarea {
+  padding: 0.8rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-family: inherit;
+  color: #333;
+}
+.contact-form textarea {
+  min-height: 120px;
+  resize: vertical;
+}
+.contact-form button {
+  padding: 0.8rem;
+  background-color: var(--vp-c-brand);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+.contact-form button:hover {
+  background-color: var(--vp-c-brand-dark);
 }
 
 @media (max-width: 768px) {

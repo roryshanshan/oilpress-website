@@ -1,7 +1,7 @@
 ---
-title: Automatic Drum Roaster - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Automatic Drum Roaster uses electromagnetic heating method, suitable for roasting flaxseed, sesame, peanuts, soybeans and other materials, adjustable power levels, fast heating, safe and reliable, energy-saving and environmentally friendly.
-keywords: Automatic drum roaster, Automatic roaster, Drum roaster, Electromagnetic heating roaster, Oilseed roasting equipment, Flaxseed roaster, Sesame roaster, Peanut roaster, Soybean roaster, Roaster equipment, Roasting machine, Oilseed preprocessing equipment, Roaster machine, Electromagnetic roaster, Automatic roasting machine
+title: Automatic Drum Roaster - Shengshi Hecheng
+description: Automatic Drum Roaster uses electromagnetic heating method, suitable for roasting flaxseed, sesame, peanuts, soybeans and other materials
+keywords: Automatic Drum Roaster, oil press machine, oil press price, oil press quotation, oil press supplier, oil processing equipment, supporting equipment, after-sales service, oilseed processing equipment, Automatic roaster
 ---
 
 # Automatic Drum Roaster

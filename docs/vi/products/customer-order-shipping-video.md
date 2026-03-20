@@ -1,6 +1,6 @@
 ---
-title: Video Đơn hàng Khách hàng & Gửi hàng - Công ty Cơ khí Shengshi Hecheng Sơn Đông
-description: Video gửi hàng khách hàng Shengshi Hecheng, bao gồm quá trình đóng gói thiết bị, vận chuyển lên xe tải, xác nhận khách hàng, giúp bạn hiểu rõ dịch vụ gửi hàng chuyên nghiệp của chúng tôi.
+title: <center>Video Đơn hàng Khách hàng & Gửi hàng</center>
+description: Video gửi hàng khách hàng Shengshi Hecheng, bao gồm quá trình đóng gói thiết bị, vận chuyển lên xe tải, xác nhận khách hàng
 keywords: video đơn hàng khách hàng, gửi hàng thiết bị, gửi máy ép dầu thủy lực, hiện trường gửi hàng, xác nhận khách hàng, video gửi hàng Shengshi Hecheng, vận chuyển thiết bị, dịch vụ gửi hàng
 ---
 

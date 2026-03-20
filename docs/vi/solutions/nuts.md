@@ -1,5 +1,5 @@
 ---
-title: Giải pháp dầu từ hạt (Nuts) - Công ty TNHH Shengshi Hecheng Sơn Đông
+title: Giải pháp dầu từ hạt (Nuts) | Shengshi Hecheng
 description: 'Giải pháp xử lý và ép dầu từ các loại hạt giàu dầu như dừa, óc chó, hạnh nhân, hồ trăn, hạt điều, hồ đào..., phù hợp cho dầu ăn cao cấp và nguyên liệu mỹ phẩm.'
 keywords: giải pháp dầu hạt, chế biến dầu dừa, chế biến dầu óc chó, chế biến dầu hạnh nhân, chế biến dầu phỉ, chế biến dầu điều, dầu hồ trăn, thiết bị ép hạt, dầu ăn cao cấp, nguyên liệu mỹ phẩm, Shengshi Hecheng
 ---

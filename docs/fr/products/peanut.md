@@ -1,6 +1,6 @@
 ---
-title: Solution arachide (huile d'arachide) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng fournit des solutions professionnelles d'extraction d'arachide, équipements et services complets pour ateliers petits et grands, teneur en huile d'arachide 45-55%, processus d'extraction à chaud et à froid.
+title: Solution arachide (huile d'arachide) - Shengshi Hecheng
+description: Shandong Shengshi Hecheng fournit des solutions professionnelles d'extraction d'arachide, équipements et services complets pour ateliers petits et grands
 keywords: solution arachide, extraction d'huile d'arachide, équipement de traitement d'arachide, ligne de production d'huile d'arachide, processus d'extraction à chaud d'arachide, processus d'extraction à froid d'arachide, presse à arachide, traitement de tourteau d'arachide, extraction d'huile d'arachide, traitement d'huile d'arachide, équipement d'extraction d'arachide, équipement de raffinage d'huile d'arachide, usine de traitement d'huile d'arachide, technologie d'extraction d'arachide, équipement de production d'huile d'arachide
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Giải pháp đậu nành (Dầu đậu nành) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Công ty Shengshi Hecheng cung cấp giải pháp ép đậu nành chuyên nghiệp, từ cơ sở nhỏ đến nhà máy công nghiệp, tỷ lệ dầu đậu nành 18-22%, hỗ trợ cả quy trình ép lạnh và ép nóng.'
+title: Giải pháp đậu nành (Dầu đậu nành) | Shengshi Hecheng
+description: Công ty Shengshi Hecheng cung cấp giải pháp ép đậu nành chuyên nghiệp, từ cơ sở nhỏ đến nhà máy công nghiệp, tỷ lệ dầu đậu nành 18-22%
 keywords: giải pháp đậu tương, ép dầu đậu tương, thiết bị chế biến đậu tương, dây chuyền sản xuất dầu đậu tương, quy trình ép lạnh đậu tương, quy trình ép nóng đậu tương, máy ép đậu tương, chế biến bã khô đậu tương, thiết bị chiết xuất dầu đậu tương
 ---
 

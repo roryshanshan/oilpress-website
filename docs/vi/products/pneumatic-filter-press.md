@@ -1,6 +1,6 @@
 ---
-title: Máy lọc dầu nhiều tầng khí nén - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Máy lọc dầu nhiều tầng sử dụng vật liệu inox 304, thiết kế tích hợp, kèm motor, bơm bánh răng và máy nén khí; mở nhanh, an toàn kép, phù hợp cho tinh lọc dầu ăn.
+title: Máy lọc dầu nhiều tầng khí nén - Shengshi Hecheng
+description: Máy lọc dầu nhiều tầng sử dụng vật liệu inox 304, thiết kế tích hợp, kèm motor, bơm bánh răng và máy nén khí; mở nhanh, an toàn kép
 keywords: máy lọc dầu nhiều tầng khí nén, máy lọc dầu, thiết bị lọc dầu, máy lọc khí nén, bộ lọc dầu, thiết bị tinh lọc dầu
 ---
 

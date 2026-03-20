@@ -1,3 +1,8 @@
+---
+title: Nguyên lý hoạt động của xi lanh thủy lực
+description: Xi lanh thủy lực là phần tử thực hiện trong hệ thống thủy lực
+keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
+---
 # Nguyên lý hoạt động của xi lanh thủy lực
 
 Xi lanh thủy lực là phần tử thực hiện trong hệ thống thủy lực, được sử dụng để chuyển đổi năng lượng thủy lực (năng lượng áp suất của chất lỏng) thành năng lượng cơ học, thực hiện chuyển động tuyến tính qua lại hoặc chuyển động quay.

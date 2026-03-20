@@ -1,6 +1,6 @@
 ---
-title: Innovation technologique - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Innovation technologique de Shandong Shengshi Hecheng, avantages techniques principaux, système de contrôle intelligent, technologie de contrôle précis de la pression, conception écoénergétique et environnementale, investissement en R&D, technologie brevetée, contrôleur programmable PLC, entraînement par moteur servo.
+title: Innovation technologique - Shengshi Hecheng
+description: Innovation technologique de Shandong Shengshi Hecheng, avantages techniques principaux, système de contrôle intelligent
 keywords: Innovation technologique, Avantages techniques principaux, Système de contrôle intelligent, Technologie de contrôle précis de la pression, Conception écoénergétique et environnementale, Investissement en R&D, Technologie brevetée, Contrôleur programmable PLC, Entraînement par moteur servo, Technologie de régulation de fréquence variable, Procédé de pressage à froid à basse température, Innovation Shandong Shengshi Hecheng
 ---
 

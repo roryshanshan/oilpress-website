@@ -1,3 +1,8 @@
+---
+title: Service and Support
+description: Comprehensive pre-sales, installation, training, and after-sales technical support for hydraulic oil press projects.
+keywords: hydraulic oil press, oil press machine, oil processing equipment
+---
 # Service and Support
 
 ## Comprehensive Service System

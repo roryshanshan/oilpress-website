@@ -1,6 +1,6 @@
 ---
-title: Giải pháp hạt kiều mạch (Dầu kiều mạch) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: Giải pháp ép hạt kiều mạch chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu kiều mạch, tỷ lệ dầu 25-35%, giàu axit linoleic, phù hợp cho dầu ăn lành mạnh và dầu ngũ cốc cao cấp.
+title: Giải pháp hạt kiều mạch (Dầu kiều mạch) | Shengshi Hecheng
+description: Giải pháp ép hạt kiều mạch chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu kiều mạch, tỷ lệ dầu 25-35%, giàu axit linoleic
 keywords: giải pháp hạt kiều mạch, ép dầu kiều mạch, thiết bị chế biến kiều mạch, dây chuyền sản xuất dầu kiều mạch, quy trình ép kiều mạch, máy ép kiều mạch, thiết bị chế biến hạt kiều mạch, thiết bị sản xuất dầu kiều mạch
 ---
 

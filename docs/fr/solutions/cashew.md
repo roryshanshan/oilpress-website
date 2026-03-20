@@ -1,6 +1,6 @@
 ---
-title: Solution de cajou (huile de cajou) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage de cajou, fournissant des équipements et services techniques de transformation d'huile de cajou, teneur en huile 40-50%, riche en acide oléique, utilisant le processus de pressage à froid pour préserver la nutrition, répondant aux besoins d'huiles alimentaires haut de gamme et de lubrifiants industriels.
+title: Solution de cajou (huile de cajou) - Shengshi Hecheng
+description: Solutions professionnelles de pressage de cajou, fournissant des équipements et services techniques de transformation d'huile de cajou, teneur en huile 40-50%
 keywords: Solutions de cajou, pressage d'huile de cajou, équipement de transformation de cajou, ligne de production d'huile de cajou, processus de pressage à froid de cajou, presse à huile de cajou, extraction d'huile de cajou, transformation de graines de cajou, équipement de pressage d'huile de cajou, équipement de production d'huile de cajou
 ---
 

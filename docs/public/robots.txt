@@ -1,23 +1,12 @@
 User-agent: *
 Allow: /
 
-# Block access to admin areas (if any)
-Disallow: /admin/
-Disallow: /.vitepress/
-Disallow: /node_modules/
-
-# Allow all major search engines
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: Slurp
-Allow: /
-
-User-agent: DuckDuckBot
-Allow: /
-
 # Sitemap
 Sitemap: https://hydraulicoilpressing.opchn.com/sitemap.xml
+
+# 禁止索引的路径
+Disallow: /404
+Disallow: /search
+
+# 爬虫延迟（可选）
+Crawl-delay: 1

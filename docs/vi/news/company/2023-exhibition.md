@@ -1,3 +1,8 @@
+---
+title: Công ty Shengshi Hecheng tham gia Triển lãm Hạt lúa và Dầu ăn
+description: "Thời gian công bố: 15 tháng 6 năm 2023"
+keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
+---
 # Công ty Shengshi Hecheng tham gia Triển lãm Hạt lúa và Dầu ăn Quốc tế Trung Quốc 2023 với Thành công Hoàn toàn
 
 *Thời gian công bố: 15 tháng 6 năm 2023*

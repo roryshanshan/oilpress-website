@@ -1,3 +1,8 @@
+---
+title: Industry News
+description: With global population growth and dietary structure changes, the demand for edible oil continues to grow.
+keywords: hydraulic oil press, oil press machine, oil processing equipment
+---
 # Industry News
 
 ## Latest Information

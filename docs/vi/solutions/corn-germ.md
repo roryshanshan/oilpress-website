@@ -1,6 +1,6 @@
 ---
-title: Giải pháp mầm ngô (Dầu mầm ngô) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: Giải pháp ép mầm ngô chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu mầm ngô, tỷ lệ dầu 35-45%, sử dụng phương pháp ép nóng để đảm bảo tỷ lệ chiết xuất, phù hợp cho các quy mô sản xuất khác nhau。
+title: Giải pháp mầm ngô (Dầu mầm ngô) | Shengshi Hecheng
+description: Giải pháp ép mầm ngô chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu mầm ngô, tỷ lệ dầu 35-45%
 keywords: giải pháp mầm ngô, ép dầu mầm ngô, thiết bị chế biến mầm ngô, dây chuyền sản xuất dầu mầm ngô, quy trình ép nóng mầm ngô, máy ép mầm ngô, thiết bị sản xuất dầu mầm ngô
 ---
 

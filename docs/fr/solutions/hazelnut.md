@@ -1,6 +1,6 @@
 ---
-title: Solutions de noisette (huile de noisette) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage d'huile de noisette, fournissant des équipements et services techniques de transformation d'huile de noisette, teneur en huile 55-65%, utilisant le processus de pressage à froid pour mettre en valeur l'arôme, répondant aux besoins différents des petits ateliers aux grandes usines.
+title: Solutions de noisette (huile de noisette) - Shengshi Hecheng
+description: Solutions professionnelles de pressage d'huile de noisette, fournissant des équipements et services techniques de transformation d'huile de noisette
 keywords: Solutions de noisette, pressage d'huile de noisette, équipement de transformation de noisette, ligne de production d'huile de noisette, processus de pressage à froid de noisette, presse à huile de noisette, extraction d'huile de noisette, transformation de graines oléagineuses de noisette, équipement de pressage d'huile de noisette, équipement de production d'huile de noisette, usine de transformation d'huile de noisette
 ---
 

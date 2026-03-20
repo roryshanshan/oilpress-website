@@ -1,6 +1,6 @@
 ---
 title: Máy ép bánh - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Máy ép bánh là thiết bị phụ trợ cần thiết cho máy ép dầu thủy lực ngang; kích thước khuôn ép có thể tùy chỉnh, đường kính bánh thông dụng 240-480mm, phù hợp cho xử lý hậu kỳ nguyên liệu dầu.
+description: Máy ép bánh là thiết bị phụ trợ cần thiết cho máy ép dầu thủy lực ngang; kích thước khuôn ép có thể tùy chỉnh, đường kính bánh thông dụng 240-480mm
 keywords: máy đóng bánh bã, máy ép bánh bã, thiết bị phụ trợ cho máy ép thủy lực, máy nén bánh, máy đóng gói bánh bã, thiết bị xử lý bã, thiết bị sau ép dầu, thiết bị đóng bánh bã
 ---
 

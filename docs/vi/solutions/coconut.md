@@ -1,6 +1,6 @@
 ---
 title: Giải pháp dừa (Dầu dừa) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: Giải pháp ép dừa chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu dừa, tỷ lệ dầu 60-70%, giàu axit lauric, áp dụng quy trình ép lạnh để giữ nguyên dưỡng chất, phù hợp cho dầu ăn và sản phẩm làm đẹp。
+description: Giải pháp ép dừa chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu dừa, tỷ lệ dầu 60-70%, giàu axit lauric
 keywords: giải pháp dừa, ép dầu dừa, thiết bị chế biến dừa, dây chuyền sản xuất dầu dừa, quy trình ép lạnh dừa, máy ép dừa, thiết bị sản xuất dầu dừa
 ---
 

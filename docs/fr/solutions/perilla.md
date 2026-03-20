@@ -1,6 +1,6 @@
 ---
-title: Solution de graines de périlla (huile de périlla) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage de graines de périlla, fournissant des équipements et services techniques de transformation d'huile de périlla, teneur en huile 40-50%, riche en acide α-linolénique, utilisant le processus de pressage à froid pour préserver la nutrition, répondant aux besoins d'huiles de santé Ω-3 et de médecine traditionnelle.
+title: Solution de graines de périlla (huile de périlla)
+description: Solutions professionnelles de pressage de graines de périlla, fournissant des équipements et services techniques de transformation d'huile de périlla
 keywords: Solutions de graines de périlla, pressage d'huile de périlla, équipement de transformation de graines de périlla, ligne de production d'huile de périlla, processus de pressage à froid de graines de périlla, presse à huile de graines de périlla, extraction d'huile de périlla, transformation de graines oléagineuses de périlla, équipement de pressage d'huile de périlla, huile de périlla, huile de santé Ω-3
 ---
 

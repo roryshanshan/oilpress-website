@@ -1,7 +1,7 @@
 ---
-title: Feeding/Crushing/Frying Integrated Machine - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Feeding/Crushing/Frying Integrated Machine integrates feeding, crushing, and frying processes, saving space and conversion costs between processes, providing customized services.
-keywords: Feeding crushing frying integrated machine, Oilseed processing integrated machine, Crushing frying equipment, Oilseed preprocessing integrated machine, Frying crushing machine, Oilseed processing equipment, Integrated processing equipment, Oilseed frying machine, Crushing frying integrated machine, Oilseed feeding equipment, Oilseed processing production line
+title: Feeding/Crushing/Frying Integrated Machine - Shengshi Hecheng
+description: Feeding/Crushing/Frying Integrated Machine integrates feeding, crushing, and frying processes, saving space and conversion costs between processes
+keywords: Feeding/Crushing/Frying Integrated Machine, oil press machine, oil press price, oil press quotation, oil press supplier, oil processing equipment, supporting equipment, after-sales service, oilseed processing equipment, Feeding crushing frying integrated machine
 ---
 
 # Feeding/Crushing/Frying Integrated Machine

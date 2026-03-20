@@ -1,7 +1,7 @@
 ---
 title: Cake Pulverizer - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Cake pulverizer is suitable for crushing various bean cakes, peanut cakes, cottonseed cakes and other materials, simple structure, easy maintenance, 11Kw power, processing capacity 1-4Kg/h, hammer type crushing blade.
-keywords: Cake pulverizer, Cake residue pulverizer, Bean cake pulverizer, Peanut cake pulverizer, Cottonseed cake pulverizer, Pulverizer equipment, Cake residue processing equipment, Feed pulverizer, Cake block pulverizer, Oil cake pulverizer, Crushing equipment, Cake residue crushing equipment
+description: Cake pulverizer is suitable for crushing various bean cakes, peanut cakes, cottonseed cakes and other materials, simple structure, easy maintenance, 11Kw power
+keywords: Cake Pulverizer, oil press machine, oil press price, oil press quotation, oil press supplier, oil processing equipment, supporting equipment, after-sales service, oilseed processing equipment, Cake residue pulverizer
 ---
 
 # Cake Pulverizer

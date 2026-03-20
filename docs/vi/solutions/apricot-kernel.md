@@ -1,6 +1,6 @@
 ---
-title: Giải pháp nhân mơ (Dầu hạt mơ) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Giải pháp ép nhân mơ chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt mơ, tỷ lệ dầu 40-50%, giàu axit oleic, áp dụng quy trình ép lạnh để giữ dưỡng chất, phù hợp cho dầu ăn cao cấp và mỹ phẩm.'
+title: Giải pháp nhân mơ (Dầu hạt mơ) | Shengshi Hecheng
+description: Giải pháp ép nhân mơ chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt mơ, tỷ lệ dầu 40-50%, giàu axit oleic
 keywords: giải pháp nhân mơ, ép dầu hạt mơ, thiết bị chế biến hạt mơ, dây chuyền sản xuất dầu hạt mơ, quy trình ép lạnh hạt mơ, máy ép hạt mơ
 ---
 

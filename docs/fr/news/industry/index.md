@@ -1,3 +1,8 @@
+---
+title: Actualités de l'industrie
+description: Avec la croissance démographique mondiale et les changements dans les structures alimentaires, la demande en huiles comestibles continue de croître.
+keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
+---
 # Actualités de l'industrie
 
 ## Dernières informations

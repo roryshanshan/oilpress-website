@@ -447,11 +447,25 @@ export default {
   ignoreDeadLinks: true,
   vite: {
     build: {
+      chunkSizeWarningLimit: 1000,
       rollupOptions: {
         output: {
-          manualChunks: undefined
+          manualChunks(id) {
+            if (id.includes('node_modules')) {
+              if (id.includes('vitepress')) return 'vitepress'
+              if (id.includes('@vue')) return 'vue'
+              if (id.includes('algolia') || id.includes('minisearch')) return 'search'
+              return 'vendor'
+            }
+          }
         }
       }
+    },
+    optimizeDeps: {
+      include: ['mark.js']
+    },
+    ssr: {
+      noExternal: ['mark.js']
     }
   },
   head: [
@@ -1108,7 +1122,7 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: '专业制造 · 值得信赖',
+          message: '专业制造 · 值得信赖 · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener">液压榨油机官网</a>',
           copyright: '© 2025 山东盛世赫程机械有限公司'
         }
       }
@@ -1398,7 +1412,7 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'Professional Manufacturing · Trustworthy Quality',
+          message: 'Professional Manufacturing · Trustworthy Quality · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener">Hydraulic Oil Press</a>',
           copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
         }
       }
@@ -1688,7 +1702,7 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'Профессиональное производство · Надежное качество',
+          message: 'Профессиональное производство · Надежное качество · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener">Hydraulic Oil Press</a>',
           copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
         }
       }
@@ -1979,7 +1993,7 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'Fabrication professionnelle · Qualité fiable',
+          message: 'Fabrication professionnelle · Qualité fiable · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener">Hydraulic Oil Press</a>',
           copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
         }
       }
@@ -2150,6 +2164,10 @@ s0.parentNode.insertBefore(s1,s0);
               ]
             }
           ]
+        },
+        footer: {
+          message: 'Sản xuất chuyên nghiệp · Chất lượng đáng tin cậy · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener">Hydraulic Oil Press</a>',
+          copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
         }
       }
     },
@@ -2439,7 +2457,7 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'পেশাদার উৎপাদন · বিশ্বস্ত গুণমান',
+          message: 'পেশাদার উৎপাদন · বিশ্বস্ত গুণমান · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener">Hydraulic Oil Press</a>',
           copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
         }
       }

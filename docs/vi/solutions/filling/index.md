@@ -1,3 +1,8 @@
+---
+title: Dòng máy chiết rót
+description: Máy chiết rót là thiết bị dùng để chiết rót chính xác các sản phẩm lỏng vào dụng cụ chứa.
+keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
+---
 # Dòng máy chiết rót
 
 Máy chiết rót là thiết bị dùng để chiết rót chính xác các sản phẩm lỏng vào dụng cụ chứa.

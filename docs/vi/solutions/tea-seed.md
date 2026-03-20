@@ -1,6 +1,6 @@
 ---
-title: Giải pháp hạt trà (Dầu hạt trà) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Giải pháp ép hạt trà chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt trà, tỷ lệ dầu 25-35%, giàu axit oleic, sử dụng quy trình ép nóng để đảm bảo chất lượng, phù hợp cho dầu ăn cao cấp và sản phẩm chăm sóc sắc đẹp.'
+title: Giải pháp hạt trà (Dầu hạt trà) | Shengshi Hecheng
+description: Giải pháp ép hạt trà chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt trà, tỷ lệ dầu 25-35%, giàu axit oleic
 keywords: giải pháp hạt trà, ép dầu hạt trà, thiết bị chế biến hạt trà, dây chuyền sản xuất dầu hạt trà, quy trình ép nóng hạt trà, máy ép hạt trà, thiết bị chiết xuất dầu trà, dầu trà, dầu trà hoa (camellia oil)
 ---
 

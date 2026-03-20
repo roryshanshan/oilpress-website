@@ -1,6 +1,6 @@
 ---
-title: Cuiseur à combustion bois - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Le cuiseur à combustion bois en matériau Q355B peut être chauffé avec du charbon/bois/combustible gazeux, réservoir intégré, corps du pot en acier inoxydable 304, adapté au prétraitement de cuisson des graines oléagineuses.
+title: Cuiseur à combustion bois - Shengshi Hecheng
+description: Le cuiseur à combustion bois en matériau Q355B peut être chauffé avec du charbon/bois/combustible gazeux, réservoir intégré
 keywords: Cuiseur à combustion bois, Équipement de cuiseur, Cuiseur à chauffage bois, Cuiseur au gaz, Cuiseur à charbon, Cuiseur de graines oléagineuses, Équipement de cuisson, Machine de cuiseur, Équipement de cuiseur, Cuiseur de traitement de graines oléagineuses, Pot de cuisson, Cuiseur
 ---
 

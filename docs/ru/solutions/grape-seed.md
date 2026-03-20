@@ -1,6 +1,6 @@
 ---
-title: Grape Seed (Grape Seed Oil) Solution - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Professional grape seed pressing solutions, providing grape seed oil processing equipment and technical services, oil content 12-18%, rich in linoleic acid, using hot pressing process to ensure oil yield, meeting high-end edible oil and antioxidant product needs.
+title: Grape Seed (Grape Seed Oil) Solution - Shengshi Hecheng
+description: Professional grape seed pressing solutions, providing grape seed oil processing equipment and technical services, oil content 12-18%, rich in linoleic acid
 keywords: Grape seed solutions, Grape seed oil pressing, Grape seed processing equipment, Grape seed oil production line, Grape seed hot pressing process, Grape seed oil press, Grape seed oil extraction, Grape seed oilseed processing, Grape seed oil pressing equipment, Grape seed oil production equipment
 ---
 

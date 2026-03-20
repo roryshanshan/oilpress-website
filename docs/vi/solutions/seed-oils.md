@@ -1,6 +1,6 @@
 ---
-title: Giải pháp hạt và dầu hạt (Seed Oils) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Cung cấp giải pháp toàn diện cho các loại hạt như đậu nành, đậu phộng, mè, hạt cải..., bao gồm từ xay nguyên liệu đến ép và xử lý, phù hợp cho quy mô nhỏ đến quy mô công nghiệp, đảm bảo dầu chất lượng cao và kiểm soát tự động.'
+title: Giải pháp hạt và dầu hạt (Seed Oils) | Shengshi Hecheng
+description: Cung cấp giải pháp toàn diện cho các loại hạt như đậu nành, đậu phộng, mè, hạt cải. . .
 keywords: giải pháp ngũ cốc & hạt, các loại hạt lấy dầu, chế biến dầu đậu tương, chế biến dầu lạc, chế biến dầu vừng, chế biến dầu hạt cải, dầu hướng dương, thiết bị ép dầu, công nghệ chế biến dầu, Shengshi Hecheng
 ---
 

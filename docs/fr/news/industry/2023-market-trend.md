@@ -1,3 +1,8 @@
+---
+title: Analyse des tendances du marché mondial des huiles comestibles
+description: "Publié : 15 octobre 2023"
+keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
+---
 # Analyse des tendances du marché mondial des huiles comestibles 2023
 
 *Publié : 15 octobre 2023*

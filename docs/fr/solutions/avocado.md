@@ -1,6 +1,6 @@
 ---
-title: Solution d'avocat (huile d'avocat) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage d'avocat, fournissant équipement de transformation d'huile d'avocat et services techniques, teneur en huile 15-25%, riche en acide oléique, répondant aux besoins d'huiles alimentaires haut de gamme et de produits de soin de la peau.
+title: Solution d'avocat (huile d'avocat) - Shengshi Hecheng
+description: Solutions professionnelles de pressage d'avocat, fournissant équipement de transformation d'huile d'avocat et services techniques, teneur en huile 15-25%
 keywords: Solutions d'avocat, pressage d'huile d'avocat, équipement de transformation d'avocat, ligne de production d'huile d'avocat, procédé de pressage d'avocat, presse à huile d'avocat, extraction d'huile d'avocat, transformation de graines d'avocat, équipement de pressage d'huile d'avocat, équipement de production d'huile d'avocat
 ---
 

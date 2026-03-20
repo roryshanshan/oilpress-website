@@ -1,6 +1,6 @@
 ---
-title: Giải pháp hạt ớt (Dầu hạt ớt) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: Giải pháp ép hạt ớt chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu ớt, tỷ lệ dầu 15-25%, giàu axit linoleic, sử dụng quy trình ép nóng để đảm bảo tỷ lệ chiết xuất, phù hợp cho dầu ăn lành mạnh và thực phẩm chức năng。
+title: Giải pháp hạt ớt (Dầu hạt ớt) | Shengshi Hecheng
+description: Giải pháp ép hạt ớt chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu ớt, tỷ lệ dầu 15-25%, giàu axit linoleic
 keywords: giải pháp hạt ớt, ép dầu hạt ớt, thiết bị chế biến hạt ớt, dây chuyền sản xuất dầu ớt, quy trình ép nóng hạt ớt, máy ép hạt ớt, thiết bị sản xuất dầu ớt
 ---
 

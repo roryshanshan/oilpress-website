@@ -1,6 +1,6 @@
 ---
-title: Solution de germe de maïs (huile de germe de maïs) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage de germe de maïs, fournissant des équipements et services techniques de transformation d'huile de germe de maïs, teneur en huile 35-45%, utilisant le processus de pressage à chaud pour assurer le rendement en huile, répondant aux besoins de production d'échelles différentes.
+title: Solution de germe de maïs (huile de germe de maïs)
+description: Solutions professionnelles de pressage de germe de maïs, fournissant des équipements et services techniques de transformation d'huile de germe de maïs
 keywords: Solutions de germe de maïs, pressage d'huile de germe de maïs, équipement de transformation de germe de maïs, ligne de production d'huile de germe de maïs, processus de pressage à chaud d'huile de germe de maïs, presse à huile de germe de maïs, extraction d'huile de germe de maïs, transformation de graines oléagineuses de germe de maïs, équipement de pressage d'huile de germe de maïs, équipement de production d'huile de germe de maïs
 ---
 

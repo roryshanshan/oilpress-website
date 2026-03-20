@@ -1,6 +1,6 @@
 ---
-title: Giải pháp hạt điều (Dầu hạt điều) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Giải pháp ép hạt điều chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt điều, tỷ lệ dầu 40-50%, giàu axit oleic, áp dụng quy trình ép lạnh để giữ dưỡng chất, phù hợp cho dầu ăn cao cấp và ứng dụng công nghiệp.'
+title: Giải pháp hạt điều (Dầu hạt điều) | Shengshi Hecheng
+description: Giải pháp ép hạt điều chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt điều, tỷ lệ dầu 40-50%, giàu axit oleic
 keywords: giải pháp hạt điều, ép dầu hạt điều, thiết bị chế biến hạt điều, dây chuyền sản xuất dầu hạt điều, quy trình ép hạt điều, máy ép hạt điều
 ---
 

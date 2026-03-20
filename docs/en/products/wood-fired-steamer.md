@@ -1,7 +1,7 @@
 ---
-title: Wood-Fired Steamer - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Wood-fired steamer made of Q355B material, can be heated with coal/wood/gas fuel, integrated water tank, 304 stainless steel pot body, suitable for oilseed steaming preprocessing.
-keywords: Wood-fired steamer, Steamer equipment, Wood-fired heating steamer, Gas steamer, Coal-fired steamer, Oilseed steamer, Steaming equipment, Steamer machine, Steamer equipment, Oilseed processing steamer, Steaming pot, Steamer
+title: Wood-Fired Steamer - Shengshi Hecheng
+description: Wood-fired steamer made of Q355B material, can be heated with coal/wood/gas fuel, integrated water tank, 304 stainless steel pot body
+keywords: Wood-Fired Steamer, oil press machine, oil press price, oil press quotation, oil press supplier, oil processing equipment, supporting equipment, after-sales service, oilseed processing equipment, Steamer equipment
 ---
 
 # Wood-Fired Steamer

@@ -1,5 +1,5 @@
 ---
-title: Giải pháp dầu từ quả (Fruits) - Công ty TNHH Shengshi Hecheng Sơn Đông
+title: Giải pháp dầu từ quả (Fruits) | Shengshi Hecheng
 description: 'Giải pháp chế biến dầu từ quả như bơ, hạt nho, hạt bí, hạt dưa..., đáp ứng nhu cầu dầu ăn cao cấp và thị trường thực phẩm chức năng.'
 keywords: giải pháp dầu từ quả, chế biến dầu bơ, chế biến dầu hạt nho, chế biến dầu hạt bí, chế biến dầu hạt dưa, chế biến dầu nhân, thiết bị ép dầu trái cây, thực phẩm chức năng, dầu ăn cao cấp, Shengshi Hecheng
 ---

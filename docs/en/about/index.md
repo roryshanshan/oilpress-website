@@ -1,7 +1,7 @@
 ---
 title: About Us - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng Machinery Co., Ltd. was established in 2008, focusing on oil pressing equipment R&D and manufacturing, with modern production base and professional R&D team, providing world-leading oil pressing equipment solutions.
-keywords: Shandong Shengshi Hecheng, Oil press equipment manufacturer, Hydraulic oil press manufacturer, Oilseed processing equipment, Oil press equipment R&D, Oil press equipment production, High-tech enterprise, Oil press equipment factory, Oil press manufacturer, Oilseed pressing equipment, Oil press production factory, Oilseed processing machinery
+description: Shandong Shengshi Hecheng Machinery Co., Ltd.
+keywords: About Us, Shandong Shengshi Hecheng, hydraulic oil press manufacturer, oil press equipment factory, oilseed processing equipment, oil press R&D, Oil press equipment manufacturer, Oil press equipment R&D
 ---
 
 # About Us
@@ -9,6 +9,11 @@ keywords: Shandong Shengshi Hecheng, Oil press equipment manufacturer, Hydraulic
 ## Company Profile
 
 Shandong Shengshi Hecheng Machinery Co., Ltd., established in 2008, is a high-tech enterprise focusing on the research and development and manufacturing of oil pressing equipment. For over a decade, we have adhered to the business philosophy of "Quality First, Innovation-Driven Development," committed to providing customers with the highest quality oil pressing equipment and solutions.
+
+## Official Website
+
+Learn more about our latest hydraulic oil press models and complete production lines:
+[Hydraulic Oil Press](https://hydraulic-oil-press.com/)
 
 ## Enterprise Strength
 

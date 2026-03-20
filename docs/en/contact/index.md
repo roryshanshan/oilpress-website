@@ -1,10 +1,12 @@
 ---
-title: Contact Us - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Contact information for Shandong Shengshi Hecheng Machinery Co., Ltd. including address, phone number, and email.
-keywords: Contact us, Shandong Shengshi Hecheng, Oil press equipment manufacturer, Contact information, Company address, Sales consultation, Technical support, Equipment procurement, Oil press price, Equipment ordering, After-sales service, Equipment maintenance, Technical consultation
+title: Contact Hydraulic Oil Press Supplier | Get Quote
+description: Contact Shengshi Hecheng for hydraulic oil press prices, quotations, model selection, and after-sales support by WeChat, WhatsApp, email, or form.
+keywords: contact hydraulic oil press supplier, oil press quote, hydraulic oil press price, oil press quotation, model selection support, after-sales service, equipment inquiry, WeChat contact, WhatsApp contact, Shengshi Hecheng
 ---
 
 # Contact Us
+
+Talk with our sales team about hydraulic oil press model selection, pricing, delivery time, and complete line configuration.
 
 ## Company Address
 
@@ -14,11 +16,20 @@ Postal Code: 262500
 
 ## Contact Information
 
-### Gavin Lee - Sales Director
-- 📱 WeChat: +8619906365856
-- 📱 WhatsApp: +8619906365856
-- 📧 Email: roryshanshan@gmail.com
-- 📧 Business: gavin@oil-pressing-machine.com
+<div class="contact-card">
+  <div class="contact-title">Gavin Lee - Professional Sales Director at Your Service</div>
+  <ul class="contact-list">
+    <li>📱 WeChat: +8619906365856</li>
+    <li>📱 WhatsApp: +8619906365856</li>
+    <li>📧 Email: roryshanshan@gmail.com</li>
+    <li>📧 Business: gavin@oil-pressing-machine.com</li>
+    <li>🏭 Address: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China</li>
+  </ul>
+</div>
+
+## Official Website
+
+Learn more about our hydraulic oil press solutions at [Hydraulic Oil Press](https://hydraulic-oil-press.com/).
 
 ## Company Address
 
@@ -91,6 +102,25 @@ button {
 }
 button:hover {
   background-color: #1565c0;
+}
+.contact-card {
+  background: #f8fafc;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 16px 18px;
+  color: #111827;
+}
+.contact-title {
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+.contact-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.contact-list li {
+  margin: 6px 0;
 }
 </style>
 

@@ -1,6 +1,6 @@
 ---
 title: Máy ép sơ - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Máy ép sơ sử dụng nguyên lý nghiền xoắn, được thiết kế để vận hành hiệu quả và ổn định, tiếng ồn thấp, chi phí bảo trì thấp; phù hợp để nghiền hạt cải, đậu tương, hạt lanh và các nguyên liệu tương tự.
+description: Máy ép sơ sử dụng nguyên lý nghiền xoắn, được thiết kế để vận hành hiệu quả và ổn định, tiếng ồn thấp, chi phí bảo trì thấp; phù hợp để nghiền hạt cải
 keywords: máy ép sơ, máy nghiền xoắn, máy tiền ép, thiết bị tiền ép, máy nghiền nguyên liệu, thiết bị tiền xử lý dầu, máy ép trước, thiết bị nghiền, máy ép xoắn
 ---
 

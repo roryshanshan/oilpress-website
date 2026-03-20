@@ -1,7 +1,7 @@
 ---
-title: Wood-Fired Thermal Oil Flat-Bottom Wok - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Wood-fired thermal oil flat-bottom wok comes with its own furnace, thermal oil model solves uneven heating problem, can burn wood and natural gas, inner lining rock wool insulation layer, outer stainless steel, suitable for oilseed frying preprocessing.
-keywords: Wood-fired thermal oil flat-bottom wok, Thermal oil wok, Flat-bottom wok, Wood-fired wok, Gas wok, Oilseed wok, Wok equipment, Thermal oil heating wok, Rock wool insulation wok, Stainless steel wok, Oilseed processing wok, Wok machine, Wok equipment
+title: Wood-Fired Thermal Oil Flat-Bottom Wok - Shengshi Hecheng
+description: Wood-fired thermal oil flat-bottom wok comes with its own furnace, thermal oil model solves uneven heating problem, can burn wood and natural gas
+keywords: Wood-Fired Thermal Oil Flat-Bottom Wok, oil press machine, oil press price, oil press quotation, oil press supplier, oil processing equipment, supporting equipment, after-sales service, oilseed processing equipment, Thermal oil wok
 ---
 
 # Wood-Fired Thermal Oil Flat-Bottom Wok

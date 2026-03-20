@@ -1,3 +1,8 @@
+---
+title: Company News
+description: The company participated in the 2023 China International Oilseed Processing Technology Exhibition, showcasing the latest series of hydraulic oil press equipment
+keywords: hydraulic oil press, oil press machine, oil processing equipment
+---
 # Company News
 
 ## Latest Updates

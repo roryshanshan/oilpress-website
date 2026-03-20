@@ -1,6 +1,6 @@
 ---
-title: Presse à huile pneumatique multicouche - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: La presse à huile pneumatique multicouche utilise du matériau en acier inoxydable 304, design intégré, vient avec moteur, pompe à engrenages, compresseur d'air, design d'ouverture rapide, double protection de sécurité, adaptée au raffinage et à la filtration de graines oléagineuses.
+title: Presse à huile pneumatique multicouche - Shengshi Hecheng
+description: La presse à huile pneumatique multicouche utilise du matériau en acier inoxydable 304, design intégré, vient avec moteur, pompe à engrenages, compresseur d'air
 keywords: Presse à huile pneumatique multicouche, Presse à huile, Équipement de filtration de graines oléagineuses, Presse à huile multicouche, Presse à huile pneumatique, Machine de filtration d'huile, Équipement de raffinage de graines oléagineuses, Équipement de filtration d'huile, Presse à huile hydraulique, Machine de filtration de graines oléagineuses, Équipement de raffinage d'huile, Équipement de presse à huile
 ---
 

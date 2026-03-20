@@ -1,6 +1,6 @@
 ---
-title: Solution de colza (huile de colza) - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Solutions professionnelles de pressage de colza, fournissant des équipements et services techniques de transformation d'huile de colza, teneur en huile 35-45%, utilisant le processus de pressage à chaud pour assurer le rendement en huile, des petits ateliers aux grandes usines avec un équipement et des services complets.
+title: Solution de colza (huile de colza) - Shengshi Hecheng
+description: Solutions professionnelles de pressage de colza, fournissant des équipements et services techniques de transformation d'huile de colza, teneur en huile 35-45%
 keywords: Solutions de colza, pressage d'huile de colza, équipement de transformation de colza, ligne de production d'huile de colza, processus de pressage à chaud d'huile de colza, presse à huile de colza, extraction d'huile de colza, transformation de graines oléagineuses de colza, équipement de pressage d'huile de colza, équipement de production d'huile de colza, usine de transformation d'huile de colza
 ---
 

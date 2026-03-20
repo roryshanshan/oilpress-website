@@ -1,6 +1,6 @@
 ---
 title: Giải pháp mè (Dầu mè) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Giải pháp ép mè chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu mè, tỷ lệ dầu 50-60%, sử dụng quy trình ép nóng để giữ hương thơm đặc trưng, phù hợp cho mọi quy mô sản xuất.'
+description: Giải pháp ép mè chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu mè, tỷ lệ dầu 50-60%, sử dụng quy trình ép nóng để giữ hương thơm đặc trưng
 keywords: giải pháp vừng, ép dầu vừng, thiết bị chế biến vừng, dây chuyền sản xuất dầu vừng, quy trình ép nóng vừng, máy ép vừng, thiết bị chiết xuất dầu vừng
 ---
 

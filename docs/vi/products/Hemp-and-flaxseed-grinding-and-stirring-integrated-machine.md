@@ -1,6 +1,6 @@
 ---
-title: Máy nghiền và khuấy trộn hạt gai dầu, hạt lanh - Shengshi Hecheng Shandong
-description: Máy nghiền và khuấy trộn hạt gai dầu, hạt lanh thích hợp cho ngành dược, hóa chất, thực phẩm, có thể nghiền nhiều loại vật liệu, năng suất 750Kg/h, động cơ đồng nguyên chất, nghiền đều, tiêu thụ điện thấp.
+title: Máy nghiền và khuấy trộn hạt gai dầu, hạt lanh | Shengshi Hecheng
+description: Máy nghiền và khuấy trộn hạt gai dầu, hạt lanh thích hợp cho ngành dược, hóa chất, thực phẩm, có thể nghiền nhiều loại vật liệu, năng suất 750Kg/h
 keywords: máy nghiền hạt gai dầu, máy nghiền hạt lanh, máy nghiền khuấy trộn tích hợp, thiết bị nghiền, thiết bị tiền xử lý nguyên liệu dầu, thiết bị chế biến hạt gai dầu, thiết bị chế biến hạt lanh, máy nghiền, máy khuấy, máy nghiền khuấy trộn, thiết bị nghiền nguyên liệu dầu, thiết bị nghiền, thiết bị khuấy, máy nghiền 15Kw
 ---
 

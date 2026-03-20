@@ -1,6 +1,6 @@
 ---
-title: Giải pháp dầu đặc sản (Special Oils) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: 'Giải pháp xử lý các loại dầu đặc sản như cám gạo, mầm ngô, hạt thầu dầu, hạt ớt..., đáp ứng nhu cầu cho thị trường thực phẩm chức năng, công nghiệp và nhiên liệu sinh học.'
+title: Giải pháp dầu đặc sản (Special Oils) | Shengshi Hecheng
+description: Giải pháp xử lý các loại dầu đặc sản như cám gạo, mầm ngô, hạt thầu dầu, hạt ớt. . .
 keywords: giải pháp dầu đặc thù, chế biến dầu cám gạo, chế biến dầu ngô, chế biến dầu thầu dầu, chế biến dầu hạt ớt, thiết bị dầu đặc chủng, nguyên liệu thực phẩm chức năng, dầu bôi trơn công nghiệp, dầu diesel sinh học, Shengshi Hecheng
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Vidéo d'expédition de commande client - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng vidéo d'expédition de commande client, y compris l'emballage d'équipement, le chargement et le transport, l'acceptation client et autres processus, vous permettant de comprendre nos services d'expédition professionnels.
+title: Vidéo d'expédition de commande client - Shengshi Hecheng
+description: Shandong Shengshi Hecheng vidéo d'expédition de commande client, y compris l'emballage d'équipement, le chargement et le transport
 keywords: Vidéo d'expédition de commande client, Emballage d'équipement expédition, Expédition presse hydraulique, Site d'expédition, Acceptation client, Vidéo d'expédition Shandong Shengshi Hecheng, Transport d'équipement, Service d'expédition
 ---
 

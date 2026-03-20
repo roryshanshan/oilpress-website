@@ -1,6 +1,6 @@
 ---
-title: Giải pháp hồ trăn (Dầu hồ trăn) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: Giải pháp ép hồ trăn chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hồ trăn, tỷ lệ dầu 55-65%, giàu axit oleic, áp dụng quy trình ép lạnh để giữ dưỡng chất, phù hợp cho dầu ăn cao cấp và thực phẩm bổ dưỡng。
+title: Giải pháp hồ trăn (Dầu hồ trăn) | Shengshi Hecheng
+description: Giải pháp ép hồ trăn chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hồ trăn, tỷ lệ dầu 55-65%, giàu axit oleic
 keywords: giải pháp hạt phỉ, ép dầu hạt phỉ, thiết bị chế biến hạt phỉ, dây chuyền sản xuất dầu hạt phỉ, quy trình ép lạnh hạt phỉ, máy ép hạt phỉ, thiết bị chiết xuất dầu hạt phỉ
 ---
 

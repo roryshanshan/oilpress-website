@@ -1,6 +1,6 @@
 ---
-title: Máy rang trống tự động - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Máy rang trống tự động sử dụng gia nhiệt bằng điện từ, phù hợp để rang hạt mè, vừng, lạc, đậu tương, v.v.; công suất có thể điều chỉnh theo bước, lên nhiệt nhanh, an toàn và tiết kiệm năng lượng.
+title: Máy rang trống tự động - Shengshi Hecheng
+description: Máy rang trống tự động sử dụng gia nhiệt bằng điện từ, phù hợp để rang hạt mè, vừng, lạc, đậu tương, v. v.
 keywords: máy rang trống tự động, máy chiên tự động, chảo trống, gia nhiệt điện từ, thiết bị rang, chảo rang vừng, chảo rang mè, chảo rang lạc, thiết bị chế biến dầu, máy rang tự động
 ---
 

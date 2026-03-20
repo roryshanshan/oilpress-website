@@ -1,3 +1,8 @@
+---
+title: Kiến thức kỹ thuật
+description: Tỷ lệ thu dầu của máy ép là chỉ số quan trọng để đánh giá hiệu suất thiết bị.
+keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
+---
 # Kiến thức kỹ thuật
 
 ## Chia sẻ kỹ thuật
