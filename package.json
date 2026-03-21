@@ -1,9 +1,9 @@
 {
   "scripts": {
     "docs:dev": "vitepress dev docs --host 127.0.0.1",
-    "docs:build": "vitepress build docs",
+    "docs:build": "vitepress build docs && node postbuild-clean-urls.js",
     "docs:preview": "vitepress preview docs",
-    "build": "vitepress build docs",
+    "build": "vitepress build docs && node postbuild-clean-urls.js",
     "dev": "vitepress dev docs --host 127.0.0.1"
   },
   "devDependencies": {

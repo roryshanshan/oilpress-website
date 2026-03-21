@@ -47,19 +47,49 @@ Plusieurs départements, notamment la Commission nationale de développement et 
 
 ## Connaissances techniques
 
-### Comment améliorer le rendement de la presse à huile
-*12 avril 2023*
+### Quelles graines conviennent le mieux à une presse à huile hydraulique
+*21 mars 2026*
 
-Le rendement de la presse à huile est un indicateur important pour mesurer les performances de l'équipement. Les facteurs affectant le rendement en huile incluent principalement le prétraitement des matières premières, la température de pressage, le contrôle de la pression, etc. Cet article présentera en détail des conseils pratiques et des considérations pour améliorer le rendement de la presse à huile.
+Découvrez quelles graines sont les plus adaptées à une presse à huile hydraulique et comment associer sésame, arachide, noix, lin et autres matières premières au bon procédé à chaud ou à froid.
 
-[En savoir plus](/fr/news/technology/improve-oil-yield)
+[Lire la suite](/fr/news/technology/best-oilseeds-for-hydraulic-oil-press-machines)
 
-### Processus optimaux d'extraction d'huile pour différentes cultures oléagineuses
-*25 janvier 2023*
+### Comment lancer une petite entreprise d'huile pressée à froid
+*20 mars 2026*
 
-Différentes cultures oléagineuses ont des processus optimaux d'extraction d'huile différents en raison des différences de teneur en huile, de structure des fibres, etc. Cet article présentera en détail les paramètres optimaux du processus d'extraction d'huile et les points d'opération pour les cultures oléagineuses courantes telles que les arachides, le sésame et le colza.
+Guide pratique pour une petite activité d'huile pressée à froid couvrant le choix du produit, la configuration des machines, la filtration, le conditionnement et le contrôle des premiers coûts.
 
-[En savoir plus](/fr/news/technology/oil-crops-process)
+[Lire la suite](/fr/news/technology/how-to-start-small-cold-pressed-oil-business)
+
+### Comment choisir un modèle de presse à huile hydraulique
+*15 mars 2026*
+
+Apprenez à choisir le bon modèle de presse à huile hydraulique en comparant la charge matière, la taille du lot, le besoin en pressage à froid et les différences entre les séries 300 et 500.
+
+[Lire la suite](/fr/news/technology/how-to-choose-hydraulic-oil-press-model)
+
+### Guide ROI de la presse à huile hydraulique
+*6 mars 2026*
+
+Découvrez comment estimer le ROI d'une presse à huile hydraulique à partir du prix de vente, de la production par lot, de la main-d'œuvre, de la filtration, de l'emballage et de la période de retour.
+
+[Lire la suite](/fr/news/technology/hydraulic-oil-press-roi-guide)
+
+### Comment choisir le pressage à chaud ou à froid selon les différentes graines oléagineuses
+*3 mars 2026*
+
+Voyez quelles graines sont mieux adaptées au pressage à chaud ou à froid et en quoi sésame, arachide, graine de thé, noix, lin et graine de courge diffèrent dans le choix du procédé.
+
+[Lire la suite](/fr/news/technology/how-to-choose-hot-press-or-cold-press-for-different-oilseeds)
+
+### Comment choisir un filtre à huile pour une ligne d'huile alimentaire
+*2 mars 2026*
+
+Apprenez à choisir le bon filtre à huile pour une ligne d'huile alimentaire selon le volume quotidien, l'objectif de limpidité, les résidus de matière première et le plan d'extension.
+
+[Lire la suite](/fr/news/technology/how-to-choose-oil-filter-for-edible-oil-line)
+
+[Voir tous les articles techniques](/fr/news/technology)
 
 ::: tip S'abonner aux mises à jour
 Suivez notre compte officiel WeChat pour obtenir davantage d'informations sectorielles et de connaissances techniques.

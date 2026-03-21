@@ -47,33 +47,49 @@ Multiple departments including the National Development and Reform Commission an
 
 ## Technical Knowledge
 
-### Hydraulic Oil Press vs Screw Press: Which Should You Choose?
-*March 1, 2025*
+### Best Oilseeds for Hydraulic Oil Press Machines
+*March 21, 2026*
 
-A detailed comparison of hydraulic oil press vs screw (expeller) press covering oil yield, oil quality, maintenance cost, production capacity, and best use cases. Make the right investment decision for your oil business.
+Learn which oilseeds are best for hydraulic oil press machines and how to match sesame, peanut, walnut, flaxseed, and other materials with the right hot press or cold press setup.
 
-[Read More](/en/news/technology/hydraulic-vs-screw-press)
+[Read More](/en/news/technology/best-oilseeds-for-hydraulic-oil-press-machines)
 
-### Cold Press vs Hot Press Oil: Complete Guide
-*March 10, 2025*
+### How to Start a Small Cold Pressed Oil Business
+*March 20, 2026*
 
-Understand the key differences between cold pressing and hot pressing: oil yield, nutrient retention, aroma, market positioning, and which method suits your oilseed type and target market.
+A practical startup guide for small cold pressed oil businesses covering product selection, machine configuration, filtration, packaging, and first-stage cost control.
 
-[Read More](/en/news/technology/cold-press-vs-hot-press)
+[Read More](/en/news/technology/how-to-start-small-cold-pressed-oil-business)
 
-### How to Improve Oil Press Yield
-*April 12, 2023*
+### How to Choose a Hydraulic Oil Press Model
+*March 15, 2026*
 
-Oil press yield is an important indicator for measuring equipment performance. Factors affecting oil yield mainly include raw material pretreatment, pressing temperature, pressure control, etc. This article will introduce practical tips and considerations for improving oil press yield in detail.
+Learn how to choose the right hydraulic oil press model by comparing raw material load, batch size, cold press demand, and 300 to 500 series differences.
 
-[Read More](/en/news/technology/improve-oil-yield)
+[Read More](/en/news/technology/how-to-choose-hydraulic-oil-press-model)
 
-### Optimal Oil Pressing Processes for Different Oil Crops
-*January 25, 2023*
+### Hydraulic Oil Press ROI Guide
+*March 6, 2026*
 
-Different oil crops have different optimal oil pressing processes due to differences in oil content, fiber structure, etc. This article will introduce the optimal oil pressing process parameters and operation points for common oil crops such as peanuts, sesame, and rapeseed in detail.
+Learn how to estimate hydraulic oil press ROI by looking at product pricing, batch output, labor, filtration, packaging, and payback period.
 
-[Read More](/en/news/technology/oil-crops-process)
+[Read More](/en/news/technology/hydraulic-oil-press-roi-guide)
+
+### How to Choose Hot Press or Cold Press for Different Oilseeds
+*March 3, 2026*
+
+See which oilseeds are better suited for hot press or cold press, and how sesame, peanut, tea seed, walnut, flaxseed, and pumpkin seed differ in process choice.
+
+[Read More](/en/news/technology/how-to-choose-hot-press-or-cold-press-for-different-oilseeds)
+
+### How to Choose an Oil Filter for an Edible Oil Line
+*March 2, 2026*
+
+Learn how to choose the right oil filter for an edible oil line based on daily volume, clarity target, raw material residue, and future expansion plans.
+
+[Read More](/en/news/technology/how-to-choose-oil-filter-for-edible-oil-line)
+
+[View all technical articles](/en/news/technology)
 
 ::: tip Subscribe to Updates
 Follow our WeChat official account to get more industry information and technical knowledge.

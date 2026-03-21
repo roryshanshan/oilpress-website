@@ -812,14 +812,35 @@ s0.parentNode.insertBefore(s1,s0);
               items: [
                 { text: 'News Center', link: '/en/news/' },
                 { text: 'Company News', link: '/en/news/company' },
+                { text: 'Industry News', link: '/en/news/industry' },
                 {
                   text: 'Technical Knowledge',
                   collapsed: false,
                   items: [
-                    { text: 'Hydraulic Press vs Screw Press', link: '/en/news/technology/hydraulic-vs-screw-press' },
+                    { text: 'Best Oilseeds for Hydraulic Oil Press Machines', link: '/en/news/technology/best-oilseeds-for-hydraulic-oil-press-machines' },
+                    { text: 'How to Start a Small Cold Pressed Oil Business', link: '/en/news/technology/how-to-start-small-cold-pressed-oil-business' },
+                    { text: 'How to Choose a Hydraulic Oil Press Model', link: '/en/news/technology/how-to-choose-hydraulic-oil-press-model' },
+                    { text: 'Hydraulic Oil Press ROI Guide', link: '/en/news/technology/hydraulic-oil-press-roi-guide' },
+                    { text: 'Edible Oil Production Line Cost Guide', link: '/en/news/technology/edible-oil-production-line-cost-guide' },
+                    { text: 'How Many Batches Can a Hydraulic Oil Press Run Per Day?', link: '/en/news/technology/how-many-batches-can-hydraulic-oil-press-run-per-day' },
+                    { text: 'How to Choose Hot Press or Cold Press for Different Oilseeds', link: '/en/news/technology/how-to-choose-hot-press-or-cold-press-for-different-oilseeds' },
+                    { text: 'How to Choose an Oil Filter for an Edible Oil Line', link: '/en/news/technology/how-to-choose-oil-filter-for-edible-oil-line' },
+                    { text: 'Hydraulic Oil Press Troubleshooting Guide', link: '/en/news/technology/hydraulic-oil-press-troubleshooting-guide' },
+                    { text: 'Hydraulic Oil Press Maintenance Checklist', link: '/en/news/technology/hydraulic-oil-press-maintenance-checklist' },
+                    { text: 'Common Mistakes When Buying an Oil Press Machine', link: '/en/news/technology/common-mistakes-when-buying-oil-press-machine' },
+                    { text: 'How to Filter and Package Edible Oil After Pressing', link: '/en/news/technology/how-to-filter-and-package-edible-oil-after-pressing' },
+                    { text: 'Sesame Oil Production Line Guide', link: '/en/news/technology/sesame-oil-production-line-guide' },
+                    { text: 'Walnut Oil Cold Press Guide', link: '/en/news/technology/walnut-oil-cold-press-guide' },
+                    { text: 'Peanut Oil Processing Line Guide', link: '/en/news/technology/peanut-oil-processing-line-guide' },
+                    { text: 'Tea Seed Oil Processing Guide', link: '/en/news/technology/tea-seed-oil-processing-guide' },
+                    { text: 'Flaxseed Oil Cold Press Guide', link: '/en/news/technology/flaxseed-oil-cold-press-guide' },
+                    { text: 'Rapeseed Oil Processing Guide', link: '/en/news/technology/rapeseed-oil-processing-guide' },
+                    { text: 'Pumpkin Seed Oil Cold Press Guide', link: '/en/news/technology/pumpkin-seed-oil-cold-press-guide' },
+                    { text: 'Grape Seed Oil Processing Guide', link: '/en/news/technology/grape-seed-oil-processing-guide' },
+                    { text: 'Hydraulic Oil Press vs Screw Press', link: '/en/news/technology/hydraulic-vs-screw-press' },
                     { text: 'Cold Press vs Hot Press Guide', link: '/en/news/technology/cold-press-vs-hot-press' },
                     { text: 'How to Improve Oil Yield', link: '/en/news/technology/improve-oil-yield' },
-                    { text: 'Oil Crops Pressing Processes', link: '/en/news/technology/oil-crops-process' }
+                    { text: 'Oil Crops Pressing Processes', link: '/en/news/technology/oil-crops-process' },
                   ]
                 }
               ]
@@ -1111,10 +1132,30 @@ s0.parentNode.insertBefore(s1,s0);
                   text: '技术知识',
                   collapsed: false,
                   items: [
+                    { text: '液压榨油机适合压榨哪些油料', link: '/zh/news/technology/best-oilseeds-for-hydraulic-oil-press-machines' },
+                    { text: '如何开展小型冷榨油业务', link: '/zh/news/technology/how-to-start-small-cold-pressed-oil-business' },
+                    { text: '如何选择液压榨油机型号', link: '/zh/news/technology/how-to-choose-hydraulic-oil-press-model' },
+                    { text: '液压榨油机投资回报率指南', link: '/zh/news/technology/hydraulic-oil-press-roi-guide' },
+                    { text: '食用油生产线成本指南', link: '/zh/news/technology/edible-oil-production-line-cost-guide' },
+                    { text: '液压榨油机一天能压几锅？批次产能计算指南', link: '/zh/news/technology/how-many-batches-can-hydraulic-oil-press-run-per-day' },
+                    { text: '不同油料该选热榨还是冷榨？实用选型指南', link: '/zh/news/technology/how-to-choose-hot-press-or-cold-press-for-different-oilseeds' },
+                    { text: '食用油生产线如何选择过滤设备', link: '/zh/news/technology/how-to-choose-oil-filter-for-edible-oil-line' },
+                    { text: '液压榨油机常见故障排查指南', link: '/zh/news/technology/hydraulic-oil-press-troubleshooting-guide' },
+                    { text: '液压榨油机维护检查清单', link: '/zh/news/technology/hydraulic-oil-press-maintenance-checklist' },
+                    { text: '购买榨油机时常见错误', link: '/zh/news/technology/common-mistakes-when-buying-oil-press-machine' },
+                    { text: '压榨后如何过滤与包装食用油', link: '/zh/news/technology/how-to-filter-and-package-edible-oil-after-pressing' },
+                    { text: '芝麻油生产线配置指南', link: '/zh/news/technology/sesame-oil-production-line-guide' },
+                    { text: '核桃油冷榨工艺指南', link: '/zh/news/technology/walnut-oil-cold-press-guide' },
+                    { text: '花生油生产线配置指南', link: '/zh/news/technology/peanut-oil-processing-line-guide' },
+                    { text: '茶籽油生产线工艺指南', link: '/zh/news/technology/tea-seed-oil-processing-guide' },
+                    { text: '亚麻籽油冷榨工艺指南', link: '/zh/news/technology/flaxseed-oil-cold-press-guide' },
+                    { text: '菜籽油生产工艺指南', link: '/zh/news/technology/rapeseed-oil-processing-guide' },
+                    { text: '南瓜籽油冷榨工艺指南', link: '/zh/news/technology/pumpkin-seed-oil-cold-press-guide' },
+                    { text: '葡萄籽油生产工艺指南', link: '/zh/news/technology/grape-seed-oil-processing-guide' },
                     { text: '液压榨油机与螺旋榨油机对比', link: '/zh/news/technology/hydraulic-vs-screw-press' },
                     { text: '冷榨与热榨对比指南', link: '/zh/news/technology/cold-press-vs-hot-press' },
                     { text: '如何提高榨油机出油率', link: '/zh/news/technology/improve-oil-yield' },
-                    { text: '不同油料作物最佳榨油工艺', link: '/zh/news/technology/oil-crops-process' }
+                    { text: '不同油料作物最佳榨油工艺', link: '/zh/news/technology/oil-crops-process' },
                   ]
                 }
               ]
@@ -1696,7 +1737,36 @@ s0.parentNode.insertBefore(s1,s0);
                 { text: 'Новостной центр', link: '/ru/news/' },
                 { text: 'Новости компании', link: '/ru/news/company' },
                 { text: 'Индустриальные новости', link: '/ru/news/industry' },
-                { text: 'Технические знания', link: '/ru/news/technology' }
+                {
+                  text: 'Технические знания',
+                  collapsed: false,
+                  items: [
+                    { text: 'Какие масличные культуры лучше подходят для гидравлического маслопресса', link: '/ru/news/technology/best-oilseeds-for-hydraulic-oil-press-machines' },
+                    { text: 'Как запустить небольшой бизнес по производству масла холодного отжима', link: '/ru/news/technology/how-to-start-small-cold-pressed-oil-business' },
+                    { text: 'Как выбрать модель гидравлического маслопресса', link: '/ru/news/technology/how-to-choose-hydraulic-oil-press-model' },
+                    { text: 'Руководство по ROI гидравлического маслопресса', link: '/ru/news/technology/hydraulic-oil-press-roi-guide' },
+                    { text: 'Руководство по стоимости линии производства пищевого масла', link: '/ru/news/technology/edible-oil-production-line-cost-guide' },
+                    { text: 'Сколько партий гидравлический маслопресс может выполнять в день?', link: '/ru/news/technology/how-many-batches-can-hydraulic-oil-press-run-per-day' },
+                    { text: 'Как выбрать горячий или холодный отжим для разных масличных культур', link: '/ru/news/technology/how-to-choose-hot-press-or-cold-press-for-different-oilseeds' },
+                    { text: 'Как выбрать масляный фильтр для линии пищевого масла', link: '/ru/news/technology/how-to-choose-oil-filter-for-edible-oil-line' },
+                    { text: 'Руководство по поиску неисправностей гидравлического маслопресса', link: '/ru/news/technology/hydraulic-oil-press-troubleshooting-guide' },
+                    { text: 'Чек-лист по обслуживанию гидравлического маслопресса', link: '/ru/news/technology/hydraulic-oil-press-maintenance-checklist' },
+                    { text: 'Распространенные ошибки при покупке маслопресса', link: '/ru/news/technology/common-mistakes-when-buying-oil-press-machine' },
+                    { text: 'Как фильтровать и фасовать пищевое масло после отжима', link: '/ru/news/technology/how-to-filter-and-package-edible-oil-after-pressing' },
+                    { text: 'Руководство по линии производства кунжутного масла', link: '/ru/news/technology/sesame-oil-production-line-guide' },
+                    { text: 'Руководство по холодному отжиму масла грецкого ореха', link: '/ru/news/technology/walnut-oil-cold-press-guide' },
+                    { text: 'Руководство по линии производства арахисового масла', link: '/ru/news/technology/peanut-oil-processing-line-guide' },
+                    { text: 'Руководство по переработке масла из семян чая', link: '/ru/news/technology/tea-seed-oil-processing-guide' },
+                    { text: 'Руководство по холодному отжиму льняного масла', link: '/ru/news/technology/flaxseed-oil-cold-press-guide' },
+                    { text: 'Руководство по переработке рапсового масла', link: '/ru/news/technology/rapeseed-oil-processing-guide' },
+                    { text: 'Руководство по холодному отжиму масла из семян тыквы', link: '/ru/news/technology/pumpkin-seed-oil-cold-press-guide' },
+                    { text: 'Руководство по переработке масла из виноградных косточек', link: '/ru/news/technology/grape-seed-oil-processing-guide' },
+                    { text: 'Сравнение гидравлического и шнекового маслопресса', link: '/ru/news/technology/hydraulic-vs-screw-press' },
+                    { text: 'Руководство по холодному и горячему отжиму', link: '/ru/news/technology/cold-press-vs-hot-press' },
+                    { text: 'Как повысить выход масла', link: '/ru/news/technology/improve-oil-yield' },
+                    { text: 'Оптимальные процессы отжима масла для разных масличных культур', link: '/ru/news/technology/oil-crops-process' },
+                  ]
+                }
               ]
             }
           ]
@@ -1987,7 +2057,36 @@ s0.parentNode.insertBefore(s1,s0);
                 { text: 'Centre d\'actualités', link: '/fr/news/' },
                 { text: 'Actualités de l\'entreprise', link: '/fr/news/company' },
                 { text: 'Actualités de l\'industrie', link: '/fr/news/industry' },
-                { text: 'Connaissances techniques', link: '/fr/news/technology' }
+                {
+                  text: 'Connaissances techniques',
+                  collapsed: false,
+                  items: [
+                    { text: 'Quelles graines conviennent le mieux à une presse à huile hydraulique', link: '/fr/news/technology/best-oilseeds-for-hydraulic-oil-press-machines' },
+                    { text: 'Comment lancer une petite entreprise d\'huile pressée à froid', link: '/fr/news/technology/how-to-start-small-cold-pressed-oil-business' },
+                    { text: 'Comment choisir un modèle de presse à huile hydraulique', link: '/fr/news/technology/how-to-choose-hydraulic-oil-press-model' },
+                    { text: 'Guide ROI de la presse à huile hydraulique', link: '/fr/news/technology/hydraulic-oil-press-roi-guide' },
+                    { text: 'Guide de coût d\'une ligne de production d\'huile alimentaire', link: '/fr/news/technology/edible-oil-production-line-cost-guide' },
+                    { text: 'Combien de lots une presse à huile hydraulique peut-elle produire par jour ?', link: '/fr/news/technology/how-many-batches-can-hydraulic-oil-press-run-per-day' },
+                    { text: 'Comment choisir le pressage à chaud ou à froid selon les différentes graines oléagineuses', link: '/fr/news/technology/how-to-choose-hot-press-or-cold-press-for-different-oilseeds' },
+                    { text: 'Comment choisir un filtre à huile pour une ligne d\'huile alimentaire', link: '/fr/news/technology/how-to-choose-oil-filter-for-edible-oil-line' },
+                    { text: 'Guide de dépannage de la presse à huile hydraulique', link: '/fr/news/technology/hydraulic-oil-press-troubleshooting-guide' },
+                    { text: 'Checklist d\'entretien d\'une presse à huile hydraulique', link: '/fr/news/technology/hydraulic-oil-press-maintenance-checklist' },
+                    { text: 'Erreurs courantes lors de l\'achat d\'une presse à huile', link: '/fr/news/technology/common-mistakes-when-buying-oil-press-machine' },
+                    { text: 'Filtration et conditionnement de l\'huile alimentaire après pressage', link: '/fr/news/technology/how-to-filter-and-package-edible-oil-after-pressing' },
+                    { text: 'Guide de ligne de production d\'huile de sésame', link: '/fr/news/technology/sesame-oil-production-line-guide' },
+                    { text: 'Guide de pressage à froid de l\'huile de noix', link: '/fr/news/technology/walnut-oil-cold-press-guide' },
+                    { text: 'Guide de ligne de production d\'huile d\'arachide', link: '/fr/news/technology/peanut-oil-processing-line-guide' },
+                    { text: 'Guide de production de l\'huile de graines de thé', link: '/fr/news/technology/tea-seed-oil-processing-guide' },
+                    { text: 'Guide de pressage à froid de l\'huile de lin', link: '/fr/news/technology/flaxseed-oil-cold-press-guide' },
+                    { text: 'Guide de production de l\'huile de colza', link: '/fr/news/technology/rapeseed-oil-processing-guide' },
+                    { text: 'Guide de pressage à froid de l\'huile de graines de courge', link: '/fr/news/technology/pumpkin-seed-oil-cold-press-guide' },
+                    { text: 'Guide de production de l\'huile de pépins de raisin', link: '/fr/news/technology/grape-seed-oil-processing-guide' },
+                    { text: 'Comparatif presse hydraulique et presse à vis', link: '/fr/news/technology/hydraulic-vs-screw-press' },
+                    { text: 'Guide pressage à froid vs à chaud', link: '/fr/news/technology/cold-press-vs-hot-press' },
+                    { text: 'Comment améliorer le rendement de la presse à huile', link: '/fr/news/technology/improve-oil-yield' },
+                    { text: 'Processus optimaux d\'extraction d\'huile pour différentes cultures oléagineuses', link: '/fr/news/technology/oil-crops-process' },
+                  ]
+                }
               ]
             }
           ]
@@ -2160,7 +2259,38 @@ s0.parentNode.insertBefore(s1,s0);
               collapsed: false,
               items: [
                 { text: 'Tin tức', link: '/vi/news/' },
-                { text: 'Tin công ty', link: '/vi/news/company' }
+                { text: 'Tin công ty', link: '/vi/news/company' },
+                { text: 'Tin ngành', link: '/vi/news/industry' },
+                {
+                  text: 'Kiến thức kỹ thuật',
+                  collapsed: false,
+                  items: [
+                    { text: 'Nguyên liệu nào phù hợp nhất với máy ép dầu thủy lực', link: '/vi/news/technology/best-oilseeds-for-hydraulic-oil-press-machines' },
+                    { text: 'Cách bắt đầu kinh doanh dầu ép lạnh quy mô nhỏ', link: '/vi/news/technology/how-to-start-small-cold-pressed-oil-business' },
+                    { text: 'Cách chọn model máy ép dầu thủy lực', link: '/vi/news/technology/how-to-choose-hydraulic-oil-press-model' },
+                    { text: 'Hướng dẫn ROI máy ép dầu thủy lực', link: '/vi/news/technology/hydraulic-oil-press-roi-guide' },
+                    { text: 'Hướng dẫn chi phí dây chuyền sản xuất dầu ăn', link: '/vi/news/technology/edible-oil-production-line-cost-guide' },
+                    { text: 'Một máy ép dầu thủy lực có thể chạy bao nhiêu mẻ mỗi ngày?', link: '/vi/news/technology/how-many-batches-can-hydraulic-oil-press-run-per-day' },
+                    { text: 'Cách chọn ép nóng hay ép lạnh cho từng loại nguyên liệu dầu', link: '/vi/news/technology/how-to-choose-hot-press-or-cold-press-for-different-oilseeds' },
+                    { text: 'Cách chọn bộ lọc dầu cho dây chuyền dầu ăn', link: '/vi/news/technology/how-to-choose-oil-filter-for-edible-oil-line' },
+                    { text: 'Hướng dẫn xử lý sự cố máy ép dầu thủy lực', link: '/vi/news/technology/hydraulic-oil-press-troubleshooting-guide' },
+                    { text: 'Danh sách bảo dưỡng máy ép dầu thủy lực', link: '/vi/news/technology/hydraulic-oil-press-maintenance-checklist' },
+                    { text: 'Những sai lầm phổ biến khi mua máy ép dầu', link: '/vi/news/technology/common-mistakes-when-buying-oil-press-machine' },
+                    { text: 'Cách lọc và đóng gói dầu ăn sau khi ép', link: '/vi/news/technology/how-to-filter-and-package-edible-oil-after-pressing' },
+                    { text: 'Hướng dẫn dây chuyền sản xuất dầu mè', link: '/vi/news/technology/sesame-oil-production-line-guide' },
+                    { text: 'Hướng dẫn ép lạnh dầu óc chó', link: '/vi/news/technology/walnut-oil-cold-press-guide' },
+                    { text: 'Hướng dẫn dây chuyền sản xuất dầu lạc', link: '/vi/news/technology/peanut-oil-processing-line-guide' },
+                    { text: 'Hướng dẫn chế biến dầu hạt trà', link: '/vi/news/technology/tea-seed-oil-processing-guide' },
+                    { text: 'Hướng dẫn ép lạnh dầu hạt lanh', link: '/vi/news/technology/flaxseed-oil-cold-press-guide' },
+                    { text: 'Hướng dẫn chế biến dầu hạt cải', link: '/vi/news/technology/rapeseed-oil-processing-guide' },
+                    { text: 'Hướng dẫn ép lạnh dầu hạt bí', link: '/vi/news/technology/pumpkin-seed-oil-cold-press-guide' },
+                    { text: 'Hướng dẫn chế biến dầu hạt nho', link: '/vi/news/technology/grape-seed-oil-processing-guide' },
+                    { text: 'So sánh máy ép dầu thủy lực và máy ép trục vít', link: '/vi/news/technology/hydraulic-vs-screw-press' },
+                    { text: 'Hướng dẫn so sánh ép lạnh và ép nóng', link: '/vi/news/technology/cold-press-vs-hot-press' },
+                    { text: 'Cách tăng tỷ lệ thu dầu', link: '/vi/news/technology/improve-oil-yield' },
+                    { text: 'Quy trình ép tốt nhất cho từng loại nguyên liệu', link: '/vi/news/technology/oil-crops-process' },
+                  ]
+                }
               ]
             }
           ]
@@ -2451,7 +2581,36 @@ s0.parentNode.insertBefore(s1,s0);
                 { text: 'সংবাদ কেন্দ্র', link: '/bn/news/' },
                 { text: 'কোমপানি সংবাদ', link: '/bn/news/company' },
                 { text: 'শিল্প সংবাদ', link: '/bn/news/industry' },
-                { text: 'প্রযুক্তিগত জ্ঞান', link: '/bn/news/technology' }
+                {
+                  text: 'প্রযুক্তিগত জ্ঞান',
+                  collapsed: false,
+                  items: [
+                    { text: 'হাইড্রোলিক অয়েল প্রেসের জন্য কোন তেলবীজ সবচেয়ে উপযুক্ত', link: '/bn/news/technology/best-oilseeds-for-hydraulic-oil-press-machines' },
+                    { text: 'কীভাবে ছোট কোল্ড-প্রেসড তেল ব্যবসা শুরু করবেন', link: '/bn/news/technology/how-to-start-small-cold-pressed-oil-business' },
+                    { text: 'কীভাবে হাইড্রোলিক অয়েল প্রেস মডেল নির্বাচন করবেন', link: '/bn/news/technology/how-to-choose-hydraulic-oil-press-model' },
+                    { text: 'হাইড্রোলিক অয়েল প্রেস ROI গাইড', link: '/bn/news/technology/hydraulic-oil-press-roi-guide' },
+                    { text: 'ভোজ্য তেল উৎপাদন লাইন খরচ গাইড', link: '/bn/news/technology/edible-oil-production-line-cost-guide' },
+                    { text: 'একটি হাইড্রোলিক অয়েল প্রেস দিনে কত ব্যাচ চালাতে পারে?', link: '/bn/news/technology/how-many-batches-can-hydraulic-oil-press-run-per-day' },
+                    { text: 'বিভিন্ন তেলবীজের জন্য হট প্রেস না কোল্ড প্রেস কীভাবে নির্বাচন করবেন', link: '/bn/news/technology/how-to-choose-hot-press-or-cold-press-for-different-oilseeds' },
+                    { text: 'ভোজ্য তেল লাইনের জন্য অয়েল ফিল্টার কীভাবে নির্বাচন করবেন', link: '/bn/news/technology/how-to-choose-oil-filter-for-edible-oil-line' },
+                    { text: 'হাইড্রোলিক অয়েল প্রেস ট্রাবলশুটিং গাইড', link: '/bn/news/technology/hydraulic-oil-press-troubleshooting-guide' },
+                    { text: 'হাইড্রোলিক অয়েল প্রেস মেইনটেন্যান্স চেকলিস্ট', link: '/bn/news/technology/hydraulic-oil-press-maintenance-checklist' },
+                    { text: 'অয়েল প্রেস মেশিন কেনার সময় সাধারণ ভুল', link: '/bn/news/technology/common-mistakes-when-buying-oil-press-machine' },
+                    { text: 'প্রেসের পর ভোজ্য তেল কীভাবে ফিল্টার ও প্যাকেজ করবেন', link: '/bn/news/technology/how-to-filter-and-package-edible-oil-after-pressing' },
+                    { text: 'তিলের তেল উৎপাদন লাইন গাইড', link: '/bn/news/technology/sesame-oil-production-line-guide' },
+                    { text: 'আখরোট তেলের কোল্ড প্রেস গাইড', link: '/bn/news/technology/walnut-oil-cold-press-guide' },
+                    { text: 'চিনাবাদাম তেল প্রসেসিং লাইন গাইড', link: '/bn/news/technology/peanut-oil-processing-line-guide' },
+                    { text: 'চা বীজ তেল প্রক্রিয়াকরণ গাইড', link: '/bn/news/technology/tea-seed-oil-processing-guide' },
+                    { text: 'তিসি তেলের কোল্ড প্রেস গাইড', link: '/bn/news/technology/flaxseed-oil-cold-press-guide' },
+                    { text: 'রেপসিড তেল প্রক্রিয়াকরণ গাইড', link: '/bn/news/technology/rapeseed-oil-processing-guide' },
+                    { text: 'কুমড়োর বীজ তেলের কোল্ড প্রেস গাইড', link: '/bn/news/technology/pumpkin-seed-oil-cold-press-guide' },
+                    { text: 'আঙুর বীজ তেল প্রক্রিয়াকরণ গাইড', link: '/bn/news/technology/grape-seed-oil-processing-guide' },
+                    { text: 'হাইড্রোলিক অয়েল প্রেস বনাম স্ক্রু প্রেস', link: '/bn/news/technology/hydraulic-vs-screw-press' },
+                    { text: 'কোল্ড প্রেস বনাম হট প্রেস গাইড', link: '/bn/news/technology/cold-press-vs-hot-press' },
+                    { text: 'কীভাবে অয়েল ইয়েল্ড বাড়ানো যায়', link: '/bn/news/technology/improve-oil-yield' },
+                    { text: 'বিভিন্ন অয়েল ক্রপের সর্বোত্তম অয়েল প্রেস প্রক্রিয়া', link: '/bn/news/technology/oil-crops-process' },
+                  ]
+                }
               ]
             }
           ]
