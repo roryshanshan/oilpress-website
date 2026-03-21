@@ -28,7 +28,7 @@ Flaxseed is an important oil crop, flaxseed oil has unique nutritional value and
 
 ### Flaxseed Hot Pressing Process
 - Flaxseed/Linseed hot pressing process: Flaxseeds are heated and fried + ground and fried before being fed into the hydraulic oil press bucket for pressing.
-- ![Flaxseed/Linseed Hot Pressing Process](/images/胡麻_亚麻籽热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressing%20Process%20of%20Flaxseed.png)
+- ![Flaxseed/Linseed Hot Pressing Process](/images/flaxseed-hot-pressing-process.png)
 - Flaxseed oil hot pressing process: Flaxseeds are crushed by high-speed pulverizer before being fed into the hydraulic oil press bucket for pressing. Sweet aftertaste, sweet and fragrant taste, the pressed oil does not require hydration treatment and does not foam when cooking.
 - ![Flaxseed Oil Hot Pressing Process](/images/胡麻_亚麻籽冷榨工艺概览_An%20Overview%20of%20the%20Cold%20pressing%20Process%20of%20Flaxseed.png)
 

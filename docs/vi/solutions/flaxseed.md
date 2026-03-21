@@ -28,7 +28,7 @@ Hạt lanh là một cây dầu quan trọng; dầu hạt lanh có giá trị di
 
 + Hạt vừng / hạt lanh (gợi ý mẫu: 300AC-390 / 325AC-390 / 355AC-390 / 400AC-390)
 + Quy trình ép nóng (hot-press) hạt vừng/hạt lanh: hạt được gia nhiệt, rang và nghiền rồi đưa vào thùng ép thủy lực để ép dầu.
-+ ![Quy trình ép nóng](/images/胡麻_亚麻籽热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressing%20Process%20of%20Flaxseed.png)
++ ![Quy trình ép nóng](/images/flaxseed-hot-pressing-process.png)
 + Quy trình ép nóng dầu hạt lanh: hạt được nghiền bằng máy nghiền tốc độ cao trước khi đưa vào thùng ép thủy lực; dầu ép có vị ngọt đầu, không cần xử lý hóa nước và không tạo bọt khi chiên.
 + ![Quy trình ép lạnh](/images/胡麻_亚麻籽冷榨工艺概览_An%20Overview%20of%20the%20Cold%20pressing%20Process%20of%20Flaxseed.png)
 ## Video quy trình chế biến

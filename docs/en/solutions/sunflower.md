@@ -28,7 +28,7 @@ Sunflower seed is an important oil crop, sunflower oil has golden color and refr
 
 ### Sunflower Oil Hot Pressing Process
 - Sunflower seeds go through cleaning, crushing, and frying processes before being fed into the hydraulic oil press bucket for pressing.
-- ![Sunflower Oil Hot Pressing Process](/images/葵花籽热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressing%20Process%20of%20Sunflower%20seeds.png)
+- ![Sunflower Oil Hot Pressing Process](/images/sunflower-seed-hot-pressing-process.png)
 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/BdmN8beHRyg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
