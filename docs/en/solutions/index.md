@@ -1,12 +1,32 @@
 ---
-title: Oil Processing Solutions | Hydraulic Oil Press Lines
-description: Explore soybean, peanut, sesame, rapeseed, walnut, coconut, and specialty oil processing solutions with hydraulic presses, filtration, refining, and filling support.
-keywords: oil processing solutions, hydraulic oil press lines, oilseed processing line, peanut oil processing, sesame oil processing, soybean oil processing, filtration and refining, filling line support, oil processing quotation, Shengshi Hecheng
+title: Oil Processing Solutions | Production Lines for Pressing, Filtration, Refining & Filling
+description: Explore edible oil processing solutions by oilseed type and production stage, including hydraulic pressing, filtration, refining, dewaxing, filling, and complete production lines.
+keywords: oil processing solutions, edible oil production line, hydraulic oil press lines, oilseed processing line, oil filtration and refining, dewaxing line, filling line support, peanut oil processing, sesame oil processing, soybean oil processing
 ---
 
 # Solutions
 
 Professional solution pages for edible oil projects, from raw material preparation to pressing, filtering, refining, and filling.
+
+## Production Line Hubs
+
+If you are planning a complete plant rather than a single raw-material page, start here:
+
+- [Production Lines Overview](/en/solutions/production-lines)
+- [Filling Packages Overview](/en/solutions/filling-packages)
+- [Oil Filtration Equipment](/en/products/filtration-equipment)
+- [Refining & Dewaxing Equipment](/en/products/refining-and-dewaxing-equipment)
+- [Filling & Packaging Equipment](/en/products/filling-equipment)
+
+## Complete Line Flow
+
+Most edible oil projects on this site follow a practical route:
+
+1. Pre-treatment and conditioning
+2. Hydraulic pressing or pre-pressing
+3. Crude oil filtration
+4. Refining and dewaxing when required
+5. Filling, packaging, storage, and shipment
 
 ## By Oil Material Type
 
@@ -104,6 +124,10 @@ Covers special oil crops such as rice bran, corn germ, castor seeds, etc., meeti
 ## Related Resources
 
 - [Hydraulic Oil Press Product Overview](/en/products/)
+- [Production Lines Overview](/en/solutions/production-lines)
+- [Oil Filtration Equipment](/en/products/filtration-equipment)
+- [Refining & Dewaxing Equipment](/en/products/refining-and-dewaxing-equipment)
+- [Filling & Packaging Equipment](/en/products/filling-equipment)
 - [Supporting Equipment](/en/products/supporting)
 - [Company Advantages](/en/advantages/)
 - [Contact Technical Team](/en/contact/)

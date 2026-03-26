@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Hydraulic Oil Press Manufacturer | 300-500 Series Oil Press
-description: Shengshi Hecheng is a China hydraulic oil press manufacturer offering 300-500 series oil press machines, custom oil processing lines, and after-sales support.
-keywords: hydraulic oil press manufacturer, 300-500 series oil press, hydraulic oil press machine, oil press machine supplier, custom oil processing line, peanut oil press, sesame oil press, soybean oil press, oil press quotation, Shengshi Hecheng
+title: Hydraulic Oil Press Manufacturer | Presses, Filtration, Refining & Filling
+description: Shengshi Hecheng manufactures hydraulic oil presses, oil filtration equipment, refining and dewaxing systems, filling lines, and complete edible oil production solutions.
+keywords: hydraulic oil press manufacturer, edible oil production line, oil filtration equipment, oil refining equipment, oil filling line, hydraulic oil press machine, oil processing equipment supplier, sesame oil press, peanut oil press, soybean oil press
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
@@ -98,6 +98,33 @@ keywords: hydraulic oil press manufacturer, 300-500 series oil press, hydraulic 
     <h3>500 Series</h3>
     <p>Suitable for super large enterprises, daily oil production 8-15 tons</p>
     <a href="/en/products/500" class="learn-more">Learn More</a>
+  </div>
+</div>
+
+## Equipment & Line Hubs
+
+These hub pages make it easier to move from a single press inquiry to a complete edible oil project plan.
+
+<div class="services-section">
+  <div class="service-item">
+    <h3>Oil Filtration Equipment</h3>
+    <p>Clarify crude oil before storage, refining, or direct packaged-oil sales.</p>
+    <a href="/en/products/filtration-equipment" class="learn-more">Explore filtration solutions →</a>
+  </div>
+  <div class="service-item">
+    <h3>Refining & Dewaxing</h3>
+    <p>Improve color, stability, and low-temperature appearance for higher-end edible oils.</p>
+    <a href="/en/products/refining-and-dewaxing-equipment" class="learn-more">Explore refining systems →</a>
+  </div>
+  <div class="service-item">
+    <h3>Filling & Packaging</h3>
+    <p>Connect finished oil with bottle, pouch, and drum packaging equipment.</p>
+    <a href="/en/products/filling-equipment" class="learn-more">Explore packaging equipment →</a>
+  </div>
+  <div class="service-item">
+    <h3>Production Lines</h3>
+    <p>Review complete line layouts from pre-treatment and pressing to filling.</p>
+    <a href="/en/solutions/production-lines" class="learn-more">Explore full production lines →</a>
   </div>
 </div>
 
@@ -207,7 +234,12 @@ keywords: hydraulic oil press manufacturer, 300-500 series oil press, hydraulic 
 ## Explore Related Pages
 
 - Product hub: [Hydraulic Oil Press Product Overview](/en/products/)
+- Oil filtration hub: [Oil Filtration Equipment](/en/products/filtration-equipment)
+- Refining hub: [Refining & Dewaxing Equipment](/en/products/refining-and-dewaxing-equipment)
+- Filling hub: [Filling & Packaging Equipment](/en/products/filling-equipment)
 - Solution hub: [Oil Processing Solutions](/en/solutions/)
+- Production line hub: [Production Lines Overview](/en/solutions/production-lines)
+- Manuals and support: [Equipment Instruction Manual](/en/products/instruction-manual)
 - Technical strengths: [Company Advantages](/en/advantages/)
 - Company and factory: [About Us](/en/about/)
 - Latest updates: [News Center](/en/news/)
@@ -223,7 +255,7 @@ Our equipment supports soybean, peanut, sesame, rapeseed, sunflower, flaxseed, t
 Selection depends on daily capacity, raw material characteristics, and automation needs. Start from the [product overview](/en/products/) and then contact us for a tailored recommendation.
 
 ### Do you provide full line support beyond the main press?
-Yes. We provide pre-treatment, post-treatment, filtering, and filling-line supporting equipment. See [supporting equipment](/en/products/supporting) and [filling solutions](/en/solutions/filling-packages).
+Yes. We provide pre-treatment, filtration, refining, dewaxing, filling, and supporting equipment. See [supporting equipment](/en/products/supporting), [oil filtration equipment](/en/products/filtration-equipment), [refining and dewaxing equipment](/en/products/refining-and-dewaxing-equipment), and [filling solutions](/en/solutions/filling-packages).
 
 ## Contact Us
 

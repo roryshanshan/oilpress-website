@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Hydraulic Oil Press Manufacturer | 300-500 Series Oil Press
-description: Shengshi Hecheng is a China hydraulic oil press manufacturer offering 300-500 series oil press machines, custom oil processing lines, and after-sales support.
-keywords: hydraulic oil press manufacturer, 300-500 series oil press, hydraulic oil press machine, oil press machine supplier, custom oil processing line, peanut oil press, sesame oil press, soybean oil press, oil press quotation, Shengshi Hecheng
+title: Hydraulic Oil Press Manufacturer | Presses, Filtration, Refining & Filling
+description: Shengshi Hecheng manufactures hydraulic oil presses, oil filtration equipment, refining and dewaxing systems, filling lines, and complete edible oil production solutions.
+keywords: hydraulic oil press manufacturer, edible oil production line, oil filtration equipment, oil refining equipment, oil filling line, hydraulic oil press machine, oil processing equipment supplier, sesame oil press, peanut oil press, soybean oil press
 ---
 
 
@@ -13,6 +13,33 @@ keywords: hydraulic oil press manufacturer, 300-500 series oil press, hydraulic 
   <h2 style="font-size: 1.5rem; font-weight: 500; color: var(--vp-c-text-2);">
     Shandong Shengshi Hecheng Machinery Co., Ltd.
   </h2>
+</div>
+
+## Equipment & Line Hubs
+
+These hub pages make it easier to move from a single press inquiry to a complete edible oil project plan.
+
+<div class="services-section">
+  <div class="service-item">
+    <h3>Oil Filtration Equipment</h3>
+    <p>Clarify crude oil before storage, refining, or direct packaged-oil sales.</p>
+    <a href="/en/products/filtration-equipment" class="learn-more">Explore filtration solutions →</a>
+  </div>
+  <div class="service-item">
+    <h3>Refining & Dewaxing</h3>
+    <p>Improve color, stability, and low-temperature appearance for higher-end edible oils.</p>
+    <a href="/en/products/refining-and-dewaxing-equipment" class="learn-more">Explore refining systems →</a>
+  </div>
+  <div class="service-item">
+    <h3>Filling & Packaging</h3>
+    <p>Connect finished oil with bottle, pouch, and drum packaging equipment.</p>
+    <a href="/en/products/filling-equipment" class="learn-more">Explore packaging equipment →</a>
+  </div>
+  <div class="service-item">
+    <h3>Production Lines</h3>
+    <p>Review complete line layouts from pre-treatment and pressing to filling.</p>
+    <a href="/en/solutions/production-lines" class="learn-more">Explore full production lines →</a>
+  </div>
 </div>
 
 <div style="margin: 2rem 0;">
@@ -204,6 +231,21 @@ keywords: hydraulic oil press manufacturer, 300-500 series oil press, hydraulic 
     <p>Introduced our complete oil pressing production line, transforming from a manual workshop to a modern factory, with a 5-fold increase in production capacity</p>
   </div>
 </div>
+
+## Explore Related Pages
+
+- Product hub: [Hydraulic Oil Press Product Overview](/en/products/)
+- Oil filtration hub: [Oil Filtration Equipment](/en/products/filtration-equipment)
+- Refining hub: [Refining & Dewaxing Equipment](/en/products/refining-and-dewaxing-equipment)
+- Filling hub: [Filling & Packaging Equipment](/en/products/filling-equipment)
+- Solution hub: [Oil Processing Solutions](/en/solutions/)
+- Production line hub: [Production Lines Overview](/en/solutions/production-lines)
+- Manuals and support: [Equipment Instruction Manual](/en/products/instruction-manual)
+- Technical strengths: [Company Advantages](/en/advantages/)
+- Company and factory: [About Us](/en/about/)
+- Latest updates: [News Center](/en/news/)
+- Inquiry and quotation: [Contact Us](/en/contact/)
+- Chinese version: [中文首页](/zh/)
 
 ## Contact Us
 

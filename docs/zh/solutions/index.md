@@ -1,12 +1,32 @@
 ---
-title: 油料加工解决方案 | 液压榨油机整线方案
-description: 查看大豆、花生、芝麻、油菜籽、核桃、椰子及特种油料加工方案，涵盖压榨、过滤、精炼与灌装等整线支持。
-keywords: 油料加工解决方案, 液压榨油机整线方案, 油料压榨生产线, 花生榨油方案, 芝麻榨油方案, 大豆榨油方案, 过滤精炼配套, 灌装配套方案, 生产线报价, 盛世赫程
+title: 油料加工解决方案 | 压榨、过滤、精炼与灌装整线方案
+description: 查看按油料类型和工艺阶段组织的油料加工解决方案，涵盖液压压榨、过滤、精炼、脱蜡、灌装与完整生产线规划。
+keywords: 油料加工解决方案, 食用油生产线方案, 液压榨油机整线方案, 过滤精炼配套, 脱蜡设备方案, 灌装配套方案, 花生榨油方案, 芝麻榨油方案, 大豆榨油方案, 盛世赫程
 ---
 
 # 解决方案
 
 面向食用油项目的整线方案中心，覆盖原料预处理、压榨、过滤、精炼与灌装等关键环节。
+
+## 生产线入口
+
+如果您正在规划的是完整工厂而不是单一油料页，建议先看这些总入口：
+
+- [生产线总览](/zh/solutions/production-lines)
+- [灌装配套方案概览](/zh/solutions/filling-packages)
+- [过滤设备](/zh/products/filtration-equipment)
+- [精炼与脱蜡设备](/zh/products/refining-and-dewaxing-equipment)
+- [灌装包装设备](/zh/products/filling-equipment)
+
+## 整线流程结构
+
+站内大多数项目都可以按照以下思路理解：
+
+1. 预处理与调质
+2. 液压压榨或预榨
+3. 毛油过滤
+4. 精炼，必要时增加脱蜡
+5. 灌装包装、储运与出货
 
 ## 按油料类型分类
 
@@ -89,6 +109,10 @@ keywords: 油料加工解决方案, 液压榨油机整线方案, 油料压榨生
 ## 相关页面
 
 - [液压榨油机产品总览](/zh/products/)
+- [生产线总览](/zh/solutions/production-lines)
+- [过滤设备](/zh/products/filtration-equipment)
+- [精炼与脱蜡设备](/zh/products/refining-and-dewaxing-equipment)
+- [灌装包装设备](/zh/products/filling-equipment)
 - [配套设备总览](/zh/products/supporting)
 - [公司优势](/zh/advantages/)
 - [联系我们获取方案](/zh/contact/)

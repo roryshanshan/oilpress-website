@@ -1,0 +1,64 @@
+---
+title: 涡轮增压风刀吹干机 | 吹干机系列
+description: 替代了传统的毛刷式脱水装置，无须加热，利用了强力风（风刀）对瓶身水进行吹干，瓶身无污染，无须更换毛刷，无须更换电热管，节约使用成本，性能更先进更可靠。
+keywords: 涡轮增压风刀吹干机, 吹干机系列, 液体包装设备, 灌装包装设备, 盛世赫程
+---
+
+# 涡轮增压风刀吹干机
+
+![涡轮增压风刀吹干机](/images/filling-products/turbo-air-knife-dryer.webp)
+
+涡轮增压风刀吹干机可作为吹干机系列中的具体机型参考。本页按公开产品资料整理了机型定位、参数信息和配套建议，方便做初步选型与页面内跳转。
+
+## 机型定位
+
+- 所属系列：[吹干机系列](/zh/solutions/drying/)
+- 参数总览入口：[灌装包装设备参数库](/zh/products/filling-equipment#dry-turbo)
+- 适用场景：适合高速贴标前吹干。
+
+## 公开资料摘要
+
+替代了传统的毛刷式脱水装置，无须加热，利用了强力风（风刀）对瓶身水进行吹干，瓶身无污染，无须更换毛刷，无须更换电热管，节约使用成本，性能更先进更可靠。
+
+## 公开参数表
+
+<table>
+  <tbody>
+    <tr>
+      <th>型号</th>
+      <th>生产能力（瓶/小时）</th>
+      <th>瓶型</th>
+      <th>风力组数</th>
+      <th>适用瓶型</th>
+      <th>瓶口直径</th>
+    </tr>
+    <tr>
+      <td>HG-2</td>
+      <td>5000</td>
+      <td>各种异型瓶</td>
+      <td>2</td>
+      <td>Φ=50-100mm h=160-320mm</td>
+      <td>φ=22-32mm</td>
+    </tr>
+    <tr>
+      <td>HG-3</td>
+      <td>8000</td>
+      <td>各种异型瓶</td>
+      <td>3</td>
+      <td>Φ=50-100mm h=160-320mm</td>
+      <td>φ=22-32mm</td>
+    </tr>
+  </tbody>
+</table>
+
+## 配套建议
+
+- 先看系列页：[吹干机系列](/zh/solutions/drying/)
+- 再看参数总览：[涡轮增压风刀吹干机在参数库中的位置](/zh/products/filling-equipment#dry-turbo)
+- 如果是整线项目，可继续查看[灌装配套方案概览](/zh/solutions/filling-packages)与[生产线总览](/zh/solutions/production-lines)。
+
+## 相关页面
+
+- [灌装包装设备参数库](/zh/products/filling-equipment)
+- [吹干机系列](/zh/solutions/drying/)
+- [联系我们获取整线建议](/zh/contact/)

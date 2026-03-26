@@ -1,7 +1,7 @@
 ---
-title: Hydraulic Oil Press Machines | 300-500 Series & Equipment
-description: Compare 300 to 500 series hydraulic oil press machines, filter presses, pretreatment equipment, and custom oil processing line options for edible oil projects.
-keywords: hydraulic oil press machines, 300-500 series oil press, oil press machine, hydraulic oil press supplier, oil press price, pretreatment equipment, filter press, custom oil processing line, supporting equipment, Shengshi Hecheng
+title: Hydraulic Oil Press Machines & Oil Processing Equipment | 300-500 Series
+description: Compare 300 to 500 series hydraulic oil press machines, oil filtration equipment, refining and dewaxing systems, filling equipment, and support resources for edible oil projects.
+keywords: hydraulic oil press machines, 300-500 series oil press, oil filtration equipment, oil refining equipment, dewaxing equipment, oil filling equipment, edible oil processing equipment, custom oil processing line, supporting equipment, Shengshi Hecheng
 ---
 
 # Product Series
@@ -14,6 +14,22 @@ Shandong Shengshi Hecheng Machinery Co., Ltd. provides a complete hydraulic oil 
 
 See the latest models and full line solutions:
 [Hydraulic Oil Press](https://hydraulic-oil-press.com/)
+
+## Product Category Hubs
+
+Use the following hub pages to move from a single machine inquiry to a complete process layout:
+
+- [Hydraulic Oil Press Product Overview](/en/products/)
+- [Oil Filtration Equipment](/en/products/filtration-equipment)
+- [Refining & Dewaxing Equipment](/en/products/refining-and-dewaxing-equipment)
+- [Filling & Packaging Equipment](/en/products/filling-equipment)
+- [Supporting Equipment](/en/products/supporting)
+
+## Catalog & Support Resources
+
+- [Equipment Instruction Manual](/en/products/instruction-manual)
+- [Customized Hydraulic Oil Press](/en/products/customized-hydraulic-oil-press)
+- [Customer Order Shipping Video](/en/products/customer-order-shipping-video)
 
 ### 300 Series
 Our classic entry-level series, suitable for small oil mills and family workshops, with compact structure, simple operation, and high cost performance.
@@ -53,25 +69,23 @@ Flagship series, featuring extra-large capacity.
 
 [View Complete 500 Series Introduction](/en/products/500)
 
-## Customized Version
-
-Our customization service team can provide personalized hydraulic oil press solutions according to your specific needs.
-
-[View Complete Customized Version Introduction](/en/products/customized-hydraulic-oil-press)
-
-## Customer Order Shipping Video
-
-[View Customer Order Shipping Video](/en/products/customer-order-shipping-video)
-
 ## Supporting Equipment
+
+Match equipment by process stage:
+
 - [Pre-treatment Equipment](/en/products/pre-treatment)
+- [Oil Filtration Equipment](/en/products/filtration-equipment)
+- [Refining & Dewaxing Equipment](/en/products/refining-and-dewaxing-equipment)
+- [Filling & Packaging Equipment](/en/products/filling-equipment)
 - [Post-treatment Equipment](/en/products/post-treatment)
 - [Complete Equipment List](/en/products/supporting)
 
 ## Related Resources
 
 - [Oil Processing Solutions](/en/solutions/)
+- [Production Lines Overview](/en/solutions/production-lines)
 - [Seed Oil Solutions](/en/solutions/seed-oils)
+- [Filling Packages Overview](/en/solutions/filling-packages)
 - [Company Advantages](/en/advantages/)
 - [About the Manufacturer](/en/about/)
 - [Get a Quote](/en/contact/)

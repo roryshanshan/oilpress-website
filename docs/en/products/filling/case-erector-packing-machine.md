@@ -1,0 +1,72 @@
+---
+title: "Automatic unpacking, carton forming, cartoning machine | Packing, palletizing"
+description: "It automatically alarms when there is a shortage of tapes and cartons, and adopts PLC + display screen control, which greatly facilitates operation and is an indispensable equipment for automated large-scale production;"
+keywords: "Automatic unpacking, carton forming, cartoning machines, cartoning, palletizing, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
+---
+
+# Automatic unpacking, carton forming, and cartoning machines
+
+![Automatic unpacking, carton forming, and packing machine](/images/filling-products/case-erector-packing-machine.webp)
+
+Automatic unpacking, carton forming, and cartoning machines can be used as a reference for specific models in cartoning and palletizing. This page organizes model positioning, parameter information and supporting suggestions based on public product information to facilitate preliminary selection and page jumps.
+
+## Model positioning
+
+- Series: [Packing, Palletizing](/en/solutions/packing-palletizing/)
+- Parameter overview entrance: [Filling and packaging equipment parameter library](/en/products/filling-equipment#pack-case)
+- Applicable scenarios: Suitable for integration of automatic unpacking and packing.
+
+## Summary of public information
+
+It automatically alarms when there is a shortage of tapes and cartons, and adopts PLC + display screen control, which greatly facilitates operation and is an indispensable equipment for automated large-scale production;
+
+## Public parameter table
+
+<table>
+  <tbody>
+    <tr>
+      <th>Power</th>
+      <th>Air pressure</th>
+      <th>Tape width (cm)</th>
+      <th> Molding speed </th>
+      <th>Tape length</th>
+      <th> with hot melt adhesive machine</th>
+      <th>Carton specifications</th>
+      <th> Dimensions (mm) </th>
+      <th>Machine weight (kg) </th>
+    </tr>
+    <tr>
+      <td>Single phase 220V, 50Hz/60Hz, 600w</td>
+      <td>6kg/cm²</td>
+      <td>4.8-6.0</td>
+      <td>12 boxes/minute</td>
+      <td>≤2000m</td>
+      <td>Can be matched with any brand of machine</td>
+      <td>L 550 W400 H 400</td>
+      <td>L200, W150, H100</td>
+      <td> About 400</td>
+    </tr>
+    <tr>
+      <td>380V, 50Hz, 2.5KW</td>
+      <td>4-8kg/cm²</td>
+      <td>4.8-7.2</td>
+      <td>20~60 boxes/minute (according to specifications) </td>
+      <td>≤2000m</td>
+      <td>L 150~506 W 150~405 H 102~405</td>
+      <td>L3000, W2000, H1700</td>
+      <td> About 850</td>
+    </tr>
+  </tbody>
+</table>
+
+## Supporting suggestions
+
+- First look at the series page: [Packing, Palletizing](/en/solutions/packing-palletizing/)
+- Look at the parameter overview again: [The location of automatic unpacking, carton forming, and packing machines in the parameter library] (/en/products/filling-equipment#pack-case)
+- If it is a complete line project, you can continue to view [Filling Package Overview](/en/products/filling-equipment#pack-case) and [Production Line Overview](/en/solutions/filling-packages).
+
+## Related pages
+
+- [Filling and packaging equipment parameter library](/en/solutions/production-lines)
+- [Packing, palletizing](/en/products/filling-equipment)
+- [Contact us for complete line advice](/en/solutions/packing-palletizing/)

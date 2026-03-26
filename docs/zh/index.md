@@ -1,8 +1,8 @@
 ---
 layout: home
-title: "液压榨油机厂家 | 300-500系列液压榨油机"
-description: "盛世赫程专注液压榨油机与油料加工整线，提供300-500系列设备、定制方案、报价支持与售后服务，适用于花生、芝麻、大豆、核桃等油料。"
-keywords: 液压榨油机厂家, 300-500系列液压榨油机, 液压榨油机, 榨油机报价, 榨油机价格, 油料加工整线, 花生榨油机, 芝麻榨油机, 大豆榨油机, 盛世赫程
+title: "液压榨油机厂家 | 压榨、过滤、精炼与灌装整线"
+description: "盛世赫程提供液压榨油机、过滤设备、精炼脱蜡设备、灌装包装设备与食用油生产线方案，适用于花生、芝麻、大豆、核桃等油料项目。"
+keywords: 液压榨油机厂家, 食用油生产线, 过滤设备, 食用油精炼设备, 灌装包装设备, 液压榨油机, 榨油机报价, 花生榨油机, 芝麻榨油机, 大豆榨油机
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
@@ -12,6 +12,33 @@ keywords: 液压榨油机厂家, 300-500系列液压榨油机, 液压榨油机, 
   <h2 style="font-size: 1.5rem; font-weight: 500; color: var(--vp-c-text-2);">
     山东盛世赫程机械有限公司
   </h2>
+</div>
+
+## 核心栏目入口
+
+以下栏目把“单机咨询”和“整线规划”更清晰地连接起来，方便客户快速找到对应设备和工艺阶段。
+
+<div class="services-section">
+  <div class="service-item">
+    <h3>过滤设备</h3>
+    <p>用于毛油澄清、储油前净化，以及精炼或灌装前的稳定过滤。</p>
+    <a href="/zh/products/filtration-equipment" class="learn-more">查看过滤方案 →</a>
+  </div>
+  <div class="service-item">
+    <h3>精炼与脱蜡</h3>
+    <p>适合对颜色、稳定性、低温清亮度要求更高的食用油项目。</p>
+    <a href="/zh/products/refining-and-dewaxing-equipment" class="learn-more">查看精炼系统 →</a>
+  </div>
+  <div class="service-item">
+    <h3>灌装包装</h3>
+    <p>衔接瓶装、袋装、桶装等终端包装需求，帮助油品进入销售环节。</p>
+    <a href="/zh/products/filling-equipment" class="learn-more">查看包装设备 →</a>
+  </div>
+  <div class="service-item">
+    <h3>生产线总览</h3>
+    <p>从预处理、压榨到过滤、精炼、灌装的完整工艺结构一站查看。</p>
+    <a href="/zh/solutions/production-lines" class="learn-more">查看整线方案 →</a>
+  </div>
 </div>
 
 <div style="margin: 2rem 0;">
@@ -207,7 +234,12 @@ keywords: 液压榨油机厂家, 300-500系列液压榨油机, 液压榨油机, 
 ## 相关页面导航
 
 - 产品中心：[液压榨油机产品总览](/zh/products/)
+- 过滤设备：[食用油过滤设备](/zh/products/filtration-equipment)
+- 精炼设备：[精炼与脱蜡设备](/zh/products/refining-and-dewaxing-equipment)
+- 灌装包装：[灌装包装设备](/zh/products/filling-equipment)
 - 方案中心：[油料加工解决方案](/zh/solutions/)
+- 生产线总览：[食用油生产线总览](/zh/solutions/production-lines)
+- 资料下载：[设备使用说明书](/zh/products/instruction-manual)
 - 技术能力：[公司优势](/zh/advantages/)
 - 企业信息：[关于我们](/zh/about/)
 - 最新动态：[新闻资讯](/zh/news/)
@@ -223,7 +255,7 @@ keywords: 液压榨油机厂家, 300-500系列液压榨油机, 液压榨油机, 
 建议按日产能、原料特性、自动化需求综合评估。可先查看[产品总览](/zh/products/)，再联系销售工程师获取定制选型建议。
 
 ### 除主机外是否提供整线配套？
-提供。我们可提供预处理、后处理、过滤、灌装等配套设备与整线方案。可查看[配套设备](/zh/products/supporting)与[灌装配套方案](/zh/solutions/filling-packages)。
+提供。我们可提供预处理、过滤、精炼、脱蜡、灌装等配套设备与整线方案。可查看[配套设备](/zh/products/supporting)、[过滤设备](/zh/products/filtration-equipment)、[精炼与脱蜡设备](/zh/products/refining-and-dewaxing-equipment)与[灌装配套方案](/zh/solutions/filling-packages)。
 
 ## 联系我们
 

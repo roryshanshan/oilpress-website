@@ -1,3 +1,184 @@
+const zhFillingSeriesSidebarItems = [
+  {
+    text: '联体机与灌装配套总线',
+    collapsed: true,
+    items: [
+      { text: '系列总览', link: '/zh/solutions/filling-packages' },
+      { text: '冲瓶、灌装、封口三联机', link: '/zh/solutions/filling-packages/cgf-three-in-one-monoblock' },
+      { text: 'GDP36DK-10-10 联体机', link: '/zh/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock' },
+      { text: '白酒灌装二联机', link: '/zh/solutions/filling-packages/baijiu-filling-capping-monoblock' }
+    ]
+  },
+  {
+    text: '冲瓶机系列',
+    collapsed: true,
+    items: [
+      { text: '系列页', link: '/zh/solutions/bottle-washing/' },
+      { text: '回转式冲瓶机', link: '/zh/solutions/bottle-washing/rotary-bottle-washer' },
+      { text: '六轮式冲瓶机', link: '/zh/solutions/bottle-washing/six-wheel-bottle-washer' },
+      { text: '链轨式冲瓶机', link: '/zh/solutions/bottle-washing/chain-bottle-washer' },
+      { text: '间歇式冲瓶机', link: '/zh/solutions/bottle-washing/intermittent-bottle-washer' },
+      { text: '翻转式冲瓶机', link: '/zh/solutions/bottle-washing/flip-bottle-washer' }
+    ]
+  },
+  {
+    text: '灌装机系列',
+    collapsed: true,
+    items: [
+      { text: '系列页', link: '/zh/solutions/filling/' },
+      { text: '系列智能型灌装机', link: '/zh/solutions/filling/smart-filling-machine' },
+      { text: '高精度定量灌装机', link: '/zh/solutions/filling/high-precision-filling-machine' },
+      { text: '智能定量灌装机', link: '/zh/solutions/filling/intelligent-quantitative-filling-machine' },
+      { text: '回转式大桶灌装机', link: '/zh/solutions/filling/rotary-drum-filling-machine' },
+      { text: '直线式灌装机', link: '/zh/solutions/filling/linear-filling-machine' },
+      { text: '农药灌装机', link: '/zh/solutions/filling/pesticide-filling-machine' },
+      { text: '耐酸碱腐蚀灌装机', link: '/zh/solutions/filling/corrosion-resistant-filling-machine' }
+    ]
+  },
+  {
+      text: '灯检机系列',
+      collapsed: true,
+      items: [
+        { text: '系列页', link: '/zh/solutions/light-inspection/' },
+      { text: '灯检机', link: '/zh/solutions/light-inspection/light-inspection-machine' }
+      ]
+  },
+  {
+    text: '封口机系列',
+    collapsed: true,
+    items: [
+      { text: '系列页', link: '/zh/solutions/sealing/' },
+      { text: '塑防压盖机', link: '/zh/solutions/sealing/plastic-cap-pressing-machine' },
+      { text: '全自动气动压盖机', link: '/zh/solutions/sealing/pneumatic-capping-machine' },
+      { text: '全自动防盗盖封口机', link: '/zh/solutions/sealing/anti-theft-cap-sealing-machine' },
+      { text: '自动单头封口机', link: '/zh/solutions/sealing/single-head-sealing-machine' },
+      { text: '铝盖封口机', link: '/zh/solutions/sealing/aluminum-cap-sealing-machine' }
+    ]
+  },
+  {
+    text: '打塞机系列',
+    collapsed: true,
+    items: [
+      { text: '系列页', link: '/zh/solutions/corking/' },
+      { text: '全自动打塞机', link: '/zh/solutions/corking/automatic-corking-machine' },
+      { text: '半自动打塞机', link: '/zh/solutions/corking/semi-automatic-corking-machine' },
+      { text: '手动打塞机', link: '/zh/solutions/corking/manual-corking-machine' }
+    ]
+  },
+  {
+    text: '胶帽热缩机系列',
+    collapsed: true,
+    items: [
+      { text: '系列页', link: '/zh/solutions/cap-shrinking/' },
+      { text: '多头胶帽热缩机', link: '/zh/solutions/cap-shrinking/multi-head-cap-shrinking-machine' },
+      { text: '单头胶帽热缩机', link: '/zh/solutions/cap-shrinking/single-head-cap-shrinking-machine' },
+      { text: '碾帽/收缩两用机', link: '/zh/solutions/cap-shrinking/cap-rolling-shrinking-machine' }
+    ]
+  },
+  {
+    text: '吹干机系列',
+    collapsed: true,
+    items: [
+      { text: '系列页', link: '/zh/solutions/drying/' },
+      { text: '涡轮增压风刀吹干机', link: '/zh/solutions/drying/turbo-air-knife-dryer' },
+      { text: '蜘蛛手节能吹干机', link: '/zh/solutions/drying/spider-arm-bottle-dryer' }
+    ]
+  },
+  {
+    text: '贴标机系列',
+    collapsed: true,
+    items: [
+      { text: '系列页', link: '/zh/solutions/labeling/' },
+      { text: '直线式双标签全自动贴标机', link: '/zh/solutions/labeling/double-label-automatic-labeling-machine' },
+      { text: 'DF-T200型半自动圆瓶贴标机', link: '/zh/solutions/labeling/df-t200-round-bottle-labeler' },
+      { text: '全自动不干胶贴标机', link: '/zh/solutions/labeling/self-adhesive-labeling-machine' }
+    ]
+  },
+  {
+    text: '激光打码机系列',
+    collapsed: true,
+    items: [
+      { text: '系列页', link: '/zh/solutions/laser-coding/' },
+      { text: '光纤激光打标机', link: '/zh/solutions/laser-coding/fiber-laser-marking-machine' },
+      { text: 'CO2激光机', link: '/zh/solutions/laser-coding/co2-laser-marking-machine' }
+    ]
+  },
+  {
+    text: '装箱、码垛',
+    collapsed: true,
+    items: [
+      { text: '系列页', link: '/zh/solutions/packing-palletizing/' },
+      { text: '自动开箱、纸箱成型、装箱机', link: '/zh/solutions/packing-palletizing/case-erector-packing-machine' },
+      { text: '自动折盖封箱机', link: '/zh/solutions/packing-palletizing/carton-sealing-machine' },
+      { text: '机器人码垛机', link: '/zh/solutions/packing-palletizing/robot-palletizer' }
+    ]
+  },
+  {
+    text: '蔬果类前期处理设备',
+    collapsed: true,
+    items: [
+      { text: '系列页', link: '/zh/solutions/fruit-veg-processing/' },
+      { text: '提升机', link: '/zh/solutions/fruit-veg-processing/fruit-elevator' }
+    ]
+  },
+  {
+    text: '过滤机系列',
+    collapsed: true,
+    items: [
+      { text: '系列页', link: '/zh/solutions/filtering/' },
+      { text: '过滤设备总览', link: '/zh/products/filtration-equipment' },
+      { text: '气动千层滤油机', link: '/zh/products/pneumatic-filter-press' },
+      { text: '食用油后处理设备', link: '/zh/products/post-treatment' }
+    ]
+  },
+  {
+    text: '酿酒设备系列',
+    collapsed: true,
+    items: [
+      { text: '系列页', link: '/zh/solutions/brewing/' },
+      { text: '葡萄酒冲瓶灌装打塞联体机', link: '/zh/solutions/brewing/wine-rinsing-filling-corking-monoblock' },
+      { text: '灌装、打塞两联机', link: '/zh/solutions/brewing/filling-corking-monoblock' },
+      {
+        text: '低真空灌装机',
+        collapsed: true,
+        items: [
+          { text: '系列页', link: '/zh/solutions/brewing/low-vacuum-filling-machine' },
+          { text: 'GFP-12A', link: '/zh/solutions/brewing/gfp-12a-low-vacuum-filling-machine' },
+          { text: 'GFP-12B', link: '/zh/solutions/brewing/gfp-12b-low-vacuum-filling-machine' },
+          { text: 'GFP-18A', link: '/zh/solutions/brewing/gfp-18a-low-vacuum-filling-machine' },
+          { text: 'GFP-24H', link: '/zh/solutions/brewing/gfp-24h-low-vacuum-filling-machine' },
+          { text: 'GFP-30H', link: '/zh/solutions/brewing/gfp-30h-low-vacuum-filling-machine' },
+          { text: 'GFP-36H', link: '/zh/solutions/brewing/gfp-36h-low-vacuum-filling-machine' },
+          { text: 'GFP-40H', link: '/zh/solutions/brewing/gfp-40h-low-vacuum-filling-machine' },
+          { text: 'GFP-48H', link: '/zh/solutions/brewing/gfp-48h-low-vacuum-filling-machine' },
+          { text: 'GFP-60H', link: '/zh/solutions/brewing/gfp-60h-low-vacuum-filling-machine' }
+        ]
+      }
+    ]
+  },
+  {
+    text: '奶类加工设备',
+    collapsed: true,
+    items: [
+      { text: '系列页', link: '/zh/solutions/dairy-processing/' },
+      { text: '罐式巴氏杀菌加工流水线', link: '/zh/solutions/dairy-processing/pasteurization-processing-line' }
+    ]
+  }
+]
+
+const buildLowVacuumModelItems = (prefix, overviewText) => [
+  { text: overviewText, link: `${prefix}/products/filling/low-vacuum-filling-machine` },
+  { text: 'GFP-12A', link: `${prefix}/products/filling/gfp-12a-low-vacuum-filling-machine` },
+  { text: 'GFP-12B', link: `${prefix}/products/filling/gfp-12b-low-vacuum-filling-machine` },
+  { text: 'GFP-18A', link: `${prefix}/products/filling/gfp-18a-low-vacuum-filling-machine` },
+  { text: 'GFP-24H', link: `${prefix}/products/filling/gfp-24h-low-vacuum-filling-machine` },
+  { text: 'GFP-30H', link: `${prefix}/products/filling/gfp-30h-low-vacuum-filling-machine` },
+  { text: 'GFP-36H', link: `${prefix}/products/filling/gfp-36h-low-vacuum-filling-machine` },
+  { text: 'GFP-40H', link: `${prefix}/products/filling/gfp-40h-low-vacuum-filling-machine` },
+  { text: 'GFP-48H', link: `${prefix}/products/filling/gfp-48h-low-vacuum-filling-machine` },
+  { text: 'GFP-60H', link: `${prefix}/products/filling/gfp-60h-low-vacuum-filling-machine` }
+]
+
 export default {
   transformHead: ({ pageData }) => {
     const site = 'https://hydraulicoilpressing.opchn.com'
@@ -141,6 +322,47 @@ export default {
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
         name: names[slug],
+        inLanguage: isZh ? 'zh-CN' : 'en',
+        url: `${site}${route}`,
+        isPartOf: {
+          '@type': 'WebSite',
+          name: 'Shengshi Hecheng Oil Press',
+          url: `${site}/`
+        }
+      })
+    }
+
+    const productCategoryMatch = route.match(/^\/(en|zh)\/products\/(filtration-equipment|refining-and-dewaxing-equipment|filling-equipment)$/)
+    if (productCategoryMatch) {
+      const lang = productCategoryMatch[1]
+      const slug = productCategoryMatch[2]
+      const isZh = lang === 'zh'
+      const names = {
+        'filtration-equipment': isZh ? '食用油过滤设备' : 'Oil Filtration Equipment',
+        'refining-and-dewaxing-equipment': isZh ? '食用油精炼与脱蜡设备' : 'Edible Oil Refining and Dewaxing Equipment',
+        'filling-equipment': isZh ? '食用油灌装包装设备' : 'Oil Filling and Packaging Equipment'
+      }
+      pageSchemas.push({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: names[slug],
+        inLanguage: isZh ? 'zh-CN' : 'en',
+        url: `${site}${route}`,
+        isPartOf: {
+          '@type': 'WebSite',
+          name: 'Shengshi Hecheng Oil Press',
+          url: `${site}/`
+        }
+      })
+    }
+
+    const productionLinesMatch = route.match(/^\/(en|zh)\/solutions\/production-lines$/)
+    if (productionLinesMatch) {
+      const isZh = productionLinesMatch[1] === 'zh'
+      pageSchemas.push({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: isZh ? '食用油生产线总览' : 'Edible Oil Production Lines Overview',
         inLanguage: isZh ? 'zh-CN' : 'en',
         url: `${site}${route}`,
         isPartOf: {
@@ -577,6 +799,9 @@ s0.parentNode.insertBefore(s1,s0);
               { text: '426 Series', link: '/en/products/426' },
               { text: '480 Series', link: '/en/products/480' },
               { text: '500 Series', link: '/en/products/500' },
+              { text: '🧪 Oil Filtration Equipment', link: '/en/products/filtration-equipment' },
+              { text: '✨ Refining & Dewaxing Equipment', link: '/en/products/refining-and-dewaxing-equipment' },
+              { text: '📦 Filling & Packaging Equipment', link: '/en/products/filling-equipment' },
               { text: '🔧 Supporting Equipment', link: '/en/products/supporting' }
             ]
           },
@@ -585,8 +810,9 @@ s0.parentNode.insertBefore(s1,s0);
             link: '/en/solutions/',
             items: [
               { text: '📚 Solutions Overview', link: '/en/solutions/' },
+              { text: '🏭 Production Lines Overview', link: '/en/solutions/production-lines' },
               { text: '🌾 By Oil Type', link: '/en/solutions/seed-oils' },
-              { text: '🏭 Filling Supporting Solutions', link: '/en/solutions/filling' }
+              { text: '📦 Filling Packages Overview', link: '/en/solutions/filling-packages' }
             ]
           },
           { text: '⭐ Advantages', link: '/en/advantages/' },
@@ -651,6 +877,43 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
+                  text: 'Oil Filtration Equipment',
+                  collapsed: false,
+                  items: [
+                    { text: 'Overview', link: '/en/products/filtration-equipment' },
+                    { text: 'Pneumatic Filter Press', link: '/en/products/pneumatic-filter-press' },
+                    { text: 'Filtering Machine Series', link: '/en/solutions/filtering/' }
+                  ]
+                },
+                {
+                  text: 'Refining & Dewaxing Equipment',
+                  collapsed: false,
+                  items: [
+                    { text: 'Overview', link: '/en/products/refining-and-dewaxing-equipment' },
+                    { text: 'Edible Oil Refining Equipment', link: '/en/products/edible-oil-refining-equipment' }
+                  ]
+                },
+                {
+                  text: 'Filling & Packaging Equipment',
+                  collapsed: false,
+                  items: [
+                    { text: 'Overview', link: '/en/products/filling-equipment' },
+                    { text: 'Filling Packages Overview', link: '/en/solutions/filling-packages' },
+                    {
+                      text: 'Brewing Equipment Series',
+                      collapsed: true,
+                      items: [
+                        { text: 'Series Page', link: '/en/solutions/brewing/' },
+                        {
+                          text: 'Low Vacuum Filling Machine',
+                          collapsed: true,
+                          items: buildLowVacuumModelItems('/en', 'Series Page')
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
                   text: 'Supporting Equipment',
                   collapsed: false,
                   items: [
@@ -665,10 +928,8 @@ s0.parentNode.insertBefore(s1,s0);
                         { text: 'Flaxseed and Rapeseed Grinding and Stirring Integrated Machine', link: '/en/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine' },
                         { text: 'Automatic Drum Roaster', link: '/en/products/automatic-drum-roaster' },
                         { text: 'Cake Wrapping Machine', link: '/en/products/cake-wrapping-machine' },
-                        { text: 'Edible Oil Refining Equipment', link: '/en/products/edible-oil-refining-equipment' },
                         { text: 'Feeding Crushing Frying Integrated Machine', link: '/en/products/feeding-crushing-frying-integrated-machine' },
                         { text: 'Heat Conducting Oil Flat Bottom Frying Pan', link: '/en/products/heat-conducting-oil-flat-bottom-frying-pan' },
-                        { text: 'Pneumatic Filter Press', link: '/en/products/pneumatic-filter-press' },
                         { text: 'Pre-Press Machine', link: '/en/products/pre-press-machine' },
                         { text: 'Wood Fired Steamer', link: '/en/products/wood-fired-steamer' },
                         { text: 'Wood Fired Thermal Oil Flat Bottom Wok', link: '/en/products/wood-fired-thermal-oil-flat-bottom-wok' }
@@ -679,7 +940,9 @@ s0.parentNode.insertBefore(s1,s0);
                       collapsed: false,
                       items: [
                         { text: 'Overview', link: '/en/products/post-treatment' },
-                        { text: 'Cake Pulverizer', link: '/en/products/cake-pulverizer' }
+                        { text: 'Pneumatic Filter Press', link: '/en/products/pneumatic-filter-press' },
+                        { text: 'Cake Pulverizer', link: '/en/products/cake-pulverizer' },
+                        { text: 'Edible Oil Refining Equipment', link: '/en/products/edible-oil-refining-equipment' }
                       ]
                     }
                   ]
@@ -693,6 +956,7 @@ s0.parentNode.insertBefore(s1,s0);
               collapsed: false,
               items: [
                 { text: 'Solutions Overview', link: '/en/solutions/' },
+                { text: 'Production Lines Overview', link: '/en/solutions/production-lines' },
                 {
                   text: 'By Oil Type',
                   collapsed: true,
@@ -756,7 +1020,7 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
-                  text: 'Filling Supporting Solutions',
+                  text: 'Filling & Packaging Solutions',
                   collapsed: true,
                   items: [
                     { text: 'Filling Packages Overview', link: '/en/solutions/filling-packages' },
@@ -869,6 +1133,9 @@ s0.parentNode.insertBefore(s1,s0);
               { text: '426系列', link: '/zh/products/426' },
               { text: '480系列', link: '/zh/products/480' },
               { text: '500系列', link: '/zh/products/500' },
+              { text: '过滤设备', link: '/zh/products/filtration-equipment' },
+              { text: '精炼与脱蜡设备', link: '/zh/products/refining-and-dewaxing-equipment' },
+              { text: '灌装包装设备', link: '/zh/products/filling-equipment' },
               { text: '设备使用说明书', link: '/zh/products/instruction-manual' },
               { text: '客户定制款液压榨油机', link: '/zh/products/customized-hydraulic-oil-press' },
               { text: '客户订货发货视频', link: '/zh/products/customer-order-shipping-video' },
@@ -880,8 +1147,9 @@ s0.parentNode.insertBefore(s1,s0);
             link: '/zh/solutions/',
             items: [
               { text: '方案概览', link: '/zh/solutions/' },
+              { text: '生产线总览', link: '/zh/solutions/production-lines' },
               { text: '按油料类型', link: '/zh/solutions/seed-oils' },
-              { text: '灌装配套方案', link: '/zh/solutions/filling' }
+              { text: '灌装配套总览', link: '/zh/solutions/filling-packages' }
             ]
           },
           { text: '公司优势', link: '/zh/advantages/' },
@@ -946,6 +1214,32 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
+                  text: '过滤设备',
+                  collapsed: false,
+                  items: [
+                    { text: '概述', link: '/zh/products/filtration-equipment' },
+                    { text: '气动千层滤油机', link: '/zh/products/pneumatic-filter-press' },
+                    { text: '过滤机系列', link: '/zh/solutions/filtering/' }
+                  ]
+                },
+                {
+                  text: '精炼与脱蜡设备',
+                  collapsed: false,
+                  items: [
+                    { text: '概述', link: '/zh/products/refining-and-dewaxing-equipment' },
+                    { text: '食用油精炼设备', link: '/zh/products/edible-oil-refining-equipment' }
+                  ]
+                },
+                {
+                  text: '灌装包装设备',
+                  collapsed: false,
+                  items: [
+                    { text: '概述', link: '/zh/products/filling-equipment' },
+                    { text: '灌装配套方案概览', link: '/zh/solutions/filling-packages' },
+                    ...zhFillingSeriesSidebarItems
+                  ]
+                },
+                {
                   text: '设备使用说明书',
                   collapsed: false,
                   items: [
@@ -983,7 +1277,6 @@ s0.parentNode.insertBefore(s1,s0);
                         { text: '饼粕包饼机', link: '/zh/products/cake-wrapping-machine' },
                         { text: '上料/粉碎/炒制一体机', link: '/zh/products/feeding-crushing-frying-integrated-machine' },
                         { text: '导热油平底煎锅', link: '/zh/products/heat-conducting-oil-flat-bottom-frying-pan' },
-                        { text: '气动滤油机', link: '/zh/products/pneumatic-filter-press' },
                         { text: '预榨机', link: '/zh/products/pre-press-machine' },
                         { text: '燃木蒸锅', link: '/zh/products/wood-fired-steamer' },
                         { text: '燃木导热油平底锅', link: '/zh/products/wood-fired-thermal-oil-flat-bottom-wok' }
@@ -995,6 +1288,7 @@ s0.parentNode.insertBefore(s1,s0);
                       items: [
                         { text: '概述', link: '/zh/products/post-treatment' },
                         { text: '饼粕粉碎机', link: '/zh/products/cake-pulverizer' },
+                        { text: '气动千层滤油机', link: '/zh/products/pneumatic-filter-press' },
                         { text: '食用油精炼设备', link: '/zh/products/edible-oil-refining-equipment' }
                       ]
                     }
@@ -1009,6 +1303,7 @@ s0.parentNode.insertBefore(s1,s0);
               collapsed: false,
               items: [
                 { text: '方案概览', link: '/zh/solutions/' },
+                { text: '生产线总览', link: '/zh/solutions/production-lines' },
                 {
                   text: '按油料类型',
                   collapsed: true,
@@ -1071,24 +1366,11 @@ s0.parentNode.insertBefore(s1,s0);
                     }                  ]
                 },
                 {
-                  text: '灌装配套方案',
+                  text: '灌装包装方案',
                   collapsed: true,
                   items: [
                     { text: '灌装配套方案概览', link: '/zh/solutions/filling-packages' },
-                    { text: '冲瓶机系列', link: '/zh/solutions/bottle-washing/' },
-                    { text: '灌装机系列', link: '/zh/solutions/filling/' },
-                    { text: '灯检机系列', link: '/zh/solutions/light-inspection/' },
-                    { text: '封口机系列', link: '/zh/solutions/sealing/' },
-                    { text: '打塞机系列', link: '/zh/solutions/corking/' },
-                    { text: '胶帽热缩机系列', link: '/zh/solutions/cap-shrinking/' },
-                    { text: '吹干机系列', link: '/zh/solutions/drying/' },
-                    { text: '贴标机系列', link: '/zh/solutions/labeling/' },
-                    { text: '激光打码机系列', link: '/zh/solutions/laser-coding/' },
-                    { text: '装箱、码垛', link: '/zh/solutions/packing-palletizing/' },
-                    { text: '蔬果类前期处理设备', link: '/zh/solutions/fruit-veg-processing/' },
-                    { text: '过滤机系列', link: '/zh/solutions/filtering/' },
-                    { text: '酿酒设备系列', link: '/zh/solutions/brewing/' },
-                    { text: '奶类加工设备', link: '/zh/solutions/dairy-processing/' }
+                    ...zhFillingSeriesSidebarItems
                   ]
                 }
               ]
@@ -1188,6 +1470,9 @@ s0.parentNode.insertBefore(s1,s0);
               { text: '426 Series', link: '/en/products/426' },
               { text: '480 Series', link: '/en/products/480' },
               { text: '500 Series', link: '/en/products/500' },
+              { text: 'Oil Filtration Equipment', link: '/en/products/filtration-equipment' },
+              { text: 'Refining & Dewaxing Equipment', link: '/en/products/refining-and-dewaxing-equipment' },
+              { text: 'Filling & Packaging Equipment', link: '/en/products/filling-equipment' },
               { text: 'Equipment Instruction Manual', link: '/en/products/instruction-manual' },
               { text: 'Customized Hydraulic Oil Press', link: '/en/products/customized-hydraulic-oil-press' },
               { text: 'Customer Order Shipping Video', link: '/en/products/customer-order-shipping-video' },
@@ -1199,8 +1484,9 @@ s0.parentNode.insertBefore(s1,s0);
             link: '/en/solutions/',
             items: [
               { text: 'Solutions Overview', link: '/en/solutions/' },
+              { text: 'Production Lines Overview', link: '/en/solutions/production-lines' },
               { text: 'By Oil Type', link: '/en/solutions/seed-oils' },
-              { text: 'Filling Supporting Solutions', link: '/en/solutions/filling' }
+              { text: 'Filling Packages Overview', link: '/en/solutions/filling-packages' }
             ]
           },
           { text: 'Advantages', link: '/en/advantages/' },
@@ -1265,6 +1551,31 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
+                  text: 'Oil Filtration Equipment',
+                  collapsed: false,
+                  items: [
+                    { text: 'Overview', link: '/en/products/filtration-equipment' },
+                    { text: 'Pneumatic Filter Press', link: '/en/products/pneumatic-filter-press' },
+                    { text: 'Filtering Machine Series', link: '/en/solutions/filtering/' }
+                  ]
+                },
+                {
+                  text: 'Refining & Dewaxing Equipment',
+                  collapsed: false,
+                  items: [
+                    { text: 'Overview', link: '/en/products/refining-and-dewaxing-equipment' },
+                    { text: 'Edible Oil Refining Equipment', link: '/en/products/edible-oil-refining-equipment' }
+                  ]
+                },
+                {
+                  text: 'Filling & Packaging Equipment',
+                  collapsed: false,
+                  items: [
+                    { text: 'Overview', link: '/en/products/filling-equipment' },
+                    { text: 'Filling Packages Overview', link: '/en/solutions/filling-packages' }
+                  ]
+                },
+                {
                   text: 'Equipment Instruction Manual',
                   collapsed: false,
                   items: [
@@ -1302,7 +1613,6 @@ s0.parentNode.insertBefore(s1,s0);
                         { text: 'Cake Wrapping Machine', link: '/en/products/cake-wrapping-machine' },
                         { text: 'Feeding Crushing Frying Integrated Machine', link: '/en/products/feeding-crushing-frying-integrated-machine' },
                         { text: 'Heat Conducting Oil Flat Bottom Frying Pan', link: '/en/products/heat-conducting-oil-flat-bottom-frying-pan' },
-                        { text: 'Pneumatic Filter Press', link: '/en/products/pneumatic-filter-press' },
                         { text: 'Pre-Press Machine', link: '/en/products/pre-press-machine' },
                         { text: 'Wood Fired Steamer', link: '/en/products/wood-fired-steamer' },
                         { text: 'Wood Fired Thermal Oil Flat Bottom Wok', link: '/en/products/wood-fired-thermal-oil-flat-bottom-wok' }
@@ -1328,6 +1638,7 @@ s0.parentNode.insertBefore(s1,s0);
               collapsed: false,
               items: [
                 { text: 'Solutions Overview', link: '/en/solutions/' },
+                { text: 'Production Lines Overview', link: '/en/solutions/production-lines' },
                 {
                   text: 'By Oil Type',
                   collapsed: true,
@@ -1391,9 +1702,10 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
-                  text: 'Filling supporting solution',
+                  text: 'Filling & Packaging Solutions',
                   collapsed: true,
                   items: [
+                    { text: 'Filling Packages Overview', link: '/en/solutions/filling-packages' },
                     { text: 'Bottle Washing Machine Series', link: '/en/solutions/bottle-washing/' },
                     { text: 'Filling Machine Series', link: '/en/solutions/filling/' },
                     { text: 'Light Inspection Machine Series', link: '/en/solutions/light-inspection/' },
@@ -1478,6 +1790,7 @@ s0.parentNode.insertBefore(s1,s0);
               { text: 'Серия 426', link: '/ru/products/426' },
               { text: 'Серия 480', link: '/ru/products/480' },
               { text: 'Серия 500', link: '/ru/products/500' },
+              { text: 'Оборудование для розлива и упаковки', link: '/ru/products/filling-equipment' },
               { text: 'Руководство по Эксплуатации Оборудования', link: '/ru/products/instruction-manual' },
               { text: 'Гидравлический маслопресс на заказ', link: '/ru/products/customized-hydraulic-oil-press' },
               { text: 'Видео заказа и отгрузки клиента', link: '/ru/products/customer-order-shipping-video' },
@@ -1552,6 +1865,26 @@ s0.parentNode.insertBefore(s1,s0);
                   collapsed: true,
                   items: [
                     { text: 'Обзор серии', link: '/ru/products/500' }
+                  ]
+                },
+                {
+                  text: 'Оборудование для розлива и упаковки',
+                  collapsed: false,
+                  items: [
+                    { text: 'Обзор', link: '/ru/products/filling-equipment' },
+                    { text: 'Обзор решений по фасовке', link: '/ru/solutions/filling-packages' },
+                    {
+                      text: 'Серия оборудования для пивоварения',
+                      collapsed: true,
+                      items: [
+                        { text: 'Страница серии', link: '/ru/solutions/brewing/' },
+                        {
+                          text: 'Низковакуумная машина розлива',
+                          collapsed: true,
+                          items: buildLowVacuumModelItems('/ru', 'Страница серии')
+                        }
+                      ]
+                    }
                   ]
                 },
                 {
@@ -1797,6 +2130,7 @@ s0.parentNode.insertBefore(s1,s0);
               { text: 'Série 426', link: '/fr/products/426' },
               { text: 'Série 480', link: '/fr/products/480' },
               { text: 'Série 500', link: '/fr/products/500' },
+              { text: 'Équipements de remplissage et d\'emballage', link: '/fr/products/filling-equipment' },
               { text: 'Manuel d\'Instructions de l\'Équipement', link: '/fr/products/instruction-manual' },
               { text: 'Presse hydraulique sur mesure', link: '/fr/products/customized-hydraulic-oil-press' },
               { text: 'Vidéo d\'expédition de commande client', link: '/fr/products/customer-order-shipping-video' },
@@ -1871,6 +2205,26 @@ s0.parentNode.insertBefore(s1,s0);
                   collapsed: true,
                   items: [
                     { text: 'Aperçu de la série', link: '/fr/products/500' }
+                  ]
+                },
+                {
+                  text: 'Équipements de remplissage et d\'emballage',
+                  collapsed: false,
+                  items: [
+                    { text: 'Aperçu', link: '/fr/products/filling-equipment' },
+                    { text: 'Aperçu des solutions de remplissage', link: '/fr/solutions/filling-packages' },
+                    {
+                      text: 'Série d\'équipements de brassage',
+                      collapsed: true,
+                      items: [
+                        { text: 'Page série', link: '/fr/solutions/brewing/' },
+                        {
+                          text: 'Machine de remplissage sous faible vide',
+                          collapsed: true,
+                          items: buildLowVacuumModelItems('/fr', 'Page série')
+                        }
+                      ]
+                    }
                   ]
                 },
                 {
@@ -2169,6 +2523,26 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
+                  text: 'Thiết bị chiết rót và đóng gói',
+                  collapsed: false,
+                  items: [
+                    { text: 'Tổng quan', link: '/vi/products/filling-equipment' },
+                    { text: 'Giải pháp bao bì lắp đặt toàn diện', link: '/vi/solutions/filling-packages' },
+                    {
+                      text: 'Dòng thiết bị brewing',
+                      collapsed: true,
+                      items: [
+                        { text: 'Trang series', link: '/vi/solutions/brewing/' },
+                        {
+                          text: 'Máy chiết rót chân không thấp',
+                          collapsed: true,
+                          items: buildLowVacuumModelItems('/vi', 'Trang series')
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
                   text: 'Thiết bị hỗ trợ',
                   collapsed: false,
                   items: [
@@ -2321,6 +2695,7 @@ s0.parentNode.insertBefore(s1,s0);
               { text: '৪২৬ সিরিজ', link: '/bn/products/426' },
               { text: '৪৮০ সিরিজ', link: '/bn/products/480' },
               { text: '৫০০ সিরিজ', link: '/bn/products/500' },
+              { text: 'ফিলিং ও প্যাকেজিং যন্ত্রপাতি', link: '/bn/products/filling-equipment' },
               { text: 'যন্ত্রপাতি ব্যবহারের নির্দেশিকা', link: '/bn/products/instruction-manual' },
               { text: 'কাস্টমাইজড হাইড্রোলিক অয়েল প্রেস', link: '/bn/products/customized-hydraulic-oil-press' },
               { text: 'গ্রাহক অর্ডার শিপিং ভিডিও', link: '/bn/products/customer-order-shipping-video' },
@@ -2395,6 +2770,26 @@ s0.parentNode.insertBefore(s1,s0);
                   collapsed: true,
                   items: [
                     { text: 'সিরিজ ওভারভিউ', link: '/bn/products/500' }
+                  ]
+                },
+                {
+                  text: 'ফিলিং ও প্যাকেজিং যন্ত্রপাতি',
+                  collapsed: false,
+                  items: [
+                    { text: 'ওভারভিউ', link: '/bn/products/filling-equipment' },
+                    { text: 'বোতলজাতকরণ সাপোর্টিং সলিউশন ওভারভিউ', link: '/bn/solutions/filling-packages' },
+                    {
+                      text: 'ব্রুইং যন্ত্রপাতি সিরিজ',
+                      collapsed: true,
+                      items: [
+                        { text: 'সিরিজ পৃষ্ঠা', link: '/bn/solutions/brewing/' },
+                        {
+                          text: 'লো ভ্যাকুয়াম ফিলিং মেশিন',
+                          collapsed: true,
+                          items: buildLowVacuumModelItems('/bn', 'সিরিজ পৃষ্ঠা')
+                        }
+                      ]
+                    }
                   ]
                 },
                 {
