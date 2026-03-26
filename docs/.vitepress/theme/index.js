@@ -1,8 +1,6 @@
 import DefaultTheme from 'vitepress/theme'
-import { h } from 'vue'
+import Layout from './layout.vue'
 import './custom.css'
-import BackToTop from './components/BackToTop.vue'
-import FloatingWhatsApp from './components/FloatingWhatsApp.vue'
 
 // 预加载关键资源
 if (typeof window !== 'undefined') {
@@ -22,10 +20,6 @@ if (typeof window !== 'undefined') {
 }
 
 export default {
-  ...DefaultTheme,
-  Layout: () => {
-    return h(DefaultTheme.Layout, null, {
-      'layout-bottom': () => h('div', null, [h(BackToTop), h(FloatingWhatsApp)])
-    })
-  }
+  extends: DefaultTheme,
+  Layout
 }

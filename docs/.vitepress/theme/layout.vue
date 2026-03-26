@@ -1,49 +1,73 @@
 <template>
   <Layout>
     <template #nav-bar-content-before>
-      <!-- 移动端语言切换按钮 - 仅在移动端显示 -->
-      <div v-if="isMobile" class="mobile-lang-switcher">
-        <div class="lang-dropdown" @click="toggleDropdown">
-          <div class="lang-icon">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M12.87 15.07l-2.54-2.51.03-.03c1.74-1.94 2.98-4.17 3.71-6.53H17V4h-7V2H8v2H1v1.99h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12zm-2.62 7l1.62-4.33L19.12 17h-3.24z"/>
-            </svg>
-          </div>
-          <!-- 下拉菜单 -->
-          <div class="lang-options" :class="{ 'show': showDropdown }">
-            <div class="lang-option" @click.stop="switchToLanguage('zh')" :class="{ 'active': currentLang === 'zh' }">
-              <span>中文</span>
-            </div>
-            <div class="lang-option" @click.stop="switchToLanguage('en')" :class="{ 'active': currentLang === 'en' }">
-              <span>English</span>
-            </div>
-            <div class="lang-option" @click.stop="switchToLanguage('bn')" :class="{ 'active': currentLang === 'bn' }">
-              <span>বাংলা</span>
-            </div>
-            <div class="lang-option" @click.stop="switchToLanguage('ru')" :class="{ 'active': currentLang === 'ru' }">
-              <span>Русский</span>
-            </div>
-            <div class="lang-option" @click.stop="switchToLanguage('fr')" :class="{ 'active': currentLang === 'fr' }">
-              <span>Français</span>
-            </div>
-            <div class="lang-option" @click.stop="switchToLanguage('vi')" :class="{ 'active': currentLang === 'vi' }">
-              <span>Tiếng Việt</span>
-            </div>
-          </div>
-        </div>
-      </div>
+      <div v-if="isMobile" class="mobile-nav-before-spacer"></div>
     </template>
     <template #nav-bar-content-after>
-      <!-- 移动端菜单按钮 -->
-      <div class="mobile-menu-button" @click.stop="toggleMobileMenu">
-        <div class="menu-icon">
-          <span></span>
-          <span></span>
-          <span></span>
+      <div v-if="isMobile" class="mobile-top-actions">
+        <div class="mobile-lang-switcher">
+          <div class="lang-dropdown">
+            <button
+              type="button"
+              class="lang-trigger-btn"
+              :aria-expanded="showDropdown ? 'true' : 'false'"
+              :aria-label="mobileLangButtonLabel"
+              @click.stop="toggleDropdown"
+            >
+              <div class="lang-icon">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M12.87 15.07l-2.54-2.51.03-.03c1.74-1.94 2.98-4.17 3.71-6.53H17V4h-7V2H8v2H1v1.99h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12zm-2.62 7l1.62-4.33L19.12 17h-3.24z"/>
+                </svg>
+              </div>
+              <div class="lang-trigger-copy">
+                <span class="lang-trigger-label">{{ mobileLangButtonLabel }}</span>
+                <span class="lang-trigger-value">{{ currentLanguageShort }}</span>
+              </div>
+              <svg class="lang-trigger-arrow" :class="{ 'open': showDropdown }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="6,9 12,15 18,9"></polyline>
+              </svg>
+            </button>
+            <div class="lang-options" :class="{ 'show': showDropdown }">
+              <button type="button" class="lang-option" @click.stop="switchToLanguage('zh')" :class="{ 'active': currentLang === 'zh' }">
+                <span>中文</span>
+              </button>
+              <button type="button" class="lang-option" @click.stop="switchToLanguage('en')" :class="{ 'active': currentLang === 'en' }">
+                <span>English</span>
+              </button>
+              <button type="button" class="lang-option" @click.stop="switchToLanguage('bn')" :class="{ 'active': currentLang === 'bn' }">
+                <span>বাংলা</span>
+              </button>
+              <button type="button" class="lang-option" @click.stop="switchToLanguage('ru')" :class="{ 'active': currentLang === 'ru' }">
+                <span>Русский</span>
+              </button>
+              <button type="button" class="lang-option" @click.stop="switchToLanguage('fr')" :class="{ 'active': currentLang === 'fr' }">
+                <span>Français</span>
+              </button>
+              <button type="button" class="lang-option" @click.stop="switchToLanguage('vi')" :class="{ 'active': currentLang === 'vi' }">
+                <span>Tiếng Việt</span>
+              </button>
+            </div>
+          </div>
         </div>
+
+        <button
+          type="button"
+          class="mobile-menu-button"
+          aria-controls="mobile-nav-dialog"
+          :aria-expanded="showMobileMenu ? 'true' : 'false'"
+          :aria-label="mobileMenuButtonLabel"
+          @click.stop="toggleMobileMenu"
+        >
+          <div class="menu-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+          <span class="mobile-menu-label">{{ mobileMenuButtonLabel }}</span>
+        </button>
       </div>
-      
-      <div class="social-icons">
+
+      <div v-else class="social-icons">
         <a href="https://wa.me/8619906365856" target="_blank" rel="noopener noreferrer" class="social-icon whatsapp-conversion" data-position="header" style="color: #25D366;">
           <svg width="20" height="20" viewBox="0 0 1024 1024" fill="currentColor">
             <path d="M511.872427 0h0.256C794.45376 0 1024.000427 229.674667 1024.000427 512s-229.589333 512-511.872 512c-104.106667 0-200.704-31.018667-281.6-84.565333L33.707093 1002.325333l63.786667-190.250666A508.245333 508.245333 0 0 1 0.000427 512C0.000427 229.674667 229.58976 0 511.872427 0zM365.39776 281.429333c-9.770667-23.338667-17.194667-24.234667-32-24.832A285.525333 285.525333 0 0 0 316.50176 256c-19.285333 0-39.424 5.632-51.626667 18.048C250.155093 289.109333 213.33376 324.266667 213.33376 396.501333c0 72.149333 52.778667 141.952 59.861333 151.722667 7.424 9.728 102.912 160 251.093334 221.226667 115.925333 47.914667 150.314667 43.477333 176.725333 37.845333 38.528-8.277333 86.826667-36.693333 98.986667-70.954667 12.16-34.346667 12.16-63.616 8.618666-69.845333-3.584-6.186667-13.354667-9.728-28.16-17.152-14.848-7.381333-86.869333-42.88-100.522666-47.616-13.354667-4.992-26.069333-3.242667-36.138667 10.965333-14.250667 19.797333-28.16 39.936-39.466667 52.053334-8.874667 9.472-23.424 10.666667-35.541333 5.632-16.298667-6.826667-61.952-22.784-118.314667-72.789334-43.562667-38.741333-73.216-86.954667-81.792-101.418666-8.618667-14.805333-0.896-23.381333 5.930667-31.36 7.381333-9.173333 14.506667-15.658667 21.930667-24.234667 7.424-8.576 11.52-13.013333 16.298666-23.082667 5.034667-9.770667 1.493333-19.84-2.090666-27.221333-3.541333-7.381333-33.194667-79.573333-45.354667-108.8z"/>
@@ -90,10 +114,22 @@
 
   <!-- 自定义移动端菜单内容 - 直接放在Layout外部 -->
   <div class="custom-mobile-menu" v-if="showMobileMenu" @click.self="toggleMobileMenu">
-    <div class="mobile-nav-content" @click.stop>
+    <div id="mobile-nav-dialog" class="mobile-nav-content" @click.stop>
       <div class="mobile-nav-header">
         <h3>{{ currentLang === 'zh' ? '菜单' : currentLang === 'ru' ? 'Меню' : currentLang === 'fr' ? 'Menu' : currentLang === 'bn' ? 'মেনু' : 'Menu' }}</h3>
         <button class="close-btn" @click.stop="toggleMobileMenu">×</button>
+      </div>
+
+      <div class="mobile-menu-languages">
+        <div class="mobile-menu-languages-title">{{ mobileLanguageSectionLabel }}</div>
+        <div class="mobile-menu-language-grid">
+          <button type="button" class="mobile-menu-language-chip" :class="{ 'active': currentLang === 'zh' }" @click="switchToLanguage('zh')">中文</button>
+          <button type="button" class="mobile-menu-language-chip" :class="{ 'active': currentLang === 'en' }" @click="switchToLanguage('en')">English</button>
+          <button type="button" class="mobile-menu-language-chip" :class="{ 'active': currentLang === 'bn' }" @click="switchToLanguage('bn')">বাংলা</button>
+          <button type="button" class="mobile-menu-language-chip" :class="{ 'active': currentLang === 'ru' }" @click="switchToLanguage('ru')">Русский</button>
+          <button type="button" class="mobile-menu-language-chip" :class="{ 'active': currentLang === 'fr' }" @click="switchToLanguage('fr')">Français</button>
+          <button type="button" class="mobile-menu-language-chip" :class="{ 'active': currentLang === 'vi' }" @click="switchToLanguage('vi')">Tiếng Việt</button>
+        </div>
       </div>
       
       <div class="mobile-nav-menu">
@@ -361,48 +397,45 @@
                 </svg>
               </div>
               <div class="mobile-nested-submenu" v-show="nestedExpandedMenus.filling">
-                <a :href="currentLang === 'zh' ? '/zh/solutions/bottle-washing/' : currentLang === 'bn' ? '/bn/solutions/bottle-washing/' : '/en/solutions/bottle-washing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '冲瓶机系列' : currentLang === 'bn' ? 'বোতল ধোয়ার মেশিন সিরিজ' : 'Bottle Washing Machine Series' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/filling/' : currentLang === 'bn' ? '/bn/solutions/filling/' : '/en/solutions/filling/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '灌装机系列' : currentLang === 'bn' ? 'ফিলিং মেশিন সিরিজ' : 'Filling Machine Series' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/light-inspection/' : currentLang === 'bn' ? '/bn/solutions/light-inspection/' : '/en/solutions/light-inspection/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '灯检机系列' : currentLang === 'bn' ? 'আলো পরীক্ষণ মেশিন সিরিজ' : 'Light Inspection Machine Series' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/sealing/' : currentLang === 'bn' ? '/bn/solutions/sealing/' : '/en/solutions/sealing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '封口机系列' : currentLang === 'bn' ? 'সিলিং মেশিন সিরিজ' : 'Sealing Machine Series' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/corking/' : currentLang === 'bn' ? '/bn/solutions/corking/' : '/en/solutions/corking/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '打塞机系列' : currentLang === 'bn' ? 'কর্কিং মেশিন সিরিজ' : 'Corking Machine Series' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/cap-shrinking/' : '/en/solutions/cap-shrinking/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '胶帽热缩机系列' : currentLang === 'bn' ? 'ক্যাপ শ্রিংকিং মেশিন সিরিজ' : 'Cap Shrinking Machine Series' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/drying/' : '/en/solutions/drying/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '吹干机系列' : currentLang === 'bn' ? 'শুকানো মেশিন সিরিজ' : 'Drying Machine Series' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/labeling/' : '/en/solutions/labeling/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '贴标机系列' : currentLang === 'bn' ? 'লেবেলিং মেশিন সিরিজ' : 'Labeling Machine Series' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/laser-coding/' : '/en/solutions/laser-coding/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '激光打码机系列' : currentLang === 'bn' ? 'লেজার কোডিং মেশিন সিরিজ' : 'Laser Coding Machine Series' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/packing-palletizing/' : '/en/solutions/packing-palletizing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '装箱、码垛' : currentLang === 'bn' ? 'প্যাকিং এবং প্যালেটাইজিং' : 'Packing and Palletizing' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/fruit-veg-processing/' : '/en/solutions/fruit-veg-processing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '蔬果类前期处理设备' : currentLang === 'bn' ? 'ফল ও সবজি প্রি-প্রসেসিং যন্ত্রপাতি' : 'Fruit and Vegetable Pre-processing Equipment' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/filtering/' : '/en/solutions/filtering/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '过滤机系列' : currentLang === 'bn' ? 'ফিল্টারিং মেশিন সিরিজ' : 'Filtering Machine Series' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/brewing/' : '/en/solutions/brewing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '酿酒设备系列' : currentLang === 'bn' ? 'ব্রুইং যন্ত্রপাতি সিরিজ' : 'Brewing Equipment Series' }}
-                </a>
-                <a :href="currentLang === 'zh' ? '/zh/solutions/dairy-processing/' : '/en/solutions/dairy-processing/'" class="mobile-nav-nestedlink" @click="closeMobileMenu">
-                  {{ currentLang === 'zh' ? '奶类加工设备' : currentLang === 'bn' ? 'দুগ্ধ প্রক্রিয়াকরণ যন্ত্রপাতি' : 'Dairy Processing Equipment' }}
-                </a>
+                <div
+                  v-for="item in fillingSupportingMenuItems"
+                  :key="item.key"
+                  class="mobile-nav-subitem"
+                >
+                  <div
+                    v-if="item.children"
+                    class="mobile-nav-nestedlink has-nested-submenu"
+                    @click="toggleNestedSubmenu(item.key)"
+                  >
+                    <span>{{ item.label }}</span>
+                    <svg class="nested-submenu-icon" :class="{ 'rotated': nestedExpandedMenus[item.key] }" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                      <polyline points="6,9 12,15 18,9"></polyline>
+                    </svg>
+                  </div>
+                  <a
+                    v-else
+                    :href="item.href"
+                    class="mobile-nav-nestedlink"
+                    @click="closeMobileMenu"
+                  >
+                    {{ item.label }}
+                  </a>
+                  <div
+                    v-if="item.children"
+                    class="mobile-nested-submenu"
+                    v-show="nestedExpandedMenus[item.key]"
+                  >
+                    <a
+                      v-for="child in item.children"
+                      :key="child.href"
+                      :href="child.href"
+                      class="mobile-nav-nestedlink"
+                      @click="closeMobileMenu"
+                    >
+                      {{ child.label }}
+                    </a>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -535,19 +568,20 @@
       </div>
     </div>
   </div>
+
+  <BackToTop />
 </template>
 
 <script setup>
 import DefaultTheme from 'vitepress/theme'
-import { useData, useRouter } from 'vitepress'
+import { useData } from 'vitepress'
 import { computed, ref, onMounted, onUnmounted } from 'vue'
 import { injectSpeedInsights } from '@vercel/speed-insights'
 import { inject } from '@vercel/analytics'
+import BackToTop from './components/BackToTop.vue'
 
 const { Layout } = DefaultTheme
 const { frontmatter, site, page } = useData()
-const router = useRouter()
-
 // 下拉菜单状态
 const showDropdown = ref(false)
 // 移动端菜单状态 - 确保初始状态为 false
@@ -578,7 +612,8 @@ const nestedExpandedMenus = ref({
   supporting: false,
   'pre-treatment': false,
   'post-treatment': false,
-  filling: false
+  filling: false,
+  'filling-machines': false
 })
 
 // 微信二维码显示状态
@@ -602,6 +637,142 @@ const currentLang = computed(() => {
   return 'en'
 })
 
+const currentLanguageShort = computed(() => {
+  const labels = {
+    zh: '中文',
+    en: 'EN',
+    bn: 'BN',
+    ru: 'RU',
+    fr: 'FR',
+    vi: 'VI'
+  }
+
+  return labels[currentLang.value] || 'EN'
+})
+
+const mobileLangButtonLabel = computed(() => {
+  return currentLang.value === 'zh' ? '语言' : 'Lang'
+})
+
+const mobileMenuButtonLabel = computed(() => {
+  return currentLang.value === 'zh' ? '菜单' : 'Menu'
+})
+
+const mobileLanguageSectionLabel = computed(() => {
+  return currentLang.value === 'zh' ? '快速切换语言' : 'Language'
+})
+
+const localizedPath = (path) => {
+  const normalizedPath = path.startsWith('/') ? path : `/${path}`
+  return currentLang.value === 'en' ? `/en${normalizedPath}` : `/${currentLang.value}${normalizedPath}`
+}
+
+const fillingSupportingMenuItems = computed(() => {
+  const zh = currentLang.value === 'zh'
+  const item = (key, zhLabel, enLabel, path, children = null) => ({
+    key,
+    label: zh ? zhLabel : enLabel,
+    href: localizedPath(path),
+    children: children
+      ? children.map(([childZh, childEn, childPath]) => ({
+          label: zh ? childZh : childEn,
+          href: localizedPath(childPath)
+        }))
+      : null
+  })
+
+  return [
+    item('bottle-washing-series', '冲瓶机系列', 'Bottle Washing Machine Series', '/solutions/bottle-washing/', [
+      ['冲瓶机系列概览', 'Bottle Washing Overview', '/solutions/bottle-washing/'],
+      ['回转式冲瓶机', 'Rotary Bottle Washer', '/solutions/bottle-washing/rotary-bottle-washer'],
+      ['六轮式冲瓶机', 'Six-Wheel Bottle Washer', '/solutions/bottle-washing/six-wheel-bottle-washer'],
+      ['链轨式冲瓶机', 'Chain Bottle Washer', '/solutions/bottle-washing/chain-bottle-washer'],
+      ['间歇式冲瓶机', 'Intermittent Bottle Washer', '/solutions/bottle-washing/intermittent-bottle-washer'],
+      ['翻转式冲瓶机', 'Flip Bottle Washer', '/solutions/bottle-washing/flip-bottle-washer']
+    ]),
+    item('filling-machines', '灌装机系列', 'Filling Machine Series', '/solutions/filling/', [
+      ['灌装机系列概览', 'Filling Machine Series Overview', '/solutions/filling/'],
+      ['系列智能型灌装机', 'Series Intelligent Filling Machine', '/solutions/filling/smart-filling-machine'],
+      ['高精度定量灌装机', 'High-Precision Quantitative Filling Machine', '/solutions/filling/high-precision-filling-machine'],
+      ['智能定量灌装机', 'Intelligent Quantitative Filling Machine', '/solutions/filling/intelligent-quantitative-filling-machine'],
+      ['回转式大桶灌装机', 'Rotary Drum Filling Machine', '/solutions/filling/rotary-drum-filling-machine'],
+      ['直线式灌装机', 'Linear Filling Machine', '/solutions/filling/linear-filling-machine'],
+      ['农药灌装机', 'Pesticide Filling Machine', '/solutions/filling/pesticide-filling-machine'],
+      ['耐酸碱腐蚀灌装机', 'Corrosion-Resistant Filling Machine', '/solutions/filling/corrosion-resistant-filling-machine']
+    ]),
+    item('light-inspection-series', '灯检机系列', 'Light Inspection Machine Series', '/solutions/light-inspection/', [
+      ['灯检机系列概览', 'Light Inspection Overview', '/solutions/light-inspection/'],
+      ['灯检机', 'Light Inspection Machine', '/solutions/light-inspection/light-inspection-machine']
+    ]),
+    item('sealing-series', '封口机系列', 'Sealing Machine Series', '/solutions/sealing/', [
+      ['封口机系列概览', 'Sealing Overview', '/solutions/sealing/'],
+      ['铝盖封口机', 'Aluminum Cap Sealing Machine', '/solutions/sealing/aluminum-cap-sealing-machine'],
+      ['防盗盖封口机', 'Anti-Theft Cap Sealing Machine', '/solutions/sealing/anti-theft-cap-sealing-machine'],
+      ['塑盖压盖机', 'Plastic Cap Pressing Machine', '/solutions/sealing/plastic-cap-pressing-machine'],
+      ['气动旋盖机', 'Pneumatic Capping Machine', '/solutions/sealing/pneumatic-capping-machine'],
+      ['单头封口机', 'Single-Head Sealing Machine', '/solutions/sealing/single-head-sealing-machine']
+    ]),
+    item('corking-series', '打塞机系列', 'Corking Machine Series', '/solutions/corking/', [
+      ['打塞机系列概览', 'Corking Overview', '/solutions/corking/'],
+      ['全自动打塞机', 'Automatic Corking Machine', '/solutions/corking/automatic-corking-machine'],
+      ['半自动打塞机', 'Semi-Automatic Corking Machine', '/solutions/corking/semi-automatic-corking-machine'],
+      ['手动打塞机', 'Manual Corking Machine', '/solutions/corking/manual-corking-machine']
+    ]),
+    item('cap-shrinking-series', '胶帽热缩机系列', 'Cap Shrinking Machine Series', '/solutions/cap-shrinking/', [
+      ['胶帽热缩机系列概览', 'Cap Shrinking Overview', '/solutions/cap-shrinking/'],
+      ['滚盖热缩一体机', 'Cap Rolling Shrinking Machine', '/solutions/cap-shrinking/cap-rolling-shrinking-machine'],
+      ['多头胶帽热缩机', 'Multi-Head Cap Shrinking Machine', '/solutions/cap-shrinking/multi-head-cap-shrinking-machine'],
+      ['单头胶帽热缩机', 'Single-Head Cap Shrinking Machine', '/solutions/cap-shrinking/single-head-cap-shrinking-machine']
+    ]),
+    item('drying-series', '吹干机系列', 'Drying Machine Series', '/solutions/drying/', [
+      ['吹干机系列概览', 'Drying Overview', '/solutions/drying/'],
+      ['蜘蛛手节能吹干机', 'Spider Arm Bottle Dryer', '/solutions/drying/spider-arm-bottle-dryer'],
+      ['涡轮风刀吹干机', 'Turbo Air Knife Dryer', '/solutions/drying/turbo-air-knife-dryer']
+    ]),
+    item('labeling-series', '贴标机系列', 'Labeling Machine Series', '/solutions/labeling/', [
+      ['贴标机系列概览', 'Labeling Overview', '/solutions/labeling/'],
+      ['DF-T200圆瓶贴标机', 'DF-T200 Round Bottle Labeler', '/solutions/labeling/df-t200-round-bottle-labeler'],
+      ['双标全自动贴标机', 'Double-Label Automatic Labeling Machine', '/solutions/labeling/double-label-automatic-labeling-machine'],
+      ['自粘贴标机', 'Self-Adhesive Labeling Machine', '/solutions/labeling/self-adhesive-labeling-machine']
+    ]),
+    item('laser-coding-series', '激光打码机系列', 'Laser Coding Machine Series', '/solutions/laser-coding/', [
+      ['激光打码机系列概览', 'Laser Coding Overview', '/solutions/laser-coding/'],
+      ['CO2激光打码机', 'CO2 Laser Marking Machine', '/solutions/laser-coding/co2-laser-marking-machine'],
+      ['光纤激光打码机', 'Fiber Laser Marking Machine', '/solutions/laser-coding/fiber-laser-marking-machine']
+    ]),
+    item('packing-palletizing-series', '装箱、码垛', 'Packing and Palletizing', '/solutions/packing-palletizing/', [
+      ['装箱、码垛概览', 'Packing and Palletizing Overview', '/solutions/packing-palletizing/'],
+      ['自动折盖封箱机', 'Carton Sealing Machine', '/solutions/packing-palletizing/carton-sealing-machine'],
+      ['开箱装箱一体机', 'Case Erector Packing Machine', '/solutions/packing-palletizing/case-erector-packing-machine'],
+      ['机器人码垛机', 'Robot Palletizer', '/solutions/packing-palletizing/robot-palletizer']
+    ]),
+    item('fruit-veg-processing-series', '蔬果类前期处理设备', 'Fruit and Vegetable Pre-processing Equipment', '/solutions/fruit-veg-processing/', [
+      ['蔬果类前期处理概览', 'Fruit and Vegetable Pre-processing Overview', '/solutions/fruit-veg-processing/'],
+      ['果蔬提升机', 'Fruit Elevator', '/solutions/fruit-veg-processing/fruit-elevator']
+    ]),
+    item('filtering-series', '过滤机系列', 'Filtering Machine Series', '/solutions/filtering/'),
+    item('brewing-series', '酿酒设备系列', 'Brewing Equipment Series', '/solutions/brewing/', [
+      ['酿酒设备系列概览', 'Brewing Equipment Overview', '/solutions/brewing/'],
+      ['低真空灌装机', 'Low Vacuum Filling Machine', '/solutions/brewing/low-vacuum-filling-machine'],
+      ['GFP-12A低真空灌装机', 'GFP-12A Low Vacuum Filling Machine', '/solutions/brewing/gfp-12a-low-vacuum-filling-machine'],
+      ['GFP-12B低真空灌装机', 'GFP-12B Low Vacuum Filling Machine', '/solutions/brewing/gfp-12b-low-vacuum-filling-machine'],
+      ['GFP-18A低真空灌装机', 'GFP-18A Low Vacuum Filling Machine', '/solutions/brewing/gfp-18a-low-vacuum-filling-machine'],
+      ['GFP-24H低真空灌装机', 'GFP-24H Low Vacuum Filling Machine', '/solutions/brewing/gfp-24h-low-vacuum-filling-machine'],
+      ['GFP-30H低真空灌装机', 'GFP-30H Low Vacuum Filling Machine', '/solutions/brewing/gfp-30h-low-vacuum-filling-machine'],
+      ['GFP-36H低真空灌装机', 'GFP-36H Low Vacuum Filling Machine', '/solutions/brewing/gfp-36h-low-vacuum-filling-machine'],
+      ['GFP-40H低真空灌装机', 'GFP-40H Low Vacuum Filling Machine', '/solutions/brewing/gfp-40h-low-vacuum-filling-machine'],
+      ['GFP-48H低真空灌装机', 'GFP-48H Low Vacuum Filling Machine', '/solutions/brewing/gfp-48h-low-vacuum-filling-machine'],
+      ['GFP-60H低真空灌装机', 'GFP-60H Low Vacuum Filling Machine', '/solutions/brewing/gfp-60h-low-vacuum-filling-machine'],
+      ['灌装打塞一体机', 'Filling Corking Monoblock', '/solutions/brewing/filling-corking-monoblock'],
+      ['冲洗灌装打塞三合一', 'Wine Rinsing Filling Corking Monoblock', '/solutions/brewing/wine-rinsing-filling-corking-monoblock']
+    ]),
+    item('dairy-processing-series', '奶类加工设备', 'Dairy Processing Equipment', '/solutions/dairy-processing/', [
+      ['奶类加工设备概览', 'Dairy Processing Overview', '/solutions/dairy-processing/'],
+      ['巴氏杀菌生产线', 'Pasteurization Processing Line', '/solutions/dairy-processing/pasteurization-processing-line']
+    ])
+  ]
+})
+
 // 检测是否为移动端
 const isMobile = ref(false)
 
@@ -613,13 +784,13 @@ const updateMobileState = () => {
 }
 
 // 切换下拉菜单显示
-const toggleDropdown = (event) => {
-  event.stopPropagation()
+const toggleDropdown = () => {
   showDropdown.value = !showDropdown.value
 }
 
 // 切换移动端菜单
 const toggleMobileMenu = () => {
+  showDropdown.value = false
   showMobileMenu.value = !showMobileMenu.value
 }
 
@@ -650,6 +821,7 @@ const toggleMobileWechatQR = () => {
 // 切换到指定语言 - 修复核心问题
 const switchToLanguage = (lang) => {
   showDropdown.value = false
+  showMobileMenu.value = false
 
   // 使用 VitePress 的相对路径，移除 .md 扩展名
   const currentPath = page.value.relativePath.replace(/\.md$/, '')
@@ -699,9 +871,14 @@ const switchToLanguage = (lang) => {
     targetPath = contentPath === '' ? `/${lang}/` : `/${lang}/${contentPath}/`
   }
 
-  // 使用VitePress路由进行导航
-  if (targetPath && targetPath !== `/${currentPath}/`) {
-    router.push(targetPath)
+  const normalizePath = (value) => value.replace(/\/+$/, '') || '/'
+  const currentBrowserPath = typeof window !== 'undefined'
+    ? normalizePath(window.location.pathname)
+    : normalizePath(`/${currentPath}`)
+  const normalizedTargetPath = normalizePath(targetPath)
+
+  if (targetPath && currentBrowserPath !== normalizedTargetPath && typeof window !== 'undefined') {
+    window.location.assign(targetPath)
   }
 }
 
@@ -783,6 +960,12 @@ onMounted(() => {
   .mobile-menu-button {
     display: none;
   }
+
+  .mobile-top-actions,
+  .mobile-lang-switcher,
+  .mobile-nav-before-spacer {
+    display: none;
+  }
   
   /* 自定义移动端菜单样式 */
   .custom-mobile-menu {
@@ -848,6 +1031,55 @@ onMounted(() => {
     letter-spacing: 0.5px;
     z-index: 10;
     position: relative;
+  }
+
+  .mobile-menu-languages {
+    padding: 16px 20px 12px;
+    background: linear-gradient(180deg, rgba(231, 76, 60, 0.06) 0%, rgba(231, 76, 60, 0.02) 100%);
+    border-bottom: 1px solid rgba(231, 76, 60, 0.1);
+  }
+
+  .mobile-menu-languages-title {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--vp-c-brand);
+    margin-bottom: 10px;
+  }
+
+  .mobile-menu-language-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .mobile-menu-language-chip {
+    appearance: none;
+    border: 1px solid rgba(231, 76, 60, 0.2);
+    background: #fff;
+    color: var(--vp-c-text-2);
+    border-radius: 999px;
+    padding: 8px 12px;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .mobile-menu-language-chip:hover,
+  .mobile-menu-language-chip:active {
+    border-color: var(--vp-c-brand);
+    color: var(--vp-c-brand);
+    background: rgba(231, 76, 60, 0.06);
+  }
+
+  .mobile-menu-language-chip.active {
+    background: var(--vp-c-brand);
+    color: #fff;
+    border-color: var(--vp-c-brand);
+    box-shadow: 0 8px 18px rgba(231, 76, 60, 0.2);
   }
   
   .close-btn {
@@ -984,6 +1216,20 @@ onMounted(() => {
   }
 
   .mobile-nav-sublink.has-nested-submenu:hover {
+    background: rgba(231, 76, 60, 0.04);
+    color: var(--vp-c-brand);
+  }
+
+  .mobile-nav-nestedlink.has-nested-submenu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    font-weight: 500;
+    color: var(--vp-c-text-1);
+  }
+
+  .mobile-nav-nestedlink.has-nested-submenu:hover {
     background: rgba(231, 76, 60, 0.04);
     color: var(--vp-c-brand);
   }
@@ -1145,7 +1391,7 @@ onMounted(() => {
   font-weight: 500;
 }
 
-@media (max-width: 768px) {
+  @media (max-width: 768px) {
   /* 确保导航栏使用flex布局 */
   .VPNavBar .content {
     display: flex !important;
@@ -1160,49 +1406,61 @@ onMounted(() => {
     min-width: 0;
   }
 
+  .mobile-top-actions {
+    display: flex !important;
+    align-items: center;
+    gap: 6px;
+    margin-left: auto;
+    flex-shrink: 0;
+    max-width: calc(100vw - 116px);
+    min-width: 0;
+  }
+
   .mobile-lang-switcher {
     display: flex !important;
     align-items: center;
-    margin-right: 8px;
     position: relative;
-    order: 1;
     flex-shrink: 0;
+    min-width: 0;
   }
 
   .mobile-menu-button {
     display: flex !important;
     align-items: center;
-    margin-left: 8px;
+    gap: 6px;
     cursor: pointer;
-    padding: 8px;
-    border-radius: 6px;
-    background: rgba(231, 76, 60, 0.1);
+    min-height: 38px;
+    padding: 7px 10px;
+    border-radius: 999px;
+    background: rgba(231, 76, 60, 0.12);
     border: 1px solid var(--vp-c-brand);
+    box-shadow: 0 4px 12px rgba(231, 76, 60, 0.14);
     transition: all 0.3s ease;
     touch-action: manipulation;
     -webkit-tap-highlight-color: transparent;
-    order: 3;
     flex-shrink: 0;
+    appearance: none;
   }
   
   .mobile-menu-button:hover,
   .mobile-menu-button:active {
     background: var(--vp-c-brand);
-    transform: scale(1.05);
+    transform: translateY(-1px);
   }
   
   .menu-icon {
-    width: 24px;
-    height: 18px;
+    width: 16px;
+    height: 12px;
     position: relative;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    flex-shrink: 0;
   }
   
   .menu-icon span {
     display: block;
-    height: 3px;
+    height: 2px;
     width: 100%;
     background: var(--vp-c-brand);
     border-radius: 2px;
@@ -1213,28 +1471,50 @@ onMounted(() => {
   .mobile-menu-button:active .menu-icon span {
     background: white;
   }
+
+  .mobile-menu-label {
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1;
+    color: var(--vp-c-brand);
+    white-space: nowrap;
+    transition: color 0.3s ease;
+  }
+
+  .mobile-menu-button:hover .mobile-menu-label,
+  .mobile-menu-button:active .mobile-menu-label {
+    color: #fff;
+  }
   
   .lang-dropdown {
     position: relative;
+    min-width: 0;
+  }
+
+  .lang-trigger-btn {
     display: flex;
     align-items: center;
-    justify-content: center;
-    width: 44px;
-    height: 44px;
-    background: rgba(231, 76, 60, 0.1);
-    border: 2px solid var(--vp-c-brand);
-    border-radius: 50%;
+    gap: 6px;
+    min-height: 38px;
+    padding: 7px 10px;
+    background: rgba(231, 76, 60, 0.12);
+    border: 1px solid var(--vp-c-brand);
+    border-radius: 999px;
+    box-shadow: 0 4px 12px rgba(231, 76, 60, 0.14);
     cursor: pointer;
     transition: all 0.3s ease;
     touch-action: manipulation;
     -webkit-tap-highlight-color: transparent;
+    appearance: none;
+    max-width: 92px;
+    min-width: 0;
   }
-  
-  .lang-dropdown:hover,
-  .lang-dropdown:active {
+
+  .lang-trigger-btn:hover,
+  .lang-trigger-btn:active {
     background: var(--vp-c-brand);
     color: white;
-    transform: scale(1.05);
+    transform: translateY(-1px);
     box-shadow: 0 2px 8px rgba(231, 76, 60, 0.3);
   }
   
@@ -1242,50 +1522,90 @@ onMounted(() => {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 20px;
-    height: 20px;
+    width: 18px;
+    height: 18px;
+    flex-shrink: 0;
   }
   
   .lang-icon svg {
-    width: 18px;
-    height: 18px;
+    width: 16px;
+    height: 16px;
     color: var(--vp-c-brand);
     transition: color 0.3s ease;
   }
   
-  .lang-dropdown:hover .lang-icon svg,
-  .lang-dropdown:active .lang-icon svg {
+  .lang-trigger-btn:hover .lang-icon svg,
+  .lang-trigger-btn:active .lang-icon svg {
     color: white;
   }
-  
+
+  .lang-trigger-copy {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1px;
+    line-height: 1.05;
+    min-width: 0;
+  }
+
+  .lang-trigger-label {
+    display: none;
+  }
+
+  .lang-trigger-value {
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--vp-c-text-1);
+    white-space: nowrap;
+  }
+
+  .lang-trigger-arrow {
+    color: var(--vp-c-brand);
+    transition: transform 0.3s ease, color 0.3s ease;
+    flex-shrink: 0;
+  }
+
+  .lang-trigger-arrow.open {
+    transform: rotate(180deg);
+  }
+
+  .lang-trigger-btn:hover .lang-trigger-label,
+  .lang-trigger-btn:hover .lang-trigger-value,
+  .lang-trigger-btn:hover .lang-trigger-arrow,
+  .lang-trigger-btn:active .lang-trigger-label,
+  .lang-trigger-btn:active .lang-trigger-value,
+  .lang-trigger-btn:active .lang-trigger-arrow {
+    color: #fff;
+  }
+
   /* 下拉菜单样式 */
   .lang-options {
     position: absolute;
-    top: 48px;
-    left: 50%;
-    transform: translateX(-50%);
+    top: calc(100% + 8px);
+    right: 0;
     background: white;
     border: 2px solid var(--vp-c-brand);
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-    min-width: 100px;
+    border-radius: 12px;
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.16);
+    min-width: 120px;
     opacity: 0;
     visibility: hidden;
+    transform: translateY(-6px);
     transition: all 0.3s ease;
-    z-index: 1000;
+    z-index: 1002;
   }
   
   .lang-options.show {
     opacity: 1;
     visibility: visible;
+    transform: translateY(0);
   }
   
   .lang-options::before {
     content: '';
     position: absolute;
     top: -6px;
-    left: 50%;
-    transform: translateX(-50%);
+    right: 18px;
     width: 0;
     height: 0;
     border-left: 6px solid transparent;
@@ -1294,14 +1614,19 @@ onMounted(() => {
   }
   
   .lang-option {
-    padding: 8px 16px;
+    display: block;
+    width: 100%;
+    border: none;
+    background: transparent;
+    appearance: none;
+    padding: 11px 14px;
     cursor: pointer;
     transition: all 0.3s ease;
     border-bottom: 1px solid rgba(231, 76, 60, 0.1);
     color: #333;
     font-size: 14px;
     font-weight: 500;
-    text-align: center;
+    text-align: left;
     min-width: 60px;
   }
   
@@ -1336,7 +1661,11 @@ onMounted(() => {
   .mobile-nav-header {
     padding: 16px 20px;
   }
-  
+
+  .mobile-menu-languages {
+    padding: 14px 16px 10px;
+  }
+
   .mobile-nav-menu {
     max-height: calc(50vh);
     overflow-y: auto;

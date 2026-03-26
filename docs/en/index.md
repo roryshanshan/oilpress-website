@@ -101,33 +101,6 @@ keywords: hydraulic oil press manufacturer, edible oil production line, oil filt
   </div>
 </div>
 
-## Equipment & Line Hubs
-
-These hub pages make it easier to move from a single press inquiry to a complete edible oil project plan.
-
-<div class="services-section">
-  <div class="service-item">
-    <h3>Oil Filtration Equipment</h3>
-    <p>Clarify crude oil before storage, refining, or direct packaged-oil sales.</p>
-    <a href="/en/products/filtration-equipment" class="learn-more">Explore filtration solutions →</a>
-  </div>
-  <div class="service-item">
-    <h3>Refining & Dewaxing</h3>
-    <p>Improve color, stability, and low-temperature appearance for higher-end edible oils.</p>
-    <a href="/en/products/refining-and-dewaxing-equipment" class="learn-more">Explore refining systems →</a>
-  </div>
-  <div class="service-item">
-    <h3>Filling & Packaging</h3>
-    <p>Connect finished oil with bottle, pouch, and drum packaging equipment.</p>
-    <a href="/en/products/filling-equipment" class="learn-more">Explore packaging equipment →</a>
-  </div>
-  <div class="service-item">
-    <h3>Production Lines</h3>
-    <p>Review complete line layouts from pre-treatment and pressing to filling.</p>
-    <a href="/en/solutions/production-lines" class="learn-more">Explore full production lines →</a>
-  </div>
-</div>
-
 ## Product Advantages
 
 <div class="advantages-grid">
