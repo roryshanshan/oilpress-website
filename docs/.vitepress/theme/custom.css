@@ -184,6 +184,37 @@ html {
 }
 
 @media (max-width: 768px) {
+  .VPNavBarSearch,
+  .VPNavBarTranslations,
+  .VPFlyout.VPNavBarTranslations,
+  .VPNavBarMenu {
+    display: none !important;
+  }
+
+  .VPNavBarTitle {
+    flex: 1 1 auto;
+    min-width: 0;
+    max-width: min(170px, calc(100vw - 200px));
+  }
+
+  .VPNavBarTitle .title {
+    display: flex;
+    align-items: center;
+    min-width: 0;
+    gap: 8px;
+  }
+
+  .VPNavBarTitle .title span {
+    display: block;
+    min-width: 0;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 13px;
+    line-height: 1.2;
+  }
+
   .VPNavBarHamburger,
   .VPNavScreen {
     display: none !important;

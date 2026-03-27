@@ -1,3 +1,5 @@
+import { readdirSync, readFileSync } from 'node:fs'
+
 const zhFillingSeriesSidebarItems = [
   {
     text: '联体机与灌装配套总线',
@@ -179,438 +181,1325 @@ const buildLowVacuumModelItems = (prefix, overviewText) => [
   { text: 'GFP-60H', link: `${prefix}/products/filling/gfp-60h-low-vacuum-filling-machine` }
 ]
 
-export default {
-  transformHead: ({ pageData }) => {
-    const site = 'https://hydraulicoilpressing.opchn.com'
-    const rel = pageData.relativePath || 'index.md'
-    const normalized = rel.replace(/\\/g, '/').replace(/\.md$/, '')
-    let route = `/${normalized}`
+const SITE_URL = 'https://hydraulicoilpressing.opchn.com'
+const SITE_NAME = 'Shengshi Hecheng Oil Press'
+const ORGANIZATION_ID = `${SITE_URL}/#organization`
+const WEBSITE_ID = `${SITE_URL}/#website`
+const DEFAULT_IMAGE = `${SITE_URL}/images/hero-oil-press.webp`
+const DEFAULT_DESCRIPTION = 'Professional Hydraulic Oil Press Manufacturer and One-stop Oil Processing Solutions.'
+const LOCALE_CODES = { en: 'en', zh: 'zh-CN', fr: 'fr', ru: 'ru', vi: 'vi', bn: 'bn' }
+const PRODUCT_COLLECTION_SLUGS = new Set([
+  'supporting',
+  'pre-treatment',
+  'post-treatment',
+  'filtration-equipment',
+  'refining-and-dewaxing-equipment',
+  'filling-equipment'
+])
+const PRODUCT_INFO_SLUGS = new Set([
+  'instruction-manual',
+  'customer-order-shipping-video'
+])
+const OIL_SOLUTION_DETAIL_SLUGS = new Set([
+  'soybean',
+  'peanut',
+  'sesame',
+  'rapeseed',
+  'sunflower',
+  'flaxseed',
+  'tea-seed',
+  'walnut',
+  'coconut',
+  'corn-germ',
+  'almond',
+  'hazelnut',
+  'cashew',
+  'avocado',
+  'grape-seed',
+  'pumpkin-seed',
+  'perilla',
+  'palm',
+  'pistachio',
+  'apricot-kernel',
+  'peach-kernel',
+  'watermelon-seed',
+  'cottonseed',
+  'chili-seed',
+  'castor-seed',
+  'rice-bran',
+  'buckwheat'
+])
+const SOLUTION_COLLECTION_SLUGS = new Set([
+  'seed-oils',
+  'nuts',
+  'fruits',
+  'special-oils',
+  'filling-packages',
+  'production-lines',
+  'bottle-washing',
+  'filling',
+  'light-inspection',
+  'sealing',
+  'corking',
+  'cap-shrinking',
+  'drying',
+  'labeling',
+  'laser-coding',
+  'packing-palletizing',
+  'fruit-veg-processing',
+  'filtering',
+  'brewing',
+  'dairy-processing'
+])
 
-    if (route === '/index') route = '/'
-    if (route.endsWith('/index')) route = `${route.slice(0, -6)}/`
-    if (route !== '/' && route.endsWith('/')) route = route.slice(0, -1)
+const HOME_LABELS = {
+  en: 'Home',
+  zh: '首页',
+  fr: 'Accueil',
+  ru: 'Главная',
+  vi: 'Trang chủ',
+  bn: 'হোম'
+}
 
-    const canonical = `${site}${route}`
+const ROUTE_LABELS = {
+  en: {
+    products: 'Products',
+    solutions: 'Solutions',
+    news: 'News',
+    company: 'Company News',
+    industry: 'Industry News',
+    technology: 'Technical Knowledge',
+    about: 'About Us',
+    contact: 'Contact Us',
+    advantages: 'Advantages',
+    supporting: 'Supporting Equipment',
+    'pre-treatment': 'Pre-treatment Equipment',
+    'post-treatment': 'Post-treatment Equipment',
+    'filtration-equipment': 'Oil Filtration Equipment',
+    'refining-and-dewaxing-equipment': 'Refining & Dewaxing Equipment',
+    'filling-equipment': 'Filling & Packaging Equipment',
+    'hydraulic-oil-press': 'Hydraulic Oil Press',
+    'seed-oils': 'Seed Oil Solutions',
+    nuts: 'Nut Oil Solutions',
+    fruits: 'Fruit Oil Solutions',
+    'special-oils': 'Special Oil Solutions',
+    'filling-packages': 'Filling Packages',
+    'production-lines': 'Production Lines',
+    'bottle-washing': 'Bottle Washing Machine Series',
+    filling: 'Filling Machine Series',
+    'light-inspection': 'Light Inspection Series',
+    sealing: 'Sealing Machine Series',
+    corking: 'Corking Machine Series',
+    'cap-shrinking': 'Cap Shrinking Series',
+    drying: 'Drying Machine Series',
+    labeling: 'Labeling Machine Series',
+    'laser-coding': 'Laser Coding Machine Series',
+    'packing-palletizing': 'Packing & Palletizing',
+    'fruit-veg-processing': 'Fruit & Vegetable Pre-processing',
+    filtering: 'Filtering Machine Series',
+    brewing: 'Brewing Equipment Series',
+    'dairy-processing': 'Dairy Processing Equipment'
+  },
+  zh: {
+    products: '产品',
+    solutions: '解决方案',
+    news: '新闻',
+    company: '公司动态',
+    industry: '行业资讯',
+    technology: '技术知识',
+    about: '关于我们',
+    contact: '联系我们',
+    advantages: '优势',
+    supporting: '配套设备',
+    'pre-treatment': '预处理设备',
+    'post-treatment': '后处理设备',
+    'filtration-equipment': '过滤设备',
+    'refining-and-dewaxing-equipment': '精炼与脱蜡设备',
+    'filling-equipment': '灌装包装设备',
+    'hydraulic-oil-press': '液压榨油机',
+    'seed-oils': '粮油类解决方案',
+    nuts: '坚果油解决方案',
+    fruits: '果实油解决方案',
+    'special-oils': '特种油解决方案',
+    'filling-packages': '灌装配套方案',
+    'production-lines': '生产线总览',
+    'bottle-washing': '冲瓶机系列',
+    filling: '灌装机系列',
+    'light-inspection': '灯检机系列',
+    sealing: '封口机系列',
+    corking: '打塞机系列',
+    'cap-shrinking': '胶帽热缩机系列',
+    drying: '吹干机系列',
+    labeling: '贴标机系列',
+    'laser-coding': '激光打码机系列',
+    'packing-palletizing': '装箱与码垛',
+    'fruit-veg-processing': '蔬果前处理设备',
+    filtering: '过滤机系列',
+    brewing: '酿酒设备系列',
+    'dairy-processing': '奶类加工设备'
+  },
+  fr: {
+    products: 'Produits',
+    solutions: 'Solutions',
+    news: 'Actualités',
+    company: 'Actualités de l’entreprise',
+    industry: 'Actualités de l’industrie',
+    technology: 'Connaissances techniques',
+    about: 'À propos',
+    contact: 'Contact',
+    advantages: 'Avantages',
+    supporting: 'Équipements complémentaires',
+    'pre-treatment': 'Équipements de prétraitement',
+    'post-treatment': 'Équipements de post-traitement',
+    'filtration-equipment': 'Équipements de filtration',
+    'refining-and-dewaxing-equipment': 'Équipements de raffinage et déparaffinage',
+    'filling-equipment': 'Équipements de remplissage et d’emballage',
+    'hydraulic-oil-press': 'Presse à huile hydraulique',
+    'seed-oils': 'Solutions d’huiles de graines',
+    nuts: 'Solutions d’huiles de noix',
+    fruits: 'Solutions d’huiles de fruits',
+    'special-oils': 'Solutions d’huiles spéciales',
+    'filling-packages': 'Solutions de remplissage',
+    'production-lines': 'Lignes de production',
+    'bottle-washing': 'Série de rinçage des bouteilles',
+    filling: 'Série de remplissage',
+    'light-inspection': 'Série d’inspection lumineuse',
+    sealing: 'Série de scellage',
+    corking: 'Série de bouchage',
+    'cap-shrinking': 'Série de thermorétraction',
+    drying: 'Série de séchage',
+    labeling: 'Série d’étiquetage',
+    'laser-coding': 'Série de codage laser',
+    'packing-palletizing': 'Mise en caisse et palettisation',
+    'fruit-veg-processing': 'Prétraitement fruits et légumes',
+    filtering: 'Série de filtration',
+    brewing: 'Équipements de vinification',
+    'dairy-processing': 'Équipements laitiers'
+  },
+  ru: {
+    products: 'Продукты',
+    solutions: 'Решения',
+    news: 'Новости',
+    company: 'Новости компании',
+    industry: 'Новости отрасли',
+    technology: 'Технические знания',
+    about: 'О нас',
+    contact: 'Контакты',
+    advantages: 'Преимущества',
+    supporting: 'Вспомогательное оборудование',
+    'pre-treatment': 'Оборудование предварительной обработки',
+    'post-treatment': 'Оборудование последующей обработки',
+    'filtration-equipment': 'Фильтрационное оборудование',
+    'refining-and-dewaxing-equipment': 'Оборудование для рафинирования и депарафинизации',
+    'filling-equipment': 'Оборудование для розлива и упаковки',
+    'hydraulic-oil-press': 'Гидравлический маслопресс',
+    'seed-oils': 'Решения для зерновых и семенных масел',
+    nuts: 'Решения для ореховых масел',
+    fruits: 'Решения для фруктовых масел',
+    'special-oils': 'Решения для специальных масел',
+    'filling-packages': 'Решения для розлива',
+    'production-lines': 'Производственные линии',
+    'bottle-washing': 'Серия моек бутылок',
+    filling: 'Серия разливочных машин',
+    'light-inspection': 'Серия световых инспекционных машин',
+    sealing: 'Серия укупорочных машин',
+    corking: 'Серия машин для закупорки пробками',
+    'cap-shrinking': 'Серия термоусадочных машин для колпачков',
+    drying: 'Серия сушильных машин',
+    labeling: 'Серия этикетировочных машин',
+    'laser-coding': 'Серия лазерных маркировочных машин',
+    'packing-palletizing': 'Упаковка и паллетизация',
+    'fruit-veg-processing': 'Предварительная обработка фруктов и овощей',
+    filtering: 'Серия фильтрационных машин',
+    brewing: 'Серия оборудования для виноделия',
+    'dairy-processing': 'Оборудование для переработки молока'
+  },
+  vi: {
+    products: 'Sản phẩm',
+    solutions: 'Giải pháp',
+    news: 'Tin tức',
+    company: 'Tin công ty',
+    industry: 'Tin ngành',
+    technology: 'Kiến thức kỹ thuật',
+    about: 'Về chúng tôi',
+    contact: 'Liên hệ',
+    advantages: 'Ưu điểm',
+    supporting: 'Thiết bị hỗ trợ',
+    'pre-treatment': 'Thiết bị tiền xử lý',
+    'post-treatment': 'Thiết bị hậu xử lý',
+    'filtration-equipment': 'Thiết bị lọc dầu',
+    'refining-and-dewaxing-equipment': 'Thiết bị tinh luyện và khử sáp',
+    'filling-equipment': 'Thiết bị chiết rót và đóng gói',
+    'hydraulic-oil-press': 'Máy ép dầu thủy lực',
+    'seed-oils': 'Giải pháp dầu hạt',
+    nuts: 'Giải pháp dầu hạt cứng',
+    fruits: 'Giải pháp dầu từ quả',
+    'special-oils': 'Giải pháp dầu đặc biệt',
+    'filling-packages': 'Giải pháp chiết rót đồng bộ',
+    'production-lines': 'Dây chuyền sản xuất',
+    'bottle-washing': 'Dòng máy rửa chai',
+    filling: 'Dòng máy chiết rót',
+    'light-inspection': 'Dòng máy kiểm tra bằng đèn',
+    sealing: 'Dòng máy đóng nắp',
+    corking: 'Dòng máy đóng nút bần',
+    'cap-shrinking': 'Dòng máy co nhiệt nắp',
+    drying: 'Dòng máy sấy khô',
+    labeling: 'Dòng máy dán nhãn',
+    'laser-coding': 'Dòng máy khắc mã laser',
+    'packing-palletizing': 'Đóng thùng và xếp pallet',
+    'fruit-veg-processing': 'Thiết bị tiền xử lý rau quả',
+    filtering: 'Dòng máy lọc',
+    brewing: 'Dòng thiết bị nấu rượu',
+    'dairy-processing': 'Thiết bị chế biến sữa'
+  },
+  bn: {
+    products: 'পণ্যসমূহ',
+    solutions: 'সমাধান',
+    news: 'সংবাদ',
+    company: 'কোম্পানি সংবাদ',
+    industry: 'শিল্প সংবাদ',
+    technology: 'কারিগরি জ্ঞান',
+    about: 'আমাদের সম্পর্কে',
+    contact: 'যোগাযোগ',
+    advantages: 'সুবিধাসমূহ',
+    supporting: 'সহায়ক সরঞ্জাম',
+    'pre-treatment': 'প্রি-ট্রিটমেন্ট সরঞ্জাম',
+    'post-treatment': 'পোস্ট-ট্রিটমেন্ট সরঞ্জাম',
+    'filtration-equipment': 'ফিল্ট্রেশন সরঞ্জাম',
+    'refining-and-dewaxing-equipment': 'রিফাইনিং ও ডিওয়াক্সিং সরঞ্জাম',
+    'filling-equipment': 'ফিলিং ও প্যাকেজিং সরঞ্জাম',
+    'hydraulic-oil-press': 'হাইড্রোলিক অয়েল প্রেস',
+    'seed-oils': 'বীজ তেলের সমাধান',
+    nuts: 'বাদাম তেলের সমাধান',
+    fruits: 'ফলের তেলের সমাধান',
+    'special-oils': 'বিশেষ তেলের সমাধান',
+    'filling-packages': 'ফিলিং প্যাকেজ সমাধান',
+    'production-lines': 'উৎপাদন লাইন',
+    'bottle-washing': 'বোতল ধোয়ার মেশিন সিরিজ',
+    filling: 'ফিলিং মেশিন সিরিজ',
+    'light-inspection': 'লাইট ইন্সপেকশন সিরিজ',
+    sealing: 'সিলিং মেশিন সিরিজ',
+    corking: 'কর্কিং মেশিন সিরিজ',
+    'cap-shrinking': 'ক্যাপ শ্রিংকিং মেশিন সিরিজ',
+    drying: 'ড্রাইং মেশিন সিরিজ',
+    labeling: 'লেবেলিং মেশিন সিরিজ',
+    'laser-coding': 'লেজার কোডিং মেশিন সিরিজ',
+    'packing-palletizing': 'প্যাকিং ও প্যালেটাইজিং',
+    'fruit-veg-processing': 'ফল ও সবজি প্রি-প্রসেসিং',
+    filtering: 'ফিল্টারিং মেশিন সিরিজ',
+    brewing: 'ব্রুইং সরঞ্জাম সিরিজ',
+    'dairy-processing': 'দুগ্ধ প্রক্রিয়াকরণ সরঞ্জাম'
+  }
+}
 
-    const locales = { en: 'en', zh: 'zh-CN', fr: 'fr', ru: 'ru', vi: 'vi', bn: 'bn' }
-    const allLangs = Object.keys(locales)
-    let routeSuffix = ''
-    for (const lang of allLangs) {
-      if (route === `/${lang}`) { routeSuffix = ''; break }
-      if (route.startsWith(`/${lang}/`)) { routeSuffix = route.slice(`/${lang}`.length); break }
+const cleanSchemaText = (value = '') => String(value)
+  .replace(/<[^>]*>/g, ' ')
+  .replace(/&nbsp;/g, ' ')
+  .replace(/\s+/g, ' ')
+  .trim()
+
+const stripSchemaBrandSuffix = (value = '') => String(value)
+  .replace(/\s*(?:\||-)\s*Shengshi Hecheng(?: Oil Press)?\s*$/i, '')
+  .replace(/\s*(?:\||-)\s*Shandong Shengshi Hecheng Machinery Co\., Ltd\.?\s*$/i, '')
+  .replace(/\s*(?:\||-)\s*山东盛世赫程机械有限公司\s*$/u, '')
+  .trim()
+
+const normalizeSchemaTitle = (value = '') => stripSchemaBrandSuffix(cleanSchemaText(value))
+
+const normalizeRoute = (relativePath = 'index.md') => {
+  const normalized = relativePath.replace(/\\/g, '/').replace(/\.md$/, '')
+  let route = `/${normalized}`
+
+  if (route === '/index') route = '/'
+  if (route.endsWith('/index')) route = `${route.slice(0, -6)}/`
+  if (route !== '/' && route.endsWith('/')) route = route.slice(0, -1)
+
+  return route
+}
+
+const parseLocalizedRoute = (route) => {
+  const parts = route.split('/').filter(Boolean)
+  const lang = parts[0] && LOCALE_CODES[parts[0]] ? parts[0] : 'en'
+  const segments = parts[0] && LOCALE_CODES[parts[0]] ? parts.slice(1) : parts
+  return { lang, segments }
+}
+
+const humanizeSegment = (segment = '') => {
+  if (!segment) return ''
+  return decodeURIComponent(segment)
+    .replace(/\.(html?)$/i, '')
+    .replace(/[-_]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .replace(/\b([a-z])/g, (match) => match.toUpperCase())
+}
+
+const getCompanyName = (lang) => lang === 'zh'
+  ? '山东盛世赫程机械有限公司'
+  : 'Shandong Shengshi Hecheng Machinery Co., Ltd.'
+
+const getRouteLabel = (lang, segment) => {
+  if (!segment) return HOME_LABELS[lang] || HOME_LABELS.en
+  return ROUTE_LABELS[lang]?.[segment] || ROUTE_LABELS.en?.[segment] || humanizeSegment(segment)
+}
+
+const getSeriesLabel = (lang, model) => {
+  if (lang === 'zh') return `${model}系列`
+  if (lang === 'ru') return `Серия ${model}`
+  if (lang === 'fr') return `Série ${model}`
+  if (lang === 'vi') return `Dòng ${model}`
+  if (lang === 'bn') return `${model} সিরিজ`
+  return `${model} Series`
+}
+
+const buildLocalizedPath = (lang, path) => {
+  const normalized = path.startsWith('/') ? path : `/${path}`
+  return lang === 'en' ? `/en${normalized}` : `/${lang}${normalized}`
+}
+
+const normalizeSchemaRoute = (route = '/') => {
+  if (route !== '/' && route.endsWith('/')) return route.slice(0, -1)
+  return route
+}
+
+const fileToRoute = (relativeFile) => {
+  let route = `/${relativeFile.replace(/\\/g, '/').replace(/\.md$/, '')}`
+
+  if (route === '/index') route = '/'
+  if (route.endsWith('/index')) route = route.slice(0, -6)
+
+  return normalizeSchemaRoute(route)
+}
+
+const DOCS_ROOT = new URL('../', import.meta.url)
+
+const buildDocTitleIndex = () => {
+  const index = new Map()
+
+  const walk = (dirUrl, prefix = '') => {
+    for (const entry of readdirSync(dirUrl, { withFileTypes: true })) {
+      if (entry.name.startsWith('.') || entry.name === 'public') continue
+
+      if (entry.isDirectory()) {
+        walk(new URL(`${entry.name}/`, dirUrl), `${prefix}${entry.name}/`)
+        continue
+      }
+
+      if (!entry.isFile() || !entry.name.endsWith('.md')) continue
+
+      const relativeFile = `${prefix}${entry.name}`
+      const route = fileToRoute(relativeFile)
+      const content = readFileSync(new URL(entry.name, dirUrl), 'utf8')
+      const frontmatter = content.match(/^---\n([\s\S]*?)\n---/)
+      const frontmatterBlock = frontmatter ? frontmatter[1] : ''
+      const titleMatch = frontmatterBlock.match(/^title:\s*(.+)$/m)
+      const headingMatch = content.match(/^#\s+(.+)$/m)
+      const rawTitle = titleMatch ? titleMatch[1].trim() : headingMatch ? headingMatch[1].trim() : ''
+      const cleanedTitle = normalizeSchemaTitle(rawTitle.replace(/^['"]|['"]$/g, ''))
+
+      if (cleanedTitle) {
+        index.set(route, cleanedTitle)
+      }
     }
-    const altHrefs = allLangs.map(lang => {
-      const href = routeSuffix ? `${site}/${lang}${routeSuffix}` : `${site}/${lang}/`
-      return { hreflang: locales[lang], href }
+  }
+
+  walk(DOCS_ROOT)
+  return index
+}
+
+const DOC_TITLE_INDEX = buildDocTitleIndex()
+
+const COLLECTION_ROUTES = {
+  products: {
+    root: [
+      '/products/300',
+      '/products/325',
+      '/products/355',
+      '/products/400',
+      '/products/426',
+      '/products/480',
+      '/products/500',
+      '/products/filtration-equipment',
+      '/products/refining-and-dewaxing-equipment',
+      '/products/filling-equipment',
+      '/products/supporting'
+    ],
+    supporting: [
+      '/products/pre-treatment',
+      '/products/post-treatment'
+    ],
+    'pre-treatment': [
+      '/products/11kw-high-speed-pulverizer',
+      '/products/27kw-electric-steamer',
+      '/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine',
+      '/products/automatic-drum-roaster',
+      '/products/cake-wrapping-machine',
+      '/products/feeding-crushing-frying-integrated-machine',
+      '/products/heat-conducting-oil-flat-bottom-frying-pan',
+      '/products/pre-press-machine',
+      '/products/wood-fired-steamer',
+      '/products/wood-fired-thermal-oil-flat-bottom-wok'
+    ],
+    'post-treatment': [
+      '/products/pneumatic-filter-press',
+      '/products/cake-pulverizer',
+      '/products/edible-oil-refining-equipment'
+    ],
+    'filtration-equipment': [
+      '/products/pneumatic-filter-press',
+      '/products/post-treatment',
+      '/solutions/filtering/'
+    ],
+    'refining-and-dewaxing-equipment': [
+      '/products/edible-oil-refining-equipment'
+    ],
+    'filling-equipment': [
+      '/solutions/filling-packages',
+      '/products/filling/low-vacuum-filling-machine',
+      '/products/filling/smart-filling-machine',
+      '/products/filling/plastic-cap-pressing-machine',
+      '/products/filling/light-inspection-machine',
+      '/products/filling/robot-palletizer'
+    ]
+  },
+  solutions: {
+    root: [
+      '/solutions/production-lines',
+      '/solutions/seed-oils',
+      '/solutions/nuts',
+      '/solutions/fruits',
+      '/solutions/special-oils',
+      '/solutions/filling-packages',
+      '/solutions/bottle-washing/',
+      '/solutions/filling/',
+      '/solutions/sealing/',
+      '/solutions/brewing/'
+    ],
+    'seed-oils': [
+      '/solutions/soybean',
+      '/solutions/peanut',
+      '/solutions/sesame',
+      '/solutions/rapeseed',
+      '/solutions/sunflower',
+      '/solutions/cottonseed',
+      '/solutions/flaxseed',
+      '/solutions/tea-seed',
+      '/solutions/perilla'
+    ],
+    nuts: [
+      '/solutions/coconut',
+      '/solutions/palm',
+      '/solutions/walnut',
+      '/solutions/almond',
+      '/solutions/hazelnut',
+      '/solutions/cashew',
+      '/solutions/pistachio'
+    ],
+    fruits: [
+      '/solutions/avocado',
+      '/solutions/grape-seed',
+      '/solutions/pumpkin-seed',
+      '/solutions/watermelon-seed',
+      '/solutions/peach-kernel',
+      '/solutions/apricot-kernel'
+    ],
+    'special-oils': [
+      '/solutions/rice-bran',
+      '/solutions/corn-germ',
+      '/solutions/castor-seed',
+      '/solutions/chili-seed',
+      '/solutions/grape-seed',
+      '/solutions/buckwheat'
+    ],
+    'filling-packages': [
+      '/solutions/filling-packages/cgf-three-in-one-monoblock',
+      '/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock',
+      '/solutions/filling-packages/baijiu-filling-capping-monoblock'
+    ],
+    'bottle-washing': [
+      '/solutions/bottle-washing/rotary-bottle-washer',
+      '/solutions/bottle-washing/six-wheel-bottle-washer',
+      '/solutions/bottle-washing/chain-bottle-washer',
+      '/solutions/bottle-washing/intermittent-bottle-washer',
+      '/solutions/bottle-washing/flip-bottle-washer'
+    ],
+    filling: [
+      '/solutions/filling/smart-filling-machine',
+      '/solutions/filling/high-precision-filling-machine',
+      '/solutions/filling/intelligent-quantitative-filling-machine',
+      '/solutions/filling/rotary-drum-filling-machine',
+      '/solutions/filling/linear-filling-machine',
+      '/solutions/filling/pesticide-filling-machine',
+      '/solutions/filling/corrosion-resistant-filling-machine'
+    ],
+    'light-inspection': [
+      '/solutions/light-inspection/light-inspection-machine'
+    ],
+    sealing: [
+      '/solutions/sealing/aluminum-cap-sealing-machine',
+      '/solutions/sealing/anti-theft-cap-sealing-machine',
+      '/solutions/sealing/plastic-cap-pressing-machine',
+      '/solutions/sealing/pneumatic-capping-machine',
+      '/solutions/sealing/single-head-sealing-machine'
+    ],
+    corking: [
+      '/solutions/corking/automatic-corking-machine',
+      '/solutions/corking/semi-automatic-corking-machine',
+      '/solutions/corking/manual-corking-machine'
+    ],
+    'cap-shrinking': [
+      '/solutions/cap-shrinking/cap-rolling-shrinking-machine',
+      '/solutions/cap-shrinking/multi-head-cap-shrinking-machine',
+      '/solutions/cap-shrinking/single-head-cap-shrinking-machine'
+    ],
+    drying: [
+      '/solutions/drying/spider-arm-bottle-dryer',
+      '/solutions/drying/turbo-air-knife-dryer'
+    ],
+    labeling: [
+      '/solutions/labeling/df-t200-round-bottle-labeler',
+      '/solutions/labeling/double-label-automatic-labeling-machine',
+      '/solutions/labeling/self-adhesive-labeling-machine'
+    ],
+    'laser-coding': [
+      '/solutions/laser-coding/co2-laser-marking-machine',
+      '/solutions/laser-coding/fiber-laser-marking-machine'
+    ],
+    'packing-palletizing': [
+      '/solutions/packing-palletizing/carton-sealing-machine',
+      '/solutions/packing-palletizing/case-erector-packing-machine',
+      '/solutions/packing-palletizing/robot-palletizer'
+    ],
+    'fruit-veg-processing': [
+      '/solutions/fruit-veg-processing/fruit-elevator'
+    ],
+    filtering: [
+      '/products/filtration-equipment',
+      '/products/pneumatic-filter-press',
+      '/products/post-treatment'
+    ],
+    brewing: [
+      '/solutions/brewing/low-vacuum-filling-machine',
+      '/solutions/brewing/gfp-12a-low-vacuum-filling-machine',
+      '/solutions/brewing/gfp-12b-low-vacuum-filling-machine',
+      '/solutions/brewing/gfp-18a-low-vacuum-filling-machine',
+      '/solutions/brewing/gfp-24h-low-vacuum-filling-machine',
+      '/solutions/brewing/gfp-30h-low-vacuum-filling-machine',
+      '/solutions/brewing/gfp-36h-low-vacuum-filling-machine',
+      '/solutions/brewing/gfp-40h-low-vacuum-filling-machine',
+      '/solutions/brewing/gfp-48h-low-vacuum-filling-machine',
+      '/solutions/brewing/gfp-60h-low-vacuum-filling-machine',
+      '/solutions/brewing/filling-corking-monoblock',
+      '/solutions/brewing/wine-rinsing-filling-corking-monoblock'
+    ],
+    'dairy-processing': [
+      '/solutions/dairy-processing/pasteurization-processing-line'
+    ]
+  },
+  news: {
+    root: [
+      '/news/company',
+      '/news/industry',
+      '/news/technology'
+    ]
+  }
+}
+
+const getDocTitleByPath = (lang, path) => {
+  const route = normalizeSchemaRoute(buildLocalizedPath(lang, path))
+  return DOC_TITLE_INDEX.get(route) || ''
+}
+
+const getCollectionKey = (segments) => (segments.length <= 1 ? 'root' : segments[1])
+
+const getCollectionFallbackRoutes = (lang, section, segments) => {
+  const collectionRoute = normalizeSchemaRoute(buildLocalizedPath(
+    lang,
+    `/${[section, ...segments.slice(1)].filter(Boolean).join('/')}`
+  ))
+  const childDepth = segments.length + 1
+
+  return Array.from(DOC_TITLE_INDEX.keys())
+    .filter((route) => route.startsWith(`${collectionRoute}/`))
+    .filter((route) => parseLocalizedRoute(route).segments.length === childDepth)
+    .sort()
+    .map((route) => route.replace(new RegExp(`^/${lang}`), '') || '/')
+}
+
+const getCollectionFallbackName = (lang, path) => {
+  const normalizedPath = normalizeSchemaRoute(path)
+  const { segments } = parseLocalizedRoute(buildLocalizedPath(lang, normalizedPath))
+  const slug = segments[segments.length - 1] || ''
+
+  if (/^\d+$/.test(slug)) return getSeriesLabel(lang, slug)
+  return getRouteLabel(lang, slug)
+}
+
+const inferModel = (pageName, slug) => {
+  const source = `${pageName || ''} ${slug || ''}`.toUpperCase()
+  const patterns = [
+    /\b([A-Z]{2,}-\d+[A-Z]?)\b/,
+    /\b([A-Z]{2,}\d+(?:-\d+)+(?:[A-Z])?)\b/,
+    /\b(300|325|355|400|426|480|500)\b/
+  ]
+
+  for (const pattern of patterns) {
+    const match = source.match(pattern)
+    if (match) return match[1]
+  }
+
+  return null
+}
+
+const getPrimaryPageType = (section, segments) => {
+  if (!segments.length) return 'WebPage'
+  if (section === 'contact') return 'ContactPage'
+  if (section === 'about') return 'AboutPage'
+  if (section === 'news' && segments.length <= 2) return 'CollectionPage'
+  if (section === 'products' && (segments.length === 1 || (segments.length === 2 && PRODUCT_COLLECTION_SLUGS.has(segments[1])))) {
+    return 'CollectionPage'
+  }
+  if (section === 'solutions' && (segments.length === 1 || (segments.length === 2 && SOLUTION_COLLECTION_SLUGS.has(segments[1])))) {
+    return 'CollectionPage'
+  }
+  return 'WebPage'
+}
+
+const getCollectionItemList = (lang, section, segments) => {
+  const collectionKey = getCollectionKey(segments)
+  const configuredPaths = COLLECTION_ROUTES[section]?.[collectionKey] || []
+  const fallbackPaths = configuredPaths.length ? [] : getCollectionFallbackRoutes(lang, section, segments)
+  const paths = configuredPaths.length ? configuredPaths : fallbackPaths
+
+  return paths.map((path) => {
+    const normalizedPath = normalizeSchemaRoute(path)
+    return {
+      name: getDocTitleByPath(lang, normalizedPath) || getCollectionFallbackName(lang, normalizedPath),
+      url: `${SITE_URL}${buildLocalizedPath(lang, normalizedPath)}`
+    }
+  })
+}
+
+const buildBreadcrumbSchema = ({ route, canonical, lang, segments, pageName }) => {
+  const itemListElement = []
+
+  if (route === '/') {
+    itemListElement.push({
+      '@type': 'ListItem',
+      position: 1,
+      name: HOME_LABELS.en,
+      item: `${SITE_URL}/`
+    })
+  } else {
+    const homeUrl = `${SITE_URL}${buildLocalizedPath(lang, '/')}`
+    itemListElement.push({
+      '@type': 'ListItem',
+      position: 1,
+      name: HOME_LABELS[lang] || HOME_LABELS.en,
+      item: homeUrl
     })
 
-    const pageSchemas = []
-
-    if (route === '/en' || route === '/zh') {
-      const isZh = route === '/zh'
-      pageSchemas.push({
-        '@context': 'https://schema.org',
-        '@type': 'FAQPage',
-        inLanguage: isZh ? 'zh-CN' : 'en',
-        mainEntity: isZh
-          ? [
-              {
-                '@type': 'Question',
-                name: '设备支持哪些油料原料？',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: '可覆盖大豆、花生、芝麻、油菜籽、向日葵籽、亚麻籽、茶籽、核桃等多种油料。'
-                }
-              },
-              {
-                '@type': 'Question',
-                name: '300/325/355/400/426/480/500 系列如何选型？',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: '建议按日产能、原料特性、自动化需求综合评估，我们可根据项目需求提供定制化选型建议。'
-                }
-              },
-              {
-                '@type': 'Question',
-                name: '除主机外是否提供整线配套？',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: '提供。我们可提供预处理、后处理、过滤、灌装等配套设备与整线方案。'
-                }
-              }
-            ]
-          : [
-              {
-                '@type': 'Question',
-                name: 'What oilseeds can your hydraulic presses process?',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: 'Our equipment supports soybean, peanut, sesame, rapeseed, sunflower, flaxseed, tea seed, walnut, and many other oil-bearing materials.'
-                }
-              },
-              {
-                '@type': 'Question',
-                name: 'How do I choose between 300/325/355/400/426/480/500 series?',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: 'Selection depends on daily capacity, raw material characteristics, and automation needs. We provide model recommendation based on your project requirements.'
-                }
-              },
-              {
-                '@type': 'Question',
-                name: 'Do you provide full line support beyond the main press?',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: 'Yes. We provide pre-treatment, post-treatment, filtering, and filling-line supporting equipment for one-stop oil processing solutions.'
-                }
-              }
-            ]
+    let accumulated = lang === 'en' ? '/en' : `/${lang}`
+    segments.forEach((segment, index) => {
+      accumulated += `/${segment}`
+      itemListElement.push({
+        '@type': 'ListItem',
+        position: index + 2,
+        name: index === segments.length - 1 && pageName ? pageName : getRouteLabel(lang, segment),
+        item: `${SITE_URL}${accumulated}`
       })
-    }
+    })
+  }
 
-    if (route === '/en/products' || route === '/zh/products') {
-      const isZh = route === '/zh/products'
-      const basePath = `${site}${route}`
-      const series = ['300', '325', '355', '400', '426', '480', '500']
-      pageSchemas.push({
-        '@context': 'https://schema.org',
-        '@type': 'CollectionPage',
-        name: isZh ? '液压榨油机产品系列' : 'Hydraulic Oil Press Product Series',
-        inLanguage: isZh ? 'zh-CN' : 'en',
-        url: `${basePath}/`,
-        mainEntity: {
-          '@type': 'ItemList',
-          itemListElement: series.map((s, i) => ({
-            '@type': 'ListItem',
-            position: i + 1,
-            name: isZh ? `${s}系列` : `${s} Series`,
-            url: `${basePath}/${s}`
-          }))
-        }
-      })
-    }
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    '@id': `${canonical}#breadcrumb`,
+    itemListElement
+  }
+}
 
-    if (route === '/en/solutions' || route === '/zh/solutions') {
-      const isZh = route === '/zh/solutions'
-      pageSchemas.push({
-        '@context': 'https://schema.org',
-        '@type': 'Service',
-        name: isZh ? '油料加工解决方案' : 'Oil Processing Solutions',
-        inLanguage: isZh ? 'zh-CN' : 'en',
-        url: `${site}${route}/`,
-        provider: {
-          '@type': 'Organization',
-          name: isZh ? '山东盛世赫程机械有限公司' : 'Shandong Shengshi Hecheng Machinery Co., Ltd.',
-          url: `${site}/`
-        },
-        areaServed: 'Worldwide'
-      })
+const buildBasePageSchema = ({ canonical, pageName, description, langCode, pageType, collectionItems = [], mainEntityId = '' }) => {
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': pageType,
+    '@id': `${canonical}#webpage`,
+    url: canonical,
+    name: pageName,
+    inLanguage: langCode,
+    isPartOf: { '@id': WEBSITE_ID },
+    about: { '@id': ORGANIZATION_ID },
+    breadcrumb: { '@id': `${canonical}#breadcrumb` },
+    primaryImageOfPage: {
+      '@type': 'ImageObject',
+      url: DEFAULT_IMAGE
     }
+  }
 
-    const solutionCategoryMatch = route.match(/^\/(en|zh)\/solutions\/(seed-oils|nuts|fruits|special-oils)$/)
-    if (solutionCategoryMatch) {
-      const lang = solutionCategoryMatch[1]
-      const slug = solutionCategoryMatch[2]
-      const isZh = lang === 'zh'
-      const names = {
-        'seed-oils': isZh ? '粮油类（种子类）解决方案' : 'Seed Oil Solutions',
-        nuts: isZh ? '坚果类油料解决方案' : 'Nut Oil Solutions',
-        fruits: isZh ? '果实类油料解决方案' : 'Fruit Oil Solutions',
-        'special-oils': isZh ? '特殊油料解决方案' : 'Special Oil Solutions'
+  if (description) schema.description = description
+
+  if (pageType === 'CollectionPage' && collectionItems.length) {
+    schema.numberOfItems = collectionItems.length
+    schema.mainEntity = {
+      '@type': 'ItemList',
+      itemListOrder: 'https://schema.org/ItemListOrderAscending',
+      numberOfItems: collectionItems.length,
+      itemListElement: collectionItems.map((item, index) => ({
+        '@type': 'ListItem',
+        position: index + 1,
+        name: item.name,
+        url: item.url
+      }))
+    }
+  } else if (mainEntityId) {
+    schema.mainEntity = { '@id': mainEntityId }
+  }
+
+  return schema
+}
+
+const buildProductSchema = ({ canonical, pageName, description, langCode, category, model }) => {
+  const additionalProperty = []
+
+  if (model) {
+    additionalProperty.push({
+      '@type': 'PropertyValue',
+      name: 'Model',
+      value: model
+    })
+  }
+
+  if (category) {
+    additionalProperty.push({
+      '@type': 'PropertyValue',
+      name: 'Category',
+      value: category
+    })
+  }
+
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    '@id': `${canonical}#product`,
+    name: pageName,
+    url: canonical,
+    inLanguage: langCode,
+    mainEntityOfPage: {
+      '@id': `${canonical}#webpage`
+    },
+    image: [DEFAULT_IMAGE],
+    brand: {
+      '@type': 'Brand',
+      name: 'Shengshi Hecheng'
+    },
+    manufacturer: {
+      '@id': ORGANIZATION_ID
+    }
+  }
+
+  if (description) schema.description = description
+  if (category) schema.category = category
+  if (model) {
+    schema.model = model
+    schema.sku = model
+  }
+  if (additionalProperty.length) schema.additionalProperty = additionalProperty
+
+  return schema
+}
+
+const buildServiceSchema = ({ canonical, pageName, description, langCode, lang }) => {
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    '@id': `${canonical}#service`,
+    name: pageName,
+    url: canonical,
+    inLanguage: langCode,
+    mainEntityOfPage: {
+      '@id': `${canonical}#webpage`
+    },
+    serviceType: pageName,
+    provider: {
+      '@id': ORGANIZATION_ID
+    },
+    areaServed: 'Worldwide'
+  }
+
+  if (description) schema.description = description
+  if (lang === 'zh') schema.provider.name = getCompanyName(lang)
+
+  return schema
+}
+
+const buildArticleSchema = ({ canonical, pageName, description, langCode, date }) => {
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    '@id': `${canonical}#article`,
+    headline: pageName,
+    inLanguage: langCode,
+    url: canonical,
+    mainEntityOfPage: {
+      '@id': `${canonical}#webpage`
+    },
+    image: [DEFAULT_IMAGE],
+    author: {
+      '@id': ORGANIZATION_ID
+    },
+    publisher: {
+      '@id': ORGANIZATION_ID
+    }
+  }
+
+  if (description) schema.description = description
+  if (date) {
+    schema.datePublished = date
+    schema.dateModified = date
+  }
+
+  return schema
+}
+
+const buildFaqSchema = (entries = []) => ({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: entries.map(({ question, answer }) => ({
+    '@type': 'Question',
+    name: question,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: answer
+    }
+  }))
+})
+
+const HOME_FAQ_ENTRIES = {
+  zh: [
+    {
+      question: '设备支持哪些油料原料？',
+      answer: '可覆盖大豆、花生、芝麻、油菜籽、向日葵籽、亚麻籽、茶籽、核桃等多种油料。'
+    },
+    {
+      question: '300/325/355/400/426/480/500 系列如何选型？',
+      answer: '建议按日产能、原料特性、自动化需求综合评估，我们可根据项目需求提供定制化选型建议。'
+    },
+    {
+      question: '除主机外是否提供整线配套？',
+      answer: '提供。我们可提供预处理、后处理、过滤、灌装等配套设备与整线方案。'
+    }
+  ],
+  en: [
+    {
+      question: 'What oilseeds can your hydraulic presses process?',
+      answer: 'Our equipment supports soybean, peanut, sesame, rapeseed, sunflower, flaxseed, tea seed, walnut, and many other oil-bearing materials.'
+    },
+    {
+      question: 'How do I choose between 300/325/355/400/426/480/500 series?',
+      answer: 'Selection depends on daily capacity, raw material characteristics, and automation needs. We provide model recommendation based on your project requirements.'
+    },
+    {
+      question: 'Do you provide full line support beyond the main press?',
+      answer: 'Yes. We provide pre-treatment, post-treatment, filtering, and filling-line supporting equipment for one-stop oil processing solutions.'
+    }
+  ],
+  fr: [
+    {
+      question: 'Quelles matières oléagineuses vos presses hydrauliques peuvent-elles traiter ?',
+      answer: 'Nos équipements conviennent au soja, à l’arachide, au sésame, au colza, au tournesol, au lin, au théier, à la noix et à d’autres matières riches en huile.'
+    },
+    {
+      question: 'Comment choisir entre les séries 300/325/355/400/426/480/500 ?',
+      answer: 'Le choix dépend de la capacité journalière, des caractéristiques de la matière première et du niveau d’automatisation. Nous proposons une recommandation adaptée à chaque projet.'
+    },
+    {
+      question: 'Fournissez-vous une ligne complète en plus de la presse principale ?',
+      answer: 'Oui. Nous pouvons fournir les équipements de prétraitement, de post-traitement, de filtration, de remplissage et les solutions de ligne complète.'
+    }
+  ],
+  ru: [
+    {
+      question: 'Какие масличные культуры могут перерабатывать ваши гидравлические прессы?',
+      answer: 'Оборудование подходит для сои, арахиса, кунжута, рапса, подсолнечника, льна, чайного семени, грецкого ореха и других маслосодержащих материалов.'
+    },
+    {
+      question: 'Как выбрать между сериями 300/325/355/400/426/480/500?',
+      answer: 'Выбор зависит от суточной производительности, особенностей сырья и уровня автоматизации. Мы подбираем модель под конкретный проект.'
+    },
+    {
+      question: 'Поставляете ли вы полную линию, а не только основной пресс?',
+      answer: 'Да. Мы поставляем оборудование для предварительной подготовки, последующей обработки, фильтрации, розлива и комплексные решения под ключ.'
+    }
+  ],
+  vi: [
+    {
+      question: 'Máy ép dầu thủy lực của bạn có thể xử lý những nguyên liệu dầu nào?',
+      answer: 'Thiết bị phù hợp với đậu nành, lạc, mè, hạt cải dầu, hạt hướng dương, hạt lanh, trà, óc chó và nhiều nguyên liệu chứa dầu khác.'
+    },
+    {
+      question: 'Chọn dòng 300/325/355/400/426/480/500 như thế nào?',
+      answer: 'Việc chọn model phụ thuộc vào công suất mỗi ngày, đặc tính nguyên liệu và mức độ tự động hóa. Chúng tôi sẽ đề xuất model phù hợp theo dự án thực tế.'
+    },
+    {
+      question: 'Ngoài máy ép chính, bạn có cung cấp giải pháp dây chuyền hoàn chỉnh không?',
+      answer: 'Có. Chúng tôi cung cấp thiết bị tiền xử lý, hậu xử lý, lọc dầu, chiết rót và giải pháp dây chuyền đồng bộ trọn gói.'
+    }
+  ],
+  bn: [
+    {
+      question: 'আপনাদের হাইড্রোলিক অয়েল প্রেস কোন কোন তেলবীজ প্রক্রিয়া করতে পারে?',
+      answer: 'আমাদের যন্ত্রপাতি সয়াবিন, চিনাবাদাম, তিল, রেপসিড, সূর্যমুখী বীজ, ফ্ল্যাক্সসিড, চা বীজ, আখরোটসহ বহু তেলসমৃদ্ধ কাঁচামাল প্রক্রিয়া করতে পারে।'
+    },
+    {
+      question: '300/325/355/400/426/480/500 সিরিজের মধ্যে কীভাবে নির্বাচন করব?',
+      answer: 'নির্বাচন নির্ভর করে দৈনিক উৎপাদন ক্ষমতা, কাঁচামালের বৈশিষ্ট্য এবং অটোমেশন চাহিদার উপর। আমরা প্রকল্পভিত্তিক উপযুক্ত মডেল সুপারিশ করি।'
+    },
+    {
+      question: 'মূল প্রেসের বাইরে কি সম্পূর্ণ লাইন সাপোর্টও দেন?',
+      answer: 'হ্যাঁ। আমরা প্রি-ট্রিটমেন্ট, পোস্ট-ট্রিটমেন্ট, ফিল্ট্রেশন, ফিলিং এবং সম্পূর্ণ তেল প্রক্রিয়াকরণ লাইনের সমাধান দিই।'
+    }
+  ]
+}
+
+const buildHomeFaqSchema = (lang) => {
+  const entries = HOME_FAQ_ENTRIES[lang]
+  return entries ? buildFaqSchema(entries) : null
+}
+
+const SERIES_FAQ_BUILDERS = {
+  zh: (model) => [
+    {
+      question: `${model}系列适合哪些用户？`,
+      answer: `${model}系列适合中小型油厂、家庭作坊及初创油料加工项目。`
+    },
+    {
+      question: '是否支持多种油料压榨？',
+      answer: '支持大豆、花生、芝麻、油菜籽等多种常见油料，并可按工艺进行冷榨或热榨配置。'
+    },
+    {
+      question: '是否提供安装与售后服务？',
+      answer: '提供安装调试、操作培训、备件支持和长期技术服务。'
+    }
+  ],
+  en: (model) => [
+    {
+      question: `Who is the ${model} series suitable for?`,
+      answer: `The ${model} series is suitable for small to medium oil mills, family workshops, and startup oil processing projects.`
+    },
+    {
+      question: 'Can it process multiple oilseed materials?',
+      answer: 'Yes. It supports soybean, peanut, sesame, rapeseed and other common oil-bearing materials with hot or cold pressing process options.'
+    },
+    {
+      question: 'Do you provide installation and after-sales support?',
+      answer: 'Yes. We provide installation, training, spare parts support, and long-term technical service.'
+    }
+  ],
+  fr: (model) => [
+    {
+      question: `À quels utilisateurs la série ${model} convient-elle ?`,
+      answer: `La série ${model} convient aux petites et moyennes huileries, aux ateliers familiaux et aux projets de transformation en démarrage.`
+    },
+    {
+      question: 'Peut-elle traiter plusieurs matières oléagineuses ?',
+      answer: 'Oui. Elle convient au soja, à l’arachide, au sésame, au colza et à d’autres matières courantes, avec configuration possible pour pressage à chaud ou à froid.'
+    },
+    {
+      question: 'Proposez-vous l’installation et le service après-vente ?',
+      answer: 'Oui. Nous assurons l’installation, la formation, les pièces de rechange et l’assistance technique à long terme.'
+    }
+  ],
+  ru: (model) => [
+    {
+      question: `Для кого подходит серия ${model}?`,
+      answer: `Серия ${model} подходит для малых и средних маслозаводов, семейных мастерских и новых проектов по переработке масла.`
+    },
+    {
+      question: 'Подходит ли она для разных видов масличного сырья?',
+      answer: 'Да. Оборудование работает с соей, арахисом, кунжутом, рапсом и другими распространёнными культурами, с возможностью горячего или холодного прессования.'
+    },
+    {
+      question: 'Предоставляете ли вы монтаж и послепродажную поддержку?',
+      answer: 'Да. Мы обеспечиваем монтаж, обучение, поставку запчастей и долгосрочную техническую поддержку.'
+    }
+  ],
+  vi: (model) => [
+    {
+      question: `Dòng ${model} phù hợp với đối tượng nào?`,
+      answer: `Dòng ${model} phù hợp cho các xưởng dầu vừa và nhỏ, hộ gia đình và các dự án chế biến dầu mới khởi động.`
+    },
+    {
+      question: 'Máy có thể ép nhiều loại nguyên liệu dầu không?',
+      answer: 'Có. Máy hỗ trợ đậu nành, lạc, mè, cải dầu và nhiều nguyên liệu phổ biến khác, đồng thời có thể cấu hình ép nóng hoặc ép lạnh.'
+    },
+    {
+      question: 'Bạn có cung cấp lắp đặt và dịch vụ sau bán hàng không?',
+      answer: 'Có. Chúng tôi cung cấp lắp đặt, đào tạo vận hành, phụ tùng và hỗ trợ kỹ thuật lâu dài.'
+    }
+  ],
+  bn: (model) => [
+    {
+      question: `${model} সিরিজ কোন ধরনের ব্যবহারকারীর জন্য উপযোগী?`,
+      answer: `${model} সিরিজ ছোট ও মাঝারি তেল মিল, পারিবারিক ওয়ার্কশপ এবং নতুন তেল প্রক্রিয়াকরণ প্রকল্পের জন্য উপযুক্ত।`
+    },
+    {
+      question: 'এটি কি একাধিক ধরনের তেলবীজ প্রক্রিয়া করতে পারে?',
+      answer: 'হ্যাঁ। এটি সয়াবিন, চিনাবাদাম, তিল, রেপসিডসহ বিভিন্ন সাধারণ তেলসমৃদ্ধ কাঁচামাল গরম বা ঠান্ডা প্রেস কনফিগারেশনে প্রক্রিয়া করতে পারে।'
+    },
+    {
+      question: 'আপনারা কি ইনস্টলেশন ও বিক্রয়োত্তর সেবা দেন?',
+      answer: 'হ্যাঁ। আমরা ইনস্টলেশন, অপারেশন প্রশিক্ষণ, স্পেয়ার পার্টস সহায়তা এবং দীর্ঘমেয়াদি প্রযুক্তিগত সেবা দিই।'
+    }
+  ]
+}
+
+const buildSeriesFaqSchema = (lang, model) => {
+  const builder = SERIES_FAQ_BUILDERS[lang]
+  return builder ? buildFaqSchema(builder(model)) : null
+}
+
+const OIL_SOLUTION_FAQ_BUILDERS = {
+  zh: (solutionName) => [
+    {
+      question: `${solutionName}项目适合用液压榨油机吗？`,
+      answer: `适合。${solutionName}类项目可结合清理、破碎、蒸炒、压榨、过滤等环节进行整体工艺配置。`
+    },
+    {
+      question: '这类项目通常需要哪些配套设备？',
+      answer: '常见配套包括预处理设备、输送设备、过滤设备、精炼设备及灌装包装设备，可按产能和厂房条件组合。'
+    },
+    {
+      question: '能否按日产量做整线定制？',
+      answer: '可以。我们可根据原料特性、日产量、油品定位和车间布局提供单机或整线方案。'
+    }
+  ],
+  en: (solutionName) => [
+    {
+      question: `Is ${solutionName} suitable for a hydraulic oil pressing line?`,
+      answer: `${solutionName} projects can be configured with cleaning, crushing, roasting, pressing, filtering, and downstream packaging according to process requirements.`
+    },
+    {
+      question: 'What supporting equipment is usually needed for this type of project?',
+      answer: 'Typical supporting equipment includes pre-treatment units, conveying devices, filtration systems, refining equipment, and filling or packaging machines.'
+    },
+    {
+      question: 'Can you customize the line according to daily capacity?',
+      answer: 'Yes. We can configure either a single machine or a complete line based on raw material characteristics, daily output, oil positioning, and workshop layout.'
+    }
+  ],
+  fr: (solutionName) => [
+    {
+      question: `${solutionName} convient-il à une ligne de pressage hydraulique ?`,
+      answer: `Les projets ${solutionName} peuvent être configurés avec les étapes de nettoyage, broyage, cuisson, pressage, filtration et conditionnement selon le procédé requis.`
+    },
+    {
+      question: 'Quels équipements complémentaires sont généralement nécessaires ?',
+      answer: 'Les équipements courants comprennent les unités de prétraitement, le convoyage, la filtration, le raffinage et les machines de remplissage ou de conditionnement.'
+    },
+    {
+      question: 'Pouvez-vous personnaliser la ligne selon la capacité journalière ?',
+      answer: 'Oui. Nous proposons une configuration sur mesure, de la machine seule à la ligne complète, selon le matériau, la capacité, le positionnement du produit et l’atelier.'
+    }
+  ],
+  ru: (solutionName) => [
+    {
+      question: `Подходит ли ${solutionName} для гидравлической линии отжима масла?`,
+      answer: `Проекты по ${solutionName} можно комплектовать участками очистки, дробления, жарки, прессования, фильтрации и последующей упаковки в зависимости от технологии.`
+    },
+    {
+      question: 'Какое вспомогательное оборудование обычно требуется для такого проекта?',
+      answer: 'Обычно используются узлы предварительной подготовки, транспортировки, фильтрации, рафинации, а также оборудование для розлива и упаковки.'
+    },
+    {
+      question: 'Можно ли настроить линию под суточную производительность?',
+      answer: 'Да. Мы подбираем как отдельную машину, так и полную линию, исходя из сырья, суточного объёма, позиционирования продукта и планировки цеха.'
+    }
+  ],
+  vi: (solutionName) => [
+    {
+      question: `${solutionName} có phù hợp với dây chuyền ép dầu thủy lực không?`,
+      answer: `Các dự án ${solutionName} có thể được cấu hình với các công đoạn làm sạch, nghiền, rang, ép, lọc và đóng gói theo yêu cầu công nghệ.`
+    },
+    {
+      question: 'Loại dự án này thường cần những thiết bị phụ trợ nào?',
+      answer: 'Thiết bị thường dùng gồm hệ thống tiền xử lý, băng tải, lọc dầu, tinh luyện và máy chiết rót hoặc đóng gói.'
+    },
+    {
+      question: 'Bạn có thể tùy chỉnh dây chuyền theo công suất mỗi ngày không?',
+      answer: 'Có. Chúng tôi có thể cấu hình từ máy đơn đến dây chuyền hoàn chỉnh dựa trên nguyên liệu, sản lượng ngày, định vị sản phẩm dầu và mặt bằng nhà xưởng.'
+    }
+  ],
+  bn: (solutionName) => [
+    {
+      question: `${solutionName} কি হাইড্রোলিক তেল নিষ্কাশন লাইনের জন্য উপযুক্ত?`,
+      answer: `${solutionName} প্রকল্পে প্রয়োজন অনুযায়ী পরিষ্কারকরণ, ভাঙা, ভাজা, প্রেসিং, ফিল্টারিং এবং পরবর্তী প্যাকেজিং ধাপ একসাথে কনফিগার করা যায়।`
+    },
+    {
+      question: 'এই ধরনের প্রকল্পে সাধারণত কোন সহায়ক যন্ত্রপাতি লাগে?',
+      answer: 'সাধারণত প্রি-ট্রিটমেন্ট ইউনিট, কনভেয়িং ডিভাইস, ফিল্ট্রেশন সিস্টেম, রিফাইনিং সরঞ্জাম এবং ফিলিং বা প্যাকেজিং মেশিন লাগে।'
+    },
+    {
+      question: 'দৈনিক উৎপাদন ক্ষমতা অনুযায়ী কি লাইন কাস্টমাইজ করা যায়?',
+      answer: 'হ্যাঁ। কাঁচামাল, দৈনিক উৎপাদন, তেলের পজিশনিং এবং কারখানার বিন্যাস অনুযায়ী আমরা একক মেশিন থেকে সম্পূর্ণ লাইন পর্যন্ত কাস্টমাইজ করতে পারি।'
+    }
+  ]
+}
+
+const buildOilSolutionFaqSchema = (lang, solutionName) => {
+  const builder = OIL_SOLUTION_FAQ_BUILDERS[lang]
+  return builder ? buildFaqSchema(builder(solutionName)) : null
+}
+
+export default {
+  transformHead: ({ pageData }) => {
+    const route = normalizeRoute(pageData.relativePath || 'index.md')
+    const canonical = `${SITE_URL}${route}`
+    const { lang, segments } = parseLocalizedRoute(route)
+    const langCode = LOCALE_CODES[lang] || lang
+    const section = segments[0] || ''
+    const slug = segments[segments.length - 1] || ''
+    const pageName = normalizeSchemaTitle(pageData.frontmatter?.title || pageData.title || '') || (segments.length ? getRouteLabel(lang, slug) : SITE_NAME)
+    const pageDescription = cleanSchemaText(pageData.frontmatter?.description || pageData.description || '') || DEFAULT_DESCRIPTION
+
+    const allLangs = Object.keys(LOCALE_CODES)
+    let routeSuffix = ''
+    for (const locale of allLangs) {
+      if (route === `/${locale}`) {
+        routeSuffix = ''
+        break
       }
-      pageSchemas.push({
-        '@context': 'https://schema.org',
-        '@type': 'CollectionPage',
-        name: names[slug],
-        inLanguage: isZh ? 'zh-CN' : 'en',
-        url: `${site}${route}`,
-        isPartOf: {
-          '@type': 'WebSite',
-          name: 'Shengshi Hecheng Oil Press',
-          url: `${site}/`
-        }
-      })
-    }
-
-    const productCategoryMatch = route.match(/^\/(en|zh)\/products\/(filtration-equipment|refining-and-dewaxing-equipment|filling-equipment)$/)
-    if (productCategoryMatch) {
-      const lang = productCategoryMatch[1]
-      const slug = productCategoryMatch[2]
-      const isZh = lang === 'zh'
-      const names = {
-        'filtration-equipment': isZh ? '食用油过滤设备' : 'Oil Filtration Equipment',
-        'refining-and-dewaxing-equipment': isZh ? '食用油精炼与脱蜡设备' : 'Edible Oil Refining and Dewaxing Equipment',
-        'filling-equipment': isZh ? '食用油灌装包装设备' : 'Oil Filling and Packaging Equipment'
-      }
-      pageSchemas.push({
-        '@context': 'https://schema.org',
-        '@type': 'CollectionPage',
-        name: names[slug],
-        inLanguage: isZh ? 'zh-CN' : 'en',
-        url: `${site}${route}`,
-        isPartOf: {
-          '@type': 'WebSite',
-          name: 'Shengshi Hecheng Oil Press',
-          url: `${site}/`
-        }
-      })
-    }
-
-    const productionLinesMatch = route.match(/^\/(en|zh)\/solutions\/production-lines$/)
-    if (productionLinesMatch) {
-      const isZh = productionLinesMatch[1] === 'zh'
-      pageSchemas.push({
-        '@context': 'https://schema.org',
-        '@type': 'CollectionPage',
-        name: isZh ? '食用油生产线总览' : 'Edible Oil Production Lines Overview',
-        inLanguage: isZh ? 'zh-CN' : 'en',
-        url: `${site}${route}`,
-        isPartOf: {
-          '@type': 'WebSite',
-          name: 'Shengshi Hecheng Oil Press',
-          url: `${site}/`
-        }
-      })
-    }
-
-    const productDetailMatch = route.match(/^\/(en|zh)\/products\/(300|325|355|400|426|480|500)$/)
-    if (productDetailMatch) {
-      const lang = productDetailMatch[1]
-      const model = productDetailMatch[2]
-      const isZh = lang === 'zh'
-      const productName = isZh
-        ? `${model}系列液压榨油机`
-        : `${model} Series Hydraulic Oil Press`
-
-      pageSchemas.push({
-        '@context': 'https://schema.org',
-        '@type': 'Product',
-        name: productName,
-        category: isZh ? '液压榨油机' : 'Hydraulic Oil Press',
-        url: `${site}${route}`,
-        inLanguage: isZh ? 'zh-CN' : 'en',
-        brand: {
-          '@type': 'Brand',
-          name: isZh ? '盛世赫程' : 'Shengshi Hecheng'
-        },
-        manufacturer: {
-          '@type': 'Organization',
-          name: 'Shandong Shengshi Hecheng Machinery Co., Ltd.',
-          url: `${site}/`
-        },
-        additionalProperty: [
-          {
-            '@type': 'PropertyValue',
-            name: isZh ? '系列型号' : 'Model Series',
-            value: model
-          }
-        ]
-      })
-
-      pageSchemas.push({
-        '@context': 'https://schema.org',
-        '@type': 'FAQPage',
-        inLanguage: isZh ? 'zh-CN' : 'en',
-        mainEntity: isZh
-          ? [
-              {
-                '@type': 'Question',
-                name: `${model}系列适合哪些用户？`,
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: `${model}系列适合中小型油厂、家庭作坊及初创油料加工项目。`
-                }
-              },
-              {
-                '@type': 'Question',
-                name: '是否支持多种油料压榨？',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: '支持大豆、花生、芝麻、油菜籽等多种常见油料，并可按工艺进行冷榨或热榨配置。'
-                }
-              },
-              {
-                '@type': 'Question',
-                name: '是否提供安装与售后服务？',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: '提供安装调试、操作培训、备件支持和长期技术服务。'
-                }
-              }
-            ]
-          : [
-              {
-                '@type': 'Question',
-                name: `Who is the ${model} series suitable for?`,
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: `The ${model} series is suitable for small to medium oil mills, family workshops, and startup oil processing projects.`
-                }
-              },
-              {
-                '@type': 'Question',
-                name: 'Can it process multiple oilseed materials?',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: 'Yes. It supports soybean, peanut, sesame, rapeseed and other common oil-bearing materials with hot or cold pressing process options.'
-                }
-              },
-              {
-                '@type': 'Question',
-                name: 'Do you provide installation and after-sales support?',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: 'Yes. We provide installation, training, spare parts support, and long-term technical service.'
-                }
-              }
-            ]
-      })
-    }
-
-    const solutionDetailMatch = route.match(/^\/(en|zh)\/solutions\/(soybean|peanut|sesame|rapeseed|sunflower|flaxseed|tea-seed|walnut|coconut|corn-germ|almond|hazelnut|cashew|avocado|grape-seed|pumpkin-seed|perilla|palm|pistachio|apricot-kernel|peach-kernel|watermelon-seed|cottonseed|chili-seed|castor-seed|rice-bran|buckwheat)$/)
-    if (solutionDetailMatch) {
-      const lang = solutionDetailMatch[1]
-      const slug = solutionDetailMatch[2]
-      const isZh = lang === 'zh'
-      const labels = {
-        soybean: isZh ? '大豆' : 'Soybean',
-        peanut: isZh ? '花生' : 'Peanut',
-        sesame: isZh ? '芝麻' : 'Sesame',
-        rapeseed: isZh ? '油菜籽' : 'Rapeseed',
-        sunflower: isZh ? '向日葵籽' : 'Sunflower Seed',
-        flaxseed: isZh ? '亚麻籽' : 'Flaxseed',
-        'tea-seed': isZh ? '茶籽' : 'Tea Seed',
-        walnut: isZh ? '核桃' : 'Walnut',
-        coconut: isZh ? '椰子' : 'Coconut',
-        'corn-germ': isZh ? '玉米胚芽' : 'Corn Germ',
-        almond: isZh ? '杏仁' : 'Almond',
-        hazelnut: isZh ? '榛子' : 'Hazelnut',
-        cashew: isZh ? '腰果' : 'Cashew',
-        avocado: isZh ? '牛油果' : 'Avocado',
-        'grape-seed': isZh ? '葡萄籽' : 'Grape Seed',
-        'pumpkin-seed': isZh ? '南瓜籽' : 'Pumpkin Seed',
-        perilla: isZh ? '苏子' : 'Perilla Seed',
-        palm: isZh ? '棕榈' : 'Palm',
-        pistachio: isZh ? '开心果' : 'Pistachio',
-        'apricot-kernel': isZh ? '杏核仁' : 'Apricot Kernel',
-        'peach-kernel': isZh ? '桃核仁' : 'Peach Kernel',
-        'watermelon-seed': isZh ? '西瓜籽' : 'Watermelon Seed',
-        cottonseed: isZh ? '棉籽' : 'Cottonseed',
-        'chili-seed': isZh ? '辣椒籽' : 'Chili Seed',
-        'castor-seed': isZh ? '蓖麻籽' : 'Castor Seed',
-        'rice-bran': isZh ? '米糠' : 'Rice Bran',
-        buckwheat: isZh ? '荞麦籽' : 'Buckwheat'
-      }
-      const label = labels[slug]
-
-      pageSchemas.push({
-        '@context': 'https://schema.org',
-        '@type': 'Service',
-        name: isZh ? `${label}压榨解决方案` : `${label} Pressing Solutions`,
-        inLanguage: isZh ? 'zh-CN' : 'en',
-        url: `${site}${route}`,
-        provider: {
-          '@type': 'Organization',
-          name: isZh ? '山东盛世赫程机械有限公司' : 'Shandong Shengshi Hecheng Machinery Co., Ltd.',
-          url: `${site}/`
-        },
-        areaServed: 'Worldwide',
-        serviceType: isZh ? `${label}油料加工` : `${label} oil processing`
-      })
-
-      pageSchemas.push({
-        '@context': 'https://schema.org',
-        '@type': 'FAQPage',
-        inLanguage: isZh ? 'zh-CN' : 'en',
-        mainEntity: isZh
-          ? [
-              {
-                '@type': 'Question',
-                name: `${label}压榨推荐哪些机型？`,
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: `通常可选300/325/355系列，具体按产能、工艺与原料状态匹配。`
-                }
-              },
-              {
-                '@type': 'Question',
-                name: '能否提供整线方案？',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: '可以。可提供预处理、压榨、过滤、精炼与灌装等整线配置建议。'
-                }
-              },
-              {
-                '@type': 'Question',
-                name: '是否支持样品测试和工艺评估？',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: '支持。可根据原料样品与目标油品要求提供测试与工艺建议。'
-                }
-              }
-            ]
-          : [
-              {
-                '@type': 'Question',
-                name: `Which models are recommended for ${label.toLowerCase()} processing?`,
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: '300/325/355 series are commonly recommended, and final selection depends on capacity, process route, and raw material condition.'
-                }
-              },
-              {
-                '@type': 'Question',
-                name: 'Can you provide a full processing line solution?',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: 'Yes. We can provide integrated recommendations for pretreatment, pressing, filtering, refining, and filling.'
-                }
-              },
-              {
-                '@type': 'Question',
-                name: 'Do you support sample testing and process evaluation?',
-                acceptedAnswer: {
-                  '@type': 'Answer',
-                  text: 'Yes. We provide testing and process recommendations based on your raw material samples and target oil quality.'
-                }
-              }
-            ]
-      })
-    }
-
-    const newsArticleMatch = route.match(/^\/(en|zh|fr|ru|vi|bn)\/news\/(company|industry|technology)\/.+$/)
-    if (newsArticleMatch) {
-      const lang = newsArticleMatch[1]
-      const langCode = locales[lang] || lang
-      const title = pageData.frontmatter?.title || ''
-      const description = pageData.frontmatter?.description || ''
-      const date = pageData.frontmatter?.date || ''
-      if (title) {
-        pageSchemas.push({
-          '@context': 'https://schema.org',
-          '@type': 'Article',
-          headline: title,
-          ...(description ? { description } : {}),
-          ...(date ? { datePublished: date } : {}),
-          inLanguage: langCode,
-          url: `${site}${route}`,
-          author: {
-            '@type': 'Organization',
-            name: 'Shandong Shengshi Hecheng Machinery Co., Ltd.',
-            url: `${site}/`
-          },
-          publisher: {
-            '@type': 'Organization',
-            name: 'Shandong Shengshi Hecheng Machinery Co., Ltd.',
-            url: `${site}/`,
-            logo: {
-              '@type': 'ImageObject',
-              url: `${site}/images/hero-oil-press.webp`
-            }
-          }
-        })
+      if (route.startsWith(`/${locale}/`)) {
+        routeSuffix = route.slice(`/${locale}`.length)
+        break
       }
     }
+
+    const altHrefs = allLangs.map((locale) => {
+      const href = routeSuffix ? `${SITE_URL}/${locale}${routeSuffix}` : `${SITE_URL}/${locale}/`
+      return { hreflang: LOCALE_CODES[locale], href }
+    })
+
+    const isHome = segments.length === 0
+    const isLocalizedHome = route !== '/' && isHome
+    const isNewsArticle = section === 'news' && segments.length >= 3
+    const isNewsCollection = section === 'news' && segments.length <= 2
+    const isProductCollection = section === 'products' && (segments.length === 1 || (segments.length === 2 && PRODUCT_COLLECTION_SLUGS.has(segments[1])))
+    const isProductInfoPage = section === 'products' && segments.length === 2 && PRODUCT_INFO_SLUGS.has(segments[1])
+    const isProductDetail = section === 'products' && !isProductCollection && !isProductInfoPage
+    const isOilSolutionDetail = section === 'solutions' && segments.length === 2 && OIL_SOLUTION_DETAIL_SLUGS.has(segments[1])
+    const isSolutionCollection = section === 'solutions' && (segments.length === 1 || (segments.length === 2 && SOLUTION_COLLECTION_SLUGS.has(segments[1])))
+    const isSolutionMachineDetail = section === 'solutions' && !isOilSolutionDetail && !isSolutionCollection
+
+    const primaryPageType = getPrimaryPageType(section, segments)
+    const collectionItems = getCollectionItemList(lang, section, segments)
+    let mainEntityId = ''
+
+    if (isProductDetail || isSolutionMachineDetail) mainEntityId = `${canonical}#product`
+    if (isOilSolutionDetail) mainEntityId = `${canonical}#service`
+    if (isNewsArticle) mainEntityId = `${canonical}#article`
+
+    const pageSchemas = [
+      buildBasePageSchema({
+        canonical,
+        pageName,
+        description: pageDescription,
+        langCode,
+        pageType: primaryPageType,
+        collectionItems,
+        mainEntityId
+      })
+    ]
+
+    if (isHome) {
+      const homeFaq = buildHomeFaqSchema(lang)
+      if (homeFaq) {
+        homeFaq.inLanguage = langCode
+        pageSchemas.push(homeFaq)
+      }
+    }
+
+    if (isProductDetail) {
+      const productSlug = segments[1] === 'filling' ? segments[2] : segments[1]
+      const model = inferModel(pageName, productSlug)
+      let category = getRouteLabel(lang, 'products')
+
+      if (segments[1] === 'filling') {
+        category = getRouteLabel(lang, 'filling-equipment')
+      } else if (/^\d+$/.test(segments[1]) || segments[1] === 'customized-hydraulic-oil-press') {
+        category = getRouteLabel(lang, 'hydraulic-oil-press')
+      } else if (segments[1].includes('filter')) {
+        category = getRouteLabel(lang, 'filtration-equipment')
+      } else if (segments[1].includes('refining')) {
+        category = getRouteLabel(lang, 'refining-and-dewaxing-equipment')
+      } else {
+        category = getRouteLabel(lang, 'supporting')
+      }
+
+      pageSchemas.push(buildProductSchema({
+        canonical,
+        pageName,
+        description: pageDescription,
+        langCode,
+        category,
+        model
+      }))
+
+      if (/^\d+$/.test(segments[1])) {
+        const seriesFaq = buildSeriesFaqSchema(lang, segments[1])
+        if (seriesFaq) {
+          seriesFaq.inLanguage = langCode
+          pageSchemas.push(seriesFaq)
+        }
+      }
+    }
+
+    if (isOilSolutionDetail) {
+      pageSchemas.push(buildServiceSchema({
+        canonical,
+        pageName,
+        description: pageDescription,
+        langCode,
+        lang
+      }))
+
+      const solutionFaq = buildOilSolutionFaqSchema(lang, pageName || getRouteLabel(lang, slug))
+      if (solutionFaq) {
+        solutionFaq.inLanguage = langCode
+        pageSchemas.push(solutionFaq)
+      }
+    }
+
+    if (isSolutionMachineDetail) {
+      const model = inferModel(pageName, slug)
+      const category = getRouteLabel(lang, segments[1]) || getRouteLabel(lang, 'solutions')
+
+      pageSchemas.push(buildProductSchema({
+        canonical,
+        pageName,
+        description: pageDescription,
+        langCode,
+        category,
+        model
+      }))
+    }
+
+    if (isNewsArticle) {
+      pageSchemas.push(buildArticleSchema({
+        canonical,
+        pageName,
+        description: pageDescription,
+        langCode,
+        date: pageData.frontmatter?.date || ''
+      }))
+    }
+
+    const breadcrumbSchema = buildBreadcrumbSchema({
+      route,
+      canonical,
+      lang,
+      segments,
+      pageName
+    })
 
     return [
       ['link', { rel: 'canonical', href: canonical }],
@@ -618,30 +1507,8 @@ export default {
       ...(pageData.frontmatter?.title ? [['meta', { property: 'og:title', content: pageData.frontmatter.title }]] : []),
       ...(pageData.frontmatter?.description ? [['meta', { property: 'og:description', content: pageData.frontmatter.description }]] : []),
       ...altHrefs.map(({ hreflang, href }) => ['link', { rel: 'alternate', hreflang, href }]),
-      ['link', { rel: 'alternate', hreflang: 'x-default', href: `${site}/en/` }],
-      ['script', { type: 'application/ld+json' }, JSON.stringify({
-        '@context': 'https://schema.org',
-        '@type': 'BreadcrumbList',
-        itemListElement: route === '/'
-          ? [{
-              '@type': 'ListItem',
-              position: 1,
-              name: 'Home',
-              item: `${site}/`
-            }]
-          : route
-              .split('/')
-              .filter(Boolean)
-              .map((seg, idx, arr) => {
-                const path = `/${arr.slice(0, idx + 1).join('/')}`
-                return {
-                  '@type': 'ListItem',
-                  position: idx + 1,
-                  name: seg.replace(/-/g, ' '),
-                  item: `${site}${path}`
-                }
-              })
-      })],
+      ['link', { rel: 'alternate', hreflang: 'x-default', href: `${SITE_URL}/en/` }],
+      ['script', { type: 'application/ld+json' }, JSON.stringify(breadcrumbSchema)],
       ...pageSchemas.map((schema) => ['script', { type: 'application/ld+json' }, JSON.stringify(schema)])
     ]
   },
@@ -712,21 +1579,38 @@ export default {
     ['script', { type: 'application/ld+json' }, JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'Organization',
+      '@id': ORGANIZATION_ID,
       name: 'Shandong Shengshi Hecheng Machinery Co., Ltd.',
-      url: 'https://hydraulicoilpressing.opchn.com/',
-      logo: 'https://hydraulicoilpressing.opchn.com/images/hero-oil-press.webp',
-      contactPoint: [{
-        '@type': 'ContactPoint',
-        telephone: '+86-19906365856',
-        contactType: 'sales',
-        areaServed: 'Worldwide',
-        availableLanguage: ['en', 'zh']
-      }],
+      alternateName: ['山东盛世赫程机械有限公司', 'Shengshi Hecheng Oil Press'],
+      url: `${SITE_URL}/`,
+      logo: DEFAULT_IMAGE,
+      image: DEFAULT_IMAGE,
+      description: DEFAULT_DESCRIPTION,
+      telephone: '+86-19906365856',
+      email: 'gavin@oil-pressing-machine.com',
+      contactPoint: [
+        {
+          '@type': 'ContactPoint',
+          telephone: '+86-19906365856',
+          email: 'gavin@oil-pressing-machine.com',
+          contactType: 'sales',
+          areaServed: 'Worldwide',
+          availableLanguage: Object.values(LOCALE_CODES)
+        },
+        {
+          '@type': 'ContactPoint',
+          email: 'roryshanshan@gmail.com',
+          contactType: 'customer support',
+          areaServed: 'Worldwide',
+          availableLanguage: Object.values(LOCALE_CODES)
+        }
+      ],
       address: {
         '@type': 'PostalAddress',
         streetAddress: 'No. 5888, Yineng Street, Development Zone',
         addressLocality: 'Qingzhou',
         addressRegion: 'Shandong',
+        postalCode: '262500',
         addressCountry: 'CN'
       },
       sameAs: [
@@ -736,14 +1620,14 @@ export default {
     ['script', { type: 'application/ld+json' }, JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'WebSite',
-      name: 'Shengshi Hecheng Oil Press',
-      url: 'https://hydraulicoilpressing.opchn.com/',
-      inLanguage: ['en', 'zh-CN'],
-      potentialAction: {
-        '@type': 'SearchAction',
-        target: 'https://hydraulicoilpressing.opchn.com/en/news/?q={search_term_string}',
-        'query-input': 'required name=search_term_string'
-      }
+      '@id': WEBSITE_ID,
+      name: SITE_NAME,
+      url: `${SITE_URL}/`,
+      description: DEFAULT_DESCRIPTION,
+      publisher: {
+        '@id': ORGANIZATION_ID
+      },
+      inLanguage: Object.values(LOCALE_CODES)
     })],
     ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=AW-17559313965' }],
     ['script', {}, `
