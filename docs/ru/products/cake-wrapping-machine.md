@@ -1,9 +1,79 @@
 ---
-title: Машина для обёртки жмыха - Shengshi Hecheng
-description: Машина для обёртки жмыха является необходимым аксессуаром для горизонтальных гидравлических прессов, размер формы для жмыха можно настроить
-keywords: машина для обёртки жмыха, оборудование для гидравлического пресса, машина для прессования жмыха, обёртка жмыха, оборудование для переработки жмыха, оборудование для постобработки масличных семян, обёртка жмыха, машина для жмыха, оборудование для обёртки, обёртка остатков жмыха
----
+title: Машина для обёртки жмыха - Shengshi Hecheng цена | производитель
+description: Запросите цену и подбор Машина для обёртки жмыха - Shengshi Hecheng. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Машина для обёртки жмыха цена, купить Машина для обёртки жмыха, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Машина для обёртки жмыха",
+          "description": "Запросите цену и подбор Машина для обёртки жмыха - Shengshi Hecheng. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "cake-wrapping-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/cake-wrapping-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Машина для обёртки жмыха",
+              "item": "https://hydraulic-oil-press.com/ru/products/cake-wrapping-machine"
+            }
+          ]
+        }
+---
 # Машина для обёртки жмыха
 ![Машина для обёртки жмыха](https://i.postimg.cc/XW8ztq7j/9fbc817965109be9b37b5995fe94af50.png?dl=1)
 

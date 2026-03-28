@@ -2,8 +2,78 @@
 title: 食用油过滤设备 | 滤油机与滤油配套方案
 description: 查看食用油过滤设备与滤油配套方案，涵盖气动滤油机、后处理系统、产能匹配建议，以及液压榨油后的澄清过滤流程。
 keywords: 食用油过滤设备, 滤油机, 气动滤油机, 食用油过滤方案, 毛油澄清, 榨油过滤设备, 油品后处理设备
----
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "过滤设备",
+          "description": "查看食用油过滤设备与滤油配套方案，涵盖气动滤油机、后处理系统、产能匹配建议，以及液压榨油后的澄清过滤流程。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "filtration-equipment",
+          "url": "https://hydraulic-oil-press.com/zh/products/filtration-equipment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "过滤设备",
+              "item": "https://hydraulic-oil-press.com/zh/products/filtration-equipment"
+            }
+          ]
+        }
+---
 # 过滤设备
 
 过滤设备是液压榨油机与成品油质量之间最关键的一道环节。毛油从榨机出来后，通常仍含有细小饼渣、悬浮杂质和部分胶体物质，需要在储油、精炼或灌装之前进行澄清过滤。本页用于把站内分散的滤油设备、后处理页与整线方案串联起来，方便客户更快判断适合自己的过滤路线。

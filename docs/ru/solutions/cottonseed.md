@@ -1,9 +1,75 @@
 ---
-title: Cottonseed (Cottonseed Oil) Solutions - Shengshi Hecheng
-description: Professional cottonseed oil pressing solutions, providing cottonseed oil processing equipment and technical services, oil content 35-45%
-keywords: Cottonseed solutions, Cottonseed oil pressing, Cottonseed processing equipment, Cottonseed oil production line, Cottonseed oil press, Cottonseed oil extraction, Cottonseed oilseed processing, Cottonseed oil pressing equipment, Cottonseed oil production equipment, Cottonseed oil processing plant
----
+title: Cottonseed (Cottonseed Oil) Solutions - Shengshi Hecheng цена ...
+description: "Запросите стоимость решения Cottonseed (Cottonseed Oil) Solutions - Shengshi Hecheng: проект линии, список оборудования и сервис."
+keywords: Cottonseed (Cottonseed Oil) Solutions цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Cottonseed (Cottonseed Oil) Solutions",
+          "description": "Запросите стоимость решения Cottonseed (Cottonseed Oil) Solutions - Shengshi Hecheng: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/cottonseed",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Cottonseed (Cottonseed Oil) Solutions",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/cottonseed"
+            }
+          ]
+        }
+---
 # Cottonseed (Cottonseed Oil) Solutions
 
 ## Overview
@@ -127,3 +193,11 @@ If you are interested in cottonseed pressing solutions, please contact our techn
 - 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable cottonseed pressing solutions.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

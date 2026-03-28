@@ -1,9 +1,79 @@
 ---
-title: "Роторная ополаскивающая машина | серия ополаскивающих машин"
-description: "Он оснащен бутылями, обращенными вверх и вниз, шестиколесной трансмиссией, оснащен тремя распределителями воды, резервуаром для циркулирующей воды, водяным насосом, двумя промывками циркуляционной воды и одной промывкой чистой водой; его можно плавно регулировать и он имеет хороший эффект контроля воды."
-keywords: "Ротационная машина для ополаскивания бутылок, серия ополаскивателей для бутылок, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Роторная ополаскивающая машина цена | производитель
+description: Запросите цену и подбор Роторная ополаскивающая машина. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Роторный ополаскиватель бутылок цена, купить Роторный ополаскиватель бутылок, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Роторный ополаскиватель бутылок",
+          "description": "Запросите цену и подбор \"Роторная ополаскивающая машина. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "rotary-bottle-washer",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/rotary-bottle-washer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Роторный ополаскиватель бутылок",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/rotary-bottle-washer"
+            }
+          ]
+        }
+---
 # Роторный ополаскиватель бутылок
 
 ![Вращающаяся машина для мытья бутылок](/images/filling-products/rotary-bottle-washer.webp)

@@ -1,7 +1,78 @@
 ---
-title: 液压油缸工作原理
-description: 液压油缸是液压系统中的执行元件，用来将液压能（液体的压力能）转化为机械能，实现直线往复运动或摆动。
-keywords: 液压榨油机, 榨油机设备, 油料加工设备
+title: 液压油缸工作原理价格|厂家报价
+description: 获取液压油缸工作原理价格、采购与售后支持，厂家直供，支持选型与交付。
+keywords: 液压油缸工作原理价格, 液压油缸工作原理报价, 液压油缸工作原理厂家, 液压油缸工作原理采购, 售后服务
+
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "液压油缸工作原理",
+          "description": "获取液压油缸工作原理价格、采购与售后支持，厂家直供，支持选型与交付。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "hydraulic-cylinder-principle",
+          "url": "https://hydraulic-oil-press.com/zh/products/hydraulic-cylinder-principle",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "液压油缸工作原理",
+              "item": "https://hydraulic-oil-press.com/zh/products/hydraulic-cylinder-principle"
+            }
+          ]
+        }
 ---
 # 液压油缸工作原理
 

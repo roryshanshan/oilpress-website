@@ -1,6 +1,6 @@
 ---
-title: "芝麻油生产线配置指南：热榨、冷榨与设备搭配"
-description: "了解芝麻油项目在热榨、冷榨、炒制、过滤与灌装上的关键配置，以及如何稳定香味与出油率。"
+title: 芝麻油生产线配置指南：热榨、冷榨与设备搭配
+description: 了解芝麻油项目在热榨、冷榨、炒制、过滤与灌装上的关键配置，以及如何稳定香味与出油率。
 keywords: 芝麻油生产线, 芝麻油热榨, 芝麻油冷榨, 液压榨油机芝麻
 date: "2026-03-18"
 ---
@@ -38,4 +38,4 @@ date: "2026-03-18"
 - [如何选择液压榨油机型号](/zh/news/technology/how-to-choose-hydraulic-oil-press-model)
 - [预处理设备](/zh/products/pre-treatment)
 - [气动过滤机](/zh/products/pneumatic-filter-press)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

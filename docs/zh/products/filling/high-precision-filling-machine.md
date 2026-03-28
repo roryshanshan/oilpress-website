@@ -1,9 +1,79 @@
 ---
-title: 高精度定量灌装机 | GDP-12A~GDP-40H 机型总览
-description: 高精度定量灌装机覆盖 GDP-12A 到 GDP-40H，参考产量 3000-12000 b/h，500±1.5 ml 精度，适合多规格瓶装定量灌装项目。
-keywords: 高精度定量灌装机, GDP-12A, GDP-40H, 定量灌装机, 灌装机系列, 盛世赫程
----
+title: 高精度定量灌装机价格|厂家报价
+description: 获取高精度定量灌装机价格、采购与售后支持，厂家直供，支持选型与交付。
+keywords: 高精度定量灌装机价格, 高精度定量灌装机报价, 高精度定量灌装机厂家, 高精度定量灌装机采购, 售后服务
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "高精度定量灌装机",
+          "description": "获取高精度定量灌装机价格、采购与售后支持，厂家直供，支持选型与交付。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "high-precision-filling-machine",
+          "url": "https://hydraulic-oil-press.com/zh/products/filling/high-precision-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "高精度定量灌装机",
+              "item": "https://hydraulic-oil-press.com/zh/products/filling/high-precision-filling-machine"
+            }
+          ]
+        }
+---
 # 高精度定量灌装机
 
 ![高精度定量灌装机](/images/filling-products/high-precision-filling-machine.webp)
@@ -51,4 +121,4 @@ keywords: 高精度定量灌装机, GDP-12A, GDP-40H, 定量灌装机, 灌装机
 
 - [灌装包装设备参数库](/zh/products/filling-equipment)
 - [灌装机系列](/zh/solutions/filling/)
-- [联系我们获取整线建议](/zh/contact/)
+- [获取报价/整线建议](/zh/contact/)

@@ -1,9 +1,79 @@
 ---
 title: Оборудование для розлива и упаковки
 description: Обзор оборудования для розлива и упаковки с акцентом на проекты по вину, хуанцзю, соевому соусу и уксусу, а также на модели низковакуумного розлива.
-keywords: оборудование для розлива, низковакуумная машина розлива, линия розлива вина, упаковочное оборудование, Shengshi Hecheng
----
+keywords: Оборудование для розлива и упаковки цена, купить Оборудование для розлива и упаковки, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Оборудование для розлива и упаковки",
+          "description": "Обзор оборудования для розлива и упаковки с акцентом на проекты по вину, хуанцзю, соевому соусу и уксусу, а также на модели низковакуумного розлива.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "filling-equipment",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling-equipment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Оборудование для розлива и упаковки",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling-equipment"
+            }
+          ]
+        }
+---
 # Оборудование для розлива и упаковки
 
 Эта страница собирает ключевые ориентиры по оборудованию для розлива и упаковки, особенно для вина, фруктового вина, хуанцзю, соевого соуса и уксуса.
@@ -37,7 +107,7 @@ keywords: оборудование для розлива, низковакуум
 
 - [Серия оборудования для пивоварения](/ru/solutions/brewing/)
 - [Серия укупорочных машин](/ru/solutions/corking/)
-- [Контакты](/ru/contact/)
+- [Запросить цену и расчёт](/ru/contact/)
 <!-- packaging-hub-links:start -->
 ## Подробные ссылки на оборудование
 

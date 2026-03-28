@@ -1,9 +1,75 @@
 ---
-title: "Machine de remplissage de cuve rotative | équipement de remplissage quantitatif automatique de liquide de cuve"
-description: "La machine de remplissage de cuve rotative convient au remplissage quantitatif automatique de liquides de cuve. Il possède des fonctions telles que la quantification électronique des vannes, le contrôle PLC, l'absence de remplissage sans baril et des fonctions anti-goutte. Il convient aux projets de graisses et de liquides chimiques."
-keywords: "Machine de remplissage de cuve rotative, machine de remplissage de cuve, machine de remplissage quantitative, série de machines de remplissage, Shengshi Hecheng"
----
+title: Machine de remplissage de cuve rotative devis
+description: "Demandez un devis pour Machine de remplissage de cuve rotative : plan de ligne, liste d’équipements et SAV."
+keywords: Machine de remplissage de cuve rotative prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Machine de remplissage de cuve rotative",
+          "description": "Demandez un devis pour \"Machine de remplissage de cuve rotative : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/filling/rotary-drum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine de remplissage de cuve rotative",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/filling/rotary-drum-filling-machine"
+            }
+          ]
+        }
+---
 # Machine de remplissage de cuve rotative
 
 ![Machine de remplissage à tambour rotatif](/images/filling-products/rotary-drum-filling-machine.webp)
@@ -41,3 +107,11 @@ La machine de remplissage de cuve rotative convient au remplissage quantitatif a
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
 - [Série de machines de remplissage](/fr/solutions/filling/)
 - [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

@@ -1,9 +1,75 @@
 ---
-title: "Комбинированная машина для ополаскивания, розлива и укупоривания вина | Серия винодельческого оборудования"
-description: "Эта тройная машина в основном предназначена для розлива вина и фруктовых вин. Это оборудование органично сочетает в себе ополаскиватель с переворачивающимся устройством, машину для розлива при отрицательном давлении и укупорочную машину. Оборудование имеет компактную конструкцию и экономит место для установки."
-keywords: "Комбинированная машина для ополаскивания, розлива и укупорки вина, серия винодельческого оборудования, оборудование для упаковки жидкостей, оборудование для розлива и упаковки, Shengshi Hecheng"
----
+title: Комбинированная машина для ополаскивания, розлива Решение | Цена
+description: "Запросите стоимость решения Комбинированная машина для ополаскивания, розлива и укупоривания вина: проект линии, список оборудования и сервис."
+keywords: Комбинированная машина для ополаскивания, розлива и укупорки вина. цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Комбинированная машина для ополаскивания, розлива и укупорки вина.",
+          "description": "Запросите стоимость решения \"Комбинированная машина для ополаскивания, розлива и укупоривания вина: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/brewing/wine-rinsing-filling-corking-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Комбинированная машина для ополаскивания, розлива и укупорки вина.",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/brewing/wine-rinsing-filling-corking-monoblock"
+            }
+          ]
+        }
+---
 # Комбинированная машина для ополаскивания, розлива и укупорки вина.
 
 ![Комбинированная машина для ополаскивания, розлива и укупорки вина](/images/filling-products/wine-rinsing-filling-corking-monoblock.webp)
@@ -94,3 +160,11 @@ keywords: "Комбинированная машина для ополаскив
 - [Библиотека параметров фасовочно-упаковочного оборудования](/ru/products/filling-equipment)
 - [Серия пивоваренного оборудования](/ru/solutions/brewing/)
 - [Свяжитесь с нами для получения полной консультации по линии](/ru/contact/)
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

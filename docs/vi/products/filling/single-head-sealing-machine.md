@@ -1,9 +1,79 @@
 ---
-title: "Máy hàn một đầu tự động | Dòng máy niêm phong"
-description: "Máy hàn kín một đầu tự động phù hợp làm mẫu đại diện trong dòng máy hàn kín."
-keywords: "Máy hàn kín một đầu tự động, dòng máy hàn kín, thiết bị đóng gói chất lỏng, thiết bị chiết rót và đóng gói, Shengshi Hechen"
----
+title: Máy hàn một đầu tự động giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy hàn một đầu tự động từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy hàn một đầu tự động, mua Máy hàn một đầu tự động, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy hàn một đầu tự động",
+          "description": "Nhận báo giá và tư vấn mua \"Máy hàn một đầu tự động từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "single-head-sealing-machine",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling/single-head-sealing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy hàn một đầu tự động",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling/single-head-sealing-machine"
+            }
+          ]
+        }
+---
 # Máy hàn một đầu tự động
 
 ![Máy hàn một đầu tự động](/images/filling-products/single-head-sealing-machine.webp)

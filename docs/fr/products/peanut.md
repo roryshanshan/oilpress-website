@@ -1,9 +1,79 @@
 ---
-title: Solution arachide (huile d'arachide) - Shengshi Hecheng
-description: Shandong Shengshi Hecheng fournit des solutions professionnelles d'extraction d'arachide, équipements et services complets pour ateliers petits et grands
-keywords: solution arachide, extraction d'huile d'arachide, équipement de traitement d'arachide, ligne de production d'huile d'arachide, processus d'extraction à chaud d'arachide, processus d'extraction à froid d'arachide, presse à arachide, traitement de tourteau d'arachide, extraction d'huile d'arachide, traitement d'huile d'arachide, équipement d'extraction d'arachide, équipement de raffinage d'huile d'arachide, usine de traitement d'huile d'arachide, technologie d'extraction d'arachide, équipement de production d'huile d'arachide
----
+title: Solution arachide (huile d'arachide) - Shengshi Hecheng prix |...
+description: Demandez le prix et le devis pour Solution arachide (huile d'arachide) - Shengshi Hecheng. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Solution arachide (huile d'arachide) prix, acheter Solution arachide (huile d'arachide), devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Solution arachide (huile d'arachide)",
+          "description": "Demandez le prix et le devis pour Solution arachide (huile d'arachide) - Shengshi Hecheng. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "peanut",
+          "url": "https://hydraulic-oil-press.com/fr/products/peanut",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Solution arachide (huile d'arachide)",
+              "item": "https://hydraulic-oil-press.com/fr/products/peanut"
+            }
+          ]
+        }
+---
 # Solution arachide (huile d'arachide)
 
 ## Aperçu

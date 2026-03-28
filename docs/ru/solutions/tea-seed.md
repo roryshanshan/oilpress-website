@@ -1,9 +1,75 @@
 ---
-title: Решение для чайного семени (Масло чайного семени)
-description: Профессиональные решения для отжима чайного семени, предоставление оборудования и технических услуг по переработке масла чайного семени, содержание масла 25-35%
-keywords: Решения для чайного семени, Отжим масла чайного семени, Оборудование для переработки чайного семени, Линия производства масла чайного семени, Процесс горячего отжима чайного семени, Пресс для масла чайного семени, Экстракция масла чайного семени, Переработка масличных семян чайного семени, Оборудование для отжима масла чайного семени, Чайное масло, Масло камелии
----
+title: Решение для чайного семени (Масло чайного семени) цена
+description: "Запросите стоимость решения Решение для чайного семени (Масло чайного семени): проект линии, список оборудования и сервис."
+keywords: Решение для чайного семени (Масло чайного семени) цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Решение для чайного семени (Масло чайного семени)",
+          "description": "Запросите стоимость решения Решение для чайного семени (Масло чайного семени): проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/tea-seed",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Решение для чайного семени (Масло чайного семени)",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/tea-seed"
+            }
+          ]
+        }
+---
 # Решение для чайного семени (Масло чайного семени)
 
 ## Обзор
@@ -142,3 +208,11 @@ keywords: Решения для чайного семени, Отжим масл
 - 📍 **Адрес**: № 5888, Улица Иньнэн, Зона развития, Город Цинчжоу, Город Вэйфан, Провинция Шаньдун
 
 Мы предоставляем бесплатные технические консультации, тестирование образцов и услуги выездной инспекции, чтобы предоставить вам наиболее подходящее решение для отжима чайного семени.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

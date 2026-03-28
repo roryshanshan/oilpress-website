@@ -1,9 +1,75 @@
 ---
-title: Решения для пальмы (Масло пальмы) - Shengshi Hecheng
-description: Профессиональные решения для отжима пальмы, предоставление оборудования и технических услуг по переработке масла пальмы, содержание масла 45-55%
-keywords: Решения для пальмы, Отжим масла пальмы, Оборудование для переработки пальмы, Линия производства масла пальмы, Пресс для масла пальмы, Экстракция масла пальмы, Переработка масличных семян пальмы, Оборудование для отжима масла пальмы, Оборудование для производства масла пальмы, Завод по переработке масла пальмы
----
+title: Решения для пальмы (Масло пальмы) - Shengshi Hecheng цена | ко...
+description: "Запросите стоимость решения Решения для пальмы (Масло пальмы) - Shengshi Hecheng: проект линии, список оборудования и сервис."
+keywords: Решение для пальмы (Масло пальмы) цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Решение для пальмы (Масло пальмы)",
+          "description": "Запросите стоимость решения Решения для пальмы (Масло пальмы) - Shengshi Hecheng: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/palm",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Решение для пальмы (Масло пальмы)",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/palm"
+            }
+          ]
+        }
+---
 # Решение для пальмы (Масло пальмы)
 
 ## Обзор
@@ -129,3 +195,11 @@ keywords: Решения для пальмы, Отжим масла пальмы
 - 📍 **Адрес**: № 5888, Улица Иньнэн, Зона развития, Город Цинчжоу, Город Вэйфан, Провинция Шаньдун
 
 Мы предоставляем бесплатные технические консультации, тестирование образцов и услуги выездной инспекции, чтобы предоставить вам наиболее подходящее решение для отжима пальмы.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

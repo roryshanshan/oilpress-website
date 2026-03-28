@@ -1,9 +1,75 @@
 ---
-title: খুবানি কার্নেল (খুবানি কার্নেল অয়েল) সমাধান
-description: পেশাদার খুবানি কার্নেল প্রেসিং সমাধান, খুবানি কার্নেল অয়েল প্রক্রিয়াকরণ সরঞ্জাম এবং প্রযুক্তিগত সেবা প্রদান করে, অয়েল কনটেন্ট 40-50%, ওলিক অ্যাসিড সমৃদ্ধ
-keywords: খুবানি কার্নেল সমাধান, খুবানি কার্নেল অয়েল প্রেসিং, খুবানি কার্নেল প্রক্রিয়াকরণ সরঞ্জাম, খুবানি কার্নেল অয়েল উৎপাদন লাইন, খুবানি কার্নেল কোল্ড প্রেসিং প্রক্রিয়া, খুবানি কার্নেল প্রেসিং মেশিন, খুবানি কার্নেল অয়েল নিষ্কাশন, খুবানি কার্নেল অয়েল প্রক্রিয়াকরণ, খুবানি কার্নেল অয়েল প্রেসিং সরঞ্জাম, খুবানি কার্নেল অয়েল উৎপাদন সরঞ্জাম
----
+title: খুবানি কার্নেল (খুবানি কার্নেল অয়েল) সমাধান কোটেশন
+description: খুবানি কার্নেল (খুবানি কার্নেল অয়েল) সমাধান এর কোটেশন নিন—লাইন পরিকল্পনা, যন্ত্রপাতির তালিকা ও সাপোর্টসহ।
+keywords: খুবানি কার্নেল (খুবানি কার্নেল অয়েল) সমাধান লাইন দরপত্র, টার্নকি সমাধান, যন্ত্রপাতির তালিকা, কারখানা থেকে ক্রয়, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "খুবানি কার্নেল (খুবানি কার্নেল অয়েল) সমাধান",
+          "description": "খুবানি কার্নেল (খুবানি কার্নেল অয়েল) সমাধান এর কোটেশন নিন—লাইন পরিকল্পনা, যন্ত্রপাতির তালিকা ও সাপোর্টসহ।",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "serviceType": "সমাধান",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/bn/solutions/apricot-kernel",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "সমাধান",
+              "item": "https://hydraulic-oil-press.com/bn/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "খুবানি কার্নেল (খুবানি কার্নেল অয়েল) সমাধান",
+              "item": "https://hydraulic-oil-press.com/bn/solutions/apricot-kernel"
+            }
+          ]
+        }
+---
 # খুবানি কার্নেল (খুবানি কার্নেল অয়েল) সমাধান
 
 ## সারাংশ
@@ -127,3 +193,11 @@ keywords: খুবানি কার্নেল সমাধান, খুব
 - 📍 **ঠিকানা**: শানডং প্রদেশ, ওয়েইফ্যাং সিটি, কিংঝো সিটি, ডেভেলপমেন্ট জোন, ইনেং স্ট্রিট 5888 নম্বর
 
 আমরা বিনামূল্যে প্রযুক্তিগত পরামর্শ, নমুনা পরীক্ষা এবং সাইট ভিজিট সেবা প্রদান করি, আপনার জন্য সবচেয়ে উপযুক্ত খুবানি কার্নেল প্রেসিং সমাধান প্রদান করি।
+
+## দাম ও দরপত্র নিন
+
+ক্ষমতা, কাঁচামাল ও বাজেট দিন—আমরা লাইন কনফিগারেশন ও দরপত্র দেব।
+
+- [দাম ও দরপত্র নিন](/bn/contact/)
+
+<!-- quote-cta -->

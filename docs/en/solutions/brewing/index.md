@@ -1,7 +1,7 @@
 ---
-title: "Brewing equipment series"
-description: "The winemaking equipment series is suitable for fermentation, storage, filtration, filling and post-packaging of wine, fruit wine, rice wine and other products, and can form a complete wine packaging production line."
-keywords: "Winemaking equipment series, wine equipment, fruit wine filling line, wine packaging equipment, fermentation wine storage equipment, corking and capping labeling line"
+title: Brewing equipment series
+description: The winemaking equipment series is suitable for fermentation, storage, filtration, filling and post-packaging of wine, fruit wine, rice wine and other products
+keywords: Winemaking equipment series, wine equipment, fruit wine filling line, wine packaging equipment, fermentation wine storage equipment, corking and capping labeling line
 ---
 
 # Brewing equipment series

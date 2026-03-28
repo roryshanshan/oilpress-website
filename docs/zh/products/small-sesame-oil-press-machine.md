@@ -1,9 +1,79 @@
 ---
-title: 小型芝麻榨油机 | 适合现榨芝麻油门店的韩式液压机
-description: 小型芝麻榨油机基于韩式液压榨油机结构，适合芝麻油门店、有机油品专柜和小型商业生产，覆盖 10KG 到 20KG 级别机型。
-keywords: 小型芝麻榨油机, 韩式芝麻榨油机, 芝麻油门店设备, 现榨芝麻油设备, KHOP-10KG, KHOP-15KG, KHOP-20KG, 小型液压榨油机
----
+title: 小型芝麻榨油机价格|厂家报价
+description: 获取小型芝麻榨油机价格、采购与售后支持，厂家直供，支持选型与交付。
+keywords: 小型芝麻榨油机价格, 小型芝麻榨油机报价, 小型芝麻榨油机厂家, 小型芝麻榨油机采购, 售后服务
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "小型芝麻榨油机",
+          "description": "获取小型芝麻榨油机价格、采购与售后支持，厂家直供，支持选型与交付。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "small-sesame-oil-press-machine",
+          "url": "https://hydraulic-oil-press.com/zh/products/small-sesame-oil-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "小型芝麻榨油机",
+              "item": "https://hydraulic-oil-press.com/zh/products/small-sesame-oil-press-machine"
+            }
+          ]
+        }
+---
 # 小型芝麻榨油机
 
 ![小型芝麻榨油机](/images/korean-type-small-press/small-sesame-hero.jpg)

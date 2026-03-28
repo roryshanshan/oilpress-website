@@ -1,6 +1,6 @@
 ---
-title: "菜籽油生产工艺指南：压榨流程、出油率与生产线配置"
-description: "了解菜籽油项目如何匹配热榨工艺、预处理设备、液压压榨和过滤系统，从而提升出油率与稳定性。"
+title: 菜籽油生产工艺指南：压榨流程、出油率与生产线配置
+description: 了解菜籽油项目如何匹配热榨工艺、预处理设备、液压压榨和过滤系统，从而提升出油率与稳定性。
 keywords: 液压榨油机, 食用油生产线, 榨油工艺, 油料加工
 date: "2026-03-09"
 ---
@@ -34,4 +34,4 @@ date: "2026-03-09"
 - [预处理设备](/zh/products/pre-treatment)
 - [冷榨与热榨对比指南](/zh/news/technology/cold-press-vs-hot-press)
 - [如何提高榨油机出油率](/zh/news/technology/improve-oil-yield)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

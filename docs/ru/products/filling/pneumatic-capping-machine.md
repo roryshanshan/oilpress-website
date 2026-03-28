@@ -1,9 +1,79 @@
 ---
-title: "Полностью автоматическая пневматическая укупорочная машина | серия запечатывающих машин"
-description: "Эта машина подходит для бутылок, запечатанных откручивающимися алюминиевыми крышками с защитой от кражи."
-keywords: "Полностью автоматическая пневматическая укупорочная машина, серия запечатывающих машин, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Полностью автоматическая пневматическая укупорочная машина цена
+description: Запросите цену и подбор Полностью автоматическая пневматическая укупорочная машина. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Полностью автоматическая пневматическая укупорочная машина. цена, купить Полностью автоматическая пневматическая укупорочная машина., коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Полностью автоматическая пневматическая укупорочная машина.",
+          "description": "Запросите цену и подбор \"Полностью автоматическая пневматическая укупорочная машина. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "pneumatic-capping-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/pneumatic-capping-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Полностью автоматическая пневматическая укупорочная машина.",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/pneumatic-capping-machine"
+            }
+          ]
+        }
+---
 # Полностью автоматическая пневматическая укупорочная машина.
 
 ![Полностью автоматическая пневматическая укупорочная машина](/images/filling-products/pneumatic-capping-machine.webp)

@@ -1,6 +1,6 @@
 ---
-title: "Filtration et conditionnement de l'huile alimentaire après pressage : guide pratique de post-traitement"
-description: "Apprenez à filtrer, stocker, remplir, sceller et étiqueter l'huile alimentaire après pressage afin d'obtenir un produit plus propre, plus stable et prêt à la vente."
+title: Filtration et conditionnement de l'huile alimentaire après pre...
+description: Apprenez à filtrer, stocker, remplir, sceller et étiqueter l'huile alimentaire après pressage afin d'obtenir un produit plus propre
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-12"
 ---

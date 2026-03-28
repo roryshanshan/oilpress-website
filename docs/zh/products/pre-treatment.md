@@ -2,8 +2,78 @@
 title: 榨油预处理设备 - 山东盛世赫程机械有限公司
 description: 榨油预处理设备是榨油生产线中的重要组成部分，包括清选设备、烘干设备、破碎设备，直接影响最终产品质量，提高出油率。
 keywords: 榨油预处理设备, 榨油机设备, 榨油机价格, 榨油机报价, 榨油机采购, 油料加工设备, 榨油机配套设备, 售后服务, 油料加工生产线, 油料预处理设备
----
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "榨油预处理设备",
+          "description": "榨油预处理设备是榨油生产线中的重要组成部分，包括清选设备、烘干设备、破碎设备，直接影响最终产品质量，提高出油率。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "pre-treatment",
+          "url": "https://hydraulic-oil-press.com/zh/products/pre-treatment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "榨油预处理设备",
+              "item": "https://hydraulic-oil-press.com/zh/products/pre-treatment"
+            }
+          ]
+        }
+---
 # 榨油预处理设备
 
 预处理设备是榨油生产线中的重要组成部分,直接影响最终产品质量。

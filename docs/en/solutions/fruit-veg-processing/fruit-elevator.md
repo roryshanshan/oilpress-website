@@ -1,9 +1,75 @@
 ---
-title: "Elevator | Fruit and vegetable pre-processing equipment"
-description: "This equipment is used for upgrading fruits and vegetables such as grapes, strawberries, and apples. It is one of the necessary pre-treatment equipment for manufacturers of liquid products such as fruit and vegetable juices and fruit wines."
-keywords: "Elevator, fruit and vegetable pre-processing equipment, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: Elevator Quote | Turnkey Solution
+description: Get a quote and turnkey plan for Elevator. Process design, equipment list, and after-sales support.
+keywords: Elevator quote, Elevator price, turnkey solution, production line, procurement
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Hoist",
+          "description": "Get a quote and turnkey plan for \"Elevator. Process design, equipment list, and after-sales support.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/en/solutions/fruit-veg-processing/fruit-elevator",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/en/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Hoist",
+              "item": "https://hydraulic-oil-press.com/en/solutions/fruit-veg-processing/fruit-elevator"
+            }
+          ]
+        }
+---
 # Hoist
 
 ![Elevator](/images/filling-products/fruit-elevator.webp)
@@ -39,3 +105,11 @@ This equipment is used for upgrading fruits and vegetables such as grapes, straw
 - [Filling and packaging equipment parameter library](/en/products/filling-equipment)
 - [Fruit and vegetable pre-processing equipment](/en/solutions/fruit-veg-processing/)
 - [Contact us for complete line advice](/en/contact/)
+
+## Get Price & Quote
+
+Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+
+- [Get Price & Quote](/en/contact/)
+
+<!-- quote-cta -->

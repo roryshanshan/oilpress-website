@@ -1,9 +1,79 @@
 ---
-title: "Máy kết hợp đóng nắp thông minh hoàn toàn tự động GDP36DK-10-10 | máy kết hợp và xe buýt hỗ trợ làm đầy"
-description: "Model này là một trong những thiết bị cao cấp và phổ biến trong ngành chiết rót rượu. Nó giới thiệu công nghệ nguyên lý làm việc tiên tiến của nước ngoài, tích hợp ánh sáng, điện và khí đốt, nhanh chóng, chính xác và hiệu quả và được sử dụng rộng rãi trong ngành công nghiệp sản phẩm đóng gói rượu vang."
-keywords: "GDP36DK-10-10 Máy kết hợp đóng nắp và chiết rót thông minh hoàn toàn tự động, máy kết hợp và xe buýt hỗ trợ chiết rót, thiết bị đóng gói chất lỏng, thiết bị chiết rót và đóng gói, Shengshi Hechen"
----
+title: Máy kết hợp đóng nắp thông minh hoàn toàn tự động GDP36DK-10-...
+description: Nhận báo giá và tư vấn mua Máy kết hợp đóng nắp thông minh hoàn toàn tự động GDP36DK-10-10 từ nhà sản xuất Shengshi Hecheng.
+keywords: giá GDP36DK-10-10 Máy chiết rót, đóng nắp, dán kín hoàn toàn tự động thông minh, mua GDP36DK-10-10 Máy chiết rót, đóng nắp, dán kín hoàn toàn tự động thông minh, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "GDP36DK-10-10 Máy chiết rót, đóng nắp, dán kín hoàn toàn tự động thông minh",
+          "description": "Nhận báo giá và tư vấn mua \"Máy kết hợp đóng nắp thông minh hoàn toàn tự động GDP36DK-10-10 từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "gdp36dk-filling-capping-sealing-monoblock",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling/gdp36dk-filling-capping-sealing-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GDP36DK-10-10 Máy chiết rót, đóng nắp, dán kín hoàn toàn tự động thông minh",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling/gdp36dk-filling-capping-sealing-monoblock"
+            }
+          ]
+        }
+---
 # GDP36DK-10-10 Máy chiết rót, đóng nắp, dán kín hoàn toàn tự động thông minh
 
 ![Máy đóng nắp và chiết rót thông minh hoàn toàn tự động GDP36DK-10-10](/images/filling-products/gdp36dk-filling-capping-sealing-monoblock.webp)

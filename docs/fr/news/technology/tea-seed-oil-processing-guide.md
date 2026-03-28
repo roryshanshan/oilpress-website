@@ -1,6 +1,6 @@
 ---
-title: "Guide de production de l'huile de graines de thé : pressage à chaud, à froid et configuration d'équipement"
-description: "Découvrez comment produire l'huile de graines de thé avec une presse à huile hydraulique, en choisissant le pressage à chaud ou à froid, le prétraitement et la configuration de ligne."
+title: "Guide de production de l'huile de graines de thé : pressage à ..."
+description: Découvrez comment produire l'huile de graines de thé avec une presse à huile hydraulique, en choisissant le pressage à chaud ou à froid
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-11"
 ---

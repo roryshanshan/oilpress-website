@@ -1,9 +1,75 @@
 ---
-title: Решение для косточек персика (Масло косточек персика)
-description: Профессиональные решения для отжима масла косточек персика, предоставление оборудования и технических услуг по переработке масла косточек персика
-keywords: Решения для косточек персика, Отжим масла косточек персика, Оборудование для переработки косточек персика, Линия производства масла косточек персика, Пресс для масла косточек персика, Экстракция масла косточек персика, Переработка масличных семян косточек персика, Оборудование для отжима масла косточек персика, Оборудование для производства масла косточек персика, Завод по переработке масла косточек персика
----
+title: Решение для косточек персика (Масло косточек персика) цена
+description: "Запросите стоимость решения Решение для косточек персика (Масло косточек персика): проект линии, список оборудования и сервис."
+keywords: Решение для косточек персика (Масло косточек персика) цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Решение для косточек персика (Масло косточек персика)",
+          "description": "Запросите стоимость решения Решение для косточек персика (Масло косточек персика): проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/peach-kernel",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Решение для косточек персика (Масло косточек персика)",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/peach-kernel"
+            }
+          ]
+        }
+---
 # Решение для косточек персика (Масло косточек персика)
 
 ## Обзор
@@ -121,3 +187,11 @@ keywords: Решения для косточек персика, Отжим ма
 - 📍 **Адрес**: № 5888, Улица Иньнэн, Зона развития, Город Цинчжоу, Город Вэйфан, Провинция Шаньдун
 
 Мы предоставляем бесплатные технические консультации, тестирование образцов и услуги выездной инспекции, чтобы предоставить вам наиболее подходящее решение для отжима косточек персика.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

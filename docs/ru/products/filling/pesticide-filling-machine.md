@@ -1,9 +1,79 @@
 ---
-title: "Машина для наполнения пестицидов | Автоматическая линия розлива LGF-10-1~LGF-24-1"
-description: "Машины для розлива пестицидов выпускаются от LGF-10-1 до LGF-24-1 с номинальной производительностью 2000-7000 и подходят для автоматических линий распаковки, наполнения и укупорки бутылок агрохимических и химических продуктов повседневного использования."
-keywords: "Машина для розлива пестицидов, LGF-10-1, LGF-24-1, автоматическая линия розлива, серия разливочных машин, Shengshi Hecheng"
----
+title: Машина для наполнения пестицидов цена | производитель
+description: Запросите цену и подбор Машина для наполнения пестицидов. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Машина для наполнения пестицидов цена, купить Машина для наполнения пестицидов, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Машина для наполнения пестицидов",
+          "description": "Запросите цену и подбор \"Машина для наполнения пестицидов. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "pesticide-filling-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/pesticide-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Машина для наполнения пестицидов",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/pesticide-filling-machine"
+            }
+          ]
+        }
+---
 # Машина для наполнения пестицидов
 
 ![Машина для наполнения пестицидов](/images/filling-products/pesticide-filling-machine.webp)

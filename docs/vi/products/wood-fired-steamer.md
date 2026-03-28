@@ -1,9 +1,79 @@
 ---
-title: Nồi hấp đốt gỗ - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Nồi hấp đốt gỗ được chế tạo từ vật liệu Q355B, có thể sử dụng than/gỗ/khí tự nhiên để sưởi ấm, bình nước tích hợp, lò nồi từ thép không gỉ 304
-keywords: nồi hấp đốt gỗ, thiết bị hấp, nồi hấp sưởi đốt gỗ, nồi hấp khí tự nhiên, nồi hấp đốt than, nồi hấp dầu cây, thiết bị hấp nấu, máy hấp, thiết bị hấp, nồi hấp chế biến dầu cây, lò hấp nấu, nồi hấp
----
+title: Nồi hấp đốt gỗ - Shengshi Hecheng giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Nồi hấp đốt gỗ - Shandong Shengshi Hecheng Machinery Co., Ltd. từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Nồi hấp đốt gỗ, mua Nồi hấp đốt gỗ, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Nồi hấp đốt gỗ",
+          "description": "Nhận báo giá và tư vấn mua Nồi hấp đốt gỗ - Shandong Shengshi Hecheng Machinery Co., Ltd. từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "wood-fired-steamer",
+          "url": "https://hydraulic-oil-press.com/vi/products/wood-fired-steamer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Nồi hấp đốt gỗ",
+              "item": "https://hydraulic-oil-press.com/vi/products/wood-fired-steamer"
+            }
+          ]
+        }
+---
 # Nồi hấp đốt gỗ
 ![Nồi hấp đốt gỗ](https://i.postimg.cc/Gcs3LvWX/image.png?dl=1)
 ## Tổng quan sản phẩm

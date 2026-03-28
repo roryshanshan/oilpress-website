@@ -1,9 +1,75 @@
 ---
-title: "Machine de remplissage sous vide faible GFP-18A | Série d'équipements de brassage"
-description: "La machine de remplissage sous vide faible GFP-18A est un équipement de remplissage à niveau fixe à 18 têtes avec une capacité de production de référence de 4 500 bouteilles/heure et une puissance totale de 1,12 kW. Il convient pour remplir du vin, du vin de riz, de la sauce soja, du vinaigre et d'autres liquides facilement moussants."
-keywords: "Machine de remplissage sous vide GFP-18A, machine de remplissage sous vide faible, série d'équipements de vinification, équipement de remplissage de vin, machine de remplissage de vin de riz, Shengshi Hecheng"
----
+title: Machine de remplissage sous vide faible GFP-18A devis
+description: "Demandez un devis pour Machine de remplissage sous vide faible GFP-18A : plan de ligne, liste d’équipements et SAV."
+keywords: Machine de remplissage sous vide faible GFP-18A prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Machine de remplissage sous vide faible GFP-18A",
+          "description": "Demandez un devis pour \"Machine de remplissage sous vide faible GFP-18A : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/brewing/gfp-18a-low-vacuum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine de remplissage sous vide faible GFP-18A",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/brewing/gfp-18a-low-vacuum-filling-machine"
+            }
+          ]
+        }
+---
 # Machine de remplissage sous vide faible GFP-18A
 
 ![Machine de remplissage sous vide faible GFP-18A](/images/filling-products/gfp-18a-low-vacuum-filling-machine.webp)
@@ -53,3 +119,11 @@ Le GFP-18A se concentre toujours sur le remplissage à niveau fixe, dans le but 
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment#brew-vacuum)
 - [Série de boucheuses](/fr/solutions/corking/)
 - [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

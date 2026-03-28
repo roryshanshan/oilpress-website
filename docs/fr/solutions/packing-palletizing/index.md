@@ -1,7 +1,7 @@
 ---
-title: "Emballage et palettisation"
-description: "L'équipement d'emballage et de palettisation est utilisé pour l'emballage, le scellage, le tri et la palettisation automatiques dans la section arrière de la ligne d'emballage et convient aux scénarios d'expédition à grande échelle d'huiles comestibles, de boissons et de produits liquides."
-keywords: "Équipement d'emballage et de palettisation, encartonneuse automatique, machine de palettisation automatique, équipement de scellage de cartons, ligne de post-emballage d'huile comestible, équipement d'emballage terminal"
+title: Emballage et palettisation
+description: L'équipement d'emballage et de palettisation est utilisé pour l'emballage, le scellage
+keywords: Équipement d'emballage et de palettisation, encartonneuse automatique, machine de palettisation automatique, équipement de scellage de cartons, ligne de post-emballage d'huile comestible, équipement d'emballage terminal
 ---
 
 # Emballage et palettisation

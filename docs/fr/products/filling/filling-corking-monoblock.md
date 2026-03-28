@@ -1,9 +1,79 @@
 ---
-title: "Remplissage et bouchage à deux lignes | Série d'équipements de brassage"
-description: "Cette machine en deux parties est principalement conçue pour le remplissage de vins et de vins de fruits. Cet équipement combine organiquement une machine de remplissage à pression négative et une machine de bouchage en une seule. L'équipement a une structure compacte et économise de l'espace d'installation."
-keywords: "Machine de remplissage et de bouchage à deux lignes, série d'équipements de brassage, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Remplissage et bouchage à deux lignes prix | fabricant
+description: Demandez le prix et le devis pour Remplissage et bouchage à deux lignes. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Remplissage et bouchage de deux en ligne prix, acheter Remplissage et bouchage de deux en ligne, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Remplissage et bouchage de deux en ligne",
+          "description": "Demandez le prix et le devis pour \"Remplissage et bouchage à deux lignes. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "filling-corking-monoblock",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/filling-corking-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Remplissage et bouchage de deux en ligne",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/filling-corking-monoblock"
+            }
+          ]
+        }
+---
 # Remplissage et bouchage de deux en ligne
 
 ![Remplissage et bouchage en ligne](/images/filling-products/filling-corking-monoblock.webp)

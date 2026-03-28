@@ -1,9 +1,79 @@
 ---
-title: "GFP-60H разливочная машина низкого вакуума | Серия пивоваренного оборудования"
-description: "Машина для розлива в низковакуумном режиме GFP-60H представляет собой оборудование для розлива с фиксированным уровнем и 60 головками с базовой производственной мощностью 20 000 бутылок в час и общей мощностью 7,5 кВт. Подходит для розлива вина, рисового вина, соевого соуса, уксуса и других легко пенящихся жидкостей."
-keywords: "Разливочная машина низкого вакуума GFP-60H, разливочная машина низкого вакуума, серия оборудования для виноделия, высокопроизводительная разливочная машина, линия розлива вина, Shengshi Hecheng"
----
+title: GFP-60H разливочная машина низкого вакуума цена | производитель
+description: Запросите цену и подбор GFP-60H разливочная машина низкого вакуума. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: GFP-60H разливочная машина низкого вакуума цена, купить GFP-60H разливочная машина низкого вакуума, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "GFP-60H разливочная машина низкого вакуума",
+          "description": "Запросите цену и подбор \"GFP-60H разливочная машина низкого вакуума. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "gfp-60h-low-vacuum-filling-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/gfp-60h-low-vacuum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GFP-60H разливочная машина низкого вакуума",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/gfp-60h-low-vacuum-filling-machine"
+            }
+          ]
+        }
+---
 # GFP-60H разливочная машина низкого вакуума
 
 ![Машина для розлива с низким вакуумом GFP-60H](/images/filling-products/gfp-60h-low-vacuum-filling-machine.webp)

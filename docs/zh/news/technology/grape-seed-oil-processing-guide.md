@@ -1,6 +1,6 @@
 ---
-title: "葡萄籽油生产工艺指南：冷榨流程与生产要点"
-description: "从产品定位、原料准备、过滤精度到抗氧化控制，了解葡萄籽油项目更实用的生产思路。"
+title: 葡萄籽油生产工艺指南：冷榨流程与生产要点
+description: 从产品定位、原料准备、过滤精度到抗氧化控制，了解葡萄籽油项目更实用的生产思路。
 keywords: 液压榨油机, 食用油生产线, 榨油工艺, 油料加工
 date: "2026-03-07"
 ---
@@ -34,4 +34,4 @@ date: "2026-03-07"
 - [液压榨油机适合压榨哪些油料](/zh/news/technology/best-oilseeds-for-hydraulic-oil-press-machines)
 - [不同油料该选热榨还是冷榨？实用选型指南](/zh/news/technology/how-to-choose-hot-press-or-cold-press-for-different-oilseeds)
 - [食用油生产线如何选择过滤设备](/zh/news/technology/how-to-choose-oil-filter-for-edible-oil-line)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

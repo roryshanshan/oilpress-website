@@ -1,9 +1,79 @@
 ---
-title: "Световая инспекционная машина | Серия световых инспекционных машин"
-description: "Он реализует полностью автоматический метод проверки: вход в бутылку - зажим бутылки - поворот бутылки - взятие бутылки - удаление бутылки."
-keywords: "Машина для легкой инспекции, серия машин для легкой инспекции, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Световая инспекционная машина цена | производитель
+description: Запросите цену и подбор Световая инспекционная машина. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Световая инспекционная машина цена, купить Световая инспекционная машина, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Световая инспекционная машина",
+          "description": "Запросите цену и подбор \"Световая инспекционная машина. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "light-inspection-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/light-inspection-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Световая инспекционная машина",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/light-inspection-machine"
+            }
+          ]
+        }
+---
 # Световая инспекционная машина
 
 ![Машина для светового контроля](/images/filling-products/light-inspection-machine.webp)

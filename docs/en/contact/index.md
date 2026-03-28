@@ -1,7 +1,7 @@
 ---
-title: Contact Hydraulic Oil Press Supplier | Get Quote
-description: Contact Shengshi Hecheng for hydraulic oil press prices, quotations, model selection, and after-sales support by WeChat, WhatsApp, email, or form.
-keywords: contact hydraulic oil press supplier, oil press quote, hydraulic oil press price, oil press quotation, model selection support, after-sales service, equipment inquiry, WeChat contact, WhatsApp contact, Shengshi Hecheng
+title: Get Oil Press Price & Quote | Procurement Support
+description: Contact Shengshi Hecheng for hydraulic oil press prices, production line quotes, and factory-direct procurement with after-sales.
+keywords: oil press quote, oil press price, contact manufacturer, procurement support, after-sales service
 ---
 
 # Contact Us

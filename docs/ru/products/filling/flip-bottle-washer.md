@@ -1,9 +1,79 @@
 ---
-title: "Машина для ополаскивания бутылок откидного типа | Серия машин для ополаскивания бутылок"
-description: "Ополаскиватель для бутылок откидного типа является представительной моделью в серии ополаскивателей."
-keywords: "Ополаскиватель бутылок откидного типа, серия ополаскивателей бутылок, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Машина для ополаскивания бутылок откидного типа цена
+description: Запросите цену и подбор Машина для ополаскивания бутылок откидного типа. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Ополаскиватель для бутылок откидного типа цена, купить Ополаскиватель для бутылок откидного типа, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ополаскиватель для бутылок откидного типа",
+          "description": "Запросите цену и подбор \"Машина для ополаскивания бутылок откидного типа. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "flip-bottle-washer",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/flip-bottle-washer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Ополаскиватель для бутылок откидного типа",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/flip-bottle-washer"
+            }
+          ]
+        }
+---
 # Ополаскиватель для бутылок откидного типа
 
 ![Мойка-флип-бутылка](/images/filling-products/flip-bottle-washer.webp)

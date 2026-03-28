@@ -1,9 +1,79 @@
 ---
-title: ছোট তিল অয়েল প্রেস মেশিন | দোকানের জন্য কোরিয়ান টাইপ হাইড্রোলিক প্রেস
-description: ছোট তিল অয়েল প্রেস মেশিন কোরিয়ান টাইপ হাইড্রোলিক ডিজাইনের উপর ভিত্তি করে তৈরি, যা তিলের তেলের দোকান, অর্গানিক স্টোর এবং ছোট বাণিজ্যিক উৎপাদনের জন্য উপযোগী, 10KG থেকে 20KG মডেলসহ।
-keywords: ছোট তিল অয়েল প্রেস মেশিন, কোরিয়ান টাইপ তিল প্রেস, তিলের তেলের দোকানের মেশিন, KHOP-10KG, KHOP-15KG, KHOP-20KG, ছোট হাইড্রোলিক অয়েল প্রেস
----
+title: ছোট তিল অয়েল প্রেস মেশিন দাম | প্রস্তুতকারক
+description: ছোট তিল অয়েল প্রেস মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: ছোট তিল অয়েল প্রেস মেশিন দাম, ছোট তিল অয়েল প্রেস মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "ছোট তিল অয়েল প্রেস মেশিন",
+          "description": "ছোট তিল অয়েল প্রেস মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "small-sesame-oil-press-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/small-sesame-oil-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "ছোট তিল অয়েল প্রেস মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/small-sesame-oil-press-machine"
+            }
+          ]
+        }
+---
 # ছোট তিল অয়েল প্রেস মেশিন
 
 ![ছোট তিল অয়েল প্রেস মেশিন](/images/korean-type-small-press/small-sesame-hero.jpg)

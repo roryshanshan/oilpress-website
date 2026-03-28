@@ -1,9 +1,79 @@
 ---
-title: Дровяная сковорода с плоским дном и теплоносителем
-description: Дровяная сковорода с плоским дном и теплоносителем поставляется со своей печью, модель с термоносителем решает проблему неравномерного нагрева
-keywords: дровяная сковорода с термоносителем, термоносительная сковорода, сковорода с плоским дном, дровяная сковорода, газовая сковорода, сковорода для масличных семян, оборудование для сковороды, термоносительная нагревательная сковорода, сковорода с минеральной ватой, сковорода из нержавеющей стали, сковорода для переработки масличных семян, машина для сковороды, оборудование для сковороды
----
+title: Дровяная сковорода с плоским дном и теплоносителем цена
+description: Запросите цену и подбор Дровяная сковорода с плоским дном и теплоносителем. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Дровяная сковорода с плоским дном и теплоносителем цена, купить Дровяная сковорода с плоским дном и теплоносителем, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Дровяная сковорода с плоским дном и теплоносителем",
+          "description": "Запросите цену и подбор Дровяная сковорода с плоским дном и теплоносителем. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "wood-fired-thermal-oil-flat-bottom-wok",
+          "url": "https://hydraulic-oil-press.com/ru/products/wood-fired-thermal-oil-flat-bottom-wok",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Дровяная сковорода с плоским дном и теплоносителем",
+              "item": "https://hydraulic-oil-press.com/ru/products/wood-fired-thermal-oil-flat-bottom-wok"
+            }
+          ]
+        }
+---
 # Дровяная сковорода с плоским дном и теплоносителем
 ![Дровяная сковорода с плоским дном и теплоносителем](https://i.postimg.cc/wHP2fGLt/202509051612083.png?dl=1)
 

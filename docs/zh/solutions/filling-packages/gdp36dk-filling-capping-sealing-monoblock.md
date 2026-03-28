@@ -1,9 +1,75 @@
 ---
-title: GDP36DK-10-10 全自动智能型灌装扣盖封口联体机 | 联体机与灌装配套总线
-description: 该机型为酒水灌装行业高端、流行的高端设备之一，引进国外先进工作原理技术，集光、电、气浑然一体，快速、精准高效，广泛的应用于酒水包装产品行业。
-keywords: GDP36DK-10-10 全自动智能型灌装扣盖封口联体机, 联体机与灌装配套总线, 液体包装设备, 灌装包装设备, 盛世赫程
----
+title: GDP36DK-10-10 全自动智能型灌装扣盖封口联体机报价|整线方案
+description: 获取GDP36DK-10-10 全自动智能型灌装扣盖封口联体机整线方案与报价，含工艺、设备清单与售后支持。
+keywords: GDP36DK-10-10 全自动智能型灌装扣盖封口联体机报价, GDP36DK-10-10 全自动智能型灌装扣盖封口联体机价格, 整线方案, 生产线, 采购
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "GDP36DK-10-10 全自动智能型灌装扣盖封口联体机",
+          "description": "获取GDP36DK-10-10 全自动智能型灌装扣盖封口联体机整线方案与报价，含工艺、设备清单与售后支持。",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "serviceType": "解决方案",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/zh/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "解决方案",
+              "item": "https://hydraulic-oil-press.com/zh/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GDP36DK-10-10 全自动智能型灌装扣盖封口联体机",
+              "item": "https://hydraulic-oil-press.com/zh/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock"
+            }
+          ]
+        }
+---
 # GDP36DK-10-10 全自动智能型灌装扣盖封口联体机
 
 ![GDP36DK-10-10 全自动智能型灌装扣盖封口联体机](/images/filling-products/gdp36dk-filling-capping-sealing-monoblock.webp)
@@ -85,4 +151,12 @@ GDP36DK-10-10 全自动智能型灌装扣盖封口联体机可作为联体机与
 
 - [灌装包装设备参数库](/zh/products/filling-equipment)
 - [联体机与灌装配套总线](/zh/solutions/filling-packages)
-- [联系我们获取整线建议](/zh/contact/)
+- [获取报价/整线建议](/zh/contact/)
+
+## 获取价格/报价
+
+请告诉我们产能、油料类型与预算，我们将提供整线配置与报价。
+
+- [获取价格/报价](/zh/contact/)
+
+<!-- quote-cta -->

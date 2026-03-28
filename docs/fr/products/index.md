@@ -1,7 +1,7 @@
 ---
-title: Séries de produits | Séries 300-500 et petits modèles de boutique
-description: Comparez les presses à huile hydrauliques séries 300 à 500, les petits modèles hydrauliques de type coréen, les équipements de filtration, de raffinage et de remplissage pour des projets allant de la boutique à l'usine.
-keywords: presse à huile hydraulique, série 300-500, petite presse hydraulique type coréen, machine de sésame pour boutique, filtration d'huile, équipement de raffinage, équipement de remplissage
+title: Prix presses à huile | Modèles & devis usine
+description: Modèles 300-500 et équipements associés, prix usine et support d’achat rapide.
+keywords: prix presse à huile, modèles 300 325 355 400 426 480 500, devis usine, achat
 ---
 # Séries de produits
 

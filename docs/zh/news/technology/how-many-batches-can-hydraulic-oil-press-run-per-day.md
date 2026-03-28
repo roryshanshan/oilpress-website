@@ -1,6 +1,6 @@
 ---
-title: "液压榨油机一天能压几锅？批次产能计算指南"
-description: "从单次节拍、预处理、清理时间、人员操作和维护状态出发，更准确地估算液压榨油机的日产批次数。"
+title: 液压榨油机一天能压几锅？批次产能计算指南
+description: 从单次节拍、预处理、清理时间、人员操作和维护状态出发，更准确地估算液压榨油机的日产批次数。
 keywords: 液压榨油机, 食用油生产线, 榨油工艺, 油料加工
 date: "2026-03-04"
 ---
@@ -34,4 +34,4 @@ date: "2026-03-04"
 - [如何提高榨油机出油率](/zh/news/technology/improve-oil-yield)
 - [液压榨油机维护检查清单](/zh/news/technology/hydraulic-oil-press-maintenance-checklist)
 - [液压榨油机投资回报率指南](/zh/news/technology/hydraulic-oil-press-roi-guide)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

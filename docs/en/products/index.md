@@ -1,7 +1,7 @@
 ---
-title: Hydraulic Oil Press Machines & Oil Processing Equipment | 300-500 Series and Small Shop Models
-description: Compare 300 to 500 series hydraulic oil press machines, Korean type small shop oil press models, oil filtration equipment, refining and dewaxing systems, filling equipment, and support resources for edible oil projects.
-keywords: hydraulic oil press machines, 300-500 series oil press, Korean type small hydraulic oil press, small sesame oil press machine, oil filtration equipment, oil refining equipment, dewaxing equipment, oil filling equipment, edible oil processing equipment, Shengshi Hecheng
+title: Oil Press Machines Price | Models, Factory Quote
+description: Compare 300-500 series hydraulic oil press machines, auxiliary equipment, and factory-direct prices with fast procurement support.
+keywords: oil press machine price, hydraulic oil press models, factory quote, oil press supplier, procurement support, 300 325 355 400 426 480 500
 ---
 
 # Product Series
@@ -97,7 +97,7 @@ Match equipment by process stage:
 - [Filling Packages Overview](/en/solutions/filling-packages)
 - [Company Advantages](/en/advantages/)
 - [About the Manufacturer](/en/about/)
-- [Get a Quote](/en/contact/)
+- [Get Price & Quote](/en/contact/)
 - [中文产品页](/zh/products/)
 
 

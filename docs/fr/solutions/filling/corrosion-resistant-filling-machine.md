@@ -1,9 +1,75 @@
 ---
-title: "Machine de remplissage résistante à la corrosion acide et alcaline | Solution de remplissage liquide fortement corrosive"
-description: "La machine de remplissage résistante à la corrosion aux acides et aux alcalis convient au remplissage de liquides hautement corrosifs ou très moussants tels que le liquide de nettoyage des toilettes, le désinfectant 84, les pesticides et les engrais liquides, et prend en charge les configurations anti-mousse et anti-goutte submersibles."
-keywords: "Machine de remplissage résistante à la corrosion acide et alcaline, machine de remplissage anti-corrosion, machine de remplissage de pesticides, machine de remplissage chimique quotidienne, série de machines de remplissage, Shengshi Hecheng"
----
+title: Machine de remplissage résistante à la corrosio Solution | Devis
+description: "Demandez un devis pour Machine de remplissage résistante à la corrosion acide et alcaline : plan de ligne, liste d’équipements et SAV."
+keywords: Machine de remplissage résistante à la corrosion acide et alcaline prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Machine de remplissage résistante à la corrosion acide et alcaline",
+          "description": "Demandez un devis pour \"Machine de remplissage résistante à la corrosion acide et alcaline : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/filling/corrosion-resistant-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine de remplissage résistante à la corrosion acide et alcaline",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/filling/corrosion-resistant-filling-machine"
+            }
+          ]
+        }
+---
 # Machine de remplissage résistante à la corrosion acide et alcaline
 
 ![Machine de remplissage résistante à la corrosion acide et alcaline](/images/filling-products/corrosion-resistant-filling-machine.webp)
@@ -40,3 +106,11 @@ La machine de remplissage résistante à la corrosion acide et alcaline est prin
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/solutions/production-lines)
 - [Série de machines de remplissage](/fr/products/filling-equipment)
 - [Contactez-nous pour des conseils complets en ligne](/fr/solutions/filling/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

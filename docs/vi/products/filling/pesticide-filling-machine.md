@@ -1,9 +1,79 @@
 ---
-title: "Máy nạp thuốc trừ sâu | Dây chuyền chiết rót tự động LGF-10-1~LGF-24-1"
-description: "Máy rót thuốc trừ sâu bao gồm LGF-10-1 đến LGF-24-1, với công suất tham chiếu 2000-7000 và phù hợp cho các dây chuyền đóng gói, chiết rót và đóng nắp chai tự động cho các sản phẩm hóa chất nông nghiệp và hóa chất hàng ngày."
-keywords: "Máy chiết rót thuốc trừ sâu, LGF-10-1, LGF-24-1, dây chuyền chiết rót tự động, dòng máy chiết rót, Shengshi Hechen"
----
+title: Máy nạp thuốc trừ sâu giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy nạp thuốc trừ sâu từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy chiết rót thuốc trừ sâu, mua Máy chiết rót thuốc trừ sâu, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy chiết rót thuốc trừ sâu",
+          "description": "Nhận báo giá và tư vấn mua \"Máy nạp thuốc trừ sâu từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "pesticide-filling-machine",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling/pesticide-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy chiết rót thuốc trừ sâu",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling/pesticide-filling-machine"
+            }
+          ]
+        }
+---
 # Máy chiết rót thuốc trừ sâu
 
 ![Máy chiết rót thuốc trừ sâu](/images/filling-products/pesticide-filling-machine.webp)

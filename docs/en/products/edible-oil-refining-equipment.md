@@ -1,9 +1,79 @@
 ---
-title: Edible Oil Refining Equipment - Shengshi Hecheng
-description: Edible oil refining equipment is used to remove impurities from crude oil and improve oil quality and stability, including mechanical methods
-keywords: Edible Oil Refining Equipment, oil press machine, oil press price, oil press quotation, oil press supplier, oil processing equipment, supporting equipment, after-sales service, oilseed processing equipment, Oil refining equipment
----
+title: Edible Oil Refining Equipment - Shengshi Hecheng Price | Manuf...
+description: Get price, procurement, and after-sales support for Edible Oil Refining Equipment - Shengshi Hecheng from Shengshi Hecheng manufacturer.
+keywords: Edible Oil Refining Equipment - Shengshi Hecheng price, Edible Oil Refining Equipment - Shengshi Hecheng quote, Edible Oil Refining Equipment - Shengshi Hecheng manufacturer, Edible Oil Refining Equipment - Shengshi Hecheng supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Edible Oil Refining Equipment",
+          "description": "Get price, procurement, and after-sales support for Edible Oil Refining Equipment - Shengshi Hecheng from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "edible-oil-refining-equipment",
+          "url": "https://hydraulic-oil-press.com/en/products/edible-oil-refining-equipment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Edible Oil Refining Equipment",
+              "item": "https://hydraulic-oil-press.com/en/products/edible-oil-refining-equipment"
+            }
+          ]
+        }
+---
 # Edible Oil Refining Equipment
 ![Edible Oil Refining Equipment](https://i.postimg.cc/T2TTJFps/image.png?dl=1)
 ## Purpose of Refining

@@ -1,9 +1,79 @@
 ---
-title: "Etiqueteuse autocollante entièrement automatique | Série d'étiqueteuses"
-description: "L'étiqueteuse verticale de bouteilles rondes convient à l'étiquetage de bouteilles rondes dans les industries quotidiennes des cosmétiques, des boissons, des médicaments et d'autres industries."
-keywords: "Étiqueteuse auto-adhésive entièrement automatique, série de machines d'étiquetage, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Etiqueteuse autocollante entièrement automatique prix
+description: Demandez le prix et le devis pour Etiqueteuse autocollante entièrement automatique. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Etiqueteuse autocollante entièrement automatique prix, acheter Etiqueteuse autocollante entièrement automatique, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Etiqueteuse autocollante entièrement automatique",
+          "description": "Demandez le prix et le devis pour \"Etiqueteuse autocollante entièrement automatique. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "self-adhesive-labeling-machine",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/self-adhesive-labeling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Etiqueteuse autocollante entièrement automatique",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/self-adhesive-labeling-machine"
+            }
+          ]
+        }
+---
 # Etiqueteuse autocollante entièrement automatique
 
 ![Machine d'étiquetage auto-adhésive entièrement automatique](/images/filling-products/self-adhesive-labeling-machine.webp)

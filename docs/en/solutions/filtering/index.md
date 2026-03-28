@@ -1,6 +1,6 @@
 ---
 title: Filtering Series
-description: Filtering machine series for clarification and pre-filling purification of edible oil, wine, beverage, and condiment liquids, helping improve appearance and filling stability.
+description: Filtering machine series for clarification and pre-filling purification of edible oil, wine, beverage, and condiment liquids
 keywords: filtering machine series, edible oil filtration equipment, clarification filter, pre-filling filtration, liquid filtering equipment
 ---
 # Filtering Series

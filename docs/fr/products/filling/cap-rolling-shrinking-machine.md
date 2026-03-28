@@ -1,9 +1,79 @@
 ---
-title: "Machine à rouler/rétrécir les bouchons | Série de machines thermorétractables pour capuchons en caoutchouc"
-description: "Cette série de machines thermorétractables effectue principalement un scellage thermorétractable sur des bouchons en caoutchouc thermorétractable en PVC et est spécialement utilisée pour rétrécir les bouchons après le bouchage du vin."
-keywords: "Machine à double usage de laminage/rétrécissement de bouchons, série de machines de thermorétraction de bouchons en caoutchouc, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Machine à rouler/rétrécir les bouchons prix | fabricant
+description: Demandez le prix et le devis pour Machine à rouler/rétrécir les bouchons. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Machine de capsulage/rétrécissement prix, acheter Machine de capsulage/rétrécissement, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Machine de capsulage/rétrécissement",
+          "description": "Demandez le prix et le devis pour \"Machine à rouler/rétrécir les bouchons. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "cap-rolling-shrinking-machine",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/cap-rolling-shrinking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine de capsulage/rétrécissement",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/cap-rolling-shrinking-machine"
+            }
+          ]
+        }
+---
 # Machine de capsulage/rétrécissement
 
 ![Machine à double usage pour rouler/rétrécir les bouchons](/images/filling-products/cap-rolling-shrinking-machine.webp)

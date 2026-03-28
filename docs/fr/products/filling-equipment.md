@@ -1,9 +1,79 @@
 ---
 title: Équipements de remplissage et d'emballage
-description: Vue d'ensemble des équipements de remplissage et d'emballage, avec accent sur les projets de vin, huangjiu, sauce soja et vinaigre, ainsi que sur les modèles de remplissage sous faible vide.
-keywords: équipements de remplissage, machine de remplissage sous faible vide, ligne de vin, équipements d'emballage, Shengshi Hecheng
----
+description: Vue d'ensemble des équipements de remplissage et d'emballage, avec accent sur les projets de vin, huangjiu, sauce soja et vinaigre
+keywords: Équipements de remplissage et d'emballage prix, acheter Équipements de remplissage et d'emballage, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Équipements de remplissage et d'emballage",
+          "description": "Vue d'ensemble des équipements de remplissage et d'emballage, avec accent sur les projets de vin, huangjiu, sauce soja et vinaigre",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "filling-equipment",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling-equipment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Équipements de remplissage et d'emballage",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling-equipment"
+            }
+          ]
+        }
+---
 # Équipements de remplissage et d'emballage
 
 Cette page rassemble les principaux points de repère pour les équipements de remplissage et d'emballage du site, notamment les applications de type vin, vin de fruits, huangjiu, sauce soja et vinaigre.
@@ -37,7 +107,7 @@ Cette page rassemble les principaux points de repère pour les équipements de r
 
 - [Série d'équipements de brassage](/fr/solutions/brewing/)
 - [Série de machines de bouchage](/fr/solutions/corking/)
-- [Contact](/fr/contact/)
+- [Obtenir prix & devis](/fr/contact/)
 <!-- packaging-hub-links:start -->
 ## Liens détaillés vers les produits
 

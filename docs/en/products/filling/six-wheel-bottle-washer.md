@@ -1,9 +1,79 @@
 ---
-title: "Six-wheel rinsing machine | rinsing machine series"
-description: "This machine adopts the sleeve roller chain transmission principle. The entire conveyor chain has accurate transmission and good wear resistance. The circulating water uses tracking spraying and fixed pipe spraying. The clean water part uses a water distributor to track and spray to save water sources and improve water utilization."
-keywords: "Six-wheel rinsing machine, rinsing machine series, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: Six-wheel rinsing machine Price | Manufacturer & Quote
+description: Get price, procurement, and after-sales support for Six-wheel rinsing machine from Shengshi Hecheng manufacturer.
+keywords: Six-wheel rinsing machine price, Six-wheel rinsing machine quote, Six-wheel rinsing machine manufacturer, Six-wheel rinsing machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Six-wheel rinsing machine",
+          "description": "Get price, procurement, and after-sales support for \"Six-wheel rinsing machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "six-wheel-bottle-washer",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/six-wheel-bottle-washer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Six-wheel rinsing machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/six-wheel-bottle-washer"
+            }
+          ]
+        }
+---
 # Six-wheel rinsing machine
 
 ![Six-wheel-bottle-washer](/images/filling-products/six-wheel-bottle-washer.webp)

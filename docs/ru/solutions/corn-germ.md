@@ -1,9 +1,75 @@
 ---
-title: Corn Germ (Corn Germ Oil) Solution - Shengshi Hecheng
-description: Professional corn germ pressing solutions, providing corn germ oil processing equipment and technical services, oil content 35-45%
-keywords: Corn germ solutions, Corn germ oil pressing, Corn germ processing equipment, Corn germ oil production line, Corn germ oil hot pressing process, Corn germ oil press, Corn germ oil extraction, Corn germ oilseed processing, Corn germ oil pressing equipment, Corn germ oil production equipment
----
+title: Corn Germ (Corn Germ Oil) Solution - Shengshi Hecheng цена | к...
+description: "Запросите стоимость решения Corn Germ (Corn Germ Oil) Solution - Shengshi Hecheng: проект линии, список оборудования и сервис."
+keywords: Corn Germ (Corn Germ Oil) Solution цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Corn Germ (Corn Germ Oil) Solution",
+          "description": "Запросите стоимость решения Corn Germ (Corn Germ Oil) Solution - Shengshi Hecheng: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/corn-germ",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Corn Germ (Corn Germ Oil) Solution",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/corn-germ"
+            }
+          ]
+        }
+---
 # Corn Germ (Corn Germ Oil) Solution
 
 ## Overview
@@ -128,3 +194,11 @@ If you are interested in corn germ pressing solutions, please contact our techni
 - 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable corn germ pressing solution.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

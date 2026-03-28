@@ -1,7 +1,78 @@
 ---
-title: Nguyên lý hoạt động của xi lanh thủy lực
-description: Xi lanh thủy lực là phần tử thực hiện trong hệ thống thủy lực
-keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
+title: Nguyên lý hoạt động của xi lanh thủy lực giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Nguyên lý hoạt động của xi lanh thủy lực từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Nguyên lý hoạt động của xi lanh thủy lực, mua Nguyên lý hoạt động của xi lanh thủy lực, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Nguyên lý hoạt động của xi lanh thủy lực",
+          "description": "Nhận báo giá và tư vấn mua Nguyên lý hoạt động của xi lanh thủy lực từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "hydraulic-cylinder-principle",
+          "url": "https://hydraulic-oil-press.com/vi/products/hydraulic-cylinder-principle",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Nguyên lý hoạt động của xi lanh thủy lực",
+              "item": "https://hydraulic-oil-press.com/vi/products/hydraulic-cylinder-principle"
+            }
+          ]
+        }
 ---
 # Nguyên lý hoạt động của xi lanh thủy lực
 

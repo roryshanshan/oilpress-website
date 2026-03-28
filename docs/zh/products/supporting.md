@@ -2,8 +2,78 @@
 title: 配套设备 - 山东盛世赫程机械有限公司
 description: 山东盛世赫程提供完整的榨油设备配套解决方案，包括预处理设备、后处理设备、粉碎机、滤油机等，确保油料加工生产线的高效运行。
 keywords: 配套设备, 榨油机设备, 榨油机价格, 榨油机报价, 榨油机采购, 油料加工设备, 榨油机配套设备, 售后服务, 油料加工生产线, 油料预处理设备
----
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "配套设备",
+          "description": "山东盛世赫程提供完整的榨油设备配套解决方案，包括预处理设备、后处理设备、粉碎机、滤油机等，确保油料加工生产线的高效运行。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "supporting",
+          "url": "https://hydraulic-oil-press.com/zh/products/supporting",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "配套设备",
+              "item": "https://hydraulic-oil-press.com/zh/products/supporting"
+            }
+          ]
+        }
+---
 # 配套设备
 
 ## 预处理设备

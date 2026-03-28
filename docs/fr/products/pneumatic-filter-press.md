@@ -1,9 +1,79 @@
 ---
-title: Presse à huile pneumatique multicouche - Shengshi Hecheng
-description: La presse à huile pneumatique multicouche utilise du matériau en acier inoxydable 304, design intégré, vient avec moteur, pompe à engrenages, compresseur d'air
-keywords: Presse à huile pneumatique multicouche, Presse à huile, Équipement de filtration de graines oléagineuses, Presse à huile multicouche, Presse à huile pneumatique, Machine de filtration d'huile, Équipement de raffinage de graines oléagineuses, Équipement de filtration d'huile, Presse à huile hydraulique, Machine de filtration de graines oléagineuses, Équipement de raffinage d'huile, Équipement de presse à huile
----
+title: Presse à huile pneumatique multicouche - Shengshi Hecheng prix...
+description: Demandez le prix et le devis pour Presse à huile pneumatique multicouche - Shengshi Hecheng. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Presse à huile pneumatique multicouche prix, acheter Presse à huile pneumatique multicouche, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Presse à huile pneumatique multicouche",
+          "description": "Demandez le prix et le devis pour Presse à huile pneumatique multicouche - Shengshi Hecheng. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "pneumatic-filter-press",
+          "url": "https://hydraulic-oil-press.com/fr/products/pneumatic-filter-press",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Presse à huile pneumatique multicouche",
+              "item": "https://hydraulic-oil-press.com/fr/products/pneumatic-filter-press"
+            }
+          ]
+        }
+---
 # Presse à huile pneumatique multicouche
 ![](https://i.postimg.cc/mR4Z4z8S/image.png?dl=1)
 ## Aperçu du produit

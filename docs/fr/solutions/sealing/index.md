@@ -1,7 +1,7 @@
 ---
-title: "Série de machines à sceller"
-description: "La série de machines à sceller convient au scellage et au scellage de produits liquides en bouteille, en sac et en baril et peut être utilisée dans les lignes d'emballage d'huiles comestibles, d'assaisonnements, de boissons, etc."
-keywords: "Série de machines à sceller, machine à sceller les huiles comestibles, machine à sceller les feuilles d'aluminium, équipement de scellage de bouchage, machine à sceller à chaud, ligne de scellage pour emballages liquides"
+title: Série de machines à sceller
+description: La série de machines à sceller convient au scellage et au scellage de produits liquides en bouteille
+keywords: Série de machines à sceller, machine à sceller les huiles comestibles, machine à sceller les feuilles d'aluminium, équipement de scellage de bouchage, machine à sceller à chaud, ligne de scellage pour emballages liquides
 ---
 
 # Série de machines à sceller

@@ -1,9 +1,79 @@
 ---
-title: "Машина «три в одном» для ополаскивания, наполнения и запечатывания | Комбинированная машина CGF30-24-8~CGF60-40-8"
-description: "Трехлинейная машина для ополаскивания, наполнения и запечатывания подходит для моделей от CGF30-24-8 до CGF60-40-8 с номинальной производительностью 6000-12000 п/ч и подходит для интегрированных упаковочных линий для бутилированного масла, спиртных напитков и приправ."
-keywords: "Тройная машина для ополаскивания, наполнения и запечатывания, CGF30-24-8, CGF60-40-8, комбинированная машина, фасовочно-упаковочное оборудование, Shengshi Hecheng"
----
+title: Машина «три в одном» для ополаскивания, наполнения и запечаты...
+description: Запросите цену и подбор Машина «три в одном» для ополаскивания, наполнения и запечатывания. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Трехлинейная машина для ополаскивания, наполнения и укупорки цена, купить Трехлинейная машина для ополаскивания, наполнения и укупорки, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Трехлинейная машина для ополаскивания, наполнения и укупорки",
+          "description": "Запросите цену и подбор \"Машина «три в одном» для ополаскивания, наполнения и запечатывания. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "cgf-three-in-one-monoblock",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/cgf-three-in-one-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Трехлинейная машина для ополаскивания, наполнения и укупорки",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/cgf-three-in-one-monoblock"
+            }
+          ]
+        }
+---
 # Трехлинейная машина для ополаскивания, наполнения и укупорки
 
 ![Машина для ополаскивания, наполнения и запечатывания «три в одном»](/images/filling-products/cgf-three-in-one-monoblock.webp)

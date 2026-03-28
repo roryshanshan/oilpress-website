@@ -1,9 +1,75 @@
 ---
-title: Solution de graines de lin (huile de graines de lin)
-description: Solutions professionnelles de pressage de graines de lin, fournissant équipement de transformation d'huile de graines de lin et services techniques
-keywords: Solutions de graines de lin, pressage d'huile de graines de lin, équipement de transformation de graines de lin, ligne de production d'huile de graines de lin, procédé de pressage à froid de graines de lin, presse à huile de graines de lin, extraction d'huile de graines de lin, transformation de graines de graines de lin, équipement de pressage d'huile de graines de lin, suppléments Ω-3, huile de lin
----
+title: Solution de graines de lin (huile de graines de lin) devis
+description: "Demandez un devis pour Solution de graines de lin (huile de graines de lin) : plan de ligne, liste d’équipements et SAV."
+keywords: Solution de graines de lin (huile de graines de lin) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Solution de graines de lin (huile de graines de lin)",
+          "description": "Demandez un devis pour Solution de graines de lin (huile de graines de lin) : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/flaxseed",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Solution de graines de lin (huile de graines de lin)",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/flaxseed"
+            }
+          ]
+        }
+---
 # Solution de graines de lin (huile de graines de lin)
 
 ## Aperçu
@@ -142,3 +208,11 @@ Si vous êtes intéressé par les solutions de pressage de graines de lin, veuil
 - 📍 **Adresse** : N° 5888, rue Yineng, zone de développement, ville de Qingzhou, ville de Weifang, province du Shandong
 
 Nous fournissons des services de consultation technique gratuite, de test d'échantillons et d'inspection sur site pour vous offrir la solution de pressage de graines de lin la plus adaptée.
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

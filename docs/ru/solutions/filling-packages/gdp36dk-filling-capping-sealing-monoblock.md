@@ -1,9 +1,75 @@
 ---
-title: "GDP36DK-10-10 полностью автоматическая интеллектуальная комбинированная машина для наполнения и укупорки | комбинированная машина и шина поддержки наполнения"
-description: "Эта модель является одним из самых высокотехнологичных и популярных высококлассных устройств в индустрии розлива вина. Он представляет зарубежную передовую технологию работы, объединяет свет, электричество и газ, работает быстро, точно и эффективно и широко используется в индустрии упаковки вина."
-keywords: "GDP36DK-10-10, полностью автоматическая интеллектуальная комбинированная машина для наполнения и укупорки, комбинированная машина и автобус для поддержки наполнения, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: GDP36DK-10-10 полностью автоматическая интеллекту Решение | Цена
+description: "Запросите стоимость решения GDP36DK-10-10 полностью автоматическая интеллектуальная комбинированная машина для наполнения и укупорки: проект линии"
+keywords: GDP36DK-10-10 Полностью автоматическая интеллектуальная машина для наполнения, укупорки и укупорки. цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "GDP36DK-10-10 Полностью автоматическая интеллектуальная машина для наполнения, укупорки и укупорки.",
+          "description": "Запросите стоимость решения \\\"GDP36DK-10-10 полностью автоматическая интеллектуальная комбинированная машина для наполнения и укупорки: проект линии",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GDP36DK-10-10 Полностью автоматическая интеллектуальная машина для наполнения, укупорки и укупорки.",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock"
+            }
+          ]
+        }
+---
 # GDP36DK-10-10 Полностью автоматическая интеллектуальная машина для наполнения, укупорки и укупорки.
 
 ![Полностью автоматическая интеллектуальная машина для наполнения и укупорки GDP36DK-10-10](/images/filling-products/gdp36dk-filling-capping-sealing-monoblock.webp)
@@ -86,3 +152,11 @@ keywords: "GDP36DK-10-10, полностью автоматическая инт
 - [Библиотека параметров фасовочно-упаковочного оборудования](/ru/products/filling-equipment)
 - [Комбинированная машина и автобус поддержки наполнения](/ru/solutions/filling-packages)
 - [Свяжитесь с нами для получения полной консультации по линии](/ru/contact/)
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

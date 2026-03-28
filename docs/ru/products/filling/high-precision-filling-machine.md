@@ -1,9 +1,79 @@
 ---
-title: "Высокоточная количественная разливочная машина | Обзор модели GDP-12A~GDP-40H"
-description: "Высокоточная машина для количественного розлива охватывает модели от GDP-12A до GDP-40H, с базовой производительностью 3000-12000 бутылок в час и точностью 500±1,5 мл. Он подходит для проектов количественного наполнения бутылок с несколькими спецификациями."
-keywords: "Высокоточная количественная разливочная машина GDP-12A, GDP-40H, количественная разливочная машина, серия разливочных машин, Shengshi Hecheng"
----
+title: Высокоточная количественная разливочная машина цена
+description: Запросите цену и подбор Высокоточная количественная разливочная машина. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Высокоточная количественная разливочная машина цена, купить Высокоточная количественная разливочная машина, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Высокоточная количественная разливочная машина",
+          "description": "Запросите цену и подбор \"Высокоточная количественная разливочная машина. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "high-precision-filling-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/high-precision-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Высокоточная количественная разливочная машина",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/high-precision-filling-machine"
+            }
+          ]
+        }
+---
 # Высокоточная количественная разливочная машина
 
 ![Высокоточная машина для количественного розлива](/images/filling-products/high-precision-filling-machine.webp)

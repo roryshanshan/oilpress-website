@@ -1,9 +1,75 @@
 ---
-title: "Machine de marquage laser à fibre | Série de machines de codage laser"
-description: "La machine de marquage laser à fibre est un système de machine de marquage laser de nouvelle génération développé par notre société utilisant une technologie laser avancée. Il utilise un laser à fibre pour produire un laser, puis utilise un système de galvanomètre à balayage à grande vitesse pour réaliser la fonction de marquage."
-keywords: "Machine de marquage laser à fibre, série de machines de codage laser, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Machine de marquage laser à fibre devis | solution clé en main
+description: "Demandez un devis pour Machine de marquage laser à fibre : plan de ligne, liste d’équipements et SAV."
+keywords: Machine de marquage laser fibre prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Machine de marquage laser fibre",
+          "description": "Demandez un devis pour \"Machine de marquage laser à fibre : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/laser-coding/fiber-laser-marking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine de marquage laser fibre",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/laser-coding/fiber-laser-marking-machine"
+            }
+          ]
+        }
+---
 # Machine de marquage laser fibre
 
 ![Machine de marquage laser à fibre](/images/filling-products/fiber-laser-marking-machine.webp)
@@ -98,3 +164,11 @@ La machine de marquage laser à fibre est un système de machine de marquage las
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
 - [Série de machines de codage laser](/fr/solutions/laser-coding/)
 - [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

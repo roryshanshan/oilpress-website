@@ -1,9 +1,79 @@
 ---
-title: "Энергосберегающий фен Spider Hand | Серия фенов"
-description: "Он заменяет традиционное устройство для обезвоживания щеточного типа, не требующее нагрева. Для сушки воды в бутылке используется сильный ветер (воздушный нож). Корпус бутылки не загрязняет окружающую среду. Нет необходимости заменять щетку или электрическую нагревательную трубку. Это экономит затраты на использование и имеет более продвинутую и надежную производительность."
-keywords: "Энергосберегающая сушилка для рук Spider, серия фенов, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Энергосберегающий фен Spider Hand цена | производитель
+description: Запросите цену и подбор Энергосберегающий фен Spider Hand. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Энергосберегающий фен SpiderHand цена, купить Энергосберегающий фен SpiderHand, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Энергосберегающий фен SpiderHand",
+          "description": "Запросите цену и подбор \"Энергосберегающий фен Spider Hand. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "spider-arm-bottle-dryer",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/spider-arm-bottle-dryer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Энергосберегающий фен SpiderHand",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/spider-arm-bottle-dryer"
+            }
+          ]
+        }
+---
 # Энергосберегающий фен SpiderHand
 
 ![Энергосберегающий фен «Паучья рука»](/images/filling-products/spider-arm-bottle-dryer.webp)

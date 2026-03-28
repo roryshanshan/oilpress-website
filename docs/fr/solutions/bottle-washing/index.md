@@ -1,7 +1,7 @@
 ---
-title: "Série de machines de rinçage"
-description: "La série de machines de rinçage de bouteilles convient au nettoyage des bouteilles vides avant de remplir des produits en bouteille tels que de l'huile comestible, des boissons et des liquides d'assaisonnement, et prend en charge le rinçage et le traitement sanitaire des bouteilles en verre, des bouteilles en PET et d'autres conteneurs."
-keywords: "Série de machines de rinçage de bouteilles, équipement de rinçage de bouteilles vides, machine de rinçage d'huile comestible, machine de rinçage de bouteilles en verre, équipement de nettoyage de bouteilles PET, équipement de prétraitement de remplissage"
+title: Série de machines de rinçage
+description: La série de machines de rinçage de bouteilles convient au nettoyage des bouteilles vides avant de remplir des produits en bouteille tels que de l'huile comes...
+keywords: Série de machines de rinçage de bouteilles, équipement de rinçage de bouteilles vides, machine de rinçage d'huile comestible, machine de rinçage de bouteilles en verre, équipement de nettoyage de bouteilles PET, équipement de prétraitement de remplissage
 ---
 
 # Série de machines de rinçage de bouteilles

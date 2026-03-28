@@ -1,9 +1,79 @@
 ---
-title: "Лифт | Оборудование для предварительной обработки фруктов и овощей"
-description: "Это оборудование используется для улучшения качества фруктов и овощей, таких как виноград, клубника и яблоки. Это одно из необходимых устройств предварительной обработки для производителей жидких продуктов, таких как фруктовые и овощные соки и фруктовые вина."
-keywords: "Элеваторы, оборудование для предварительной обработки фруктов и овощей, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Лифт цена | производитель
+description: Запросите цену и подбор Лифт. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Подъемник цена, купить Подъемник, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Подъемник",
+          "description": "Запросите цену и подбор \"Лифт. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "fruit-elevator",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/fruit-elevator",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Подъемник",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/fruit-elevator"
+            }
+          ]
+        }
+---
 # Подъемник
 
 ![Лифт](/images/filling-products/fruit-elevator.webp)

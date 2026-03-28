@@ -1,9 +1,79 @@
 ---
-title: "লিকার ফিলিং টু লাইন মেশিন | মিলিত মেশিন এবং ফিলিং সাপোর্টিং বাস"
-description: "এই মেশিনটি অ-গ্যাস তরল পরিমাণগত ভর্তি এবং সিল করার জন্য ব্যবহৃত হয়।"
-keywords: "লিকার ফিলিং টু-লাইন মেশিন, কম্বাইন্ড মেশিন এবং ফিলিং সাপোর্টিং বাস, তরল প্যাকেজিং সরঞ্জাম, ফিলিং এবং প্যাকেজিং সরঞ্জাম, শেংশি হেচেং"
----
+title: লিকার ফিলিং টু লাইন মেশিন দাম | প্রস্তুতকারক
+description: লিকার ফিলিং টু লাইন মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: মদ ভরাট দুই লাইন দাম, মদ ভরাট দুই লাইন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "মদ ভরাট দুই লাইন",
+          "description": "\"লিকার ফিলিং টু লাইন মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "baijiu-filling-capping-monoblock",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/baijiu-filling-capping-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "মদ ভরাট দুই লাইন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/baijiu-filling-capping-monoblock"
+            }
+          ]
+        }
+---
 # মদ ভরাট দুই লাইন
 
 ![মদ ভর্তি দুই-লাইন](/images/filling-products/baijiu-filling-capping-monoblock.webp)

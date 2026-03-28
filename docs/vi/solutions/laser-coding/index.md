@@ -1,7 +1,7 @@
 ---
-title: "Dòng máy mã hóa laser"
-description: "Dòng máy mã hóa laser phù hợp để đánh dấu ngày tháng, số lô, mã QR và thông tin truy xuất nguồn gốc trên chai, nắp, nhãn, thùng carton, v.v. và phù hợp cho dây chuyền đóng gói dầu ăn và chất lỏng."
-keywords: "Dòng máy mã hóa laser, máy mã hóa laser, mã hóa số lô ngày tháng, thiết bị mã hóa mã QR, mã hóa bao bì dầu ăn, thiết bị đánh dấu truy xuất nguồn gốc"
+title: Dòng máy mã hóa laser
+description: Dòng máy mã hóa laser phù hợp để đánh dấu ngày tháng, số lô, mã QR và thông tin truy xuất nguồn gốc trên chai, nắp, nhãn, thùng carton, v. v.
+keywords: Dòng máy mã hóa laser, máy mã hóa laser, mã hóa số lô ngày tháng, thiết bị mã hóa mã QR, mã hóa bao bì dầu ăn, thiết bị đánh dấu truy xuất nguồn gốc
 ---
 
 # Dòng máy mã hóa laser

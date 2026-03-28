@@ -1,6 +1,6 @@
 ---
-title: "食用油生产线成本指南：哪些因素影响设备预算？"
-description: "从主机、预处理、过滤、灌装、包装到后续扩线，了解哪些因素会真正影响食用油生产线的投入预算。"
+title: 食用油生产线成本指南：哪些因素影响设备预算？
+description: 从主机、预处理、过滤、灌装、包装到后续扩线，了解哪些因素会真正影响食用油生产线的投入预算。
 keywords: 液压榨油机, 食用油生产线, 榨油工艺, 油料加工
 date: "2026-03-05"
 ---
@@ -34,4 +34,4 @@ date: "2026-03-05"
 - [如何选择液压榨油机型号](/zh/news/technology/how-to-choose-hydraulic-oil-press-model)
 - [食用油生产线如何选择过滤设备](/zh/news/technology/how-to-choose-oil-filter-for-edible-oil-line)
 - [压榨后如何过滤与包装食用油](/zh/news/technology/how-to-filter-and-package-edible-oil-after-pressing)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

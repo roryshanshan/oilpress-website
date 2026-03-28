@@ -1,9 +1,79 @@
 ---
-title: Пневматический многослойный масляный фильтр-пресс
-description: Пневматический многослойный масляный фильтр-пресс изготовлен из нержавеющей стали 304, интегрированная конструкция, оснащен мотором, шестеренчатым насосом
-keywords: пневматический многослойный масляный фильтр-пресс, масляный фильтр-пресс, оборудование для фильтрации масличных семян, многослойный масляный фильтр-пресс, пневматический масляный фильтр-пресс, масляная фильтровальная машина, оборудование для рафинации масла, оборудование для фильтрации масла, гидравлический масляный фильтр-пресс, фильтровальная машина для масличных семян, оборудование для рафинации масла, оборудование для масляного фильтр-пресса
----
+title: Пневматический многослойный масляный фильтр-пресс цена
+description: Запросите цену и подбор Пневматический многослойный масляный фильтр-пресс. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Пневматический многослойный масляный фильтр-пресс цена, купить Пневматический многослойный масляный фильтр-пресс, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Пневматический многослойный масляный фильтр-пресс",
+          "description": "Запросите цену и подбор Пневматический многослойный масляный фильтр-пресс. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "pneumatic-filter-press",
+          "url": "https://hydraulic-oil-press.com/ru/products/pneumatic-filter-press",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Пневматический многослойный масляный фильтр-пресс",
+              "item": "https://hydraulic-oil-press.com/ru/products/pneumatic-filter-press"
+            }
+          ]
+        }
+---
 # Пневматический многослойный масляный фильтр-пресс
 ![](https://i.postimg.cc/mR4Z4z8S/image.png?dl=1)
 

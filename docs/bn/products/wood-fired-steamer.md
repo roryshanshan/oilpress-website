@@ -1,9 +1,79 @@
 ---
-title: চাই ফায়ার স্টিম কুকার - শানডং শেংশি হেচেং মেশিনারি কোং লিমিটেড
-description: চাই ফায়ার স্টিম কুকার Q355B ম্যাটেরিয়াল ব্যবহার করে তৈরি, কোল/চাই/গ্যাস ফুয়েল হিটিং ব্যবহার করা যায়, ইন্টিগ্রেটেড ওয়াটার ট্যাঙ্ক
-keywords: চাই ফায়ার স্টিম কুকার, স্টিম কুকার সরঞ্জাম, চাই ফায়ার হিটিং স্টিম কুকার, গ্যাস স্টিম কুকার, কোল ফায়ার স্টিম কুকার, অয়েল স্টিম কুকার, স্টিমিং সরঞ্জাম, স্টিম কুকার মেশিন, স্টিম কুকার সরঞ্জাম, অয়েল প্রক্রিয়াকরণ স্টিম কুকার, স্টিমিং পট, স্টিম কুকার
----
+title: চাই ফায়ার স্টিম কুকার - শানডং শেংশি হেচেং মেশিনারি কোং লিমিটে...
+description: চাই ফায়ার স্টিম কুকার - শানডং শেংশি হেচেং মেশিনারি কোং লিমিটেড এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: চাই ফায়ার স্টিম কুকার দাম, চাই ফায়ার স্টিম কুকার কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "চাই ফায়ার স্টিম কুকার",
+          "description": "চাই ফায়ার স্টিম কুকার - শানডং শেংশি হেচেং মেশিনারি কোং লিমিটেড এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "wood-fired-steamer",
+          "url": "https://hydraulic-oil-press.com/bn/products/wood-fired-steamer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "চাই ফায়ার স্টিম কুকার",
+              "item": "https://hydraulic-oil-press.com/bn/products/wood-fired-steamer"
+            }
+          ]
+        }
+---
 # চাই ফায়ার স্টিম কুকার
 ![চাই ফায়ার স্টিম কুকার](https://i.postimg.cc/Gcs3LvWX/image.png?dl=1)
 

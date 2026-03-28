@@ -1,9 +1,79 @@
 ---
-title: "স্বয়ংক্রিয়ভাবে আনপ্যাকিং, শক্ত কাগজ তৈরি, কার্টোনিং মেশিন | প্যাকিং, প্যালেটাইজিং"
-description: "টেপ এবং কার্টনের ঘাটতি হলে এটি স্বয়ংক্রিয়ভাবে অ্যালার্ম করে এবং পিএলসি + ডিসপ্লে স্ক্রিন নিয়ন্ত্রণ গ্রহণ করে, যা অপারেশনকে ব্যাপকভাবে সহজ করে এবং স্বয়ংক্রিয় বড় আকারের উত্পাদনের জন্য একটি অপরিহার্য সরঞ্জাম;"
-keywords: "স্বয়ংক্রিয় আনপ্যাকিং, শক্ত কাগজ গঠন, কার্টোনিং মেশিন, কার্টোনিং, প্যালেটাইজিং, তরল প্যাকেজিং সরঞ্জাম, ফিলিং এবং প্যাকেজিং সরঞ্জাম, শেংশি হেচেং"
----
+title: স্বয়ংক্রিয়ভাবে আনপ্যাকিং, শক্ত কাগজ তৈরি, কার্টোনিং মেশিন দাম
+description: স্বয়ংক্রিয়ভাবে আনপ্যাকিং, শক্ত কাগজ তৈরি, কার্টোনিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: স্বয়ংক্রিয় আনপ্যাকিং, শক্ত কাগজ তৈরি এবং কার্টনিং মেশিন দাম, স্বয়ংক্রিয় আনপ্যাকিং, শক্ত কাগজ তৈরি এবং কার্টনিং মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "স্বয়ংক্রিয় আনপ্যাকিং, শক্ত কাগজ তৈরি এবং কার্টনিং মেশিন",
+          "description": "\"স্বয়ংক্রিয়ভাবে আনপ্যাকিং, শক্ত কাগজ তৈরি, কার্টোনিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "case-erector-packing-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/case-erector-packing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "স্বয়ংক্রিয় আনপ্যাকিং, শক্ত কাগজ তৈরি এবং কার্টনিং মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/case-erector-packing-machine"
+            }
+          ]
+        }
+---
 # স্বয়ংক্রিয় আনপ্যাকিং, শক্ত কাগজ তৈরি এবং কার্টনিং মেশিন
 
 ![স্বয়ংক্রিয়ভাবে আনপ্যাকিং, শক্ত কাগজ গঠন, এবং প্যাকিং মেশিন](/images/filling-products/case-erector-packing-machine.webp)

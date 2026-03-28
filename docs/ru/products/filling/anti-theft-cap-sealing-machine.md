@@ -1,9 +1,79 @@
 ---
-title: "Полностью автоматическая машина для запечатывания крышек с защитой от краж | Серия запечатывающих машин"
-description: "Эта машина подходит для бутылок, запечатанных откручивающимися алюминиевыми крышками с защитой от кражи."
-keywords: "Полностью автоматическая машина для запечатывания крышек с защитой от кражи, серия запечатывающих машин, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Полностью автоматическая машина для запечатывания крышек с за...
+description: Запросите цену и подбор Полностью автоматическая машина для запечатывания крышек с защитой от краж. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Полностью автоматическая машина для запечатывания крышек с защитой от кражи. цена, купить Полностью автоматическая машина для запечатывания крышек с защитой от кражи., коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Полностью автоматическая машина для запечатывания крышек с защитой от кражи.",
+          "description": "Запросите цену и подбор \"Полностью автоматическая машина для запечатывания крышек с защитой от краж. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "anti-theft-cap-sealing-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/anti-theft-cap-sealing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Полностью автоматическая машина для запечатывания крышек с защитой от кражи.",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/anti-theft-cap-sealing-machine"
+            }
+          ]
+        }
+---
 # Полностью автоматическая машина для запечатывания крышек с защитой от кражи.
 
 ![Полностью автоматическая машина для запечатывания крышек с защитой от кражи](/images/filling-products/anti-theft-cap-sealing-machine.webp)

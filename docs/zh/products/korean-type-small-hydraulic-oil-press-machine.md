@@ -1,9 +1,79 @@
 ---
-title: 韩式小型液压榨油机 | 芝麻油门店与小型商业用设备
-description: 韩式小型液压榨油机适合芝麻油门店、商超现榨柜台和小型精品油坊，提供 10KG、15KG、20KG 级别机型选择，适合高附加值现榨项目。
-keywords: 韩式小型液压榨油机, 小型液压榨油机, 芝麻油门店设备, 小型芝麻榨油机, KHOP-10KG, KHOP-15KG, KHOP-20KG, 现榨油设备
----
+title: 韩式小型液压榨油机价格|厂家报价
+description: 获取韩式小型液压榨油机价格、采购与售后支持，厂家直供，支持选型与交付。
+keywords: 韩式小型液压榨油机价格, 韩式小型液压榨油机报价, 韩式小型液压榨油机厂家, 韩式小型液压榨油机采购, 售后服务
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "韩式小型液压榨油机",
+          "description": "获取韩式小型液压榨油机价格、采购与售后支持，厂家直供，支持选型与交付。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "korean-type-small-hydraulic-oil-press-machine",
+          "url": "https://hydraulic-oil-press.com/zh/products/korean-type-small-hydraulic-oil-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "韩式小型液压榨油机",
+              "item": "https://hydraulic-oil-press.com/zh/products/korean-type-small-hydraulic-oil-press-machine"
+            }
+          ]
+        }
+---
 # 韩式小型液压榨油机
 
 ![韩式小型液压榨油机](/images/korean-type-small-press/korean-type-overview.jpg)

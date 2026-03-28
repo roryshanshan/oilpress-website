@@ -1,9 +1,75 @@
 ---
-title: Решение для льняного семени (Льняное масло) - Shengshi Hecheng
-description: Профессиональные решения для отжима льняного семени, предоставление оборудования и технических услуг по переработке льняного масла, содержание масла 35-45%
-keywords: Решения для льняного семени, Отжим льняного масла, Оборудование для переработки льняного семени, Линия производства льняного масла, Процесс холодного отжима льняного семени, Пресс для льняного масла, Экстракция льняного масла, Переработка льняного семени, Оборудование для отжима льняного масла, Льняное масло, Добавки Ω-3, Льняное масло
----
+title: Решение для льняного семени (Льняное масло) - Shengshi Hecheng...
+description: "Запросите стоимость решения Решение для льняного семени (Льняное масло) - Shengshi Hecheng: проект линии, список оборудования и сервис."
+keywords: Решение для льняного семени (Льняное масло) цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Решение для льняного семени (Льняное масло)",
+          "description": "Запросите стоимость решения Решение для льняного семени (Льняное масло) - Shengshi Hecheng: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/flaxseed",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Решение для льняного семени (Льняное масло)",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/flaxseed"
+            }
+          ]
+        }
+---
 # Решение для льняного семени (Льняное масло)
 
 ## Обзор
@@ -142,3 +208,11 @@ keywords: Решения для льняного семени, Отжим льн
 - 📍 **Адрес**: № 5888, Улица Иньнэн, Зона развития, Город Цинчжоу, Город Вэйфан, Провинция Шаньдун
 
 Мы предоставляем бесплатные технические консультации, тестирование образцов и услуги выездной инспекции, чтобы предоставить вам наиболее подходящее решение для отжима льняного семени.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

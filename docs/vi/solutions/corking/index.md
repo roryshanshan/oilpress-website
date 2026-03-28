@@ -1,7 +1,7 @@
 ---
-title: "loạt nút chặn"
-description: "Dòng máy đóng nút chai phù hợp với quy trình ép nút chai hoặc nút tổng hợp của các sản phẩm chai thủy tinh như rượu vang, rượu hoa quả, dầu hộp quà tặng cao cấp, v.v. Đây là một module quan trọng của dây chuyền đóng gói rượu và dầu đặc sản."
-keywords: "Dòng máy đóng nút chai, máy đóng nút chai, máy ép nút chai, thiết bị đóng nút chai rượu vang, máy đóng nút chai thủy tinh, thiết bị đóng gói dầu hộp quà tặng"
+title: loạt nút chặn
+description: Dòng máy đóng nút chai phù hợp với quy trình ép nút chai hoặc nút tổng hợp của các sản phẩm chai thủy tinh như rượu vang, rượu hoa quả, dầu hộp quà tặng cao cấp
+keywords: Dòng máy đóng nút chai, máy đóng nút chai, máy ép nút chai, thiết bị đóng nút chai rượu vang, máy đóng nút chai thủy tinh, thiết bị đóng gói dầu hộp quà tặng
 ---
 
 # Dòng máy đóng nút

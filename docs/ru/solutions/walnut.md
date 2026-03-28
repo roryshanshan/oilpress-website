@@ -1,9 +1,75 @@
 ---
-title: Решение для грецкого ореха (Масло грецкого ореха)
-description: Профессиональные решения для отжима грецкого ореха, предоставление оборудования и технических услуг по переработке масла грецкого ореха, содержание масла 60-70%
-keywords: Решения для грецкого ореха, Отжим масла грецкого ореха, Оборудование для переработки грецкого ореха, Линия производства масла грецкого ореха, Процесс холодного отжима грецкого ореха, Пресс для масла грецкого ореха, Экстракция масла грецкого ореха, Переработка масличных семян грецкого ореха, Оборудование для отжима масла грецкого ореха, Оборудование для производства масла грецкого ореха, Премиальное пищевое масло
----
+title: Решение для грецкого ореха (Масло грецкого ореха) цена
+description: "Запросите стоимость решения Решение для грецкого ореха (Масло грецкого ореха): проект линии, список оборудования и сервис."
+keywords: Решение для грецкого ореха (Масло грецкого ореха) цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Решение для грецкого ореха (Масло грецкого ореха)",
+          "description": "Запросите стоимость решения Решение для грецкого ореха (Масло грецкого ореха): проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/walnut",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Решение для грецкого ореха (Масло грецкого ореха)",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/walnut"
+            }
+          ]
+        }
+---
 # Решение для грецкого ореха (Масло грецкого ореха)
 
 ## Обзор
@@ -123,3 +189,11 @@ keywords: Решения для грецкого ореха, Отжим масл
 - 📍 **Адрес**: № 5888, Улица Иньнэн, Зона развития, Город Цинчжоу, Город Вэйфан, Провинция Шаньдун
 
 Мы предоставляем бесплатные технические консультации, тестирование образцов и услуги выездной инспекции, чтобы предоставить вам наиболее подходящее решение для отжима грецкого ореха.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

@@ -1,9 +1,79 @@
 ---
 title: Руководство по Эксплуатации Оборудования
 description: Скачивание Руководства по Эксплуатации Гидравлического Пресса для Масла Qianlong
-keywords: Руководство по эксплуатации, гидравлический маслопресс, пресс для масла, оборудование для отжима масла, производитель маслопрессов, после продажное обслуживание, оборудование для переработки масличных культур
----
+keywords: Руководство по Эксплуатации Оборудования цена, купить Руководство по Эксплуатации Оборудования, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Руководство по Эксплуатации Оборудования",
+          "description": "Скачивание Руководства по Эксплуатации Гидравлического Пресса для Масла Qianlong",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "instruction-manual",
+          "url": "https://hydraulic-oil-press.com/ru/products/instruction-manual",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Руководство по Эксплуатации Оборудования",
+              "item": "https://hydraulic-oil-press.com/ru/products/instruction-manual"
+            }
+          ]
+        }
+---
 # Руководство по Эксплуатации Оборудования
 
 ::: tip Инструкции по Скачиванию

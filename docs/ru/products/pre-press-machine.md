@@ -1,9 +1,79 @@
 ---
-title: Предпресс-машина - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Предпресс-машина использует принцип спирального дробления, разработана для эффективной и стабильной работы, низкий уровень шума
-keywords: предпресс-машина, спиральная дробилка, предпресс-машина для масличных семян, оборудование для предпрессования, дробилка для масличных семян, спиральный пресс, оборудование для предварительной обработки масличных семян, дробилка, машина для предпрессования, оборудование для прессования масличных семян, предпрессовое оборудование
----
+title: Предпресс-машина - Shengshi Hecheng цена | производитель
+description: Запросите цену и подбор Предпресс-машина - Shandong Shengshi Hecheng Machinery Co., Ltd.. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Предпресс-машина цена, купить Предпресс-машина, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Предпресс-машина",
+          "description": "Запросите цену и подбор Предпресс-машина - Shandong Shengshi Hecheng Machinery Co., Ltd.. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "pre-press-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/pre-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Предпресс-машина",
+              "item": "https://hydraulic-oil-press.com/ru/products/pre-press-machine"
+            }
+          ]
+        }
+---
 # Предпресс-машина
 
 ![](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)

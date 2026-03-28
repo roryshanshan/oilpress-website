@@ -1,9 +1,75 @@
 ---
-title: "GDP36DK-10-10 Machine combinée de remplissage et de bouchage intelligente entièrement automatique | machine combinée et bus de support de remplissage"
-description: "Ce modèle est l’un des équipements haut de gamme les plus populaires dans l’industrie du remplissage du vin. Il introduit une technologie de principe de fonctionnement avancée étrangère, intègre la lumière, l'électricité et le gaz, est rapide, précis et efficace, et est largement utilisé dans l'industrie des produits d'emballage du vin."
-keywords: "Machine combinée de remplissage et de bouchage intelligente entièrement automatique GDP36DK-10-10, machine combinée et bus de support de remplissage, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: GDP36DK-10-10 Machine combinée de remplissage e Solution | Devis
+description: "Demandez un devis pour GDP36DK-10-10 Machine combinée de remplissage et de bouchage intelligente entièrement automatique : plan de ligne"
+keywords: GDP36DK-10-10 Machine de remplissage, de bouchage et de scellage intelligente entièrement automatique prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "GDP36DK-10-10 Machine de remplissage, de bouchage et de scellage intelligente entièrement automatique",
+          "description": "Demandez un devis pour \\\"GDP36DK-10-10 Machine combinée de remplissage et de bouchage intelligente entièrement automatique : plan de ligne",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GDP36DK-10-10 Machine de remplissage, de bouchage et de scellage intelligente entièrement automatique",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock"
+            }
+          ]
+        }
+---
 # GDP36DK-10-10 Machine de remplissage, de bouchage et de scellage intelligente entièrement automatique
 
 ![Machine de remplissage et de bouchage intelligente entièrement automatique GDP36DK-10-10](/images/filling-products/gdp36dk-filling-capping-sealing-monoblock.webp)
@@ -86,3 +152,11 @@ Ce modèle est l’un des équipements haut de gamme les plus populaires dans l�
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
 - [Machine combinée et bus de support de remplissage](/fr/solutions/filling-packages)
 - [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

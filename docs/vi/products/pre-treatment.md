@@ -1,9 +1,79 @@
 ---
 title: Thiết bị xử lý trước ép dầu - Shengshi Hecheng
 description: Thiết bị xử lý trước ép dầu là thành phần quan trọng trong dây chuyền sản xuất ép dầu, bao gồm thiết bị lựa chọn, thiết bị sấy, thiết bị xay
-keywords: thiết bị xử lý trước ép dầu, thiết bị xử lý trước dầu cây, thiết bị lựa chọn, thiết bị sấy, thiết bị xay, xử lý trước chế biến dầu, thiết bị xử lý trước, máy lựa chọn dầu cây, máy sấy dầu cây, máy xay dầu cây, dây chuyền xử lý trước, quy trình xử lý trước dầu cây
----
+keywords: giá Thiết bị xử lý trước ép dầu, mua Thiết bị xử lý trước ép dầu, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Thiết bị xử lý trước ép dầu",
+          "description": "Thiết bị xử lý trước ép dầu là thành phần quan trọng trong dây chuyền sản xuất ép dầu, bao gồm thiết bị lựa chọn, thiết bị sấy, thiết bị xay",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "pre-treatment",
+          "url": "https://hydraulic-oil-press.com/vi/products/pre-treatment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Thiết bị xử lý trước ép dầu",
+              "item": "https://hydraulic-oil-press.com/vi/products/pre-treatment"
+            }
+          ]
+        }
+---
 # Thiết bị xử lý trước ép dầu
 
 Thiết bị xử lý trước là thành phần quan trọng trong dây chuyền sản xuất ép dầu, ảnh hưởng trực tiếp đến chất lượng sản phẩm cuối cùng.

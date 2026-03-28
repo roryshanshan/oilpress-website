@@ -1,9 +1,75 @@
 ---
-title: 果实类油料解决方案 - 山东盛世赫程机械有限公司
-description: 果实类油料加工解决方案，针对牛油果、葡萄籽、南瓜籽等原料提供工艺与设备配置支持，满足营养油市场。
-keywords: 果实类油料解决方案, 油料加工解决方案, 榨油机设备, 油料加工设备, 油料压榨工艺, 生产线价格, 生产线报价, 牛油果油加工, 葡萄籽油生产线, 南瓜籽油压榨设备
----
+title: 果实类油料解决方案 - 山东盛世赫程机械有限公司报价|整线方案
+description: 获取果实类油料解决方案 - 山东盛世赫程机械有限公司整线方案与报价，含工艺、设备清单与售后支持。
+keywords: 果实类油料解决方案 - 山东盛世赫程机械有限公司报价, 果实类油料解决方案 - 山东盛世赫程机械有限公司价格, 整线方案, 生产线, 采购
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "果实类油料解决方案",
+          "description": "获取果实类油料解决方案 - 山东盛世赫程机械有限公司整线方案与报价，含工艺、设备清单与售后支持。",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "serviceType": "解决方案",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/zh/solutions/fruits",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "解决方案",
+              "item": "https://hydraulic-oil-press.com/zh/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "果实类油料解决方案",
+              "item": "https://hydraulic-oil-press.com/zh/solutions/fruits"
+            }
+          ]
+        }
+---
 # 果实类油料解决方案
 
 ## 概述
@@ -236,3 +302,11 @@ graph TD
 - [400系列液压榨油机](/zh/products/400)
 - [联系我们获取方案](/zh/contact/)
 - [English Page](/en/solutions/fruits)
+
+## 获取价格/报价
+
+请告诉我们产能、油料类型与预算，我们将提供整线配置与报价。
+
+- [获取价格/报价](/zh/contact/)
+
+<!-- quote-cta -->

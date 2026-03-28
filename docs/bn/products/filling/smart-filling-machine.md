@@ -1,9 +1,79 @@
 ---
-title: "সিরিজ বুদ্ধিমান ফিলিং মেশিন | 12-36 মাথা বোতলজাত তরল ভর্তি সরঞ্জাম"
-description: "বুদ্ধিমান ফিলিং মেশিনের সিরিজ 12-36 হেড কনফিগারেশন কভার করে, যার রেফারেন্স গতি 4000-13000 বোতল/ঘন্টা এবং 500±1 মিলি। তারা খুচরা বোতলজাত তেল এবং মাল্টি-স্ট্যান্ডার্ড বোতল স্বয়ংক্রিয় লাইনের জন্য উপযুক্ত।"
-keywords: "বুদ্ধিমান ফিলিং মেশিনের সিরিজ, 12-হেড ফিলিং মেশিন, 36-হেড ফিলিং মেশিন, সাধারণ চাপ ফিলিং মেশিন, ফিলিং মেশিন সিরিজ, শেংশি হেচেং"
----
+title: সিরিজ বুদ্ধিমান ফিলিং মেশিন দাম | প্রস্তুতকারক
+description: সিরিজ বুদ্ধিমান ফিলিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: সিরিজ ইন্টেলিজেন্ট ফিলিং মেশিন দাম, সিরিজ ইন্টেলিজেন্ট ফিলিং মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "সিরিজ ইন্টেলিজেন্ট ফিলিং মেশিন",
+          "description": "\"সিরিজ বুদ্ধিমান ফিলিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "smart-filling-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/smart-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "সিরিজ ইন্টেলিজেন্ট ফিলিং মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/smart-filling-machine"
+            }
+          ]
+        }
+---
 # সিরিজ ইন্টেলিজেন্ট ফিলিং মেশিন
 
 ![সিরিজ স্মার্ট ফিলিং মেশিন](/images/filling-products/smart-filling-machine.webp)

@@ -1,6 +1,6 @@
 ---
-title: "液压榨油机常见故障排查指南：高频问题与实用检查方法"
-description: "针对出油率低、压力不稳、油饼偏湿、漏油和过热等常见问题，提供更实用的排查步骤。"
+title: 液压榨油机常见故障排查指南：高频问题与实用检查方法
+description: 针对出油率低、压力不稳、油饼偏湿、漏油和过热等常见问题，提供更实用的排查步骤。
 keywords: 液压榨油机故障排查, 榨油机出油率低, 榨油机压力不稳, 榨油机维护
 date: "2026-03-19"
 ---
@@ -47,4 +47,4 @@ date: "2026-03-19"
 - [液压榨油机一天能压几锅？批次产能计算指南](/zh/news/technology/how-many-batches-can-hydraulic-oil-press-run-per-day)
 - [如何提高榨油机出油率](/zh/news/technology/improve-oil-yield)
 - [说明书下载](/zh/products/instruction-manual)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

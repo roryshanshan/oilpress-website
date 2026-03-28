@@ -1,9 +1,79 @@
 ---
-title: "Máy rót rượu hai dây | máy kết hợp và xe buýt hỗ trợ làm đầy"
-description: "Máy này được sử dụng để làm đầy định lượng và niêm phong chất lỏng không phải khí."
-keywords: "Máy rót rượu hai dây, máy kết hợp và xe buýt hỗ trợ rót, thiết bị đóng gói chất lỏng, thiết bị rót và đóng gói, Shengshi Hechen"
----
+title: Máy rót rượu hai dây giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy rót rượu hai dây từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Rót rượu hai dòng, mua Rót rượu hai dòng, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Rót rượu hai dòng",
+          "description": "Nhận báo giá và tư vấn mua \"Máy rót rượu hai dây từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "baijiu-filling-capping-monoblock",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling/baijiu-filling-capping-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Rót rượu hai dòng",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling/baijiu-filling-capping-monoblock"
+            }
+          ]
+        }
+---
 # Rót rượu hai dòng
 
 ![Rót rượu hai dòng](/images/filling-products/baijiu-filling-capping-monoblock.webp)

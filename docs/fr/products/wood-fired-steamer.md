@@ -1,9 +1,79 @@
 ---
-title: Cuiseur à combustion bois - Shengshi Hecheng
-description: Le cuiseur à combustion bois en matériau Q355B peut être chauffé avec du charbon/bois/combustible gazeux, réservoir intégré
-keywords: Cuiseur à combustion bois, Équipement de cuiseur, Cuiseur à chauffage bois, Cuiseur au gaz, Cuiseur à charbon, Cuiseur de graines oléagineuses, Équipement de cuisson, Machine de cuiseur, Équipement de cuiseur, Cuiseur de traitement de graines oléagineuses, Pot de cuisson, Cuiseur
----
+title: Cuiseur à combustion bois - Shengshi Hecheng prix | fabricant
+description: Demandez le prix et le devis pour Cuiseur à combustion bois - Shengshi Hecheng. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Cuiseur à combustion bois prix, acheter Cuiseur à combustion bois, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Cuiseur à combustion bois",
+          "description": "Demandez le prix et le devis pour Cuiseur à combustion bois - Shengshi Hecheng. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "wood-fired-steamer",
+          "url": "https://hydraulic-oil-press.com/fr/products/wood-fired-steamer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Cuiseur à combustion bois",
+              "item": "https://hydraulic-oil-press.com/fr/products/wood-fired-steamer"
+            }
+          ]
+        }
+---
 # Cuiseur à combustion bois
 ![Cuiseur à combustion bois](https://i.postimg.cc/Gcs3LvWX/image.png?dl=1)
 ## Aperçu du produit

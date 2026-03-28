@@ -1,9 +1,79 @@
 ---
-title: "দুই-লাইন ভরাট করা এবং থামানো | চোলাই সরঞ্জাম সিরিজ"
-description: "এই দুই টুকরা মেশিন প্রধানত ওয়াইন এবং ফল ওয়াইন ভর্তি জন্য ডিজাইন করা হয়েছে. এই সরঞ্জামটি জৈবভাবে একটি নেতিবাচক চাপ ফিলিং মেশিন এবং একটি কর্কিং মেশিনকে একত্রিত করে। সরঞ্জামগুলির একটি কম্প্যাক্ট কাঠামো রয়েছে এবং ইনস্টলেশনের স্থান সংরক্ষণ করে।"
-keywords: "ফিলিং এবং স্টপারিং টু-লাইন মেশিন, ব্রুইং ইকুইপমেন্ট সিরিজ, লিকুইড প্যাকেজিং ইকুইপমেন্ট, ফিলিং এবং প্যাকেজিং ইকুইপমেন্ট, শেংশি হেচেং"
----
+title: দুই-লাইন ভরাট করা এবং থামানো দাম | প্রস্তুতকারক
+description: দুই-লাইন ভরাট করা এবং থামানো এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: অনলাইনে দুটি পূরণ করা এবং বন্ধ করা দাম, অনলাইনে দুটি পূরণ করা এবং বন্ধ করা কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "অনলাইনে দুটি পূরণ করা এবং বন্ধ করা",
+          "description": "\"দুই-লাইন ভরাট করা এবং থামানো এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "filling-corking-monoblock",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/filling-corking-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "অনলাইনে দুটি পূরণ করা এবং বন্ধ করা",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/filling-corking-monoblock"
+            }
+          ]
+        }
+---
 # অনলাইনে দুটি পূরণ করা এবং বন্ধ করা
 
 ![অনলাইনে ফিলিং এবং কর্কিং](/images/filling-products/filling-corking-monoblock.webp)

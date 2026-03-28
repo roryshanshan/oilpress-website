@@ -1,9 +1,79 @@
 ---
-title: 烧柴导热油平底炒锅 - 山东盛世赫程机械有限公司
-description: 烧柴导热油平底炒锅自带炉膛，导热油款解决受热不均匀问题，可烧柴及天然气，内衬岩棉保温层，外包不锈钢，适用于油料炒制预处理。
-keywords: 烧柴导热油平底炒锅, 榨油机设备, 榨油机价格, 榨油机报价, 榨油机采购, 油料加工设备, 榨油机配套设备, 售后服务, 油料预处理设备, 导热油炒锅
----
+title: 烧柴导热油平底炒锅 - 山东盛世赫程机械有限公司价格|厂家报价
+description: 获取烧柴导热油平底炒锅 - 山东盛世赫程机械有限公司价格、采购与售后支持，厂家直供，支持选型与交付。
+keywords: 烧柴导热油平底炒锅 - 山东盛世赫程机械有限公司价格, 烧柴导热油平底炒锅 - 山东盛世赫程机械有限公司报价, 烧柴导热油平底炒锅 - 山东盛世赫程机械有限公司厂家, 烧柴导热油平底炒锅 - 山东盛世赫程机械有限公司采购, 售后服务
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "烧柴导热油平底炒锅",
+          "description": "获取烧柴导热油平底炒锅 - 山东盛世赫程机械有限公司价格、采购与售后支持，厂家直供，支持选型与交付。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "wood-fired-thermal-oil-flat-bottom-wok",
+          "url": "https://hydraulic-oil-press.com/zh/products/wood-fired-thermal-oil-flat-bottom-wok",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "烧柴导热油平底炒锅",
+              "item": "https://hydraulic-oil-press.com/zh/products/wood-fired-thermal-oil-flat-bottom-wok"
+            }
+          ]
+        }
+---
 # 烧柴导热油平底炒锅
 
 ![烧柴导热油平底炒锅](https://i.postimg.cc/wHP2fGLt/202509051612083.png?dl=1)

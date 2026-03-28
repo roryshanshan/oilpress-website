@@ -1,9 +1,75 @@
 ---
-title: Solution de graines de thé (huile de graines de thé)
-description: Solutions professionnelles de pressage de graines de thé, fournissant des équipements et services techniques de transformation d'huile de graines de thé
-keywords: Solutions de graines de thé, pressage d'huile de graines de thé, équipement de transformation de graines de thé, ligne de production d'huile de graines de thé, processus de pressage à chaud de graines de thé, presse à huile de graines de thé, extraction d'huile de graines de thé, transformation de graines oléagineuses de graines de thé, équipement de pressage d'huile de graines de thé, huile de thé, huile de camélia
----
+title: Solution de graines de thé (huile de graines de thé) devis
+description: "Demandez un devis pour Solution de graines de thé (huile de graines de thé) : plan de ligne, liste d’équipements et SAV."
+keywords: Solution de graines de thé (huile de graines de thé) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Solution de graines de thé (huile de graines de thé)",
+          "description": "Demandez un devis pour Solution de graines de thé (huile de graines de thé) : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/tea-seed",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Solution de graines de thé (huile de graines de thé)",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/tea-seed"
+            }
+          ]
+        }
+---
 # Solution de graines de thé (huile de graines de thé)
 
 ## Aperçu
@@ -142,3 +208,11 @@ If you are interested in tea seed pressing solutions, please contact our technic
 - 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable tea seed pressing solution.
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

@@ -1,9 +1,75 @@
 ---
-title: 辣椒籽（辣椒籽油）解决方案 - 山东盛世赫程机械有限公司
-description: 辣椒籽油加工解决方案，注重压榨过程控制与品质保留，适用于功能性食用油生产。
-keywords: 辣椒籽（辣椒籽油）解决方案, 油料加工解决方案, 榨油机设备, 油料加工设备, 油料压榨工艺, 生产线价格, 生产线报价, 辣椒籽油解决方案, 辣椒籽压榨设备, 辣椒籽油生产线
----
+title: 辣椒籽（辣椒籽油）解决方案 - 山东盛世赫程机械有限公司报价|整线方案
+description: 获取辣椒籽（辣椒籽油）解决方案 - 山东盛世赫程机械有限公司整线方案与报价，含工艺、设备清单与售后支持。
+keywords: 辣椒籽（辣椒籽油）解决方案 - 山东盛世赫程机械有限公司报价, 辣椒籽（辣椒籽油）解决方案 - 山东盛世赫程机械有限公司价格, 整线方案, 生产线, 采购
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "辣椒籽（辣椒籽油）解决方案",
+          "description": "获取辣椒籽（辣椒籽油）解决方案 - 山东盛世赫程机械有限公司整线方案与报价，含工艺、设备清单与售后支持。",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "serviceType": "解决方案",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/zh/solutions/chili-seed",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "解决方案",
+              "item": "https://hydraulic-oil-press.com/zh/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "辣椒籽（辣椒籽油）解决方案",
+              "item": "https://hydraulic-oil-press.com/zh/solutions/chili-seed"
+            }
+          ]
+        }
+---
 # 辣椒籽（辣椒籽油）解决方案
 
 ## 概述
@@ -134,3 +200,11 @@ keywords: 辣椒籽（辣椒籽油）解决方案, 油料加工解决方案, 榨
 - [400系列液压榨油机](/zh/products/400)
 - [联系我们获取方案](/zh/contact/)
 - [English Page](/en/solutions/chili-seed)
+
+## 获取价格/报价
+
+请告诉我们产能、油料类型与预算，我们将提供整线配置与报价。
+
+- [获取价格/报价](/zh/contact/)
+
+<!-- quote-cta -->

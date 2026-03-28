@@ -1,7 +1,7 @@
 ---
-title: "Rubber cap heat shrink machine series"
-description: "The rubber cap heat shrink machine series is mainly used for shrink packaging of PVC rubber caps or heat shrink caps, and is suitable for wine, fruit wine and high-end glass bottle oil packaging lines."
-keywords: "Rubber cap heat shrink machine series, heat shrink machine, PVC rubber cap heat shrink equipment, wine cap shrink machine, gift box oil shrink cap equipment, heat shrink sealing machine"
+title: Rubber cap heat shrink machine series
+description: The rubber cap heat shrink machine series is mainly used for shrink packaging of PVC rubber caps or heat shrink caps, and is suitable for wine
+keywords: Rubber cap heat shrink machine series, heat shrink machine, PVC rubber cap heat shrink equipment, wine cap shrink machine, gift box oil shrink cap equipment, heat shrink sealing machine
 ---
 
 # Rubber cap heat shrink machine series

@@ -1,9 +1,79 @@
 ---
-title: "থ্রি-ইন-ওয়ান মেশিন ধুয়ে ফেলা, ফিলিং এবং সিল করা | CGF30-24-8~CGF60-40-8 মিলিত মেশিন"
-description: "থ্রি-লাইন রিন্সিং, ফিলিং এবং সিলিং মেশিন CGF30-24-8 থেকে CGF60-40-8 কে কভার করে, যার রেফারেন্স আউটপুট 6000-12000 p/h, এবং বোতলজাত তেল, মদ এবং সিজনিং তরলগুলির জন্য সমন্বিত প্যাকেজিং লাইনের জন্য উপযুক্ত।"
-keywords: "রিন্সিং, ফিলিং এবং সিলিং ট্রিপল মেশিন, CGF30-24-8, CGF60-40-8, মিলিত মেশিন, ফিলিং এবং প্যাকেজিং সরঞ্জাম, Shengshi Hecheng"
----
+title: থ্রি-ইন-ওয়ান মেশিন ধুয়ে ফেলা, ফিলিং এবং সিল করা দাম
+description: থ্রি-ইন-ওয়ান মেশিন ধুয়ে ফেলা, ফিলিং এবং সিল করা এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: থ্রি-লাইন মেশিন রিন্সিং, ফিলিং এবং সিল করা দাম, থ্রি-লাইন মেশিন রিন্সিং, ফিলিং এবং সিল করা কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "থ্রি-লাইন মেশিন রিন্সিং, ফিলিং এবং সিল করা",
+          "description": "\"থ্রি-ইন-ওয়ান মেশিন ধুয়ে ফেলা, ফিলিং এবং সিল করা এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "cgf-three-in-one-monoblock",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/cgf-three-in-one-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "থ্রি-লাইন মেশিন রিন্সিং, ফিলিং এবং সিল করা",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/cgf-three-in-one-monoblock"
+            }
+          ]
+        }
+---
 # থ্রি-লাইন মেশিন রিন্সিং, ফিলিং এবং সিল করা
 
 ![থ্রি-ইন-ওয়ান রিন্সিং, ফিলিং এবং সিলিং মেশিন](/images/filling-products/cgf-three-in-one-monoblock.webp)

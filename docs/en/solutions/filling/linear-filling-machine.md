@@ -1,9 +1,75 @@
 ---
-title: "Linear filling machine | ZGP-4~ZGP-10 Large barrel filling equipment"
-description: "The linear filling machine covers ZGP-4 to ZGP-10, suitable for quantitative filling of 10-25 L large barrels of liquid, with a reference output of 500-1400 barrels/hour based on 10 L."
-keywords: "Linear filling machine, ZGP-4, ZGP-10, vat filling machine, filling machine series, Shengshi Hecheng"
----
+title: Linear filling machine Quote | Turnkey Solution
+description: Get a quote and turnkey plan for Linear filling machine. Process design, equipment list, and after-sales support.
+keywords: Linear filling machine quote, Linear filling machine price, turnkey solution, production line, procurement
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Linear filling machine",
+          "description": "Get a quote and turnkey plan for \"Linear filling machine. Process design, equipment list, and after-sales support.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/en/solutions/filling/linear-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/en/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Linear filling machine",
+              "item": "https://hydraulic-oil-press.com/en/solutions/filling/linear-filling-machine"
+            }
+          ]
+        }
+---
 # Linear filling machine
 
 ![Linear filling machine](/images/filling-products/linear-filling-machine.webp)
@@ -48,3 +114,11 @@ The linear filling machine is mainly used for quantitative filling of medium and
 - [Filling and packaging equipment parameter library](/en/products/filling-equipment)
 - [Filling machine series](/en/solutions/filling/)
 - [Contact us for complete line advice](/en/contact/)
+
+## Get Price & Quote
+
+Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+
+- [Get Price & Quote](/en/contact/)
+
+<!-- quote-cta -->

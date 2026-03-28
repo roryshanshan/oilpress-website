@@ -1,9 +1,75 @@
 ---
-title: "কীটনাশক ভর্তি মেশিন | LGF-10-1~LGF-24-1 স্বয়ংক্রিয় ফিলিং লাইন"
-description: "কীটনাশক ফিলিং মেশিন LGF-10-1 থেকে LGF-24-1 জুড়ে, 2000-7000 এর রেফারেন্স আউটপুট সহ, এবং কৃষি রাসায়নিক এবং দৈনন্দিন রাসায়নিক পণ্যগুলির জন্য স্বয়ংক্রিয় বোতল আনপ্যাকিং, ভর্তি এবং ক্যাপিং লাইনের জন্য উপযুক্ত।"
-keywords: "কীটনাশক ফিলিং মেশিন, LGF-10-1, LGF-24-1, স্বয়ংক্রিয় ফিলিং লাইন, ফিলিং মেশিন সিরিজ, Shengshi Hecheng"
----
+title: কীটনাশক ভর্তি মেশিন কোটেশন | সম্পূর্ণ সমাধান
+description: কীটনাশক ভর্তি মেশিন এর কোটেশন নিন—লাইন পরিকল্পনা, যন্ত্রপাতির তালিকা ও সাপোর্টসহ।
+keywords: কীটনাশক ফিলিং মেশিন লাইন দরপত্র, টার্নকি সমাধান, যন্ত্রপাতির তালিকা, কারখানা থেকে ক্রয়, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "কীটনাশক ফিলিং মেশিন",
+          "description": "\"কীটনাশক ভর্তি মেশিন এর কোটেশন নিন—লাইন পরিকল্পনা, যন্ত্রপাতির তালিকা ও সাপোর্টসহ।",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "serviceType": "সমাধান",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/bn/solutions/filling/pesticide-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "সমাধান",
+              "item": "https://hydraulic-oil-press.com/bn/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "কীটনাশক ফিলিং মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/solutions/filling/pesticide-filling-machine"
+            }
+          ]
+        }
+---
 # কীটনাশক ফিলিং মেশিন
 
 ![কীটনাশক ফিলিং মেশিন](/images/filling-products/pesticide-filling-machine.webp)
@@ -48,3 +114,11 @@ keywords: "কীটনাশক ফিলিং মেশিন, LGF-10-1, LGF-
 - [ফিলিং এবং প্যাকেজিং সরঞ্জাম প্যারামিটার লাইব্রেরি](/bn/products/filling-equipment)
 - [ফিলিং মেশিন সিরিজ](/bn/solutions/filling/)
 - [সম্পূর্ণ লাইন পরামর্শের জন্য আমাদের সাথে যোগাযোগ করুন](/bn/contact/)
+
+## দাম ও দরপত্র নিন
+
+ক্ষমতা, কাঁচামাল ও বাজেট দিন—আমরা লাইন কনফিগারেশন ও দরপত্র দেব।
+
+- [দাম ও দরপত্র নিন](/bn/contact/)
+
+<!-- quote-cta -->

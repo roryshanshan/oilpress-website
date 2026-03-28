@@ -1,9 +1,75 @@
 ---
-title: "GFP-48H разливочная машина низкого вакуума | Серия пивоваренного оборудования"
-description: "Машина для розлива в низковакуумном режиме GFP-48H представляет собой оборудование для розлива с фиксированным уровнем и 48 головками с базовой производительностью 15 000 бутылок в час и общей мощностью 6 кВт. Подходит для розлива вина, рисового вина, соевого соуса, уксуса и других легко пенящихся жидкостей."
-keywords: "Машина для розлива с низким вакуумом GFP-48H, машина для розлива с низким вакуумом, серия оборудования для виноделия, машина для розлива с фиксированным уровнем, оборудование для розлива вина, Shengshi Hecheng"
----
+title: GFP-48H разливочная машина низкого вакуума цена
+description: "Запросите стоимость решения GFP-48H разливочная машина низкого вакуума: проект линии, список оборудования и сервис."
+keywords: GFP-48H разливочная машина низкого вакуума цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "GFP-48H разливочная машина низкого вакуума",
+          "description": "Запросите стоимость решения \"GFP-48H разливочная машина низкого вакуума: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/brewing/gfp-48h-low-vacuum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GFP-48H разливочная машина низкого вакуума",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/brewing/gfp-48h-low-vacuum-filling-machine"
+            }
+          ]
+        }
+---
 # GFP-48H разливочная машина низкого вакуума
 
 ![Машина для розлива с низким вакуумом GFP-48H](/images/filling-products/gfp-48h-low-vacuum-filling-machine.webp)
@@ -53,3 +119,11 @@ GFP-48H подходит для сценариев непрерывного на
 - [Библиотека параметров фасовочно-упаковочного оборудования](/ru/products/filling-equipment#brew-vacuum)
 - [Упаковка, паллетизация](/ru/solutions/packing-palletizing/)
 - [Свяжитесь с нами для получения полной консультации по линии](/ru/contact/)
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

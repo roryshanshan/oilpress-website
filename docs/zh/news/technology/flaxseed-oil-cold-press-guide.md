@@ -1,6 +1,6 @@
 ---
-title: "亚麻籽油冷榨工艺指南：流程、机型与品质控制"
-description: "从低温压榨、液压榨油机选择到抗氧化控制与包装保护，系统了解亚麻籽油冷榨项目。"
+title: 亚麻籽油冷榨工艺指南：流程、机型与品质控制
+description: 从低温压榨、液压榨油机选择到抗氧化控制与包装保护，系统了解亚麻籽油冷榨项目。
 keywords: 液压榨油机, 食用油生产线, 榨油工艺, 油料加工
 date: "2026-03-10"
 ---
@@ -34,4 +34,4 @@ date: "2026-03-10"
 - [冷榨与热榨对比指南](/zh/news/technology/cold-press-vs-hot-press)
 - [液压榨油机适合压榨哪些油料](/zh/news/technology/best-oilseeds-for-hydraulic-oil-press-machines)
 - [如何选择液压榨油机型号](/zh/news/technology/how-to-choose-hydraulic-oil-press-model)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

@@ -1,9 +1,75 @@
 ---
-title: 冲瓶、灌装、封口三联机 | CGF30-24-8~CGF60-40-8 联体机
-description: 冲瓶、灌装、封口三联机覆盖 CGF30-24-8 到 CGF60-40-8，参考产量 6000-12000 p/h，适合瓶装油、白酒、调味液一体化包装线。
-keywords: 冲瓶灌装封口三联机, CGF30-24-8, CGF60-40-8, 联体机, 灌装包装设备, 盛世赫程
----
+title: 冲瓶、灌装、封口三联机报价|整线方案
+description: 获取冲瓶、灌装、封口三联机整线方案与报价，含工艺、设备清单与售后支持。
+keywords: 冲瓶、灌装、封口三联机报价, 冲瓶、灌装、封口三联机价格, 整线方案, 生产线, 采购
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "冲瓶、灌装、封口三联机",
+          "description": "获取冲瓶、灌装、封口三联机整线方案与报价，含工艺、设备清单与售后支持。",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "serviceType": "解决方案",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/zh/solutions/filling-packages/cgf-three-in-one-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "解决方案",
+              "item": "https://hydraulic-oil-press.com/zh/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "冲瓶、灌装、封口三联机",
+              "item": "https://hydraulic-oil-press.com/zh/solutions/filling-packages/cgf-three-in-one-monoblock"
+            }
+          ]
+        }
+---
 # 冲瓶、灌装、封口三联机
 
 ![冲瓶、灌装、封口三联机](/images/filling-products/cgf-three-in-one-monoblock.webp)
@@ -48,4 +114,12 @@ keywords: 冲瓶灌装封口三联机, CGF30-24-8, CGF60-40-8, 联体机, 灌装
 
 - [灌装包装设备参数库](/zh/products/filling-equipment)
 - [联体机与灌装配套总线](/zh/solutions/filling-packages)
-- [联系我们获取整线建议](/zh/contact/)
+- [获取报价/整线建议](/zh/contact/)
+
+## 获取价格/报价
+
+请告诉我们产能、油料类型与预算，我们将提供整线配置与报价。
+
+- [获取价格/报价](/zh/contact/)
+
+<!-- quote-cta -->

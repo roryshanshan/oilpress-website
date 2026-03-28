@@ -1,9 +1,79 @@
 ---
-title: Интегрированная машина для подачи/дробления/обжарки
-description: Интегрированная машина для подачи, дробления и обжарки объединяет эти процессы, экономит пространство и затраты на переналадку между процессами
-keywords: интегрированная машина подачи-дробления-обжарки, интегрированная машина переработки масличных семян, оборудование для дробления и обжарки, интегрированное оборудование предварительной обработки масличных семян, машина для обжарки и дробления, оборудование для переработки масличных семян, интегрированное перерабатывающее оборудование, машина для обжарки масличных семян, интегрированная машина дробления и обжарки, оборудование для подачи масличных семян, производственная линия по переработке масличных семян
----
+title: Интегрированная машина для подачи/дробления/обжарки цена
+description: Запросите цену и подбор Интегрированная машина для подачи/дробления/обжарки. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Интегрированная машина для подачи/дробления/обжарки цена, купить Интегрированная машина для подачи/дробления/обжарки, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Интегрированная машина для подачи/дробления/обжарки",
+          "description": "Запросите цену и подбор Интегрированная машина для подачи/дробления/обжарки. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "feeding-crushing-frying-integrated-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/feeding-crushing-frying-integrated-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Интегрированная машина для подачи/дробления/обжарки",
+              "item": "https://hydraulic-oil-press.com/ru/products/feeding-crushing-frying-integrated-machine"
+            }
+          ]
+        }
+---
 # Интегрированная машина для подачи/дробления/обжарки
 ![Интегрированная машина для подачи/дробления/обжарки](https://i.postimg.cc/cZcxLxzG/image.png?dl=1)
 

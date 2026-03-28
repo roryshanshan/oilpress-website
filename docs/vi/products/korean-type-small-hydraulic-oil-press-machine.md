@@ -1,9 +1,79 @@
 ---
-title: Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc | Dành cho cửa hàng và kinh doanh nhỏ
-description: Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc phù hợp cho cửa hàng dầu mè, quầy dầu tươi trong siêu thị và xưởng nhỏ cao cấp, với các mẫu 10KG, 15KG và 20KG.
-keywords: máy ép dầu thủy lực kiểu Hàn Quốc, máy ép dầu nhỏ, máy cho cửa hàng dầu mè, máy ép dầu mè nhỏ, KHOP-10KG, KHOP-15KG, KHOP-20KG
----
+title: Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc, mua Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc",
+          "description": "Nhận báo giá và tư vấn mua Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "korean-type-small-hydraulic-oil-press-machine",
+          "url": "https://hydraulic-oil-press.com/vi/products/korean-type-small-hydraulic-oil-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc",
+              "item": "https://hydraulic-oil-press.com/vi/products/korean-type-small-hydraulic-oil-press-machine"
+            }
+          ]
+        }
+---
 # Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc
 
 ![Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc](/images/korean-type-small-press/korean-type-overview.jpg)

@@ -1,9 +1,75 @@
 ---
-title: "GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing combined machine | Combined machine and filling supporting bus"
-description: "This model is one of the high-end and popular high-end equipment in the wine filling industry. It introduces foreign advanced working principle technology, integrates light, electricity and gas, is fast, accurate and efficient, and is widely used in the wine packaging product industry."
-keywords: "GDP36DK-10-10 Fully automatic intelligent filling and capping combined machine, combined machine and filling supporting bus, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: GDP36DK-10-10 Fully automatic intelligent filli Solution | Quote
+description: Get a quote and turnkey plan for GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing combined machine.
+keywords: GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing combined machine quote, GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing combined machine price, turnkey solution, production line, procurement
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing machine",
+          "description": "Get a quote and turnkey plan for \"GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing combined machine.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/en/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/en/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing machine",
+              "item": "https://hydraulic-oil-press.com/en/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock"
+            }
+          ]
+        }
+---
 # GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing machine
 
 ![GDP36DK-10-10 Fully automatic intelligent filling and capping sealing machine](/images/filling-products/gdp36dk-filling-capping-sealing-monoblock.webp)
@@ -86,3 +152,11 @@ This model is one of the high-end and popular high-end equipment in the wine fil
 - [Filling and packaging equipment parameter library](/en/products/filling-equipment)
 - [Combined machine and filling supporting bus](/en/solutions/filling-packages)
 - [Contact us for complete line advice](/en/contact/)
+
+## Get Price & Quote
+
+Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+
+- [Get Price & Quote](/en/contact/)
+
+<!-- quote-cta -->

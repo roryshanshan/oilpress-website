@@ -1,9 +1,79 @@
 ---
-title: Korean Type Small Hydraulic Oil Press Machine for Shop & Small Business
-description: Korean type small hydraulic oil press machines for shop-based fresh oil sales and small business use, with 10 kg, 15 kg, and 20 kg class options for premium sesame oil projects.
-keywords: Korean type small hydraulic oil press machine, shop oil press machine, small hydraulic oil press, small sesame oil press machine, KHOP-10KG, KHOP-15KG, KHOP-20KG, retail sesame oil press
----
+title: Korean Type Small Hydraulic Oil Press Machine for Shop & Small...
+description: Get price, procurement, and after-sales support for Korean Type Small Hydraulic Oil Press Machine for Shop & Small Business from Shengshi Hecheng manufacturer.
+keywords: Korean Type Small Hydraulic Oil Press Machine for Shop & Small Business price, Korean Type Small Hydraulic Oil Press Machine for Shop & Small Business quote, Korean Type Small Hydraulic Oil Press Machine for Shop & Small Business manufacturer, Korean Type Small Hydraulic Oil Press Machine for Shop & Small Business supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Korean Type Small Hydraulic Oil Press Machine for Shop & Small Business",
+          "description": "Get price, procurement, and after-sales support for Korean Type Small Hydraulic Oil Press Machine for Shop & Small Business from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "korean-type-small-hydraulic-oil-press-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/korean-type-small-hydraulic-oil-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Korean Type Small Hydraulic Oil Press Machine for Shop & Small Business",
+              "item": "https://hydraulic-oil-press.com/en/products/korean-type-small-hydraulic-oil-press-machine"
+            }
+          ]
+        }
+---
 # Korean Type Small Hydraulic Oil Press Machine for Shop & Small Business
 
 ![Korean type small hydraulic oil press machine](/images/korean-type-small-press/korean-type-overview.jpg)

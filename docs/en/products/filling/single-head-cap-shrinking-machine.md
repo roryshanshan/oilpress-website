@@ -1,9 +1,79 @@
 ---
-title: "Single-head rubber cap heat shrink machine | Rubber cap heat shrink machine series"
-description: "This series of heat shrink machines mainly performs heat shrink sealing on PVC heat shrink rubber caps, and is specially used for shrinking caps after wine is corked."
-keywords: "Single-head rubber cap heat shrink machine, rubber cap heat shrink machine series, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: Single-head rubber cap heat shrink machine Price
+description: Get price, procurement, and after-sales support for Single-head rubber cap heat shrink machine from Shengshi Hecheng manufacturer.
+keywords: Single-head rubber cap heat shrink machine price, Single-head rubber cap heat shrink machine quote, Single-head rubber cap heat shrink machine manufacturer, Single-head rubber cap heat shrink machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Single head rubber cap heat shrink machine",
+          "description": "Get price, procurement, and after-sales support for \"Single-head rubber cap heat shrink machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "single-head-cap-shrinking-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/single-head-cap-shrinking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Single head rubber cap heat shrink machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/single-head-cap-shrinking-machine"
+            }
+          ]
+        }
+---
 # Single head rubber cap heat shrink machine
 
 ![Single head cap shrinking machine](/images/filling-products/single-head-cap-shrinking-machine.webp)

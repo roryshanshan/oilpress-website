@@ -1,9 +1,75 @@
 ---
-title: "Automatic unpacking, carton forming, cartoning machine | Packing, palletizing"
-description: "It automatically alarms when there is a shortage of tapes and cartons, and adopts PLC + display screen control, which greatly facilitates operation and is an indispensable equipment for automated large-scale production;"
-keywords: "Automatic unpacking, carton forming, cartoning machines, cartoning, palletizing, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: Automatic unpacking, carton forming, cartoning machine Quote
+description: Get a quote and turnkey plan for Automatic unpacking, carton forming, cartoning machine. Process design, equipment list, and after-sales support.
+keywords: Automatic unpacking, carton forming, cartoning machine quote, Automatic unpacking, carton forming, cartoning machine price, turnkey solution, production line, procurement
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Automatic unpacking, carton forming, and cartoning machines",
+          "description": "Get a quote and turnkey plan for \"Automatic unpacking, carton forming, cartoning machine. Process design, equipment list, and after-sales support.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/en/solutions/packing-palletizing/case-erector-packing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/en/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Automatic unpacking, carton forming, and cartoning machines",
+              "item": "https://hydraulic-oil-press.com/en/solutions/packing-palletizing/case-erector-packing-machine"
+            }
+          ]
+        }
+---
 # Automatic unpacking, carton forming, and cartoning machines
 
 ![Automatic unpacking, carton forming, and packing machine](/images/filling-products/case-erector-packing-machine.webp)
@@ -70,3 +136,11 @@ It automatically alarms when there is a shortage of tapes and cartons, and adopt
 - [Filling and packaging equipment parameter library](/en/solutions/production-lines)
 - [Packing, palletizing](/en/products/filling-equipment)
 - [Contact us for complete line advice](/en/solutions/packing-palletizing/)
+
+## Get Price & Quote
+
+Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+
+- [Get Price & Quote](/en/contact/)
+
+<!-- quote-cta -->

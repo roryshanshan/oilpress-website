@@ -1,9 +1,79 @@
 ---
-title: "আধা-স্বয়ংক্রিয় কর্কিং মেশিন | কর্কিং মেশিন সিরিজ"
-description: "এই মেশিনটি মূলত কর্কিং ওয়াইন এবং অন্যান্য কাচের বোতলগুলির জন্য উপযুক্ত। এটি প্রধানত ফিলিং মেশিনের পিছনে সংযুক্ত এবং ভর্তির পরে প্লাগিংয়ের জন্য ব্যবহৃত হয়।"
-keywords: "আধা-স্বয়ংক্রিয় স্টপারিং মেশিন, স্টপারিং মেশিন সিরিজ, তরল প্যাকেজিং সরঞ্জাম, ফিলিং এবং প্যাকেজিং সরঞ্জাম, শেংশি হেচেং"
----
+title: আধা-স্বয়ংক্রিয় কর্কিং মেশিন দাম | প্রস্তুতকারক
+description: আধা-স্বয়ংক্রিয় কর্কিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: আধা-স্বয়ংক্রিয় কর্কিং মেশিন দাম, আধা-স্বয়ংক্রিয় কর্কিং মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "আধা-স্বয়ংক্রিয় কর্কিং মেশিন",
+          "description": "\"আধা-স্বয়ংক্রিয় কর্কিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "semi-automatic-corking-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/semi-automatic-corking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "আধা-স্বয়ংক্রিয় কর্কিং মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/semi-automatic-corking-machine"
+            }
+          ]
+        }
+---
 # আধা-স্বয়ংক্রিয় কর্কিং মেশিন
 
 ![সেমি-অটোমেটিক কর্কিং মেশিন](/images/filling-products/semi-automatic-corking-machine.webp)

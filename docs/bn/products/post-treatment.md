@@ -1,9 +1,79 @@
 ---
 title: অয়েল পোস্ট-ট্রিটমেন্ট সরঞ্জাম
 description: অয়েল পোস্ট-ট্রিটমেন্ট সরঞ্জাম অয়েল কোয়ালিটি উন্নত করার জন্য ব্যবহার করা হয়, ফিল্টারিং সরঞ্জাম, রিফাইনিং সরঞ্জাম, প্যাকেজিং সরঞ্জাম অন্তর্ভুক্ত করে
-keywords: অয়েল পোস্ট-ট্রিটমেন্ট সরঞ্জাম, অয়েল রিফাইনিং সরঞ্জাম, অয়েল ফিল্টারিং সরঞ্জাম, অয়েল রিফাইনিং সরঞ্জাম, অয়েল প্যাকেজিং সরঞ্জাম, অয়েল প্রক্রিয়াকরণ সরঞ্জাম, অয়েল পোস্ট-ট্রিটমেন্ট, অয়েল পিওরিফিকেশন সরঞ্জাম, অয়েল ফিল্টার মেশিন, অয়েল রিফাইনিং মেশিন, অয়েল প্যাকেজিং মেশিন, অয়েল প্রক্রিয়াকরণ সরঞ্জাম
----
+keywords: অয়েল পোস্ট-ট্রিটমেন্ট সরঞ্জাম দাম, অয়েল পোস্ট-ট্রিটমেন্ট সরঞ্জাম কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "অয়েল পোস্ট-ট্রিটমেন্ট সরঞ্জাম",
+          "description": "অয়েল পোস্ট-ট্রিটমেন্ট সরঞ্জাম অয়েল কোয়ালিটি উন্নত করার জন্য ব্যবহার করা হয়, ফিল্টারিং সরঞ্জাম, রিফাইনিং সরঞ্জাম, প্যাকেজিং সরঞ্জাম অন্তর্ভুক্ত করে",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "post-treatment",
+          "url": "https://hydraulic-oil-press.com/bn/products/post-treatment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "অয়েল পোস্ট-ট্রিটমেন্ট সরঞ্জাম",
+              "item": "https://hydraulic-oil-press.com/bn/products/post-treatment"
+            }
+          ]
+        }
+---
 # অয়েল পোস্ট-ট্রিটমেন্ট সরঞ্জাম
 
 পোস্ট-ট্রিটমেন্ট সরঞ্জাম অয়েল কোয়ালিটি উন্নত করার জন্য ব্যবহার করা হয়, পণ্যকে খাদ্য মানদণ্ডে পৌঁছানো নিশ্চিত করে।

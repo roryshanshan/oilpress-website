@@ -1,9 +1,75 @@
 ---
-title: Giải pháp hạt óc chó (Dầu hạt óc chó) | Shengshi Hecheng
-description: Giải pháp ép hạt óc chó chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu hạt óc chó, tỷ lệ dầu 60-70%, áp dụng quy trình ép lạnh để giữ dưỡng chất
-keywords: giải pháp hạt óc chó, ép dầu óc chó, thiết bị chế biến óc chó, dây chuyền sản xuất dầu óc chó, quy trình ép lạnh óc chó, máy ép óc chó, dầu ăn cao cấp
----
+title: Giải pháp hạt óc chó (Dầu hạt óc chó) báo giá
+description: Nhận báo giá Giải pháp hạt óc chó (Dầu hạt óc chó) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+keywords: Giải pháp hạt óc chó (Dầu hạt óc chó) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Giải pháp hạt óc chó (Dầu hạt óc chó)",
+          "description": "Nhận báo giá Giải pháp hạt óc chó (Dầu hạt óc chó) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "serviceType": "Giải pháp",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/vi/solutions/walnut",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Giải pháp",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Giải pháp hạt óc chó (Dầu hạt óc chó)",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/walnut"
+            }
+          ]
+        }
+---
 # Giải pháp hạt óc chó (Dầu hạt óc chó)
 
 ## Tổng quan
@@ -132,3 +198,11 @@ keywords: giải pháp hạt óc chó, ép dầu óc chó, thiết bị chế bi
 - 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
 
 我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的核桃压榨解决方案。
+
+## Nhận giá & báo giá
+
+Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
+
+- [Nhận giá & báo giá](/vi/contact/)
+
+<!-- quote-cta -->

@@ -1,9 +1,75 @@
 ---
-title: Tea Seed (Tea Seed Oil) Solution - Shengshi Hecheng
-description: Tea seed oil processing solution covering hot pressing, process control, and equipment selection for stable output and premium camellia oil quality.
-keywords: Tea Seed (Tea Seed Oil) Solution, oil processing solutions, oil press machine, oilseed processing equipment, oil extraction process, oil processing line price, oil processing line quotation, hot press oil, tea seed oil processing solution, camellia oil hot pressing
----
+title: Tea Seed (Tea Seed Oil) Solution - Shengshi Hecheng Quote | Tu...
+description: Get a quote and turnkey plan for Tea Seed (Tea Seed Oil) Solution - Shengshi Hecheng. Process design, equipment list, and after-sales support.
+keywords: Tea Seed (Tea Seed Oil) Solution - Shengshi Hecheng quote, Tea Seed (Tea Seed Oil) Solution - Shengshi Hecheng price, turnkey solution, production line, procurement
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Tea Seed (Tea Seed Oil) Solution",
+          "description": "Get a quote and turnkey plan for Tea Seed (Tea Seed Oil) Solution - Shengshi Hecheng. Process design, equipment list, and after-sales support.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/en/solutions/tea-seed",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/en/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Tea Seed (Tea Seed Oil) Solution",
+              "item": "https://hydraulic-oil-press.com/en/solutions/tea-seed"
+            }
+          ]
+        }
+---
 # Tea Seed (Tea Seed Oil) Solution
 
 ## Overview
@@ -152,3 +218,11 @@ We provide free technical consultation, sample testing, and on-site inspection s
 - [325 Series Hydraulic Oil Press](/en/products/325)
 - [Contact Technical Team](/en/contact/)
 - [中文页面](/zh/solutions/tea-seed)
+
+## Get Price & Quote
+
+Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+
+- [Get Price & Quote](/en/contact/)
+
+<!-- quote-cta -->

@@ -1,6 +1,6 @@
 ---
-title: "Peanut Oil Processing Line Guide: Hot Press, Cold Press, and Line Configuration"
-description: "Compare hot press and cold press peanut oil processing, learn which equipment matters most, and see how to configure a practical peanut oil production line."
+title: "Peanut Oil Processing Line Guide: Hot Press, Cold Press, and L..."
+description: Compare hot press and cold press peanut oil processing, learn which equipment matters most, and see how to configure a practical peanut oil production line.
 keywords: peanut oil processing line, peanut oil press machine, hydraulic peanut oil press, peanut oil production
 date: "2026-03-16"
 ---
@@ -38,4 +38,4 @@ Peanut oil projects are successful when the process matches the target market. D
 - [How to Choose a Hydraulic Oil Press Model](/en/news/technology/how-to-choose-hydraulic-oil-press-model)
 - [Pre-treatment Equipment](/en/products/pre-treatment)
 - [Edible Oil Production Line Cost Guide](/en/news/technology/edible-oil-production-line-cost-guide)
-- [Contact Us](/en/contact/)
+- [Get Price & Quote](/en/contact/)

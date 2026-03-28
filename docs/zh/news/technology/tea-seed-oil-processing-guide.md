@@ -1,6 +1,6 @@
 ---
-title: "茶籽油生产线工艺指南：热榨、冷榨与设备配置"
-description: "了解茶籽油项目如何选择热榨或冷榨工艺，并合理搭配液压榨油机、预处理和过滤设备。"
+title: 茶籽油生产线工艺指南：热榨、冷榨与设备配置
+description: 了解茶籽油项目如何选择热榨或冷榨工艺，并合理搭配液压榨油机、预处理和过滤设备。
 keywords: 液压榨油机, 食用油生产线, 榨油工艺, 油料加工
 date: "2026-03-11"
 ---
@@ -34,4 +34,4 @@ date: "2026-03-11"
 - [不同油料该选热榨还是冷榨？实用选型指南](/zh/news/technology/how-to-choose-hot-press-or-cold-press-for-different-oilseeds)
 - [如何选择液压榨油机型号](/zh/news/technology/how-to-choose-hydraulic-oil-press-model)
 - [预处理设备](/zh/products/pre-treatment)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

@@ -1,9 +1,79 @@
 ---
 title: <center>Video Đơn hàng Khách hàng & Gửi hàng</center>
 description: Video gửi hàng khách hàng Shengshi Hecheng, bao gồm quá trình đóng gói thiết bị, vận chuyển lên xe tải, xác nhận khách hàng
-keywords: video đơn hàng khách hàng, gửi hàng thiết bị, gửi máy ép dầu thủy lực, hiện trường gửi hàng, xác nhận khách hàng, video gửi hàng Shengshi Hecheng, vận chuyển thiết bị, dịch vụ gửi hàng
----
+keywords: giá Video Đơn hàng Khách hàng & Gửi hàng, mua Video Đơn hàng Khách hàng & Gửi hàng, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Video Đơn hàng Khách hàng & Gửi hàng",
+          "description": "Video gửi hàng khách hàng Shengshi Hecheng, bao gồm quá trình đóng gói thiết bị, vận chuyển lên xe tải, xác nhận khách hàng",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "customer-order-shipping-video",
+          "url": "https://hydraulic-oil-press.com/vi/products/customer-order-shipping-video",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Video Đơn hàng Khách hàng & Gửi hàng",
+              "item": "https://hydraulic-oil-press.com/vi/products/customer-order-shipping-video"
+            }
+          ]
+        }
+---
 #  <center>Video Đơn hàng Khách hàng & Gửi hàng</center>
 
 ## Tổng quan dịch vụ gửi hàng

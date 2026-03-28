@@ -1,6 +1,6 @@
 ---
-title: "液压榨油机适合压榨哪些油料：高附加值油品选料指南"
-description: "了解芝麻、花生、核桃、亚麻籽等油料如何匹配液压榨油机，以及热榨、冷榨和机型系列该如何组合。"
+title: 液压榨油机适合压榨哪些油料：高附加值油品选料指南
+description: 了解芝麻、花生、核桃、亚麻籽等油料如何匹配液压榨油机，以及热榨、冷榨和机型系列该如何组合。
 keywords: 液压榨油机, 适合液压压榨的油料, 芝麻榨油, 核桃油冷榨, 榨油机选型
 date: "2026-03-21"
 ---
@@ -68,4 +68,4 @@ date: "2026-03-21"
 - [如何选择液压榨油机型号](/zh/news/technology/how-to-choose-hydraulic-oil-press-model)
 - [芝麻油生产线配置指南](/zh/news/technology/sesame-oil-production-line-guide)
 - [核桃油冷榨工艺指南](/zh/news/technology/walnut-oil-cold-press-guide)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

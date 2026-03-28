@@ -1,9 +1,79 @@
 ---
-title: Автоматическая барабанная обжарочная машина - Shengshi Hecheng
-description: Автоматическая барабанная обжарочная машина использует электромагнитный метод нагрева, подходит для обжарки семян льна, кунжута, арахиса
-keywords: автоматическая барабанная обжарочная машина, автоматическая обжарочная машина, барабанная обжарочная машина, электромагнитная обжарочная машина, оборудование для обжарки масличных семян, обжарочная машина для льна, обжарочная машина для кунжута, обжарочная машина для арахиса, обжарочная машина для сои, оборудование для обжарки, обжарочная машина, оборудование для предварительной обработки масличных семян, обжарочная машина, электромагнитная обжарочная машина, автоматическая обжарочная машина
----
+title: Автоматическая барабанная обжарочная машина - Shengshi Hecheng...
+description: Запросите цену и подбор Автоматическая барабанная обжарочная машина - Shengshi Hecheng. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Автоматическая барабанная обжарочная машина цена, купить Автоматическая барабанная обжарочная машина, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Автоматическая барабанная обжарочная машина",
+          "description": "Запросите цену и подбор Автоматическая барабанная обжарочная машина - Shengshi Hecheng. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "automatic-drum-roaster",
+          "url": "https://hydraulic-oil-press.com/ru/products/automatic-drum-roaster",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Автоматическая барабанная обжарочная машина",
+              "item": "https://hydraulic-oil-press.com/ru/products/automatic-drum-roaster"
+            }
+          ]
+        }
+---
 # Автоматическая барабанная обжарочная машина
 ![Автоматическая барабанная обжарочная машина](https://i.postimg.cc/8pR1WNPW/image.png?dl=1)
 

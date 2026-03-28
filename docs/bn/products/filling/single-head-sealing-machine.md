@@ -1,9 +1,79 @@
 ---
-title: "স্বয়ংক্রিয় একক মাথা সিলিং মেশিন | সিলিং মেশিন সিরিজ"
-description: "স্বয়ংক্রিয় একক-হেড সিলিং মেশিনটি সিলিং মেশিন সিরিজের প্রতিনিধি মডেল হিসাবে উপযুক্ত।"
-keywords: "স্বয়ংক্রিয় একক-হেড সিলিং মেশিন, সিলিং মেশিন সিরিজ, তরল প্যাকেজিং সরঞ্জাম, ফিলিং এবং প্যাকেজিং সরঞ্জাম, শেংশি হেচেং"
----
+title: স্বয়ংক্রিয় একক মাথা সিলিং মেশিন দাম | প্রস্তুতকারক
+description: স্বয়ংক্রিয় একক মাথা সিলিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: স্বয়ংক্রিয় একক মাথা সিলিং মেশিন দাম, স্বয়ংক্রিয় একক মাথা সিলিং মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "স্বয়ংক্রিয় একক মাথা সিলিং মেশিন",
+          "description": "\"স্বয়ংক্রিয় একক মাথা সিলিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "single-head-sealing-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/single-head-sealing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "স্বয়ংক্রিয় একক মাথা সিলিং মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/single-head-sealing-machine"
+            }
+          ]
+        }
+---
 # স্বয়ংক্রিয় একক মাথা সিলিং মেশিন
 
 ![স্বয়ংক্রিয় একক মাথা সিলিং মেশিন](/images/filling-products/single-head-sealing-machine.webp)

@@ -1,9 +1,79 @@
 ---
 title: Équipements de prétraitement de graines oléagineuses
 description: Les équipements de prétraitement de graines oléagineuses constituent une partie importante de la ligne de production d'extrusion d'huile
-keywords: Équipements de prétraitement de graines oléagineuses, Équipements de prétraitement de graines oléagineuses, Équipements de nettoyage, Équipements de séchage, Équipements de broyage, Prétraitement de graines oléagineuses, Équipements de prétraitement, Machine de nettoyage de graines oléagineuses, Séchoir de graines oléagineuses, Broyeur de graines oléagineuses, Ligne de prétraitement, Processus de prétraitement de graines oléagineuses
----
+keywords: Équipements de prétraitement de graines oléagineuses prix, acheter Équipements de prétraitement de graines oléagineuses, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Équipements de prétraitement de graines oléagineuses",
+          "description": "Les équipements de prétraitement de graines oléagineuses constituent une partie importante de la ligne de production d'extrusion d'huile",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "pre-treatment",
+          "url": "https://hydraulic-oil-press.com/fr/products/pre-treatment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Équipements de prétraitement de graines oléagineuses",
+              "item": "https://hydraulic-oil-press.com/fr/products/pre-treatment"
+            }
+          ]
+        }
+---
 # Équipements de prétraitement de graines oléagineuses
 
 ## Aperçu du produit

@@ -1,9 +1,79 @@
 ---
-title: "Cap rolling/shrinking machine | Rubber cap heat shrinking machine series"
-description: "This series of heat shrink machines mainly performs heat shrink sealing on PVC heat shrink rubber caps, and is specially used for shrinking caps after wine is corked."
-keywords: "Cap rolling/shrinking dual-purpose machine, rubber cap heat shrinking machine series, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: Cap rolling/shrinking machine Price | Manufacturer & Quote
+description: Get price, procurement, and after-sales support for Cap rolling/shrinking machine from Shengshi Hecheng manufacturer.
+keywords: Cap rolling/shrinking machine price, Cap rolling/shrinking machine quote, Cap rolling/shrinking machine manufacturer, Cap rolling/shrinking machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Capping/shrinking machine",
+          "description": "Get price, procurement, and after-sales support for \"Cap rolling/shrinking machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "cap-rolling-shrinking-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/cap-rolling-shrinking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Capping/shrinking machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/cap-rolling-shrinking-machine"
+            }
+          ]
+        }
+---
 # Capping/shrinking machine
 
 ![Cap rolling/shrinking dual-purpose machine](/images/filling-products/cap-rolling-shrinking-machine.webp)

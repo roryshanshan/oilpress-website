@@ -1,9 +1,79 @@
 ---
-title: "Máy khắc laser sợi quang | Dòng máy mã hóa laser"
-description: "Máy khắc laser sợi quang là hệ thống máy khắc laser thế hệ mới được công ty chúng tôi phát triển bằng công nghệ laser tiên tiến. Nó sử dụng tia laser sợi quang để phát ra tia laser, sau đó sử dụng hệ thống điện kế quét tốc độ cao để đạt được chức năng đánh dấu."
-keywords: "Máy khắc laser sợi quang, dòng máy mã hóa laser, thiết bị đóng gói chất lỏng, thiết bị chiết rót và đóng gói, Shengshi Hechen"
----
+title: Máy khắc laser sợi quang giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy khắc laser sợi quang từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy khắc laser sợi quang, mua Máy khắc laser sợi quang, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy khắc laser sợi quang",
+          "description": "Nhận báo giá và tư vấn mua \"Máy khắc laser sợi quang từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "fiber-laser-marking-machine",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling/fiber-laser-marking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy khắc laser sợi quang",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling/fiber-laser-marking-machine"
+            }
+          ]
+        }
+---
 # Máy khắc laser sợi quang
 
 ![Máy khắc laser sợi quang](/images/filling-products/fiber-laser-marking-machine.webp)

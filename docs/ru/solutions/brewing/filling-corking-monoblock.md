@@ -1,9 +1,75 @@
 ---
-title: "Фасовочно-укупорочная двухлинейная | Серия пивоваренного оборудования"
-description: "Эта двухкомпонентная машина в основном предназначена для розлива вина и фруктовых вин. Это оборудование органично сочетает в себе разливочную машину с отрицательным давлением и укупорочную машину. Оборудование имеет компактную конструкцию и экономит место для установки."
-keywords: "Двухлинейная машина для наполнения и укупорки, серия пивоваренного оборудования, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Фасовочно-укупорочная двухлинейная цена | комплексное решение
+description: "Запросите стоимость решения Фасовочно-укупорочная двухлинейная: проект линии, список оборудования и сервис."
+keywords: Заполнение и закупорка двух онлайн цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Заполнение и закупорка двух онлайн",
+          "description": "Запросите стоимость решения \"Фасовочно-укупорочная двухлинейная: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/brewing/filling-corking-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Заполнение и закупорка двух онлайн",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/brewing/filling-corking-monoblock"
+            }
+          ]
+        }
+---
 # Заполнение и закупорка двух онлайн
 
 ![Наполнение и укупорка онлайн](/images/filling-products/filling-corking-monoblock.webp)
@@ -62,3 +128,11 @@ keywords: "Двухлинейная машина для наполнения и 
 - [Библиотека параметров фасовочно-упаковочного оборудования](/ru/products/filling-equipment)
 - [Серия пивоваренного оборудования](/ru/solutions/brewing/)
 - [Свяжитесь с нами для получения полной консультации по линии](/ru/contact/)
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

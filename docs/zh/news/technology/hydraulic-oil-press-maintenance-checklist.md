@@ -1,6 +1,6 @@
 ---
-title: "液压榨油机维护检查清单：日检、周检与月检重点"
-description: "用一份更清晰的维护检查清单，帮助液压榨油机减少掉压、漏油和停机，提高长期运行稳定性。"
+title: 液压榨油机维护检查清单：日检、周检与月检重点
+description: 用一份更清晰的维护检查清单，帮助液压榨油机减少掉压、漏油和停机，提高长期运行稳定性。
 keywords: 液压榨油机维护, 榨油机保养清单, 榨油机日常检查, 液压设备维护
 date: "2026-03-14"
 ---
@@ -38,4 +38,4 @@ date: "2026-03-14"
 - [液压榨油机一天能压几锅？批次产能计算指南](/zh/news/technology/how-many-batches-can-hydraulic-oil-press-run-per-day)
 - [如何提高榨油机出油率](/zh/news/technology/improve-oil-yield)
 - [说明书下载](/zh/products/instruction-manual)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

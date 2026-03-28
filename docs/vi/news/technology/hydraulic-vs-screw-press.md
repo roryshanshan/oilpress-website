@@ -1,6 +1,6 @@
 ---
-title: "So sánh máy ép dầu thủy lực và máy ép trục vít"
-description: "So sánh nhanh giữa máy ép dầu thủy lực và máy ép trục vít về chất lượng dầu, sản lượng, bảo dưỡng và phạm vi ứng dụng."
+title: So sánh máy ép dầu thủy lực và máy ép trục vít
+description: So sánh nhanh giữa máy ép dầu thủy lực và máy ép trục vít về chất lượng dầu, sản lượng, bảo dưỡng và phạm vi ứng dụng.
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2025-03-01"
 ---

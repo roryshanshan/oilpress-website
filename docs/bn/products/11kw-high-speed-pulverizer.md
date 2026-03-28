@@ -1,9 +1,79 @@
 ---
-title: 11Kw উচ্চগতির পেষণযন্ত্র
-description: 11Kw উচ্চগতির পেষণযন্ত্রটি ফ্লাইহুইল কাঠামো নকশা গ্রহণ করে, যা চা বীজ, তুং তেল বীজ, অ্যাভোকাডো ইত্যাদি কঠিন পদার্থ পেষণ করতে পারে
-keywords: উচ্চগতির পেষণযন্ত্র, 11KW পেষণযন্ত্র, তেলবীজ পেষণযন্ত্র, চা বীজ পেষণযন্ত্র, তুং তেল বীজ পেষণযন্ত্র, অ্যাভোকাডো পেষণযন্ত্র, মাইক্রন স্তর পেষণ, ফ্লাইহুইল পেষণযন্ত্র, তেলবীজ প্রাক-প্রক্রিয়াকরণ যন্ত্রপাতি, পেষণ সরঞ্জাম, উচ্চগতির পেষণ সরঞ্জাম, 11Kw উচ্চগতির পেষণযন্ত্র, পেষণ মেশিন, তেলবীজ প্রক্রিয়াকরণ সরঞ্জাম
----
+title: 11Kw উচ্চগতির পেষণযন্ত্র দাম | প্রস্তুতকারক
+description: 11Kw উচ্চগতির পেষণযন্ত্র এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: 11Kw উচ্চগতির পেষণযন্ত্র দাম, 11Kw উচ্চগতির পেষণযন্ত্র কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "11Kw উচ্চগতির পেষণযন্ত্র",
+          "description": "11Kw উচ্চগতির পেষণযন্ত্র এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "11kw-high-speed-pulverizer",
+          "url": "https://hydraulic-oil-press.com/bn/products/11kw-high-speed-pulverizer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "11Kw উচ্চগতির পেষণযন্ত্র",
+              "item": "https://hydraulic-oil-press.com/bn/products/11kw-high-speed-pulverizer"
+            }
+          ]
+        }
+---
 # 11Kw উচ্চগতির পেষণযন্ত্র
 ![উচ্চগতির পেষণযন্ত্র](https://i.postimg.cc/QjCxz20G/image.png?dl=1)
 

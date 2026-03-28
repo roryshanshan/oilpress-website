@@ -1,9 +1,79 @@
 ---
-title: "GFP-48H low vacuum filling machine | Brewing equipment series"
-description: "GFP-48H low vacuum filling machine is a 48-head fixed-level filling equipment with a reference production capacity of 15,000 bottles/hour and a total power of 6kW. It is suitable for filling wine, rice wine, soy sauce, vinegar and other easily foaming liquids."
-keywords: "GFP-48H low vacuum filling machine, low vacuum filling machine, wine making equipment series, fixed level filling machine, wine filling equipment, Shengshi Hecheng"
----
+title: GFP-48H low vacuum filling machine Price | Manufacturer & Quote
+description: Get price, procurement, and after-sales support for GFP-48H low vacuum filling machine from Shengshi Hecheng manufacturer.
+keywords: GFP-48H low vacuum filling machine price, GFP-48H low vacuum filling machine quote, GFP-48H low vacuum filling machine manufacturer, GFP-48H low vacuum filling machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "GFP-48H low vacuum filling machine",
+          "description": "Get price, procurement, and after-sales support for \"GFP-48H low vacuum filling machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "gfp-48h-low-vacuum-filling-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/gfp-48h-low-vacuum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GFP-48H low vacuum filling machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/gfp-48h-low-vacuum-filling-machine"
+            }
+          ]
+        }
+---
 # GFP-48H low vacuum filling machine
 
 ![GFP-48H low vacuum filling machine](/images/filling-products/gfp-48h-low-vacuum-filling-machine.webp)

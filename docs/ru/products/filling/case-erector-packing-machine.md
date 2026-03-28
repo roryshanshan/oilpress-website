@@ -1,9 +1,79 @@
 ---
-title: "Автоматическая машина для распаковки, формирования картона, картонирования | Упаковка, паллетирование"
-description: "Он автоматически подает сигнал тревоги при нехватке лент и коробок и использует управление экраном ПЛК +, что значительно облегчает работу и является незаменимым оборудованием для автоматизированного крупномасштабного производства;"
-keywords: "Автоматическая распаковка, формирование картонных коробок, картонирующие машины, картонирование, паллетирование, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Автоматическая машина для распаковки, формирования картона, к...
+description: Запросите цену и подбор Автоматическая машина для распаковки, формирования картона, картонирования. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Автоматические машины для распаковки, формирования и картонирования коробок. цена, купить Автоматические машины для распаковки, формирования и картонирования коробок., коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Автоматические машины для распаковки, формирования и картонирования коробок.",
+          "description": "Запросите цену и подбор \"Автоматическая машина для распаковки, формирования картона, картонирования. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "case-erector-packing-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/case-erector-packing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Автоматические машины для распаковки, формирования и картонирования коробок.",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/case-erector-packing-machine"
+            }
+          ]
+        }
+---
 # Автоматические машины для распаковки, формирования и картонирования коробок.
 
 ![Автоматическая машина для распаковки, формирования и упаковки картонных коробок](/images/filling-products/case-erector-packing-machine.webp)

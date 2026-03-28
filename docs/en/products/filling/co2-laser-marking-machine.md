@@ -1,9 +1,79 @@
 ---
-title: "CO2 laser machine | Laser coding machine series"
-description: "High-speed scanning technology, leading in China;"
-keywords: "CO2 laser machine, laser coding machine series, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: CO2 laser machine Price | Manufacturer & Quote
+description: Get price, procurement, and after-sales support for CO2 laser machine from Shengshi Hecheng manufacturer.
+keywords: CO2 laser machine price, CO2 laser machine quote, CO2 laser machine manufacturer, CO2 laser machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "CO2 laser machine",
+          "description": "Get price, procurement, and after-sales support for \"CO2 laser machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "co2-laser-marking-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/co2-laser-marking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "CO2 laser machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/co2-laser-marking-machine"
+            }
+          ]
+        }
+---
 # CO2 laser machine
 
 ![CO2 laser machine](/images/filling-products/co2-laser-marking-machine.webp)

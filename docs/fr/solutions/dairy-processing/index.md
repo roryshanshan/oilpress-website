@@ -1,7 +1,7 @@
 ---
-title: "Équipement de transformation du lait"
-description: "L'équipement de transformation du lait convient à la préparation, à la stérilisation, au stockage, au remplissage et à l'emballage du lait, des boissons au yaourt, des boissons lactées et d'autres produits, et convient aux projets d'aliments liquides ayant des exigences d'hygiène élevées."
-keywords: "Équipement de transformation du lait, équipement de transformation des produits laitiers, ligne de remplissage de lait, équipement de boisson au yaourt, équipement d'emballage de boissons lactées, équipement sanitaire pour aliments liquides"
+title: Équipement de transformation du lait
+description: L'équipement de transformation du lait convient à la préparation, à la stérilisation, au stockage, au remplissage et à l'emballage du lait
+keywords: Équipement de transformation du lait, équipement de transformation des produits laitiers, ligne de remplissage de lait, équipement de boisson au yaourt, équipement d'emballage de boissons lactées, équipement sanitaire pour aliments liquides
 ---
 
 # équipement de transformation du lait

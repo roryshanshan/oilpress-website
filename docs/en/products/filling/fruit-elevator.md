@@ -1,9 +1,79 @@
 ---
-title: "Elevator | Fruit and vegetable pre-processing equipment"
-description: "This equipment is used for upgrading fruits and vegetables such as grapes, strawberries, and apples. It is one of the necessary pre-treatment equipment for manufacturers of liquid products such as fruit and vegetable juices and fruit wines."
-keywords: "Elevator, fruit and vegetable pre-processing equipment, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: Elevator Price | Manufacturer & Quote
+description: Get price, procurement, and after-sales support for Elevator from Shengshi Hecheng manufacturer.
+keywords: Elevator price, Elevator quote, Elevator manufacturer, Elevator supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Hoist",
+          "description": "Get price, procurement, and after-sales support for \"Elevator from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "fruit-elevator",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/fruit-elevator",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Hoist",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/fruit-elevator"
+            }
+          ]
+        }
+---
 # Hoist
 
 ![Elevator](/images/filling-products/fruit-elevator.webp)

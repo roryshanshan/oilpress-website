@@ -1,9 +1,79 @@
 ---
-title: "DF-T200 আধা-স্বয়ংক্রিয় বৃত্তাকার বোতল লেবেল মেশিন | লেবেলিং মেশিন সিরিজ"
-description: "DF-T200 আধা-স্বয়ংক্রিয় বৃত্তাকার বোতল লেবেলিং মেশিন লেবেলিং মেশিন সিরিজের একটি প্রতিনিধি মডেল হিসাবে উপযুক্ত।"
-keywords: "DF-T200 আধা-স্বয়ংক্রিয় বৃত্তাকার বোতল লেবেল মেশিন, লেবেলিং মেশিন সিরিজ, তরল প্যাকেজিং সরঞ্জাম, ফিলিং এবং প্যাকেজিং সরঞ্জাম, Shengshi Hecheng"
----
+title: DF-T200 আধা-স্বয়ংক্রিয় বৃত্তাকার বোতল লেবেল মেশিন দাম
+description: DF-T200 আধা-স্বয়ংক্রিয় বৃত্তাকার বোতল লেবেল মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: DF-T200 আধা-স্বয়ংক্রিয় বৃত্তাকার বোতল লেবেল মেশিন দাম, DF-T200 আধা-স্বয়ংক্রিয় বৃত্তাকার বোতল লেবেল মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "DF-T200 আধা-স্বয়ংক্রিয় বৃত্তাকার বোতল লেবেল মেশিন",
+          "description": "\"DF-T200 আধা-স্বয়ংক্রিয় বৃত্তাকার বোতল লেবেল মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "df-t200-round-bottle-labeler",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/df-t200-round-bottle-labeler",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "DF-T200 আধা-স্বয়ংক্রিয় বৃত্তাকার বোতল লেবেল মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/df-t200-round-bottle-labeler"
+            }
+          ]
+        }
+---
 # DF-T200 আধা-স্বয়ংক্রিয় বৃত্তাকার বোতল লেবেল মেশিন
 
 ![DF-T200 আধা-স্বয়ংক্রিয় রাউন্ড বোতল লেবেল মেশিন](/images/filling-products/df-t200-round-bottle-labeler.webp)

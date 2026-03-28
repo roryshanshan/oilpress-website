@@ -1,9 +1,79 @@
 ---
-title: "লিনিয়ার ডবল লেবেল সম্পূর্ণ স্বয়ংক্রিয় লেবেল মেশিন | লেবেলিং মেশিন সিরিজ"
-description: "এই মেশিনটি আমাদের কোম্পানীর দ্বারা উন্নত প্রযুক্তি প্রবর্তন করে সাবধানে তৈরি করা হয়।"
-keywords: "লিনিয়ার ডাবল লেবেল সম্পূর্ণ স্বয়ংক্রিয় লেবেলিং মেশিন, লেবেলিং মেশিন সিরিজ, তরল প্যাকেজিং সরঞ্জাম, প্যাকেজিং সরঞ্জাম ভর্তি, শেংশি হেচেং"
----
+title: লিনিয়ার ডবল লেবেল সম্পূর্ণ স্বয়ংক্রিয় লেবেল মেশিন দাম
+description: লিনিয়ার ডবল লেবেল সম্পূর্ণ স্বয়ংক্রিয় লেবেল মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: লিনিয়ার ডাবল লেবেল সম্পূর্ণ স্বয়ংক্রিয় লেবেলিং মেশিন দাম, লিনিয়ার ডাবল লেবেল সম্পূর্ণ স্বয়ংক্রিয় লেবেলিং মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "লিনিয়ার ডাবল লেবেল সম্পূর্ণ স্বয়ংক্রিয় লেবেলিং মেশিন",
+          "description": "\"লিনিয়ার ডবল লেবেল সম্পূর্ণ স্বয়ংক্রিয় লেবেল মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "double-label-automatic-labeling-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/double-label-automatic-labeling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "লিনিয়ার ডাবল লেবেল সম্পূর্ণ স্বয়ংক্রিয় লেবেলিং মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/double-label-automatic-labeling-machine"
+            }
+          ]
+        }
+---
 # লিনিয়ার ডাবল লেবেল সম্পূর্ণ স্বয়ংক্রিয় লেবেলিং মেশিন
 
 ![লিনিয়ার ডাবল লেবেল স্বয়ংক্রিয় লেবেলিং মেশিন](/images/filling-products/double-label-automatic-labeling-machine.webp)

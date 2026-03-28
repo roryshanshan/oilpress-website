@@ -1,6 +1,6 @@
 ---
-title: "Một máy ép dầu thủy lực có thể chạy bao nhiêu mẻ mỗi ngày?"
-description: "Tìm hiểu điều gì thực sự quyết định số mẻ mà máy ép dầu thủy lực có thể chạy mỗi ngày, bao gồm thời gian chu kỳ, tiền xử lý, vệ sinh, nhân sự và bảo dưỡng."
+title: Một máy ép dầu thủy lực có thể chạy bao nhiêu mẻ mỗi ngày?
+description: Tìm hiểu điều gì thực sự quyết định số mẻ mà máy ép dầu thủy lực có thể chạy mỗi ngày, bao gồm thời gian chu kỳ, tiền xử lý, vệ sinh, nhân sự và bảo dưỡng.
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-04"
 ---

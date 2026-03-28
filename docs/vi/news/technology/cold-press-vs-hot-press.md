@@ -1,6 +1,6 @@
 ---
-title: "Hướng dẫn so sánh ép lạnh và ép nóng"
-description: "Hiểu nhanh sự khác biệt giữa ép lạnh và ép nóng về hương vị, dinh dưỡng, tỷ lệ thu dầu và định vị thị trường."
+title: Hướng dẫn so sánh ép lạnh và ép nóng
+description: Hiểu nhanh sự khác biệt giữa ép lạnh và ép nóng về hương vị, dinh dưỡng, tỷ lệ thu dầu và định vị thị trường.
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2025-03-10"
 ---

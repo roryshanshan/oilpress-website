@@ -1,7 +1,78 @@
 ---
-title: Hemp & Flaxseed Grinding and Mixing Integrated Machine
-description: This machine is widely used in the pharmaceutical, chemical, food, industrial, and agricultural industries.
-keywords: hydraulic oil press, oil press machine, oil processing equipment
+title: Hemp & Flaxseed Grinding and Mixing Integrated Machine Price
+description: Get price, procurement, and after-sales support for Hemp & Flaxseed Grinding and Mixing Integrated Machine from Shengshi Hecheng manufacturer.
+keywords: Hemp & Flaxseed Grinding and Mixing Integrated Machine price, Hemp & Flaxseed Grinding and Mixing Integrated Machine quote, Hemp & Flaxseed Grinding and Mixing Integrated Machine manufacturer, Hemp & Flaxseed Grinding and Mixing Integrated Machine supplier, procurement, after-sales
+
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Hemp & Flaxseed Grinding and Mixing Integrated Machine",
+          "description": "Get price, procurement, and after-sales support for Hemp & Flaxseed Grinding and Mixing Integrated Machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "Hemp-and-flaxseed-grinding-and-stirring-integrated-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Hemp & Flaxseed Grinding and Mixing Integrated Machine",
+              "item": "https://hydraulic-oil-press.com/en/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine"
+            }
+          ]
+        }
 ---
 # Hemp & Flaxseed Grinding and Mixing Integrated Machine
 

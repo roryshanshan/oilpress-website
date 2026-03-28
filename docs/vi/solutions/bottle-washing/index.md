@@ -1,7 +1,7 @@
 ---
-title: "Dòng máy rửa"
-description: "Dòng máy rửa chai phù hợp để làm sạch chai rỗng trước khi rót các sản phẩm đóng chai như dầu ăn, đồ uống và chất lỏng gia vị, đồng thời hỗ trợ rửa và xử lý vệ sinh chai thủy tinh, chai PET và các đồ đựng khác."
-keywords: "Dòng máy rửa chai, thiết bị rửa chai rỗng, máy rửa dầu ăn, máy rửa chai thủy tinh, thiết bị làm sạch chai PET, thiết bị tiền xử lý rót"
+title: Dòng máy rửa
+description: Dòng máy rửa chai phù hợp để làm sạch chai rỗng trước khi rót các sản phẩm đóng chai như dầu ăn, đồ uống và chất lỏng gia vị
+keywords: Dòng máy rửa chai, thiết bị rửa chai rỗng, máy rửa dầu ăn, máy rửa chai thủy tinh, thiết bị làm sạch chai PET, thiết bị tiền xử lý rót
 ---
 
 # Dòng máy súc rửa chai

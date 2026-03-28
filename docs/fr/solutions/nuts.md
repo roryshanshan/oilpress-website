@@ -1,7 +1,74 @@
 ---
-title: Solutions d'huile de noix
-description: Les huiles de noix ont une teneur élevée en huile, une valeur nutritionnelle riche et une valeur ajoutée élevée. Shandong Shengshi Hecheng Machinery Co., Ltd.
-keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
+title: Solutions d'huile de noix devis | solution clé en main
+description: "Demandez un devis pour Solutions d'huile de noix : plan de ligne, liste d’équipements et SAV."
+keywords: Solutions d'huile de noix prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Solutions d'huile de noix",
+          "description": "Demandez un devis pour Solutions d'huile de noix : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/nuts",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Solutions d'huile de noix",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/nuts"
+            }
+          ]
+        }
 ---
 # Solutions d'huile de noix
 
@@ -201,3 +268,11 @@ Si vous êtes intéressé par les solutions de transformation d'huile de noix, v
 - 📍 **Adresse** : N° 5888, rue Yineng, zone de développement, ville de Qingzhou, ville de Weifang, province du Shandong, Chine
 
 Nous fournissons des consultations techniques gratuites et des services d'inspection sur site, en personnalisant les solutions de transformation d'huile de noix les plus adaptées pour vous.
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

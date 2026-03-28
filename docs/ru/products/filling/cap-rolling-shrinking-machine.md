@@ -1,9 +1,79 @@
 ---
-title: "Машина для прокатки и усадки крышек | Серия термоусадочных машин с резиновым колпачком"
-description: "Эта серия термоусадочных машин в основном предназначена для термоусадочной герметизации термоусадочных резиновых крышек из ПВХ и специально используется для усадки крышек после укупоривания вина."
-keywords: "Универсальная машина для закатки/усадки крышек, серия машин для термоусадки резиновых крышек, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Машина для прокатки и усадки крышек цена | производитель
+description: Запросите цену и подбор Машина для прокатки и усадки крышек. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Укупорочная/усадочная машина цена, купить Укупорочная/усадочная машина, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Укупорочная/усадочная машина",
+          "description": "Запросите цену и подбор \"Машина для прокатки и усадки крышек. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "cap-rolling-shrinking-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/cap-rolling-shrinking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Укупорочная/усадочная машина",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/cap-rolling-shrinking-machine"
+            }
+          ]
+        }
+---
 # Укупорочная/усадочная машина
 
 ![Машина двойного назначения для прокатки и усадки крышек](/images/filling-products/cap-rolling-shrinking-machine.webp)

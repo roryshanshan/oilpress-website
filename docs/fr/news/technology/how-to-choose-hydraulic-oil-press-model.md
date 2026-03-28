@@ -1,6 +1,6 @@
 ---
-title: "Comment choisir un modèle de presse à huile hydraulique : séries 300, 325, 355 et 500"
-description: "Apprenez à choisir le bon modèle de presse à huile hydraulique en comparant la charge matière, la taille du lot, le besoin en pressage à froid et les différences entre les séries 300 et 500."
+title: "Comment choisir un modèle de presse à huile hydraulique : séri..."
+description: Apprenez à choisir le bon modèle de presse à huile hydraulique en comparant la charge matière, la taille du lot
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-15"
 ---

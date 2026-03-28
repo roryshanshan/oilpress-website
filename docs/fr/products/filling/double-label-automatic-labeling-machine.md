@@ -1,9 +1,79 @@
 ---
-title: "Etiqueteuse linéaire à double étiquette entièrement automatique | Série d'étiqueteuses"
-description: "Cette machine est soigneusement fabriquée par notre société en introduisant une technologie de pointe."
-keywords: "Machine d'étiquetage linéaire entièrement automatique à double étiquette, série de machines d'étiquetage, équipement d'emballage de liquides, équipement d'emballage de remplissage, Shengshi Hecheng"
----
+title: Etiqueteuse linéaire à double étiquette entièrement automatiq...
+description: Demandez le prix et le devis pour Etiqueteuse linéaire à double étiquette entièrement automatique. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Etiqueteuse linéaire à double étiquette entièrement automatique prix, acheter Etiqueteuse linéaire à double étiquette entièrement automatique, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Etiqueteuse linéaire à double étiquette entièrement automatique",
+          "description": "Demandez le prix et le devis pour \"Etiqueteuse linéaire à double étiquette entièrement automatique. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "double-label-automatic-labeling-machine",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/double-label-automatic-labeling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Etiqueteuse linéaire à double étiquette entièrement automatique",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/double-label-automatic-labeling-machine"
+            }
+          ]
+        }
+---
 # Etiqueteuse linéaire à double étiquette entièrement automatique
 
 ![Étiqueteuse automatique linéaire à double étiquette](/images/filling-products/double-label-automatic-labeling-machine.webp)

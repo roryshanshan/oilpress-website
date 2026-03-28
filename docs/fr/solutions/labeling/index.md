@@ -1,7 +1,7 @@
 ---
-title: "Série d'étiqueteuses"
-description: "La série d'étiqueteuses convient à l'étiquetage automatique de produits d'emballage tels que l'huile comestible, les boissons et les liquides d'assaisonnement, et peut prendre en charge diverses formes de conteneurs telles que des bouteilles rondes, des bouteilles carrées et des bouteilles de forme spéciale."
-keywords: "Série de machines d'étiquetage, machine d'étiquetage automatique, machine d'étiquetage de bouteilles rondes, machine d'étiquetage double face, équipement d'étiquetage d'huile comestible, système d'étiquetage de ligne d'emballage"
+title: Série d'étiqueteuses
+description: La série d'étiqueteuses convient à l'étiquetage automatique de produits d'emballage tels que l'huile comestible, les boissons et les liquides d'assaisonnement
+keywords: Série de machines d'étiquetage, machine d'étiquetage automatique, machine d'étiquetage de bouteilles rondes, machine d'étiquetage double face, équipement d'étiquetage d'huile comestible, système d'étiquetage de ligne d'emballage
 ---
 
 # Série d'étiqueteuses

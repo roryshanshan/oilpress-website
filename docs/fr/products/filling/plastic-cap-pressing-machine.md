@@ -1,9 +1,79 @@
 ---
-title: "Machine de capsulage en plastique | série de machines à sceller"
-description: "Il adopte un bouchage de type plaque à chaîne synchrone, ne laissant aucune trace après le bouchage."
-keywords: "Machine de capsulage en plastique, série de machines à sceller, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Machine de capsulage en plastique prix | fabricant
+description: Demandez le prix et le devis pour Machine de capsulage en plastique. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Machine de capsulage anti-pression plastique prix, acheter Machine de capsulage anti-pression plastique, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Machine de capsulage anti-pression plastique",
+          "description": "Demandez le prix et le devis pour \"Machine de capsulage en plastique. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "plastic-cap-pressing-machine",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/plastic-cap-pressing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine de capsulage anti-pression plastique",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/plastic-cap-pressing-machine"
+            }
+          ]
+        }
+---
 # Machine de capsulage anti-pression plastique
 
 ![Machine de pressage de bouchons en plastique](/images/filling-products/plastic-cap-pressing-machine.webp)

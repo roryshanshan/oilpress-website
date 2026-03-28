@@ -1,9 +1,79 @@
 ---
-title: Высокоскоростная дробилка 11 кВт - Shengshi Hecheng
-description: Высокоскоростная дробилка 11 кВт с конструкцией маховика, способна измельчать различные твёрдые материалы, такие как семена камелии, грецкие орехи, авокадо
-keywords: Высокоскоростная дробилка, дробилка 11 кВт, дробилка масличных культур, дробилка семян камелии, дробилка грецкого ореха, дробилка авокадо, микроизмельчение, дробилка с маховиком, оборудование для предварительной обработки масличных культур, измельчительное оборудование, высокоскоростное измельчительное оборудование, высокоскоростная дробилка 11 кВт, оборудование для измельчения, оборудование для переработки масличных культур
----
+title: Высокоскоростная дробилка 11 кВт - Shengshi Hecheng цена | про...
+description: Запросите цену и подбор Высокоскоростная дробилка 11 кВт - Shengshi Hecheng. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Высокоскоростная дробилка 11 кВт цена, купить Высокоскоростная дробилка 11 кВт, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Высокоскоростная дробилка 11 кВт",
+          "description": "Запросите цену и подбор Высокоскоростная дробилка 11 кВт - Shengshi Hecheng. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "11kw-high-speed-pulverizer",
+          "url": "https://hydraulic-oil-press.com/ru/products/11kw-high-speed-pulverizer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Высокоскоростная дробилка 11 кВт",
+              "item": "https://hydraulic-oil-press.com/ru/products/11kw-high-speed-pulverizer"
+            }
+          ]
+        }
+---
 # Высокоскоростная дробилка 11 кВт
 ![Высокоскоростная дробилка](https://i.postimg.cc/QjCxz20G/image.png?dl=1)
 

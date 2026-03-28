@@ -1,9 +1,79 @@
 ---
 title: Оборудование для предварительной обработки масличных семян
 description: Оборудование для предварительной обработки масличных семян является важной частью линии производства масла, включая очистку, сушку и дробление
-keywords: оборудование для предварительной обработки масличных семян, оборудование для переработки масличных семян, оборудование для очистки, сушильное оборудование, дробильное оборудование, предварительная обработка масличных семян, оборудование для очистки масличных семян, сушилка для масличных семян, дробилка для масличных семян, производственная линия предварительной обработки, процесс предварительной обработки масличных семян
----
+keywords: Оборудование для предварительной обработки масличных семян цена, купить Оборудование для предварительной обработки масличных семян, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Оборудование для предварительной обработки масличных семян",
+          "description": "Оборудование для предварительной обработки масличных семян является важной частью линии производства масла, включая очистку, сушку и дробление",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "pre-treatment",
+          "url": "https://hydraulic-oil-press.com/ru/products/pre-treatment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Оборудование для предварительной обработки масличных семян",
+              "item": "https://hydraulic-oil-press.com/ru/products/pre-treatment"
+            }
+          ]
+        }
+---
 # Оборудование для предварительной обработки масличных семян
 
 ## Обзор продукта

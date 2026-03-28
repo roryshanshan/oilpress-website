@@ -1,9 +1,75 @@
 ---
-title: "Machine de remplissage sous vide | Série d'équipements de brassage"
-description: "Cette série de machines de remplissage est spécialement conçue pour le remplissage à niveau fixe de liquides non aérés, de vin, de vin de riz, de sauce soja, de vinaigre et d'autres liquides facilement moussants."
-keywords: "Machine de remplissage sous vide faible, série d'équipements de brassage, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Machine de remplissage sous vide devis | solution clé en main
+description: "Demandez un devis pour Machine de remplissage sous vide : plan de ligne, liste d’équipements et SAV."
+keywords: Machine de remplissage sous vide prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Machine de remplissage sous vide",
+          "description": "Demandez un devis pour \"Machine de remplissage sous vide : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/brewing/low-vacuum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine de remplissage sous vide",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/brewing/low-vacuum-filling-machine"
+            }
+          ]
+        }
+---
 # Machine de remplissage sous vide
 
 ![Machine de remplissage sous vide](/images/filling-products/low-vacuum-filling-machine.webp)
@@ -124,3 +190,11 @@ Cette série de machines de remplissage est spécialement conçue pour le rempli
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/solutions/brewing/)
 - [Série d'équipements de brassage](/fr/products/filling-equipment#brew-vacuum)
 - [Contactez-nous pour des conseils complets sur la ligne](/fr/solutions/filling-packages)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

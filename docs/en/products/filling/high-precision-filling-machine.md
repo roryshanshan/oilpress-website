@@ -1,9 +1,79 @@
 ---
-title: "High-precision quantitative filling machine | GDP-12A~GDP-40H Model Overview"
-description: "The high-precision quantitative filling machine covers GDP-12A to GDP-40H, with a reference output of 3000-12000 b/h, and an accuracy of 500±1.5 ml. It is suitable for multi-specification bottled quantitative filling projects."
-keywords: "High-precision quantitative filling machine, GDP-12A, GDP-40H, quantitative filling machine, filling machine series, Shengshi Hecheng"
----
+title: High-precision quantitative filling machine Price
+description: Get price, procurement, and after-sales support for High-precision quantitative filling machine from Shengshi Hecheng manufacturer.
+keywords: High-precision quantitative filling machine price, High-precision quantitative filling machine quote, High-precision quantitative filling machine manufacturer, High-precision quantitative filling machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "High-precision quantitative filling machine",
+          "description": "Get price, procurement, and after-sales support for \"High-precision quantitative filling machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "high-precision-filling-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/high-precision-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "High-precision quantitative filling machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/high-precision-filling-machine"
+            }
+          ]
+        }
+---
 # High-precision quantitative filling machine
 
 ![High-precision quantitative filling machine](/images/filling-products/high-precision-filling-machine.webp)

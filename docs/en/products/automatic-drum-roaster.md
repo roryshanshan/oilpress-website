@@ -1,9 +1,79 @@
 ---
-title: Automatic Drum Roaster - Shengshi Hecheng
-description: Automatic Drum Roaster uses electromagnetic heating method, suitable for roasting flaxseed, sesame, peanuts, soybeans and other materials
-keywords: Automatic Drum Roaster, oil press machine, oil press price, oil press quotation, oil press supplier, oil processing equipment, supporting equipment, after-sales service, oilseed processing equipment, Automatic roaster
----
+title: Automatic Drum Roaster - Shengshi Hecheng Price | Manufacturer...
+description: Get price, procurement, and after-sales support for Automatic Drum Roaster - Shengshi Hecheng from Shengshi Hecheng manufacturer.
+keywords: Automatic Drum Roaster - Shengshi Hecheng price, Automatic Drum Roaster - Shengshi Hecheng quote, Automatic Drum Roaster - Shengshi Hecheng manufacturer, Automatic Drum Roaster - Shengshi Hecheng supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Automatic Drum Roaster",
+          "description": "Get price, procurement, and after-sales support for Automatic Drum Roaster - Shengshi Hecheng from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "automatic-drum-roaster",
+          "url": "https://hydraulic-oil-press.com/en/products/automatic-drum-roaster",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Automatic Drum Roaster",
+              "item": "https://hydraulic-oil-press.com/en/products/automatic-drum-roaster"
+            }
+          ]
+        }
+---
 # Automatic Drum Roaster
 ![Automatic Drum Roaster](https://i.postimg.cc/8pR1WNPW/image.png?dl=1)
 ## Product Overview

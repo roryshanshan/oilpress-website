@@ -1,9 +1,75 @@
 ---
-title: "Palettiseur robot | Emballage, palettisation"
-description: "Cette machine convient à l'emballage et à la palettisation de produits finis de différentes formes tels que des cartons, des sacs, des canettes, des boîtes, des bouteilles, etc. dans les entreprises de production de produits chimiques, de boissons, d'aliments et d'alcool."
-keywords: "Palettiseur robot, emballage et palettisation, équipement de conditionnement de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Palettiseur robot devis | solution clé en main
+description: "Demandez un devis pour Palettiseur robot : plan de ligne, liste d’équipements et SAV."
+keywords: Robot palettiseur prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Robot palettiseur",
+          "description": "Demandez un devis pour \"Palettiseur robot : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/packing-palletizing/robot-palletizer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Robot palettiseur",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/packing-palletizing/robot-palletizer"
+            }
+          ]
+        }
+---
 # Robot palettiseur
 
 ![Robot Palletiseur](/images/filling-products/robot-palletizer.webp)
@@ -35,3 +101,11 @@ Cette machine convient à l'emballage et à la palettisation de produits finis d
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
 - [Emballage, palettisation](/fr/solutions/packing-palletizing/)
 - [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

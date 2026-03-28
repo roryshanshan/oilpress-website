@@ -1,9 +1,75 @@
 ---
-title: "Machine de remplissage linéaire | Équipement de remplissage de cuve ZGP-4 ~ ZGP-10"
-description: "La machine de remplissage linéaire couvre ZGP-4 à ZGP-10, adaptée au remplissage quantitatif de grands barils de liquide de 10 à 25 L, avec un débit de référence de 500 à 1 400 barils/heure sur la base de 10 L."
-keywords: "Machine de remplissage linéaire, ZGP-4, ZGP-10, machine de remplissage de cuve, série de machines de remplissage, Shengshi Hecheng"
----
+title: Machine de remplissage linéaire devis | solution clé en main
+description: "Demandez un devis pour Machine de remplissage linéaire : plan de ligne, liste d’équipements et SAV."
+keywords: Machine de remplissage linéaire prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Machine de remplissage linéaire",
+          "description": "Demandez un devis pour \"Machine de remplissage linéaire : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/filling/linear-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine de remplissage linéaire",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/filling/linear-filling-machine"
+            }
+          ]
+        }
+---
 # Machine de remplissage linéaire
 
 ![Machine de remplissage linéaire](/images/filling-products/linear-filling-machine.webp)
@@ -48,3 +114,11 @@ La machine de remplissage linéaire est principalement utilisée pour le remplis
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
 - [Série de machines de remplissage](/fr/solutions/filling/)
 - [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

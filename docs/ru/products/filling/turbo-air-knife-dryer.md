@@ -1,9 +1,79 @@
 ---
-title: "Фен с воздушным ножом с турбонаддувом | Серия фенов"
-description: "Он заменяет традиционное устройство для обезвоживания щеточного типа, не требующее нагрева. Для сушки воды в бутылке используется сильный ветер (воздушный нож). Корпус бутылки не загрязняет окружающую среду. Нет необходимости заменять щетку или электрическую нагревательную трубку. Это экономит затраты на использование и имеет более продвинутую и надежную производительность."
-keywords: "Фен с воздушным ножом с турбонаддувом, серия фенов, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Фен с воздушным ножом с турбонаддувом цена | производитель
+description: Запросите цену и подбор Фен с воздушным ножом с турбонаддувом. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Фен с воздушным ножом с турбонаддувом цена, купить Фен с воздушным ножом с турбонаддувом, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Фен с воздушным ножом с турбонаддувом",
+          "description": "Запросите цену и подбор \"Фен с воздушным ножом с турбонаддувом. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "turbo-air-knife-dryer",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/turbo-air-knife-dryer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Фен с воздушным ножом с турбонаддувом",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/turbo-air-knife-dryer"
+            }
+          ]
+        }
+---
 # Фен с воздушным ножом с турбонаддувом
 
 ![Сушилка для фена с турбо-воздушным ножом](/images/filling-products/turbo-air-knife-dryer.webp)

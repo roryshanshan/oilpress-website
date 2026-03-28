@@ -1,9 +1,75 @@
 ---
-title: "Rinceuse rotative | série de machines de rinçage"
-description: "Il adopte des bouteilles orientées vers le haut et vers le bas, une transmission à six roues, équipée de trois distributeurs d'eau, d'un réservoir d'eau en circulation, d'une pompe à eau, de deux chasses d'eau en circulation et d'une chasse d'eau propre ; il peut être ajusté en continu et a un bon effet de contrôle de l'eau."
-keywords: "Rinceuse de bouteilles rotative, série de rinceuses de bouteilles, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Rinceuse rotative devis | solution clé en main
+description: "Demandez un devis pour Rinceuse rotative : plan de ligne, liste d’équipements et SAV."
+keywords: Rinceuse de bouteilles rotative prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Rinceuse de bouteilles rotative",
+          "description": "Demandez un devis pour \"Rinceuse rotative : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/bottle-washing/rotary-bottle-washer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Rinceuse de bouteilles rotative",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/bottle-washing/rotary-bottle-washer"
+            }
+          ]
+        }
+---
 # Rinceuse de bouteilles rotative
 
 ![Machine à laver les bouteilles rotative](/images/filling-products/rotary-bottle-washer.webp)
@@ -61,3 +127,11 @@ Il adopte des bouteilles orientées vers le haut et vers le bas, une transmissio
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
 - [Série de machines à laver les bouteilles](/fr/solutions/bottle-washing/)
 - [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

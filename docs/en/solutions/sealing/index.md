@@ -1,7 +1,7 @@
 ---
-title: "Sealing machine series"
-description: "The sealing machine series is suitable for sealing and sealing of bottled, bagged, and barreled liquid products, and can be used in packaging lines for edible oils, seasonings, beverages, etc."
-keywords: "Sealing machine series, edible oil sealing machine, aluminum foil sealing machine, capping sealing equipment, heat sealing machine, liquid packaging sealing line"
+title: Sealing machine series
+description: The sealing machine series is suitable for sealing and sealing of bottled, bagged, and barreled liquid products
+keywords: Sealing machine series, edible oil sealing machine, aluminum foil sealing machine, capping sealing equipment, heat sealing machine, liquid packaging sealing line
 ---
 
 # Sealing machine series

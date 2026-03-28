@@ -1,9 +1,79 @@
 ---
-title: Thiết bị tinh luyện dầu ăn - Shengshi Hecheng
-description: Thiết bị tinh luyện dầu ăn chuyên nghiệp, công suất xử lý 1–5 tấn/ngày, sử dụng quy trình tinh luyện tiên tiến để loại bỏ tạp chất
-keywords: thiết bị tinh luyện dầu ăn, thiết bị tinh luyện dầu, dây chuyền tinh luyện dầu, tinh luyện dầu 1-5 tấn, thiết bị lọc dầu, tinh luyện kiềm, tẩy màu, khử mùi, nhà máy tinh luyện dầu 1-5 tấn
----
+title: Thiết bị tinh luyện dầu ăn - Shengshi Hecheng giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Thiết bị tinh luyện dầu ăn - Shengshi Hecheng từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Thiết bị tinh luyện dầu ăn, mua Thiết bị tinh luyện dầu ăn, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Thiết bị tinh luyện dầu ăn",
+          "description": "Nhận báo giá và tư vấn mua Thiết bị tinh luyện dầu ăn - Shengshi Hecheng từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "edible-oil-refining-equipment",
+          "url": "https://hydraulic-oil-press.com/vi/products/edible-oil-refining-equipment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Thiết bị tinh luyện dầu ăn",
+              "item": "https://hydraulic-oil-press.com/vi/products/edible-oil-refining-equipment"
+            }
+          ]
+        }
+---
 # Thiết bị tinh luyện dầu ăn
 
 <div style="margin: 2rem 0;">

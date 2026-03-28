@@ -1,9 +1,79 @@
 ---
-title: "বুদ্ধিমান পরিমাণগত ফিলিং মেশিন | DK-12~DK-36 মডেল ওভারভিউ"
-description: "বুদ্ধিমান পরিমাণগত ফিলিং মেশিনটি 4000-13000 বোতল/ঘন্টার রেফারেন্স উত্পাদন দক্ষতা সহ DK-12 থেকে DK-36 কভার করে। এটি স্বয়ংক্রিয় লাইনের জন্য উপযুক্ত যেগুলি ক্যাপ লিফটিং, ক্যাপ বাছাই, ক্যাপ বাকলিং এবং ক্যাপ সিল করার পরে লিঙ্ক করে।"
-keywords: "বুদ্ধিমান পরিমাণগত ফিলিং মেশিন, DK-12, DK-36, স্বয়ংক্রিয় ফিলিং এবং ক্যাপিং মেশিন, ফিলিং মেশিন সিরিজ, Shengshi Hecheng"
----
+title: বুদ্ধিমান পরিমাণগত ফিলিং মেশিন দাম | প্রস্তুতকারক
+description: বুদ্ধিমান পরিমাণগত ফিলিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: বুদ্ধিমান পরিমাণগত ফিলিং মেশিন দাম, বুদ্ধিমান পরিমাণগত ফিলিং মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "বুদ্ধিমান পরিমাণগত ফিলিং মেশিন",
+          "description": "\"বুদ্ধিমান পরিমাণগত ফিলিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "intelligent-quantitative-filling-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/intelligent-quantitative-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "বুদ্ধিমান পরিমাণগত ফিলিং মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/intelligent-quantitative-filling-machine"
+            }
+          ]
+        }
+---
 # বুদ্ধিমান পরিমাণগত ফিলিং মেশিন
 
 ![বুদ্ধিমান পরিমাণগত ফিলিং মেশিন](/images/filling-products/intelligent-quantitative-filling-machine.webp)

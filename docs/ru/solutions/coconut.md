@@ -1,9 +1,75 @@
 ---
-title: Coconut (Coconut Oil) Solution - Shengshi Hecheng
-description: Professional coconut pressing solutions, providing coconut oil processing equipment and technical services, oil content 60-70%, rich in lauric acid
-keywords: Coconut solutions, Coconut oil pressing, Coconut processing equipment, Coconut oil production line, Coconut cold pressing process, Coconut oil press, Coconut oil extraction, Coconut oilseed processing, Coconut oil pressing equipment, Coconut oil production equipment
----
+title: Coconut (Coconut Oil) Solution - Shengshi Hecheng цена | компл...
+description: "Запросите стоимость решения Coconut (Coconut Oil) Solution - Shengshi Hecheng: проект линии, список оборудования и сервис."
+keywords: Coconut (Coconut Oil) Solution цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Coconut (Coconut Oil) Solution",
+          "description": "Запросите стоимость решения Coconut (Coconut Oil) Solution - Shengshi Hecheng: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/coconut",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Coconut (Coconut Oil) Solution",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/coconut"
+            }
+          ]
+        }
+---
 # Coconut (Coconut Oil) Solution
 
 ## Overview
@@ -132,3 +198,11 @@ If you are interested in coconut pressing solutions, please contact our technica
 - 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable coconut pressing solution.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

@@ -1,7 +1,7 @@
 ---
-title: "Filling machine series"
-description: "The filling machine series is suitable for quantitative filling of liquid products such as edible oil, special oil, beverages, seasoning liquids, etc., covering various packaging forms such as bottles, bags, and barrels."
-keywords: "Filling machine series, edible oil filling machine, quantitative filling equipment, bottled oil filling machine, barrel filling equipment, liquid filling production line"
+title: Filling machine series
+description: The filling machine series is suitable for quantitative filling of liquid products such as edible oil, special oil, beverages, seasoning liquids, etc.
+keywords: Filling machine series, edible oil filling machine, quantitative filling equipment, bottled oil filling machine, barrel filling equipment, liquid filling production line
 ---
 
 # Filling machine series

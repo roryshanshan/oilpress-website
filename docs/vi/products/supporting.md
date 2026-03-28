@@ -1,9 +1,79 @@
 ---
 title: Thiết bị hỗ trợ - Shandong Shengshi Hecheng Machinery Co., Ltd.
 description: Shandong Shengshi Hecheng cung cấp giải pháp hỗ trợ hoàn chỉnh cho thiết bị ép dầu, bao gồm thiết bị xử lý trước, thiết bị xử lý sau, máy xay, máy lọc dầu, v.
-keywords: thiết bị hỗ trợ, thiết bị hỗ trợ ép dầu, thiết bị xử lý trước, thiết bị xử lý sau, máy xay, máy lọc dầu, máy hấp nấu, nồi rang, thiết bị chế biến dầu cây, hỗ trợ máy áp lực, thiết bị dây chuyền sản xuất ép dầu, thiết bị hỗ trợ chế biến dầu cây
----
+keywords: giá Thiết bị hỗ trợ, mua Thiết bị hỗ trợ, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Thiết bị hỗ trợ",
+          "description": "Shandong Shengshi Hecheng cung cấp giải pháp hỗ trợ hoàn chỉnh cho thiết bị ép dầu, bao gồm thiết bị xử lý trước, thiết bị xử lý sau, máy xay, máy lọc dầu, v.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "supporting",
+          "url": "https://hydraulic-oil-press.com/vi/products/supporting",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Thiết bị hỗ trợ",
+              "item": "https://hydraulic-oil-press.com/vi/products/supporting"
+            }
+          ]
+        }
+---
 # Thiết bị hỗ trợ
 
 ## Thiết bị xử lý trước

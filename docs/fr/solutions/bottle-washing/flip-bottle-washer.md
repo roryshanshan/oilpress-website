@@ -1,9 +1,75 @@
 ---
-title: "Rinceuse de bouteilles à bascule | Série de machines de rinçage de bouteilles"
-description: "Le rinceur de bouteilles à bascule convient comme modèle représentatif de la série de rinceurs."
-keywords: "Rinceuse de bouteilles à bascule, série de rinceuses de bouteilles, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Rinceuse de bouteilles à bascule devis | solution clé en main
+description: "Demandez un devis pour Rinceuse de bouteilles à bascule : plan de ligne, liste d’équipements et SAV."
+keywords: Rinceuse de bouteilles à rabat prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Rinceuse de bouteilles à rabat",
+          "description": "Demandez un devis pour \"Rinceuse de bouteilles à bascule : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/bottle-washing/flip-bottle-washer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Rinceuse de bouteilles à rabat",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/bottle-washing/flip-bottle-washer"
+            }
+          ]
+        }
+---
 # Rinceuse de bouteilles à rabat
 
 ![Flip-bottle-washer](/images/filling-products/flip-bottle-washer.webp)
@@ -107,3 +173,11 @@ Le rinceur de bouteilles à bascule convient comme modèle représentatif de la 
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
 - [Série de machines à laver les bouteilles](/fr/solutions/bottle-washing/)
 - [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

@@ -1,9 +1,75 @@
 ---
-title: "Автоматическая фальцовочно-картонная машина | Упаковка и паллетирование"
-description: "Автоматическая машина для складывания и запечатывания применима для: бытовой техники, текстиля, продуктов питания, предметов первой необходимости, фармацевтики, легкой промышленности, химической промышленности и т. д."
-keywords: "Автоматическая машина для складывания и картонирования, упаковка и паллетирование, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Автоматическая фальцовочно-картонная машина цена
+description: "Запросите стоимость решения Автоматическая фальцовочно-картонная машина: проект линии, список оборудования и сервис."
+keywords: Автоматическая машина для складывания и запечатывания цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Автоматическая машина для складывания и запечатывания",
+          "description": "Запросите стоимость решения \"Автоматическая фальцовочно-картонная машина: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/packing-palletizing/carton-sealing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Автоматическая машина для складывания и запечатывания",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/packing-palletizing/carton-sealing-machine"
+            }
+          ]
+        }
+---
 # Автоматическая машина для складывания и запечатывания
 
 ![Автоматическая машина для складывания и запечатывания](/images/filling-products/carton-sealing-machine.webp)
@@ -58,3 +124,11 @@ keywords: "Автоматическая машина для складывани
 - [Библиотека параметров фасовочно-упаковочного оборудования](/ru/products/filling-equipment)
 - [Упаковка, паллетизация](/ru/solutions/packing-palletizing/)
 - [Свяжитесь с нами для получения полной консультации по линии](/ru/contact/)
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

@@ -1,9 +1,75 @@
 ---
-title: "Máy rửa quay | dòng máy rửa"
-description: "Nó sử dụng chai lên xuống hướng mặt trước, hộp số sáu bánh, được trang bị ba bộ phân phối nước, bình chứa nước tuần hoàn, máy bơm nước, hai lần xả nước tuần hoàn và một lần xả nước sạch; nó có thể được điều chỉnh vô hạn và có tác dụng kiểm soát nước tốt."
-keywords: "Máy rửa chai quay, dòng máy rửa chai, thiết bị đóng gói chất lỏng, thiết bị chiết rót và đóng gói, Shengshi Hechen"
----
+title: Máy rửa quay báo giá | giải pháp trọn gói
+description: Nhận báo giá Máy rửa quay với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+keywords: Máy rửa chai quay báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Máy rửa chai quay",
+          "description": "Nhận báo giá \"Máy rửa quay với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "serviceType": "Giải pháp",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/vi/solutions/bottle-washing/rotary-bottle-washer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Giải pháp",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy rửa chai quay",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/bottle-washing/rotary-bottle-washer"
+            }
+          ]
+        }
+---
 # Máy rửa chai quay
 
 ![Máy rửa chai quay](/images/filling-products/rotary-bottle-washer.webp)
@@ -61,3 +127,11 @@ Nó sử dụng chai lên xuống hướng mặt trước, hộp số sáu bánh
 - [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
 - [Dòng máy rửa chai](/vi/solutions/bottle-washing/)
 - [Liên hệ với chúng tôi để được tư vấn đầy đủ về dòng sản phẩm](/vi/contact/)
+
+## Nhận giá & báo giá
+
+Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
+
+- [Nhận giá & báo giá](/vi/contact/)
+
+<!-- quote-cta -->

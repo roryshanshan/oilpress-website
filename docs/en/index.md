@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Hydraulic Oil Press Manufacturer | Presses, Filtration, Refining & Filling
-description: Shengshi Hecheng manufactures hydraulic oil presses, oil filtration equipment, refining and dewaxing systems, filling lines, and complete edible oil production solutions.
-keywords: hydraulic oil press manufacturer, edible oil production line, oil filtration equipment, oil refining equipment, oil filling line, hydraulic oil press machine, oil processing equipment supplier, sesame oil press, peanut oil press, soybean oil press
+title: Hydraulic Oil Press Manufacturer | Price & Quote Today
+description: Get price and procurement support for 300-500 series hydraulic oil press machines and turnkey edible oil production lines, with factory direct after-sales.
+keywords: hydraulic oil press price, hydraulic oil press manufacturer, oil press quote, oil press procurement, oil processing line supplier, factory direct, after-sales service, Shengshi Hecheng
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
@@ -31,7 +31,7 @@ keywords: hydraulic oil press manufacturer, edible oil production line, oil filt
     <p>300-500 series hydraulic oil press machines, custom oil processing lines, and global after-sales support for edible oil projects.</p>
     <div class="hero-buttons">
       <a href="/en/products/" class="primary-button">View Products</a>
-      <a href="/en/contact/" class="contact-link-button">Contact Us</a>
+      <a href="/en/contact/" class="contact-link-button">Get Price & Quote</a>
       <a href="https://hydraulic-oil-press.com/" class="secondary-button" target="_blank" rel="noopener">Official Website</a>
     </div>
   </div>
@@ -216,7 +216,7 @@ keywords: hydraulic oil press manufacturer, edible oil production line, oil filt
 - Technical strengths: [Company Advantages](/en/advantages/)
 - Company and factory: [About Us](/en/about/)
 - Latest updates: [News Center](/en/news/)
-- Inquiry and quotation: [Contact Us](/en/contact/)
+- Inquiry and quotation: [Get Price & Quote](/en/contact/)
 - Chinese version: [中文首页](/zh/)
 
 ## Frequently Asked Questions
@@ -240,7 +240,7 @@ Yes. We provide pre-treatment, filtration, refining, dewaxing, filling, and supp
     <p><strong>📧 Email:</strong> roryshanshan@gmail.com</p>
     <p><strong>📧 Business:</strong> gavin@oil-pressing-machine.com</p>
     <p><strong>🏭 Address:</strong> No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China</p>
-    <a href="/en/contact/" class="contact-button">Contact Us</a>
+    <a href="/en/contact/" class="contact-button">Get Price & Quote</a>
   </div>
   <div class="contact-form">
     <form action="https://formspree.io/f/xblaoewy" method="POST">

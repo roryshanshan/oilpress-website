@@ -1,9 +1,79 @@
 ---
-title: "মাল্টি-হেড রাবার ক্যাপ তাপ সঙ্কুচিত মেশিন | রাবার ক্যাপ তাপ সঙ্কুচিত মেশিন সিরিজ"
-description: "হিট সঙ্কুচিত মেশিনের এই সিরিজটি প্রধানত পিভিসি হিট সঙ্কুচিত রাবার ক্যাপগুলিতে তাপ সঙ্কুচিত সিলিং সঞ্চালন করে এবং ওয়াইন কর্ক করার পরে ক্যাপগুলি সঙ্কুচিত করার জন্য বিশেষভাবে ব্যবহৃত হয়।"
-keywords: "মাল্টি-হেড রাবার ক্যাপ হিট সঙ্কুচিত মেশিন, রাবার ক্যাপ হিট সঙ্কুচিত মেশিন সিরিজ, তরল প্যাকেজিং সরঞ্জাম, ফিলিং এবং প্যাকেজিং সরঞ্জাম, শেংশি হেচেং"
----
+title: মাল্টি-হেড রাবার ক্যাপ তাপ সঙ্কুচিত মেশিন দাম | প্রস্তুতকারক
+description: মাল্টি-হেড রাবার ক্যাপ তাপ সঙ্কুচিত মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: মাল্টি-হেড রাবার ক্যাপ হিট সঙ্কুচিত মেশিন দাম, মাল্টি-হেড রাবার ক্যাপ হিট সঙ্কুচিত মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "মাল্টি-হেড রাবার ক্যাপ হিট সঙ্কুচিত মেশিন",
+          "description": "\"মাল্টি-হেড রাবার ক্যাপ তাপ সঙ্কুচিত মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "multi-head-cap-shrinking-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/multi-head-cap-shrinking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "মাল্টি-হেড রাবার ক্যাপ হিট সঙ্কুচিত মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/multi-head-cap-shrinking-machine"
+            }
+          ]
+        }
+---
 # মাল্টি-হেড রাবার ক্যাপ হিট সঙ্কুচিত মেশিন
 
 ![মাল্টি-হেড ক্যাপ সঙ্কুচিত করার মেশিন](/images/filling-products/multi-head-cap-shrinking-machine.webp)

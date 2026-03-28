@@ -1,9 +1,79 @@
 ---
-title: "Máy đóng thùng quay | thiết bị làm đầy định lượng tự động chất lỏng vat"
-description: "Máy rót thùng quay thích hợp để đổ đầy định lượng chất lỏng thùng một cách tự động. Nó có các chức năng như định lượng van điện tử, điều khiển PLC, không đổ đầy nếu không có thùng và chức năng chống nhỏ giọt. Nó phù hợp cho các dự án dầu mỡ và chất lỏng hóa học."
-keywords: "Máy rót thùng quay, máy rót thùng, máy rót định lượng, dòng máy rót, Shengshi Hechen"
----
+title: Máy đóng thùng quay giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy đóng thùng quay từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy làm đầy thùng quay, mua Máy làm đầy thùng quay, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy làm đầy thùng quay",
+          "description": "Nhận báo giá và tư vấn mua \"Máy đóng thùng quay từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "rotary-drum-filling-machine",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling/rotary-drum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy làm đầy thùng quay",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling/rotary-drum-filling-machine"
+            }
+          ]
+        }
+---
 # Máy làm đầy thùng quay
 
 ![Máy rót trống quay](/images/filling-products/rotary-drum-filling-machine.webp)

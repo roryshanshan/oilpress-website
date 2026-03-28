@@ -1,9 +1,79 @@
 ---
-title: Oil Filling and Packaging Equipment | Bottling, Pouch and Drum Lines
-description: Discover oil filling and packaging equipment for bottled, pouch, and drum-packed edible oils, with guidance on machine modules, automation levels, and line matching after filtration or refining.
+title: Oil Filling and Packaging Equipment
+description: Discover oil filling and packaging equipment for bottled, pouch, and drum-packed edible oils, with guidance on machine modules, automation levels
 keywords: oil filling equipment, edible oil bottling machine, oil packaging equipment, oil filling line, bottle filling machine, pouch oil packaging, drum filling, edible oil packaging line
----
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Filling and Packaging Equipment",
+          "description": "Discover oil filling and packaging equipment for bottled, pouch, and drum-packed edible oils, with guidance on machine modules, automation levels",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "filling-equipment",
+          "url": "https://hydraulic-oil-press.com/en/products/filling-equipment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Filling and Packaging Equipment",
+              "item": "https://hydraulic-oil-press.com/en/products/filling-equipment"
+            }
+          ]
+        }
+---
 # Filling and Packaging Equipment
 
 Filling equipment is where an oil processing project becomes a finished market product. After pressing, filtration, and in some cases refining, the final oil must be packed accurately, cleanly, and efficiently. This page helps users connect their oil production line with bottle, pouch, and drum packaging equipment.

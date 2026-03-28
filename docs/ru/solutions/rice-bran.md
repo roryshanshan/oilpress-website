@@ -1,9 +1,75 @@
 ---
-title: Решение для рисовой шелухи (Масло рисовой шелухи)
-description: Профессиональные решения для отжима рисовой шелухи, предоставление оборудования и технических услуг по переработке масла рисовой шелухи, содержание масла 15-25%
-keywords: Решения для рисовой шелухи, Отжим масла рисовой шелухи, Оборудование для переработки рисовой шелухи, Линия производства масла рисовой шелухи, Процесс холодного отжима масла рисовой шелухи, Пресс для масла рисовой шелухи, Экстракция масла рисовой шелухи, Переработка масличных семян рисовой шелухи, Оборудование для отжима масла рисовой шелухи, Оборудование для производства масла рисовой шелухи
----
+title: Решение для рисовой шелухи (Масло рисовой шелухи) цена
+description: "Запросите стоимость решения Решение для рисовой шелухи (Масло рисовой шелухи): проект линии, список оборудования и сервис."
+keywords: Решение для рисовой шелухи (Масло рисовой шелухи) цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Решение для рисовой шелухи (Масло рисовой шелухи)",
+          "description": "Запросите стоимость решения Решение для рисовой шелухи (Масло рисовой шелухи): проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/rice-bran",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Решение для рисовой шелухи (Масло рисовой шелухи)",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/rice-bran"
+            }
+          ]
+        }
+---
 # Решение для рисовой шелухи (Масло рисовой шелухи)
 
 ## Обзор
@@ -130,3 +196,11 @@ keywords: Решения для рисовой шелухи, Отжим масл
 - 📍 **Адрес**: № 5888, Улица Иньнэн, Зона развития, Город Цинчжоу, Город Вэйфан, Провинция Шаньдун
 
 Мы предоставляем бесплатные технические консультации, тестирование образцов и услуги выездной инспекции, чтобы предоставить вам наиболее подходящее решение для отжима рисовой шелухи.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

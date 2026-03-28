@@ -1,9 +1,79 @@
 ---
-title: "Robot xếp hàng | Đóng gói, xếp hàng"
-description: "Máy này phù hợp để đóng gói và xếp pallet các sản phẩm thành phẩm có hình dạng đa dạng như thùng, túi, lon, hộp, chai,… trong các công ty sản xuất hóa chất, đồ uống, thực phẩm, rượu."
-keywords: "Robot xếp hàng, đóng gói và xếp hàng, thiết bị đóng gói chất lỏng, thiết bị chiết rót và đóng gói, Shengshi Hechen"
----
+title: Robot xếp hàng giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Robot xếp hàng từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Robot xếp hàng, mua Robot xếp hàng, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Robot xếp hàng",
+          "description": "Nhận báo giá và tư vấn mua \"Robot xếp hàng từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "robot-palletizer",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling/robot-palletizer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Robot xếp hàng",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling/robot-palletizer"
+            }
+          ]
+        }
+---
 # Robot xếp hàng
 
 ![Robot xếp hàng](/images/filling-products/robot-palletizer.webp)

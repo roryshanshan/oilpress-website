@@ -1,9 +1,79 @@
 ---
-title: Máy ép dầu thủy lực nhỏ KHOP-15KG | Dành cho cửa hàng dầu đang tăng trưởng
-description: Máy ép dầu thủy lực nhỏ KHOP-15KG phù hợp với cửa hàng dầu mè và dự án bán lẻ đang tăng trưởng, với năng lực tham chiếu 1,8 tấn mỗi 24 giờ và sự cân bằng tốt giữa sản lượng và diện tích.
-keywords: KHOP-15KG máy ép dầu thủy lực nhỏ, máy ép mè 15kg, máy ép kiểu Hàn Quốc cho cửa hàng, máy ép dầu nhỏ
----
+title: Máy ép dầu thủy lực nhỏ KHOP-15KG giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy ép dầu thủy lực nhỏ KHOP-15KG từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy ép dầu thủy lực nhỏ KHOP-15KG, mua Máy ép dầu thủy lực nhỏ KHOP-15KG, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy ép dầu thủy lực nhỏ KHOP-15KG",
+          "description": "Nhận báo giá và tư vấn mua Máy ép dầu thủy lực nhỏ KHOP-15KG từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "khop-15kg-small-hydraulic-oil-press-machine",
+          "url": "https://hydraulic-oil-press.com/vi/products/khop-15kg-small-hydraulic-oil-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy ép dầu thủy lực nhỏ KHOP-15KG",
+              "item": "https://hydraulic-oil-press.com/vi/products/khop-15kg-small-hydraulic-oil-press-machine"
+            }
+          ]
+        }
+---
 # Máy ép dầu thủy lực nhỏ KHOP-15KG
 
 ![Máy ép dầu thủy lực nhỏ KHOP-15KG](/images/korean-type-small-press/korean-type-detail.jpg)

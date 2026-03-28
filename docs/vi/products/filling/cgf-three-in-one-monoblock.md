@@ -1,9 +1,79 @@
 ---
-title: "Máy súc rửa, chiết rót và hàn kín ba trong một | Máy kết hợp CGF30-24-8~CGF60-40-8"
-description: "Máy súc rửa, chiết rót và hàn kín ba dây chuyền bao gồm CGF30-24-8 đến CGF60-40-8, với công suất tham chiếu 6000-12000 p/h và phù hợp với dây chuyền đóng gói tích hợp cho dầu đóng chai, rượu và chất lỏng gia vị."
-keywords: "Máy rửa, chiết rót và niêm phong ba, CGF30-24-8, CGF60-40-8, máy kết hợp, thiết bị chiết rót và đóng gói, Shengshi Hechen"
----
+title: Máy súc rửa, chiết rót và hàn kín ba trong một giá
+description: Nhận báo giá và tư vấn mua Máy súc rửa, chiết rót và hàn kín ba trong một từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Rửa, chiết rót và niêm phong máy ba dây chuyền, mua Rửa, chiết rót và niêm phong máy ba dây chuyền, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Rửa, chiết rót và niêm phong máy ba dây chuyền",
+          "description": "Nhận báo giá và tư vấn mua \"Máy súc rửa, chiết rót và hàn kín ba trong một từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "cgf-three-in-one-monoblock",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling/cgf-three-in-one-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Rửa, chiết rót và niêm phong máy ba dây chuyền",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling/cgf-three-in-one-monoblock"
+            }
+          ]
+        }
+---
 # Rửa, chiết rót và niêm phong máy ba dây chuyền
 
 ![Máy súc rửa, chiết rót và hàn kín ba trong một](/images/filling-products/cgf-three-in-one-monoblock.webp)

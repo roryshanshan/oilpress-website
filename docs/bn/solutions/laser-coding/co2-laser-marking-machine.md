@@ -1,9 +1,75 @@
 ---
-title: "CO2 লেজার মেশিন | লেজার কোডিং মেশিন সিরিজ"
-description: "উচ্চ-গতির স্ক্যানিং প্রযুক্তি, চীনে নেতৃস্থানীয়;"
-keywords: "CO2 লেজার মেশিন, লেজার কোডিং মেশিন সিরিজ, তরল প্যাকেজিং সরঞ্জাম, ফিলিং এবং প্যাকেজিং সরঞ্জাম, Shengshi Hecheng"
----
+title: CO2 লেজার মেশিন কোটেশন | সম্পূর্ণ সমাধান
+description: CO2 লেজার মেশিন এর কোটেশন নিন—লাইন পরিকল্পনা, যন্ত্রপাতির তালিকা ও সাপোর্টসহ।
+keywords: CO2 লেজার মেশিন লাইন দরপত্র, টার্নকি সমাধান, যন্ত্রপাতির তালিকা, কারখানা থেকে ক্রয়, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "CO2 লেজার মেশিন",
+          "description": "\"CO2 লেজার মেশিন এর কোটেশন নিন—লাইন পরিকল্পনা, যন্ত্রপাতির তালিকা ও সাপোর্টসহ।",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "serviceType": "সমাধান",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/bn/solutions/laser-coding/co2-laser-marking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "সমাধান",
+              "item": "https://hydraulic-oil-press.com/bn/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "CO2 লেজার মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/solutions/laser-coding/co2-laser-marking-machine"
+            }
+          ]
+        }
+---
 # CO2 লেজার মেশিন
 
 ![CO2 লেজার মেশিন](/images/filling-products/co2-laser-marking-machine.webp)
@@ -124,3 +190,11 @@ CO2 লেজার মেশিন লেজার কোডিং মেশি
 - [ফিলিং এবং প্যাকেজিং সরঞ্জাম প্যারামিটার লাইব্রেরি](/bn/products/filling-equipment)
 - [লেজার কোডিং মেশিন সিরিজ](/bn/solutions/laser-coding/)
 - [সম্পূর্ণ লাইন পরামর্শের জন্য আমাদের সাথে যোগাযোগ করুন](/bn/contact/)
+
+## দাম ও দরপত্র নিন
+
+ক্ষমতা, কাঁচামাল ও বাজেট দিন—আমরা লাইন কনফিগারেশন ও দরপত্র দেব।
+
+- [দাম ও দরপত্র নিন](/bn/contact/)
+
+<!-- quote-cta -->

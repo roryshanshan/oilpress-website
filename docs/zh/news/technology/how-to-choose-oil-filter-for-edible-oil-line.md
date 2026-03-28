@@ -1,6 +1,6 @@
 ---
-title: "食用油生产线如何选择过滤设备"
-description: "根据日产油量、清亮度要求、原料残渣情况和后续扩产计划，判断更适合你的食用油过滤配置。"
+title: 食用油生产线如何选择过滤设备
+description: 根据日产油量、清亮度要求、原料残渣情况和后续扩产计划，判断更适合你的食用油过滤配置。
 keywords: 液压榨油机, 食用油生产线, 榨油工艺, 油料加工
 date: "2026-03-02"
 ---
@@ -34,4 +34,4 @@ date: "2026-03-02"
 - [压榨后如何过滤与包装食用油](/zh/news/technology/how-to-filter-and-package-edible-oil-after-pressing)
 - [灌装方案](/zh/solutions/filling/)
 - [封口方案](/zh/solutions/sealing/)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

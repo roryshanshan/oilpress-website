@@ -1,10 +1,79 @@
 ---
-title: Máy nghiền tốc độ cao 11Kw - Shengshi Hecheng Shandong
-description: Máy nghiền tốc độ cao 11Kw thiết kế kiểu bánh đà, có thể nghiền các loại vật liệu cứng như hạt trà dầu, hạt mắc ca, bơ, v. v.
-keywords: máy nghiền tốc độ cao, máy nghiền 11KW, máy nghiền nguyên liệu dầu, máy nghiền hạt trà dầu, máy nghiền mắc ca, máy nghiền bơ, nghiền cấp micromet, máy nghiền kiểu bánh đà, thiết bị tiền xử lý nguyên liệu dầu, thiết bị nghiền, thiết bị nghiền tốc độ cao, máy nghiền 11Kw, thiết bị nghiền, thiết bị chế biến nguyên liệu dầu
+title: Máy nghiền tốc độ cao 11Kw - Shengshi Hecheng Shandong giá | n...
+description: Nhận báo giá và tư vấn mua Máy nghiền tốc độ cao 11Kw - Shengshi Hecheng Shandong từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy nghiền tốc độ cao 11Kw, mua Máy nghiền tốc độ cao 11Kw, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy nghiền tốc độ cao 11Kw",
+          "description": "Nhận báo giá và tư vấn mua Máy nghiền tốc độ cao 11Kw - Shengshi Hecheng Shandong từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "11kw-high-speed-pulverizer",
+          "url": "https://hydraulic-oil-press.com/vi/products/11kw-high-speed-pulverizer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy nghiền tốc độ cao 11Kw",
+              "item": "https://hydraulic-oil-press.com/vi/products/11kw-high-speed-pulverizer"
+            }
+          ]
+        }
 ---
-
-
 # Máy nghiền tốc độ cao 11Kw
 ![Máy nghiền tốc độ cao](https://i.postimg.cc/QjCxz20G/image.png?dl=1)
 ## Giới thiệu sản phẩm

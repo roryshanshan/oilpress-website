@@ -1,9 +1,79 @@
 ---
-title: "Light inspection machine | Light inspection machine series"
-description: "It realizes the fully automatic inspection method of entering the bottle - clamping the bottle - turning the bottle - picking the bottle - removing the bottle."
-keywords: "Light inspection machine, light inspection machine series, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: Light inspection machine Price | Manufacturer & Quote
+description: Get price, procurement, and after-sales support for Light inspection machine from Shengshi Hecheng manufacturer.
+keywords: Light inspection machine price, Light inspection machine quote, Light inspection machine manufacturer, Light inspection machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Light inspection machine",
+          "description": "Get price, procurement, and after-sales support for \"Light inspection machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "light-inspection-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/light-inspection-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Light inspection machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/light-inspection-machine"
+            }
+          ]
+        }
+---
 # Light inspection machine
 
 ![Light inspection machine](/images/filling-products/light-inspection-machine.webp)

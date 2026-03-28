@@ -1,9 +1,75 @@
 ---
-title: "Boucheuse manuelle | Série de boucheuses"
-description: "Cette machine est principalement adaptée au bouchage du vin et d’autres bouteilles en verre. Il est principalement connecté derrière la machine de remplissage et est utilisé pour le branchement après le remplissage."
-keywords: "Machine à boucher manuelle, série de machines à boucher, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Boucheuse manuelle devis | solution clé en main
+description: "Demandez un devis pour Boucheuse manuelle : plan de ligne, liste d’équipements et SAV."
+keywords: Boucheuse manuelle prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Boucheuse manuelle",
+          "description": "Demandez un devis pour \"Boucheuse manuelle : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/corking/manual-corking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Boucheuse manuelle",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/corking/manual-corking-machine"
+            }
+          ]
+        }
+---
 # Boucheuse manuelle
 
 ![Boucheuse manuelle](/images/filling-products/manual-corking-machine.webp)
@@ -62,3 +128,11 @@ Cette machine est principalement adaptée au bouchage du vin et d’autres boute
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
 - [Série de boucheuses](/fr/solutions/corking/)
 - [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

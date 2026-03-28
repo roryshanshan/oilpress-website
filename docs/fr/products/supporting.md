@@ -1,9 +1,79 @@
 ---
 title: Équipements auxiliaires - Shengshi Hecheng
 description: Shandong Shengshi Hecheng fournit des solutions complètes d'équipements auxiliaires pour presses à huile, y compris les équipements de prétraitement
-keywords: Équipements auxiliaires, Équipements auxiliaires de pressage d'huile, Équipements de prétraitement, Équipements de post-traitement, Broyeur, Filtre à huile, Cuiseur, Poêle, Équipements de traitement de graines oléagineuses, Équipements auxiliaires de pressage d'huile, Équipements de ligne de production de pressage d'huile, Équipements auxiliaires de traitement de graines oléagineuses
----
+keywords: Équipements auxiliaires prix, acheter Équipements auxiliaires, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Équipements auxiliaires",
+          "description": "Shandong Shengshi Hecheng fournit des solutions complètes d'équipements auxiliaires pour presses à huile, y compris les équipements de prétraitement",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "supporting",
+          "url": "https://hydraulic-oil-press.com/fr/products/supporting",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Équipements auxiliaires",
+              "item": "https://hydraulic-oil-press.com/fr/products/supporting"
+            }
+          ]
+        }
+---
 # Équipements auxiliaires
 
 ## Équipements de prétraitement

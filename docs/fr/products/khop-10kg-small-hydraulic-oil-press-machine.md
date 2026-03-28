@@ -1,9 +1,79 @@
 ---
-title: "KHOP-10KG petite presse à huile hydraulique | Modèle d'entrée de gamme pour boutique de sésame"
-description: "La KHOP-10KG est une petite presse à huile hydraulique de 1,5 kW avec structure compacte et capacité de référence de 1,0 tonne par 24 heures, idéale pour les boutiques d'huile de sésame."
-keywords: KHOP-10KG petite presse à huile hydraulique, presse à sésame 10kg, presse type coréen, machine boutique huile de sésame, petite presse hydraulique
----
+title: KHOP-10KG petite presse à huile hydraulique prix | fabricant
+description: Demandez le prix et le devis pour KHOP-10KG petite presse à huile hydraulique. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: KHOP-10KG petite presse à huile hydraulique prix, acheter KHOP-10KG petite presse à huile hydraulique, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "KHOP-10KG petite presse à huile hydraulique",
+          "description": "Demandez le prix et le devis pour \"KHOP-10KG petite presse à huile hydraulique. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "khop-10kg-small-hydraulic-oil-press-machine",
+          "url": "https://hydraulic-oil-press.com/fr/products/khop-10kg-small-hydraulic-oil-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "KHOP-10KG petite presse à huile hydraulique",
+              "item": "https://hydraulic-oil-press.com/fr/products/khop-10kg-small-hydraulic-oil-press-machine"
+            }
+          ]
+        }
+---
 # KHOP-10KG petite presse à huile hydraulique
 
 ![KHOP-10KG petite presse à huile hydraulique](/images/korean-type-small-press/khop-10kg.jpg)

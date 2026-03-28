@@ -1,9 +1,75 @@
 ---
-title: "Machine d'inspection légère | Série de machines d'inspection légères"
-description: "Il réalise la méthode d'inspection entièrement automatique consistant à entrer dans la bouteille - à serrer la bouteille - à tourner la bouteille - à prendre la bouteille - à retirer la bouteille."
-keywords: "Machine d'inspection légère, série de machines d'inspection légère, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Machine d'inspection légère devis | solution clé en main
+description: "Demandez un devis pour Machine d'inspection légère : plan de ligne, liste d’équipements et SAV."
+keywords: Machine d'inspection légère prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Machine d'inspection légère",
+          "description": "Demandez un devis pour \"Machine d'inspection légère : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/light-inspection/light-inspection-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine d'inspection légère",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/light-inspection/light-inspection-machine"
+            }
+          ]
+        }
+---
 # Machine d'inspection légère
 
 ![Machine d'inspection lumineuse](/images/filling-products/light-inspection-machine.webp)
@@ -40,3 +106,11 @@ Il réalise la méthode d'inspection entièrement automatique consistant à entr
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
 - [Série de machines d'inspection légère](/fr/solutions/light-inspection/)
 - [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

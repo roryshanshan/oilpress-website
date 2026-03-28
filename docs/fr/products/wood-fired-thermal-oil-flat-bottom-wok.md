@@ -1,9 +1,79 @@
 ---
-title: Wok à fond plat avec huile thermique à combustion bois
-description: Le wok à fond plat avec huile thermique à combustion bois est équipé de son propre four, le modèle à huile thermique résout le problème de chauffage inégal
-keywords: Wok à fond plat à combustion bois avec huile thermique, Wok à huile thermique, Wok à fond plat, Wok à combustion bois, Wok au gaz, Wok pour graines oléagineuses, Équipement de wok, Wok à chauffage à huile thermique, Wok avec isolation en laine de roche, Wok en acier inoxydable, Wok de traitement de graines oléagineuses, Machine de wok, Équipement de wok
----
+title: Wok à fond plat avec huile thermique à combustion bois prix
+description: Demandez le prix et le devis pour Wok à fond plat avec huile thermique à combustion bois. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Wok à fond plat avec huile thermique à combustion bois prix, acheter Wok à fond plat avec huile thermique à combustion bois, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Wok à fond plat avec huile thermique à combustion bois",
+          "description": "Demandez le prix et le devis pour Wok à fond plat avec huile thermique à combustion bois. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "wood-fired-thermal-oil-flat-bottom-wok",
+          "url": "https://hydraulic-oil-press.com/fr/products/wood-fired-thermal-oil-flat-bottom-wok",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Wok à fond plat avec huile thermique à combustion bois",
+              "item": "https://hydraulic-oil-press.com/fr/products/wood-fired-thermal-oil-flat-bottom-wok"
+            }
+          ]
+        }
+---
 # Wok à fond plat avec huile thermique à combustion bois
 ![Wok à fond plat avec huile thermique à combustion bois](https://i.postimg.cc/wHP2fGLt/202509051612083.png?dl=1)
 ## Aperçu du produit

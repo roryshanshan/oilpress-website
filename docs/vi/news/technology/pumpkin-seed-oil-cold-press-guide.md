@@ -1,6 +1,6 @@
 ---
-title: "Hướng dẫn ép lạnh dầu hạt bí: Quy trình dầu cao cấp và thiết bị phù hợp"
-description: "Tìm hiểu cách sản xuất dầu hạt bí cao cấp bằng ép lạnh thủy lực, bao gồm chuẩn bị nguyên liệu, chọn máy, lọc dầu và kiểm soát chất lượng."
+title: "Hướng dẫn ép lạnh dầu hạt bí: Quy trình dầu cao cấp và thiết b..."
+description: Tìm hiểu cách sản xuất dầu hạt bí cao cấp bằng ép lạnh thủy lực, bao gồm chuẩn bị nguyên liệu, chọn máy, lọc dầu và kiểm soát chất lượng.
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-08"
 ---

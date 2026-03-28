@@ -1,9 +1,75 @@
 ---
-title: "Déballeuse automatique, formage de cartons, encartonneuse | Emballage, palettisation"
-description: "Il déclenche automatiquement une alarme en cas de pénurie de rubans et de cartons et adopte un contrôle PLC + écran d'affichage, ce qui facilite grandement le fonctionnement et constitue un équipement indispensable pour la production automatisée à grande échelle ;"
-keywords: "Déballage automatique, formage de cartons, encartonneuses, encartonnage, palettisation, équipement de conditionnement de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Déballeuse automatique, formage de cartons, encartonneuse devis
+description: "Demandez un devis pour Déballeuse automatique, formage de cartons, encartonneuse : plan de ligne, liste d’équipements et SAV."
+keywords: Machines automatiques de déballage, de formage de cartons et d'encartonnage prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Machines automatiques de déballage, de formage de cartons et d'encartonnage",
+          "description": "Demandez un devis pour \"Déballeuse automatique, formage de cartons, encartonneuse : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/packing-palletizing/case-erector-packing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machines automatiques de déballage, de formage de cartons et d'encartonnage",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/packing-palletizing/case-erector-packing-machine"
+            }
+          ]
+        }
+---
 # Machines automatiques de déballage, de formage de cartons et d'encartonnage
 
 ![Déballage automatique, formage de cartons et machine d'emballage](/images/filling-products/case-erector-packing-machine.webp)
@@ -70,3 +136,11 @@ Il déclenche automatiquement une alarme en cas de pénurie de rubans et de cart
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/solutions/production-lines)
 - [Emballage, palettisation](/fr/products/filling-equipment)
 - [Contactez-nous pour des conseils complets en ligne](/fr/solutions/packing-palletizing/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

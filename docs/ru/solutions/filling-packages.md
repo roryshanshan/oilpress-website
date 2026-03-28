@@ -1,9 +1,75 @@
 ---
-title: Обзор решений по фасовке - Shengshi Hecheng
-description: Обзор линий фасовки для розливa пищевых масел в бутылки, пакеты и бочки, включая оборудование, процесс, производительность и сервис.
-keywords: фасовочные решения, линия фасовки, фасовка масла, упаковочная линия
----
+title: Обзор решений по фасовке - Shengshi Hecheng цена | комплексное...
+description: "Запросите стоимость решения Обзор решений по фасовке - Shengshi Hecheng: проект линии, список оборудования и сервис."
+keywords: Обзор решений по фасовке цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Обзор решений по фасовке",
+          "description": "Запросите стоимость решения Обзор решений по фасовке - Shengshi Hecheng: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/filling-packages",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Обзор решений по фасовке",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/filling-packages"
+            }
+          ]
+        }
+---
 # Обзор решений по фасовке
 
 Эта страница описывает наши комплексные решения по фасовке для пищевых и специальных масел, включая дозирование, укупорку, этикетирование, упаковку и онлайн-инспекцию.
@@ -59,3 +125,11 @@ keywords: фасовочные решения, линия фасовки, фас
 
 - Телефон: +86 19906365856
 - Email: gavin@oil-pressing-machine.com
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

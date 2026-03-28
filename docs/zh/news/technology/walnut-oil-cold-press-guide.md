@@ -1,6 +1,6 @@
 ---
-title: "核桃油冷榨工艺指南：流程、机型与包装保护"
-description: "从原料准备、低温压榨、机型选择到避光包装，全面了解核桃油冷榨项目的关键控制点。"
+title: 核桃油冷榨工艺指南：流程、机型与包装保护
+description: 从原料准备、低温压榨、机型选择到避光包装，全面了解核桃油冷榨项目的关键控制点。
 keywords: 核桃油冷榨, 核桃油榨油机, 核桃油生产, 液压榨油机核桃
 date: "2026-03-17"
 ---
@@ -38,4 +38,4 @@ date: "2026-03-17"
 - [不同油料该选热榨还是冷榨？实用选型指南](/zh/news/technology/how-to-choose-hot-press-or-cold-press-for-different-oilseeds)
 - [如何选择液压榨油机型号](/zh/news/technology/how-to-choose-hydraulic-oil-press-model)
 - [气动过滤机](/zh/products/pneumatic-filter-press)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

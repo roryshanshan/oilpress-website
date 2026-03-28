@@ -1,7 +1,7 @@
 ---
-title: "Série de machines de remplissage"
-description: "La série de machines de remplissage convient au remplissage quantitatif de produits liquides tels que l'huile comestible, l'huile spéciale, les boissons, les liquides d'assaisonnement, etc., couvrant diverses formes d'emballage telles que des bouteilles, des sacs et des barils."
-keywords: "Série de machines de remplissage, machine de remplissage d'huile comestible, équipement de remplissage quantitatif, machine de remplissage d'huile en bouteille, équipement de remplissage de barils, ligne de production de remplissage de liquide"
+title: Série de machines de remplissage
+description: La série de machines de remplissage convient au remplissage quantitatif de produits liquides tels que l'huile comestible, l'huile spéciale, les boissons
+keywords: Série de machines de remplissage, machine de remplissage d'huile comestible, équipement de remplissage quantitatif, machine de remplissage d'huile en bouteille, équipement de remplissage de barils, ligne de production de remplissage de liquide
 ---
 
 # Série de machines de remplissage

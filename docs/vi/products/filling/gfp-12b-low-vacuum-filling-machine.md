@@ -1,9 +1,79 @@
 ---
-title: "Máy chiết rót chân không thấp GFP-12B | Loạt thiết bị sản xuất bia"
-description: "Máy chiết rót chân không thấp GFP-12B là thiết bị chiết rót cố định 12 đầu với thông số công khai là 3000 chai/giờ, 1.12kW, 1045×1050×2200mm. Nó thích hợp cho rượu vang, rượu gạo, nước tương, giấm và các chất lỏng dễ tạo bọt khác."
-keywords: "Máy rót chân không thấp GFP-12B, máy rót chân không thấp, loạt thiết bị làm rượu, máy rót rượu, máy rót mức cố định, Shengshi Hechen"
----
+title: Máy chiết rót chân không thấp GFP-12B giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy chiết rót chân không thấp GFP-12B từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy chiết rót chân không thấp GFP-12B, mua Máy chiết rót chân không thấp GFP-12B, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy chiết rót chân không thấp GFP-12B",
+          "description": "Nhận báo giá và tư vấn mua \"Máy chiết rót chân không thấp GFP-12B từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "gfp-12b-low-vacuum-filling-machine",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling/gfp-12b-low-vacuum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy chiết rót chân không thấp GFP-12B",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling/gfp-12b-low-vacuum-filling-machine"
+            }
+          ]
+        }
+---
 # Máy chiết rót chân không thấp GFP-12B
 
 ![Máy chiết rót chân không thấp GFP-12B](/images/filling-products/gfp-12b-low-vacuum-filling-machine.webp)

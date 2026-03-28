@@ -1,9 +1,79 @@
 ---
-title: "Machine de remplissage linéaire | Équipement de remplissage de cuve ZGP-4 ~ ZGP-10"
-description: "La machine de remplissage linéaire couvre ZGP-4 à ZGP-10, adaptée au remplissage quantitatif de grands barils de liquide de 10 à 25 L, avec un débit de référence de 500 à 1 400 barils/heure sur la base de 10 L."
-keywords: "Machine de remplissage linéaire, ZGP-4, ZGP-10, machine de remplissage de cuve, série de machines de remplissage, Shengshi Hecheng"
----
+title: Machine de remplissage linéaire prix | fabricant
+description: Demandez le prix et le devis pour Machine de remplissage linéaire. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Machine de remplissage linéaire prix, acheter Machine de remplissage linéaire, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Machine de remplissage linéaire",
+          "description": "Demandez le prix et le devis pour \"Machine de remplissage linéaire. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "linear-filling-machine",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/linear-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine de remplissage linéaire",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/linear-filling-machine"
+            }
+          ]
+        }
+---
 # Machine de remplissage linéaire
 
 ![Machine de remplissage linéaire](/images/filling-products/linear-filling-machine.webp)

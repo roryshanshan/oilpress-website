@@ -1,9 +1,79 @@
 ---
-title: "Máy đóng nút chai bán tự động | Dòng máy đóng nút chai"
-description: "Máy này chủ yếu thích hợp để đóng nút chai rượu vang và các chai thủy tinh khác. Nó chủ yếu được kết nối phía sau máy chiết rót và được sử dụng để cắm sau khi đổ đầy."
-keywords: "Máy đóng nắp bán tự động, dòng máy đóng nắp, thiết bị đóng gói chất lỏng, thiết bị chiết rót và đóng gói, Shengshi Hechen"
----
+title: Máy đóng nút chai bán tự động giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy đóng nút chai bán tự động từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy đóng nút chai bán tự động, mua Máy đóng nút chai bán tự động, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy đóng nút chai bán tự động",
+          "description": "Nhận báo giá và tư vấn mua \"Máy đóng nút chai bán tự động từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "semi-automatic-corking-machine",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling/semi-automatic-corking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy đóng nút chai bán tự động",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling/semi-automatic-corking-machine"
+            }
+          ]
+        }
+---
 # Máy đóng nút chai bán tự động
 
 ![Máy đóng nút chai bán tự động](/images/filling-products/semi-automatic-corking-machine.webp)

@@ -1,9 +1,79 @@
 ---
-title: "Máy chiết rót tuyến tính | Thiết bị nạp thùng ZGP-4~ZGP-10"
-description: "Máy rót tuyến tính bao gồm ZGP-4 đến ZGP-10, thích hợp để đổ định lượng thùng chất lỏng lớn 10-25 L, với công suất tham chiếu là 500-1400 thùng/giờ dựa trên 10 L."
-keywords: "Máy chiết rót tuyến tính, ZGP-4, ZGP-10, máy rót thùng, dòng máy chiết rót, Shengshi Hechen"
----
+title: Máy chiết rót tuyến tính giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy chiết rót tuyến tính từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy chiết rót tuyến tính, mua Máy chiết rót tuyến tính, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy chiết rót tuyến tính",
+          "description": "Nhận báo giá và tư vấn mua \"Máy chiết rót tuyến tính từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "linear-filling-machine",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling/linear-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy chiết rót tuyến tính",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling/linear-filling-machine"
+            }
+          ]
+        }
+---
 # Máy chiết rót tuyến tính
 
 ![Máy chiết rót tuyến tính](/images/filling-products/linear-filling-machine.webp)

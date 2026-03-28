@@ -1,9 +1,79 @@
 ---
-title: "Liquor filling two-line machine | combined machine and filling supporting bus"
-description: "This machine is used for quantitative filling and sealing of non-gas liquids."
-keywords: "Liquor filling two-line machine, combined machine and filling supporting bus, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: Liquor filling two-line machine Price | Manufacturer & Quote
+description: Get price, procurement, and after-sales support for Liquor filling two-line machine from Shengshi Hecheng manufacturer.
+keywords: Liquor filling two-line machine price, Liquor filling two-line machine quote, Liquor filling two-line machine manufacturer, Liquor filling two-line machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Liquor filling two-line",
+          "description": "Get price, procurement, and after-sales support for \"Liquor filling two-line machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "baijiu-filling-capping-monoblock",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/baijiu-filling-capping-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Liquor filling two-line",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/baijiu-filling-capping-monoblock"
+            }
+          ]
+        }
+---
 # Liquor filling two-line
 
 ![Liquor filling two-line](/images/filling-products/baijiu-filling-capping-monoblock.webp)

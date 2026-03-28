@@ -1,9 +1,79 @@
 ---
-title: কোরিয়ান টাইপ ছোট হাইড্রোলিক অয়েল প্রেস মেশিন | দোকান ও ছোট ব্যবসার জন্য
-description: কোরিয়ান টাইপ ছোট হাইড্রোলিক অয়েল প্রেস মেশিন তিলের তেলের দোকান, সুপারমার্কেটের ফ্রেশ অয়েল কাউন্টার এবং ছোট প্রিমিয়াম ওয়ার্কশপের জন্য উপযোগী, 10KG, 15KG ও 20KG মডেলসহ।
-keywords: কোরিয়ান টাইপ ছোট হাইড্রোলিক অয়েল প্রেস, ছোট অয়েল প্রেস মেশিন, তিলের তেলের দোকানের মেশিন, ছোট তিল অয়েল প্রেস, KHOP-10KG, KHOP-15KG, KHOP-20KG
----
+title: কোরিয়ান টাইপ ছোট হাইড্রোলিক অয়েল প্রেস মেশিন দাম | প্রস্তুতকারক
+description: কোরিয়ান টাইপ ছোট হাইড্রোলিক অয়েল প্রেস মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: কোরিয়ান টাইপ ছোট হাইড্রোলিক অয়েল প্রেস মেশিন দাম, কোরিয়ান টাইপ ছোট হাইড্রোলিক অয়েল প্রেস মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "কোরিয়ান টাইপ ছোট হাইড্রোলিক অয়েল প্রেস মেশিন",
+          "description": "কোরিয়ান টাইপ ছোট হাইড্রোলিক অয়েল প্রেস মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "korean-type-small-hydraulic-oil-press-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/korean-type-small-hydraulic-oil-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "কোরিয়ান টাইপ ছোট হাইড্রোলিক অয়েল প্রেস মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/korean-type-small-hydraulic-oil-press-machine"
+            }
+          ]
+        }
+---
 # কোরিয়ান টাইপ ছোট হাইড্রোলিক অয়েল প্রেস মেশিন
 
 ![কোরিয়ান টাইপ ছোট হাইড্রোলিক অয়েল প্রেস মেশিন](/images/korean-type-small-press/korean-type-overview.jpg)

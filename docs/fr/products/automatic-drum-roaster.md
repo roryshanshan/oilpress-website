@@ -1,9 +1,79 @@
 ---
-title: Rôtisseur à Tambour Automatique - Shengshi Hecheng
-description: Le Rôtisseur à Tambour Automatique utilise la méthode de chauffage électromagnétique, adapté au rôtissage de graines de lin, sésame, arachides
-keywords: Rôtisseur à tambour automatique, Rôtisseur automatique, Rôtisseur à tambour, Rôtisseur à chauffage électromagnétique, Équipement de rôtissage de graines oléagineuses, Rôtisseur de graines de lin, Rôtisseur de sésame, Rôtisseur d'arachides, Rôtisseur de soja, Équipement de rôtissage, Machine de rôtissage, Équipement de prétraitement de graines oléagineuses, Machine de rôtissage, Rôtisseur électromagnétique, Machine de rôtissage automatique
----
+title: Rôtisseur à Tambour Automatique - Shengshi Hecheng prix | fabr...
+description: Demandez le prix et le devis pour Rôtisseur à Tambour Automatique - Shengshi Hecheng. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Rôtisseur à Tambour Automatique prix, acheter Rôtisseur à Tambour Automatique, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Rôtisseur à Tambour Automatique",
+          "description": "Demandez le prix et le devis pour Rôtisseur à Tambour Automatique - Shengshi Hecheng. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "automatic-drum-roaster",
+          "url": "https://hydraulic-oil-press.com/fr/products/automatic-drum-roaster",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Rôtisseur à Tambour Automatique",
+              "item": "https://hydraulic-oil-press.com/fr/products/automatic-drum-roaster"
+            }
+          ]
+        }
+---
 # Rôtisseur à Tambour Automatique
 ![Rôtisseur à Tambour Automatique](https://i.postimg.cc/8pR1WNPW/image.png?dl=1)
 ## Aperçu du Produit

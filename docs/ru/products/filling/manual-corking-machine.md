@@ -1,9 +1,79 @@
 ---
-title: "Ручная укупорочная машина | Серия укупорочных машин"
-description: "Эта машина в основном подходит для укупорки вина и других стеклянных бутылок. В основном он подключается за разливочной машиной и используется для закупорки после наполнения."
-keywords: "Ручная укупорочная машина, серия укупорочных машин, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Ручная укупорочная машина цена | производитель
+description: Запросите цену и подбор Ручная укупорочная машина. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Ручная укупорочная машина цена, купить Ручная укупорочная машина, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ручная укупорочная машина",
+          "description": "Запросите цену и подбор \"Ручная укупорочная машина. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "manual-corking-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/manual-corking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Ручная укупорочная машина",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/manual-corking-machine"
+            }
+          ]
+        }
+---
 # Ручная укупорочная машина
 
 ![Ручная укупорочная машина](/images/filling-products/manual-corking-machine.webp)

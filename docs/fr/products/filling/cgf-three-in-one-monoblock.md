@@ -1,9 +1,79 @@
 ---
-title: "Machine trois-en-un pour rincer, remplir et sceller | Machine combinée CGF30-24-8 ~ CGF60-40-8"
-description: "La machine de rinçage, de remplissage et de scellage à trois lignes couvre les modèles CGF30-24-8 à CGF60-40-8, avec un débit de référence de 6 000 à 12 000 p/h, et convient aux lignes de conditionnement intégrées pour l'huile en bouteille, les liqueurs et les liquides d'assaisonnement."
-keywords: "Machine triple de rinçage, de remplissage et de scellage, CGF30-24-8, CGF60-40-8, machine combinée, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Machine trois-en-un pour rincer, remplir et sceller prix
+description: Demandez le prix et le devis pour Machine trois-en-un pour rincer, remplir et sceller. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Machine à trois lignes de rinçage, de remplissage et de scellage prix, acheter Machine à trois lignes de rinçage, de remplissage et de scellage, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Machine à trois lignes de rinçage, de remplissage et de scellage",
+          "description": "Demandez le prix et le devis pour \"Machine trois-en-un pour rincer, remplir et sceller. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "cgf-three-in-one-monoblock",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/cgf-three-in-one-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine à trois lignes de rinçage, de remplissage et de scellage",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/cgf-three-in-one-monoblock"
+            }
+          ]
+        }
+---
 # Machine à trois lignes de rinçage, de remplissage et de scellage
 
 ![Machine de rinçage, de remplissage et de scellage trois en un](/images/filling-products/cgf-three-in-one-monoblock.webp)

@@ -1,9 +1,75 @@
 ---
-title: "Wine rinsing, filling and corking combined machine | Winemaking equipment series"
-description: "This triple machine is mainly designed for wine and fruit wine filling. This equipment organically combines a flipping rinser, a negative pressure filling machine and a corking machine into one. The equipment has a compact structure and saves installation space."
-keywords: "Wine rinsing, filling and corking combined machine, winemaking equipment series, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: Wine rinsing, filling and corking combined machine Quote
+description: Get a quote and turnkey plan for Wine rinsing, filling and corking combined machine. Process design, equipment list, and after-sales support.
+keywords: Wine rinsing, filling and corking combined machine quote, Wine rinsing, filling and corking combined machine price, turnkey solution, production line, procurement
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Wine rinsing, filling and corking combined machine",
+          "description": "Get a quote and turnkey plan for \"Wine rinsing, filling and corking combined machine. Process design, equipment list, and after-sales support.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/en/solutions/brewing/wine-rinsing-filling-corking-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/en/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Wine rinsing, filling and corking combined machine",
+              "item": "https://hydraulic-oil-press.com/en/solutions/brewing/wine-rinsing-filling-corking-monoblock"
+            }
+          ]
+        }
+---
 # Wine rinsing, filling and corking combined machine
 
 ![Wine rinsing, filling and corking combined machine](/images/filling-products/wine-rinsing-filling-corking-monoblock.webp)
@@ -94,3 +160,11 @@ This triple machine is mainly designed for wine and fruit wine filling. This equ
 - [Filling and packaging equipment parameter library](/en/products/filling-equipment)
 - [Brewing equipment series](/en/solutions/brewing/)
 - [Contact us for complete line advice](/en/contact/)
+
+## Get Price & Quote
+
+Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+
+- [Get Price & Quote](/en/contact/)
+
+<!-- quote-cta -->

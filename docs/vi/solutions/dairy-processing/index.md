@@ -1,7 +1,7 @@
 ---
-title: "Thiết bị chế biến sữa"
-description: "Thiết bị chế biến sữa phù hợp cho việc chuẩn bị, khử trùng, bảo quản, chiết rót và đóng gói sữa, đồ uống sữa chua, đồ uống từ sữa và các sản phẩm khác, đồng thời phù hợp cho các dự án thực phẩm lỏng có yêu cầu vệ sinh cao."
-keywords: "Thiết bị chế biến sữa, thiết bị chế biến sữa, dây chuyền rót sữa, thiết bị nước giải khát sữa chua, thiết bị đóng gói đồ uống sữa, thiết bị thực phẩm lỏng vệ sinh"
+title: Thiết bị chế biến sữa
+description: Thiết bị chế biến sữa phù hợp cho việc chuẩn bị, khử trùng, bảo quản, chiết rót và đóng gói sữa, đồ uống sữa chua, đồ uống từ sữa và các sản phẩm khác
+keywords: Thiết bị chế biến sữa, thiết bị chế biến sữa, dây chuyền rót sữa, thiết bị nước giải khát sữa chua, thiết bị đóng gói đồ uống sữa, thiết bị thực phẩm lỏng vệ sinh
 ---
 
 # thiết bị chế biến sữa

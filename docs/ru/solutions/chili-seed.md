@@ -1,9 +1,75 @@
 ---
-title: Chili Seed (Chili Seed Oil) Solutions - Shengshi Hecheng
-description: Professional chili seed oil pressing solutions, providing chili seed oil processing equipment and technical services, oil content 15-25%
-keywords: Chili seed solutions, Chili seed oil pressing, Chili seed processing equipment, Chili seed oil production line, Chili seed oil press, Chili seed oil extraction, Chili seed oilseed processing, Chili seed oil pressing equipment, Chili seed oil production equipment, Chili seed oil processing plant
----
+title: Chili Seed (Chili Seed Oil) Solutions - Shengshi Hecheng цена ...
+description: "Запросите стоимость решения Chili Seed (Chili Seed Oil) Solutions - Shengshi Hecheng: проект линии, список оборудования и сервис."
+keywords: Chili Seed (Chili Seed Oil) Solution цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Chili Seed (Chili Seed Oil) Solution",
+          "description": "Запросите стоимость решения Chili Seed (Chili Seed Oil) Solutions - Shengshi Hecheng: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/chili-seed",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Chili Seed (Chili Seed Oil) Solution",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/chili-seed"
+            }
+          ]
+        }
+---
 # Chili Seed (Chili Seed Oil) Solution
 
 ## Overview
@@ -121,3 +187,11 @@ If you are interested in chili seed pressing solutions, please contact our techn
 - 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable chili seed pressing solution.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

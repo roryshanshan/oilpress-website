@@ -1,9 +1,79 @@
 ---
-title: "Machine combinée de rinçage, remplissage et bouchage du vin | Série de matériel de vinification"
-description: "Cette triple machine est principalement conçue pour le remplissage de vins et de vins de fruits. Cet équipement combine organiquement une rinceuse retournée, une machine de remplissage à pression négative et une boucheuse en une seule. L'équipement a une structure compacte et économise de l'espace d'installation."
-keywords: "Machine combinée de rinçage, de remplissage et de bouchage du vin, série d'équipements de vinification, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Machine combinée de rinçage, remplissage et bouchage du vin prix
+description: Demandez le prix et le devis pour Machine combinée de rinçage, remplissage et bouchage du vin. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Machine combinée de rinçage, remplissage et bouchage du vin prix, acheter Machine combinée de rinçage, remplissage et bouchage du vin, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Machine combinée de rinçage, remplissage et bouchage du vin",
+          "description": "Demandez le prix et le devis pour \"Machine combinée de rinçage, remplissage et bouchage du vin. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "wine-rinsing-filling-corking-monoblock",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/wine-rinsing-filling-corking-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine combinée de rinçage, remplissage et bouchage du vin",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/wine-rinsing-filling-corking-monoblock"
+            }
+          ]
+        }
+---
 # Machine combinée de rinçage, remplissage et bouchage du vin
 
 ![Machine combinée de rinçage, de remplissage et de bouchage du vin](/images/filling-products/wine-rinsing-filling-corking-monoblock.webp)

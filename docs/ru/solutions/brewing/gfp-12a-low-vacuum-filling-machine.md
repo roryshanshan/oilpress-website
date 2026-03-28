@@ -1,9 +1,75 @@
 ---
-title: "Разливочная машина низкого вакуума GFP-12A | Серия пивоваренного оборудования"
-description: "Низковакуумный разливочный автомат GFP-12A представляет собой 12-головочное разливочное оборудование с фиксированным уровнем производительности 3000 бутылок в час и общей мощностью 1,12 кВт. Подходит для розлива вина, рисового вина, соевого соуса, уксуса и других легко пенящихся жидкостей."
-keywords: "GFP-12A машина для розлива с низким вакуумом, машина для розлива с низким вакуумом, серия оборудования для виноделия, машина для розлива вина, машина для розлива рисового вина, Shengshi Hecheng"
----
+title: Разливочная машина низкого вакуума GFP-12A цена
+description: "Запросите стоимость решения Разливочная машина низкого вакуума GFP-12A: проект линии, список оборудования и сервис."
+keywords: GFP-12A разливочная машина низкого вакуума цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "GFP-12A разливочная машина низкого вакуума",
+          "description": "Запросите стоимость решения \"Разливочная машина низкого вакуума GFP-12A: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/brewing/gfp-12a-low-vacuum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GFP-12A разливочная машина низкого вакуума",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/brewing/gfp-12a-low-vacuum-filling-machine"
+            }
+          ]
+        }
+---
 # GFP-12A разливочная машина низкого вакуума
 
 ![Машина для розлива с низким вакуумом GFP-12A](/images/filling-products/gfp-12a-low-vacuum-filling-machine.webp)
@@ -53,3 +119,11 @@ keywords: "GFP-12A машина для розлива с низким вакуу
 - [Библиотека параметров фасовочно-упаковочного оборудования](/ru/products/filling-equipment#brew-vacuum)
 - [Обзор наполнения пакетов](/ru/solutions/filling-packages)
 - [Свяжитесь с нами для получения полной консультации по линии](/ru/contact/)
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

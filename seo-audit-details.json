@@ -1,5 +1,7 @@
 {
-  "noFrontmatter": [],
+  "noFrontmatter": [
+    "zh/products/Sesame Cleaning Machine.md"
+  ],
   "missing": {
     "title": [],
     "description": [],

@@ -1,9 +1,79 @@
 ---
-title: "Промывочная машина рельсового типа | серия ополаскивающих машин"
-description: "Подходит для ополаскивания новых и старых бутылок различных типов и материалов."
-keywords: "Ополаскиватель бутылок с цепной направляющей, серия ополаскивателей для бутылок, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Промывочная машина рельсового типа цена | производитель
+description: Запросите цену и подбор Промывочная машина рельсового типа. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Машина для мытья бутылок с цепной рейкой цена, купить Машина для мытья бутылок с цепной рейкой, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Машина для мытья бутылок с цепной рейкой",
+          "description": "Запросите цену и подбор \"Промывочная машина рельсового типа. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "chain-bottle-washer",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/chain-bottle-washer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Машина для мытья бутылок с цепной рейкой",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/chain-bottle-washer"
+            }
+          ]
+        }
+---
 # Машина для мытья бутылок с цепной рейкой
 
 ![Машина для мытья бутылок с цепным рельсом](/images/filling-products/chain-bottle-washer.webp)

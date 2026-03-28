@@ -1,9 +1,79 @@
 ---
-title: "Термоусадочная машина с одной головкой и резиновым колпачком | Серия термоусадочных машин с резиновым колпачком"
-description: "Эта серия термоусадочных машин в основном предназначена для термоусадочной герметизации термоусадочных резиновых крышек из ПВХ и специально используется для усадки крышек после укупоривания вина."
-keywords: "Термоусадочная машина для резиновых колпачков с одной головкой, серия термоусадочных машин для резиновых колпачков, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Термоусадочная машина с одной головкой и резиновым колпачком ...
+description: Запросите цену и подбор Термоусадочная машина с одной головкой и резиновым колпачком. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Термоусадочная машина с резиновым колпачком и одной головкой цена, купить Термоусадочная машина с резиновым колпачком и одной головкой, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Термоусадочная машина с резиновым колпачком и одной головкой",
+          "description": "Запросите цену и подбор \"Термоусадочная машина с одной головкой и резиновым колпачком. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "single-head-cap-shrinking-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/single-head-cap-shrinking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Термоусадочная машина с резиновым колпачком и одной головкой",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/single-head-cap-shrinking-machine"
+            }
+          ]
+        }
+---
 # Термоусадочная машина с резиновым колпачком и одной головкой
 
 ![Машина для усадки крышек с одной головкой](/images/filling-products/single-head-cap-shrinking-machine.webp)

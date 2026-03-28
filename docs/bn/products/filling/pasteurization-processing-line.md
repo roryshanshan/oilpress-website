@@ -1,9 +1,79 @@
 ---
-title: "ট্যাংক পাস্তুরাইজেশন প্রক্রিয়াকরণ লাইন | দুধ প্রক্রিয়াকরণ সরঞ্জাম"
-description: "সরঞ্জামগুলিতে দুধ আনলোডিং ট্যাঙ্ক, ফিল্টার, প্রিহিটিং ট্যাঙ্ক, হোমোজেনাইজার, জীবাণুমুক্তকরণ ট্যাঙ্ক, রেফ্রিজারেশন ট্যাঙ্ক, দুধ পাম্প, বিতরণ বাক্স, আধা-স্বয়ংক্রিয় ফিলিং মেশিন, কনভেয়র লাইন এবং সঙ্কুচিত ফিল্ম মেশিন রয়েছে।"
-keywords: "ট্যাঙ্ক পাস্তুরাইজেশন প্রক্রিয়াকরণ লাইন, দুধ প্রক্রিয়াকরণ সরঞ্জাম, তরল প্যাকেজিং সরঞ্জাম, ফিলিং এবং প্যাকেজিং সরঞ্জাম, শেংশি হেচেং"
----
+title: ট্যাংক পাস্তুরাইজেশন প্রক্রিয়াকরণ লাইন দাম | প্রস্তুতকারক
+description: ট্যাংক পাস্তুরাইজেশন প্রক্রিয়াকরণ লাইন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: ট্যাংক পাস্তুরাইজেশন প্রক্রিয়াকরণ লাইন দাম, ট্যাংক পাস্তুরাইজেশন প্রক্রিয়াকরণ লাইন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "ট্যাংক পাস্তুরাইজেশন প্রক্রিয়াকরণ লাইন",
+          "description": "\"ট্যাংক পাস্তুরাইজেশন প্রক্রিয়াকরণ লাইন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "pasteurization-processing-line",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/pasteurization-processing-line",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "ট্যাংক পাস্তুরাইজেশন প্রক্রিয়াকরণ লাইন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/pasteurization-processing-line"
+            }
+          ]
+        }
+---
 # ট্যাংক পাস্তুরাইজেশন প্রক্রিয়াকরণ লাইন
 
 ![ট্যাঙ্ক পাস্তুরাইজেশন প্রক্রিয়াকরণ লাইন](/images/filling-products/pasteurization-processing-line.webp)

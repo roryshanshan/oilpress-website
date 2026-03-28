@@ -1,9 +1,75 @@
 ---
-title: Решение для семян периллы (Масло семян периллы)
-description: Профессиональные решения для отжима семян периллы, предоставление оборудования и технических услуг по переработке масла семян периллы, содержание масла 40-50%
-keywords: Решения для семян периллы, Отжим масла семян периллы, Оборудование для переработки семян периллы, Линия производства масла семян периллы, Процесс холодного отжима семян периллы, Пресс для масла семян периллы, Экстракция масла семян периллы, Переработка масличных семян семян периллы, Оборудование для отжима масла семян периллы, Масло периллы, Добавки Ω-3 для здоровья
----
+title: Решение для семян периллы (Масло семян периллы) цена
+description: "Запросите стоимость решения Решение для семян периллы (Масло семян периллы): проект линии, список оборудования и сервис."
+keywords: Решение для семян периллы (Масло семян периллы) цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Решение для семян периллы (Масло семян периллы)",
+          "description": "Запросите стоимость решения Решение для семян периллы (Масло семян периллы): проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/perilla",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Решение для семян периллы (Масло семян периллы)",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/perilla"
+            }
+          ]
+        }
+---
 # Решение для семян периллы (Масло семян периллы)
 
 ## Обзор
@@ -133,3 +199,11 @@ keywords: Решения для семян периллы, Отжим масла
 - 📍 **Адрес**: № 5888, Улица Иньнэн, Зона развития, Город Цинчжоу, Город Вэйфан, Провинция Шаньдун
 
 Мы предоставляем бесплатные технические консультации, тестирование образцов и услуги выездной инспекции, чтобы предоставить вам наиболее подходящее решение для отжима семян периллы.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

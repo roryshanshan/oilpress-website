@@ -1,9 +1,79 @@
 ---
-title: Edible Oil Refining and Dewaxing Equipment | Refining Line Overview
-description: Learn about edible oil refining and dewaxing equipment, including degumming, neutralization, decolorization, deodorization, winterization, and line integration after hydraulic pressing.
+title: Edible Oil Refining and Dewaxing Equipment
+description: Learn about edible oil refining and dewaxing equipment, including degumming, neutralization, decolorization, deodorization, winterization
 keywords: edible oil refining equipment, dewaxing equipment, oil refining line, edible oil degumming, oil decolorization, oil deodorization, winterization system, refining and dewaxing
----
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Refining and Dewaxing Equipment",
+          "description": "Learn about edible oil refining and dewaxing equipment, including degumming, neutralization, decolorization, deodorization, winterization",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "refining-and-dewaxing-equipment",
+          "url": "https://hydraulic-oil-press.com/en/products/refining-and-dewaxing-equipment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Refining and Dewaxing Equipment",
+              "item": "https://hydraulic-oil-press.com/en/products/refining-and-dewaxing-equipment"
+            }
+          ]
+        }
+---
 # Refining and Dewaxing Equipment
 
 Refining and dewaxing equipment upgrades crude pressed oil into a more stable, cleaner, and more market-ready product. This category is especially important for customers producing packaged edible oils, premium nutrition oils, or oils that require lighter color, lower impurities, and improved low-temperature stability.

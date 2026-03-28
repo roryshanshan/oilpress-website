@@ -1,9 +1,75 @@
 ---
-title: "Автоматическая машина для распаковки, формирования картона, картонирования | Упаковка, паллетирование"
-description: "Он автоматически подает сигнал тревоги при нехватке лент и коробок и использует управление экраном ПЛК +, что значительно облегчает работу и является незаменимым оборудованием для автоматизированного крупномасштабного производства;"
-keywords: "Автоматическая распаковка, формирование картонных коробок, картонирующие машины, картонирование, паллетирование, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Автоматическая машина для распаковки, формировани Решение | Цена
+description: "Запросите стоимость решения Автоматическая машина для распаковки, формирования картона, картонирования: проект линии, список оборудования и сервис."
+keywords: Автоматические машины для распаковки, формирования и картонирования коробок. цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Автоматические машины для распаковки, формирования и картонирования коробок.",
+          "description": "Запросите стоимость решения \"Автоматическая машина для распаковки, формирования картона, картонирования: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/packing-palletizing/case-erector-packing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Автоматические машины для распаковки, формирования и картонирования коробок.",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/packing-palletizing/case-erector-packing-machine"
+            }
+          ]
+        }
+---
 # Автоматические машины для распаковки, формирования и картонирования коробок.
 
 ![Автоматическая машина для распаковки, формирования и упаковки картонных коробок](/images/filling-products/case-erector-packing-machine.webp)
@@ -70,3 +136,11 @@ keywords: "Автоматическая распаковка, формирова
 - [Библиотека параметров фасовочно-упаковочного оборудования](/ru/solutions/production-lines)
 - [Упаковка, паллетизация](/ru/products/filling-equipment)
 - [Свяжитесь с нами для получения полной консультации по линии](/ru/solutions/packing-palletizing/)
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

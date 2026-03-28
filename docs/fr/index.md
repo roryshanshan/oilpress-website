@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Fabricant professionnel de presses à huile hydrauliques - Shen
-description: Shandong Shengshi Hecheng Machinery Co., Ltd.
-keywords: Presse à huile hydraulique pour huile de soja, Presse à huile hydraulique pour huile d'arachide, Presse à huile hydraulique pour huile de sésame, Presse à huile hydraulique pour huile de colza, Presse à huile hydraulique pour huile de tournesol, Presse à huile hydraulique pour huile de coton, Presse à huile hydraulique pour huile de lin, Presse à huile hydraulique pour huile de thé, Presse à huile hydraulique pour huile de perilla, Presse à huile hydraulique pour huile de noix de coco, Presse à huile hydraulique pour huile de palme, Presse à huile hydraulique pour huile de noix, Presse à huile hydraulique pour huile d'amande, Presse à huile hydraulique pour huile de noisette, Presse à huile hydraulique pour huile de cajou, Presse à huile hydraulique pour huile de pistache, Presse à huile hydraulique pour huile d'avocat, Presse à huile hydraulique pour huile de pépins de raisin, Presse à huile hydraulique pour huile de citrouille, Presse à huile hydraulique pour huile de pépins de pastèque, Presse à huile hydraulique pour huile de noyau de pêche, Presse à huile hydraulique pour huile de noyau d'abricot, Presse à huile hydraulique 300 tonnes, Presse à huile hydraulique 325 tonnes, Presse à huile hydraulique 380 tonnes, Presse à huile hydraulique 410 tonnes, Presse à huile hydraulique 480 tonnes, Presse à huile hydraulique 500 tonnes, Presse à huile hydraulique 530 tonnes, Presse à huile pour oléagineux, Presse à huile pour noix, Presse à huile pour pépins de fruits, Presse à huile hydraulique 300T, Presse à huile hydraulique 325T, Presse à huile hydraulique 380T, Presse à huile hydraulique 410T, Presse à huile hydraulique 480T, Presse à huile hydraulique 500T, Presse à huile hydraulique 530T, Presse à huile pour cultures oléagineuses, Presse à huile pour oléagineux, Presse à huile pour pépins de fruits, Presse à huile hydraulique pour soja, Presse à huile hydraulique pour arachide, Presse à huile hydraulique pour sésame, Presse à huile hydraulique pour colza, Presse à huile hydraulique pour tournesol, Presse à huile hydraulique pour coton, Presse à huile hydraulique pour lin, Presse à huile hydraulique pour thé, Presse à huile hydraulique pour perilla, Presse à huile hydraulique pour noix de coco, Presse à huile hydraulique pour palme, Presse à huile hydraulique pour noix, Presse à huile hydraulique pour amande, Presse à huile hydraulique pour noisette, Presse à huile hydraulique pour cajou, Presse à huile hydraulique pour pistache, Presse à huile hydraulique pour avocat, Presse à huile hydraulique pour pépins de raisin, Presse à huile hydraulique pour pépins de citrouille, Presse à huile hydraulique pour pépins de pastèque, Presse à huile hydraulique pour noyau de pêche, Presse à huile hydraulique pour noyau d'abricot
+title: Fabricant de presses à huile | Prix & devis
+description: Prix et devis pour presses 300-500 et lignes de production d’huile. Vente directe usine et SAV.
+keywords: prix presse à huile, fabricant, devis, achat, ligne de production d’huile, SAV
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
@@ -31,7 +31,7 @@ keywords: Presse à huile hydraulique pour huile de soja, Presse à huile hydrau
     <p>Fabricant national clé d'équipements d'extraction de graines oléagineuses, fournissant des solutions complètes de transformation d'huile</p>
     <div class="hero-buttons">
       <a href="/fr/products/" class="primary-button">Voir les produits</a>
-      <a href="/fr/contact/" class="contact-link-button">Nous contacter</a>
+      <a href="/fr/contact/" class="contact-link-button">Obtenir prix & devis</a>
     </div>
   </div>
   <div class="hero-image">
@@ -222,7 +222,7 @@ keywords: Presse à huile hydraulique pour huile de soja, Presse à huile hydrau
     <p><strong>📧 Email :</strong> roryshanshan@gmail.com</p>
     <p><strong>📧 Commercial :</strong> gavin@oil-pressing-machine.com</p>
     <p><strong>🏭 Adresse :</strong> No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China</p>
-    <a href="/fr/contact/" class="contact-button">Nous contacter</a>
+    <a href="/fr/contact/" class="contact-button">Obtenir prix & devis</a>
   </div>
   <div class="contact-form">
     <form action="https://formspree.io/f/xblaoewy" method="POST">

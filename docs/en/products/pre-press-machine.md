@@ -1,9 +1,79 @@
 ---
-title: Pre-press Machine - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Pre-press machine adopts spiral crushing principle, designed for efficient and stable operation, low noise, low maintenance cost for wear parts
-keywords: Pre-press Machine, oil press machine, oil press price, oil press quotation, oil press supplier, oil processing equipment, supporting equipment, after-sales service, oilseed processing equipment, Spiral crushing machine
----
+title: Pre-press Machine - Shengshi Hecheng Price | Manufacturer & Quote
+description: Get price, procurement, and after-sales support for Pre-press Machine - Shandong Shengshi Hecheng Machinery Co., Ltd. from Shengshi Hecheng manufacturer.
+keywords: Pre-press Machine - Shandong Shengshi Hecheng Machinery Co., Ltd. price, Pre-press Machine - Shandong Shengshi Hecheng Machinery Co., Ltd. quote, Pre-press Machine - Shandong Shengshi Hecheng Machinery Co., Ltd. manufacturer, Pre-press Machine - Shandong Shengshi Hecheng Machinery Co., Ltd. supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pre-press Machine",
+          "description": "Get price, procurement, and after-sales support for Pre-press Machine - Shandong Shengshi Hecheng Machinery Co., Ltd. from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "pre-press-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/pre-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Pre-press Machine",
+              "item": "https://hydraulic-oil-press.com/en/products/pre-press-machine"
+            }
+          ]
+        }
+---
 # Pre-press Machine
 
 ![](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)

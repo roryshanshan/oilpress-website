@@ -1,7 +1,7 @@
 ---
-title: "Dòng máy kiểm tra ánh sáng"
-description: "Dòng máy kiểm tra ánh sáng được sử dụng để kiểm tra trực tuyến các sản phẩm dạng lỏng đóng chai. Nó có thể kiểm tra mức chất lỏng, tạp chất, tình trạng niêm phong, độ lệch nắp chai và các vấn đề khác. Nó phù hợp cho các dây chuyền đóng gói dầu ăn và chất lỏng."
-keywords: "Dòng máy kiểm tra ánh sáng, máy kiểm tra ánh sáng, thiết bị kiểm tra trực tuyến, phát hiện mức chất lỏng, phát hiện tạp chất lạ, kiểm tra bao bì dầu đóng chai"
+title: Dòng máy kiểm tra ánh sáng
+description: Dòng máy kiểm tra ánh sáng được sử dụng để kiểm tra trực tuyến các sản phẩm dạng lỏng đóng chai.
+keywords: Dòng máy kiểm tra ánh sáng, máy kiểm tra ánh sáng, thiết bị kiểm tra trực tuyến, phát hiện mức chất lỏng, phát hiện tạp chất lạ, kiểm tra bao bì dầu đóng chai
 ---
 
 # Dòng máy kiểm tra đèn

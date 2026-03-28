@@ -1,9 +1,75 @@
 ---
-title: "Máy tháo dỡ, tạo hình thùng carton, đóng thùng tự động | Đóng gói, xếp hàng"
-description: "Nó tự động cảnh báo khi thiếu băng và thùng carton, đồng thời sử dụng điều khiển màn hình hiển thị PLC +, giúp tạo điều kiện thuận lợi hơn rất nhiều cho hoạt động và là thiết bị không thể thiếu để sản xuất tự động hóa quy mô lớn;"
-keywords: "Tự động giải nén, tạo hình thùng carton, máy đóng thùng, đóng thùng, xếp hàng, thiết bị đóng gói chất lỏng, thiết bị chiết rót và đóng gói, Shengshi Hechen"
----
+title: Máy tháo dỡ, tạo hình thùng carton, đóng thùng tự động báo giá
+description: Nhận báo giá Máy tháo dỡ, tạo hình thùng carton, đóng thùng tự động với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+keywords: Máy tháo dỡ, tạo hình thùng carton, đóng thùng tự động báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Máy tháo dỡ, tạo hình thùng carton, đóng thùng tự động",
+          "description": "Nhận báo giá \"Máy tháo dỡ, tạo hình thùng carton, đóng thùng tự động với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "serviceType": "Giải pháp",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/vi/solutions/packing-palletizing/case-erector-packing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Giải pháp",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy tháo dỡ, tạo hình thùng carton, đóng thùng tự động",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/packing-palletizing/case-erector-packing-machine"
+            }
+          ]
+        }
+---
 # Máy tháo dỡ, tạo hình thùng carton, đóng thùng tự động
 
 ![Máy tháo dỡ, tạo hình thùng carton và đóng gói tự động](/images/filling-products/case-erector-packing-machine.webp)
@@ -70,3 +136,11 @@ Nó tự động cảnh báo khi thiếu băng và thùng carton, đồng thời
 - [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/solutions/production-lines)
 - [Đóng gói, xếp pallet](/vi/products/filling-equipment)
 - [Liên hệ với chúng tôi để được tư vấn đầy đủ về dòng sản phẩm](/vi/solutions/packing-palletizing/)
+
+## Nhận giá & báo giá
+
+Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
+
+- [Nhận giá & báo giá](/vi/contact/)
+
+<!-- quote-cta -->

@@ -2,8 +2,78 @@
 title: Supporting Equipment - Shengshi Hecheng
 description: Shandong Shengshi Hecheng provides complete oil pressing equipment supporting solutions, including pre-treatment equipment, post-treatment equipment
 keywords: Supporting Equipment, oil press machine, oil press price, oil press quotation, oil press supplier, oil processing equipment, after-sales service, oilseed processing equipment, Oil pressing supporting equipment, Pre-treatment equipment
----
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Supporting Equipment",
+          "description": "Shandong Shengshi Hecheng provides complete oil pressing equipment supporting solutions, including pre-treatment equipment, post-treatment equipment",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "supporting",
+          "url": "https://hydraulic-oil-press.com/en/products/supporting",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Supporting Equipment",
+              "item": "https://hydraulic-oil-press.com/en/products/supporting"
+            }
+          ]
+        }
+---
 # Supporting Equipment
 
 ## Pre-treatment Equipment

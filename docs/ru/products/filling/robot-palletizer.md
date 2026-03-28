@@ -1,9 +1,79 @@
 ---
-title: "Робот-паллетизатор | Упаковка, паллетирование"
-description: "Эта машина подходит для упаковки и паллетирования готовой продукции различной формы, такой как картонные коробки, пакеты, банки, коробки, бутылки и т. д. на предприятиях по производству химической продукции, напитков, продуктов питания и алкоголя."
-keywords: "Робот-паллетайзер, упаковка и паллетирование, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Робот-паллетизатор цена | производитель
+description: Запросите цену и подбор Робот-паллетизатор. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Робот-паллетизатор цена, купить Робот-паллетизатор, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Робот-паллетизатор",
+          "description": "Запросите цену и подбор \"Робот-паллетизатор. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "robot-palletizer",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/robot-palletizer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Робот-паллетизатор",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/robot-palletizer"
+            }
+          ]
+        }
+---
 # Робот-паллетизатор
 
 ![Робот-поддонщик](/images/filling-products/robot-palletizer.webp)

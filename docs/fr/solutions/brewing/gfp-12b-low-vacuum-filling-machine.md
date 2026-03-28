@@ -1,9 +1,75 @@
 ---
-title: "Machine de remplissage sous vide faible GFP-12B | Série d'équipements de brassage"
-description: "La machine de remplissage sous vide faible GFP-12B est un équipement de remplissage à niveau fixe à 12 têtes avec des paramètres publics de 3 000 bouteilles/heure, 1,12 kW, 1 045 × 1 050 × 2 200 mm. Il convient au vin, au vin de riz, à la sauce soja, au vinaigre et à d'autres liquides facilement moussants."
-keywords: "Machine de remplissage sous vide GFP-12B, machine de remplissage sous vide faible, série d'équipements de vinification, machine de remplissage de vin, machine de remplissage à niveau fixe, Shengshi Hecheng"
----
+title: Machine de remplissage sous vide faible GFP-12B devis
+description: "Demandez un devis pour Machine de remplissage sous vide faible GFP-12B : plan de ligne, liste d’équipements et SAV."
+keywords: Machine de remplissage sous vide faible GFP-12B prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Machine de remplissage sous vide faible GFP-12B",
+          "description": "Demandez un devis pour \"Machine de remplissage sous vide faible GFP-12B : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/brewing/gfp-12b-low-vacuum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine de remplissage sous vide faible GFP-12B",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/brewing/gfp-12b-low-vacuum-filling-machine"
+            }
+          ]
+        }
+---
 # Machine de remplissage sous vide faible GFP-12B
 
 ![Machine de remplissage sous vide faible GFP-12B](/images/filling-products/gfp-12b-low-vacuum-filling-machine.webp)
@@ -53,3 +119,11 @@ GFP-12B est toujours une solution de remplissage à faible niveau de liquide sou
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment#brew-vacuum)
 - [Présentation du remplissage des packages](/fr/solutions/filling-packages)
 - [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

@@ -1,9 +1,79 @@
 ---
-title: Máy rang trống tự động - Shengshi Hecheng
-description: Máy rang trống tự động sử dụng gia nhiệt bằng điện từ, phù hợp để rang hạt mè, vừng, lạc, đậu tương, v. v.
-keywords: máy rang trống tự động, máy chiên tự động, chảo trống, gia nhiệt điện từ, thiết bị rang, chảo rang vừng, chảo rang mè, chảo rang lạc, thiết bị chế biến dầu, máy rang tự động
----
+title: Máy rang trống tự động - Shengshi Hecheng giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy rang trống tự động - Shengshi Hecheng từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy rang trống tự động, mua Máy rang trống tự động, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy rang trống tự động",
+          "description": "Nhận báo giá và tư vấn mua Máy rang trống tự động - Shengshi Hecheng từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "automatic-drum-roaster",
+          "url": "https://hydraulic-oil-press.com/vi/products/automatic-drum-roaster",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy rang trống tự động",
+              "item": "https://hydraulic-oil-press.com/vi/products/automatic-drum-roaster"
+            }
+          ]
+        }
+---
 # Máy rang trống tự động
  ![Máy rang trống tự động](https://i.postimg.cc/8pR1WNPW/image.png?dl=1)
  ## Giới thiệu sản phẩm 

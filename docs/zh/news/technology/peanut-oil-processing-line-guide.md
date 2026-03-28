@@ -1,6 +1,6 @@
 ---
-title: "花生油生产线配置指南：热榨、冷榨与工艺搭配"
-description: "比较花生油热榨与冷榨的差异，了解预处理、压榨、过滤和整线配置的关键要点。"
+title: 花生油生产线配置指南：热榨、冷榨与工艺搭配
+description: 比较花生油热榨与冷榨的差异，了解预处理、压榨、过滤和整线配置的关键要点。
 keywords: 花生油生产线, 花生油热榨, 花生油冷榨, 液压榨油机花生
 date: "2026-03-16"
 ---
@@ -38,4 +38,4 @@ date: "2026-03-16"
 - [如何选择液压榨油机型号](/zh/news/technology/how-to-choose-hydraulic-oil-press-model)
 - [预处理设备](/zh/products/pre-treatment)
 - [食用油生产线成本指南](/zh/news/technology/edible-oil-production-line-cost-guide)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

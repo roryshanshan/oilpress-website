@@ -1,9 +1,79 @@
 ---
-title: "Ligne de traitement de pasteurisation en cuve | Équipement de transformation du lait"
-description: "L'équipement comprend un réservoir de déchargement de lait, un filtre, un réservoir de préchauffage, un homogénéisateur, un réservoir de stérilisation, un réservoir de réfrigération, une pompe à lait, une boîte de distribution, une machine de remplissage semi-automatique, une ligne de convoyeur et une machine à film rétractable."
-keywords: "Ligne de traitement de pasteurisation en réservoir, équipement de transformation du lait, équipement de conditionnement de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Ligne de traitement de pasteurisation en cuve prix | fabricant
+description: Demandez le prix et le devis pour Ligne de traitement de pasteurisation en cuve. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Ligne de traitement de pasteurisation en cuve prix, acheter Ligne de traitement de pasteurisation en cuve, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ligne de traitement de pasteurisation en cuve",
+          "description": "Demandez le prix et le devis pour \"Ligne de traitement de pasteurisation en cuve. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "pasteurization-processing-line",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/pasteurization-processing-line",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Ligne de traitement de pasteurisation en cuve",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/pasteurization-processing-line"
+            }
+          ]
+        }
+---
 # Ligne de traitement de pasteurisation en cuve
 
 ![Ligne de traitement de pasteurisation en cuve](/images/filling-products/pasteurization-processing-line.webp)

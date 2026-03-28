@@ -1,9 +1,75 @@
 ---
-title: "ক্যাপ রোলিং/সঙ্কুচিত মেশিন | রাবার ক্যাপ তাপ সঙ্কুচিত মেশিন সিরিজ"
-description: "হিট সঙ্কুচিত মেশিনের এই সিরিজটি প্রধানত পিভিসি হিট সঙ্কুচিত রাবার ক্যাপগুলিতে তাপ সঙ্কুচিত সিলিং সঞ্চালন করে এবং ওয়াইন কর্ক করার পরে ক্যাপগুলি সঙ্কুচিত করার জন্য বিশেষভাবে ব্যবহৃত হয়।"
-keywords: "ক্যাপ রোলিং/সঙ্কুচিত ডুয়াল-পারপাস মেশিন, রাবার ক্যাপ হিট সঙ্কুচিত মেশিন সিরিজ, তরল প্যাকেজিং সরঞ্জাম, ফিলিং এবং প্যাকেজিং সরঞ্জাম, শেংশি হেচেং"
----
+title: ক্যাপ রোলিং/সঙ্কুচিত মেশিন কোটেশন | সম্পূর্ণ সমাধান
+description: ক্যাপ রোলিং/সঙ্কুচিত মেশিন এর কোটেশন নিন—লাইন পরিকল্পনা, যন্ত্রপাতির তালিকা ও সাপোর্টসহ।
+keywords: ক্যাপিং/সঙ্কুচিত মেশিন লাইন দরপত্র, টার্নকি সমাধান, যন্ত্রপাতির তালিকা, কারখানা থেকে ক্রয়, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "ক্যাপিং/সঙ্কুচিত মেশিন",
+          "description": "\"ক্যাপ রোলিং/সঙ্কুচিত মেশিন এর কোটেশন নিন—লাইন পরিকল্পনা, যন্ত্রপাতির তালিকা ও সাপোর্টসহ।",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "serviceType": "সমাধান",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/bn/solutions/cap-shrinking/cap-rolling-shrinking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "সমাধান",
+              "item": "https://hydraulic-oil-press.com/bn/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "ক্যাপিং/সঙ্কুচিত মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/solutions/cap-shrinking/cap-rolling-shrinking-machine"
+            }
+          ]
+        }
+---
 # ক্যাপিং/সঙ্কুচিত মেশিন
 
 ![ক্যাপ রোলিং/সঙ্কুচিত ডুয়াল-পারপাস মেশিন](/images/filling-products/cap-rolling-shrinking-machine.webp)
@@ -65,3 +131,11 @@ keywords: "ক্যাপ রোলিং/সঙ্কুচিত ডুয়
 - [ফিলিং এবং প্যাকেজিং সরঞ্জাম প্যারামিটার লাইব্রেরি](/bn/products/filling-equipment)
 - [ক্যাপ তাপ সঙ্কুচিত মেশিন সিরিজ](/bn/solutions/cap-shrinking/)
 - [সম্পূর্ণ লাইন পরামর্শের জন্য আমাদের সাথে যোগাযোগ করুন](/bn/contact/)
+
+## দাম ও দরপত্র নিন
+
+ক্ষমতা, কাঁচামাল ও বাজেট দিন—আমরা লাইন কনফিগারেশন ও দরপত্র দেব।
+
+- [দাম ও দরপত্র নিন](/bn/contact/)
+
+<!-- quote-cta -->

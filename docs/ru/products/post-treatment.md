@@ -1,9 +1,79 @@
 ---
 title: Оборудование для постобработки масла - Shengshi Hecheng
 description: Оборудование для постобработки масла используется для улучшения качества масла, включая фильтрационное, рафинирующее и упаковочное оборудование
-keywords: оборудование для постобработки масла, оборудование для рафинации масла, фильтрационное оборудование для масла, оборудование для рафинирования масла, упаковочное оборудование для масла, оборудование для переработки масла, постобработка масла, оборудование для очистки масла, масляный фильтр, масляный рафинатор, машина для упаковки масла, оборудование для обработки масла
----
+keywords: Оборудование для постобработки масла цена, купить Оборудование для постобработки масла, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Оборудование для постобработки масла",
+          "description": "Оборудование для постобработки масла используется для улучшения качества масла, включая фильтрационное, рафинирующее и упаковочное оборудование",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "post-treatment",
+          "url": "https://hydraulic-oil-press.com/ru/products/post-treatment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Оборудование для постобработки масла",
+              "item": "https://hydraulic-oil-press.com/ru/products/post-treatment"
+            }
+          ]
+        }
+---
 # Оборудование для постобработки масла
 
 ## Обзор продукта

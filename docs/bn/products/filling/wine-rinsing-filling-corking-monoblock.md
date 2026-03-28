@@ -1,9 +1,79 @@
 ---
-title: "ওয়াইন rinsing, ফিলিং এবং corking মিলিত মেশিন | ওয়াইনমেকিং সরঞ্জাম সিরিজ"
-description: "এই ট্রিপল মেশিনটি মূলত ওয়াইন এবং ফল ওয়াইন ফিলিং এর জন্য ডিজাইন করা হয়েছে। এই সরঞ্জামটি জৈবভাবে একটি ফ্লিপিং রিসার, একটি নেতিবাচক চাপ ফিলিং মেশিন এবং একটি কর্কিং মেশিনকে একত্রিত করে। সরঞ্জামগুলির একটি কম্প্যাক্ট কাঠামো রয়েছে এবং ইনস্টলেশনের স্থান সংরক্ষণ করে।"
-keywords: "ওয়াইন রিন্সিং, ফিলিং এবং কর্কিং কম্বাইন্ড মেশিন, ওয়াইন মেকিং ইকুইপমেন্ট সিরিজ, লিকুইড প্যাকেজিং ইকুইপমেন্ট, ফিলিং এবং প্যাকেজিং ইকুইপমেন্ট, শেংশি হেচেং"
----
+title: ওয়াইন rinsing, ফিলিং এবং corking মিলিত মেশিন দাম | প্রস্তুতকারক
+description: ওয়াইন rinsing, ফিলিং এবং corking মিলিত মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: ওয়াইন রিন্সিং, ফিলিং এবং কর্কিং কম্বাইন্ড মেশিন দাম, ওয়াইন রিন্সিং, ফিলিং এবং কর্কিং কম্বাইন্ড মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "ওয়াইন রিন্সিং, ফিলিং এবং কর্কিং কম্বাইন্ড মেশিন",
+          "description": "\"ওয়াইন rinsing, ফিলিং এবং corking মিলিত মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "wine-rinsing-filling-corking-monoblock",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/wine-rinsing-filling-corking-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "ওয়াইন রিন্সিং, ফিলিং এবং কর্কিং কম্বাইন্ড মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/wine-rinsing-filling-corking-monoblock"
+            }
+          ]
+        }
+---
 # ওয়াইন রিন্সিং, ফিলিং এবং কর্কিং কম্বাইন্ড মেশিন
 
 ![ওয়াইন রিন্সিং, ফিলিং এবং কর্কিং কম্বাইন্ড মেশিন](/images/filling-products/wine-rinsing-filling-corking-monoblock.webp)

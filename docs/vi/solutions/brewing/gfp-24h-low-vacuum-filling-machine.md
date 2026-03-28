@@ -1,9 +1,75 @@
 ---
-title: "Máy chiết rót chân không thấp GFP-24H | Loạt thiết bị sản xuất bia"
-description: "Máy rót chân không thấp GFP-24H là thiết bị rót cố định 24 đầu với công suất sản xuất tham chiếu là 6.000 chai/giờ và tổng công suất 1,85kW. Nó thích hợp để rót rượu, rượu gạo, nước tương, giấm và các chất lỏng dễ tạo bọt khác."
-keywords: "Máy rót chân không thấp GFP-24H, máy rót chân không thấp, loạt thiết bị làm rượu, máy rót rượu, thiết bị rót rượu trái cây, Shengshi Hechen"
----
+title: Máy chiết rót chân không thấp GFP-24H báo giá
+description: Nhận báo giá Máy chiết rót chân không thấp GFP-24H với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+keywords: Máy chiết rót chân không thấp GFP-24H báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Máy chiết rót chân không thấp GFP-24H",
+          "description": "Nhận báo giá \"Máy chiết rót chân không thấp GFP-24H với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "serviceType": "Giải pháp",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/vi/solutions/brewing/gfp-24h-low-vacuum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Giải pháp",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy chiết rót chân không thấp GFP-24H",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/brewing/gfp-24h-low-vacuum-filling-machine"
+            }
+          ]
+        }
+---
 # Máy chiết rót chân không thấp GFP-24H
 
 ![Máy chiết rót chân không thấp GFP-24H](/images/filling-products/gfp-24h-low-vacuum-filling-machine.webp)
@@ -53,3 +119,11 @@ GFP-24H chủ yếu giải quyết nhu cầu cân bằng của các dự án cô
 - [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment#brew-vacuum)
 - [Dòng máy co nhiệt nắp](/vi/solutions/cap-shrinking/)
 - [Liên hệ với chúng tôi để được tư vấn đầy đủ về dòng sản phẩm](/vi/contact/)
+
+## Nhận giá & báo giá
+
+Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
+
+- [Nhận giá & báo giá](/vi/contact/)
+
+<!-- quote-cta -->

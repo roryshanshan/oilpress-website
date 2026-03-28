@@ -2,8 +2,78 @@
 title: 食用油精炼与脱蜡设备 | 精炼线方案概览
 description: 了解食用油精炼与脱蜡设备，涵盖脱胶、脱酸、脱色、脱臭、冬化脱蜡等工艺，以及液压榨油后的整线衔接方案。
 keywords: 食用油精炼设备, 脱蜡设备, 精炼线, 油脂精炼, 冬化脱蜡, 脱胶脱酸脱色脱臭, 食用油后处理设备
----
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "精炼与脱蜡设备",
+          "description": "了解食用油精炼与脱蜡设备，涵盖脱胶、脱酸、脱色、脱臭、冬化脱蜡等工艺，以及液压榨油后的整线衔接方案。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "refining-and-dewaxing-equipment",
+          "url": "https://hydraulic-oil-press.com/zh/products/refining-and-dewaxing-equipment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "精炼与脱蜡设备",
+              "item": "https://hydraulic-oil-press.com/zh/products/refining-and-dewaxing-equipment"
+            }
+          ]
+        }
+---
 # 精炼与脱蜡设备
 
 精炼与脱蜡设备的作用，是把压榨后的毛油进一步升级为更稳定、更洁净、更适合包装销售的成品油。对于做瓶装油、高端营养油、或对颜色与低温清亮度有要求的客户来说，这是非常关键的一类栏目页。

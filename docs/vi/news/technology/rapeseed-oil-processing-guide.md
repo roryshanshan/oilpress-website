@@ -1,6 +1,6 @@
 ---
-title: "Hướng dẫn chế biến dầu hạt cải: Quy trình ép, tỷ lệ thu dầu và cấu hình dây chuyền"
-description: "Tìm hiểu cách chế biến dầu hạt cải bằng máy ép dầu thủy lực, bao gồm quy trình ép nóng, kiểm soát tỷ lệ thu dầu, tiền xử lý và cấu hình thiết bị."
+title: "Hướng dẫn chế biến dầu hạt cải: Quy trình ép, tỷ lệ thu dầu và..."
+description: Tìm hiểu cách chế biến dầu hạt cải bằng máy ép dầu thủy lực, bao gồm quy trình ép nóng, kiểm soát tỷ lệ thu dầu, tiền xử lý và cấu hình thiết bị.
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-09"
 ---

@@ -1,9 +1,75 @@
 ---
-title: "Rinsing, filling and sealing three-in-one machine | CGF30-24-8~CGF60-40-8 combined machine"
-description: "The three-line rinsing, filling and sealing machine covers CGF30-24-8 to CGF60-40-8, with a reference output of 6000-12000 p/h. It is suitable for the integrated packaging line of bottled oil, liquor and seasoning liquid."
-keywords: "Rinsing, filling and sealing triple machine, CGF30-24-8, CGF60-40-8, combined machine, filling and packaging equipment, Shengshi Hecheng"
----
+title: Rinsing, filling and sealing three-in-one machine Quote
+description: Get a quote and turnkey plan for Rinsing, filling and sealing three-in-one machine. Process design, equipment list, and after-sales support.
+keywords: Rinsing, filling and sealing three-in-one machine quote, Rinsing, filling and sealing three-in-one machine price, turnkey solution, production line, procurement
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Rinsing, filling and sealing three-line machine",
+          "description": "Get a quote and turnkey plan for \"Rinsing, filling and sealing three-in-one machine. Process design, equipment list, and after-sales support.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/en/solutions/filling-packages/cgf-three-in-one-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/en/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Rinsing, filling and sealing three-line machine",
+              "item": "https://hydraulic-oil-press.com/en/solutions/filling-packages/cgf-three-in-one-monoblock"
+            }
+          ]
+        }
+---
 # Rinsing, filling and sealing three-line machine
 
 ![Three-in-one rinsing, filling and sealing machine](/images/filling-products/cgf-three-in-one-monoblock.webp)
@@ -49,3 +115,11 @@ The three-line rinsing, filling, and sealing machine is one of the main models i
 - [Filling and packaging equipment parameter library](/en/products/filling-equipment)
 - [Combined machine and filling supporting bus](/en/solutions/filling-packages)
 - [Contact us for complete line advice](/en/contact/)
+
+## Get Price & Quote
+
+Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+
+- [Get Price & Quote](/en/contact/)
+
+<!-- quote-cta -->

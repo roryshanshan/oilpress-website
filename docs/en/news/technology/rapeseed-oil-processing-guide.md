@@ -1,6 +1,6 @@
 ---
-title: "Rapeseed Oil Processing Guide: Pressing Process, Yield, and Line Setup"
-description: "Understand rapeseed oil processing with hydraulic oil press machines, including hot press flow, yield control, pretreatment, and equipment configuration."
+title: "Rapeseed Oil Processing Guide: Pressing Process, Yield, and Li..."
+description: Understand rapeseed oil processing with hydraulic oil press machines, including hot press flow, yield control, pretreatment, and equipment configuration.
 keywords: hydraulic oil press machine, edible oil processing, oil press guide, oil processing line
 date: "2026-03-09"
 ---
@@ -34,4 +34,4 @@ A good rapeseed oil project depends on process matching more than on machine ton
 - [Pre-treatment Equipment](/en/products/pre-treatment)
 - [Cold Press vs Hot Press Guide](/en/news/technology/cold-press-vs-hot-press)
 - [How to Improve Oil Yield](/en/news/technology/improve-oil-yield)
-- [Contact Us](/en/contact/)
+- [Get Price & Quote](/en/contact/)

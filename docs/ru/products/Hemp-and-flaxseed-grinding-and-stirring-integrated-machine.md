@@ -1,9 +1,79 @@
 ---
-title: Интегрированная машина для измельчения и смешивания конопли и
-description: Интегрированная машина для измельчения и смешивания кунжута и рапса подходит для фармацевтической, химической и пищевой промышленности
-keywords: дробилка кунжута, дробилка рапса, интегрированная машина измельчения и смешивания, оборудование для измельчения, оборудование для предварительной обработки масличных семян, оборудование для переработки кунжута, оборудование для переработки рапса, измельчительная машина, смесительная машина, машина для измельчения и смешивания, оборудование для дробления масличных семян, оборудование для измельчения, оборудование для смешивания, дробилка 15 кВт
----
+title: Интегрированная машина для измельчения и смешивания конопли и ...
+description: Запросите цену и подбор Интегрированная машина для измельчения и смешивания конопли и. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Интегрированная машина для измельчения и смешивания конопли и льна цена, купить Интегрированная машина для измельчения и смешивания конопли и льна, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Интегрированная машина для измельчения и смешивания конопли и льна",
+          "description": "Запросите цену и подбор Интегрированная машина для измельчения и смешивания конопли и. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "Hemp-and-flaxseed-grinding-and-stirring-integrated-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Интегрированная машина для измельчения и смешивания конопли и льна",
+              "item": "https://hydraulic-oil-press.com/ru/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine"
+            }
+          ]
+        }
+---
 # Интегрированная машина для измельчения и смешивания конопли и льна
 
 ## Обзор продукта

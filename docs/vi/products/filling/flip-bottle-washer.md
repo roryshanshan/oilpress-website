@@ -1,9 +1,79 @@
 ---
-title: "Máy rửa chai kiểu lật | Dòng máy rửa chai"
-description: "Máy rửa chai dạng lật phù hợp làm mẫu đại diện trong dòng máy rửa chai."
-keywords: "Máy rửa chai dạng lật, dòng máy rửa chai, thiết bị đóng gói chất lỏng, thiết bị chiết rót và đóng gói, Shengshi Hechen"
----
+title: Máy rửa chai kiểu lật giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy rửa chai kiểu lật từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy rửa chai dạng lật, mua Máy rửa chai dạng lật, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy rửa chai dạng lật",
+          "description": "Nhận báo giá và tư vấn mua \"Máy rửa chai kiểu lật từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "flip-bottle-washer",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling/flip-bottle-washer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy rửa chai dạng lật",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling/flip-bottle-washer"
+            }
+          ]
+        }
+---
 # Máy rửa chai dạng lật
 
 ![Flip-bottle-washer](/images/filling-products/flip-bottle-washer.webp)

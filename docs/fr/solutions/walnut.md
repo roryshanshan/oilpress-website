@@ -1,9 +1,75 @@
 ---
-title: Solution de noix (huile de noix) - Shengshi Hecheng
-description: Solutions professionnelles de pressage de noix, fournissant des équipements et services techniques de transformation d'huile de noix, teneur en huile 60-70%
-keywords: Solutions de noix, pressage d'huile de noix, équipement de transformation de noix, ligne de production d'huile de noix, processus de pressage à froid de noix, presse à huile de noix, extraction d'huile de noix, transformation de graines oléagineuses de noix, équipement de pressage d'huile de noix, équipement de production d'huile de noix, huile alimentaire haut de gamme
----
+title: Solution de noix (huile de noix) - Shengshi Hecheng devis | so...
+description: "Demandez un devis pour Solution de noix (huile de noix) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV."
+keywords: Solution de noix (huile de noix) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Solution de noix (huile de noix)",
+          "description": "Demandez un devis pour Solution de noix (huile de noix) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/walnut",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Solution de noix (huile de noix)",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/walnut"
+            }
+          ]
+        }
+---
 # Solution de noix (huile de noix)
 
 ## Aperçu
@@ -125,3 +191,11 @@ If you are interested in walnut pressing solutions, please contact our technical
 - 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable walnut pressing solution.
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

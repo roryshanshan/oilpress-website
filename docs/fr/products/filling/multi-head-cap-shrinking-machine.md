@@ -1,9 +1,79 @@
 ---
-title: "Machine thermorétractable à capuchon en caoutchouc multi-têtes | Série de machines thermorétractables pour capuchons en caoutchouc"
-description: "Cette série de machines thermorétractables effectue principalement un scellage thermorétractable sur des bouchons en caoutchouc thermorétractable en PVC et est spécialement utilisée pour rétrécir les bouchons après le bouchage du vin."
-keywords: "Machine thermorétractable à capuchon en caoutchouc multi-têtes, série de machines thermorétractables à capuchon en caoutchouc, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Machine thermorétractable à capuchon en caoutchouc multi-tête...
+description: Demandez le prix et le devis pour Machine thermorétractable à capuchon en caoutchouc multi-têtes. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Machine thermorétractable à capuchon en caoutchouc multi-têtes prix, acheter Machine thermorétractable à capuchon en caoutchouc multi-têtes, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Machine thermorétractable à capuchon en caoutchouc multi-têtes",
+          "description": "Demandez le prix et le devis pour \"Machine thermorétractable à capuchon en caoutchouc multi-têtes. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "multi-head-cap-shrinking-machine",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/multi-head-cap-shrinking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine thermorétractable à capuchon en caoutchouc multi-têtes",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/multi-head-cap-shrinking-machine"
+            }
+          ]
+        }
+---
 # Machine thermorétractable à capuchon en caoutchouc multi-têtes
 
 ![Machine de rétrécissement de bouchons multi-têtes](/images/filling-products/multi-head-cap-shrinking-machine.webp)

@@ -1,9 +1,75 @@
 ---
-title: Giải pháp đậu phộng (Dầu đậu phộng) | Shengshi Hecheng
-description: Giải pháp ép đậu phộng chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu đậu phộng, tỷ lệ dầu 45-55%
-keywords: giải pháp lạc, ép dầu lạc, thiết bị chế biến lạc, dây chuyền sản xuất dầu lạc, quy trình ép nóng lạc, máy ép lạc, thiết bị chiết xuất dầu lạc, nhà máy chế biến dầu lạc
----
+title: Giải pháp đậu phộng (Dầu đậu phộng) báo giá | giải pháp trọn gói
+description: Nhận báo giá Giải pháp đậu phộng (Dầu đậu phộng) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+keywords: Giải pháp đậu phộng (Dầu đậu phộng) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Giải pháp đậu phộng (Dầu đậu phộng)",
+          "description": "Nhận báo giá Giải pháp đậu phộng (Dầu đậu phộng) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "serviceType": "Giải pháp",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/vi/solutions/peanut",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Giải pháp",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Giải pháp đậu phộng (Dầu đậu phộng)",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/peanut"
+            }
+          ]
+        }
+---
 # Giải pháp đậu phộng (Dầu đậu phộng)
 ![300系列榨油机](/images/300-325-series.webp)
 
@@ -256,3 +322,11 @@ seo:
   description: Cung cấp高效环保的花生Máy ép dầu thủy lực，Tỷ lệ sản lượng高达55%，无化学添加，适合多种油料Ép，支持小型作坊及大型工厂需求。
   keywords: máy ép dầu lạc thủy lực, thiết bị ép dầu lạc, dây chuyền sản xuất dầu lạc hiệu quả, ép nóng lạc, ép vật lý thuần túy, công nghệ chế biến dầu lạc, Shengshi Hecheng Machinery
 ```
+
+## Nhận giá & báo giá
+
+Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
+
+- [Nhận giá & báo giá](/vi/contact/)
+
+<!-- quote-cta -->

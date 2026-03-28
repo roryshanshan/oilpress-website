@@ -1,9 +1,79 @@
 ---
-title: "Petite machine de pressage d'huile de sésame | Presse hydraulique type coréen pour boutique"
-description: "Petite machine de pressage d'huile de sésame basée sur la conception hydraulique de type coréen, idéale pour les boutiques d'huile de sésame, les magasins bio et les petites productions commerciales, de 10KG à 20KG."
-keywords: petite machine de pressage d'huile de sésame, presse à sésame type coréen, machine pour boutique de sésame, KHOP-10KG, KHOP-15KG, KHOP-20KG, petite presse hydraulique
----
+title: Petite machine de pressage d'huile de sésame prix | fabricant
+description: Demandez le prix et le devis pour Petite machine de pressage d'huile de sésame. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Petite machine de pressage d'huile de sésame prix, acheter Petite machine de pressage d'huile de sésame, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Petite machine de pressage d'huile de sésame",
+          "description": "Demandez le prix et le devis pour \"Petite machine de pressage d'huile de sésame. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "small-sesame-oil-press-machine",
+          "url": "https://hydraulic-oil-press.com/fr/products/small-sesame-oil-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Petite machine de pressage d'huile de sésame",
+              "item": "https://hydraulic-oil-press.com/fr/products/small-sesame-oil-press-machine"
+            }
+          ]
+        }
+---
 # Petite machine de pressage d'huile de sésame
 
 ![Petite machine de pressage d'huile de sésame](/images/korean-type-small-press/small-sesame-hero.jpg)

@@ -1,6 +1,6 @@
 ---
-title: "Guide de dépannage de la presse à huile hydraulique : problèmes courants et contrôles pratiques"
-description: "Résolvez les problèmes courants d'une presse à huile hydraulique, comme un faible rendement, une pression instable, un tourteau humide, des fuites ou une surchauffe, grâce à des vérifications concrètes."
+title: "Guide de dépannage de la presse à huile hydraulique : problème..."
+description: Résolvez les problèmes courants d'une presse à huile hydraulique, comme un faible rendement, une pression instable, un tourteau humide
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-19"
 ---

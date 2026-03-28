@@ -1,9 +1,75 @@
 ---
-title: Sesame (Sesame Oil) Solutions - Shengshi Hecheng
-description: Professional sesame pressing solutions, providing sesame oil processing equipment and technical services, oil content 50-60%
-keywords: Sesame (Sesame Oil) Solutions, oil processing solutions, oil press machine, oilseed processing equipment, oil extraction process, oil processing line price, oil processing line quotation, hot press oil, Sesame solutions, Sesame oil pressing
----
+title: Sesame (Sesame Oil) Solutions - Shengshi Hecheng Quote | Turnk...
+description: Get a quote and turnkey plan for Sesame (Sesame Oil) Solutions - Shengshi Hecheng. Process design, equipment list, and after-sales support.
+keywords: Sesame (Sesame Oil) Solutions - Shengshi Hecheng quote, Sesame (Sesame Oil) Solutions - Shengshi Hecheng price, turnkey solution, production line, procurement
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Sesame (Sesame Oil) Solutions",
+          "description": "Get a quote and turnkey plan for Sesame (Sesame Oil) Solutions - Shengshi Hecheng. Process design, equipment list, and after-sales support.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/en/solutions/sesame",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/en/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Sesame (Sesame Oil) Solutions",
+              "item": "https://hydraulic-oil-press.com/en/solutions/sesame"
+            }
+          ]
+        }
+---
 # Sesame (Sesame Oil) Solutions
 
 ## Overview
@@ -151,3 +217,11 @@ We provide free technical consultation, sample testing, and on-site inspection s
 - [300 Series Hydraulic Oil Press](/en/products/300)
 - [Contact Technical Team](/en/contact/)
 - [中文页面](/zh/solutions/sesame)
+
+## Get Price & Quote
+
+Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+
+- [Get Price & Quote](/en/contact/)
+
+<!-- quote-cta -->

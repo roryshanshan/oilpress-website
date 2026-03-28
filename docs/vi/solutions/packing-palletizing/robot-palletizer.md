@@ -1,9 +1,75 @@
 ---
-title: "Robot xếp hàng | Đóng gói, xếp hàng"
-description: "Máy này phù hợp để đóng gói và xếp pallet các sản phẩm thành phẩm có hình dạng đa dạng như thùng, túi, lon, hộp, chai,… trong các công ty sản xuất hóa chất, đồ uống, thực phẩm, rượu."
-keywords: "Robot xếp hàng, đóng gói và xếp hàng, thiết bị đóng gói chất lỏng, thiết bị chiết rót và đóng gói, Shengshi Hechen"
----
+title: Robot xếp hàng báo giá | giải pháp trọn gói
+description: Nhận báo giá Robot xếp hàng với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+keywords: Robot xếp hàng báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Robot xếp hàng",
+          "description": "Nhận báo giá \"Robot xếp hàng với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "serviceType": "Giải pháp",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/vi/solutions/packing-palletizing/robot-palletizer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Giải pháp",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Robot xếp hàng",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/packing-palletizing/robot-palletizer"
+            }
+          ]
+        }
+---
 # Robot xếp hàng
 
 ![Robot xếp hàng](/images/filling-products/robot-palletizer.webp)
@@ -35,3 +101,11 @@ Máy này phù hợp để đóng gói và xếp pallet các sản phẩm thành
 - [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
 - [Đóng gói, xếp pallet](/vi/solutions/packing-palletizing/)
 - [Liên hệ với chúng tôi để được tư vấn đầy đủ về dòng sản phẩm](/vi/contact/)
+
+## Nhận giá & báo giá
+
+Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
+
+- [Nhận giá & báo giá](/vi/contact/)
+
+<!-- quote-cta -->

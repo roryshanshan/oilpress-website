@@ -1,6 +1,6 @@
 ---
-title: "压榨后如何过滤与包装食用油：更实用的后处理指南"
-description: "从沉降、过滤、储油到灌装、封口和贴标，系统了解压榨后食用油的后处理与包装流程。"
+title: 压榨后如何过滤与包装食用油：更实用的后处理指南
+description: 从沉降、过滤、储油到灌装、封口和贴标，系统了解压榨后食用油的后处理与包装流程。
 keywords: 食用油过滤, 食用油包装, 榨油后处理, 灌装封口贴标
 date: "2026-03-12"
 ---
@@ -42,4 +42,4 @@ date: "2026-03-12"
 - [气动过滤机](/zh/products/pneumatic-filter-press)
 - [灌装方案](/zh/solutions/filling/)
 - [贴标方案](/zh/solutions/labeling/)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

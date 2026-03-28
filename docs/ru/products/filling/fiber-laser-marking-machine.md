@@ -1,9 +1,79 @@
 ---
-title: "Волоконный лазерный маркиратор | Серия машин для лазерного кодирования"
-description: "Волоконный лазерный маркиратор — это система лазерной маркировки нового поколения, разработанная нашей компанией с использованием передовых лазерных технологий. Он использует волоконный лазер для вывода лазера, а затем использует высокоскоростную систему сканирующего гальванометра для выполнения функции маркировки."
-keywords: "Маркировочная машина с волоконным лазером, серия машин для лазерной кодировки, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Волоконный лазерный маркиратор цена | производитель
+description: Запросите цену и подбор Волоконный лазерный маркиратор. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Волоконно-лазерная маркировочная машина цена, купить Волоконно-лазерная маркировочная машина, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Волоконно-лазерная маркировочная машина",
+          "description": "Запросите цену и подбор \"Волоконный лазерный маркиратор. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "fiber-laser-marking-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/fiber-laser-marking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Волоконно-лазерная маркировочная машина",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/fiber-laser-marking-machine"
+            }
+          ]
+        }
+---
 # Волоконно-лазерная маркировочная машина
 
 ![Машина для маркировки волоконным лазером](/images/filling-products/fiber-laser-marking-machine.webp)

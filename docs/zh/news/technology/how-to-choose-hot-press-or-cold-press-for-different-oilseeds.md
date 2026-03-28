@@ -1,6 +1,6 @@
 ---
-title: "不同油料该选热榨还是冷榨？实用选型指南"
-description: "对比芝麻、花生、茶籽、核桃、亚麻籽、南瓜籽等油料，更清楚地判断它们更适合热榨还是冷榨。"
+title: 不同油料该选热榨还是冷榨？实用选型指南
+description: 对比芝麻、花生、茶籽、核桃、亚麻籽、南瓜籽等油料，更清楚地判断它们更适合热榨还是冷榨。
 keywords: 液压榨油机, 食用油生产线, 榨油工艺, 油料加工
 date: "2026-03-03"
 ---
@@ -34,4 +34,4 @@ date: "2026-03-03"
 - [液压榨油机适合压榨哪些油料](/zh/news/technology/best-oilseeds-for-hydraulic-oil-press-machines)
 - [芝麻油生产线配置指南](/zh/news/technology/sesame-oil-production-line-guide)
 - [亚麻籽油冷榨工艺指南](/zh/news/technology/flaxseed-oil-cold-press-guide)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

@@ -1,9 +1,79 @@
 ---
-title: "Dòng máy chiết rót thông minh | Thiết bị rót chất lỏng đóng chai 12-36 đầu"
-description: "Dòng máy rót thông minh bao gồm 12-36 cấu hình đầu, với tốc độ tham chiếu 4000-13000 chai/giờ và độ chính xác 500±1 ml. Chúng thích hợp cho dây chuyền bán lẻ dầu đóng chai và dây chuyền tự động đóng chai đa tiêu chuẩn."
-keywords: "Dòng máy chiết rót thông minh, máy chiết rót 12 đầu, máy chiết rót 36 đầu, máy chiết rót áp suất thông thường, dòng máy chiết rót, Shengshi Hechen"
----
+title: Dòng máy chiết rót thông minh giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Dòng máy chiết rót thông minh từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Dòng máy chiết rót thông minh, mua Dòng máy chiết rót thông minh, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Dòng máy chiết rót thông minh",
+          "description": "Nhận báo giá và tư vấn mua \"Dòng máy chiết rót thông minh từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "smart-filling-machine",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling/smart-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Dòng máy chiết rót thông minh",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling/smart-filling-machine"
+            }
+          ]
+        }
+---
 # Dòng máy chiết rót thông minh
 
 ![Dòng máy chiết rót thông minh](/images/filling-products/smart-filling-machine.webp)

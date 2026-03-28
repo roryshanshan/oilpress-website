@@ -1,9 +1,79 @@
 ---
-title: "Machine de remplissage sous vide faible GFP-36H | Série d'équipements de brassage"
-description: "La machine de remplissage sous vide faible GFP-36H est un équipement de remplissage à niveau fixe à 36 têtes avec une capacité de production de référence de 10 000 bouteilles/heure et une puissance totale de 3 kW. Il convient pour remplir du vin, du vin de riz, de la sauce soja, du vinaigre et d'autres liquides facilement moussants."
-keywords: "Machine de remplissage sous vide GFP-36H, machine de remplissage sous vide faible, série d'équipements de vinification, équipement de remplissage de vin, ligne de remplissage de vin de riz, Shengshi Hecheng"
----
+title: Machine de remplissage sous vide faible GFP-36H prix | fabricant
+description: Demandez le prix et le devis pour Machine de remplissage sous vide faible GFP-36H. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Machine de remplissage sous vide faible GFP-36H prix, acheter Machine de remplissage sous vide faible GFP-36H, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Machine de remplissage sous vide faible GFP-36H",
+          "description": "Demandez le prix et le devis pour \"Machine de remplissage sous vide faible GFP-36H. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "gfp-36h-low-vacuum-filling-machine",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/gfp-36h-low-vacuum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine de remplissage sous vide faible GFP-36H",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/gfp-36h-low-vacuum-filling-machine"
+            }
+          ]
+        }
+---
 # Machine de remplissage sous vide faible GFP-36H
 
 ![Machine de remplissage sous vide faible GFP-36H](/images/filling-products/gfp-36h-low-vacuum-filling-machine.webp)

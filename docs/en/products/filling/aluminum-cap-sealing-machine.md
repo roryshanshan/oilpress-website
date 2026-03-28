@@ -1,9 +1,79 @@
 ---
-title: "Aluminum cap sealing machine | Sealing machine series"
-description: "The aluminum cap sealing machine is suitable as a representative model in the sealing machine series."
-keywords: "Aluminum cap sealing machine, sealing machine series, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: Aluminum cap sealing machine Price | Manufacturer & Quote
+description: Get price, procurement, and after-sales support for Aluminum cap sealing machine from Shengshi Hecheng manufacturer.
+keywords: Aluminum cap sealing machine price, Aluminum cap sealing machine quote, Aluminum cap sealing machine manufacturer, Aluminum cap sealing machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Aluminum cap sealing machine",
+          "description": "Get price, procurement, and after-sales support for \"Aluminum cap sealing machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "aluminum-cap-sealing-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/aluminum-cap-sealing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Aluminum cap sealing machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/aluminum-cap-sealing-machine"
+            }
+          ]
+        }
+---
 # Aluminum cap sealing machine
 
 ![Aluminum cap sealing machine](/images/filling-products/aluminum-cap-sealing-machine.webp)

@@ -1,6 +1,6 @@
 ---
-title: "南瓜籽油冷榨工艺指南：高附加值油品流程与设备"
-description: "了解南瓜籽油项目在低温压榨、设备选型、精滤和保护性包装上的关键工艺控制点。"
+title: 南瓜籽油冷榨工艺指南：高附加值油品流程与设备
+description: 了解南瓜籽油项目在低温压榨、设备选型、精滤和保护性包装上的关键工艺控制点。
 keywords: 液压榨油机, 食用油生产线, 榨油工艺, 油料加工
 date: "2026-03-08"
 ---
@@ -34,4 +34,4 @@ date: "2026-03-08"
 - [液压榨油机适合压榨哪些油料](/zh/news/technology/best-oilseeds-for-hydraulic-oil-press-machines)
 - [不同油料该选热榨还是冷榨？实用选型指南](/zh/news/technology/how-to-choose-hot-press-or-cold-press-for-different-oilseeds)
 - [如何选择液压榨油机型号](/zh/news/technology/how-to-choose-hydraulic-oil-press-model)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

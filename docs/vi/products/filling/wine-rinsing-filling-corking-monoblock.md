@@ -1,9 +1,79 @@
 ---
-title: "Máy kết hợp rửa, chiết rót và đóng nút chai | Dòng thiết bị sản xuất rượu vang"
-description: "Máy ba này được thiết kế chủ yếu để rót rượu vang và rượu trái cây. Thiết bị này kết hợp một cách hữu cơ máy tráng lật, máy rót áp suất âm và máy đóng nút chai thành một. Thiết bị có kết cấu nhỏ gọn, tiết kiệm không gian lắp đặt."
-keywords: "Máy kết hợp rửa, chiết rót và đóng nút chai rượu vang, loạt thiết bị sản xuất rượu vang, thiết bị đóng gói chất lỏng, thiết bị chiết rót và đóng gói, Shengshi Hechen"
----
+title: Máy kết hợp rửa, chiết rót và đóng nút chai giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy kết hợp rửa, chiết rót và đóng nút chai từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy kết hợp rửa, chiết rót và đóng nút chai rượu, mua Máy kết hợp rửa, chiết rót và đóng nút chai rượu, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy kết hợp rửa, chiết rót và đóng nút chai rượu",
+          "description": "Nhận báo giá và tư vấn mua \"Máy kết hợp rửa, chiết rót và đóng nút chai từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "wine-rinsing-filling-corking-monoblock",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling/wine-rinsing-filling-corking-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy kết hợp rửa, chiết rót và đóng nút chai rượu",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling/wine-rinsing-filling-corking-monoblock"
+            }
+          ]
+        }
+---
 # Máy kết hợp rửa, chiết rót và đóng nút chai rượu
 
 ![Máy kết hợp súc rửa, chiết rót và đóng nút chai](/images/filling-products/wine-rinsing-filling-corking-monoblock.webp)

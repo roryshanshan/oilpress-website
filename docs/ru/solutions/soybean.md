@@ -1,9 +1,75 @@
 ---
-title: Решения для соевых бобов (Соевое масло) - Shengshi Hecheng
-description: Shandong Shengshi Hecheng предоставляет профессиональные решения для отжима соевых бобов
-keywords: Решения для соевых бобов, Отжим соевого масла, Оборудование для переработки соевых бобов, Линия производства соевого масла, Процесс холодного отжима соевых бобов, Процесс горячего отжима соевых бобов, Пресс для соевого масла, Переработка соевого жмыха, Экстракция соевого масла, Переработка масличных семян сои, Оборудование для отжима, Оборудование для рафинирования соевого масла, Завод по переработке соевого масла, Технология отжима сои, Оборудование для производства соевого масла
----
+title: Решения для соевых бобов (Соевое масло) - Shengshi Hecheng цен...
+description: "Запросите стоимость решения Решения для соевых бобов (Соевое масло) - Shengshi Hecheng: проект линии, список оборудования и сервис."
+keywords: Решения для соевых бобов (Соевое масло) цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Решения для соевых бобов (Соевое масло)",
+          "description": "Запросите стоимость решения Решения для соевых бобов (Соевое масло) - Shengshi Hecheng: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/soybean",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Решения для соевых бобов (Соевое масло)",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/soybean"
+            }
+          ]
+        }
+---
 # Решения для соевых бобов (Соевое масло)
 
 ## Обзор
@@ -135,3 +201,11 @@ keywords: Решения для соевых бобов, Отжим соевог
 - 📍 **Адрес**: № 5888, Улица Иньнэн, Зона развития, Город Цинчжоу, Провинция Шаньдун, Китай
 
 Мы предоставляем бесплатные технические консультации, тестирование образцов и услуги выездной инспекции, чтобы предоставить вам наиболее подходящие решения для отжима соевых бобов.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

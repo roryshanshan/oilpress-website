@@ -1,9 +1,79 @@
 ---
-title: "সম্পূর্ণ স্বয়ংক্রিয় বায়ুসংক্রান্ত ক্যাপিং মেশিন | সিলিং মেশিন সিরিজ"
-description: "এই মেশিনটি টুইস্ট-অফ অ্যালুমিনিয়াম অ্যান্টি-থেফট ক্যাপ দিয়ে সিল করা বোতলগুলির জন্য উপযুক্ত।"
-keywords: "সম্পূর্ণ স্বয়ংক্রিয় বায়ুসংক্রান্ত ক্যাপিং মেশিন, সিলিং মেশিন সিরিজ, তরল প্যাকেজিং সরঞ্জাম, ফিলিং এবং প্যাকেজিং সরঞ্জাম, শেংশি হেচেং"
----
+title: সম্পূর্ণ স্বয়ংক্রিয় বায়ুসংক্রান্ত ক্যাপিং মেশিন দাম
+description: সম্পূর্ণ স্বয়ংক্রিয় বায়ুসংক্রান্ত ক্যাপিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: সম্পূর্ণ স্বয়ংক্রিয় বায়ুসংক্রান্ত ক্যাপিং মেশিন দাম, সম্পূর্ণ স্বয়ংক্রিয় বায়ুসংক্রান্ত ক্যাপিং মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "সম্পূর্ণ স্বয়ংক্রিয় বায়ুসংক্রান্ত ক্যাপিং মেশিন",
+          "description": "\"সম্পূর্ণ স্বয়ংক্রিয় বায়ুসংক্রান্ত ক্যাপিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "pneumatic-capping-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/pneumatic-capping-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "সম্পূর্ণ স্বয়ংক্রিয় বায়ুসংক্রান্ত ক্যাপিং মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/pneumatic-capping-machine"
+            }
+          ]
+        }
+---
 # সম্পূর্ণ স্বয়ংক্রিয় বায়ুসংক্রান্ত ক্যাপিং মেশিন
 
 ![সম্পূর্ণ স্বয়ংক্রিয় বায়ুসংক্রান্ত ক্যাপিং মেশিন](/images/filling-products/pneumatic-capping-machine.webp)

@@ -1,9 +1,75 @@
 ---
-title: Solution d'avocat (huile d'avocat) - Shengshi Hecheng
-description: Solutions professionnelles de pressage d'avocat, fournissant équipement de transformation d'huile d'avocat et services techniques, teneur en huile 15-25%
-keywords: Solutions d'avocat, pressage d'huile d'avocat, équipement de transformation d'avocat, ligne de production d'huile d'avocat, procédé de pressage d'avocat, presse à huile d'avocat, extraction d'huile d'avocat, transformation de graines d'avocat, équipement de pressage d'huile d'avocat, équipement de production d'huile d'avocat
----
+title: Solution d'avocat (huile d'avocat) - Shengshi Hecheng devis | ...
+description: "Demandez un devis pour Solution d'avocat (huile d'avocat) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV."
+keywords: Solution d'avocat (huile d'avocat) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Solution d'avocat (huile d'avocat)",
+          "description": "Demandez un devis pour Solution d'avocat (huile d'avocat) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/avocado",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Solution d'avocat (huile d'avocat)",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/avocado"
+            }
+          ]
+        }
+---
 # Solution d'avocat (huile d'avocat)
 
 ## Aperçu
@@ -99,3 +165,11 @@ Si vous êtes intéressé par les solutions de pressage d'avocat, veuillez conta
 - 📍 **Adresse** : N° 5888, rue Yineng, zone de développement, ville de Qingzhou, ville de Weifang, province du Shandong
 
 Nous fournissons des services de consultation technique gratuite, de test d'échantillons et d'inspection sur site pour vous offrir la solution de pressage d'avocat la plus adaptée.
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

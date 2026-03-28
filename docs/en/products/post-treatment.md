@@ -2,8 +2,78 @@
 title: Oil Post-treatment Equipment - Shengshi Hecheng
 description: Oil post-treatment equipment is used to improve oil quality, including filtration equipment, refining equipment, packaging equipment
 keywords: Oil Post-treatment Equipment, oil press machine, oil press price, oil press quotation, oil press supplier, oil processing equipment, supporting equipment, after-sales service, oilseed processing equipment, Oil refining equipment
----
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Oil Post-treatment Equipment",
+          "description": "Oil post-treatment equipment is used to improve oil quality, including filtration equipment, refining equipment, packaging equipment",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "post-treatment",
+          "url": "https://hydraulic-oil-press.com/en/products/post-treatment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Oil Post-treatment Equipment",
+              "item": "https://hydraulic-oil-press.com/en/products/post-treatment"
+            }
+          ]
+        }
+---
 # Oil Post-treatment Equipment
 
 ## Product Overview

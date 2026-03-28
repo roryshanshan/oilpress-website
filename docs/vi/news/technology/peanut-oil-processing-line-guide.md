@@ -1,6 +1,6 @@
 ---
-title: "Hướng dẫn dây chuyền sản xuất dầu lạc: Ép nóng, ép lạnh và cấu hình dây chuyền"
-description: "So sánh ép nóng và ép lạnh dầu lạc, tìm hiểu thiết bị quan trọng nhất và cách cấu hình một dây chuyền dầu lạc phù hợp."
+title: "Hướng dẫn dây chuyền sản xuất dầu lạc: Ép nóng, ép lạnh và cấu..."
+description: So sánh ép nóng và ép lạnh dầu lạc, tìm hiểu thiết bị quan trọng nhất và cách cấu hình một dây chuyền dầu lạc phù hợp.
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-16"
 ---

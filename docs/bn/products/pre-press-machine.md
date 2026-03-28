@@ -1,9 +1,79 @@
 ---
-title: প্রি-প্রেস মেশিন - শানডং শেংশি হেচেং মেশিনারি কোং লিমিটেড
-description: প্রি-প্রেস মেশিন স্ক্রু ক্রাশিং প্রিন্সিপল ব্যবহার করে, উচ্চ দক্ষতা এবং স্ট্যাবল রানিংয়ের জন্য ডিজাইন করা, নয়েজ কম, ওয়ারেবল পার্টস মেইনটেন্যান্স খরচ কম
-keywords: প্রি-প্রেস মেশিন, স্ক্রু ক্রাশিং মেশিন, অয়েল প্রি-প্রেস মেশিন, প্রি-প্রেসিং সরঞ্জাম, অয়েল ক্রাশিং মেশিন, প্রি-প্রেস সরঞ্জাম, স্ক্রু প্রেসিং মেশিন, অয়েল প্রি-প্রসেসিং সরঞ্জাম, ক্রাশিং মেশিন, প্রি-প্রেস মেশিন, অয়েল প্রেসিং প্রি-প্রসেসিং, প্রি-প্রেস মেশিনারি
----
+title: প্রি-প্রেস মেশিন - শানডং শেংশি হেচেং মেশিনারি কোং লিমিটেড দাম
+description: প্রি-প্রেস মেশিন - শানডং শেংশি হেচেং মেশিনারি কোং লিমিটেড এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: প্রি-প্রেস মেশিন দাম, প্রি-প্রেস মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "প্রি-প্রেস মেশিন",
+          "description": "প্রি-প্রেস মেশিন - শানডং শেংশি হেচেং মেশিনারি কোং লিমিটেড এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "pre-press-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/pre-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "প্রি-প্রেস মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/pre-press-machine"
+            }
+          ]
+        }
+---
 # প্রি-প্রেস মেশিন
 
 ![](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)

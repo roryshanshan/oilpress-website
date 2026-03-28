@@ -1,9 +1,79 @@
 ---
-title: "Fully automatic pneumatic capping machine | sealing machine series"
-description: "This machine is suitable for bottles sealed with twist-off aluminum anti-theft caps."
-keywords: "Fully automatic pneumatic capping machine, sealing machine series, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: Fully automatic pneumatic capping machine Price
+description: Get price, procurement, and after-sales support for Fully automatic pneumatic capping machine from Shengshi Hecheng manufacturer.
+keywords: Fully automatic pneumatic capping machine price, Fully automatic pneumatic capping machine quote, Fully automatic pneumatic capping machine manufacturer, Fully automatic pneumatic capping machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Fully automatic pneumatic capping machine",
+          "description": "Get price, procurement, and after-sales support for \"Fully automatic pneumatic capping machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "pneumatic-capping-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/pneumatic-capping-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Fully automatic pneumatic capping machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/pneumatic-capping-machine"
+            }
+          ]
+        }
+---
 # Fully automatic pneumatic capping machine
 
 ![Fully automatic pneumatic capping machine](/images/filling-products/pneumatic-capping-machine.webp)

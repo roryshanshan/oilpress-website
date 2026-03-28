@@ -1,7 +1,7 @@
 ---
-title: "Thiết bị sơ chế rau quả"
-description: "Thiết bị sơ chế rau quả thích hợp để làm sạch, phân loại, loại bỏ tạp chất, nghiền, đập và các quy trình khác, đồng thời có thể phục vụ quá trình sơ chế đồ uống rau quả, nước sốt và một số dự án dầu trái cây."
-keywords: "Thiết bị sơ chế rau quả, thiết bị làm sạch và phân loại rau quả, thiết bị nghiền và đập, dây chuyền sơ chế rau quả, chế biến nguyên liệu trái cây, thiết bị đầu cuối đồ uống"
+title: Thiết bị sơ chế rau quả
+description: Thiết bị sơ chế rau quả thích hợp để làm sạch, phân loại, loại bỏ tạp chất, nghiền, đập và các quy trình khác
+keywords: Thiết bị sơ chế rau quả, thiết bị làm sạch và phân loại rau quả, thiết bị nghiền và đập, dây chuyền sơ chế rau quả, chế biến nguyên liệu trái cây, thiết bị đầu cuối đồ uống
 ---
 
 # Thiết bị sơ chế rau quả

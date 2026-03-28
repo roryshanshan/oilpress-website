@@ -1,9 +1,79 @@
 ---
 title: Équipements de post-traitement d'huile - Shengshi Hecheng
 description: Les équipements de post-traitement d'huile sont utilisés pour améliorer la qualité de l'huile, incluant les équipements de filtration, de raffinage, d'emballage
-keywords: Équipements de post-traitement d'huile, Équipements de raffinage d'huile, Équipements de filtration d'huile, Équipements de raffinage d'huile, Équipements d'emballage d'huile, Équipements de traitement d'huile, Post-traitement d'huile, Équipements de purification d'huile, Filtre à huile, Rafineur d'huile, Machine d'emballage d'huile, Équipements de traitement d'huile
----
+keywords: Équipements de post-traitement d'huile prix, acheter Équipements de post-traitement d'huile, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Équipements de post-traitement d'huile",
+          "description": "Les équipements de post-traitement d'huile sont utilisés pour améliorer la qualité de l'huile, incluant les équipements de filtration, de raffinage, d'emballage",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "post-treatment",
+          "url": "https://hydraulic-oil-press.com/fr/products/post-treatment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Équipements de post-traitement d'huile",
+              "item": "https://hydraulic-oil-press.com/fr/products/post-treatment"
+            }
+          ]
+        }
+---
 # Équipements de post-traitement d'huile
 
 ## Aperçu du produit

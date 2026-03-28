@@ -1,6 +1,6 @@
 ---
-title: "Pumpkin Seed Oil Cold Press Guide: Premium Oil Process and Equipment"
-description: "Learn how to produce premium pumpkin seed oil with hydraulic cold pressing, including material preparation, machine selection, filtration, and quality control."
+title: "Pumpkin Seed Oil Cold Press Guide: Premium Oil Process and Equ..."
+description: Learn how to produce premium pumpkin seed oil with hydraulic cold pressing, including material preparation, machine selection, filtration, and quality control.
 keywords: hydraulic oil press machine, edible oil processing, oil press guide, oil processing line
 date: "2026-03-08"
 ---
@@ -34,4 +34,4 @@ Pumpkin seed oil projects work best when every step supports premium quality. Go
 - [Best Oilseeds for Hydraulic Oil Press Machines](/en/news/technology/best-oilseeds-for-hydraulic-oil-press-machines)
 - [How to Choose Hot Press or Cold Press for Different Oilseeds](/en/news/technology/how-to-choose-hot-press-or-cold-press-for-different-oilseeds)
 - [How to Choose a Hydraulic Oil Press Model](/en/news/technology/how-to-choose-hydraulic-oil-press-model)
-- [Contact Us](/en/contact/)
+- [Get Price & Quote](/en/contact/)

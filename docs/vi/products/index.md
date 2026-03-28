@@ -1,7 +1,7 @@
 ---
-title: Dòng sản phẩm | Series 300-500 và model cửa hàng cỡ nhỏ
-description: So sánh máy ép dầu thủy lực dòng 300 đến 500, máy thủy lực cỡ nhỏ kiểu Hàn Quốc, thiết bị lọc, tinh luyện và chiết rót cho các dự án từ cửa hàng đến nhà máy.
-keywords: máy ép dầu thủy lực, dòng 300-500, máy ép nhỏ kiểu Hàn Quốc, máy ép dầu mè cho cửa hàng, thiết bị lọc dầu, thiết bị tinh luyện, thiết bị chiết rót
+title: Giá máy ép dầu | Mẫu mã & báo giá nhà máy
+description: Dòng 300-500 và thiết bị phụ trợ, giá nhà máy và hỗ trợ mua hàng nhanh.
+keywords: giá máy ép dầu, mẫu 300 325 355 400 426 480 500, báo giá, mua hàng
 ---
 # Dòng sản phẩm
 

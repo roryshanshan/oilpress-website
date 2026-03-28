@@ -1,6 +1,6 @@
 ---
-title: "Hướng dẫn ROI máy ép dầu thủy lực: Cách ước tính hoàn vốn và lợi nhuận"
-description: "Tìm hiểu cách ước tính ROI của máy ép dầu thủy lực bằng cách xem xét giá bán sản phẩm, sản lượng theo mẻ, nhân công, lọc dầu, đóng gói và thời gian hoàn vốn."
+title: "Hướng dẫn ROI máy ép dầu thủy lực: Cách ước tính hoàn vốn và l..."
+description: Tìm hiểu cách ước tính ROI của máy ép dầu thủy lực bằng cách xem xét giá bán sản phẩm, sản lượng theo mẻ, nhân công, lọc dầu, đóng gói và thời gian hoàn vốn.
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-06"
 ---

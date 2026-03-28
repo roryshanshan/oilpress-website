@@ -1,7 +1,78 @@
 ---
-title: Machine intégrée de broyage et mélange de graines de chanvre et
-description: Cette machine est largement utilisée dans les industries pharmaceutique, chimique, alimentaire, industrielle et agricole.
-keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
+title: Machine intégrée de broyage et mélange de graines de chanvre e...
+description: Demandez le prix et le devis pour Machine intégrée de broyage et mélange de graines de chanvre et. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Machine intégrée de broyage et mélange de graines de chanvre et de lin prix, acheter Machine intégrée de broyage et mélange de graines de chanvre et de lin, devis usine, fabricant chinois, exportation, service après-vente
+
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Machine intégrée de broyage et mélange de graines de chanvre et de lin",
+          "description": "Demandez le prix et le devis pour Machine intégrée de broyage et mélange de graines de chanvre et. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "Hemp-and-flaxseed-grinding-and-stirring-integrated-machine",
+          "url": "https://hydraulic-oil-press.com/fr/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine intégrée de broyage et mélange de graines de chanvre et de lin",
+              "item": "https://hydraulic-oil-press.com/fr/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine"
+            }
+          ]
+        }
 ---
 # Machine intégrée de broyage et mélange de graines de chanvre et de lin
 

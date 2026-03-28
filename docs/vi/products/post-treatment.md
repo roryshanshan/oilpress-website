@@ -1,9 +1,79 @@
 ---
 title: Thiết bị xử lý sau dầu - Shengshi Hecheng
 description: Thiết bị xử lý sau dầu được sử dụng để nâng cao chất lượng dầu, bao gồm thiết bị lọc, thiết bị tinh luyện, thiết bị đóng gói
-keywords: thiết bị xử lý sau dầu, thiết bị tinh luyện mỡ, thiết bị lọc dầu, thiết bị tinh luyện dầu, thiết bị đóng gói dầu, thiết bị chế biến dầu, xử lý sau mỡ, thiết bị cô đặc dầu, máy lọc mỡ, máy tinh luyện mỡ, máy đóng gói dầu, thiết bị chế biến mỡ
----
+keywords: giá Thiết bị xử lý sau dầu, mua Thiết bị xử lý sau dầu, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Thiết bị xử lý sau dầu",
+          "description": "Thiết bị xử lý sau dầu được sử dụng để nâng cao chất lượng dầu, bao gồm thiết bị lọc, thiết bị tinh luyện, thiết bị đóng gói",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "post-treatment",
+          "url": "https://hydraulic-oil-press.com/vi/products/post-treatment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Thiết bị xử lý sau dầu",
+              "item": "https://hydraulic-oil-press.com/vi/products/post-treatment"
+            }
+          ]
+        }
+---
 # Thiết bị xử lý sau dầu
 
 Thiết bị xử lý sau được sử dụng để nâng cao chất lượng dầu, đảm bảo sản phẩm đạt tiêu chuẩn thực phẩm.

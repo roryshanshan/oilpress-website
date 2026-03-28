@@ -1,9 +1,79 @@
 ---
-title: Оборудование для рафинирования пищевого масла - Shengshi Hecheng
-description: Оборудование для рафинирования пищевого масла используется для удаления примесей из сырой нефти, улучшения качества и стабильности масла, включая механические
-keywords: оборудование для рафинирования пищевого масла, оборудование для рафинирования жиров, рафинирование сырой нефти, рафинирование масла, оборудование для щелочного рафинирования, оборудование для кислотного рафинирования, оборудование для фильтрации масла, процесс рафинирования жиров, линия производства рафинирования масла, машина для рафинирования масла, технология рафинирования масла, производитель оборудования для рафинирования масла
----
+title: Оборудование для рафинирования пищевого масла - Shengshi Heche...
+description: Запросите цену и подбор Оборудование для рафинирования пищевого масла - Shengshi Hecheng. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Оборудование для рафинирования пищевого масла цена, купить Оборудование для рафинирования пищевого масла, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Оборудование для рафинирования пищевого масла",
+          "description": "Запросите цену и подбор Оборудование для рафинирования пищевого масла - Shengshi Hecheng. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "edible-oil-refining-equipment",
+          "url": "https://hydraulic-oil-press.com/ru/products/edible-oil-refining-equipment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Оборудование для рафинирования пищевого масла",
+              "item": "https://hydraulic-oil-press.com/ru/products/edible-oil-refining-equipment"
+            }
+          ]
+        }
+---
 # Оборудование для рафинирования пищевого масла
 ![Оборудование для рафинирования пищевого масла](https://i.postimg.cc/T2TTJFps/image.png?dl=1)
 ## Цель рафинирования

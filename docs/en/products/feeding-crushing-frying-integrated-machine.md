@@ -1,9 +1,79 @@
 ---
-title: Feeding/Crushing/Frying Integrated Machine - Shengshi Hecheng
-description: Feeding/Crushing/Frying Integrated Machine integrates feeding, crushing, and frying processes, saving space and conversion costs between processes
-keywords: Feeding/Crushing/Frying Integrated Machine, oil press machine, oil press price, oil press quotation, oil press supplier, oil processing equipment, supporting equipment, after-sales service, oilseed processing equipment, Feeding crushing frying integrated machine
----
+title: Feeding/Crushing/Frying Integrated Machine - Shengshi Hecheng ...
+description: Get price, procurement, and after-sales support for Feeding/Crushing/Frying Integrated Machine - Shengshi Hecheng from Shengshi Hecheng manufacturer.
+keywords: Feeding/Crushing/Frying Integrated Machine - Shengshi Hecheng price, Feeding/Crushing/Frying Integrated Machine - Shengshi Hecheng quote, Feeding/Crushing/Frying Integrated Machine - Shengshi Hecheng manufacturer, Feeding/Crushing/Frying Integrated Machine - Shengshi Hecheng supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Feeding/Crushing/Frying Integrated Machine",
+          "description": "Get price, procurement, and after-sales support for Feeding/Crushing/Frying Integrated Machine - Shengshi Hecheng from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "feeding-crushing-frying-integrated-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/feeding-crushing-frying-integrated-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Feeding/Crushing/Frying Integrated Machine",
+              "item": "https://hydraulic-oil-press.com/en/products/feeding-crushing-frying-integrated-machine"
+            }
+          ]
+        }
+---
 # Feeding/Crushing/Frying Integrated Machine
 ![Feeding/Crushing/Frying Integrated Machine](https://i.postimg.cc/cZcxLxzG/image.png?dl=1)
 ## Product Overview

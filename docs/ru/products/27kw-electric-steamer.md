@@ -1,9 +1,79 @@
 ---
-title: Электрическая пароварка 27 кВт (обновлённая модель)
-description: Электрическая пароварка 27 кВт, обновлённая модель, с утолщённым двухбаковым дизайном, разделением воды и электричества, безопасная и надёжная
-keywords: электрическая пароварка 27 кВт, электрическая пароварка, обновлённая электрическая пароварка, пароварка для масличных семян, оборудование для пропаривания, электрическая пропарочная техника, 27KW пароварка, оборудование для предварительной обработки масличных семян, пароварка, электрическая нагревательная пароварка, пароварка для переработки масличных семян, оборудование для пропаривания, оборудование для пропаривания масличных семян, обновлённая модель электрической пароварки 27 кВт
----
+title: Электрическая пароварка 27 кВт (обновлённая модель) цена
+description: Запросите цену и подбор Электрическая пароварка 27 кВт (обновлённая модель). Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Электрическая пароварка 27 кВт (обновлённая модель) цена, купить Электрическая пароварка 27 кВт (обновлённая модель), коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Электрическая пароварка 27 кВт (обновлённая модель)",
+          "description": "Запросите цену и подбор Электрическая пароварка 27 кВт (обновлённая модель). Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "27kw-electric-steamer",
+          "url": "https://hydraulic-oil-press.com/ru/products/27kw-electric-steamer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Электрическая пароварка 27 кВт (обновлённая модель)",
+              "item": "https://hydraulic-oil-press.com/ru/products/27kw-electric-steamer"
+            }
+          ]
+        }
+---
 # Электрическая пароварка 27 кВт (обновлённая модель)
 ![Электрическая пароварка](https://i.postimg.cc/gYfJ8gy9/27KW.png?dl=1)
 

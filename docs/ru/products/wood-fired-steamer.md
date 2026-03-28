@@ -1,9 +1,79 @@
 ---
-title: Дровяная пароварка - Shengshi Hecheng
-description: Дровяная пароварка изготовлена из материала Q355B, может нагреваться углём, дровами или газом, интегрированный бак для воды
-keywords: дровяная пароварка, оборудование для пропаривания, пароварка на дровах, газовая пароварка, угольная пароварка, пароварка для масличных семян, оборудование для пропаривания, пароварка, оборудование для пропаривания, пароварка для переработки масличных семян, котёл для пропаривания, пароварка
----
+title: Дровяная пароварка - Shengshi Hecheng цена | производитель
+description: Запросите цену и подбор Дровяная пароварка - Shengshi Hecheng. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Дровяная пароварка цена, купить Дровяная пароварка, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Дровяная пароварка",
+          "description": "Запросите цену и подбор Дровяная пароварка - Shengshi Hecheng. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "wood-fired-steamer",
+          "url": "https://hydraulic-oil-press.com/ru/products/wood-fired-steamer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Дровяная пароварка",
+              "item": "https://hydraulic-oil-press.com/ru/products/wood-fired-steamer"
+            }
+          ]
+        }
+---
 # Дровяная пароварка
 ![Дровяная пароварка](https://i.postimg.cc/Gcs3LvWX/image.png?dl=1)
 

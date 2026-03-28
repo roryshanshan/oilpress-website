@@ -1,9 +1,79 @@
 ---
 title: Вспомогательное оборудование - Shengshi Hecheng
 description: Shandong Shengshi Hecheng предоставляет полные решения по вспомогательному оборудованию для маслопрессов, включая оборудование для предварительной обработки
-keywords: вспомогательное оборудование, оборудование для поддержки маслопрессов, оборудование для предварительной обработки, оборудование для постобработки, дробилка, масляный фильтр, пароварка, сковорода, оборудование для переработки масличных семян, поддержка маслопрессов, оборудование для производственной линии маслопрессов, вспомогательное оборудование для переработки масличных семян
----
+keywords: Вспомогательное оборудование цена, купить Вспомогательное оборудование, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Вспомогательное оборудование",
+          "description": "Shandong Shengshi Hecheng предоставляет полные решения по вспомогательному оборудованию для маслопрессов, включая оборудование для предварительной обработки",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "supporting",
+          "url": "https://hydraulic-oil-press.com/ru/products/supporting",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Вспомогательное оборудование",
+              "item": "https://hydraulic-oil-press.com/ru/products/supporting"
+            }
+          ]
+        }
+---
 # Вспомогательное оборудование
 
 ## Оборудование для предварительной обработки

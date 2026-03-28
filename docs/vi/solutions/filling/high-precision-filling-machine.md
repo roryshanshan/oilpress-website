@@ -1,9 +1,75 @@
 ---
-title: "Máy chiết rót định lượng có độ chính xác cao | Tổng quan về mô hình GDP-12A~GDP-40H"
-description: "Máy chiết rót định lượng có độ chính xác cao bao gồm GDP-12A đến GDP-40H, với công suất tham chiếu 3000-12000 b/h và độ chính xác 500±1,5 ml. Nó phù hợp cho các dự án chiết rót định lượng chai đa thông số kỹ thuật."
-keywords: "Máy chiết rót định lượng có độ chính xác cao, GDP-12A, GDP-40H, máy chiết rót định lượng, dòng máy chiết rót, Shengshi Hechen"
----
+title: Máy chiết rót định lượng có độ chính xác cao báo giá
+description: Nhận báo giá Máy chiết rót định lượng có độ chính xác cao với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+keywords: Máy chiết rót định lượng có độ chính xác cao báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Máy chiết rót định lượng có độ chính xác cao",
+          "description": "Nhận báo giá \"Máy chiết rót định lượng có độ chính xác cao với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "serviceType": "Giải pháp",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/vi/solutions/filling/high-precision-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Giải pháp",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy chiết rót định lượng có độ chính xác cao",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/filling/high-precision-filling-machine"
+            }
+          ]
+        }
+---
 # Máy chiết rót định lượng có độ chính xác cao
 
 ![Máy chiết rót định lượng có độ chính xác cao](/images/filling-products/high-precision-filling-machine.webp)
@@ -52,3 +118,11 @@ Máy chiết rót định lượng có độ chính xác cao phù hợp cho các
 - [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
 - [Dòng máy chiết rót](/vi/solutions/filling/)
 - [Liên hệ với chúng tôi để được tư vấn đầy đủ về dòng sản phẩm](/vi/contact/)
+
+## Nhận giá & báo giá
+
+Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
+
+- [Nhận giá & báo giá](/vi/contact/)
+
+<!-- quote-cta -->

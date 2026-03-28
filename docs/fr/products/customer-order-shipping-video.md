@@ -1,9 +1,79 @@
 ---
 title: Vidéo d'expédition de commande client - Shengshi Hecheng
 description: Shandong Shengshi Hecheng vidéo d'expédition de commande client, y compris l'emballage d'équipement, le chargement et le transport
-keywords: Vidéo d'expédition de commande client, Emballage d'équipement expédition, Expédition presse hydraulique, Site d'expédition, Acceptation client, Vidéo d'expédition Shandong Shengshi Hecheng, Transport d'équipement, Service d'expédition
----
+keywords: Vidéo d'expédition de commande client prix, acheter Vidéo d'expédition de commande client, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Vidéo d'expédition de commande client",
+          "description": "Shandong Shengshi Hecheng vidéo d'expédition de commande client, y compris l'emballage d'équipement, le chargement et le transport",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "customer-order-shipping-video",
+          "url": "https://hydraulic-oil-press.com/fr/products/customer-order-shipping-video",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Vidéo d'expédition de commande client",
+              "item": "https://hydraulic-oil-press.com/fr/products/customer-order-shipping-video"
+            }
+          ]
+        }
+---
 #  <center> Vidéo d'expédition de commande client</center>
 
 ## Aperçu du service d'expédition

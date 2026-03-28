@@ -1,6 +1,6 @@
 ---
-title: "Hướng dẫn ép lạnh dầu hạt lanh: Quy trình, chọn máy và kiểm soát chất lượng"
-description: "Hướng dẫn thực tế về dầu hạt lanh ép lạnh, bao gồm xử lý nhiệt độ thấp, lựa chọn máy ép thủy lực, kiểm soát oxy hóa và gợi ý đóng gói."
+title: "Hướng dẫn ép lạnh dầu hạt lanh: Quy trình, chọn máy và kiểm so..."
+description: Hướng dẫn thực tế về dầu hạt lanh ép lạnh, bao gồm xử lý nhiệt độ thấp, lựa chọn máy ép thủy lực, kiểm soát oxy hóa và gợi ý đóng gói.
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-10"
 ---

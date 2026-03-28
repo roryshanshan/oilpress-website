@@ -1,9 +1,79 @@
 ---
-title: Presse hydraulique à huile sur mesure - Shengshi Hecheng
-description: Shandong Shengshi Hecheng fournit des solutions personnalisées de presse hydraulique à huile, personnalisant les spécifications
-keywords: Presse hydraulique à huile sur mesure, Équipement de pressage d'huile personnalisé, Presse à huile hydraulique personnalisée pour client, Presse hydraulique à huile spéciale, Presse à huile personnalisée, Presse hydraulique à huile dédiée, Équipement personnalisé Shandong Shengshi Hecheng
----
+title: Presse hydraulique à huile sur mesure - Shengshi Hecheng prix ...
+description: Demandez le prix et le devis pour Presse hydraulique à huile sur mesure - Shengshi Hecheng. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Presse hydraulique à huile sur mesure prix, acheter Presse hydraulique à huile sur mesure, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Presse hydraulique à huile sur mesure",
+          "description": "Demandez le prix et le devis pour Presse hydraulique à huile sur mesure - Shengshi Hecheng. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "customized-hydraulic-oil-press",
+          "url": "https://hydraulic-oil-press.com/fr/products/customized-hydraulic-oil-press",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Presse hydraulique à huile sur mesure",
+              "item": "https://hydraulic-oil-press.com/fr/products/customized-hydraulic-oil-press"
+            }
+          ]
+        }
+---
 #  <center> Presse hydraulique à huile sur mesure</center>
 
 ## Aperçu du service de personnalisation

@@ -1,9 +1,79 @@
 ---
-title: "Machine de remplissage de pesticides | Ligne de remplissage automatique LGF-10-1 ~ LGF-24-1"
-description: "La machine de remplissage de pesticides couvre les LGF-10-1 à LGF-24-1, avec une production de référence de 2 000 à 7 000, et convient aux lignes automatiques de déballage, de remplissage et de bouchage de bouteilles pour produits agrochimiques et chimiques quotidiens."
-keywords: "Machine de remplissage de pesticides, LGF-10-1, LGF-24-1, ligne de remplissage automatique, série de machines de remplissage, Shengshi Hecheng"
----
+title: Machine de remplissage de pesticides prix | fabricant
+description: Demandez le prix et le devis pour Machine de remplissage de pesticides. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Machine de remplissage de pesticides prix, acheter Machine de remplissage de pesticides, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Machine de remplissage de pesticides",
+          "description": "Demandez le prix et le devis pour \"Machine de remplissage de pesticides. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "pesticide-filling-machine",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/pesticide-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine de remplissage de pesticides",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/pesticide-filling-machine"
+            }
+          ]
+        }
+---
 # Machine de remplissage de pesticides
 
 ![Machine de remplissage de pesticides](/images/filling-products/pesticide-filling-machine.webp)

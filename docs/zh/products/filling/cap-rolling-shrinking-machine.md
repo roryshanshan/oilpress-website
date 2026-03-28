@@ -1,9 +1,79 @@
 ---
-title: 碾帽/收缩两用机 | 胶帽热缩机系列
-description: 本系列热缩机主要对PVC热缩胶帽进行热缩封口，专用于葡萄酒打塞后的缩帽。
-keywords: 碾帽/收缩两用机, 胶帽热缩机系列, 液体包装设备, 灌装包装设备, 盛世赫程
----
+title: 碾帽/收缩两用机价格|厂家报价
+description: 获取碾帽/收缩两用机价格、采购与售后支持，厂家直供，支持选型与交付。
+keywords: 碾帽/收缩两用机价格, 碾帽/收缩两用机报价, 碾帽/收缩两用机厂家, 碾帽/收缩两用机采购, 售后服务
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "碾帽/收缩两用机",
+          "description": "获取碾帽/收缩两用机价格、采购与售后支持，厂家直供，支持选型与交付。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "cap-rolling-shrinking-machine",
+          "url": "https://hydraulic-oil-press.com/zh/products/filling/cap-rolling-shrinking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "碾帽/收缩两用机",
+              "item": "https://hydraulic-oil-press.com/zh/products/filling/cap-rolling-shrinking-machine"
+            }
+          ]
+        }
+---
 # 碾帽/收缩两用机
 
 ![碾帽/收缩两用机](/images/filling-products/cap-rolling-shrinking-machine.webp)
@@ -64,4 +134,4 @@ keywords: 碾帽/收缩两用机, 胶帽热缩机系列, 液体包装设备, 灌
 
 - [灌装包装设备参数库](/zh/products/filling-equipment)
 - [胶帽热缩机系列](/zh/solutions/cap-shrinking/)
-- [联系我们获取整线建议](/zh/contact/)
+- [获取报价/整线建议](/zh/contact/)

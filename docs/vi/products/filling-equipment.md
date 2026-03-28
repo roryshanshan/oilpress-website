@@ -1,9 +1,79 @@
 ---
 title: Thiết bị chiết rót và đóng gói
 description: Tổng quan thiết bị chiết rót và đóng gói, tập trung vào các dự án rượu vang, hoàng tửu, nước tương, giấm và các model máy chiết rót chân không thấp.
-keywords: thiết bị chiết rót, máy chiết rót chân không thấp, dây chuyền rượu vang, thiết bị đóng gói, Shengshi Hecheng
----
+keywords: giá Thiết bị chiết rót và đóng gói, mua Thiết bị chiết rót và đóng gói, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Thiết bị chiết rót và đóng gói",
+          "description": "Tổng quan thiết bị chiết rót và đóng gói, tập trung vào các dự án rượu vang, hoàng tửu, nước tương, giấm và các model máy chiết rót chân không thấp.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "filling-equipment",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling-equipment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Thiết bị chiết rót và đóng gói",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling-equipment"
+            }
+          ]
+        }
+---
 # Thiết bị chiết rót và đóng gói
 
 Trang này tổng hợp các điểm chính của thiết bị chiết rót và đóng gói trên website, đặc biệt cho rượu vang, rượu trái cây, hoàng tửu, nước tương và giấm.
@@ -37,7 +107,7 @@ Trang này tổng hợp các điểm chính của thiết bị chiết rót và 
 
 - [Dòng thiết bị brewing](/vi/solutions/brewing/)
 - [Dòng máy đóng nút](/vi/solutions/corking/)
-- [Liên hệ](/vi/contact/)
+- [Nhận giá & báo giá](/vi/contact/)
 <!-- packaging-hub-links:start -->
 ## Liên kết sản phẩm chi tiết
 

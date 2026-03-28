@@ -1,9 +1,75 @@
 ---
-title: Solutions d'arachide (huile d'arachide) - Shengshi Hecheng
-description: Solutions professionnelles de pressage d'arachide, fournissant des équipements et services techniques de transformation d'huile d'arachide
-keywords: Solutions d'arachide, pressage d'huile d'arachide, équipement de transformation d'arachide, ligne de production d'huile d'arachide, processus de pressage à chaud d'arachide, presse à huile d'arachide, extraction d'huile d'arachide, transformation de graines oléagineuses d'arachide, équipement de pressage d'huile d'arachide, équipement de production d'huile d'arachide, usine de transformation d'huile d'arachide
----
+title: Solutions d'arachide (huile d'arachide) - Shengshi Hecheng dev...
+description: "Demandez un devis pour Solutions d'arachide (huile d'arachide) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV."
+keywords: Solutions d'arachide (huile d'arachide) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Solutions d'arachide (huile d'arachide)",
+          "description": "Demandez un devis pour Solutions d'arachide (huile d'arachide) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/peanut",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Solutions d'arachide (huile d'arachide)",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/peanut"
+            }
+          ]
+        }
+---
 # Solutions d'arachide (huile d'arachide)
 ![Presse à huile série 300](/images/300-325-series.webp)
 
@@ -269,3 +335,11 @@ seo:
   description: Fournir une presse à huile hydraulique d'arachide efficace et respectueuse de l'environnement, rendement en huile jusqu'à 55%, sans additifs chimiques, adaptée aux petits ateliers et grandes usines.
   keywords: Presse à huile hydraulique d'arachide, Équipement de pressage d'huile d'arachide, Ligne de production d'huile d'arachide efficace, Huile d'arachide pressée à chaud, Pressage physique pur, Technologie de transformation d'huile d'arachide, Machinerie Shengshi Hecheng
 ```
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

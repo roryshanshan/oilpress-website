@@ -1,9 +1,75 @@
 ---
-title: "Six-wheel rinsing machine | rinsing machine series"
-description: "This machine adopts the sleeve roller chain transmission principle. The entire conveyor chain has accurate transmission and good wear resistance. The circulating water uses tracking spraying and fixed pipe spraying. The clean water part uses a water distributor to track and spray to save water sources and improve water utilization."
-keywords: "Six-wheel rinsing machine, rinsing machine series, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: Six-wheel rinsing machine Quote | Turnkey Solution
+description: Get a quote and turnkey plan for Six-wheel rinsing machine. Process design, equipment list, and after-sales support.
+keywords: Six-wheel rinsing machine quote, Six-wheel rinsing machine price, turnkey solution, production line, procurement
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Six-wheel rinsing machine",
+          "description": "Get a quote and turnkey plan for \"Six-wheel rinsing machine. Process design, equipment list, and after-sales support.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/en/solutions/bottle-washing/six-wheel-bottle-washer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/en/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Six-wheel rinsing machine",
+              "item": "https://hydraulic-oil-press.com/en/solutions/bottle-washing/six-wheel-bottle-washer"
+            }
+          ]
+        }
+---
 # Six-wheel rinsing machine
 
 ![Six-wheel-bottle-washer](/images/filling-products/six-wheel-bottle-washer.webp)
@@ -62,3 +128,11 @@ This machine adopts the sleeve roller chain transmission principle. The entire c
 - [Filling and packaging equipment parameter library](/en/products/filling-equipment)
 - [Bottle washing machine series](/en/solutions/bottle-washing/)
 - [Contact us for complete line advice](/en/contact/)
+
+## Get Price & Quote
+
+Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+
+- [Get Price & Quote](/en/contact/)
+
+<!-- quote-cta -->

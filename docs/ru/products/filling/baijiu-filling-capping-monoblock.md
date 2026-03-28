@@ -1,9 +1,79 @@
 ---
-title: "Двухлинейная машина для розлива спиртных напитков | комбинированная машина и шина поддержки наполнения"
-description: "Эта машина используется для количественного наполнения и укупорки негазовых жидкостей."
-keywords: "Двухлинейная машина для розлива спиртных напитков, комбинированная машина и автобус поддержки розлива, оборудование для упаковки жидкостей, оборудование для розлива и упаковки, Shengshi Hecheng"
----
+title: Двухлинейная машина для розлива спиртных напитков цена
+description: Запросите цену и подбор Двухлинейная машина для розлива спиртных напитков. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Ликеро-водочный розлив двухлинейный цена, купить Ликеро-водочный розлив двухлинейный, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Ликеро-водочный розлив двухлинейный",
+          "description": "Запросите цену и подбор \"Двухлинейная машина для розлива спиртных напитков. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "baijiu-filling-capping-monoblock",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/baijiu-filling-capping-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Ликеро-водочный розлив двухлинейный",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/baijiu-filling-capping-monoblock"
+            }
+          ]
+        }
+---
 # Ликеро-водочный розлив двухлинейный
 
 ![Наполнение ликером двухстрочное](/images/filling-products/baijiu-filling-capping-monoblock.webp)

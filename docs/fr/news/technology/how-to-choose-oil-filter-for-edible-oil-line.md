@@ -1,6 +1,6 @@
 ---
-title: "Comment choisir un filtre à huile pour une ligne d'huile alimentaire"
-description: "Apprenez à choisir le bon filtre à huile pour une ligne d'huile alimentaire selon le volume quotidien, l'objectif de limpidité, les résidus de matière première et le plan d'extension."
+title: Comment choisir un filtre à huile pour une ligne d'huile alime...
+description: Apprenez à choisir le bon filtre à huile pour une ligne d'huile alimentaire selon le volume quotidien, l'objectif de limpidité
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-02"
 ---

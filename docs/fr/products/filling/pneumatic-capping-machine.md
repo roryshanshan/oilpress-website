@@ -1,9 +1,79 @@
 ---
-title: "Machine de capsulage pneumatique entièrement automatique | série de machines à sceller"
-description: "Cette machine est adaptée aux bouteilles fermées par des bouchons antivol twist-off en aluminium."
-keywords: "Machine de capsulage pneumatique entièrement automatique, série de machines à sceller, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Machine de capsulage pneumatique entièrement automatique prix
+description: Demandez le prix et le devis pour Machine de capsulage pneumatique entièrement automatique. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Machine de capsulage pneumatique entièrement automatique prix, acheter Machine de capsulage pneumatique entièrement automatique, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Machine de capsulage pneumatique entièrement automatique",
+          "description": "Demandez le prix et le devis pour \"Machine de capsulage pneumatique entièrement automatique. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "pneumatic-capping-machine",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/pneumatic-capping-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine de capsulage pneumatique entièrement automatique",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/pneumatic-capping-machine"
+            }
+          ]
+        }
+---
 # Machine de capsulage pneumatique entièrement automatique
 
 ![Machine de capsulage pneumatique entièrement automatique](/images/filling-products/pneumatic-capping-machine.webp)

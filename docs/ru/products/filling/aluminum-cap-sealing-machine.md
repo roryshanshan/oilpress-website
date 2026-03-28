@@ -1,9 +1,79 @@
 ---
-title: "Машина для запечатывания алюминиевых крышек | Серия запечатывающих машин"
-description: "Машина для запечатывания алюминиевых крышек является представительной моделью серии машин для запечатывания крышек."
-keywords: "Машина для запечатывания алюминиевых крышек, серия запечатывающих машин, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Машина для запечатывания алюминиевых крышек цена | производитель
+description: Запросите цену и подбор Машина для запечатывания алюминиевых крышек. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Машина для запечатывания алюминиевых крышек цена, купить Машина для запечатывания алюминиевых крышек, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Машина для запечатывания алюминиевых крышек",
+          "description": "Запросите цену и подбор \"Машина для запечатывания алюминиевых крышек. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "aluminum-cap-sealing-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/aluminum-cap-sealing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Машина для запечатывания алюминиевых крышек",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/aluminum-cap-sealing-machine"
+            }
+          ]
+        }
+---
 # Машина для запечатывания алюминиевых крышек
 
 ![Машина для запечатывания алюминиевых крышек](/images/filling-products/aluminum-cap-sealing-machine.webp)

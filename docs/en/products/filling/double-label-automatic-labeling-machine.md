@@ -1,9 +1,79 @@
 ---
-title: "Linear double label fully automatic labeling machine | Labeling machine series"
-description: "This machine is carefully manufactured by our company by introducing advanced technology."
-keywords: "Linear double label fully automatic labeling machine, labeling machine series, liquid packaging equipment, filling packaging equipment, Shengshi Hecheng"
----
+title: Linear double label fully automatic labeling machine Price
+description: Get price, procurement, and after-sales support for Linear double label fully automatic labeling machine from Shengshi Hecheng manufacturer.
+keywords: Linear double label fully automatic labeling machine price, Linear double label fully automatic labeling machine quote, Linear double label fully automatic labeling machine manufacturer, Linear double label fully automatic labeling machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Linear double label fully automatic labeling machine",
+          "description": "Get price, procurement, and after-sales support for \"Linear double label fully automatic labeling machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "double-label-automatic-labeling-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/double-label-automatic-labeling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Linear double label fully automatic labeling machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/double-label-automatic-labeling-machine"
+            }
+          ]
+        }
+---
 # Linear double label fully automatic labeling machine
 
 ![Linear double label automatic labeling machine](/images/filling-products/double-label-automatic-labeling-machine.webp)

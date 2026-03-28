@@ -1,9 +1,79 @@
 ---
-title: হাইড্রোলিক সিলিন্ডারের কাজের নীতি
-description: হাইড্রোলিক সিলিন্ডার হাইড্রোলিক সিস্টেমের এক্সিকিউটিভ কম্পোনেন্ট, যা হাইড্রোলিক এনার্জি (লিকুইডের প্রেশার এনার্জি) কে মেকানিক্যাল এনার্জিতে রূপান্তর করে
-keywords: হাইড্রোলিক সিলিন্ডার, হাইড্রোলিক সিস্টেম, হাইড্রোলিক এনার্জি, মেকানিক্যাল এনার্জি, রেসিপ্রোকেটিং মোশন, সিলিন্ডার প্রিন্সিপল, হাইড্রোলিক প্রেশার, পিস্টন, হাইড্রোলিক অয়েল প্রেস
----
+title: হাইড্রোলিক সিলিন্ডারের কাজের নীতি দাম | প্রস্তুতকারক
+description: হাইড্রোলিক সিলিন্ডারের কাজের নীতি এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: হাইড্রোলিক সিলিন্ডারের কাজের নীতি দাম, হাইড্রোলিক সিলিন্ডারের কাজের নীতি কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "হাইড্রোলিক সিলিন্ডারের কাজের নীতি",
+          "description": "হাইড্রোলিক সিলিন্ডারের কাজের নীতি এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "hydraulic-cylinder-principle",
+          "url": "https://hydraulic-oil-press.com/bn/products/hydraulic-cylinder-principle",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "হাইড্রোলিক সিলিন্ডারের কাজের নীতি",
+              "item": "https://hydraulic-oil-press.com/bn/products/hydraulic-cylinder-principle"
+            }
+          ]
+        }
+---
 # হাইড্রোলিক সিলিন্ডারের কাজের নীতি
 
 হাইড্রোলিক সিলিন্ডার হাইড্রোলিক সিস্টেমের এক্সিকিউটিভ কম্পোনেন্ট, যা হাইড্রোলিক এনার্জি (লিকুইডের প্রেশার এনার্জি) কে মেকানিক্যাল এনার্জিতে রূপান্তর করে, স্ট্রেট লাইন রেসিপ্রোকেটিং মোশন বা সুইং অর্জন করে।

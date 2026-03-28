@@ -1,9 +1,75 @@
 ---
-title: "Интеллектуальная машина для количественного розлива | Обзор модели ДК-12~ДК-36"
-description: "Интеллектуальная машина количественного розлива охватывает модели от DK-12 до DK-36, с базовой производительностью 4000-13000 бутылок/час. Он подходит для автоматизированных линий, которые связывают подъем крышек, сортировку крышек, коробление крышек и запечатывание крышек после наполнения."
-keywords: "Интеллектуальная машина для количественного розлива, DK-12, DK-36, автоматическая машина для наполнения и укупорки, серия разливочных машин, Shengshi Hecheng"
----
+title: Интеллектуальная машина для количественного розли Решение | Цена
+description: "Запросите стоимость решения Интеллектуальная машина для количественного розлива: проект линии, список оборудования и сервис."
+keywords: Интеллектуальная машина для количественного розлива цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Интеллектуальная машина для количественного розлива",
+          "description": "Запросите стоимость решения \"Интеллектуальная машина для количественного розлива: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/filling/intelligent-quantitative-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Интеллектуальная машина для количественного розлива",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/filling/intelligent-quantitative-filling-machine"
+            }
+          ]
+        }
+---
 # Интеллектуальная машина для количественного розлива
 
 ![Интеллектуальная машина количественного наполнения](/images/filling-products/intelligent-quantitative-filling-machine.webp)
@@ -49,3 +115,11 @@ keywords: "Интеллектуальная машина для количест
 - [Библиотека параметров фасовочно-упаковочного оборудования](/ru/products/filling-equipment)
 - [Серия разливочных машин](/ru/solutions/filling/)
 - [Свяжитесь с нами для получения полной консультации по линии](/ru/contact/)
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

@@ -1,9 +1,79 @@
 ---
-title: "GDP36DK-10-10 সম্পূর্ণ স্বয়ংক্রিয় বুদ্ধিমান ফিলিং এবং ক্যাপিং মিলিত মেশিন | মিলিত মেশিন এবং ফিলিং সাপোর্টিং বাস"
-description: "এই মডেলটি ওয়াইন ফিলিং শিল্পের উচ্চ-প্রান্ত এবং জনপ্রিয় উচ্চ-শেষ সরঞ্জামগুলির মধ্যে একটি। এটি বিদেশী উন্নত কাজের নীতি প্রযুক্তি প্রবর্তন করে, আলো, বিদ্যুৎ এবং গ্যাসকে একীভূত করে, দ্রুত, নির্ভুল এবং দক্ষ এবং ওয়াইন প্যাকেজিং পণ্য শিল্পে ব্যাপকভাবে ব্যবহৃত হয়।"
-keywords: "GDP36DK-10-10 সম্পূর্ণ স্বয়ংক্রিয় বুদ্ধিমান ফিলিং এবং ক্যাপিং সম্মিলিত মেশিন, সম্মিলিত মেশিন এবং ফিলিং সাপোর্টিং বাস, তরল প্যাকেজিং সরঞ্জাম, ফিলিং এবং প্যাকেজিং সরঞ্জাম, শেংশি হেচেং"
----
+title: GDP36DK-10-10 সম্পূর্ণ স্বয়ংক্রিয় বুদ্ধিমান ফিলিং এবং ক্যাপ...
+description: GDP36DK-10-10 সম্পূর্ণ স্বয়ংক্রিয় বুদ্ধিমান ফিলিং এবং ক্যাপিং মিলিত মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: GDP36DK-10-10 সম্পূর্ণ স্বয়ংক্রিয় বুদ্ধিমান ফিলিং, ক্যাপিং এবং সিলিং মেশিন দাম, GDP36DK-10-10 সম্পূর্ণ স্বয়ংক্রিয় বুদ্ধিমান ফিলিং, ক্যাপিং এবং সিলিং মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "GDP36DK-10-10 সম্পূর্ণ স্বয়ংক্রিয় বুদ্ধিমান ফিলিং, ক্যাপিং এবং সিলিং মেশিন",
+          "description": "\"GDP36DK-10-10 সম্পূর্ণ স্বয়ংক্রিয় বুদ্ধিমান ফিলিং এবং ক্যাপিং মিলিত মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "gdp36dk-filling-capping-sealing-monoblock",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/gdp36dk-filling-capping-sealing-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GDP36DK-10-10 সম্পূর্ণ স্বয়ংক্রিয় বুদ্ধিমান ফিলিং, ক্যাপিং এবং সিলিং মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/gdp36dk-filling-capping-sealing-monoblock"
+            }
+          ]
+        }
+---
 # GDP36DK-10-10 সম্পূর্ণ স্বয়ংক্রিয় বুদ্ধিমান ফিলিং, ক্যাপিং এবং সিলিং মেশিন
 
 ![GDP36DK-10-10 সম্পূর্ণ স্বয়ংক্রিয় বুদ্ধিমান ফিলিং এবং ক্যাপিং সিলিং মেশিন](/images/filling-products/gdp36dk-filling-capping-sealing-monoblock.webp)

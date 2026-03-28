@@ -1,7 +1,7 @@
 ---
-title: "Technical Knowledge"
-description: "Latest hydraulic oil press guides covering oilseed selection, hot press and cold press choices, model selection, ROI, filtration, maintenance, and edible oil production line planning."
-keywords: "hydraulic oil press articles, oil press technical knowledge, cold press guide, edible oil production line"
+title: Technical Knowledge
+description: Latest hydraulic oil press guides covering oilseed selection, hot press and cold press choices, model selection, ROI, filtration, maintenance
+keywords: hydraulic oil press articles, oil press technical knowledge, cold press guide, edible oil production line
 ---
 
 # Technical Knowledge

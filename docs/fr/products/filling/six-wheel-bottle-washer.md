@@ -1,9 +1,79 @@
 ---
-title: "Rinceuse à six roues | série de machines de rinçage"
-description: "Cette machine adopte le principe de transmission par chaîne à rouleaux et manchons. L'ensemble de la chaîne du convoyeur a une transmission précise et une bonne résistance à l'usure. L'eau en circulation utilise une pulvérisation de suivi et une pulvérisation à tuyau fixe. La partie eau propre utilise un distributeur d’eau pour suivre et pulvériser afin d’économiser les sources d’eau et d’améliorer l’utilisation de l’eau."
-keywords: "Machine de rinçage à six roues, série de machines de rinçage, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Rinceuse à six roues prix | fabricant
+description: Demandez le prix et le devis pour Rinceuse à six roues. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Rinceuse à six roues prix, acheter Rinceuse à six roues, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Rinceuse à six roues",
+          "description": "Demandez le prix et le devis pour \"Rinceuse à six roues. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "six-wheel-bottle-washer",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/six-wheel-bottle-washer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Rinceuse à six roues",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/six-wheel-bottle-washer"
+            }
+          ]
+        }
+---
 # Rinceuse à six roues
 
 ![Lave-bouteilles à six roues](/images/filling-products/six-wheel-bottle-washer.webp)

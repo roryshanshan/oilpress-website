@@ -1,6 +1,6 @@
 ---
-title: "Quelles graines conviennent le mieux à une presse à huile hydraulique : guide de sélection pour les huiles premium"
-description: "Découvrez quelles graines sont les plus adaptées à une presse à huile hydraulique et comment associer sésame, arachide, noix, lin et autres matières premières au bon procédé à chaud ou à froid."
+title: Quelles graines conviennent le mieux à une presse à huile hydr...
+description: Découvrez quelles graines sont les plus adaptées à une presse à huile hydraulique et comment associer sésame, arachide, noix
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-21"
 ---

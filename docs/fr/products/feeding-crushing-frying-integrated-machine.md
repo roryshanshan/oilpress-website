@@ -1,9 +1,79 @@
 ---
-title: Machine intégrée d'alimentation/broyage/friture
-description: La machine intégrée d'alimentation/broyage/friture intègre les processus d'alimentation, de broyage et de friture
-keywords: Machine intégrée d'alimentation broyage friture, Équipement de traitement intégré de graines oléagineuses, Équipement de broyage et friture, Équipement de prétraitement intégré de graines oléagineuses, Machine de broyage et friture, Équipement de traitement de graines oléagineuses, Équipement de traitement intégré, Machine de friture de graines oléagineuses, Machine intégrée de broyage et friture, Équipement d'alimentation de graines oléagineuses, Ligne de production de traitement de graines oléagineuses
----
+title: Machine intégrée d'alimentation/broyage/friture prix | fabricant
+description: Demandez le prix et le devis pour Machine intégrée d'alimentation/broyage/friture. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Machine intégrée d'alimentation/broyage/friture prix, acheter Machine intégrée d'alimentation/broyage/friture, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Machine intégrée d'alimentation/broyage/friture",
+          "description": "Demandez le prix et le devis pour Machine intégrée d'alimentation/broyage/friture. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "feeding-crushing-frying-integrated-machine",
+          "url": "https://hydraulic-oil-press.com/fr/products/feeding-crushing-frying-integrated-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine intégrée d'alimentation/broyage/friture",
+              "item": "https://hydraulic-oil-press.com/fr/products/feeding-crushing-frying-integrated-machine"
+            }
+          ]
+        }
+---
 # Machine intégrée d'alimentation/broyage/friture
 ![Machine intégrée d'alimentation/broyage/friture](https://i.postimg.cc/cZcxLxzG/image.png?dl=1)
 ## Aperçu du produit

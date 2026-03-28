@@ -1,9 +1,75 @@
 ---
-title: "Роторная ополаскивающая машина | серия ополаскивающих машин"
-description: "Он оснащен бутылями, обращенными вверх и вниз, шестиколесной трансмиссией, оснащен тремя распределителями воды, резервуаром для циркулирующей воды, водяным насосом, двумя промывками циркуляционной воды и одной промывкой чистой водой; его можно плавно регулировать и он имеет хороший эффект контроля воды."
-keywords: "Ротационная машина для ополаскивания бутылок, серия ополаскивателей для бутылок, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Роторная ополаскивающая машина цена | комплексное решение
+description: "Запросите стоимость решения Роторная ополаскивающая машина: проект линии, список оборудования и сервис."
+keywords: Роторный ополаскиватель бутылок цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Роторный ополаскиватель бутылок",
+          "description": "Запросите стоимость решения \"Роторная ополаскивающая машина: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/bottle-washing/rotary-bottle-washer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Роторный ополаскиватель бутылок",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/bottle-washing/rotary-bottle-washer"
+            }
+          ]
+        }
+---
 # Роторный ополаскиватель бутылок
 
 ![Вращающаяся машина для мытья бутылок](/images/filling-products/rotary-bottle-washer.webp)
@@ -61,3 +127,11 @@ keywords: "Ротационная машина для ополаскивания
 - [Библиотека параметров фасовочно-упаковочного оборудования](/ru/products/filling-equipment)
 - [Серия бутыломоечных машин](/ru/solutions/bottle-washing/)
 - [Свяжитесь с нами для получения полной консультации по линии](/ru/contact/)
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

@@ -1,9 +1,79 @@
 ---
-title: "Machine de remplissage de cuve rotative | équipement de remplissage quantitatif automatique de liquide de cuve"
-description: "La machine de remplissage de cuve rotative convient au remplissage quantitatif automatique de liquides de cuve. Il possède des fonctions telles que la quantification électronique des vannes, le contrôle PLC, l'absence de remplissage sans baril et des fonctions anti-goutte. Il convient aux projets de graisses et de liquides chimiques."
-keywords: "Machine de remplissage de cuve rotative, machine de remplissage de cuve, machine de remplissage quantitative, série de machines de remplissage, Shengshi Hecheng"
----
+title: Machine de remplissage de cuve rotative prix | fabricant
+description: Demandez le prix et le devis pour Machine de remplissage de cuve rotative. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Machine de remplissage de cuve rotative prix, acheter Machine de remplissage de cuve rotative, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Machine de remplissage de cuve rotative",
+          "description": "Demandez le prix et le devis pour \"Machine de remplissage de cuve rotative. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "rotary-drum-filling-machine",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/rotary-drum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine de remplissage de cuve rotative",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/rotary-drum-filling-machine"
+            }
+          ]
+        }
+---
 # Machine de remplissage de cuve rotative
 
 ![Machine de remplissage à tambour rotatif](/images/filling-products/rotary-drum-filling-machine.webp)

@@ -1,9 +1,75 @@
 ---
-title: Apricot Kernel (Apricot Oil) Solutions - Shengshi Hecheng
-description: Professional apricot kernel oil pressing solutions, providing apricot oil processing equipment and technical services, oil content 40-50%
-keywords: Apricot kernel solutions, Apricot oil pressing, Apricot kernel processing equipment, Apricot oil production line, Apricot oil press, Apricot oil extraction, Apricot oilseed processing, Apricot oil pressing equipment, Apricot oil production equipment, Apricot oil processing plant
----
+title: Apricot Kernel (Apricot Oil) Solutions - Shengshi Hecheng цена...
+description: "Запросите стоимость решения Apricot Kernel (Apricot Oil) Solutions - Shengshi Hecheng: проект линии, список оборудования и сервис."
+keywords: Apricot Kernel (Apricot Oil) Solution цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Apricot Kernel (Apricot Oil) Solution",
+          "description": "Запросите стоимость решения Apricot Kernel (Apricot Oil) Solutions - Shengshi Hecheng: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/apricot-kernel",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Apricot Kernel (Apricot Oil) Solution",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/apricot-kernel"
+            }
+          ]
+        }
+---
 # Apricot Kernel (Apricot Oil) Solution
 
 ## Overview
@@ -119,3 +185,11 @@ If you are interested in apricot kernel pressing solutions, please contact our t
 - 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable apricot kernel pressing solution.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

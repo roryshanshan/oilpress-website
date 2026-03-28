@@ -1,9 +1,79 @@
 ---
-title: Máy ép sơ - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Máy ép sơ sử dụng nguyên lý nghiền xoắn, được thiết kế để vận hành hiệu quả và ổn định, tiếng ồn thấp, chi phí bảo trì thấp; phù hợp để nghiền hạt cải
-keywords: máy ép sơ, máy nghiền xoắn, máy tiền ép, thiết bị tiền ép, máy nghiền nguyên liệu, thiết bị tiền xử lý dầu, máy ép trước, thiết bị nghiền, máy ép xoắn
----
+title: Máy ép sơ - Shengshi Hecheng giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy ép sơ - Shandong Shengshi Hecheng Machinery Co., Ltd. từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy ép sơ, mua Máy ép sơ, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy ép sơ",
+          "description": "Nhận báo giá và tư vấn mua Máy ép sơ - Shandong Shengshi Hecheng Machinery Co., Ltd. từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "pre-press-machine",
+          "url": "https://hydraulic-oil-press.com/vi/products/pre-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy ép sơ",
+              "item": "https://hydraulic-oil-press.com/vi/products/pre-press-machine"
+            }
+          ]
+        }
+---
 # Máy ép sơ
 
 ![](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)

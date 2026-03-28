@@ -1,9 +1,79 @@
 ---
-title: "Intelligent quantitative filling machine | DK-12~DK-36 Model Overview"
-description: "The intelligent quantitative filling machine covers DK-12 to DK-36, with a reference production efficiency of 4000-13000 bottles/hour. It is suitable for automated lines that link cap lifting, cap sorting, cap buckling and cap sealing after filling."
-keywords: "Intelligent quantitative filling machine, DK-12, DK-36, automatic filling and capping machine, filling machine series, Shengshi Hecheng"
----
+title: Intelligent quantitative filling machine Price
+description: Get price, procurement, and after-sales support for Intelligent quantitative filling machine from Shengshi Hecheng manufacturer.
+keywords: Intelligent quantitative filling machine price, Intelligent quantitative filling machine quote, Intelligent quantitative filling machine manufacturer, Intelligent quantitative filling machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Intelligent quantitative filling machine",
+          "description": "Get price, procurement, and after-sales support for \"Intelligent quantitative filling machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "intelligent-quantitative-filling-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/intelligent-quantitative-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Intelligent quantitative filling machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/intelligent-quantitative-filling-machine"
+            }
+          ]
+        }
+---
 # Intelligent quantitative filling machine
 
 ![Intelligent quantitative filling machine](/images/filling-products/intelligent-quantitative-filling-machine.webp)

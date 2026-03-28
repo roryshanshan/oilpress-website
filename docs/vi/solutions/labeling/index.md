@@ -1,7 +1,7 @@
 ---
-title: "Dòng máy dán nhãn"
-description: "Dòng máy dán nhãn phù hợp để dán nhãn tự động các sản phẩm đóng gói như dầu ăn, đồ uống và chất lỏng gia vị, đồng thời có thể hỗ trợ nhiều dạng hộp đựng khác nhau như chai tròn, chai vuông và chai có hình dạng đặc biệt."
-keywords: "Các dòng máy dán nhãn, máy dán nhãn tự động, máy dán nhãn chai tròn, máy dán nhãn 2 mặt, thiết bị dán nhãn dầu ăn, hệ thống dán nhãn dây chuyền đóng gói"
+title: Dòng máy dán nhãn
+description: Dòng máy dán nhãn phù hợp để dán nhãn tự động các sản phẩm đóng gói như dầu ăn, đồ uống và chất lỏng gia vị
+keywords: Các dòng máy dán nhãn, máy dán nhãn tự động, máy dán nhãn chai tròn, máy dán nhãn 2 mặt, thiết bị dán nhãn dầu ăn, hệ thống dán nhãn dây chuyền đóng gói
 ---
 
 # Dòng máy dán nhãn

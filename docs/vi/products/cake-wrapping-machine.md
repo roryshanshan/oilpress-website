@@ -1,9 +1,79 @@
 ---
-title: Máy ép bánh - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Máy ép bánh là thiết bị phụ trợ cần thiết cho máy ép dầu thủy lực ngang; kích thước khuôn ép có thể tùy chỉnh, đường kính bánh thông dụng 240-480mm
-keywords: máy đóng bánh bã, máy ép bánh bã, thiết bị phụ trợ cho máy ép thủy lực, máy nén bánh, máy đóng gói bánh bã, thiết bị xử lý bã, thiết bị sau ép dầu, thiết bị đóng bánh bã
----
+title: Máy ép bánh - Shengshi Hecheng giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy ép bánh - Shandong Shengshi Hecheng Machinery Co., Ltd. từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy ép bánh, mua Máy ép bánh, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy ép bánh",
+          "description": "Nhận báo giá và tư vấn mua Máy ép bánh - Shandong Shengshi Hecheng Machinery Co., Ltd. từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "cake-wrapping-machine",
+          "url": "https://hydraulic-oil-press.com/vi/products/cake-wrapping-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy ép bánh",
+              "item": "https://hydraulic-oil-press.com/vi/products/cake-wrapping-machine"
+            }
+          ]
+        }
+---
 # Máy ép bánh
 ![Máy ép bánh](https://i.postimg.cc/XW8ztq7j/9fbc817965109be9b37b5995fe94af50.png?dl=1)
 ## Giới thiệu sản phẩm

@@ -1,9 +1,75 @@
 ---
-title: "Máy đóng nút chai thủ công | Dòng máy đóng nút chai"
-description: "Máy này chủ yếu thích hợp để đóng nút chai rượu vang và các chai thủy tinh khác. Nó chủ yếu được kết nối phía sau máy chiết rót và được sử dụng để cắm sau khi đổ đầy."
-keywords: "Máy đóng nắp thủ công, dòng máy đóng nắp, thiết bị đóng gói chất lỏng, thiết bị chiết rót và đóng gói, Shengshi Hechen"
----
+title: Máy đóng nút chai thủ công báo giá | giải pháp trọn gói
+description: Nhận báo giá Máy đóng nút chai thủ công với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+keywords: Máy đóng nút chai thủ công báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Máy đóng nút chai thủ công",
+          "description": "Nhận báo giá \"Máy đóng nút chai thủ công với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "serviceType": "Giải pháp",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/vi/solutions/corking/manual-corking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Giải pháp",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy đóng nút chai thủ công",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/corking/manual-corking-machine"
+            }
+          ]
+        }
+---
 # Máy đóng nút chai thủ công
 
 ![Máy đóng nút chai thủ công](/images/filling-products/manual-corking-machine.webp)
@@ -62,3 +128,11 @@ Máy này chủ yếu thích hợp để đóng nút chai rượu vang và các 
 - [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
 - [Dòng máy đóng nút chai](/vi/solutions/corking/)
 - [Liên hệ với chúng tôi để được tư vấn đầy đủ về dòng sản phẩm](/vi/contact/)
+
+## Nhận giá & báo giá
+
+Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
+
+- [Nhận giá & báo giá](/vi/contact/)
+
+<!-- quote-cta -->

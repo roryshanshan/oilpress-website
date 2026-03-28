@@ -1,9 +1,75 @@
 ---
-title: Solution de cajou (huile de cajou) - Shengshi Hecheng
-description: Solutions professionnelles de pressage de cajou, fournissant des équipements et services techniques de transformation d'huile de cajou, teneur en huile 40-50%
-keywords: Solutions de cajou, pressage d'huile de cajou, équipement de transformation de cajou, ligne de production d'huile de cajou, processus de pressage à froid de cajou, presse à huile de cajou, extraction d'huile de cajou, transformation de graines de cajou, équipement de pressage d'huile de cajou, équipement de production d'huile de cajou
----
+title: Solution de cajou (huile de cajou) - Shengshi Hecheng devis | ...
+description: "Demandez un devis pour Solution de cajou (huile de cajou) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV."
+keywords: Solution de cajou (huile de cajou) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Solution de cajou (huile de cajou)",
+          "description": "Demandez un devis pour Solution de cajou (huile de cajou) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/cashew",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Solution de cajou (huile de cajou)",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/cashew"
+            }
+          ]
+        }
+---
 # Solution de cajou (huile de cajou)
 
 ## Aperçu
@@ -123,3 +189,11 @@ If you are interested in cashew pressing solutions, please contact our technical
 - 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable cashew pressing solution.
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

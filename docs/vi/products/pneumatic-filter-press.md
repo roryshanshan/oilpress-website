@@ -1,9 +1,79 @@
 ---
-title: Máy lọc dầu nhiều tầng khí nén - Shengshi Hecheng
-description: Máy lọc dầu nhiều tầng sử dụng vật liệu inox 304, thiết kế tích hợp, kèm motor, bơm bánh răng và máy nén khí; mở nhanh, an toàn kép
-keywords: máy lọc dầu nhiều tầng khí nén, máy lọc dầu, thiết bị lọc dầu, máy lọc khí nén, bộ lọc dầu, thiết bị tinh lọc dầu
----
+title: Máy lọc dầu nhiều tầng khí nén - Shengshi Hecheng giá | nhà sả...
+description: Nhận báo giá và tư vấn mua Máy lọc dầu nhiều tầng khí nén - Shengshi Hecheng từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy lọc dầu nhiều tầng khí nén, mua Máy lọc dầu nhiều tầng khí nén, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy lọc dầu nhiều tầng khí nén",
+          "description": "Nhận báo giá và tư vấn mua Máy lọc dầu nhiều tầng khí nén - Shengshi Hecheng từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "pneumatic-filter-press",
+          "url": "https://hydraulic-oil-press.com/vi/products/pneumatic-filter-press",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy lọc dầu nhiều tầng khí nén",
+              "item": "https://hydraulic-oil-press.com/vi/products/pneumatic-filter-press"
+            }
+          ]
+        }
+---
 # Máy lọc dầu nhiều tầng khí nén
 ![](https://i.postimg.cc/mR4Z4z8S/image.png?dl=1)
 ## Giới thiệu sản phẩm

@@ -1,9 +1,79 @@
 ---
-title: 27kW电蒸锅 (升级款) - 山东盛世赫程机械有限公司
-description: 27kW电蒸锅升级款采用加厚双水箱设计，水电分离隔断，安全可靠，单次蒸料最多100Kg，7-10分钟即可蒸投物料，304不锈钢材质。
-keywords: 27kW电蒸锅 (升级款), 榨油机设备, 榨油机价格, 榨油机报价, 榨油机采购, 油料加工设备, 榨油机配套设备, 售后服务, 油料预处理设备, 27kW电蒸锅
----
+title: 27kW电蒸锅 (升级款) - 山东盛世赫程机械有限公司价格|厂家报价
+description: 获取27kW电蒸锅 (升级款) - 山东盛世赫程机械有限公司价格、采购与售后支持，厂家直供，支持选型与交付。
+keywords: 27kW电蒸锅 (升级款) - 山东盛世赫程机械有限公司价格, 27kW电蒸锅 (升级款) - 山东盛世赫程机械有限公司报价, 27kW电蒸锅 (升级款) - 山东盛世赫程机械有限公司厂家, 27kW电蒸锅 (升级款) - 山东盛世赫程机械有限公司采购, 售后服务
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "27kW电蒸锅 (升级款)",
+          "description": "获取27kW电蒸锅 (升级款) - 山东盛世赫程机械有限公司价格、采购与售后支持，厂家直供，支持选型与交付。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "27kw-electric-steamer",
+          "url": "https://hydraulic-oil-press.com/zh/products/27kw-electric-steamer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "27kW电蒸锅 (升级款)",
+              "item": "https://hydraulic-oil-press.com/zh/products/27kw-electric-steamer"
+            }
+          ]
+        }
+---
 # 27kW电蒸锅 (升级款)
 ![电蒸锅](https://i.postimg.cc/gYfJ8gy9/27KW.png?dl=1)
 ## 产品概述

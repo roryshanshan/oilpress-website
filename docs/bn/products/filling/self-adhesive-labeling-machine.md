@@ -1,9 +1,79 @@
 ---
-title: "সম্পূর্ণ স্বয়ংক্রিয় স্ব-আঠালো লেবেলিং মেশিন | লেবেলিং মেশিন সিরিজ"
-description: "উল্লম্ব বৃত্তাকার বোতল লেবেলিং মেশিন দৈনন্দিন প্রসাধনী, পানীয়, ওষুধ এবং অন্যান্য শিল্পে বৃত্তাকার বোতল লেবেলিংয়ের জন্য উপযুক্ত।"
-keywords: "সম্পূর্ণ স্বয়ংক্রিয় স্ব-আঠালো লেবেলিং মেশিন, লেবেলিং মেশিন সিরিজ, তরল প্যাকেজিং সরঞ্জাম, ফিলিং এবং প্যাকেজিং সরঞ্জাম, শেংশি হেচেং"
----
+title: সম্পূর্ণ স্বয়ংক্রিয় স্ব-আঠালো লেবেলিং মেশিন দাম | প্রস্তুতকারক
+description: সম্পূর্ণ স্বয়ংক্রিয় স্ব-আঠালো লেবেলিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: সম্পূর্ণ স্বয়ংক্রিয় স্ব-আঠালো লেবেলিং মেশিন দাম, সম্পূর্ণ স্বয়ংক্রিয় স্ব-আঠালো লেবেলিং মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "সম্পূর্ণ স্বয়ংক্রিয় স্ব-আঠালো লেবেলিং মেশিন",
+          "description": "\"সম্পূর্ণ স্বয়ংক্রিয় স্ব-আঠালো লেবেলিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "self-adhesive-labeling-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/self-adhesive-labeling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "সম্পূর্ণ স্বয়ংক্রিয় স্ব-আঠালো লেবেলিং মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/self-adhesive-labeling-machine"
+            }
+          ]
+        }
+---
 # সম্পূর্ণ স্বয়ংক্রিয় স্ব-আঠালো লেবেলিং মেশিন
 
 ![সম্পূর্ণ স্বয়ংক্রিয় স্ব-আঠালো লেবেলিং মেশিন](/images/filling-products/self-adhesive-labeling-machine.webp)

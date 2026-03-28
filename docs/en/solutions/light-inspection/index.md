@@ -1,7 +1,7 @@
 ---
-title: "Light inspection machine series"
-description: "The light inspection machine series is used for online inspection of bottled liquid products. It can check liquid level, foreign matter, sealing status, bottle cap deviation and other issues. It is suitable for edible oil and liquid packaging lines."
-keywords: "Light inspection machine series, light inspection machine, online inspection equipment, liquid level detection, foreign matter detection, bottled oil packaging inspection"
+title: Light inspection machine series
+description: The light inspection machine series is used for online inspection of bottled liquid products.
+keywords: Light inspection machine series, light inspection machine, online inspection equipment, liquid level detection, foreign matter detection, bottled oil packaging inspection
 ---
 
 # Lamp inspection machine series

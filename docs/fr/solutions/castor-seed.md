@@ -1,9 +1,75 @@
 ---
-title: Solution de graines de ricin (huile de ricin) - Shengshi Hecheng
-description: Solutions professionnelles de pressage d'huile de graines de ricin, fournissant des équipements et services techniques de transformation d'huile de ricin
-keywords: Solutions de graines de ricin, pressage d'huile de ricin, équipement de transformation de graines de ricin, ligne de production d'huile de ricin, processus de pressage à chaud de graines de ricin, presse à huile de ricin, extraction d'huile de ricin, transformation de graines oléagineuses de ricin, équipement de pressage d'huile de ricin, équipement de production d'huile de ricin, usine de transformation d'huile de ricin
----
+title: Solution de graines de ricin (huile de ricin) - Shengshi Heche...
+description: "Demandez un devis pour Solution de graines de ricin (huile de ricin) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV."
+keywords: Solution de graines de ricin (huile de ricin) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Solution de graines de ricin (huile de ricin)",
+          "description": "Demandez un devis pour Solution de graines de ricin (huile de ricin) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/castor-seed",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Solution de graines de ricin (huile de ricin)",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/castor-seed"
+            }
+          ]
+        }
+---
 # Solution de graines de ricin (huile de ricin)
 
 ## Aperçu
@@ -148,3 +214,11 @@ If you are interested in castor seed pressing solutions, please contact our tech
 - 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable castor seed pressing solution.
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

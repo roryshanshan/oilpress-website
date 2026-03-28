@@ -1,9 +1,79 @@
 ---
-title: 食用油精炼设备 - 山东盛世赫程机械有限公司
-description: 专业食用油精炼设备，日处理量1-5吨，采用先进精炼工艺去除毛油杂质，提高油品品质，适合各种油料精炼，支持定制化生产。
-keywords: 食用油精炼设备, 榨油机设备, 榨油机价格, 榨油机报价, 榨油机采购, 油料加工设备, 榨油机配套设备, 售后服务, 油料预处理设备, 油脂精炼设备
----
+title: 食用油精炼设备 - 山东盛世赫程机械有限公司价格|厂家报价
+description: 获取食用油精炼设备 - 山东盛世赫程机械有限公司价格、采购与售后支持，厂家直供，支持选型与交付。
+keywords: 食用油精炼设备 - 山东盛世赫程机械有限公司价格, 食用油精炼设备 - 山东盛世赫程机械有限公司报价, 食用油精炼设备 - 山东盛世赫程机械有限公司厂家, 食用油精炼设备 - 山东盛世赫程机械有限公司采购, 售后服务
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "食用油精炼设备",
+          "description": "获取食用油精炼设备 - 山东盛世赫程机械有限公司价格、采购与售后支持，厂家直供，支持选型与交付。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "edible-oil-refining-equipment",
+          "url": "https://hydraulic-oil-press.com/zh/products/edible-oil-refining-equipment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "食用油精炼设备",
+              "item": "https://hydraulic-oil-press.com/zh/products/edible-oil-refining-equipment"
+            }
+          ]
+        }
+---
 # 食用油精炼设备
 
 <div style="margin: 2rem 0;">

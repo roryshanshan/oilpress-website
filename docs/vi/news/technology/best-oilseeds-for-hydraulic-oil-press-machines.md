@@ -1,6 +1,6 @@
 ---
-title: "Nguyên liệu nào phù hợp nhất với máy ép dầu thủy lực: Hướng dẫn chọn cho dự án dầu cao cấp"
-description: "Tìm hiểu loại nguyên liệu nào phù hợp nhất với máy ép dầu thủy lực và cách ghép mè, lạc, óc chó, hạt lanh cùng các nguyên liệu khác với cấu hình ép nóng hoặc ép lạnh phù hợp."
+title: "Nguyên liệu nào phù hợp nhất với máy ép dầu thủy lực: Hướng dẫ..."
+description: Tìm hiểu loại nguyên liệu nào phù hợp nhất với máy ép dầu thủy lực và cách ghép mè, lạc, óc chó
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-21"
 ---

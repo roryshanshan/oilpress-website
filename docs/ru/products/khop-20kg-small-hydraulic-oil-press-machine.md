@@ -1,9 +1,79 @@
 ---
-title: "KHOP-20KG малая гидравлическая маслопрессовая машина | Для магазина и небольшого цеха"
-description: "KHOP-20KG подходит для магазинов кунжутного масла и небольших цехов, с ориентировочной производительностью 2,1 тонны за 24 часа и более сильной ежедневной выработкой."
-keywords: KHOP-20KG малый гидравлический маслопресс, пресс для кунжута 20kg, корейский гидравлический пресс, магазинный и цеховой маслопресс
----
+title: KHOP-20KG малая гидравлическая маслопрессовая машина цена
+description: Запросите цену и подбор KHOP-20KG малая гидравлическая маслопрессовая машина. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: KHOP-20KG малая гидравлическая маслопрессовая машина цена, купить KHOP-20KG малая гидравлическая маслопрессовая машина, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "KHOP-20KG малая гидравлическая маслопрессовая машина",
+          "description": "Запросите цену и подбор \"KHOP-20KG малая гидравлическая маслопрессовая машина. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "khop-20kg-small-hydraulic-oil-press-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/khop-20kg-small-hydraulic-oil-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "KHOP-20KG малая гидравлическая маслопрессовая машина",
+              "item": "https://hydraulic-oil-press.com/ru/products/khop-20kg-small-hydraulic-oil-press-machine"
+            }
+          ]
+        }
+---
 # KHOP-20KG малая гидравлическая маслопрессовая машина
 
 ![KHOP-20KG малая гидравлическая маслопрессовая машина](/images/korean-type-small-press/korean-type-side.jpg)

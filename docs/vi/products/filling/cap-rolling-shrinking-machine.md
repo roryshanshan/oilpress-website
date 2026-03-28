@@ -1,9 +1,79 @@
 ---
-title: "Máy cán/thu nhỏ nắp | Dòng máy co nhiệt nắp cao su"
-description: "Dòng máy co nhiệt này chủ yếu thực hiện chức năng bịt kín co nhiệt trên nắp cao su co nhiệt PVC và được sử dụng đặc biệt để co nắp sau khi đóng nút chai rượu."
-keywords: "Máy cán/thu nhỏ nắp kép, dòng máy co nhiệt nắp cao su, thiết bị đóng gói chất lỏng, thiết bị chiết rót và đóng gói, Shengshi Hechen"
----
+title: Máy cán/thu nhỏ nắp giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy cán/thu nhỏ nắp từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy đóng nắp/thu nhỏ, mua Máy đóng nắp/thu nhỏ, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy đóng nắp/thu nhỏ",
+          "description": "Nhận báo giá và tư vấn mua \"Máy cán/thu nhỏ nắp từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "cap-rolling-shrinking-machine",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling/cap-rolling-shrinking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy đóng nắp/thu nhỏ",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling/cap-rolling-shrinking-machine"
+            }
+          ]
+        }
+---
 # Máy đóng nắp/thu nhỏ
 
 ![Máy cán/thu nhỏ nắp](/images/filling-products/cap-rolling-shrinking-machine.webp)

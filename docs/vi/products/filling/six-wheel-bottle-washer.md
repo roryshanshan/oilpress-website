@@ -1,9 +1,79 @@
 ---
-title: "Máy súc rửa sáu bánh | dòng máy rửa"
-description: "Máy này áp dụng nguyên lý truyền xích con lăn tay áo. Toàn bộ dây chuyền băng tải có khả năng truyền động chính xác và chống mài mòn tốt. Nước tuần hoàn sử dụng phun theo dõi và phun theo đường ống cố định. Phần nước sạch sử dụng bộ phân phối nước để theo dõi và phun nhằm tiết kiệm nguồn nước và cải thiện việc sử dụng nước."
-keywords: "Máy súc rửa sáu bánh, dòng máy súc rửa, thiết bị đóng gói chất lỏng, thiết bị chiết rót và đóng gói, Shengshi Hechen"
----
+title: Máy súc rửa sáu bánh giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy súc rửa sáu bánh từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy rửa sáu bánh, mua Máy rửa sáu bánh, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy rửa sáu bánh",
+          "description": "Nhận báo giá và tư vấn mua \"Máy súc rửa sáu bánh từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "six-wheel-bottle-washer",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling/six-wheel-bottle-washer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy rửa sáu bánh",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling/six-wheel-bottle-washer"
+            }
+          ]
+        }
+---
 # Máy rửa sáu bánh
 
 ![Máy rửa chai sáu bánh](/images/filling-products/six-wheel-bottle-washer.webp)

@@ -1,9 +1,79 @@
 ---
-title: Wood-Fired Steamer - Shengshi Hecheng
-description: Wood-fired steamer made of Q355B material, can be heated with coal/wood/gas fuel, integrated water tank, 304 stainless steel pot body
-keywords: Wood-Fired Steamer, oil press machine, oil press price, oil press quotation, oil press supplier, oil processing equipment, supporting equipment, after-sales service, oilseed processing equipment, Steamer equipment
----
+title: Wood-Fired Steamer - Shengshi Hecheng Price | Manufacturer & Q...
+description: Get price, procurement, and after-sales support for Wood-Fired Steamer - Shengshi Hecheng from Shengshi Hecheng manufacturer.
+keywords: Wood-Fired Steamer - Shengshi Hecheng price, Wood-Fired Steamer - Shengshi Hecheng quote, Wood-Fired Steamer - Shengshi Hecheng manufacturer, Wood-Fired Steamer - Shengshi Hecheng supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Wood-Fired Steamer",
+          "description": "Get price, procurement, and after-sales support for Wood-Fired Steamer - Shengshi Hecheng from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "wood-fired-steamer",
+          "url": "https://hydraulic-oil-press.com/en/products/wood-fired-steamer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Wood-Fired Steamer",
+              "item": "https://hydraulic-oil-press.com/en/products/wood-fired-steamer"
+            }
+          ]
+        }
+---
 # Wood-Fired Steamer
 ![Wood-Fired Steamer](https://i.postimg.cc/Gcs3LvWX/image.png?dl=1)
 ## Product Overview

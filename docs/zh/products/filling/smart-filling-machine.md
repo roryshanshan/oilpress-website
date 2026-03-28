@@ -1,9 +1,79 @@
 ---
-title: 系列智能型灌装机 | 12-36头瓶装液体灌装设备
-description: 系列智能型灌装机覆盖 12-36 头配置，参考速度 4000-13000 瓶/小时，500±1 ml 精度，适合零售瓶装油和多规格瓶型自动线。
-keywords: 系列智能型灌装机, 12头灌装机, 36头灌装机, 常压灌装机, 灌装机系列, 盛世赫程
----
+title: 系列智能型灌装机价格|厂家报价
+description: 获取系列智能型灌装机价格、采购与售后支持，厂家直供，支持选型与交付。
+keywords: 系列智能型灌装机价格, 系列智能型灌装机报价, 系列智能型灌装机厂家, 系列智能型灌装机采购, 售后服务
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "系列智能型灌装机",
+          "description": "获取系列智能型灌装机价格、采购与售后支持，厂家直供，支持选型与交付。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "smart-filling-machine",
+          "url": "https://hydraulic-oil-press.com/zh/products/filling/smart-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "系列智能型灌装机",
+              "item": "https://hydraulic-oil-press.com/zh/products/filling/smart-filling-machine"
+            }
+          ]
+        }
+---
 # 系列智能型灌装机
 
 ![系列智能型灌装机](/images/filling-products/smart-filling-machine.webp)
@@ -48,4 +118,4 @@ keywords: 系列智能型灌装机, 12头灌装机, 36头灌装机, 常压灌装
 
 - [灌装包装设备参数库](/zh/products/filling-equipment)
 - [灌装机系列](/zh/solutions/filling/)
-- [联系我们获取整线建议](/zh/contact/)
+- [获取报价/整线建议](/zh/contact/)

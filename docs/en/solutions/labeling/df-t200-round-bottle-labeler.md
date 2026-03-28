@@ -1,9 +1,75 @@
 ---
-title: "DF-T200 semi-automatic round bottle labeling machine | Labeling machine series"
-description: "DF-T200 semi-automatic round bottle labeling machine is suitable as a representative model in the labeling machine series."
-keywords: "DF-T200 semi-automatic round bottle labeling machine, labeling machine series, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: DF-T200 semi-automatic round bottle labeling machine Quote
+description: Get a quote and turnkey plan for DF-T200 semi-automatic round bottle labeling machine. Process design, equipment list, and after-sales support.
+keywords: DF-T200 semi-automatic round bottle labeling machine quote, DF-T200 semi-automatic round bottle labeling machine price, turnkey solution, production line, procurement
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "DF-T200 semi-automatic round bottle labeling machine",
+          "description": "Get a quote and turnkey plan for \"DF-T200 semi-automatic round bottle labeling machine. Process design, equipment list, and after-sales support.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/en/solutions/labeling/df-t200-round-bottle-labeler",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/en/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "DF-T200 semi-automatic round bottle labeling machine",
+              "item": "https://hydraulic-oil-press.com/en/solutions/labeling/df-t200-round-bottle-labeler"
+            }
+          ]
+        }
+---
 # DF-T200 semi-automatic round bottle labeling machine
 
 ![DF-T200 semi-automatic round bottle labeling machine](/images/filling-products/df-t200-round-bottle-labeler.webp)
@@ -67,3 +133,11 @@ DF-T200 semi-automatic round bottle labeling machine is suitable as a representa
 - [Filling and packaging equipment parameter library](/en/products/filling-equipment)
 - [Labeling machine series](/en/solutions/labeling/)
 - [Contact us for complete line advice](/en/contact/)
+
+## Get Price & Quote
+
+Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+
+- [Get Price & Quote](/en/contact/)
+
+<!-- quote-cta -->

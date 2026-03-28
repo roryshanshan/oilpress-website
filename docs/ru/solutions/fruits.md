@@ -1,7 +1,74 @@
 ---
-title: Решения для масла фруктов
-description: Масла фруктов получают из различных плодов, косточек или семян, обладая уникальными питательными компонентами и ценностью для здоровья.
-keywords: гидравлический маслопресс, пресс для масла, оборудование для отжима масла
+title: Решения для масла фруктов цена | комплексное решение
+description: "Запросите стоимость решения Решения для масла фруктов: проект линии, список оборудования и сервис."
+keywords: Решения для масла фруктов цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
+
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Решения для масла фруктов",
+          "description": "Запросите стоимость решения Решения для масла фруктов: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/fruits",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Решения для масла фруктов",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/fruits"
+            }
+          ]
+        }
 ---
 # Решения для масла фруктов
 
@@ -225,3 +292,11 @@ graph TD
 - 📍 **Адрес**: № 5888, улица Иньнэн, зона развития, город Цинчжоу, город Вэйфан, провинция Шаньдун, Китай
 
 Мы предоставляем бесплатные технические консультации, тестирование образцов и услуги выездного обследования, индивидуально подбирая наиболее подходящие решения для переработки масла фруктов.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

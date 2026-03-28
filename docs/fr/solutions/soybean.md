@@ -1,9 +1,75 @@
 ---
-title: Solutions de soja (huile de soja) - Shengshi Hecheng
-description: Shandong Shengshi Hecheng fournit des solutions professionnelles de pressage de soja, équipements et services complets des petits ateliers aux grandes usines
-keywords: Solutions de soja, pressage d'huile de soja, équipement de transformation de soja, ligne de production d'huile de soja, procédé de pressage à froid de soja, procédé de pressage à chaud de soja, presse à huile de soja, transformation de tourteau de soja, extraction d'huile de soja, transformation de graines de soja, équipement de pressage de soja, équipement de raffinage d'huile de soja, usine de transformation d'huile de soja, technologie de pressage de soja, équipement de production d'huile de soja
----
+title: Solutions de soja (huile de soja) - Shengshi Hecheng devis | s...
+description: "Demandez un devis pour Solutions de soja (huile de soja) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV."
+keywords: Solutions de soja (huile de soja) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Solutions de soja (huile de soja)",
+          "description": "Demandez un devis pour Solutions de soja (huile de soja) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/soybean",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Solutions de soja (huile de soja)",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/soybean"
+            }
+          ]
+        }
+---
 # Solutions de soja (huile de soja)
 
 ## Aperçu
@@ -135,3 +201,11 @@ Si vous êtes intéressé par les solutions de pressage de soja, veuillez contac
 - 📍 **Adresse** : N° 5888, rue Yineng, zone de développement, ville de Qingzhou, province du Shandong, Chine
 
 Nous fournissons des services de consultation technique gratuite, de test d'échantillons et d'inspection sur site pour vous offrir les solutions de pressage de soja les plus adaptées.
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

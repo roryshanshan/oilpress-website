@@ -1,9 +1,75 @@
 ---
-title: "Machine à sceller les bouchons en aluminium | Série de machines à sceller"
-description: "La machine à sceller les bouchons en aluminium convient comme modèle représentatif dans la série des machines à sceller."
-keywords: "Machine à sceller les bouchons en aluminium, série de machines à sceller, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Machine à sceller les bouchons en aluminium devis
+description: "Demandez un devis pour Machine à sceller les bouchons en aluminium : plan de ligne, liste d’équipements et SAV."
+keywords: Machine à sceller les bouchons en aluminium prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Machine à sceller les bouchons en aluminium",
+          "description": "Demandez un devis pour \"Machine à sceller les bouchons en aluminium : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/sealing/aluminum-cap-sealing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine à sceller les bouchons en aluminium",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/sealing/aluminum-cap-sealing-machine"
+            }
+          ]
+        }
+---
 # Machine à sceller les bouchons en aluminium
 
 ![Machine à sceller les bouchons en aluminium](/images/filling-products/aluminum-cap-sealing-machine.webp)
@@ -41,3 +107,11 @@ La machine à sceller les bouchons en aluminium convient comme modèle représen
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
 - [Série de machines à sceller](/fr/solutions/sealing/)
 - [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

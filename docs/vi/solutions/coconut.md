@@ -1,9 +1,75 @@
 ---
-title: Giải pháp dừa (Dầu dừa) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: Giải pháp ép dừa chuyên nghiệp, cung cấp thiết bị và dịch vụ kỹ thuật cho dầu dừa, tỷ lệ dầu 60-70%, giàu axit lauric
-keywords: giải pháp dừa, ép dầu dừa, thiết bị chế biến dừa, dây chuyền sản xuất dầu dừa, quy trình ép lạnh dừa, máy ép dừa, thiết bị sản xuất dầu dừa
----
+title: Giải pháp dừa (Dầu dừa) - Công ty TNHH Shengshi Hecheng Sơn Đô...
+description: Nhận báo giá Giải pháp dừa (Dầu dừa) - Công ty TNHH Shengshi Hecheng Sơn Đông với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+keywords: Giải pháp dừa (Dầu dừa) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Giải pháp dừa (Dầu dừa)",
+          "description": "Nhận báo giá Giải pháp dừa (Dầu dừa) - Công ty TNHH Shengshi Hecheng Sơn Đông với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "serviceType": "Giải pháp",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/vi/solutions/coconut",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Giải pháp",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Giải pháp dừa (Dầu dừa)",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/coconut"
+            }
+          ]
+        }
+---
 # Giải pháp dừa (Dầu dừa)
 
 ## Tổng quan
@@ -132,3 +198,11 @@ Dừa là nguyên liệu dầu quan trọng, dầu dừa có giá trị dinh dư
 - 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
 
 我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的椰子压榨解决方案。
+
+## Nhận giá & báo giá
+
+Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
+
+- [Nhận giá & báo giá](/vi/contact/)
+
+<!-- quote-cta -->

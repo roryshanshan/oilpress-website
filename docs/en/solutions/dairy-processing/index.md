@@ -1,7 +1,7 @@
 ---
-title: "Milk processing equipment"
-description: "Milk processing equipment is suitable for the preparation, sterilization, storage, filling and packaging of milk, yogurt drinks, milk drinks and other products, and is suitable for liquid food projects with high hygiene requirements."
-keywords: "Milk processing equipment, dairy processing equipment, milk filling line, yogurt beverage equipment, milk beverage packaging equipment, sanitary liquid food equipment"
+title: Milk processing equipment
+description: Milk processing equipment is suitable for the preparation, sterilization, storage, filling and packaging of milk, yogurt drinks, milk drinks and other products
+keywords: Milk processing equipment, dairy processing equipment, milk filling line, yogurt beverage equipment, milk beverage packaging equipment, sanitary liquid food equipment
 ---
 
 # milk processing equipment

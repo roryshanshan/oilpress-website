@@ -1,9 +1,75 @@
 ---
-title: Solution de son de riz (huile de son de riz) - Shengshi Hecheng
-description: Solutions professionnelles de pressage de son de riz, fournissant des équipements et services techniques de transformation d'huile de son de riz
-keywords: Solutions de son de riz, pressage d'huile de son de riz, équipement de transformation de son de riz, ligne de production d'huile de son de riz, processus de pressage à froid d'huile de son de riz, presse à huile de son de riz, extraction d'huile de son de riz, transformation de graines oléagineuses de son de riz, équipement de pressage d'huile de son de riz, équipement de production d'huile de son de riz
----
+title: Solution de son de riz (huile de son de riz) - Shengshi Hechen...
+description: "Demandez un devis pour Solution de son de riz (huile de son de riz) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV."
+keywords: Solution de son de riz (huile de son de riz) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Solution de son de riz (huile de son de riz)",
+          "description": "Demandez un devis pour Solution de son de riz (huile de son de riz) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/rice-bran",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Solution de son de riz (huile de son de riz)",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/rice-bran"
+            }
+          ]
+        }
+---
 # Solution de son de riz (huile de son de riz)
 
 ## Aperçu
@@ -130,3 +196,11 @@ If you are interested in rice bran pressing solutions, please contact our techni
 - 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable rice bran pressing solution.
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

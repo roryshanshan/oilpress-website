@@ -1,9 +1,79 @@
 ---
 title: Видео заказа и отгрузки клиента - Shengshi Hecheng
 description: Shandong Shengshi Hecheng видео заказа и отгрузки клиента, включая упаковку оборудования, погрузку и транспортировку, приемку клиента и другие процессы
-keywords: Видео заказа и отгрузки клиента, Упаковка оборудования отгрузка, Отгрузка гидравлического маслопресса, Сайт отгрузки, Приемка клиента, Видео отгрузки Shandong Shengshi Hecheng, Транспортировка оборудования, Услуга отгрузки
----
+keywords: Видео заказа и отгрузки клиента цена, купить Видео заказа и отгрузки клиента, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Видео заказа и отгрузки клиента",
+          "description": "Shandong Shengshi Hecheng видео заказа и отгрузки клиента, включая упаковку оборудования, погрузку и транспортировку, приемку клиента и другие процессы",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "customer-order-shipping-video",
+          "url": "https://hydraulic-oil-press.com/ru/products/customer-order-shipping-video",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Видео заказа и отгрузки клиента",
+              "item": "https://hydraulic-oil-press.com/ru/products/customer-order-shipping-video"
+            }
+          ]
+        }
+---
 #  <center> Видео заказа и отгрузки клиента</center>
 
 ## Обзор услуги отгрузки

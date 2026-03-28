@@ -1,9 +1,75 @@
 ---
-title: 粮油类（种子类）解决方案 - 山东盛世赫程机械有限公司
-description: 提供大豆、花生、芝麻、油菜籽等粮油类种子的全套加工解决方案，涵盖小型作坊到大型工厂，专业榨油设备，高油质保证，智能化控制。
-keywords: 粮油类解决方案, 种子类油料, 大豆油加工, 花生油加工, 芝麻油加工, 油菜籽加工, 葵花籽油, 榨油设备, 油料加工技术, 山东盛世赫程
----
+title: 粮油类（种子类）解决方案 - 山东盛世赫程机械有限公司 কোটেশন | সম্পূর্ণ সমাধান
+description: 粮油类（种子类）解决方案 - 山东盛世赫程机械有限公司 এর কোটেশন নিন—লাইন পরিকল্পনা, যন্ত্রপাতির তালিকা ও সাপোর্টসহ।
+keywords: 粮油类（种子类）解决方案 লাইন দরপত্র, টার্নকি সমাধান, যন্ত্রপাতির তালিকা, কারখানা থেকে ক্রয়, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "粮油类（种子类）解决方案",
+          "description": "粮油类（种子类）解决方案 - 山东盛世赫程机械有限公司 এর কোটেশন নিন—লাইন পরিকল্পনা, যন্ত্রপাতির তালিকা ও সাপোর্টসহ।",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "serviceType": "সমাধান",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/bn/solutions/seed-oils",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "সমাধান",
+              "item": "https://hydraulic-oil-press.com/bn/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "粮油类（种子类）解决方案",
+              "item": "https://hydraulic-oil-press.com/bn/solutions/seed-oils"
+            }
+          ]
+        }
+---
 # 粮油类（种子类）解决方案
 
 ## 概述
@@ -186,3 +252,11 @@ graph TD
 - 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
 
 我们将根据您的具体需求，提供个性化的解决方案和技术支持。
+
+## দাম ও দরপত্র নিন
+
+ক্ষমতা, কাঁচামাল ও বাজেট দিন—আমরা লাইন কনফিগারেশন ও দরপত্র দেব।
+
+- [দাম ও দরপত্র নিন](/bn/contact/)
+
+<!-- quote-cta -->

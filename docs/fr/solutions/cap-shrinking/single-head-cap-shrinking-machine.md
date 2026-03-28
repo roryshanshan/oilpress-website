@@ -1,9 +1,75 @@
 ---
-title: "Machine thermorétractable pour capuchons en caoutchouc à une tête | Série de machines thermorétractables pour capuchons en caoutchouc"
-description: "Cette série de machines thermorétractables effectue principalement un scellage thermorétractable sur des bouchons en caoutchouc thermorétractable en PVC et est spécialement utilisée pour rétrécir les bouchons après le bouchage du vin."
-keywords: "Machine thermorétractable à tête unique pour capuchons en caoutchouc, série de machines thermorétractables pour capuchons en caoutchouc, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Machine thermorétractable pour capuchons en cao Solution | Devis
+description: "Demandez un devis pour Machine thermorétractable pour capuchons en caoutchouc à une tête : plan de ligne, liste d’équipements et SAV."
+keywords: Machine thermorétractable à capuchon en caoutchouc à tête unique prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Machine thermorétractable à capuchon en caoutchouc à tête unique",
+          "description": "Demandez un devis pour \"Machine thermorétractable pour capuchons en caoutchouc à une tête : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/cap-shrinking/single-head-cap-shrinking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine thermorétractable à capuchon en caoutchouc à tête unique",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/cap-shrinking/single-head-cap-shrinking-machine"
+            }
+          ]
+        }
+---
 # Machine thermorétractable à capuchon en caoutchouc à tête unique
 
 ![Machine de rétrécissement de bouchons à tête unique](/images/filling-products/single-head-cap-shrinking-machine.webp)
@@ -65,3 +131,11 @@ Cette série de machines thermorétractables effectue principalement un scellage
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
 - [Série de machines de thermorétraction pour bouchons](/fr/solutions/cap-shrinking/)
 - [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

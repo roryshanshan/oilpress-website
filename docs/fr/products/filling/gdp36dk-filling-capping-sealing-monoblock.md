@@ -1,9 +1,79 @@
 ---
-title: "GDP36DK-10-10 Machine combinée de remplissage et de bouchage intelligente entièrement automatique | machine combinée et bus de support de remplissage"
-description: "Ce modèle est l’un des équipements haut de gamme les plus populaires dans l’industrie du remplissage du vin. Il introduit une technologie de principe de fonctionnement avancée étrangère, intègre la lumière, l'électricité et le gaz, est rapide, précis et efficace, et est largement utilisé dans l'industrie des produits d'emballage du vin."
-keywords: "Machine combinée de remplissage et de bouchage intelligente entièrement automatique GDP36DK-10-10, machine combinée et bus de support de remplissage, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: GDP36DK-10-10 Machine combinée de remplissage et de bouchage ...
+description: Demandez le prix et le devis pour GDP36DK-10-10 Machine combinée de remplissage et de bouchage intelligente entièrement automatique.
+keywords: GDP36DK-10-10 Machine de remplissage, de bouchage et de scellage intelligente entièrement automatique prix, acheter GDP36DK-10-10 Machine de remplissage, de bouchage et de scellage intelligente entièrement automatique, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "GDP36DK-10-10 Machine de remplissage, de bouchage et de scellage intelligente entièrement automatique",
+          "description": "Demandez le prix et le devis pour \"GDP36DK-10-10 Machine combinée de remplissage et de bouchage intelligente entièrement automatique.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "gdp36dk-filling-capping-sealing-monoblock",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/gdp36dk-filling-capping-sealing-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GDP36DK-10-10 Machine de remplissage, de bouchage et de scellage intelligente entièrement automatique",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/gdp36dk-filling-capping-sealing-monoblock"
+            }
+          ]
+        }
+---
 # GDP36DK-10-10 Machine de remplissage, de bouchage et de scellage intelligente entièrement automatique
 
 ![Machine de remplissage et de bouchage intelligente entièrement automatique GDP36DK-10-10](/images/filling-products/gdp36dk-filling-capping-sealing-monoblock.webp)

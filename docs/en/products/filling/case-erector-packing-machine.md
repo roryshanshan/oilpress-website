@@ -1,9 +1,79 @@
 ---
-title: "Automatic unpacking, carton forming, cartoning machine | Packing, palletizing"
-description: "It automatically alarms when there is a shortage of tapes and cartons, and adopts PLC + display screen control, which greatly facilitates operation and is an indispensable equipment for automated large-scale production;"
-keywords: "Automatic unpacking, carton forming, cartoning machines, cartoning, palletizing, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: Automatic unpacking, carton forming, cartoning machine Price
+description: Get price, procurement, and after-sales support for Automatic unpacking, carton forming, cartoning machine from Shengshi Hecheng manufacturer.
+keywords: Automatic unpacking, carton forming, cartoning machine price, Automatic unpacking, carton forming, cartoning machine quote, Automatic unpacking, carton forming, cartoning machine manufacturer, Automatic unpacking, carton forming, cartoning machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Automatic unpacking, carton forming, and cartoning machines",
+          "description": "Get price, procurement, and after-sales support for \"Automatic unpacking, carton forming, cartoning machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "case-erector-packing-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/case-erector-packing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Automatic unpacking, carton forming, and cartoning machines",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/case-erector-packing-machine"
+            }
+          ]
+        }
+---
 # Automatic unpacking, carton forming, and cartoning machines
 
 ![Automatic unpacking, carton forming, and packing machine](/images/filling-products/case-erector-packing-machine.webp)

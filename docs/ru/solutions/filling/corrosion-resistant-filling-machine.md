@@ -1,9 +1,75 @@
 ---
-title: "Разливочная машина, устойчивая к кислотной и щелочной коррозии | Сильный коррозионный жидкий наполнительный раствор"
-description: "Разливочная машина, устойчивая к кислотной и щелочной коррозии, подходит для розлива сильнокоррозионных или сильнопенящихся жидкостей, таких как жидкость для чистки туалетов, дезинфицирующие средства 84, пестициды и жидкие удобрения, а также поддерживает погружные противопенные и противокапельные конфигурации."
-keywords: "Разливочная машина, устойчивая к кислотной и щелочной коррозии, антикоррозийная разливочная машина, машина для розлива пестицидов, машина для ежедневного розлива химикатов, серия разливочных машин, Shengshi Hecheng"
----
+title: Разливочная машина, устойчивая к кислотной и щело Решение | Цена
+description: "Запросите стоимость решения Разливочная машина, устойчивая к кислотной и щелочной коррозии: проект линии, список оборудования и сервис."
+keywords: Машина для розлива, устойчивая к кислотной и щелочной коррозии цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Машина для розлива, устойчивая к кислотной и щелочной коррозии",
+          "description": "Запросите стоимость решения \"Разливочная машина, устойчивая к кислотной и щелочной коррозии: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/filling/corrosion-resistant-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Машина для розлива, устойчивая к кислотной и щелочной коррозии",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/filling/corrosion-resistant-filling-machine"
+            }
+          ]
+        }
+---
 # Машина для розлива, устойчивая к кислотной и щелочной коррозии
 
 ![Машина для розлива, устойчивая к кислоте и щелочи](/images/filling-products/corrosion-resistant-filling-machine.webp)
@@ -40,3 +106,11 @@ keywords: "Разливочная машина, устойчивая к кисл
 - [Библиотека параметров фасовочно-упаковочного оборудования](/ru/products/filling-equipment)
 - [Серия разливочных машин](/ru/solutions/filling/)
 - [Свяжитесь с нами для получения полной консультации по линии](/ru/contact/)
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

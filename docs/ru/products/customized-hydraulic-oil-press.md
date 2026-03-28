@@ -1,9 +1,79 @@
 ---
-title: Гидравлический маслопресс на заказ - Shengshi Hecheng
-description: Shandong Shengshi Hecheng предоставляет персонализированные решения гидравлического маслопресса, настраивая спецификации
-keywords: Гидравлический маслопресс на заказ, Персонализированное оборудование для прессования масла, Гидравлический маслопресс на заказ для клиента, Специальный гидравлический маслопресс, Персонализированный маслопресс, Специализированный гидравлический маслопресс, Персонализированное оборудование Shandong Shengshi Hecheng
----
+title: Гидравлический маслопресс на заказ - Shengshi Hecheng цена | п...
+description: Запросите цену и подбор Гидравлический маслопресс на заказ - Shengshi Hecheng. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Гидравлический маслопресс на заказ цена, купить Гидравлический маслопресс на заказ, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Гидравлический маслопресс на заказ",
+          "description": "Запросите цену и подбор Гидравлический маслопресс на заказ - Shengshi Hecheng. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "customized-hydraulic-oil-press",
+          "url": "https://hydraulic-oil-press.com/ru/products/customized-hydraulic-oil-press",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Гидравлический маслопресс на заказ",
+              "item": "https://hydraulic-oil-press.com/ru/products/customized-hydraulic-oil-press"
+            }
+          ]
+        }
+---
 #  <center> Гидравлический маслопресс на заказ</center>
 
 ## Обзор услуги персонализации

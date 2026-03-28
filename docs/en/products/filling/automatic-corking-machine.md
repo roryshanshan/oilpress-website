@@ -1,9 +1,79 @@
 ---
-title: "Fully automatic corking machine | Corking machine series"
-description: "This machine is mainly suitable for corking wine and other glass bottles. It is mainly connected behind the filling machine and is used for plugging after filling."
-keywords: "Fully automatic stoppering machine, stoppering machine series, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: Fully automatic corking machine Price | Manufacturer & Quote
+description: Get price, procurement, and after-sales support for Fully automatic corking machine from Shengshi Hecheng manufacturer.
+keywords: Fully automatic corking machine price, Fully automatic corking machine quote, Fully automatic corking machine manufacturer, Fully automatic corking machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Fully automatic corking machine",
+          "description": "Get price, procurement, and after-sales support for \"Fully automatic corking machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "automatic-corking-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/automatic-corking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Fully automatic corking machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/automatic-corking-machine"
+            }
+          ]
+        }
+---
 # Fully automatic corking machine
 
 ![Fully automatic corking machine](/images/filling-products/automatic-corking-machine.webp)

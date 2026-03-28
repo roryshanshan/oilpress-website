@@ -1,9 +1,79 @@
 ---
-title: 白酒灌装二联机 | 联体机与灌装配套总线
-description: 本机用于不含气液体的定量灌装、封口。
-keywords: 白酒灌装二联机, 联体机与灌装配套总线, 液体包装设备, 灌装包装设备, 盛世赫程
----
+title: 白酒灌装二联机价格|厂家报价
+description: 获取白酒灌装二联机价格、采购与售后支持，厂家直供，支持选型与交付。
+keywords: 白酒灌装二联机价格, 白酒灌装二联机报价, 白酒灌装二联机厂家, 白酒灌装二联机采购, 售后服务
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "白酒灌装二联机",
+          "description": "获取白酒灌装二联机价格、采购与售后支持，厂家直供，支持选型与交付。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "baijiu-filling-capping-monoblock",
+          "url": "https://hydraulic-oil-press.com/zh/products/filling/baijiu-filling-capping-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "白酒灌装二联机",
+              "item": "https://hydraulic-oil-press.com/zh/products/filling/baijiu-filling-capping-monoblock"
+            }
+          ]
+        }
+---
 # 白酒灌装二联机
 
 ![白酒灌装二联机](/images/filling-products/baijiu-filling-capping-monoblock.webp)
@@ -97,4 +167,4 @@ keywords: 白酒灌装二联机, 联体机与灌装配套总线, 液体包装设
 
 - [灌装包装设备参数库](/zh/products/filling-equipment)
 - [联体机与灌装配套总线](/zh/solutions/filling-packages)
-- [联系我们获取整线建议](/zh/contact/)
+- [获取报价/整线建议](/zh/contact/)

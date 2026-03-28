@@ -1,9 +1,79 @@
 ---
-title: KHOP-10KG Small Hydraulic Oil Press Machine for Sesame Oil Shops
-description: KHOP-10KG small hydraulic oil press machine with 1.5 kW power, compact structure, and 1.0 ton per 24 hours reference output for sesame oil shops and fresh oil retail counters.
-keywords: KHOP-10KG small hydraulic oil press machine, 10kg sesame oil press machine, Korean type oil press, shop sesame oil press, small hydraulic oil press, fresh oil shop machine
----
+title: KHOP-10KG Small Hydraulic Oil Press Machine for Sesame Oil Sho...
+description: Get price, procurement, and after-sales support for KHOP-10KG Small Hydraulic Oil Press Machine for Sesame Oil Shops from Shengshi Hecheng manufacturer.
+keywords: KHOP-10KG Small Hydraulic Oil Press Machine for Sesame Oil Shops price, KHOP-10KG Small Hydraulic Oil Press Machine for Sesame Oil Shops quote, KHOP-10KG Small Hydraulic Oil Press Machine for Sesame Oil Shops manufacturer, KHOP-10KG Small Hydraulic Oil Press Machine for Sesame Oil Shops supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "KHOP-10KG Small Hydraulic Oil Press Machine",
+          "description": "Get price, procurement, and after-sales support for KHOP-10KG Small Hydraulic Oil Press Machine for Sesame Oil Shops from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "khop-10kg-small-hydraulic-oil-press-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/khop-10kg-small-hydraulic-oil-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "KHOP-10KG Small Hydraulic Oil Press Machine",
+              "item": "https://hydraulic-oil-press.com/en/products/khop-10kg-small-hydraulic-oil-press-machine"
+            }
+          ]
+        }
+---
 # KHOP-10KG Small Hydraulic Oil Press Machine
 
 ![KHOP-10KG small hydraulic oil press machine](/images/korean-type-small-press/khop-10kg.jpg)

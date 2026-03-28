@@ -1,9 +1,79 @@
 ---
-title: "Machine thermorétractable pour capuchons en caoutchouc à une tête | Série de machines thermorétractables pour capuchons en caoutchouc"
-description: "Cette série de machines thermorétractables effectue principalement un scellage thermorétractable sur des bouchons en caoutchouc thermorétractable en PVC et est spécialement utilisée pour rétrécir les bouchons après le bouchage du vin."
-keywords: "Machine thermorétractable à tête unique pour capuchons en caoutchouc, série de machines thermorétractables pour capuchons en caoutchouc, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Machine thermorétractable pour capuchons en caoutchouc à une ...
+description: Demandez le prix et le devis pour Machine thermorétractable pour capuchons en caoutchouc à une tête. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Machine thermorétractable à capuchon en caoutchouc à tête unique prix, acheter Machine thermorétractable à capuchon en caoutchouc à tête unique, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Machine thermorétractable à capuchon en caoutchouc à tête unique",
+          "description": "Demandez le prix et le devis pour \"Machine thermorétractable pour capuchons en caoutchouc à une tête. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "single-head-cap-shrinking-machine",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/single-head-cap-shrinking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine thermorétractable à capuchon en caoutchouc à tête unique",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/single-head-cap-shrinking-machine"
+            }
+          ]
+        }
+---
 # Machine thermorétractable à capuchon en caoutchouc à tête unique
 
 ![Machine de rétrécissement de bouchons à tête unique](/images/filling-products/single-head-cap-shrinking-machine.webp)

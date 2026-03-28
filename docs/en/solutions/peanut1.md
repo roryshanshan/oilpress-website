@@ -1,9 +1,75 @@
 ---
-title: Peanut Oil Processing Guide - Shengshi Hecheng
-description: Professional peanut pressing solutions, providing peanut oil processing equipment and technical services, oil content 45-55%
-keywords: Peanut (Peanut Oil) Solutions, oil processing solutions, oil press machine, oilseed processing equipment, oil extraction process, oil processing line price, oil processing line quotation, hot press oil, Peanut solutions, Peanut oil pressing
----
+title: Peanut Oil Processing Guide - Shengshi Hecheng Quote | Turnkey...
+description: Get a quote and turnkey plan for Peanut Oil Processing Guide - Shengshi Hecheng. Process design, equipment list, and after-sales support.
+keywords: Peanut Oil Processing Guide - Shengshi Hecheng quote, Peanut Oil Processing Guide - Shengshi Hecheng price, turnkey solution, production line, procurement
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Peanut (Peanut Oil) Solutions",
+          "description": "Get a quote and turnkey plan for Peanut Oil Processing Guide - Shengshi Hecheng. Process design, equipment list, and after-sales support.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/en/solutions/peanut1",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/en/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Peanut (Peanut Oil) Solutions",
+              "item": "https://hydraulic-oil-press.com/en/solutions/peanut1"
+            }
+          ]
+        }
+---
 # Peanut (Peanut Oil) Solutions
 ![300 Series Oil Press](/images/300-325-series.webp)
 
@@ -244,3 +310,11 @@ seo:
   description: Provide efficient and environmentally friendly peanut hydraulic oil press, oil yield up to 55%, no chemical additives, suitable for small workshops and large factories.
   keywords: Peanut hydraulic oil press, Peanut oil pressing equipment, Efficient peanut oil production line, Hot pressed peanut oil, Pure physical pressing, Peanut oil processing technology, Shengshi Hecheng Machinery
 ```
+
+## Get Price & Quote
+
+Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+
+- [Get Price & Quote](/en/contact/)
+
+<!-- quote-cta -->

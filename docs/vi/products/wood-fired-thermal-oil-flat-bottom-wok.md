@@ -1,9 +1,79 @@
 ---
-title: Nồi rang dầu dáy bằng đốt gỗ - Shengshi Hecheng
-description: Nồi rang dầu dáy bằng đốt gỗ có lò tích hợp, dạng dầu dẫn nhiệt giải quyết vấn đề mất cân bằng nhiệt, có thể đốt gỗ và khí tự nhiên, lót bông khoáng giữ nhiệt
-keywords: nồi rang dầu dáy bằng đốt gỗ, nồi rang dầu dẫn nhiệt, nồi rang dáy bằng, nồi rang đốt gỗ, nồi rang khí tự nhiên, nồi rang dầu thực phẩm, thiết bị nồi rang, nồi rang dẫn nhiệt, nồi rang giữ nhiệt khoáng bông, nồi rang thép không gỉ, nồi rang xử lý dầu, máy nồi rang, thiết bị nồi rang
----
+title: Nồi rang dầu dáy bằng đốt gỗ - Shengshi Hecheng giá | nhà sản ...
+description: Nhận báo giá và tư vấn mua Nồi rang dầu dáy bằng đốt gỗ - Shengshi Hecheng từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Nồi rang dầu dáy bằng đốt gỗ, mua Nồi rang dầu dáy bằng đốt gỗ, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Nồi rang dầu dáy bằng đốt gỗ",
+          "description": "Nhận báo giá và tư vấn mua Nồi rang dầu dáy bằng đốt gỗ - Shengshi Hecheng từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "wood-fired-thermal-oil-flat-bottom-wok",
+          "url": "https://hydraulic-oil-press.com/vi/products/wood-fired-thermal-oil-flat-bottom-wok",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Nồi rang dầu dáy bằng đốt gỗ",
+              "item": "https://hydraulic-oil-press.com/vi/products/wood-fired-thermal-oil-flat-bottom-wok"
+            }
+          ]
+        }
+---
 # Nồi rang dầu dáy bằng đốt gỗ
 
 ![Nồi rang dầu dáy bằng đốt gỗ](https://i.postimg.cc/wHP2fGLt/202509051612083.png?dl=1)

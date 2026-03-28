@@ -1,9 +1,79 @@
 ---
-title: "Ascenseur | Équipements de prétraitement des fruits et légumes"
-description: "Cet équipement est utilisé pour valoriser les fruits et légumes tels que les raisins, les fraises et les pommes. C'est l'un des équipements de prétraitement nécessaires aux fabricants de produits liquides tels que les jus de fruits et de légumes et les vins de fruits."
-keywords: "Ascenseur, équipement de prétraitement des fruits et légumes, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Ascenseur prix | fabricant
+description: Demandez le prix et le devis pour Ascenseur. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Palan prix, acheter Palan, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Palan",
+          "description": "Demandez le prix et le devis pour \"Ascenseur. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "fruit-elevator",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/fruit-elevator",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Palan",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/fruit-elevator"
+            }
+          ]
+        }
+---
 # Palan
 
 ![Ascenseur](/images/filling-products/fruit-elevator.webp)

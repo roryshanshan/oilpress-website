@@ -1,9 +1,79 @@
 ---
 title: সরঞ্জাম ব্যবহারের নির্দেশিকা
 description: কিয়ানলং ব্র্যান্ড হাইড্রোলিক অয়েল প্রেস ব্যবহারের নির্দেশিকা ডাউনলোড
-keywords: সরঞ্জাম ব্যবহার নির্দেশিকা, হাইড্রোলিক অয়েল প্রেস ম্যানুয়াল, কিয়ানলং ব্র্যান্ড ম্যানুয়াল, অয়েল প্রেস ইনস্ট্রাকশন, সরঞ্জাম ম্যানুয়াল ডাউনলোড, হাইড্রোলিক প্রেস গাইড, অয়েল প্রেস অপারেশন ম্যানুয়াল
----
+keywords: সরঞ্জাম ব্যবহারের নির্দেশিকা দাম, সরঞ্জাম ব্যবহারের নির্দেশিকা কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "সরঞ্জাম ব্যবহারের নির্দেশিকা",
+          "description": "কিয়ানলং ব্র্যান্ড হাইড্রোলিক অয়েল প্রেস ব্যবহারের নির্দেশিকা ডাউনলোড",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "instruction-manual",
+          "url": "https://hydraulic-oil-press.com/bn/products/instruction-manual",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "সরঞ্জাম ব্যবহারের নির্দেশিকা",
+              "item": "https://hydraulic-oil-press.com/bn/products/instruction-manual"
+            }
+          ]
+        }
+---
 # সরঞ্জাম ব্যবহারের নির্দেশিকা
 
 ::: tip ডাউনলোড নির্দেশনা

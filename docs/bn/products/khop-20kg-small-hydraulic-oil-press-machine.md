@@ -1,9 +1,79 @@
 ---
-title: KHOP-20KG ছোট হাইড্রোলিক অয়েল প্রেস মেশিন | দোকান ও ছোট ওয়ার্কশপের জন্য
-description: KHOP-20KG ছোট হাইড্রোলিক অয়েল প্রেস মেশিন তিলের তেলের দোকান ও ছোট ওয়ার্কশপ প্রকল্পের জন্য উপযোগী, 2.1 ton / 24 hours রেফারেন্স আউটপুট এবং বেশি দৈনিক উৎপাদন সক্ষমতাসহ।
-keywords: KHOP-20KG ছোট হাইড্রোলিক অয়েল প্রেস, 20kg তিল প্রেস মেশিন, কোরিয়ান টাইপ হাইড্রোলিক অয়েল প্রেস, দোকান ও ওয়ার্কশপ অয়েল প্রেস
----
+title: KHOP-20KG ছোট হাইড্রোলিক অয়েল প্রেস মেশিন দাম | প্রস্তুতকারক
+description: KHOP-20KG ছোট হাইড্রোলিক অয়েল প্রেস মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: KHOP-20KG ছোট হাইড্রোলিক অয়েল প্রেস মেশিন দাম, KHOP-20KG ছোট হাইড্রোলিক অয়েল প্রেস মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "KHOP-20KG ছোট হাইড্রোলিক অয়েল প্রেস মেশিন",
+          "description": "KHOP-20KG ছোট হাইড্রোলিক অয়েল প্রেস মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "khop-20kg-small-hydraulic-oil-press-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/khop-20kg-small-hydraulic-oil-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "KHOP-20KG ছোট হাইড্রোলিক অয়েল প্রেস মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/khop-20kg-small-hydraulic-oil-press-machine"
+            }
+          ]
+        }
+---
 # KHOP-20KG ছোট হাইড্রোলিক অয়েল প্রেস মেশিন
 
 ![KHOP-20KG ছোট হাইড্রোলিক অয়েল প্রেস মেশিন](/images/korean-type-small-press/korean-type-side.jpg)

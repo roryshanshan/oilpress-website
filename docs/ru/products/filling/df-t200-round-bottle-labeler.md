@@ -1,9 +1,79 @@
 ---
-title: "Полуавтоматическая этикетировочная машина для круглых бутылок DF-T200 | Серия этикетировочных машин"
-description: "Полуавтоматическая этикетировочная машина для круглых бутылок DF-T200 является представительной моделью серии этикетировочных машин."
-keywords: "Полуавтоматическая этикетировочная машина для круглых бутылок DF-T200, серия этикетировочных машин, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Полуавтоматическая этикетировочная машина для круглых бутылок...
+description: Запросите цену и подбор Полуавтоматическая этикетировочная машина для круглых бутылок DF-T200. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: DF-T200 Полуавтоматическая этикетировочная машина для круглых бутылок. цена, купить DF-T200 Полуавтоматическая этикетировочная машина для круглых бутылок., коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "DF-T200 Полуавтоматическая этикетировочная машина для круглых бутылок.",
+          "description": "Запросите цену и подбор \"Полуавтоматическая этикетировочная машина для круглых бутылок DF-T200. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "df-t200-round-bottle-labeler",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/df-t200-round-bottle-labeler",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "DF-T200 Полуавтоматическая этикетировочная машина для круглых бутылок.",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/df-t200-round-bottle-labeler"
+            }
+          ]
+        }
+---
 # DF-T200 Полуавтоматическая этикетировочная машина для круглых бутылок.
 
 ![Полуавтоматическая этикетировочная машина для круглых бутылок DF-T200](/images/filling-products/df-t200-round-bottle-labeler.webp)

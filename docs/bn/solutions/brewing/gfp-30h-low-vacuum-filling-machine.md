@@ -1,9 +1,75 @@
 ---
-title: "GFP-30H কম ভ্যাকুয়াম ফিলিং মেশিন | চোলাই সরঞ্জাম সিরিজ"
-description: "GFP-30H লো ভ্যাকুয়াম ফিলিং মেশিন হল একটি 30-হেড ফিক্সড-লেভেল ফিলিং সরঞ্জাম যার রেফারেন্স উত্পাদন ক্ষমতা 7,000 বোতল/ঘন্টা এবং মোট শক্তি 2.5kW। এটি ওয়াইন, রাইস ওয়াইন, সয়া সস, ভিনেগার এবং অন্যান্য সহজে ফোমিং তরল পূরণের জন্য উপযুক্ত।"
-keywords: "GFP-30H লো ভ্যাকুয়াম ফিলিং মেশিন, লো ভ্যাকুয়াম ফিলিং মেশিন, ওয়াইন মেকিং ইকুইপমেন্ট সিরিজ, ওয়াইন ফিলিং লাইন, ফিক্সড লেভেল ফিলিং মেশিন, শেংশি হেচেং"
----
+title: GFP-30H কম ভ্যাকুয়াম ফিলিং মেশিন কোটেশন | সম্পূর্ণ সমাধান
+description: GFP-30H কম ভ্যাকুয়াম ফিলিং মেশিন এর কোটেশন নিন—লাইন পরিকল্পনা, যন্ত্রপাতির তালিকা ও সাপোর্টসহ।
+keywords: GFP-30H কম ভ্যাকুয়াম ফিলিং মেশিন লাইন দরপত্র, টার্নকি সমাধান, যন্ত্রপাতির তালিকা, কারখানা থেকে ক্রয়, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "GFP-30H কম ভ্যাকুয়াম ফিলিং মেশিন",
+          "description": "\"GFP-30H কম ভ্যাকুয়াম ফিলিং মেশিন এর কোটেশন নিন—লাইন পরিকল্পনা, যন্ত্রপাতির তালিকা ও সাপোর্টসহ।",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "serviceType": "সমাধান",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/bn/solutions/brewing/gfp-30h-low-vacuum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "সমাধান",
+              "item": "https://hydraulic-oil-press.com/bn/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GFP-30H কম ভ্যাকুয়াম ফিলিং মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/solutions/brewing/gfp-30h-low-vacuum-filling-machine"
+            }
+          ]
+        }
+---
 # GFP-30H কম ভ্যাকুয়াম ফিলিং মেশিন
 
 ![GFP-30H লো ভ্যাকুয়াম ফিলিং মেশিন](/images/filling-products/gfp-30h-low-vacuum-filling-machine.webp)
@@ -53,3 +119,11 @@ GFP-30H নিম্ন-ভ্যাকুয়াম তরল স্তরে
 - [ফিলিং এবং প্যাকেজিং সরঞ্জাম প্যারামিটার লাইব্রেরি](/bn/products/filling-equipment#brew-vacuum)
 - [লেবেলিং মেশিন সিরিজ](/bn/solutions/labeling/)
 - [সম্পূর্ণ লাইন পরামর্শের জন্য আমাদের সাথে যোগাযোগ করুন](/bn/contact/)
+
+## দাম ও দরপত্র নিন
+
+ক্ষমতা, কাঁচামাল ও বাজেট দিন—আমরা লাইন কনফিগারেশন ও দরপত্র দেব।
+
+- [দাম ও দরপত্র নিন](/bn/contact/)
+
+<!-- quote-cta -->

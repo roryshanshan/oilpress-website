@@ -1,9 +1,79 @@
 ---
-title: "Series intelligent filling machine | 12-36 head bottled liquid filling equipment"
-description: "The series of intelligent filling machines cover 12-36 head configurations, with a reference speed of 4000-13000 bottles/hour, and an accuracy of 500±1 ml. They are suitable for retail bottled oil and multi-standard bottle automatic lines."
-keywords: "Series of intelligent filling machines, 12-head filling machines, 36-head filling machines, normal pressure filling machines, filling machine series, Shengshi Hecheng"
----
+title: Series intelligent filling machine Price | Manufacturer & Quote
+description: Get price, procurement, and after-sales support for Series intelligent filling machine from Shengshi Hecheng manufacturer.
+keywords: Series intelligent filling machine price, Series intelligent filling machine quote, Series intelligent filling machine manufacturer, Series intelligent filling machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Series Intelligent Filling Machine",
+          "description": "Get price, procurement, and after-sales support for \"Series intelligent filling machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "smart-filling-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/smart-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Series Intelligent Filling Machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/smart-filling-machine"
+            }
+          ]
+        }
+---
 # Series Intelligent Filling Machine
 
 ![Series smart filling machines](/images/filling-products/smart-filling-machine.webp)

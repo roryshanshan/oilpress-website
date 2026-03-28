@@ -1,9 +1,79 @@
 ---
-title: "GFP-18A কম ভ্যাকুয়াম ফিলিং মেশিন | চোলাই সরঞ্জাম সিরিজ"
-description: "GFP-18A লো ভ্যাকুয়াম ফিলিং মেশিন হল একটি 18-হেড ফিক্সড-লেভেল ফিলিং সরঞ্জাম যার রেফারেন্স উত্পাদন ক্ষমতা 4,500 বোতল/ঘন্টা এবং মোট শক্তি 1.12kW। এটি ওয়াইন, রাইস ওয়াইন, সয়া সস, ভিনেগার এবং অন্যান্য সহজে ফোমিং তরল পূরণের জন্য উপযুক্ত।"
-keywords: "GFP-18A কম ভ্যাকুয়াম ফিলিং মেশিন, লো ভ্যাকুয়াম ফিলিং মেশিন, ওয়াইন তৈরির সরঞ্জাম সিরিজ, ওয়াইন ফিলিং সরঞ্জাম, রাইস ওয়াইন ফিলিং মেশিন, শেংশি হেচেং"
----
+title: GFP-18A কম ভ্যাকুয়াম ফিলিং মেশিন দাম | প্রস্তুতকারক
+description: GFP-18A কম ভ্যাকুয়াম ফিলিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: GFP-18A কম ভ্যাকুয়াম ফিলিং মেশিন দাম, GFP-18A কম ভ্যাকুয়াম ফিলিং মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "GFP-18A কম ভ্যাকুয়াম ফিলিং মেশিন",
+          "description": "\"GFP-18A কম ভ্যাকুয়াম ফিলিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "gfp-18a-low-vacuum-filling-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/gfp-18a-low-vacuum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GFP-18A কম ভ্যাকুয়াম ফিলিং মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/gfp-18a-low-vacuum-filling-machine"
+            }
+          ]
+        }
+---
 # GFP-18A কম ভ্যাকুয়াম ফিলিং মেশিন
 
 ![GFP-18A কম ভ্যাকুয়াম ফিলিং মেশিন](/images/filling-products/gfp-18a-low-vacuum-filling-machine.webp)

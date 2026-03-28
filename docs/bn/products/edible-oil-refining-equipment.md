@@ -1,9 +1,79 @@
 ---
-title: খাদ্য তেল রিফাইনিং সরঞ্জাম
-description: পেশাদার খাদ্য তেল রিফাইনিং সরঞ্জাম, দৈনিক প্রক্রিয়াজাতকরণ ক্ষমতা ১-৫ টন, উন্নত রিফাইনিং প্রযুক্তি ব্যবহার করে অপরিশোধিত তেল থেকে অশুদ্ধি অপসারণ করে
-keywords: খাদ্য তেল রিফাইনিং সরঞ্জাম, তেল রিফাইনিং সরঞ্জাম, অপরিশোধিত তেল রিফাইনিং, তেল রিফাইনিং, ক্ষার রিফাইনিং সরঞ্জাম, অ্যাসিড রিফাইনিং সরঞ্জাম, তেল ফিল্টারিং সরঞ্জাম, তেল রিফাইনিং প্রক্রিয়া, তেল রিফাইনিং উৎপাদন লাইন, তেল রিফাইনিং মেশিনারি, তেল রিফাইনিং প্রযুক্তি, তেল রিফাইনিং সরঞ্জাম নির্মাতা, ১-৫ টন খাদ্য তেল রিফাইনারি
----
+title: খাদ্য তেল রিফাইনিং সরঞ্জাম দাম | প্রস্তুতকারক
+description: খাদ্য তেল রিফাইনিং সরঞ্জাম এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: খাদ্য তেল রিফাইনিং সরঞ্জাম দাম, খাদ্য তেল রিফাইনিং সরঞ্জাম কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "খাদ্য তেল রিফাইনিং সরঞ্জাম",
+          "description": "খাদ্য তেল রিফাইনিং সরঞ্জাম এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "edible-oil-refining-equipment",
+          "url": "https://hydraulic-oil-press.com/bn/products/edible-oil-refining-equipment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "খাদ্য তেল রিফাইনিং সরঞ্জাম",
+              "item": "https://hydraulic-oil-press.com/bn/products/edible-oil-refining-equipment"
+            }
+          ]
+        }
+---
 # খাদ্য তেল রিফাইনিং সরঞ্জাম
 
 <div style="margin: 2rem 0;">

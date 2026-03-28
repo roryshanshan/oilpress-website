@@ -1,7 +1,74 @@
 ---
-title: Solutions d'huile de fruits
-description: Les huiles de fruits proviennent de diverses pulpes de fruits, noyaux ou graines, présentant des composants nutritionnels uniques et une valeur santé.
-keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
+title: Solutions d'huile de fruits devis | solution clé en main
+description: "Demandez un devis pour Solutions d'huile de fruits : plan de ligne, liste d’équipements et SAV."
+keywords: Solutions d'huile de fruits prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Solutions d'huile de fruits",
+          "description": "Demandez un devis pour Solutions d'huile de fruits : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/fruits",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Solutions d'huile de fruits",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/fruits"
+            }
+          ]
+        }
 ---
 # Solutions d'huile de fruits
 
@@ -225,3 +292,11 @@ Si vous êtes intéressé par les solutions de transformation d'huile de fruits,
 - 📍 **Adresse** : N° 5888, rue Yineng, zone de développement, ville de Qingzhou, ville de Weifang, province du Shandong, Chine
 
 Nous fournissons des consultations techniques gratuites, des tests d'échantillons et des services d'inspection sur site, en personnalisant les solutions de transformation d'huile de fruits les plus adaptées pour vous.
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

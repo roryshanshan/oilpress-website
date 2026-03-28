@@ -1,9 +1,75 @@
 ---
-title: Solution de sarrasin (huile de sarrasin) - Shengshi Hecheng
-description: Solutions professionnelles de pressage d'huile de sarrasin, fournissant des équipements et services techniques de transformation d'huile de sarrasin
-keywords: Solutions de sarrasin, pressage d'huile de sarrasin, équipement de transformation de sarrasin, ligne de production d'huile de sarrasin, presse à huile de sarrasin, extraction d'huile de sarrasin, transformation de graines de sarrasin, équipement de pressage d'huile de sarrasin, équipement de production d'huile de sarrasin, usine de transformation d'huile de sarrasin, valeur nutritionnelle de l'huile de sarrasin
----
+title: Solution de sarrasin (huile de sarrasin) - Shengshi Hecheng de...
+description: "Demandez un devis pour Solution de sarrasin (huile de sarrasin) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV."
+keywords: Solution de sarrasin (huile de sarrasin) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Solution de sarrasin (huile de sarrasin)",
+          "description": "Demandez un devis pour Solution de sarrasin (huile de sarrasin) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/buckwheat",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Solution de sarrasin (huile de sarrasin)",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/buckwheat"
+            }
+          ]
+        }
+---
 # Solution de sarrasin (huile de sarrasin)
 
 ## Aperçu
@@ -118,3 +184,11 @@ Si vous êtes intéressé par les solutions de pressage de graines de sarrasin, 
 - 📍 **Adresse** : N° 5888, rue Yineng, zone de développement, ville de Qingzhou, ville de Weifang, province du Shandong
 
 Nous fournissons des services de consultation technique gratuite, de test d'échantillons et d'inspection sur site pour vous offrir la solution de pressage de graines de sarrasin la plus adaptée.
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

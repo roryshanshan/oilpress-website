@@ -1,9 +1,79 @@
 ---
-title: Máy ép dầu mè cỡ nhỏ | Máy thủy lực kiểu Hàn Quốc cho cửa hàng
-description: Máy ép dầu mè cỡ nhỏ dựa trên kết cấu thủy lực kiểu Hàn Quốc, phù hợp cho cửa hàng dầu mè, cửa hàng hữu cơ và sản xuất thương mại nhỏ gọn, với các model từ 10KG đến 20KG.
-keywords: máy ép dầu mè cỡ nhỏ, máy ép mè kiểu Hàn Quốc, máy cho cửa hàng dầu mè, KHOP-10KG, KHOP-15KG, KHOP-20KG, máy ép dầu thủy lực nhỏ
----
+title: Máy ép dầu mè cỡ nhỏ giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy ép dầu mè cỡ nhỏ từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy ép dầu mè cỡ nhỏ, mua Máy ép dầu mè cỡ nhỏ, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy ép dầu mè cỡ nhỏ",
+          "description": "Nhận báo giá và tư vấn mua Máy ép dầu mè cỡ nhỏ từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "small-sesame-oil-press-machine",
+          "url": "https://hydraulic-oil-press.com/vi/products/small-sesame-oil-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy ép dầu mè cỡ nhỏ",
+              "item": "https://hydraulic-oil-press.com/vi/products/small-sesame-oil-press-machine"
+            }
+          ]
+        }
+---
 # Máy ép dầu mè cỡ nhỏ
 
 ![Máy ép dầu mè cỡ nhỏ](/images/korean-type-small-press/small-sesame-hero.jpg)

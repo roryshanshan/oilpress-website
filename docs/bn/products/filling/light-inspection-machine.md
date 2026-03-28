@@ -1,9 +1,79 @@
 ---
-title: "হালকা পরিদর্শন মেশিন | হালকা পরিদর্শন মেশিন সিরিজ"
-description: "এটি বোতলে প্রবেশ করার সম্পূর্ণ স্বয়ংক্রিয় পরিদর্শন পদ্ধতি উপলব্ধি করে - বোতলটি আটকানো - বোতলটি ঘুরানো - বোতলটি তোলা - বোতলটি সরানো।"
-keywords: "হালকা পরিদর্শন মেশিন, হালকা পরিদর্শন মেশিন সিরিজ, তরল প্যাকেজিং সরঞ্জাম, ভর্তি এবং প্যাকেজিং সরঞ্জাম, Shengshi Hecheng"
----
+title: হালকা পরি্শন মেশিন দাম | প্রস্তুতকারক
+description: হালকা পরি্শন মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: হালকা পরিদর্শন মেশিন দাম, হালকা পরিদর্শন মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "হালকা পরিদর্শন মেশিন",
+          "description": "\"হালকা পরি্শন মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "light-inspection-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/light-inspection-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "হালকা পরিদর্শন মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/light-inspection-machine"
+            }
+          ]
+        }
+---
 # হালকা পরিদর্শন মেশিন
 
 ![হালকা পরিদর্শন মেশিন](/images/filling-products/light-inspection-machine.webp)

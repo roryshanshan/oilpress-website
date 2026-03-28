@@ -1,9 +1,79 @@
 ---
 title: সাপোর্টিং সরঞ্জাম - শানডং শেংশি হেচেং মেশিনারি কোং লিমিটেড
 description: শানডং শেংশি হেচেং সম্পূর্ণ অয়েল প্রেসিং সরঞ্জাম সাপোর্টিং সলিউশন প্রদান করে, প্রি-ট্রিটমেন্ট সরঞ্জাম, পোস্ট-ট্রিটমেন্ট সরঞ্জাম, ক্রাশার
-keywords: সাপোর্টিং সরঞ্জাম, অয়েল প্রেসিং সাপোর্টিং সরঞ্জাম, প্রি-ট্রিটমেন্ট সরঞ্জাম, পোস্ট-ট্রিটমেন্ট সরঞ্জাম, ক্রাশার, অয়েল ফিল্টার, স্টিম কুকার, ফ্রাইং প্যান, অয়েল প্রক্রিয়াকরণ সরঞ্জাম, অয়েল প্রেস সাপোর্টিং, অয়েল প্রেসিং উৎপাদন লাইন সরঞ্জাম, অয়েল প্রক্রিয়াকরণ সাপোর্টিং সরঞ্জাম
----
+keywords: সাপোর্টিং সরঞ্জাম দাম, সাপোর্টিং সরঞ্জাম কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "সাপোর্টিং সরঞ্জাম",
+          "description": "শানডং শেংশি হেচেং সম্পূর্ণ অয়েল প্রেসিং সরঞ্জাম সাপোর্টিং সলিউশন প্রদান করে, প্রি-ট্রিটমেন্ট সরঞ্জাম, পোস্ট-ট্রিটমেন্ট সরঞ্জাম, ক্রাশার",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "supporting",
+          "url": "https://hydraulic-oil-press.com/bn/products/supporting",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "সাপোর্টিং সরঞ্জাম",
+              "item": "https://hydraulic-oil-press.com/bn/products/supporting"
+            }
+          ]
+        }
+---
 # সাপোর্টিং সরঞ্জাম
 
 ## প্রি-ট্রিটমেন্ট সরঞ্জাম

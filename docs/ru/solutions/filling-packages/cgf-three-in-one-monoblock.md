@@ -1,9 +1,75 @@
 ---
-title: "Машина «три в одном» для ополаскивания, наполнения и запечатывания | Комбинированная машина CGF30-24-8~CGF60-40-8"
-description: "Трехлинейная машина для ополаскивания, наполнения и запечатывания подходит для моделей от CGF30-24-8 до CGF60-40-8 с номинальной производительностью 6000-12000 п/ч и подходит для интегрированных упаковочных линий для бутилированного масла, спиртных напитков и приправ."
-keywords: "Тройная машина для ополаскивания, наполнения и запечатывания, CGF30-24-8, CGF60-40-8, комбинированная машина, фасовочно-упаковочное оборудование, Shengshi Hecheng"
----
+title: Машина «три в одном» для ополаскивания, наполнени Решение | Цена
+description: "Запросите стоимость решения Машина «три в одном» для ополаскивания, наполнения и запечатывания: проект линии, список оборудования и сервис."
+keywords: Трехлинейная машина для ополаскивания, наполнения и укупорки цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Трехлинейная машина для ополаскивания, наполнения и укупорки",
+          "description": "Запросите стоимость решения \"Машина «три в одном» для ополаскивания, наполнения и запечатывания: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/filling-packages/cgf-three-in-one-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Трехлинейная машина для ополаскивания, наполнения и укупорки",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/filling-packages/cgf-three-in-one-monoblock"
+            }
+          ]
+        }
+---
 # Трехлинейная машина для ополаскивания, наполнения и укупорки
 
 ![Машина для ополаскивания, наполнения и запечатывания «три в одном»](/images/filling-products/cgf-three-in-one-monoblock.webp)
@@ -49,3 +115,11 @@ keywords: "Тройная машина для ополаскивания, нап
 - [Библиотека параметров фасовочно-упаковочного оборудования](/ru/solutions/production-lines)
 - [Комбинированная машина и автобус поддержки наполнения](/ru/products/filling-equipment)
 - [Свяжитесь с нами для получения полной консультации по линии](/ru/solutions/filling-packages)
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

@@ -1,9 +1,79 @@
 ---
-title: "Малая машина для отжима кунжутного масла | Гидравлический пресс корейского типа для магазина"
-description: "Малая машина для отжима кунжутного масла на базе корейского гидравлического пресса подходит для магазинов кунжутного масла, био-магазинов и компактного коммерческого производства, от 10KG до 20KG."
-keywords: малая машина для отжима кунжутного масла, корейский пресс для кунжута, машина для магазина кунжутного масла, KHOP-10KG, KHOP-15KG, KHOP-20KG, малый гидравлический пресс
----
+title: Малая машина для отжима кунжутного масла цена | производитель
+description: Запросите цену и подбор Малая машина для отжима кунжутного масла. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Малая машина для отжима кунжутного масла цена, купить Малая машина для отжима кунжутного масла, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Малая машина для отжима кунжутного масла",
+          "description": "Запросите цену и подбор \"Малая машина для отжима кунжутного масла. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "small-sesame-oil-press-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/small-sesame-oil-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Малая машина для отжима кунжутного масла",
+              "item": "https://hydraulic-oil-press.com/ru/products/small-sesame-oil-press-machine"
+            }
+          ]
+        }
+---
 # Малая машина для отжима кунжутного масла
 
 ![Малая машина для отжима кунжутного масла](/images/korean-type-small-press/small-sesame-hero.jpg)

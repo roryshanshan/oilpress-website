@@ -1,9 +1,75 @@
 ---
-title: Решение для рапса (Масло рапса) - Shengshi Hecheng
-description: Профессиональные решения для отжима рапса, предоставление оборудования и технических услуг по переработке масла рапса, содержание масла 35-45%
-keywords: Решения для рапса, Отжим масла рапса, Оборудование для переработки рапса, Линия производства масла рапса, Процесс горячего отжима масла рапса, Пресс для масла рапса, Экстракция масла рапса, Переработка масличных семян рапса, Оборудование для отжима масла рапса, Оборудование для производства масла рапса, Завод по переработке масла рапса
----
+title: Решение для рапса (Масло рапса) - Shengshi Hecheng цена | комп...
+description: "Запросите стоимость решения Решение для рапса (Масло рапса) - Shengshi Hecheng: проект линии, список оборудования и сервис."
+keywords: Решение для рапса (Масло рапса) цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Решение для рапса (Масло рапса)",
+          "description": "Запросите стоимость решения Решение для рапса (Масло рапса) - Shengshi Hecheng: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/rapeseed",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Решение для рапса (Масло рапса)",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/rapeseed"
+            }
+          ]
+        }
+---
 # Решение для рапса (Масло рапса)
 
 ## Обзор
@@ -146,3 +212,11 @@ keywords: Решения для рапса, Отжим масла рапса, О
 - 📍 **Адрес**: № 5888, Улица Иньнэн, Зона развития, Город Цинчжоу, Город Вэйфан, Провинция Шаньдун
 
 Мы предоставляем бесплатные технические консультации, тестирование образцов и услуги выездной инспекции, чтобы предоставить вам наиболее подходящее решение для отжима рапса.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

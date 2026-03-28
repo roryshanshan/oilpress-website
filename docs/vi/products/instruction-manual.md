@@ -1,9 +1,79 @@
 ---
 title: Sách hướng dẫn sử dụng thiết bị
 description: Tải xuống hướng dẫn sử dụng máy ép dầu thủy lực thương hiệu Qianlong
-keywords: Hướng dẫn sử dụng, máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu, nhà sản xuất máy ép dầu, dịch vụ hậu mãi, thiết bị chế biến hạt có dầu
----
+keywords: giá Sách hướng dẫn sử dụng thiết bị, mua Sách hướng dẫn sử dụng thiết bị, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Sách hướng dẫn sử dụng thiết bị",
+          "description": "Tải xuống hướng dẫn sử dụng máy ép dầu thủy lực thương hiệu Qianlong",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "instruction-manual",
+          "url": "https://hydraulic-oil-press.com/vi/products/instruction-manual",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Sách hướng dẫn sử dụng thiết bị",
+              "item": "https://hydraulic-oil-press.com/vi/products/instruction-manual"
+            }
+          ]
+        }
+---
 # Sách hướng dẫn sử dụng thiết bị
 
 ::: tip Hướng dẫn tải xuống

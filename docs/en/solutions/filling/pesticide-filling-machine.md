@@ -1,9 +1,75 @@
 ---
-title: "Pesticide filling machine | LGF-10-1~LGF-24-1 automatic filling line"
-description: "The pesticide filling machine covers LGF-10-1 to LGF-24-1, with a reference output of 2000-7000, and is suitable for automatic bottle sorting, filling and capping lines for agrochemical and daily chemical products."
-keywords: "Pesticide filling machine, LGF-10-1, LGF-24-1, automatic filling line, filling machine series, Shengshi Hecheng"
----
+title: Pesticide filling machine Quote | Turnkey Solution
+description: Get a quote and turnkey plan for Pesticide filling machine. Process design, equipment list, and after-sales support.
+keywords: Pesticide filling machine quote, Pesticide filling machine price, turnkey solution, production line, procurement
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Pesticide filling machine",
+          "description": "Get a quote and turnkey plan for \"Pesticide filling machine. Process design, equipment list, and after-sales support.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/en/solutions/filling/pesticide-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/en/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Pesticide filling machine",
+              "item": "https://hydraulic-oil-press.com/en/solutions/filling/pesticide-filling-machine"
+            }
+          ]
+        }
+---
 # Pesticide filling machine
 
 ![Pesticide filling machine](/images/filling-products/pesticide-filling-machine.webp)
@@ -48,3 +114,11 @@ The pesticide filling machine is suitable for bottled liquid projects such as ag
 - [Filling and packaging equipment parameter library](/en/products/filling-equipment)
 - [Filling machine series](/en/solutions/filling/)
 - [Contact us for complete line advice](/en/contact/)
+
+## Get Price & Quote
+
+Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+
+- [Get Price & Quote](/en/contact/)
+
+<!-- quote-cta -->

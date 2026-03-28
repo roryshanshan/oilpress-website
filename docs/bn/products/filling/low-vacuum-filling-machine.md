@@ -1,9 +1,79 @@
 ---
-title: "কম ভ্যাকুয়াম ফিলিং মেশিন | চোলাই সরঞ্জাম সিরিজ"
-description: "ফিলিং মেশিনগুলির এই সিরিজটি বিশেষভাবে অ-বায়ুযুক্ত তরল, ওয়াইন, রাইস ওয়াইন, সয়া সস, ভিনেগার এবং অন্যান্য সহজে ফোমিং তরলগুলির ফিক্সড-লেভেল ফিলিং করার জন্য ডিজাইন করা হয়েছে।"
-keywords: "নিম্ন ভ্যাকুয়াম ফিলিং মেশিন, চোলাই সরঞ্জাম সিরিজ, তরল প্যাকেজিং সরঞ্জাম, ভর্তি এবং প্যাকেজিং সরঞ্জাম, Shengshi Hecheng"
----
+title: কম ভ্যাকুয়াম ফিলিং মেশিন দাম | প্রস্তুতকারক
+description: কম ভ্যাকুয়াম ফিলিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: কম ভ্যাকুয়াম ফিলিং মেশিন দাম, কম ভ্যাকুয়াম ফিলিং মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "কম ভ্যাকুয়াম ফিলিং মেশিন",
+          "description": "\"কম ভ্যাকুয়াম ফিলিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "low-vacuum-filling-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/low-vacuum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "কম ভ্যাকুয়াম ফিলিং মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/low-vacuum-filling-machine"
+            }
+          ]
+        }
+---
 # কম ভ্যাকুয়াম ফিলিং মেশিন
 
 ![লো ভ্যাকুয়াম ফিলিং মেশিন](/images/filling-products/low-vacuum-filling-machine.webp)

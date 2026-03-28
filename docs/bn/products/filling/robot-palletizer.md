@@ -1,9 +1,79 @@
 ---
-title: "রোবট প্যালেটাইজার | প্যাকিং, প্যালেটাইজিং"
-description: "এই মেশিনটি রাসায়নিক, পানীয়, খাদ্য এবং অ্যালকোহল উত্পাদনকারী সংস্থাগুলিতে বিভিন্ন আকারের কার্টন, ব্যাগ, ক্যান, বাক্স, বোতল ইত্যাদির সমাপ্ত পণ্যগুলি প্যাকেজিং এবং প্যালেটাইজ করার জন্য উপযুক্ত।"
-keywords: "রোবট প্যালেটাইজার, প্যাকিং এবং প্যালেটাইজিং, তরল প্যাকেজিং সরঞ্জাম, ফিলিং এবং প্যাকেজিং সরঞ্জাম, শেংশি হেচেং"
----
+title: রোবট প্যালেটাইজার দাম | প্রস্তুতকারক
+description: রোবট প্যালেটাইজার এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: রোবট প্যালেটাইজার দাম, রোবট প্যালেটাইজার কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "রোবট প্যালেটাইজার",
+          "description": "\"রোবট প্যালেটাইজার এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "robot-palletizer",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/robot-palletizer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "রোবট প্যালেটাইজার",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/robot-palletizer"
+            }
+          ]
+        }
+---
 # রোবট প্যালেটাইজার
 
 ![রোবট প্যালেটাইজার](/images/filling-products/robot-palletizer.webp)

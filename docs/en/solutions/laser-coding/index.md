@@ -1,7 +1,7 @@
 ---
-title: "Laser coding machine series"
-description: "The laser coding machine series is suitable for marking dates, batch numbers, QR codes and traceability information on bottles, caps, labels, cartons, etc., and is suitable for edible oil and liquid packaging lines."
-keywords: "Laser coding machine series, laser coding machine, date batch number coding, QR code coding equipment, edible oil packaging coding, traceability marking equipment"
+title: Laser coding machine series
+description: The laser coding machine series is suitable for marking dates, batch numbers, QR codes and traceability information on bottles, caps, labels, cartons, etc.
+keywords: Laser coding machine series, laser coding machine, date batch number coding, QR code coding equipment, edible oil packaging coding, traceability marking equipment
 ---
 
 # Laser coding machine series

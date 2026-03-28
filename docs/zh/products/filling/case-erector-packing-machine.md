@@ -1,9 +1,79 @@
 ---
-title: 自动开箱、纸箱成型、装箱机 | 装箱、码垛
-description: 在缺胶带和纸箱时自动报警，采用PLC+显示屏控制，大大方便操作，是自动化规模生产必不可少的设备；
-keywords: 自动开箱、纸箱成型、装箱机, 装箱、码垛, 液体包装设备, 灌装包装设备, 盛世赫程
----
+title: 自动开箱、纸箱成型、装箱机价格|厂家报价
+description: 获取自动开箱、纸箱成型、装箱机价格、采购与售后支持，厂家直供，支持选型与交付。
+keywords: 自动开箱、纸箱成型、装箱机价格, 自动开箱、纸箱成型、装箱机报价, 自动开箱、纸箱成型、装箱机厂家, 自动开箱、纸箱成型、装箱机采购, 售后服务
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "自动开箱、纸箱成型、装箱机",
+          "description": "获取自动开箱、纸箱成型、装箱机价格、采购与售后支持，厂家直供，支持选型与交付。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "case-erector-packing-machine",
+          "url": "https://hydraulic-oil-press.com/zh/products/filling/case-erector-packing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "自动开箱、纸箱成型、装箱机",
+              "item": "https://hydraulic-oil-press.com/zh/products/filling/case-erector-packing-machine"
+            }
+          ]
+        }
+---
 # 自动开箱、纸箱成型、装箱机
 
 ![自动开箱、纸箱成型、装箱机](/images/filling-products/case-erector-packing-machine.webp)
@@ -70,4 +140,4 @@ keywords: 自动开箱、纸箱成型、装箱机, 装箱、码垛, 液体包装
 
 - [灌装包装设备参数库](/zh/products/filling-equipment)
 - [装箱、码垛](/zh/solutions/packing-palletizing/)
-- [联系我们获取整线建议](/zh/contact/)
+- [获取报价/整线建议](/zh/contact/)

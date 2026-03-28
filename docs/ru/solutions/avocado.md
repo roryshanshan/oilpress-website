@@ -1,9 +1,75 @@
 ---
-title: Avocado (Avocado Oil) Solution - Shengshi Hecheng
-description: Professional avocado pressing solutions, providing avocado oil processing equipment and technical services, oil content 15-25%, rich in oleic acid
-keywords: Avocado solutions, Avocado oil pressing, Avocado processing equipment, Avocado oil production line, Avocado pressing process, Avocado oil press, Avocado oil extraction, Avocado oilseed processing, Avocado oil pressing equipment, Avocado oil production equipment
----
+title: Avocado (Avocado Oil) Solution - Shengshi Hecheng цена | компл...
+description: "Запросите стоимость решения Avocado (Avocado Oil) Solution - Shengshi Hecheng: проект линии, список оборудования и сервис."
+keywords: Avocado (Avocado Oil) Solution цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Avocado (Avocado Oil) Solution",
+          "description": "Запросите стоимость решения Avocado (Avocado Oil) Solution - Shengshi Hecheng: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/avocado",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Avocado (Avocado Oil) Solution",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/avocado"
+            }
+          ]
+        }
+---
 # Avocado (Avocado Oil) Solution
 
 ## Overview
@@ -98,3 +164,11 @@ If you are interested in avocado pressing solutions, please contact our technica
 - 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable avocado pressing solution.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

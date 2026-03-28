@@ -1,9 +1,75 @@
 ---
-title: "স্বয়ংক্রিয়ভাবে আনপ্যাকিং, শক্ত কাগজ তৈরি, কার্টোনিং মেশিন | প্যাকিং, প্যালেটাইজিং"
-description: "টেপ এবং কার্টনের ঘাটতি হলে এটি স্বয়ংক্রিয়ভাবে অ্যালার্ম করে এবং পিএলসি + ডিসপ্লে স্ক্রিন নিয়ন্ত্রণ গ্রহণ করে, যা অপারেশনকে ব্যাপকভাবে সহজ করে এবং স্বয়ংক্রিয় বড় আকারের উত্পাদনের জন্য একটি অপরিহার্য সরঞ্জাম;"
-keywords: "স্বয়ংক্রিয় আনপ্যাকিং, শক্ত কাগজ গঠন, কার্টোনিং মেশিন, কার্টোনিং, প্যালেটাইজিং, তরল প্যাকেজিং সরঞ্জাম, ফিলিং এবং প্যাকেজিং সরঞ্জাম, শেংশি হেচেং"
----
+title: স্বয়ংক্রিয়ভাবে আনপ্যাকিং, শক্ত কাগজ তৈরি, কার্টোনিং মেশিন ক...
+description: স্বয়ংক্রিয়ভাবে আনপ্যাকিং, শক্ত কাগজ তৈরি, কার্টোনিং মেশিন এর কোটেশন নিন—লাইন পরিকল্পনা, যন্ত্রপাতির তালিকা ও সাপোর্টসহ।
+keywords: স্বয়ংক্রিয় আনপ্যাকিং, শক্ত কাগজ তৈরি এবং কার্টনিং মেশিন লাইন দরপত্র, টার্নকি সমাধান, যন্ত্রপাতির তালিকা, কারখানা থেকে ক্রয়, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "স্বয়ংক্রিয় আনপ্যাকিং, শক্ত কাগজ তৈরি এবং কার্টনিং মেশিন",
+          "description": "\"স্বয়ংক্রিয়ভাবে আনপ্যাকিং, শক্ত কাগজ তৈরি, কার্টোনিং মেশিন এর কোটেশন নিন—লাইন পরিকল্পনা, যন্ত্রপাতির তালিকা ও সাপোর্টসহ।",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "serviceType": "সমাধান",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/bn/solutions/packing-palletizing/case-erector-packing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "সমাধান",
+              "item": "https://hydraulic-oil-press.com/bn/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "স্বয়ংক্রিয় আনপ্যাকিং, শক্ত কাগজ তৈরি এবং কার্টনিং মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/solutions/packing-palletizing/case-erector-packing-machine"
+            }
+          ]
+        }
+---
 # স্বয়ংক্রিয় আনপ্যাকিং, শক্ত কাগজ তৈরি এবং কার্টনিং মেশিন
 
 ![স্বয়ংক্রিয়ভাবে আনপ্যাকিং, শক্ত কাগজ গঠন, এবং প্যাকিং মেশিন](/images/filling-products/case-erector-packing-machine.webp)
@@ -70,3 +136,11 @@ keywords: "স্বয়ংক্রিয় আনপ্যাকিং, শ
 - [ফিলিং এবং প্যাকেজিং সরঞ্জাম প্যারামিটার লাইব্রেরি](/bn/solutions/production-lines)
 - [প্যাকিং, প্যালেটাইজিং](/bn/products/filling-equipment)
 - [সম্পূর্ণ লাইন পরামর্শের জন্য আমাদের সাথে যোগাযোগ করুন](/bn/solutions/packing-palletizing/)
+
+## দাম ও দরপত্র নিন
+
+ক্ষমতা, কাঁচামাল ও বাজেট দিন—আমরা লাইন কনফিগারেশন ও দরপত্র দেব।
+
+- [দাম ও দরপত্র নিন](/bn/contact/)
+
+<!-- quote-cta -->

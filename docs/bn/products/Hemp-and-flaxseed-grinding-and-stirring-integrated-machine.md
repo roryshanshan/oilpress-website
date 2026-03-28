@@ -1,9 +1,79 @@
 ---
-title: হেম্প এবং ফ্ল্যাক্সসিড গ্রাইন্ডিং এবং স্টিরিং ইন্টিগ্রেটেড মেশিন
-description: হেম্প এবং ফ্ল্যাক্সসিড গ্রাইন্ডিং এবং স্টিরিং ইন্টিগ্রেটেড মেশিন ফার্মাসিউটিক্যাল, কেমিক্যাল, ফুড ইত্যাদি শিল্পের জন্য উপযুক্ত, বিভিন্ন উপাদান পিষতে পারে
-keywords: হেম্প গ্রাইন্ডিং মেশিন, ফ্ল্যাক্সসিড গ্রাইন্ডিং মেশিন, গ্রাইন্ডিং এবং স্টিরিং ইন্টিগ্রেটেড মেশিন, ক্রাশিং মেশিন সরঞ্জাম, তেল প্রি-প্রসেসিং সরঞ্জাম, হেম্প প্রক্রিয়াকরণ সরঞ্জাম, ফ্ল্যাক্সসিড প্রক্রিয়াকরণ সরঞ্জাম, গ্রাইন্ডিং মেশিন, স্টিরিং মেশিন, ক্রাশিং এবং স্টিরিং মেশিন, তেল ক্রাশিং সরঞ্জাম, গ্রাইন্ডিং সরঞ্জাম, স্টিরিং সরঞ্জাম, 15Kw গ্রাইন্ডিং মেশিন
----
+title: হেম্প এবং ফ্ল্যাক্সসিড গ্রাইন্ডিং এবং স্টিরিং ইন্টিগ্রেটেড মেশ...
+description: হেম্প এবং ফ্ল্যাক্সসিড গ্রাইন্ডিং এবং স্টিরিং ইন্টিগ্রেটেড মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: হেম্প এবং ফ্ল্যাক্সসিড গ্রাইন্ডিং এবং স্টিরিং ইন্টিগ্রেটেড মেশিন দাম, হেম্প এবং ফ্ল্যাক্সসিড গ্রাইন্ডিং এবং স্টিরিং ইন্টিগ্রেটেড মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "হেম্প এবং ফ্ল্যাক্সসিড গ্রাইন্ডিং এবং স্টিরিং ইন্টিগ্রেটেড মেশিন",
+          "description": "হেম্প এবং ফ্ল্যাক্সসিড গ্রাইন্ডিং এবং স্টিরিং ইন্টিগ্রেটেড মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "Hemp-and-flaxseed-grinding-and-stirring-integrated-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "হেম্প এবং ফ্ল্যাক্সসিড গ্রাইন্ডিং এবং স্টিরিং ইন্টিগ্রেটেড মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine"
+            }
+          ]
+        }
+---
 # হেম্প এবং ফ্ল্যাক্সসিড গ্রাইন্ডিং এবং স্টিরিং ইন্টিগ্রেটেড মেশিন
 
 ## পণ্যের সারাংশ

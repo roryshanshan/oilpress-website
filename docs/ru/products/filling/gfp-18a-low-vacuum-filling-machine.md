@@ -1,9 +1,79 @@
 ---
-title: "Разливочная машина низкого вакуума GFP-18A | Серия пивоваренного оборудования"
-description: "Машина для розлива в низковакуумном режиме GFP-18A представляет собой 18-головочное оборудование для розлива с фиксированным уровнем, номинальной производительностью 4500 бутылок в час и общей мощностью 1,12 кВт. Подходит для розлива вина, рисового вина, соевого соуса, уксуса и других легко пенящихся жидкостей."
-keywords: "GFP-18A машина для розлива с низким вакуумом, машина для розлива с низким вакуумом, серия оборудования для виноделия, оборудование для розлива вина, машина для розлива рисового вина, Shengshi Hecheng"
----
+title: Разливочная машина низкого вакуума GFP-18A цена | производитель
+description: Запросите цену и подбор Разливочная машина низкого вакуума GFP-18A. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: GFP-18A разливочная машина низкого вакуума цена, купить GFP-18A разливочная машина низкого вакуума, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "GFP-18A разливочная машина низкого вакуума",
+          "description": "Запросите цену и подбор \"Разливочная машина низкого вакуума GFP-18A. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "gfp-18a-low-vacuum-filling-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/gfp-18a-low-vacuum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GFP-18A разливочная машина низкого вакуума",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/gfp-18a-low-vacuum-filling-machine"
+            }
+          ]
+        }
+---
 # GFP-18A разливочная машина низкого вакуума
 
 ![Машина для розлива с низким вакуумом GFP-18A](/images/filling-products/gfp-18a-low-vacuum-filling-machine.webp)

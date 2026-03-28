@@ -1,9 +1,79 @@
 ---
-title: "Automatic folding and cartoning machine | Packing and palletizing"
-description: "Automatic folding and sealing machine is applicable to: household appliances, textiles, food, daily necessities, pharmaceuticals, light industry, chemical industry, etc."
-keywords: "Automatic folding and cartoning machine, packing and palletizing, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: Automatic folding and cartoning machine Price
+description: Get price, procurement, and after-sales support for Automatic folding and cartoning machine from Shengshi Hecheng manufacturer.
+keywords: Automatic folding and cartoning machine price, Automatic folding and cartoning machine quote, Automatic folding and cartoning machine manufacturer, Automatic folding and cartoning machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Automatic folding and sealing machine",
+          "description": "Get price, procurement, and after-sales support for \"Automatic folding and cartoning machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "carton-sealing-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/carton-sealing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Automatic folding and sealing machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/carton-sealing-machine"
+            }
+          ]
+        }
+---
 # Automatic folding and sealing machine
 
 ![Automatic folding and sealing machine](/images/filling-products/carton-sealing-machine.webp)

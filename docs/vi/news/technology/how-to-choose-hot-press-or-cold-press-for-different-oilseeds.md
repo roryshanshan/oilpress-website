@@ -1,6 +1,6 @@
 ---
-title: "Cách chọn ép nóng hay ép lạnh cho từng loại nguyên liệu dầu"
-description: "Xem loại nguyên liệu nào phù hợp hơn với ép nóng hoặc ép lạnh và cách mè, lạc, hạt trà, óc chó, hạt lanh và hạt bí khác nhau trong lựa chọn quy trình."
+title: Cách chọn ép nóng hay ép lạnh cho từng loại nguyên liệu dầu
+description: Xem loại nguyên liệu nào phù hợp hơn với ép nóng hoặc ép lạnh và cách mè, lạc, hạt trà, óc chó, hạt lanh và hạt bí khác nhau trong lựa chọn quy trình.
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-03"
 ---

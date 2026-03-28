@@ -1,7 +1,7 @@
 ---
-title: Giải pháp (Solutions) - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: Công ty Shengshi Hecheng cung cấp các giải pháp chế biến dầu chuyên nghiệp, được phân loại theo loại nguyên liệu bao gồm hạt, quả, các loại dầu đặc sản. . .
-keywords: giải pháp, giải pháp chế biến dầu, giải pháp ngũ cốc & hạt, giải pháp hạt & cứng, giải pháp dầu từ quả, giải pháp dầu đặc thù, điều khiển thông minh, dầu chất lượng cao, sản xuất bền vững, chế biến dầu ăn, mỹ phẩm, sản xuất thực phẩm chức năng, ứng dụng công nghiệp, giải pháp Shengshi Hecheng
+title: Dây chuyền ép dầu | Giải pháp & báo giá
+description: Giải pháp trọn gói, danh mục thiết bị, giá nhà máy và dịch vụ sau bán.
+keywords: dây chuyền ép dầu, giải pháp, báo giá, giá nhà máy, sau bán
 ---
 
 # Giải pháp (Solutions)

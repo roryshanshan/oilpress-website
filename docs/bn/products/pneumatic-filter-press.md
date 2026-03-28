@@ -1,9 +1,79 @@
 ---
-title: প্নিউম্যাটিক লেয়ারড অয়েল ফিল্টার
-description: প্নিউম্যাটিক লেয়ারড অয়েল ফিল্টার 304 স্টেইনলেস স্টিল ম্যাটেরিয়াল ব্যবহার করে, ইন্টিগ্রেটেড ডিজাইন, স্বয়ং মোটর, গিয়ার পাম্প, এয়ার কম্প্রেসর সহ
-keywords: প্নিউম্যাটিক লেয়ারড অয়েল ফিল্টার, অয়েল ফিল্টার, তেল ফিল্টারিং সরঞ্জাম, লেয়ারড অয়েল ফিল্টার, প্নিউম্যাটিক অয়েল ফিল্টার, অয়েল ফিল্টার মেশিন, তেল রিফাইনিং সরঞ্জাম, ফিল্টারিং সরঞ্জাম, অয়েল প্রেশার অয়েল ফিল্টার, তেল ফিল্টারিং মেশিন, অয়েল রিফাইনিং সরঞ্জাম, অয়েল ফিল্টার সরঞ্জাম
----
+title: প্নিউম্যাটিক লেয়ারড অয়েল ফিল্টার দাম | প্রস্তুতকারক
+description: প্নিউম্যাটিক লেয়ারড অয়েল ফিল্টার এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: প্নিউম্যাটিক লেয়ারড অয়েল ফিল্টার দাম, প্নিউম্যাটিক লেয়ারড অয়েল ফিল্টার কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "প্নিউম্যাটিক লেয়ারড অয়েল ফিল্টার",
+          "description": "প্নিউম্যাটিক লেয়ারড অয়েল ফিল্টার এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "pneumatic-filter-press",
+          "url": "https://hydraulic-oil-press.com/bn/products/pneumatic-filter-press",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "প্নিউম্যাটিক লেয়ারড অয়েল ফিল্টার",
+              "item": "https://hydraulic-oil-press.com/bn/products/pneumatic-filter-press"
+            }
+          ]
+        }
+---
 # প্নিউম্যাটিক লেয়ারড অয়েল ফিল্টার
 ![](https://i.postimg.cc/mR4Z4z8S/image.png?dl=1)
 

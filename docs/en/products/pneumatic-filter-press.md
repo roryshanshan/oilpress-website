@@ -1,9 +1,79 @@
 ---
-title: Pneumatic Multi-layer Oil Filter Press - Shengshi Hecheng
-description: Pneumatic multi-layer oil filter press uses 304 stainless steel material, integrated design, comes with motor, gear pump, air compressor, quick opening design
-keywords: Pneumatic Multi-layer Oil Filter Press, oil press machine, oil press price, oil press quotation, oil press supplier, oil processing equipment, supporting equipment, after-sales service, oilseed processing equipment, Oil filter press
----
+title: Pneumatic Multi-layer Oil Filter Press - Shengshi Hecheng Pric...
+description: Get price, procurement, and after-sales support for Pneumatic Multi-layer Oil Filter Press - Shengshi Hecheng from Shengshi Hecheng manufacturer.
+keywords: Pneumatic Multi-layer Oil Filter Press - Shengshi Hecheng price, Pneumatic Multi-layer Oil Filter Press - Shengshi Hecheng quote, Pneumatic Multi-layer Oil Filter Press - Shengshi Hecheng manufacturer, Pneumatic Multi-layer Oil Filter Press - Shengshi Hecheng supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Pneumatic Multi-layer Oil Filter Press",
+          "description": "Get price, procurement, and after-sales support for Pneumatic Multi-layer Oil Filter Press - Shengshi Hecheng from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "pneumatic-filter-press",
+          "url": "https://hydraulic-oil-press.com/en/products/pneumatic-filter-press",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Pneumatic Multi-layer Oil Filter Press",
+              "item": "https://hydraulic-oil-press.com/en/products/pneumatic-filter-press"
+            }
+          ]
+        }
+---
 # Pneumatic Multi-layer Oil Filter Press
 ![](https://i.postimg.cc/mR4Z4z8S/image.png?dl=1)
 ## Product Overview

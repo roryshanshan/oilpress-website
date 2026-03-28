@@ -1,9 +1,79 @@
 ---
-title: "Ротационная машина для наполнения чанов | автоматическое оборудование для количественного розлива жидкости в чане"
-description: "Роторная машина для наполнения ванн подходит для автоматического количественного наполнения жидкостей в ваннах. Он имеет такие функции, как электронный количественный анализ клапанов, управление ПЛК, отсутствие наполнения без бочки и функции защиты от капель. Он подходит для проектов по работе со смазками и химическими жидкостями."
-keywords: "Ротационная машина для наполнения чанов, машина для наполнения чанов, машина для количественного наполнения, серия разливочных машин, Shengshi Hecheng"
----
+title: Ротационная машина для наполнения чанов цена | производитель
+description: Запросите цену и подбор Ротационная машина для наполнения чанов. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Роторная машина для наполнения чанов цена, купить Роторная машина для наполнения чанов, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Роторная машина для наполнения чанов",
+          "description": "Запросите цену и подбор \"Ротационная машина для наполнения чанов. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "rotary-drum-filling-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/rotary-drum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Роторная машина для наполнения чанов",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/rotary-drum-filling-machine"
+            }
+          ]
+        }
+---
 # Роторная машина для наполнения чанов
 
 ![Машина для розлива с вращающимся барабаном](/images/filling-products/rotary-drum-filling-machine.webp)

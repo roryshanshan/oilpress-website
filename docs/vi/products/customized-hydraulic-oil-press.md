@@ -1,9 +1,79 @@
 ---
-title: Máy ép dầu tùy chỉnh - Shengshi Hecheng
-description: Shandong Shengshi Hecheng cung cấp giải pháp máy ép dầu tùy chỉnh, tùy chỉnh đặc tả thiết bị, chức năng và cấu hình theo nhu cầu cụ thể của khách hàng
-keywords: máy ép dầu thủy lực tùy chỉnh, thiết bị ép dầu tùy biến, máy ép thủy lực theo yêu cầu khách hàng, máy ép dầu thủy lực đặc chế, máy ép dầu tùy chỉnh, máy ép dầu chuyên dụng, thiết bị tùy chỉnh Shandong Shengshi Hecheng
----
+title: Máy ép dầu tùy chỉnh - Shengshi Hecheng giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy ép dầu tùy chỉnh - Shengshi Hecheng từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy ép dầu thủy lực theo yêu cầu khách hàng, mua Máy ép dầu thủy lực theo yêu cầu khách hàng, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy ép dầu thủy lực theo yêu cầu khách hàng",
+          "description": "Nhận báo giá và tư vấn mua Máy ép dầu tùy chỉnh - Shengshi Hecheng từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "customized-hydraulic-oil-press",
+          "url": "https://hydraulic-oil-press.com/vi/products/customized-hydraulic-oil-press",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy ép dầu thủy lực theo yêu cầu khách hàng",
+              "item": "https://hydraulic-oil-press.com/vi/products/customized-hydraulic-oil-press"
+            }
+          ]
+        }
+---
 #  <center> Máy ép dầu thủy lực theo yêu cầu khách hàng</center>
 
 ## Tổng quan dịch vụ tùy chỉnh

@@ -536,7 +536,7 @@
 
         <!-- 联系我们 -->
         <a :href="localizedPath('/contact/')" class="mobile-nav-link" @click="closeMobileMenu">
-          {{ currentLang === 'zh' ? '联系我们' : currentLang === 'ru' ? 'Контакты' : currentLang === 'fr' ? 'Contact' : currentLang === 'bn' ? 'যোগাযোগ' : currentLang === 'vi' ? 'Liên hệ' : 'Contact' }}
+          {{ currentLang === 'zh' ? '获取价格/报价' : currentLang === 'ru' ? 'Запросить цену и расчёт' : currentLang === 'fr' ? 'Obtenir prix & devis' : currentLang === 'bn' ? 'দাম ও দরপত্র নিন' : currentLang === 'vi' ? 'Nhận giá & báo giá' : 'Get Price & Quote' }}
         </a>
       </div>
       

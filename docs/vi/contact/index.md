@@ -1,7 +1,7 @@
 ---
-title: Liên hệ - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: "Thông tin liên hệ của Công ty TNHH Shengshi Hecheng Sơn Đông: địa chỉ Khu phát triển, đường Yineng 5888, thành phố Thanh Châu, Weifang"
-keywords: Liên hệ, Công ty Shengshi Hecheng, Thiết bị ép dầu, Thông tin liên hệ, Địa chỉ công ty, Tư vấn bán hàng, Hỗ trợ kỹ thuật, Mua thiết bị, Báo giá, Dịch vụ hậu mãi, Bảo trì thiết bị, Tư vấn kỹ thuật
+title: Nhận giá & báo giá | Hỗ trợ mua hàng
+description: Liên hệ Shengshi Hecheng để nhận giá máy ép dầu và báo giá dây chuyền, hỗ trợ sau bán.
+keywords: nhận báo giá, giá máy ép dầu, liên hệ, mua hàng, sau bán
 ---
 
 # Liên hệ chúng tôi

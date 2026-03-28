@@ -1,9 +1,79 @@
 ---
-title: "লিনিয়ার ফিলিং মেশিন | ZGP-4~ZGP-10 ভ্যাট ভর্তি সরঞ্জাম"
-description: "লিনিয়ার ফিলিং মেশিন ZGP-4 থেকে ZGP-10 কভার করে, 10-25 L বড় ব্যারেল তরল পরিমাণগত ভরাটের জন্য উপযুক্ত, 10 L এর উপর ভিত্তি করে 500-1400 ব্যারেল/ঘন্টা রেফারেন্স আউটপুট।"
-keywords: "লিনিয়ার ফিলিং মেশিন, ZGP-4, ZGP-10, ভ্যাট ফিলিং মেশিন, ফিলিং মেশিন সিরিজ, Shengshi Hecheng"
----
+title: লিনিয়ার ফিলিং মেশিন দাম | প্রস্তুতকারক
+description: লিনিয়ার ফিলিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: লিনিয়ার ফিলিং মেশিন দাম, লিনিয়ার ফিলিং মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "লিনিয়ার ফিলিং মেশিন",
+          "description": "\"লিনিয়ার ফিলিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "linear-filling-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/linear-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "লিনিয়ার ফিলিং মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/linear-filling-machine"
+            }
+          ]
+        }
+---
 # লিনিয়ার ফিলিং মেশিন
 
 ![লিনিয়ার ফিলিং মেশিন](/images/filling-products/linear-filling-machine.webp)

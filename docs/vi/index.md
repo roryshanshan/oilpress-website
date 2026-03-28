@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Nhà sản xuất máy ép dầu thủy lực chuyên nghiệp - Công ty TNHH
-description: Công ty TNHH Shengshi Hecheng Sơn Đông chuyên về nghiên cứu và sản xuất máy ép dầu thủy lực, cung cấp thiết bị ép dầu cho các loại nguyên liệu như đậu tương
-keywords: Máy ép dầu đậu tương thủy lực, Máy ép dầu lạc thủy lực, Máy ép dầu vừng thủy lực, Máy ép dầu cải thủy lực, Máy ép dầu hướng dương thủy lực, Máy ép dầu hạt bông thủy lực, Máy ép dầu hạt lanh thủy lực, Máy ép dầu trà thủy lực, Máy ép dầu tía tô thủy lực, Máy ép dầu dừa thủy lực, Máy ép dầu cọ thủy lực, Máy ép dầu óc chó thủy lực, Máy ép dầu hạnh nhân thủy lực, Máy ép dầu hạt phỉ thủy lực, Máy ép dầu hạt điều thủy lực, Máy ép dầu hạt dẻ cười thủy lực, Máy ép dầu bơ thủy lực, Máy ép dầu hạt nho thủy lực, Máy ép dầu hạt bí thủy lực, Máy ép dầu hạt dưa thủy lực, Máy ép dầu hạt đào thủy lực, Máy ép dầu hạt mơ thủy lực, Máy ép dầu 300 tấn, Máy ép dầu 325 tấn, Máy ép dầu 380 tấn, Máy ép dầu 410 tấn, Máy ép dầu 480 tấn, Máy ép dầu 500 tấn, Máy ép dầu 530 tấn, Máy ép dầu nguyên liệu, Máy ép dầu hạt cứng, Máy ép dầu hạt trái cây, Máy ép dầu 300T, Máy ép dầu 325T, Máy ép dầu 380T, Máy ép dầu 410T, Máy ép dầu 480T, Máy ép dầu 500T, Máy ép dầu 530T, Máy ép dầu cây dầu, Máy ép dầu hạt cứng, Máy ép dầu hạt trái cây, Máy ép dầu đậu tương, Máy ép dầu lạc, Máy ép dầu vừng, Máy ép dầu cải, Máy ép dầu hướng dương, Máy ép dầu hạt bông, Máy ép dầu hạt lanh, Máy ép dầu trà, Máy ép dầu tía tô, Máy ép dầu óc chó, Máy ép dầu dừa, Máy ép dầu cọ, Máy ép dầu hạt đào, Máy ép dầu hạt mơ, Máy ép dầu hạt bí, Máy ép dầu hạt dưa, Máy ép dầu hạnh nhân
+title: Nhà sản xuất máy ép dầu | Giá & báo giá
+description: Báo giá máy ép dầu 300-500 và dây chuyền ép dầu trọn gói. Giá trực tiếp từ nhà máy và hậu mãi.
+keywords: giá máy ép dầu, nhà sản xuất, báo giá, mua hàng, dây chuyền ép dầu, hậu mãi
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
@@ -31,7 +31,7 @@ keywords: Máy ép dầu đậu tương thủy lực, Máy ép dầu lạc thủ
   <p>Doanh nghiệp sản xuất thiết bị ép dầu trọng điểm quốc gia, cung cấp giải pháp chế biến dầu một cửa cho bạn</p>
     <div class="hero-buttons">
   <a href="/vi/products/" class="primary-button">Xem các dòng sản phẩm</a>
-  <a href="/vi/contact/" class="contact-link-button">Liên hệ chúng tôi</a>
+  <a href="/vi/contact/" class="contact-link-button">Nhận giá & báo giá</a>
     </div>
   </div>
   <div class="hero-image">
@@ -219,7 +219,7 @@ keywords: Máy ép dầu đậu tương thủy lực, Máy ép dầu lạc thủ
     <p><strong>📧 Email:</strong> roryshanshan@gmail.com</p>
     <p><strong>📧 Kinh doanh:</strong> gavin@oil-pressing-machine.com</p>
     <p><strong>🏭 Địa chỉ:</strong> Số 5888, đường Yineng, Khu phát triển, thành phố Thanh Châu, Weifang, Sơn Đông, Trung Quốc</p>
-    <a href="/vi/contact/" class="contact-button">Liên hệ chúng tôi</a>
+    <a href="/vi/contact/" class="contact-button">Nhận giá & báo giá</a>
   </div>
   <div class="contact-form">
     <form action="https://formspree.io/f/xblaoewy" method="POST">

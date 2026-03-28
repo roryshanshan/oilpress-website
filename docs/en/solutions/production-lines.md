@@ -1,9 +1,75 @@
 ---
-title: Edible Oil Production Lines | Hydraulic Pressing, Filtration, Refining and Filling
-description: Review complete edible oil production lines built around hydraulic oil presses, covering pre-treatment, pressing, filtration, refining, dewaxing, filling, and raw-material-specific project guidance.
-keywords: edible oil production line, hydraulic oil press line, oil pressing production line, oil extraction line, oil filtration refining filling line, peanut oil line, sesame oil line, soybean oil line
----
+title: Edible Oil Production Lines Quote | Turnkey Solution
+description: Get a quote and turnkey plan for Edible Oil Production Lines. Process design, equipment list, and after-sales support.
+keywords: Edible Oil Production Lines quote, Edible Oil Production Lines price, turnkey solution, production line, procurement
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Production Lines Overview",
+          "description": "Get a quote and turnkey plan for Edible Oil Production Lines. Process design, equipment list, and after-sales support.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/en/solutions/production-lines",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/en/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Production Lines Overview",
+              "item": "https://hydraulic-oil-press.com/en/solutions/production-lines"
+            }
+          ]
+        }
+---
 # Production Lines Overview
 
 This page summarizes how a complete edible oil production line is built around hydraulic oil presses. It is designed for customers who are no longer comparing a single machine, but are instead planning the full route from raw material preparation to finished oil packaging.
@@ -109,7 +175,7 @@ Focus on stable capacity, cleaner process routing, documentation, and packaging 
 - [Equipment Instruction Manual](/en/products/instruction-manual)
 - [Customized Hydraulic Oil Press](/en/products/customized-hydraulic-oil-press)
 - [Customer Order Shipping Video](/en/products/customer-order-shipping-video)
-- [Contact Us](/en/contact/)
+- [Get Price & Quote](/en/contact/)
 
 ## Frequently Asked Questions
 
@@ -121,3 +187,11 @@ Yes. Many projects begin with pressing plus filtration and later expand into ref
 
 ### Where should I start if I do not know the right model yet?
 Start with the [Hydraulic Oil Press Product Overview](/en/products/) and the oilseed-specific [solution pages](/en/solutions/), then contact us with your raw material, daily target output, and desired finished-oil format.
+
+## Get Price & Quote
+
+Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+
+- [Get Price & Quote](/en/contact/)
+
+<!-- quote-cta -->

@@ -1,9 +1,75 @@
 ---
-title: Aperçu des solutions de remplissage - Shengshi Hecheng
-description: Aperçu des lignes de remplissage pour huiles comestibles en bouteilles, sachets et fûts, incluant équipements, processus, capacités et service après-vente.
-keywords: solutions de remplissage, ligne de remplissage, remplissage d'huile, équipement d'emballage
----
+title: Aperçu des solutions de remplissage - Shengshi Hecheng devis |...
+description: "Demandez un devis pour Aperçu des solutions de remplissage - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV."
+keywords: Aperçu des solutions de remplissage prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Aperçu des solutions de remplissage",
+          "description": "Demandez un devis pour Aperçu des solutions de remplissage - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/filling-packages",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Aperçu des solutions de remplissage",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/filling-packages"
+            }
+          ]
+        }
+---
 # Aperçu des solutions de remplissage
 
 Cette page présente nos solutions complètes de remplissage pour huiles comestibles et huiles spéciales, adaptées aux bouteilles, sachets et fûts. Elles incluent le dosage, l'obturation, l'étiquetage, le conditionnement et l'inspection en ligne.
@@ -59,3 +125,11 @@ Nous fournissons des solutions clés en main de la réception des matières prem
 
 - Téléphone : +86 19906365856
 - Email : gavin@oil-pressing-machine.com
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

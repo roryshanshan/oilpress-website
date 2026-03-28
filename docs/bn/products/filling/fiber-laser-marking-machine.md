@@ -1,9 +1,79 @@
 ---
-title: "ফাইবার লেজার মার্কিং মেশিন | লেজার কোডিং মেশিন সিরিজ"
-description: "ফাইবার লেজার মার্কিং মেশিন হল একটি নতুন প্রজন্মের লেজার মার্কিং মেশিন সিস্টেম যা আমাদের কোম্পানি উন্নত লেজার প্রযুক্তি ব্যবহার করে তৈরি করেছে। এটি লেজারের আউটপুট করার জন্য একটি ফাইবার লেজার ব্যবহার করে এবং তারপর চিহ্নিতকরণ ফাংশন অর্জন করতে একটি উচ্চ-গতির স্ক্যানিং গ্যালভানোমিটার সিস্টেম ব্যবহার করে।"
-keywords: "ফাইবার লেজার মার্কিং মেশিন, লেজার কোডিং মেশিন সিরিজ, তরল প্যাকেজিং সরঞ্জাম, ফিলিং এবং প্যাকেজিং সরঞ্জাম, শেংশি হেচেং"
----
+title: ফাইবার লেজার মার্কিং মেশিন দাম | প্রস্তুতকারক
+description: ফাইবার লেজার মার্কিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: ফাইবার লেজার মার্কিং মেশিন দাম, ফাইবার লেজার মার্কিং মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "ফাইবার লেজার মার্কিং মেশিন",
+          "description": "\"ফাইবার লেজার মার্কিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "fiber-laser-marking-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/fiber-laser-marking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "ফাইবার লেজার মার্কিং মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/fiber-laser-marking-machine"
+            }
+          ]
+        }
+---
 # ফাইবার লেজার মার্কিং মেশিন
 
 ![ফাইবার লেজার মার্কিং মেশিন](/images/filling-products/fiber-laser-marking-machine.webp)

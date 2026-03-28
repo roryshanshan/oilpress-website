@@ -1,6 +1,6 @@
 ---
 title: Văn hóa doanh nghiệp - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: "Văn hóa doanh nghiệp Shengshi Hecheng, tuân thủ triết lý \"Chất lượng hàng đầu, khách hàng là trên hết\", giá trị cốt lõi: trung thực, đổi mới, xuất sắc"
+description: "Văn hóa doanh nghiệp Shengshi Hecheng, tuân thủ triết lý Chất lượng hàng đầu, khách hàng là trên hết, giá trị cốt lõi: trung thực, đổi mới, xuất sắc"
 keywords: Văn hóa doanh nghiệp, Văn hóa công ty, Sứ mệnh doanh nghiệp, Giá trị cốt lõi, Tinh thần doanh nghiệp, Triết lý phát triển, Shengshi Hecheng Sơn Đông, Nhà sản xuất máy ép dầu, Giới thiệu doanh nghiệp, Triết lý công ty, Giá trị doanh nghiệp, Tinh thần doanh nghiệp
 ---
 

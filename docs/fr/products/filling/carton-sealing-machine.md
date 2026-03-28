@@ -1,9 +1,79 @@
 ---
-title: "Plieuse et encartonneuse automatique | Emballage et palettisation"
-description: "La machine de pliage et de scellage automatique s'applique aux appareils électroménagers, aux textiles, à l'alimentation, aux nécessités quotidiennes, aux produits pharmaceutiques, à l'industrie légère, à l'industrie chimique, etc."
-keywords: "Plieuse et encartonneuse automatique, emballage et palettisation, équipement de conditionnement de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Plieuse et encartonneuse automatique prix | fabricant
+description: Demandez le prix et le devis pour Plieuse et encartonneuse automatique. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Machine automatique de pliage et de scellage prix, acheter Machine automatique de pliage et de scellage, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Machine automatique de pliage et de scellage",
+          "description": "Demandez le prix et le devis pour \"Plieuse et encartonneuse automatique. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "carton-sealing-machine",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/carton-sealing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine automatique de pliage et de scellage",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/carton-sealing-machine"
+            }
+          ]
+        }
+---
 # Machine automatique de pliage et de scellage
 
 ![Machine de pliage et de scellage automatique](/images/filling-products/carton-sealing-machine.webp)

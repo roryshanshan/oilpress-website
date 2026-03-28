@@ -1,10 +1,79 @@
 ---
-title: Máy nghiền và khuấy trộn hạt gai dầu, hạt lanh | Shengshi Hecheng
-description: Máy nghiền và khuấy trộn hạt gai dầu, hạt lanh thích hợp cho ngành dược, hóa chất, thực phẩm, có thể nghiền nhiều loại vật liệu, năng suất 750Kg/h
-keywords: máy nghiền hạt gai dầu, máy nghiền hạt lanh, máy nghiền khuấy trộn tích hợp, thiết bị nghiền, thiết bị tiền xử lý nguyên liệu dầu, thiết bị chế biến hạt gai dầu, thiết bị chế biến hạt lanh, máy nghiền, máy khuấy, máy nghiền khuấy trộn, thiết bị nghiền nguyên liệu dầu, thiết bị nghiền, thiết bị khuấy, máy nghiền 15Kw
+title: Máy nghiền và khuấy trộn hạt gai dầu, hạt lanh giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy nghiền và khuấy trộn hạt gai dầu, hạt lanh từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy nghiền và khuấy trộn hạt gai dầu, hạt lanh, mua Máy nghiền và khuấy trộn hạt gai dầu, hạt lanh, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy nghiền và khuấy trộn hạt gai dầu, hạt lanh",
+          "description": "Nhận báo giá và tư vấn mua Máy nghiền và khuấy trộn hạt gai dầu, hạt lanh từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "Hemp-and-flaxseed-grinding-and-stirring-integrated-machine",
+          "url": "https://hydraulic-oil-press.com/vi/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy nghiền và khuấy trộn hạt gai dầu, hạt lanh",
+              "item": "https://hydraulic-oil-press.com/vi/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine"
+            }
+          ]
+        }
 ---
-
-
 # Máy nghiền và khuấy trộn hạt gai dầu, hạt lanh
 
 ## Giới thiệu sản phẩm

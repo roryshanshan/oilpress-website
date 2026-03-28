@@ -1,9 +1,75 @@
 ---
-title: "Machine à boucher entièrement automatique | Série de boucheuses"
-description: "Cette machine est principalement adaptée au bouchage du vin et d’autres bouteilles en verre. Il est principalement connecté derrière la machine de remplissage et est utilisé pour le branchement après le remplissage."
-keywords: "Machine de bouchage entièrement automatique, série de machines de bouchage, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Machine à boucher entièrement automatique devis
+description: "Demandez un devis pour Machine à boucher entièrement automatique : plan de ligne, liste d’équipements et SAV."
+keywords: Machine à boucher entièrement automatique prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Machine à boucher entièrement automatique",
+          "description": "Demandez un devis pour \"Machine à boucher entièrement automatique : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/corking/automatic-corking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine à boucher entièrement automatique",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/corking/automatic-corking-machine"
+            }
+          ]
+        }
+---
 # Machine à boucher entièrement automatique
 
 ![Machine de bouchage entièrement automatique](/images/filling-products/automatic-corking-machine.webp)
@@ -62,3 +128,11 @@ Cette machine est principalement adaptée au bouchage du vin et d’autres boute
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
 - [Série de boucheuses](/fr/solutions/corking/)
 - [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

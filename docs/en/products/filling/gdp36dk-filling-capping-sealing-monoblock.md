@@ -1,9 +1,79 @@
 ---
-title: "GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing combined machine | Combined machine and filling supporting bus"
-description: "This model is one of the high-end and popular high-end equipment in the wine filling industry. It introduces foreign advanced working principle technology, integrates light, electricity and gas, is fast, accurate and efficient, and is widely used in the wine packaging product industry."
-keywords: "GDP36DK-10-10 Fully automatic intelligent filling and capping combined machine, combined machine and filling supporting bus, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: GDP36DK-10-10 Fully automatic intelligent filling, capping an...
+description: Get price, procurement, and after-sales support for GDP36DK-10-10 Fully automatic intelligent filling
+keywords: GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing combined machine price, GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing combined machine quote, GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing combined machine manufacturer, GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing combined machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing machine",
+          "description": "Get price, procurement, and after-sales support for \"GDP36DK-10-10 Fully automatic intelligent filling",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "gdp36dk-filling-capping-sealing-monoblock",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/gdp36dk-filling-capping-sealing-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/gdp36dk-filling-capping-sealing-monoblock"
+            }
+          ]
+        }
+---
 # GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing machine
 
 ![GDP36DK-10-10 Fully automatic intelligent filling and capping sealing machine](/images/filling-products/gdp36dk-filling-capping-sealing-monoblock.webp)

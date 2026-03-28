@@ -1,9 +1,79 @@
 ---
-title: "Machine de rinçage à chaîne | série de machines de rinçage"
-description: "Convient pour rincer les bouteilles neuves et anciennes de différents types et matériaux."
-keywords: "Rinceuse de bouteilles de type rail à chaîne, série de rinceuses de bouteilles, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Machine de rinçage à chaîne prix | fabricant
+description: Demandez le prix et le devis pour Machine de rinçage à chaîne. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Machine à laver les bouteilles de type rail à chaîne prix, acheter Machine à laver les bouteilles de type rail à chaîne, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Machine à laver les bouteilles de type rail à chaîne",
+          "description": "Demandez le prix et le devis pour \"Machine de rinçage à chaîne. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "chain-bottle-washer",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/chain-bottle-washer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine à laver les bouteilles de type rail à chaîne",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/chain-bottle-washer"
+            }
+          ]
+        }
+---
 # Machine à laver les bouteilles de type rail à chaîne
 
 ![Machine à laver les bouteilles à chaîne](/images/filling-products/chain-bottle-washer.webp)

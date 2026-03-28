@@ -1,9 +1,79 @@
 ---
-title: "Шестиколесная промывочная машина | серия ополаскивающих машин"
-description: "Эта машина использует принцип цепной передачи с роликовыми втулками. Вся конвейерная цепь имеет точную передачу и хорошую износостойкость. Для оборотной воды используется следящее распыление и распыление по фиксированной трубе. В части очистки воды используется распределитель воды для отслеживания и распыления, чтобы сэкономить источники воды и улучшить ее использование."
-keywords: "Шестиколесная ополаскивающая машина, серия ополаскивающих машин, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Шестиколесная промывочная машина цена | производитель
+description: Запросите цену и подбор Шестиколесная промывочная машина. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Шестиколесная промывочная машина цена, купить Шестиколесная промывочная машина, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Шестиколесная промывочная машина",
+          "description": "Запросите цену и подбор \"Шестиколесная промывочная машина. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "six-wheel-bottle-washer",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/six-wheel-bottle-washer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Шестиколесная промывочная машина",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/six-wheel-bottle-washer"
+            }
+          ]
+        }
+---
 # Шестиколесная промывочная машина
 
 ![Шестиколесная-мойка для бутылок](/images/filling-products/six-wheel-bottle-washer.webp)

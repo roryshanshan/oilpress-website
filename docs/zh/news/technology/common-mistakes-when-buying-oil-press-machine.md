@@ -1,6 +1,6 @@
 ---
-title: "购买榨油机时常见错误：5个容易踩坑的采购误区"
-description: "避免榨油机采购中最常见的误区，包括只看价格、误判产能、忽视整线配置和售后支持不足等问题。"
+title: 购买榨油机时常见错误：5个容易踩坑的采购误区
+description: 避免榨油机采购中最常见的误区，包括只看价格、误判产能、忽视整线配置和售后支持不足等问题。
 keywords: 榨油机采购误区, 榨油机选购, 液压榨油机购买, 榨油机常见错误
 date: "2026-03-13"
 ---
@@ -38,4 +38,4 @@ date: "2026-03-13"
 - [食用油生产线成本指南](/zh/news/technology/edible-oil-production-line-cost-guide)
 - [食用油生产线如何选择过滤设备](/zh/news/technology/how-to-choose-oil-filter-for-edible-oil-line)
 - [说明书下载](/zh/products/instruction-manual)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

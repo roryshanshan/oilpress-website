@@ -1,9 +1,75 @@
 ---
-title: Решения для кунжута (Кунжутное масло) - Shengshi Hecheng
-description: Профессиональные решения для отжима кунжута, предоставление оборудования и технических услуг по переработке кунжутного масла, содержание масла 50-60%
-keywords: Решения для кунжута, Отжим кунжутного масла, Оборудование для переработки кунжута, Линия производства кунжутного масла, Процесс горячего отжима кунжута, Пресс для кунжутного масла, Экстракция кунжутного масла, Переработка кунжута, Оборудование для отжима кунжутного масла, Оборудование для производства кунжутного масла, Завод по переработке кунжутного масла
----
+title: Решения для кунжута (Кунжутное масло) - Shengshi Hecheng цена ...
+description: "Запросите стоимость решения Решения для кунжута (Кунжутное масло) - Shengshi Hecheng: проект линии, список оборудования и сервис."
+keywords: Решения для кунжута (Кунжутное масло) цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Решения для кунжута (Кунжутное масло)",
+          "description": "Запросите стоимость решения Решения для кунжута (Кунжутное масло) - Shengshi Hecheng: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/sesame",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Решения для кунжута (Кунжутное масло)",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/sesame"
+            }
+          ]
+        }
+---
 # Решения для кунжута (Кунжутное масло)
 
 ## Обзор
@@ -148,3 +214,11 @@ keywords: Решения для кунжута, Отжим кунжутного 
 - [KHOP-20KG малая гидравлическая машина](/ru/products/khop-20kg-small-hydraulic-oil-press-machine)
 - [Серия 300](/ru/products/300)
 - [Свяжитесь с технической командой](/ru/contact/)
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

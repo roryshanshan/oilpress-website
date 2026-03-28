@@ -1,6 +1,6 @@
 ---
-title: "Guide ROI de la presse à huile hydraulique : comment estimer le retour et la rentabilité"
-description: "Découvrez comment estimer le ROI d'une presse à huile hydraulique à partir du prix de vente, de la production par lot, de la main-d'œuvre, de la filtration, de l'emballage et de la période de retour."
+title: "Guide ROI de la presse à huile hydraulique : comment estimer l..."
+description: Découvrez comment estimer le ROI d'une presse à huile hydraulique à partir du prix de vente, de la production par lot, de la main-d'œuvre, de la filtration
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-06"
 ---

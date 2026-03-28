@@ -1,9 +1,79 @@
 ---
-title: "Fully automatic self-adhesive labeling machine | Labeling machine series"
-description: "The vertical round bottle labeling machine is suitable for round bottle labeling in daily cosmetics, beverages, medicine and other industries."
-keywords: "Fully automatic self-adhesive labeling machine, labeling machine series, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: Fully automatic self-adhesive labeling machine Price
+description: Get price, procurement, and after-sales support for Fully automatic self-adhesive labeling machine from Shengshi Hecheng manufacturer.
+keywords: Fully automatic self-adhesive labeling machine price, Fully automatic self-adhesive labeling machine quote, Fully automatic self-adhesive labeling machine manufacturer, Fully automatic self-adhesive labeling machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Fully automatic self-adhesive labeling machine",
+          "description": "Get price, procurement, and after-sales support for \"Fully automatic self-adhesive labeling machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "self-adhesive-labeling-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/self-adhesive-labeling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Fully automatic self-adhesive labeling machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/self-adhesive-labeling-machine"
+            }
+          ]
+        }
+---
 # Fully automatic self-adhesive labeling machine
 
 ![Fully automatic self-adhesive labeling machine](/images/filling-products/self-adhesive-labeling-machine.webp)

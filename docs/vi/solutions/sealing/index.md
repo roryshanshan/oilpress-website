@@ -1,7 +1,7 @@
 ---
-title: "Dòng máy niêm phong"
-description: "Dòng máy niêm phong phù hợp để niêm phong và niêm phong các sản phẩm chất lỏng đóng chai, đóng bao và đóng thùng, đồng thời có thể được sử dụng trong dây chuyền đóng gói dầu ăn, gia vị, đồ uống, v.v."
-keywords: "Dòng máy hàn kín, máy hàn dầu ăn, máy hàn lá nhôm, thiết bị niêm phong nắp, máy hàn nhiệt, dây chuyền niêm phong bao bì chất lỏng"
+title: Dòng máy niêm phong
+description: Dòng máy niêm phong phù hợp để niêm phong và niêm phong các sản phẩm chất lỏng đóng chai, đóng bao và đóng thùng
+keywords: Dòng máy hàn kín, máy hàn dầu ăn, máy hàn lá nhôm, thiết bị niêm phong nắp, máy hàn nhiệt, dây chuyền niêm phong bao bì chất lỏng
 ---
 
 # Dòng máy niêm phong

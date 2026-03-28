@@ -1,6 +1,6 @@
 ---
-title: "Comment lancer une petite entreprise d'huile pressée à froid : équipement, coût et plan produit"
-description: "Guide pratique pour une petite activité d'huile pressée à froid couvrant le choix du produit, la configuration des machines, la filtration, le conditionnement et le contrôle des premiers coûts."
+title: "Comment lancer une petite entreprise d'huile pressée à froid :..."
+description: Guide pratique pour une petite activité d'huile pressée à froid couvrant le choix du produit, la configuration des machines, la filtration
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-20"
 ---

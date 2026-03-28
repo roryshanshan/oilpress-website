@@ -1,9 +1,79 @@
 ---
-title: "Linear filling machine | ZGP-4~ZGP-10 Large barrel filling equipment"
-description: "The linear filling machine covers ZGP-4 to ZGP-10, suitable for quantitative filling of 10-25 L large barrels of liquid, with a reference output of 500-1400 barrels/hour based on 10 L."
-keywords: "Linear filling machine, ZGP-4, ZGP-10, vat filling machine, filling machine series, Shengshi Hecheng"
----
+title: Linear filling machine Price | Manufacturer & Quote
+description: Get price, procurement, and after-sales support for Linear filling machine from Shengshi Hecheng manufacturer.
+keywords: Linear filling machine price, Linear filling machine quote, Linear filling machine manufacturer, Linear filling machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Linear filling machine",
+          "description": "Get price, procurement, and after-sales support for \"Linear filling machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "linear-filling-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/linear-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Linear filling machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/linear-filling-machine"
+            }
+          ]
+        }
+---
 # Linear filling machine
 
 ![Linear filling machine](/images/filling-products/linear-filling-machine.webp)

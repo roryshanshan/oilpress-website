@@ -1,9 +1,79 @@
 ---
-title: "Разливочная машина, устойчивая к кислотной и щелочной коррозии | Сильный коррозионный жидкий наполнительный раствор"
-description: "Разливочная машина, устойчивая к кислотной и щелочной коррозии, подходит для розлива сильнокоррозионных или сильнопенящихся жидкостей, таких как жидкость для чистки туалетов, дезинфицирующие средства 84, пестициды и жидкие удобрения, а также поддерживает погружные противопенные и противокапельные конфигурации."
-keywords: "Разливочная машина, устойчивая к кислотной и щелочной коррозии, антикоррозийная разливочная машина, машина для розлива пестицидов, машина для ежедневного розлива химикатов, серия разливочных машин, Shengshi Hecheng"
----
+title: Разливочная машина, устойчивая к кислотной и щелочной коррози...
+description: Запросите цену и подбор Разливочная машина, устойчивая к кислотной и щелочной коррозии. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Машина для розлива, устойчивая к кислотной и щелочной коррозии цена, купить Машина для розлива, устойчивая к кислотной и щелочной коррозии, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Машина для розлива, устойчивая к кислотной и щелочной коррозии",
+          "description": "Запросите цену и подбор \"Разливочная машина, устойчивая к кислотной и щелочной коррозии. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "corrosion-resistant-filling-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/corrosion-resistant-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Машина для розлива, устойчивая к кислотной и щелочной коррозии",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/corrosion-resistant-filling-machine"
+            }
+          ]
+        }
+---
 # Машина для розлива, устойчивая к кислотной и щелочной коррозии
 
 ![Машина для розлива, устойчивая к кислоте и щелочи](/images/filling-products/corrosion-resistant-filling-machine.webp)

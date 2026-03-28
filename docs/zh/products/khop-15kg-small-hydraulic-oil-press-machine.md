@@ -1,9 +1,79 @@
 ---
-title: KHOP-15KG 小型液压榨油机 | 成长型芝麻油门店设备
-description: KHOP-15KG 小型液压榨油机适合芝麻油门店和成长型现榨业务，参考日产能 1.8 吨 / 24 小时，在产能、占地和商业展示之间更均衡。
-keywords: KHOP-15KG 小型液压榨油机, 15kg 芝麻榨油机, 韩式门店榨油机, 芝麻油店设备, 小型液压榨油机
----
+title: KHOP-15KG 小型液压榨油机价格|厂家报价
+description: 获取KHOP-15KG 小型液压榨油机价格、采购与售后支持，厂家直供，支持选型与交付。
+keywords: KHOP-15KG 小型液压榨油机价格, KHOP-15KG 小型液压榨油机报价, KHOP-15KG 小型液压榨油机厂家, KHOP-15KG 小型液压榨油机采购, 售后服务
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "KHOP-15KG 小型液压榨油机",
+          "description": "获取KHOP-15KG 小型液压榨油机价格、采购与售后支持，厂家直供，支持选型与交付。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "khop-15kg-small-hydraulic-oil-press-machine",
+          "url": "https://hydraulic-oil-press.com/zh/products/khop-15kg-small-hydraulic-oil-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "KHOP-15KG 小型液压榨油机",
+              "item": "https://hydraulic-oil-press.com/zh/products/khop-15kg-small-hydraulic-oil-press-machine"
+            }
+          ]
+        }
+---
 # KHOP-15KG 小型液压榨油机
 
 ![KHOP-15KG 小型液压榨油机](/images/korean-type-small-press/korean-type-detail.jpg)

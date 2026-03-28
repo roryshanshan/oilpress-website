@@ -1,9 +1,75 @@
 ---
-title: Решения для арахиса (Масло арахиса) - Shengshi Hecheng
-description: Профессиональные решения для отжима арахиса, предоставление оборудования и технических услуг по переработке масла арахиса, содержание масла 45-55%
-keywords: Решения для арахиса, Отжим масла арахиса, Оборудование для переработки арахиса, Линия производства масла арахиса, Процесс горячего отжима арахиса, Пресс для масла арахиса, Экстракция масла арахиса, Переработка масличных семян арахиса, Оборудование для отжима масла арахиса, Оборудование для производства масла арахиса, Завод по переработке масла арахиса
----
+title: Решения для арахиса (Масло арахиса) - Shengshi Hecheng цена | ...
+description: "Запросите стоимость решения Решения для арахиса (Масло арахиса) - Shengshi Hecheng: проект линии, список оборудования и сервис."
+keywords: Решения для арахиса (Масло арахиса) цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Решения для арахиса (Масло арахиса)",
+          "description": "Запросите стоимость решения Решения для арахиса (Масло арахиса) - Shengshi Hecheng: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/peanut",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Решения для арахиса (Масло арахиса)",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/peanut"
+            }
+          ]
+        }
+---
 # Решения для арахиса (Масло арахиса)
 ![Пресс для масла серии 300](/images/300-325-series.webp)
 
@@ -269,3 +335,11 @@ seo:
   description: Предоставляем эффективный и экологичный гидравлический пресс для масла арахиса, выход масла до 55%, без химических добавок, подходит для маленьких мастерских и больших заводов.
   keywords: Гидравлический пресс для масла арахиса, Оборудование для отжима масла арахиса, Эффективная линия производства масла арахиса, Горячеотжатое масло арахиса, Чисто физическое прессование, Технология переработки масла арахиса, Механика Shengshi Hecheng
 ```
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

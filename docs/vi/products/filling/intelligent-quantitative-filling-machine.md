@@ -1,9 +1,79 @@
 ---
-title: "Máy chiết rót định lượng thông minh | Tổng quan về mẫu DK-12~DK-36"
-description: "Máy chiết rót định lượng thông minh bao gồm DK-12 đến DK-36, với hiệu suất sản xuất tham chiếu là 4000-13000 chai/giờ. Nó phù hợp cho các dây chuyền tự động liên kết nâng nắp, phân loại nắp, oằn nắp và niêm phong nắp sau khi đóng nắp."
-keywords: "Máy chiết rót định lượng thông minh, DK-12, DK-36, máy chiết rót và đóng nắp tự động, dòng máy chiết rót, Shengshi Hechen"
----
+title: Máy chiết rót định lượng thông minh giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy chiết rót định lượng thông minh từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy chiết rót định lượng thông minh, mua Máy chiết rót định lượng thông minh, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy chiết rót định lượng thông minh",
+          "description": "Nhận báo giá và tư vấn mua \"Máy chiết rót định lượng thông minh từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "intelligent-quantitative-filling-machine",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling/intelligent-quantitative-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy chiết rót định lượng thông minh",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling/intelligent-quantitative-filling-machine"
+            }
+          ]
+        }
+---
 # Máy chiết rót định lượng thông minh
 
 ![Máy chiết rót định lượng thông minh](/images/filling-products/intelligent-quantitative-filling-machine.webp)

@@ -1,9 +1,79 @@
 ---
-title: "Automatic single head sealing machine | Sealing machine series"
-description: "The automatic single-head sealing machine is suitable as a representative model in the sealing machine series."
-keywords: "Automatic single-head sealing machine, sealing machine series, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: Automatic single head sealing machine Price
+description: Get price, procurement, and after-sales support for Automatic single head sealing machine from Shengshi Hecheng manufacturer.
+keywords: Automatic single head sealing machine price, Automatic single head sealing machine quote, Automatic single head sealing machine manufacturer, Automatic single head sealing machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Automatic single head sealing machine",
+          "description": "Get price, procurement, and after-sales support for \"Automatic single head sealing machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "single-head-sealing-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/single-head-sealing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Automatic single head sealing machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/single-head-sealing-machine"
+            }
+          ]
+        }
+---
 # Automatic single head sealing machine
 
 ![Automatic single head sealing machine](/images/filling-products/single-head-sealing-machine.webp)

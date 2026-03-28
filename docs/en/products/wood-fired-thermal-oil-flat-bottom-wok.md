@@ -1,9 +1,79 @@
 ---
-title: Wood-Fired Thermal Oil Flat-Bottom Wok - Shengshi Hecheng
-description: Wood-fired thermal oil flat-bottom wok comes with its own furnace, thermal oil model solves uneven heating problem, can burn wood and natural gas
-keywords: Wood-Fired Thermal Oil Flat-Bottom Wok, oil press machine, oil press price, oil press quotation, oil press supplier, oil processing equipment, supporting equipment, after-sales service, oilseed processing equipment, Thermal oil wok
----
+title: Wood-Fired Thermal Oil Flat-Bottom Wok - Shengshi Hecheng Pric...
+description: Get price, procurement, and after-sales support for Wood-Fired Thermal Oil Flat-Bottom Wok - Shengshi Hecheng from Shengshi Hecheng manufacturer.
+keywords: Wood-Fired Thermal Oil Flat-Bottom Wok - Shengshi Hecheng price, Wood-Fired Thermal Oil Flat-Bottom Wok - Shengshi Hecheng quote, Wood-Fired Thermal Oil Flat-Bottom Wok - Shengshi Hecheng manufacturer, Wood-Fired Thermal Oil Flat-Bottom Wok - Shengshi Hecheng supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Wood-Fired Thermal Oil Flat-Bottom Wok",
+          "description": "Get price, procurement, and after-sales support for Wood-Fired Thermal Oil Flat-Bottom Wok - Shengshi Hecheng from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "wood-fired-thermal-oil-flat-bottom-wok",
+          "url": "https://hydraulic-oil-press.com/en/products/wood-fired-thermal-oil-flat-bottom-wok",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Wood-Fired Thermal Oil Flat-Bottom Wok",
+              "item": "https://hydraulic-oil-press.com/en/products/wood-fired-thermal-oil-flat-bottom-wok"
+            }
+          ]
+        }
+---
 # Wood-Fired Thermal Oil Flat-Bottom Wok
 ![Wood-Fired Thermal Oil Flat-Bottom Wok](https://i.postimg.cc/wHP2fGLt/202509051612083.png?dl=1)
 ## Product Overview

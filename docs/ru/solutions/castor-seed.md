@@ -1,9 +1,75 @@
 ---
-title: Castor Seed (Castor Oil) Solutions - Shengshi Hecheng
-description: Professional castor seed oil pressing solutions, providing castor oil processing equipment and technical services, oil content 45-55%
-keywords: Castor seed solutions, Castor oil pressing, Castor seed processing equipment, Castor oil production line, Castor seed hot pressing process, Castor oil press, Castor oil extraction, Castor oilseed processing, Castor oil pressing equipment, Castor oil production equipment, Castor oil processing plant
----
+title: Castor Seed (Castor Oil) Solutions - Shengshi Hecheng цена | к...
+description: "Запросите стоимость решения Castor Seed (Castor Oil) Solutions - Shengshi Hecheng: проект линии, список оборудования и сервис."
+keywords: Castor Seed (Castor Oil) Solution цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Castor Seed (Castor Oil) Solution",
+          "description": "Запросите стоимость решения Castor Seed (Castor Oil) Solutions - Shengshi Hecheng: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/castor-seed",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Castor Seed (Castor Oil) Solution",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/castor-seed"
+            }
+          ]
+        }
+---
 # Castor Seed (Castor Oil) Solution
 
 ## Overview
@@ -148,3 +214,11 @@ If you are interested in castor seed pressing solutions, please contact our tech
 - 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable castor seed pressing solution.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

@@ -1,9 +1,79 @@
 ---
-title: "ফ্লিপ-টাইপ বোতল rinsing মেশিন | বোতল rinsing মেশিন সিরিজ"
-description: "ফ্লিপ-টাইপ বোতল রিন্সার রিন্সার সিরিজের প্রতিনিধি মডেল হিসাবে উপযুক্ত।"
-keywords: "ফ্লিপ-টাইপ বোতল রিন্সার, বোতল রিন্সার সিরিজ, তরল প্যাকেজিং সরঞ্জাম, ফিলিং এবং প্যাকেজিং সরঞ্জাম, শেংশি হেচেং"
----
+title: ফ্লিপ-টাইপ বোতল rinsing মেশিন দাম | প্রস্তুতকারক
+description: ফ্লিপ-টাইপ বোতল rinsing মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: ফ্লিপ-টাইপ বোতল রিন্সার দাম, ফ্লিপ-টাইপ বোতল রিন্সার কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "ফ্লিপ-টাইপ বোতল রিন্সার",
+          "description": "\"ফ্লিপ-টাইপ বোতল rinsing মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "flip-bottle-washer",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/flip-bottle-washer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "ফ্লিপ-টাইপ বোতল রিন্সার",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/flip-bottle-washer"
+            }
+          ]
+        }
+---
 # ফ্লিপ-টাইপ বোতল রিন্সার
 
 ![ফ্লিপ-বোতল-ওয়াশার](/images/filling-products/flip-bottle-washer.webp)

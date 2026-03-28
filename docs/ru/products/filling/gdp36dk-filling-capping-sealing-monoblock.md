@@ -1,9 +1,79 @@
 ---
-title: "GDP36DK-10-10 полностью автоматическая интеллектуальная комбинированная машина для наполнения и укупорки | комбинированная машина и шина поддержки наполнения"
-description: "Эта модель является одним из самых высокотехнологичных и популярных высококлассных устройств в индустрии розлива вина. Он представляет зарубежную передовую технологию работы, объединяет свет, электричество и газ, работает быстро, точно и эффективно и широко используется в индустрии упаковки вина."
-keywords: "GDP36DK-10-10, полностью автоматическая интеллектуальная комбинированная машина для наполнения и укупорки, комбинированная машина и автобус для поддержки наполнения, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: GDP36DK-10-10 полностью автоматическая интеллектуальная комби...
+description: Запросите цену и подбор GDP36DK-10-10 полностью автоматическая интеллектуальная комбинированная машина для наполнения и укупорки.
+keywords: GDP36DK-10-10 Полностью автоматическая интеллектуальная машина для наполнения, укупорки и укупорки. цена, купить GDP36DK-10-10 Полностью автоматическая интеллектуальная машина для наполнения, укупорки и укупорки., коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "GDP36DK-10-10 Полностью автоматическая интеллектуальная машина для наполнения, укупорки и укупорки.",
+          "description": "Запросите цену и подбор \"GDP36DK-10-10 полностью автоматическая интеллектуальная комбинированная машина для наполнения и укупорки.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "gdp36dk-filling-capping-sealing-monoblock",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/gdp36dk-filling-capping-sealing-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GDP36DK-10-10 Полностью автоматическая интеллектуальная машина для наполнения, укупорки и укупорки.",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/gdp36dk-filling-capping-sealing-monoblock"
+            }
+          ]
+        }
+---
 # GDP36DK-10-10 Полностью автоматическая интеллектуальная машина для наполнения, укупорки и укупорки.
 
 ![Полностью автоматическая интеллектуальная машина для наполнения и укупорки GDP36DK-10-10](/images/filling-products/gdp36dk-filling-capping-sealing-monoblock.webp)

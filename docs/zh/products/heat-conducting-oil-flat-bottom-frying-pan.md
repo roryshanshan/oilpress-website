@@ -1,9 +1,79 @@
 ---
-title: 内衬岩棉/外包不锈钢/导热油平底电炒锅 - 山东盛世赫程机械有限公司
-description: 导热油平底电炒锅采用双层锅底加强筋与电机减速机一体化设计，内衬岩棉保温层，外包不锈钢，导热油电加热方式受热均匀，节能环保。
-keywords: 内衬岩棉/外包不锈钢/导热油平底电炒锅, 榨油机设备, 榨油机价格, 榨油机报价, 榨油机采购, 油料加工设备, 榨油机配套设备, 售后服务, 油料预处理设备, 导热油平底电炒锅
----
+title: 内衬岩棉/外包不锈钢/导热油平底电炒锅 - 山东盛世赫程机械有限公司价格|厂家报价
+description: 获取内衬岩棉/外包不锈钢/导热油平底电炒锅 - 山东盛世赫程机械有限公司价格、采购与售后支持，厂家直供，支持选型与交付。
+keywords: 内衬岩棉/外包不锈钢/导热油平底电炒锅 - 山东盛世赫程机械有限公司价格, 内衬岩棉/外包不锈钢/导热油平底电炒锅 - 山东盛世赫程机械有限公司报价, 内衬岩棉/外包不锈钢/导热油平底电炒锅 - 山东盛世赫程机械有限公司厂家, 内衬岩棉/外包不锈钢/导热油平底电炒锅 - 山东盛世赫程机械有限公司采购, 售后服务
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "内衬岩棉/外包不锈钢/导热油平底电炒锅",
+          "description": "获取内衬岩棉/外包不锈钢/导热油平底电炒锅 - 山东盛世赫程机械有限公司价格、采购与售后支持，厂家直供，支持选型与交付。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "heat-conducting-oil-flat-bottom-frying-pan",
+          "url": "https://hydraulic-oil-press.com/zh/products/heat-conducting-oil-flat-bottom-frying-pan",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "内衬岩棉/外包不锈钢/导热油平底电炒锅",
+              "item": "https://hydraulic-oil-press.com/zh/products/heat-conducting-oil-flat-bottom-frying-pan"
+            }
+          ]
+        }
+---
 # 内衬岩棉/外包不锈钢/导热油平底电炒锅
 ![](https://i.postimg.cc/3KvT2YJ1/202509051516277.png?dl=1)
 ![](https://i.postimg.cc/hg2f5LdS/IMG-6945.jpg?dl=1)

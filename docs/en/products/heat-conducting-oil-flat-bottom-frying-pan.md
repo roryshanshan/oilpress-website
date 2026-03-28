@@ -1,9 +1,79 @@
 ---
-title: Rock Wool Lined/Stainless Steel Clad/Heat-Conducting Oil
-description: Heat-conducting oil flat-bottom electric frying pan features double-layer reinforced bottom and motor reducer integrated design, rock wool insulation lining
-keywords: oil press machine, oil press price, oil press quotation, oil press supplier, oil processing equipment, supporting equipment, after-sales service, oilseed processing equipment, Heat-conducting oil flat-bottom electric frying pan, Electric frying pan
----
+title: Rock Wool Lined/Stainless Steel Clad/Heat-Conducting Oil Price
+description: Get price, procurement, and after-sales support for Rock Wool Lined/Stainless Steel Clad/Heat-Conducting Oil from Shengshi Hecheng manufacturer.
+keywords: Rock Wool Lined/Stainless Steel Clad/Heat-Conducting Oil price, Rock Wool Lined/Stainless Steel Clad/Heat-Conducting Oil quote, Rock Wool Lined/Stainless Steel Clad/Heat-Conducting Oil manufacturer, Rock Wool Lined/Stainless Steel Clad/Heat-Conducting Oil supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Rock Wool Lined/Stainless Steel Clad/Heat-Conducting Oil Flat-Bottom Electric Frying Pan",
+          "description": "Get price, procurement, and after-sales support for Rock Wool Lined/Stainless Steel Clad/Heat-Conducting Oil from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "heat-conducting-oil-flat-bottom-frying-pan",
+          "url": "https://hydraulic-oil-press.com/en/products/heat-conducting-oil-flat-bottom-frying-pan",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Rock Wool Lined/Stainless Steel Clad/Heat-Conducting Oil Flat-Bottom Electric Frying Pan",
+              "item": "https://hydraulic-oil-press.com/en/products/heat-conducting-oil-flat-bottom-frying-pan"
+            }
+          ]
+        }
+---
 # Rock Wool Lined/Stainless Steel Clad/Heat-Conducting Oil Flat-Bottom Electric Frying Pan
 ![](https://i.postimg.cc/3KvT2YJ1/202509051516277.png?dl=1)
 ## Product Overview

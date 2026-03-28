@@ -1,9 +1,75 @@
 ---
-title: Perilla Seed (Perilla Oil) Solution - Shengshi Hecheng
-description: Perilla oil processing solution with cold pressing process control, designed for omega-3 rich nutritional oil production and specialty market applications.
-keywords: Perilla Seed (Perilla Oil) Solution, oil processing solutions, oil press machine, oilseed processing equipment, oil extraction process, oil processing line price, oil processing line quotation, cold press oil, perilla oil processing solution, perilla seed cold pressing line
----
+title: Perilla Seed (Perilla Oil) Solution - Shengshi Hecheng Quote |...
+description: Get a quote and turnkey plan for Perilla Seed (Perilla Oil) Solution - Shengshi Hecheng. Process design, equipment list, and after-sales support.
+keywords: Perilla Seed (Perilla Oil) Solution - Shengshi Hecheng quote, Perilla Seed (Perilla Oil) Solution - Shengshi Hecheng price, turnkey solution, production line, procurement
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Perilla Seed (Perilla Oil) Solution",
+          "description": "Get a quote and turnkey plan for Perilla Seed (Perilla Oil) Solution - Shengshi Hecheng. Process design, equipment list, and after-sales support.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/en/solutions/perilla",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/en/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Perilla Seed (Perilla Oil) Solution",
+              "item": "https://hydraulic-oil-press.com/en/solutions/perilla"
+            }
+          ]
+        }
+---
 # Perilla Seed (Perilla Oil) Solution
 
 ## Overview
@@ -143,3 +209,11 @@ We provide free technical consultation, sample testing, and on-site inspection s
 - [426 Series Hydraulic Oil Press](/en/products/426)
 - [Contact Technical Team](/en/contact/)
 - [中文页面](/zh/solutions/perilla)
+
+## Get Price & Quote
+
+Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+
+- [Get Price & Quote](/en/contact/)
+
+<!-- quote-cta -->

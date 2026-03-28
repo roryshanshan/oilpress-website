@@ -1,9 +1,75 @@
 ---
-title: "Ascenseur | Équipements de prétraitement des fruits et légumes"
-description: "Cet équipement est utilisé pour valoriser les fruits et légumes tels que les raisins, les fraises et les pommes. C'est l'un des équipements de prétraitement nécessaires aux fabricants de produits liquides tels que les jus de fruits et de légumes et les vins de fruits."
-keywords: "Ascenseur, équipement de prétraitement des fruits et légumes, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Ascenseur devis | solution clé en main
+description: "Demandez un devis pour Ascenseur : plan de ligne, liste d’équipements et SAV."
+keywords: Palan prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Palan",
+          "description": "Demandez un devis pour \"Ascenseur : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/fruit-veg-processing/fruit-elevator",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Palan",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/fruit-veg-processing/fruit-elevator"
+            }
+          ]
+        }
+---
 # Palan
 
 ![Ascenseur](/images/filling-products/fruit-elevator.webp)
@@ -39,3 +105,11 @@ Cet équipement est utilisé pour valoriser les fruits et légumes tels que les 
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
 - [Équipement de pré-traitement des fruits et légumes](/fr/solutions/fruit-veg-processing/)
 - [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

@@ -1,9 +1,79 @@
 ---
 title: Manuel d'Instructions de l'Équipement
 description: Téléchargement du Manuel d'Instructions de la Presse à Huile Hydraulique Qianlong
-keywords: Manuel d'instructions, presse à huile, machine d'extraction d'huile, fabricant de presse à huile, équipement de pressage d'huile, service après-vente, équipement de traitement des oléagineux, presse à huile hydraulique
----
+keywords: Manuel d'Instructions de l'Équipement prix, acheter Manuel d'Instructions de l'Équipement, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Manuel d'Instructions de l'Équipement",
+          "description": "Téléchargement du Manuel d'Instructions de la Presse à Huile Hydraulique Qianlong",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "instruction-manual",
+          "url": "https://hydraulic-oil-press.com/fr/products/instruction-manual",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Manuel d'Instructions de l'Équipement",
+              "item": "https://hydraulic-oil-press.com/fr/products/instruction-manual"
+            }
+          ]
+        }
+---
 # Manuel d'Instructions de l'Équipement
 
 ::: tip Instructions de Téléchargement

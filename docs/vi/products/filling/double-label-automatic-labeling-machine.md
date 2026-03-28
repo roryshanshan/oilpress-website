@@ -1,9 +1,79 @@
 ---
-title: "Máy dán nhãn đôi tuyến tính hoàn toàn tự động | Dòng máy dán nhãn"
-description: "Máy này được công ty chúng tôi sản xuất cẩn thận bằng cách áp dụng công nghệ tiên tiến."
-keywords: "Máy dán nhãn hoàn toàn tự động nhãn đôi tuyến tính, dòng máy dán nhãn, thiết bị đóng gói chất lỏng, thiết bị đóng gói chiết rót, Shengshi Hechen"
----
+title: Máy dán nhãn đôi tuyến tính hoàn toàn tự động giá | nhà sản xuất
+description: Nhận báo giá và tư vấn mua Máy dán nhãn đôi tuyến tính hoàn toàn tự động từ nhà sản xuất Shengshi Hecheng.
+keywords: giá Máy dán nhãn kép tuyến tính hoàn toàn tự động, mua Máy dán nhãn kép tuyến tính hoàn toàn tự động, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Máy dán nhãn kép tuyến tính hoàn toàn tự động",
+          "description": "Nhận báo giá và tư vấn mua \"Máy dán nhãn đôi tuyến tính hoàn toàn tự động từ nhà sản xuất Shengshi Hecheng.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "sku": "double-label-automatic-labeling-machine",
+          "url": "https://hydraulic-oil-press.com/vi/products/filling/double-label-automatic-labeling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Sản phẩm",
+              "item": "https://hydraulic-oil-press.com/vi/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Máy dán nhãn kép tuyến tính hoàn toàn tự động",
+              "item": "https://hydraulic-oil-press.com/vi/products/filling/double-label-automatic-labeling-machine"
+            }
+          ]
+        }
+---
 # Máy dán nhãn kép tuyến tính hoàn toàn tự động
 
 ![Máy dán nhãn tự động nhãn kép tuyến tính](/images/filling-products/double-label-automatic-labeling-machine.webp)

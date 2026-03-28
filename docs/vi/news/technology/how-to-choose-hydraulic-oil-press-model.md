@@ -1,6 +1,6 @@
 ---
 title: "Cách chọn model máy ép dầu thủy lực: Dòng 300, 325, 355 và 500"
-description: "Tìm hiểu cách chọn đúng model máy ép dầu thủy lực bằng cách so sánh tải nguyên liệu, kích thước mẻ, nhu cầu ép lạnh và sự khác biệt giữa các dòng 300 đến 500."
+description: Tìm hiểu cách chọn đúng model máy ép dầu thủy lực bằng cách so sánh tải nguyên liệu, kích thước mẻ, nhu cầu ép lạnh và sự khác biệt giữa các dòng 300 đến 500.
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-15"
 ---

@@ -1,9 +1,75 @@
 ---
-title: Buckwheat (Buckwheat Oil) Solutions - Shengshi Hecheng
-description: Professional buckwheat oil pressing solutions, providing buckwheat oil processing equipment and technical services, oil content 25-35%
-keywords: Buckwheat solutions, Buckwheat oil pressing, Buckwheat processing equipment, Buckwheat oil production line, Buckwheat oil press, Buckwheat oil extraction, Buckwheat oilseed processing, Buckwheat oil pressing equipment, Buckwheat oil production equipment, Buckwheat oil processing plant, Buckwheat oil nutritional value
----
+title: Buckwheat (Buckwheat Oil) Solutions - Shengshi Hecheng цена | ...
+description: "Запросите стоимость решения Buckwheat (Buckwheat Oil) Solutions - Shengshi Hecheng: проект линии, список оборудования и сервис."
+keywords: Buckwheat (Buckwheat Oil) Solution цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Buckwheat (Buckwheat Oil) Solution",
+          "description": "Запросите стоимость решения Buckwheat (Buckwheat Oil) Solutions - Shengshi Hecheng: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/buckwheat",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Buckwheat (Buckwheat Oil) Solution",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/buckwheat"
+            }
+          ]
+        }
+---
 # Buckwheat (Buckwheat Oil) Solution
 
 ## Overview
@@ -118,3 +184,11 @@ If you are interested in buckwheat seed pressing solutions, please contact our t
 - 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable buckwheat seed pressing solution.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

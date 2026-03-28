@@ -1,9 +1,79 @@
 ---
-title: GFP-60H低真空灌装机 | 酿酒设备系列
-description: GFP-60H低真空灌装机为60头定液位灌装设备，参考产能20000瓶/小时，总功率7.5kW，适合葡萄酒、黄酒、酱油、醋等易起泡液体灌装。
-keywords: GFP-60H低真空灌装机, 低真空灌装机, 酿酒设备系列, 高产能灌装机, 葡萄酒灌装线, 盛世赫程
----
+title: GFP-60H低真空灌装机价格|厂家报价
+description: 获取GFP-60H低真空灌装机价格、采购与售后支持，厂家直供，支持选型与交付。
+keywords: GFP-60H低真空灌装机价格, GFP-60H低真空灌装机报价, GFP-60H低真空灌装机厂家, GFP-60H低真空灌装机采购, 售后服务
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "GFP-60H低真空灌装机",
+          "description": "获取GFP-60H低真空灌装机价格、采购与售后支持，厂家直供，支持选型与交付。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "gfp-60h-low-vacuum-filling-machine",
+          "url": "https://hydraulic-oil-press.com/zh/products/filling/gfp-60h-low-vacuum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GFP-60H低真空灌装机",
+              "item": "https://hydraulic-oil-press.com/zh/products/filling/gfp-60h-low-vacuum-filling-machine"
+            }
+          ]
+        }
+---
 # GFP-60H低真空灌装机
 
 ![GFP-60H低真空灌装机](/images/filling-products/gfp-60h-low-vacuum-filling-machine.webp)
@@ -52,4 +122,4 @@ GFP-60H 主要服务于更大规模的低真空定液位灌装需求。对于已
 - [灌装包装设备参数库](/zh/products/filling-equipment#brew-vacuum)
 - [生产线总览](/zh/solutions/production-lines)
 - [装箱、码垛](/zh/solutions/packing-palletizing/)
-- [联系我们获取整线建议](/zh/contact/)
+- [获取报价/整线建议](/zh/contact/)

@@ -1,9 +1,79 @@
 ---
-title: "Комбинированная машина для ополаскивания, розлива и укупоривания вина | Серия винодельческого оборудования"
-description: "Эта тройная машина в основном предназначена для розлива вина и фруктовых вин. Это оборудование органично сочетает в себе ополаскиватель с переворачивающимся устройством, машину для розлива при отрицательном давлении и укупорочную машину. Оборудование имеет компактную конструкцию и экономит место для установки."
-keywords: "Комбинированная машина для ополаскивания, розлива и укупорки вина, серия винодельческого оборудования, оборудование для упаковки жидкостей, оборудование для розлива и упаковки, Shengshi Hecheng"
----
+title: Комбинированная машина для ополаскивания, розлива и укупорива...
+description: Запросите цену и подбор Комбинированная машина для ополаскивания, розлива и укупоривания вина. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Комбинированная машина для ополаскивания, розлива и укупорки вина. цена, купить Комбинированная машина для ополаскивания, розлива и укупорки вина., коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Комбинированная машина для ополаскивания, розлива и укупорки вина.",
+          "description": "Запросите цену и подбор \"Комбинированная машина для ополаскивания, розлива и укупоривания вина. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "wine-rinsing-filling-corking-monoblock",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/wine-rinsing-filling-corking-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Комбинированная машина для ополаскивания, розлива и укупорки вина.",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/wine-rinsing-filling-corking-monoblock"
+            }
+          ]
+        }
+---
 # Комбинированная машина для ополаскивания, розлива и укупорки вина.
 
 ![Комбинированная машина для ополаскивания, розлива и укупорки вина](/images/filling-products/wine-rinsing-filling-corking-monoblock.webp)

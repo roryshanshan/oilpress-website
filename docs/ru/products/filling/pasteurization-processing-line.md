@@ -1,9 +1,79 @@
 ---
-title: "Линия по производству пастеризации в резервуарах | Оборудование для переработки молока"
-description: "Оборудование состоит из резервуара для разгрузки молока, фильтра, резервуара предварительного нагрева, гомогенизатора, стерилизационного резервуара, холодильного резервуара, молочного насоса, распределительной коробки, полуавтоматической разливочной машины, конвейерной линии и машины для производства термоусадочной пленки."
-keywords: "Линия по производству пастеризации резервуаров, оборудование для переработки молока, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Линия по производству пастеризации в резервуарах цена
+description: Запросите цену и подбор Линия по производству пастеризации в резервуарах. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Технологическая линия пастеризации резервуаров цена, купить Технологическая линия пастеризации резервуаров, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Технологическая линия пастеризации резервуаров",
+          "description": "Запросите цену и подбор \"Линия по производству пастеризации в резервуарах. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "pasteurization-processing-line",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/pasteurization-processing-line",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Технологическая линия пастеризации резервуаров",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/pasteurization-processing-line"
+            }
+          ]
+        }
+---
 # Технологическая линия пастеризации резервуаров
 
 ![Технологическая линия пастеризации резервуаров](/images/filling-products/pasteurization-processing-line.webp)

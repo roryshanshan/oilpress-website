@@ -1,15 +1,82 @@
 ---
-title: "Серия интеллектуальных разливочных машин | Оборудование для розлива жидкостей в бутылки на 12-36 головок"
-description: "Серия интеллектуальных разливочных машин включает в себя 12–36 конфигураций головок, базовую скорость 4000–13000 бутылок в час и точность 500±1 мл. Они подходят для розничной торговли бутилированным маслом и многостандартных автоматических линий по разливу бутылок."
-keywords: "Серия интеллектуальных разливочных машин, разливочные машины с 12 головками, разливочные машины с 36 головками, разливочные машины под нормальным давлением, серия разливочных машин, Shengshi Hecheng"
----
+title: Серия интеллектуальных разливочных машин цена
+description: "Запросите стоимость решения Серия интеллектуальных разливочных машин: проект линии, список оборудования и сервис."
+keywords: Позиционирование модели цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Позиционирование модели",
+          "description": "Запросите стоимость решения \"Серия интеллектуальных разливочных машин: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/filling/smart-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Позиционирование модели",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/filling/smart-filling-machine"
+            }
+          ]
+        }
+---
 Интеллектуальная разливочная машина серии #
 
 ![Серия интеллектуальных разливочных машин](/images/filling-products/smart-filling-machine.webp)
 
 Серия интеллектуальных разливочных машин в основном предназначена для автоматических линий розлива жидкостей в бутылки с учетом точности, скорости и возможности адаптации к нескольким бутылкам. Они подходят для производства со средними и высокими темпами при нормальном давлении, например, для пищевых масел и жидких приправ.
 
+---
 ## Позиционирование модели
 
 - Серия: [Серия разливочных машин](/ru/solutions/filling/)
@@ -49,3 +116,11 @@ keywords: "Серия интеллектуальных разливочных м
 - [Библиотека параметров фасовочно-упаковочного оборудования](/ru/products/filling-equipment)
 - [Серия разливочных машин](/ru/solutions/filling/)
 - [Свяжитесь с нами для получения полной консультации по линии](/ru/contact/)
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

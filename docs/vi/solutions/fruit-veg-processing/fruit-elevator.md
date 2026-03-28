@@ -1,9 +1,75 @@
 ---
-title: "Thang máy | Thiết bị sơ chế rau quả"
-description: "Thiết bị này được sử dụng để nâng cấp các loại trái cây và rau quả như nho, dâu tây và táo. Đây là một trong những thiết bị tiền xử lý cần thiết cho các nhà sản xuất các sản phẩm dạng lỏng như nước ép trái cây, rau quả và rượu hoa quả."
-keywords: "Thang máy, thiết bị sơ chế rau quả, thiết bị đóng gói chất lỏng, thiết bị chiết rót và đóng gói, Shengshi Hechen"
----
+title: Thang máy báo giá | giải pháp trọn gói
+description: Nhận báo giá Thang máy với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+keywords: Palăng báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Palăng",
+          "description": "Nhận báo giá \"Thang máy với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/vi/about/"
+          },
+          "serviceType": "Giải pháp",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/vi/solutions/fruit-veg-processing/fruit-elevator",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/vi/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Trang chủ",
+              "item": "https://hydraulic-oil-press.com/vi/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Giải pháp",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Palăng",
+              "item": "https://hydraulic-oil-press.com/vi/solutions/fruit-veg-processing/fruit-elevator"
+            }
+          ]
+        }
+---
 # Palăng
 
 ![Thang máy](/images/filling-products/fruit-elevator.webp)
@@ -39,3 +105,11 @@ Thiết bị này được sử dụng để nâng cấp các loại trái cây 
 - [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
 - [Thiết bị sơ chế rau quả](/vi/solutions/fruit-veg-processing/)
 - [Liên hệ với chúng tôi để được tư vấn đầy đủ về dòng sản phẩm](/vi/contact/)
+
+## Nhận giá & báo giá
+
+Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
+
+- [Nhận giá & báo giá](/vi/contact/)
+
+<!-- quote-cta -->

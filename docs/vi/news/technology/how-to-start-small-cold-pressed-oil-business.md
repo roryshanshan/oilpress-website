@@ -1,6 +1,6 @@
 ---
-title: "Cách bắt đầu kinh doanh dầu ép lạnh quy mô nhỏ: Thiết bị, chi phí và kế hoạch sản phẩm"
-description: "Hướng dẫn thực tế cho dự án dầu ép lạnh quy mô nhỏ, bao gồm chọn sản phẩm, cấu hình máy, lọc dầu, đóng gói và kiểm soát chi phí giai đoạn đầu."
+title: "Cách bắt đầu kinh doanh dầu ép lạnh quy mô nhỏ: Thiết bị, chi ..."
+description: Hướng dẫn thực tế cho dự án dầu ép lạnh quy mô nhỏ, bao gồm chọn sản phẩm, cấu hình máy, lọc dầu, đóng gói và kiểm soát chi phí giai đoạn đầu.
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-20"
 ---

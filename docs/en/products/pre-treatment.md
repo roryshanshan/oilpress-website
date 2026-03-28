@@ -2,8 +2,78 @@
 title: Oil Seeds Pre-treatment Equipment - Shengshi Hecheng
 description: Oil seeds pre-treatment equipment is an important part of the oil pressing production line, including cleaning equipment, drying equipment, crushing equipment
 keywords: Oil Seeds Pre-treatment Equipment, oil press machine, oil press price, oil press quotation, oil press supplier, oil processing equipment, supporting equipment, after-sales service, oilseed processing equipment, Oilseed preprocessing equipment
----
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Oil Seeds Pre-treatment Equipment",
+          "description": "Oil seeds pre-treatment equipment is an important part of the oil pressing production line, including cleaning equipment, drying equipment, crushing equipment",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "pre-treatment",
+          "url": "https://hydraulic-oil-press.com/en/products/pre-treatment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Oil Seeds Pre-treatment Equipment",
+              "item": "https://hydraulic-oil-press.com/en/products/pre-treatment"
+            }
+          ]
+        }
+---
 # Oil Seeds Pre-treatment Equipment
 
 ## Product Overview

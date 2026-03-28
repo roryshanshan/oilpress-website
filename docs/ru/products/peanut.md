@@ -1,9 +1,79 @@
 ---
-title: Решение для арахиса (арахисовое масло) - Shengshi Hecheng
-description: Shandong Shengshi Hecheng предоставляет профессиональные решения для отжима арахиса, полное оборудование и услуги для малых и крупных мастерских
-keywords: решение для арахиса, отжим арахисового масла, оборудование для обработки арахиса, линия производства арахисового масла, процесс горячего отжима арахиса, процесс холодного отжима арахиса, пресс для арахиса, обработка арахисового жмыха, экстракция арахисового масла, обработка арахисового масла, оборудование для отжима арахиса, оборудование для рафинирования арахисового масла, завод по обработке арахисового масла, технология отжима арахиса, оборудование для производства арахисового масла
----
+title: Решение для арахиса (арахисовое масло) - Shengshi Hecheng цена...
+description: Запросите цену и подбор Решение для арахиса (арахисовое масло) - Shengshi Hecheng. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Решение для арахиса (арахисовое масло) цена, купить Решение для арахиса (арахисовое масло), коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Решение для арахиса (арахисовое масло)",
+          "description": "Запросите цену и подбор Решение для арахиса (арахисовое масло) - Shengshi Hecheng. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "peanut",
+          "url": "https://hydraulic-oil-press.com/ru/products/peanut",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Решение для арахиса (арахисовое масло)",
+              "item": "https://hydraulic-oil-press.com/ru/products/peanut"
+            }
+          ]
+        }
+---
 # Решение для арахиса (арахисовое масло)
 
 ## Обзор

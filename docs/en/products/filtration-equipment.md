@@ -1,9 +1,79 @@
 ---
-title: Oil Filtration Equipment for Edible Oil Processing | Filter Press Solutions
-description: Explore oil filtration equipment for edible oil processing, including pneumatic filter presses, post-treatment systems, capacity matching, and filtration line selection advice.
+title: Oil Filtration Equipment for Edible Oil Processing
+description: Explore oil filtration equipment for edible oil processing, including pneumatic filter presses, post-treatment systems, capacity matching
 keywords: oil filtration equipment, edible oil filter press, pneumatic oil filter press, crude oil filtration, edible oil clarification, oil post-treatment equipment, filter press for oil mill
----
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Oil Filtration Equipment",
+          "description": "Explore oil filtration equipment for edible oil processing, including pneumatic filter presses, post-treatment systems, capacity matching",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "filtration-equipment",
+          "url": "https://hydraulic-oil-press.com/en/products/filtration-equipment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Oil Filtration Equipment",
+              "item": "https://hydraulic-oil-press.com/en/products/filtration-equipment"
+            }
+          ]
+        }
+---
 # Oil Filtration Equipment
 
 Oil filtration is the bridge between pressing and finished-oil quality. After crude oil leaves the hydraulic oil press, suspended fines, meal particles, and colloidal impurities must be reduced before storage, refining, or filling. This category page helps buyers quickly understand which filtration equipment is suitable for small workshop projects, growing edible oil plants, and complete production lines.

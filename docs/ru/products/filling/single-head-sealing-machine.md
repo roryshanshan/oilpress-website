@@ -1,9 +1,79 @@
 ---
-title: "Автоматическая машина для запайки с одной головкой | Серия запечатывающих машин"
-description: "Автоматическая одноголовочная запечатывающая машина является представительной моделью серии запечатывающих машин."
-keywords: "Автоматическая запечатывающая машина с одной головкой, серия запечатывающих машин, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Автоматическая машина для запайки с одной головкой цена
+description: Запросите цену и подбор Автоматическая машина для запайки с одной головкой. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Автоматическая машина для запайки с одной головкой цена, купить Автоматическая машина для запайки с одной головкой, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Автоматическая машина для запайки с одной головкой",
+          "description": "Запросите цену и подбор \"Автоматическая машина для запайки с одной головкой. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "single-head-sealing-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/single-head-sealing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Автоматическая машина для запайки с одной головкой",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/single-head-sealing-machine"
+            }
+          ]
+        }
+---
 # Автоматическая машина для запайки с одной головкой
 
 ![Автоматическая машина для запечатывания одной головки](/images/filling-products/single-head-sealing-machine.webp)

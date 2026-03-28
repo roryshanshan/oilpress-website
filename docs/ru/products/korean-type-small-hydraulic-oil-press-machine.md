@@ -1,9 +1,79 @@
 ---
-title: "Малая гидравлическая маслопрессовая машина корейского типа | Для магазинов и малого бизнеса"
-description: "Малая гидравлическая маслопрессовая машина корейского типа подходит для магазинов кунжутного масла, витрин свежего масла и небольших премиальных мастерских, с моделями 10KG, 15KG и 20KG."
-keywords: корейский малый гидравлический маслопресс, маленький маслопресс, оборудование для магазина кунжутного масла, малый пресс для кунжута, KHOP-10KG, KHOP-15KG, KHOP-20KG
----
+title: Малая гидравлическая маслопрессовая машина корейского типа цена
+description: Запросите цену и подбор Малая гидравлическая маслопрессовая машина корейского типа. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Малая гидравлическая маслопрессовая машина корейского типа цена, купить Малая гидравлическая маслопрессовая машина корейского типа, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Малая гидравлическая маслопрессовая машина корейского типа",
+          "description": "Запросите цену и подбор \"Малая гидравлическая маслопрессовая машина корейского типа. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "korean-type-small-hydraulic-oil-press-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/korean-type-small-hydraulic-oil-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Малая гидравлическая маслопрессовая машина корейского типа",
+              "item": "https://hydraulic-oil-press.com/ru/products/korean-type-small-hydraulic-oil-press-machine"
+            }
+          ]
+        }
+---
 # Малая гидравлическая маслопрессовая машина корейского типа
 
 ![Малая гидравлическая маслопрессовая машина корейского типа](/images/korean-type-small-press/korean-type-overview.jpg)

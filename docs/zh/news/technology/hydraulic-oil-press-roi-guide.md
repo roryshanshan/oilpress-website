@@ -1,6 +1,6 @@
 ---
-title: "液压榨油机投资回报率指南：如何估算回本周期与利润"
-description: "从产品售价、单批产出、人工、过滤、包装和回本周期等因素，评估液压榨油机项目的真实投资回报率。"
+title: 液压榨油机投资回报率指南：如何估算回本周期与利润
+description: 从产品售价、单批产出、人工、过滤、包装和回本周期等因素，评估液压榨油机项目的真实投资回报率。
 keywords: 液压榨油机, 食用油生产线, 榨油工艺, 油料加工
 date: "2026-03-06"
 ---
@@ -34,4 +34,4 @@ date: "2026-03-06"
 - [如何选择液压榨油机型号](/zh/news/technology/how-to-choose-hydraulic-oil-press-model)
 - [食用油生产线成本指南](/zh/news/technology/edible-oil-production-line-cost-guide)
 - [液压榨油机一天能压几锅？批次产能计算指南](/zh/news/technology/how-many-batches-can-hydraulic-oil-press-run-per-day)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

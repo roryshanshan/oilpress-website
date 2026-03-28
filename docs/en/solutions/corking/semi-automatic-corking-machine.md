@@ -1,9 +1,75 @@
 ---
-title: "Semi-automatic corking machine | Corking machine series"
-description: "This machine is mainly suitable for corking wine and other glass bottles. It is mainly connected behind the filling machine and is used for plugging after filling."
-keywords: "Semi-automatic stoppering machine, stoppering machine series, liquid packaging equipment, filling and packaging equipment, Shengshi Hecheng"
----
+title: Semi-automatic corking machine Quote | Turnkey Solution
+description: Get a quote and turnkey plan for Semi-automatic corking machine. Process design, equipment list, and after-sales support.
+keywords: Semi-automatic corking machine quote, Semi-automatic corking machine price, turnkey solution, production line, procurement
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Semi-automatic corking machine",
+          "description": "Get a quote and turnkey plan for \"Semi-automatic corking machine. Process design, equipment list, and after-sales support.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/en/solutions/corking/semi-automatic-corking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/en/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Semi-automatic corking machine",
+              "item": "https://hydraulic-oil-press.com/en/solutions/corking/semi-automatic-corking-machine"
+            }
+          ]
+        }
+---
 # Semi-automatic corking machine
 
 ![Semi-automatic corking machine](/images/filling-products/semi-automatic-corking-machine.webp)
@@ -62,3 +128,11 @@ This machine is mainly suitable for corking wine and other glass bottles. It is 
 - [Filling and packaging equipment parameter library](/en/products/filling-equipment)
 - [Corking machine series](/en/solutions/corking/)
 - [Contact us for complete line advice](/en/contact/)
+
+## Get Price & Quote
+
+Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+
+- [Get Price & Quote](/en/contact/)
+
+<!-- quote-cta -->

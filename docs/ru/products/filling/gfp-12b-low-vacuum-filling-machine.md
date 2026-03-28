@@ -1,9 +1,79 @@
 ---
-title: "GFP-12B разливочная машина низкого вакуума | Серия пивоваренного оборудования"
-description: "Низковакуумный разливочный автомат GFP-12B представляет собой 12-головочное разливочное оборудование с фиксированным уровнем и общими параметрами 3000 бутылок/час, мощностью 1,12 кВт, размерами 1045×1050×2200 мм. Подходит для вина, рисового вина, соевого соуса, уксуса и других легко пенящихся жидкостей."
-keywords: "GFP-12B машина для розлива с низким вакуумом, машина для розлива с низким вакуумом, серия оборудования для виноделия, машина для розлива вина, машина для розлива с фиксированным уровнем, Shengshi Hecheng"
----
+title: GFP-12B разливочная машина низкого вакуума цена | производитель
+description: Запросите цену и подбор GFP-12B разливочная машина низкого вакуума. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: GFP-12B разливочная машина низкого вакуума цена, купить GFP-12B разливочная машина низкого вакуума, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "GFP-12B разливочная машина низкого вакуума",
+          "description": "Запросите цену и подбор \"GFP-12B разливочная машина низкого вакуума. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "gfp-12b-low-vacuum-filling-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/gfp-12b-low-vacuum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GFP-12B разливочная машина низкого вакуума",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/gfp-12b-low-vacuum-filling-machine"
+            }
+          ]
+        }
+---
 # GFP-12B разливочная машина низкого вакуума
 
 ![Машина для розлива с низким вакуумом GFP-12B](/images/filling-products/gfp-12b-low-vacuum-filling-machine.webp)

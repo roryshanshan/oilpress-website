@@ -1,9 +1,75 @@
 ---
-title: Solutions de sésame (huile de sésame) - Shengshi Hecheng
-description: Solutions professionnelles de pressage de sésame, fournissant des équipements et services techniques de transformation d'huile de sésame, teneur en huile 50-60%
-keywords: Solutions de sésame, pressage d'huile de sésame, équipement de transformation de sésame, ligne de production d'huile de sésame, processus de pressage à chaud de sésame, presse à huile de sésame, extraction d'huile de sésame, transformation de graines oléagineuses de sésame, équipement de pressage d'huile de sésame, équipement de production d'huile de sésame, usine de transformation d'huile de sésame
----
+title: Solutions de sésame (huile de sésame) - Shengshi Hecheng devis...
+description: "Demandez un devis pour Solutions de sésame (huile de sésame) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV."
+keywords: Solutions de sésame (huile de sésame) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Solutions de sésame (huile de sésame)",
+          "description": "Demandez un devis pour Solutions de sésame (huile de sésame) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/sesame",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Solutions de sésame (huile de sésame)",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/sesame"
+            }
+          ]
+        }
+---
 # Solutions de sésame (huile de sésame)
 
 ## Aperçu
@@ -147,3 +213,11 @@ We provide free technical consultation, sample testing, and on-site inspection s
 - [KHOP-20KG petite presse à huile hydraulique](/fr/products/khop-20kg-small-hydraulic-oil-press-machine)
 - [Série 300](/fr/products/300)
 - [Contactez l'équipe technique](/fr/contact/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

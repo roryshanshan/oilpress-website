@@ -1,15 +1,86 @@
 ---
-title: "Machine de remplissage intelligente série | Équipement de remplissage de liquide en bouteille de 12 à 36 têtes"
-description: "La série de machines de remplissage intelligentes couvre 12 à 36 configurations de têtes, avec une vitesse de référence de 4 000 à 13 000 bouteilles/heure et une précision de 500 ± 1 ml. Ils conviennent aux huiles en bouteille au détail et aux lignes automatiques de bouteilles multistandards."
-keywords: "Série de machines de remplissage intelligentes, machines de remplissage à 12 têtes, machines de remplissage à 36 têtes, machines de remplissage à pression normale, série de machines de remplissage, Shengshi Hecheng"
----
+title: Machine de remplissage intelligente série prix | fabricant
+description: Demandez le prix et le devis pour Machine de remplissage intelligente série. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Positionnement du modèle prix, acheter Positionnement du modèle, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Positionnement du modèle",
+          "description": "Demandez le prix et le devis pour \"Machine de remplissage intelligente série. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "smart-filling-machine",
+          "url": "https://hydraulic-oil-press.com/fr/products/filling/smart-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Positionnement du modèle",
+              "item": "https://hydraulic-oil-press.com/fr/products/filling/smart-filling-machine"
+            }
+          ]
+        }
+---
 Machine de remplissage intelligente série #
 
 ![Série de machines de remplissage intelligentes](/images/filling-products/smart-filling-machine.webp)
 
 La série de machines de remplissage intelligentes est principalement conçue pour les lignes automatiques de liquides en bouteille au détail, en tenant compte de la précision de remplissage, de la vitesse et de l'adaptabilité à plusieurs bouteilles. Ils conviennent à la production à cadence moyenne à élevée dans des scénarios de remplissage à pression normale, tels que les huiles comestibles et les liquides d'assaisonnement.
 
+---
 ## Positionnement du modèle
 
 - Série : [Série de machines de remplissage](/fr/solutions/filling/)

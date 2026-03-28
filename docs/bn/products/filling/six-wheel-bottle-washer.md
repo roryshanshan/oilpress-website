@@ -1,9 +1,79 @@
 ---
-title: "ছয় চাকা ধোয়ার মেশিন | rinsing মেশিন সিরিজ"
-description: "এই মেশিনটি হাতা রোলার চেইন ট্রান্সমিশন নীতি গ্রহণ করে। সম্পূর্ণ পরিবাহক চেইন সঠিক সংক্রমণ এবং ভাল পরিধান প্রতিরোধের আছে. সঞ্চালন জল ট্র্যাকিং স্প্রে এবং নির্দিষ্ট পাইপ স্প্রে ব্যবহার করে। পরিষ্কার জলের অংশটি জলের উত্সগুলি সংরক্ষণ করতে এবং জলের ব্যবহার উন্নত করতে ট্র্যাক এবং স্প্রে করতে একটি জল বিতরণকারী ব্যবহার করে।"
-keywords: "সিক্স-হুইল রিন্সিং মেশিন, রিন্সিং মেশিন সিরিজ, তরল প্যাকেজিং সরঞ্জাম, ফিলিং এবং প্যাকেজিং সরঞ্জাম, শেংশি হেচেং"
----
+title: ছয় চাকা ধোয়ার মেশিন দাম | প্রস্তুতকারক
+description: ছয় চাকা ধোয়ার মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: সিক্স-হুইল রিসিং মেশিন দাম, সিক্স-হুইল রিসিং মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "সিক্স-হুইল রিসিং মেশিন",
+          "description": "\"ছয় চাকা ধোয়ার মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "six-wheel-bottle-washer",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/six-wheel-bottle-washer",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "সিক্স-হুইল রিসিং মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/six-wheel-bottle-washer"
+            }
+          ]
+        }
+---
 # সিক্স-হুইল রিসিং মেশিন
 
 ![ছয়-চাকা-বোতল-ওয়াশার](/images/filling-products/six-wheel-bottle-washer.webp)

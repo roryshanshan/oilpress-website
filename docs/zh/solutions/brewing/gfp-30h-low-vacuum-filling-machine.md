@@ -1,9 +1,75 @@
 ---
-title: GFP-30H低真空灌装机 | 酿酒设备系列
-description: GFP-30H低真空灌装机为30头定液位灌装设备，参考产能7000瓶/小时，总功率2.5kW，适合葡萄酒、黄酒、酱油、醋等易起泡液体灌装。
-keywords: GFP-30H低真空灌装机, 低真空灌装机, 酿酒设备系列, 葡萄酒灌装线, 定液位灌装机, 盛世赫程
----
+title: GFP-30H低真空灌装机报价|整线方案
+description: 获取GFP-30H低真空灌装机整线方案与报价，含工艺、设备清单与售后支持。
+keywords: GFP-30H低真空灌装机报价, GFP-30H低真空灌装机价格, 整线方案, 生产线, 采购
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "GFP-30H低真空灌装机",
+          "description": "获取GFP-30H低真空灌装机整线方案与报价，含工艺、设备清单与售后支持。",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "serviceType": "解决方案",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/zh/solutions/brewing/gfp-30h-low-vacuum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "解决方案",
+              "item": "https://hydraulic-oil-press.com/zh/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GFP-30H低真空灌装机",
+              "item": "https://hydraulic-oil-press.com/zh/solutions/brewing/gfp-30h-low-vacuum-filling-machine"
+            }
+          ]
+        }
+---
 # GFP-30H低真空灌装机
 
 ![GFP-30H低真空灌装机](/images/filling-products/gfp-30h-low-vacuum-filling-machine.webp)
@@ -52,4 +118,12 @@ GFP-30H 的定位是把低真空液位灌装能力提升到更稳定的中高产
 - [酿酒设备系列](/zh/solutions/brewing/)
 - [灌装包装设备参数库](/zh/products/filling-equipment#brew-vacuum)
 - [贴标机系列](/zh/solutions/labeling/)
-- [联系我们获取整线建议](/zh/contact/)
+- [获取报价/整线建议](/zh/contact/)
+
+## 获取价格/报价
+
+请告诉我们产能、油料类型与预算，我们将提供整线配置与报价。
+
+- [获取价格/报价](/zh/contact/)
+
+<!-- quote-cta -->

@@ -1,9 +1,79 @@
 ---
-title: "স্বয়ংক্রিয় ভাঁজ এবং কার্টোনিং মেশিন | প্যাকিং এবং প্যালেটাইজিং"
-description: "স্বয়ংক্রিয় ভাঁজ এবং সিলিং মেশিন প্রযোজ্য: গৃহস্থালী যন্ত্রপাতি, টেক্সটাইল, খাদ্য, নিত্য প্রয়োজনীয় জিনিসপত্র, ফার্মাসিউটিক্যালস, হালকা শিল্প, রাসায়নিক শিল্প ইত্যাদি।"
-keywords: "স্বয়ংক্রিয় ভাঁজ এবং কার্টোনিং মেশিন, প্যাকিং এবং প্যালেটাইজিং, তরল প্যাকেজিং সরঞ্জাম, ফিলিং এবং প্যাকেজিং সরঞ্জাম, শেংশি হেচেং"
----
+title: স্বয়ংক্রিয় ভাঁজ এবং কার্টোনিং মেশিন দাম | প্রস্তুতকারক
+description: স্বয়ংক্রিয় ভাঁজ এবং কার্টোনিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।
+keywords: স্বয়ংক্রিয় ভাঁজ এবং সিলিং মেশিন দাম, স্বয়ংক্রিয় ভাঁজ এবং সিলিং মেশিন কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "স্বয়ংক্রিয় ভাঁজ এবং সিলিং মেশিন",
+          "description": "\"স্বয়ংক্রিয় ভাঁজ এবং কার্টোনিং মেশিন এর দাম ও কোটেশন নিন। Shengshi Hecheng প্রস্তুতকারক, ডেলিভারি ও সাপোর্ট।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "carton-sealing-machine",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling/carton-sealing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "স্বয়ংক্রিয় ভাঁজ এবং সিলিং মেশিন",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling/carton-sealing-machine"
+            }
+          ]
+        }
+---
 # স্বয়ংক্রিয় ভাঁজ এবং সিলিং মেশিন
 
 ![স্বয়ংক্রিয় ভাঁজ এবং সিলিং মেশিন](/images/filling-products/carton-sealing-machine.webp)

@@ -1,9 +1,75 @@
 ---
-title: Решение для кешью (Кешью масло) - Shengshi Hecheng
-description: Профессиональные решения для отжима кешью, предоставление оборудования и технических услуг по переработке кешью, содержание масла 40-50%
-keywords: Решения для кешью, Отжим кешью масла, Оборудование для переработки кешью, Линия производства кешью масла, Процесс холодного отжима кешью, Пресс для кешью масла, Экстракция кешью масла, Переработка кешью, Оборудование для отжима кешью масла, Оборудование для производства кешью масла
----
+title: Решение для кешью (Кешью масло) - Shengshi Hecheng цена | комп...
+description: "Запросите стоимость решения Решение для кешью (Кешью масло) - Shengshi Hecheng: проект линии, список оборудования и сервис."
+keywords: Решение для кешью (Кешью масло) цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Решение для кешью (Кешью масло)",
+          "description": "Запросите стоимость решения Решение для кешью (Кешью масло) - Shengshi Hecheng: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/cashew",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Решение для кешью (Кешью масло)",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/cashew"
+            }
+          ]
+        }
+---
 # Решение для кешью (Кешью масло)
 
 ## Обзор
@@ -123,3 +189,11 @@ keywords: Решения для кешью, Отжим кешью масла, О
 - 📍 **Адрес**: № 5888, Улица Иньнэн, Зона развития, Город Цинчжоу, Город Вэйфан, Провинция Шаньдун
 
 Мы предоставляем бесплатные технические консультации, тестирование образцов и услуги выездной инспекции, чтобы предоставить вам наиболее подходящее решение для отжима кешью.
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

@@ -1,9 +1,79 @@
 ---
 title: ফিলিং ও প্যাকেজিং যন্ত্রপাতি
 description: ফিলিং ও প্যাকেজিং যন্ত্রপাতির সারাংশ, বিশেষ করে ওয়াইন, হুয়াংজিউ, সয়া সস, ভিনেগার এবং লো ভ্যাকুয়াম ফিলিং মডেলগুলোর জন্য।
-keywords: ফিলিং যন্ত্রপাতি, লো ভ্যাকুয়াম ফিলিং মেশিন, ওয়াইন বোতলজাত লাইন, প্যাকেজিং যন্ত্রপাতি, Shengshi Hecheng
----
+keywords: ফিলিং ও প্যাকেজিং যন্ত্রপাতি দাম, ফিলিং ও প্যাকেজিং যন্ত্রপাতি কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "ফিলিং ও প্যাকেজিং যন্ত্রপাতি",
+          "description": "ফিলিং ও প্যাকেজিং যন্ত্রপাতির সারাংশ, বিশেষ করে ওয়াইন, হুয়াংজিউ, সয়া সস, ভিনেগার এবং লো ভ্যাকুয়াম ফিলিং মডেলগুলোর জন্য।",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/bn/about/"
+          },
+          "sku": "filling-equipment",
+          "url": "https://hydraulic-oil-press.com/bn/products/filling-equipment",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/bn/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "হোম",
+              "item": "https://hydraulic-oil-press.com/bn/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "পণ্য",
+              "item": "https://hydraulic-oil-press.com/bn/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "ফিলিং ও প্যাকেজিং যন্ত্রপাতি",
+              "item": "https://hydraulic-oil-press.com/bn/products/filling-equipment"
+            }
+          ]
+        }
+---
 # ফিলিং ও প্যাকেজিং যন্ত্রপাতি
 
 এই পৃষ্ঠাটি সাইটের ফিলিং ও প্যাকেজিং যন্ত্রপাতির মূল তথ্য একত্র করে, বিশেষ করে ওয়াইন, ফলের ওয়াইন, হুয়াংজিউ, সয়া সস এবং ভিনেগারের জন্য।
@@ -37,7 +107,7 @@ keywords: ফিলিং যন্ত্রপাতি, লো ভ্যাক
 
 - [ব্রুইং যন্ত্রপাতি সিরিজ](/bn/solutions/brewing/)
 - [কর্কিং মেশিন সিরিজ](/bn/solutions/corking/)
-- [যোগাযোগ](/bn/contact/)
+- [দাম ও দরপত্র নিন](/bn/contact/)
 <!-- packaging-hub-links:start -->
 ## বিস্তারিত পণ্যের লিংক
 

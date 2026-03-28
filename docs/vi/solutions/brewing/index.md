@@ -1,7 +1,7 @@
 ---
-title: "Loạt thiết bị sản xuất bia"
-description: "Dòng thiết bị sản xuất rượu vang thích hợp cho quá trình lên men, bảo quản, lọc, chiết rót và đóng gói sau rượu vang, rượu trái cây, rượu gạo và các sản phẩm khác, đồng thời có thể tạo thành một dây chuyền sản xuất bao bì rượu hoàn chỉnh."
-keywords: "Loạt thiết bị sản xuất rượu vang, thiết bị sản xuất rượu vang, dây chuyền rót rượu trái cây, thiết bị đóng gói rượu vang, thiết bị bảo quản rượu lên men, dây chuyền dán nhãn nút chai và đóng nắp"
+title: Loạt thiết bị sản xuất bia
+description: Dòng thiết bị sản xuất rượu vang thích hợp cho quá trình lên men, bảo quản, lọc, chiết rót và đóng gói sau rượu vang, rượu trái cây
+keywords: Loạt thiết bị sản xuất rượu vang, thiết bị sản xuất rượu vang, dây chuyền rót rượu trái cây, thiết bị đóng gói rượu vang, thiết bị bảo quản rượu lên men, dây chuyền dán nhãn nút chai và đóng nắp
 ---
 
 # Dòng thiết bị sản xuất bia

@@ -1,9 +1,79 @@
 ---
-title: "GFP-12B low vacuum filling machine | Brewing equipment series"
-description: "GFP-12B low vacuum filling machine is a 12-head fixed-level filling equipment with public parameters of 3000 bottles/hour, 1.12kW, 1045×1050×2200mm. It is suitable for wine, rice wine, soy sauce, vinegar and other easily foaming liquids."
-keywords: "GFP-12B low vacuum filling machine, low vacuum filling machine, wine making equipment series, wine filling machine, fixed level filling machine, Shengshi Hecheng"
----
+title: GFP-12B low vacuum filling machine Price | Manufacturer & Quote
+description: Get price, procurement, and after-sales support for GFP-12B low vacuum filling machine from Shengshi Hecheng manufacturer.
+keywords: GFP-12B low vacuum filling machine price, GFP-12B low vacuum filling machine quote, GFP-12B low vacuum filling machine manufacturer, GFP-12B low vacuum filling machine supplier, procurement, after-sales
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "GFP-12B low vacuum filling machine",
+          "description": "Get price, procurement, and after-sales support for \"GFP-12B low vacuum filling machine from Shengshi Hecheng manufacturer.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/en/about/"
+          },
+          "sku": "gfp-12b-low-vacuum-filling-machine",
+          "url": "https://hydraulic-oil-press.com/en/products/filling/gfp-12b-low-vacuum-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/en/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/en/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://hydraulic-oil-press.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Products",
+              "item": "https://hydraulic-oil-press.com/en/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "GFP-12B low vacuum filling machine",
+              "item": "https://hydraulic-oil-press.com/en/products/filling/gfp-12b-low-vacuum-filling-machine"
+            }
+          ]
+        }
+---
 # GFP-12B low vacuum filling machine
 
 ![GFP-12B low vacuum filling machine](/images/filling-products/gfp-12b-low-vacuum-filling-machine.webp)

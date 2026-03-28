@@ -1,9 +1,75 @@
 ---
-title: "Укупорочная машина для пластика | серия запечатывающих машин"
-description: "Он использует укупорку типа синхронной цепной пластины, не оставляя следов после укупорки."
-keywords: "Укупорочная машина для пластика, серия укупорочных машин, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Укупорочная машина для пластика цена | комплексное решение
+description: "Запросите стоимость решения Укупорочная машина для пластика: проект линии, список оборудования и сервис."
+keywords: Пластиковая укупорочная машина для защиты от давления цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Пластиковая укупорочная машина для защиты от давления",
+          "description": "Запросите стоимость решения \"Укупорочная машина для пластика: проект линии, список оборудования и сервис.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "serviceType": "Решения",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/ru/solutions/sealing/plastic-cap-pressing-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Решения",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Пластиковая укупорочная машина для защиты от давления",
+              "item": "https://hydraulic-oil-press.com/ru/solutions/sealing/plastic-cap-pressing-machine"
+            }
+          ]
+        }
+---
 # Пластиковая укупорочная машина для защиты от давления
 
 ![Машина для прессования пластиковых крышек](/images/filling-products/plastic-cap-pressing-machine.webp)
@@ -68,3 +134,11 @@ keywords: "Укупорочная машина для пластика, сери
 - [Библиотека параметров фасовочно-упаковочного оборудования](/ru/products/filling-equipment)
 - [Серия запечатывающих машин](/ru/solutions/sealing/)
 - [Свяжитесь с нами для получения полной консультации по линии](/ru/contact/)
+
+## Запросить цену и расчёт
+
+Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
+
+- [Запросить цену и расчёт](/ru/contact/)
+
+<!-- quote-cta -->

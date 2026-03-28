@@ -1,9 +1,75 @@
 ---
-title: "Machine combinée de rinçage, remplissage et bouchage du vin | Série de matériel de vinification"
-description: "Cette triple machine est principalement conçue pour le remplissage de vins et de vins de fruits. Cet équipement combine organiquement une rinceuse retournée, une machine de remplissage à pression négative et une boucheuse en une seule. L'équipement a une structure compacte et économise de l'espace d'installation."
-keywords: "Machine combinée de rinçage, de remplissage et de bouchage du vin, série d'équipements de vinification, équipement d'emballage de liquides, équipement de remplissage et d'emballage, Shengshi Hecheng"
----
+title: Machine combinée de rinçage, remplissage et bouchage du vin d...
+description: "Demandez un devis pour Machine combinée de rinçage, remplissage et bouchage du vin : plan de ligne, liste d’équipements et SAV."
+keywords: Machine combinée de rinçage, remplissage et bouchage du vin prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Machine combinée de rinçage, remplissage et bouchage du vin",
+          "description": "Demandez un devis pour \"Machine combinée de rinçage, remplissage et bouchage du vin : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/brewing/wine-rinsing-filling-corking-monoblock",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Machine combinée de rinçage, remplissage et bouchage du vin",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/brewing/wine-rinsing-filling-corking-monoblock"
+            }
+          ]
+        }
+---
 # Machine combinée de rinçage, remplissage et bouchage du vin
 
 ![Machine combinée de rinçage, de remplissage et de bouchage du vin](/images/filling-products/wine-rinsing-filling-corking-monoblock.webp)
@@ -94,3 +160,11 @@ Cette triple machine est principalement conçue pour le remplissage de vins et d
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
 - [Série d'équipements de brassage](/fr/solutions/brewing/)
 - [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

@@ -1,9 +1,79 @@
 ---
-title: "Petite presse à huile hydraulique de type coréen | Pour boutiques et petites activités"
-description: "La petite presse à huile hydraulique de type coréen convient aux boutiques d'huile de sésame, aux comptoirs d'huile fraîche en supermarché et aux petits ateliers premium, avec des modèles 10KG, 15KG et 20KG."
-keywords: presse à huile hydraulique type coréen, petite presse à huile, machine pour boutique d'huile de sésame, petite presse à sésame, KHOP-10KG, KHOP-15KG, KHOP-20KG
----
+title: Petite presse à huile hydraulique de type coréen prix
+description: Demandez le prix et le devis pour Petite presse à huile hydraulique de type coréen. Fabricant Shengshi Hecheng, livraison et SAV.
+keywords: Petite presse à huile hydraulique de type coréen prix, acheter Petite presse à huile hydraulique de type coréen, devis usine, fabricant chinois, exportation, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Petite presse à huile hydraulique de type coréen",
+          "description": "Demandez le prix et le devis pour \"Petite presse à huile hydraulique de type coréen. Fabricant Shengshi Hecheng, livraison et SAV.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "sku": "korean-type-small-hydraulic-oil-press-machine",
+          "url": "https://hydraulic-oil-press.com/fr/products/korean-type-small-hydraulic-oil-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Produits",
+              "item": "https://hydraulic-oil-press.com/fr/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Petite presse à huile hydraulique de type coréen",
+              "item": "https://hydraulic-oil-press.com/fr/products/korean-type-small-hydraulic-oil-press-machine"
+            }
+          ]
+        }
+---
 # Petite presse à huile hydraulique de type coréen
 
 ![Petite presse à huile hydraulique de type coréen](/images/korean-type-small-press/korean-type-overview.jpg)

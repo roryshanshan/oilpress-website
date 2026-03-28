@@ -1,6 +1,6 @@
 ---
-title: "Guide de ligne de production d'huile d'arachide : pressage à chaud, à froid et configuration de ligne"
-description: "Comparez le pressage à chaud et à froid de l'huile d'arachide, identifiez les équipements essentiels et voyez comment configurer une ligne d'huile d'arachide efficace."
+title: "Guide de ligne de production d'huile d'arachide : pressage à c..."
+description: Comparez le pressage à chaud et à froid de l'huile d'arachide
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-16"
 ---

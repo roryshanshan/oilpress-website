@@ -1,6 +1,6 @@
 ---
-title: "如何开展小型冷榨油业务：设备、成本与产品规划"
-description: "从产品选择、设备配置、过滤包装到初期投入控制，系统了解小型冷榨油项目的落地思路。"
+title: 如何开展小型冷榨油业务：设备、成本与产品规划
+description: 从产品选择、设备配置、过滤包装到初期投入控制，系统了解小型冷榨油项目的落地思路。
 keywords: 小型冷榨油项目, 冷榨油创业, 液压榨油机, 冷榨油设备配置
 date: "2026-03-20"
 ---
@@ -38,4 +38,4 @@ date: "2026-03-20"
 - [压榨后如何过滤与包装食用油](/zh/news/technology/how-to-filter-and-package-edible-oil-after-pressing)
 - [液压榨油机投资回报率指南](/zh/news/technology/hydraulic-oil-press-roi-guide)
 - [食用油生产线成本指南](/zh/news/technology/edible-oil-production-line-cost-guide)
-- [联系我们](/zh/contact/)
+- [获取价格/报价](/zh/contact/)

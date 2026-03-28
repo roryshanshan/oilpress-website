@@ -1,9 +1,79 @@
 ---
-title: "Линейная разливочная машина | Оборудование для наполнения чанов ЗГП-4~ЗГП-10"
-description: "Линейная разливочная машина от ZGP-4 до ZGP-10, подходящая для количественного розлива больших бочек с жидкостью объемом 10-25 л, с номинальной производительностью 500-1400 баррелей в час из расчета на 10 л."
-keywords: "Линейная разливочная машина, ZGP-4, ZGP-10, разливочная машина для чанов, серия разливочных машин, Shengshi Hecheng"
----
+title: Линейная разливочная машина цена | производитель
+description: Запросите цену и подбор Линейная разливочная машина. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Линейная разливочная машина цена, купить Линейная разливочная машина, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Линейная разливочная машина",
+          "description": "Запросите цену и подбор \"Линейная разливочная машина. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "linear-filling-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/linear-filling-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Линейная разливочная машина",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/linear-filling-machine"
+            }
+          ]
+        }
+---
 # Линейная разливочная машина
 
 ![Линейная разливочная машина](/images/filling-products/linear-filling-machine.webp)

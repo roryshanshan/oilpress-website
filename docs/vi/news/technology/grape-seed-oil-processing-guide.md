@@ -1,6 +1,6 @@
 ---
 title: "Hướng dẫn chế biến dầu hạt nho: Quy trình ép lạnh và mẹo vận hành"
-description: "Hướng dẫn thực tế về dầu hạt nho, bao gồm định vị ép lạnh, chuẩn bị hạt, lọc dầu, kiểm soát oxy hóa và kế hoạch dây chuyền."
+description: Hướng dẫn thực tế về dầu hạt nho, bao gồm định vị ép lạnh, chuẩn bị hạt, lọc dầu, kiểm soát oxy hóa và kế hoạch dây chuyền.
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-07"
 ---

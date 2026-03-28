@@ -1,9 +1,79 @@
 ---
-title: 预榨机 - 山东盛世赫程机械有限公司
-description: 预榨机采用螺旋压碎原理，设计用于高效、稳定的运行，噪音低，易损件维护成本低，适用于菜籽、大豆、亚麻籽等物料压碎。
-keywords: 预榨机, 榨油机设备, 榨油机价格, 榨油机报价, 榨油机采购, 油料加工设备, 榨油机配套设备, 售后服务, 油料预处理设备, 螺旋压碎机
----
+title: 预榨机 - 山东盛世赫程机械有限公司价格|厂家报价
+description: 获取预榨机 - 山东盛世赫程机械有限公司价格、采购与售后支持，厂家直供，支持选型与交付。
+keywords: 预榨机 - 山东盛世赫程机械有限公司价格, 预榨机 - 山东盛世赫程机械有限公司报价, 预榨机 - 山东盛世赫程机械有限公司厂家, 预榨机 - 山东盛世赫程机械有限公司采购, 售后服务
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "预榨机",
+          "description": "获取预榨机 - 山东盛世赫程机械有限公司价格、采购与售后支持，厂家直供，支持选型与交付。",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/zh/about/"
+          },
+          "sku": "pre-press-machine",
+          "url": "https://hydraulic-oil-press.com/zh/products/pre-press-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/zh/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://hydraulic-oil-press.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "产品",
+              "item": "https://hydraulic-oil-press.com/zh/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "预榨机",
+              "item": "https://hydraulic-oil-press.com/zh/products/pre-press-machine"
+            }
+          ]
+        }
+---
 # 预榨机
 
 ![](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)

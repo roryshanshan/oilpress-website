@@ -1,9 +1,75 @@
 ---
-title: Solution de noix de coco (huile de noix de coco)
-description: Solutions professionnelles de pressage de noix de coco, fournissant des équipements et services techniques de transformation d'huile de noix de coco
-keywords: Solutions de noix de coco, pressage d'huile de noix de coco, équipement de transformation de noix de coco, ligne de production d'huile de noix de coco, processus de pressage à froid de noix de coco, presse à huile de noix de coco, extraction d'huile de noix de coco, transformation de graines oléagineuses de noix de coco, équipement de pressage d'huile de noix de coco, équipement de production d'huile de noix de coco
----
+title: Solution de noix de coco (huile de noix de coco) devis
+description: "Demandez un devis pour Solution de noix de coco (huile de noix de coco) : plan de ligne, liste d’équipements et SAV."
+keywords: Solution de noix de coco (huile de noix de coco) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Service",
+          "name": "Solution de noix de coco (huile de noix de coco)",
+          "description": "Demandez un devis pour Solution de noix de coco (huile de noix de coco) : plan de ligne, liste d’équipements et SAV.",
+          "provider": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/fr/about/"
+          },
+          "serviceType": "Solutions",
+          "areaServed": "Worldwide",
+          "url": "https://hydraulic-oil-press.com/fr/solutions/coconut",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/fr/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://hydraulic-oil-press.com/fr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Solutions",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Solution de noix de coco (huile de noix de coco)",
+              "item": "https://hydraulic-oil-press.com/fr/solutions/coconut"
+            }
+          ]
+        }
+---
 # Solution de noix de coco (huile de noix de coco)
 
 ## Aperçu
@@ -132,3 +198,11 @@ If you are interested in coconut pressing solutions, please contact our technica
 - 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable coconut pressing solution.
+
+## Obtenir prix & devis
+
+Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
+
+- [Obtenir prix & devis](/fr/contact/)
+
+<!-- quote-cta -->

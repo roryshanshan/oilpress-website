@@ -1,9 +1,79 @@
 ---
-title: "Полностью автоматическая укупорочная машина | Серия укупорочных машин"
-description: "Эта машина в основном подходит для укупорки вина и других стеклянных бутылок. В основном он подключается за разливочной машиной и используется для закупорки после наполнения."
-keywords: "Полностью автоматическая укупорочная машина, серия укупорочных машин, оборудование для упаковки жидкостей, оборудование для наполнения и упаковки, Shengshi Hecheng"
----
+title: Полностью автоматическая укупорочная машина цена | производитель
+description: Запросите цену и подбор Полностью автоматическая укупорочная машина. Производитель Shengshi Hecheng, поставка и сервис.
+keywords: Полностью автоматическая укупорочная машина цена, купить Полностью автоматическая укупорочная машина, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 
+head:
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": "Полностью автоматическая укупорочная машина",
+          "description": "Запросите цену и подбор \"Полностью автоматическая укупорочная машина. Производитель Shengshi Hecheng, поставка и сервис.",
+          "brand": {
+            "@type": "Brand",
+            "name": "Shengshi Hecheng"
+          },
+          "manufacturer": {
+            "@type": "Organization",
+            "name": "Shengshi Hecheng",
+            "url": "https://hydraulic-oil-press.com/ru/about/"
+          },
+          "sku": "automatic-corking-machine",
+          "url": "https://hydraulic-oil-press.com/ru/products/filling/automatic-corking-machine",
+          "offers": {
+            "@type": "Offer",
+            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "seller": {
+              "@type": "Organization",
+              "name": "Shengshi Hecheng",
+              "url": "https://hydraulic-oil-press.com/ru/about/"
+            },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          }
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "Brand",
+          "name": "Shengshi Hecheng",
+          "url": "https://hydraulic-oil-press.com"
+        }
+  - - script
+    - type: application/ld+json
+      children: |
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": "https://hydraulic-oil-press.com/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Продукция",
+              "item": "https://hydraulic-oil-press.com/ru/products/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Полностью автоматическая укупорочная машина",
+              "item": "https://hydraulic-oil-press.com/ru/products/filling/automatic-corking-machine"
+            }
+          ]
+        }
+---
 # Полностью автоматическая укупорочная машина
 
 ![Полностью автоматическая укупорочная машина](/images/filling-products/automatic-corking-machine.webp)

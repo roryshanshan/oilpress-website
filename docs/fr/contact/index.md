@@ -1,7 +1,7 @@
 ---
-title: Nous contacter - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Informations de contact de Shandong Shengshi Hecheng Machinery Co., Ltd., y compris l'adresse, le numéro de téléphone et l'e-mail.
-keywords: Nous contacter, Shandong Shengshi Hecheng, fabricant d'équipements de presse à huile, informations de contact, adresse de l'entreprise, consultation commerciale, support technique, acquisition d'équipements, prix de presse à huile, commande d'équipements, service après-vente, maintenance d'équipements, consultation technique
+title: Obtenir prix & devis | Achat direct usine
+description: Contactez Shengshi Hecheng pour prix, devis et support d’achat des presses et lignes.
+keywords: obtenir devis, prix presse à huile, contact fabricant, achat, SAV
 ---
 
 # Nous contacter
