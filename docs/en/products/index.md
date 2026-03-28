@@ -1,7 +1,7 @@
 ---
-title: Hydraulic Oil Press Machines & Oil Processing Equipment | 300-500 Series
-description: Compare 300 to 500 series hydraulic oil press machines, oil filtration equipment, refining and dewaxing systems, filling equipment, and support resources for edible oil projects.
-keywords: hydraulic oil press machines, 300-500 series oil press, oil filtration equipment, oil refining equipment, dewaxing equipment, oil filling equipment, edible oil processing equipment, custom oil processing line, supporting equipment, Shengshi Hecheng
+title: Hydraulic Oil Press Machines & Oil Processing Equipment | 300-500 Series and Small Shop Models
+description: Compare 300 to 500 series hydraulic oil press machines, Korean type small shop oil press models, oil filtration equipment, refining and dewaxing systems, filling equipment, and support resources for edible oil projects.
+keywords: hydraulic oil press machines, 300-500 series oil press, Korean type small hydraulic oil press, small sesame oil press machine, oil filtration equipment, oil refining equipment, dewaxing equipment, oil filling equipment, edible oil processing equipment, Shengshi Hecheng
 ---
 
 # Product Series
@@ -68,6 +68,15 @@ Ultra-large series, featuring ultra-large capacity design.
 Flagship series, featuring extra-large capacity.
 
 [View Complete 500 Series Introduction](/en/products/500)
+
+### Korean Type Small Hydraulic Oil Press
+Retail-focused small hydraulic press family for sesame oil shops, supermarket fresh oil counters, and compact premium oil businesses.
+
+- [Korean Type Small Hydraulic Oil Press Machine](/en/products/korean-type-small-hydraulic-oil-press-machine)
+- [Small Sesame Oil Press Machine](/en/products/small-sesame-oil-press-machine)
+- [KHOP-10KG Small Hydraulic Oil Press Machine](/en/products/khop-10kg-small-hydraulic-oil-press-machine)
+- [KHOP-15KG Small Hydraulic Oil Press Machine](/en/products/khop-15kg-small-hydraulic-oil-press-machine)
+- [KHOP-20KG Small Hydraulic Oil Press Machine](/en/products/khop-20kg-small-hydraulic-oil-press-machine)
 
 ## Supporting Equipment
 

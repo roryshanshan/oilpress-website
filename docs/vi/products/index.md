@@ -1,7 +1,7 @@
 ---
-title: Dòng sản phẩm
-description: Công ty Cơ khí Shengshi Hecheng Sơn Đông cung cấp dòng sản phẩm máy ép dầu thủy lực hoàn chỉnh
-keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
+title: Dòng sản phẩm | Series 300-500 và model cửa hàng cỡ nhỏ
+description: So sánh máy ép dầu thủy lực dòng 300 đến 500, máy thủy lực cỡ nhỏ kiểu Hàn Quốc, thiết bị lọc, tinh luyện và chiết rót cho các dự án từ cửa hàng đến nhà máy.
+keywords: máy ép dầu thủy lực, dòng 300-500, máy ép nhỏ kiểu Hàn Quốc, máy ép dầu mè cho cửa hàng, thiết bị lọc dầu, thiết bị tinh luyện, thiết bị chiết rót
 ---
 # Dòng sản phẩm
 
@@ -15,58 +15,67 @@ Dòng nhập môn cổ điển của chúng tôi, phù hợp với các nhà má
 - Dòng 300
   Phù hợp với các nhà máy dầu nhỏ và nhà xưởng gia đình, có các đặc điểm như cấu trúc gọn gàng, hoạt động đơn giản, tỷ lệ giá thành cao.
 
-[Xem giới thiệu đầy đủ dòng 300](/zh/products/300)
+[Xem giới thiệu đầy đủ dòng 300](/vi/products/300)
 
 ### Dòng 325
 Kiểu mở rộng của dòng cổ điển, phù hợp với các nhà máy dầu nhỏ và vừa, cung cấp nhiều lựa chọn cấu hình và hiệu suất sản xuất cao hơn.
 
-[Xem giới thiệu đầy đủ dòng 325](/zh/products/325)
+[Xem giới thiệu đầy đủ dòng 325](/vi/products/325)
 
 ### Dòng 355
 Dòng tầm trung, cung cấp năng lực sản xuất mạnh hơn cho các nhà máy dầu vừa, sử dụng cấu trúc tấm thép đúc một khối, có khả năng chịu lực cao hơn.
 
-[Xem giới thiệu đầy đủ dòng 355](/zh/products/355)
+[Xem giới thiệu đầy đủ dòng 355](/vi/products/355)
 
 ### Dòng 400
 Dòng tầm trung-cao, cung cấp năng lực sản xuất mạnh hơn cho các nhà máy dầu vừa đến lớn, được trang bị kiểm soát nhiệt độ thông minh và chức năng tự động hóa.
 
-[Xem giới thiệu đầy đủ dòng 400](/zh/products/400)
+[Xem giới thiệu đầy đủ dòng 400](/vi/products/400)
 
 ### Dòng 426
 Dòng cao cấp, được thiết kế đặc biệt cho các nhà máy dầu lớn hiện đại.
 
-[Xem giới thiệu đầy đủ dòng 426](/zh/products/426)
+[Xem giới thiệu đầy đủ dòng 426](/vi/products/426)
 
 ### Dòng 480
 Dòng siêu lớn, thiết kế công suất siêu lớn.
 
-[Xem giới thiệu đầy đủ dòng 480](/zh/products/480)
+[Xem giới thiệu đầy đủ dòng 480](/vi/products/480)
 
 ### Dòng 500
 Dòng hàng đầu, công suất đặc biệt lớn.
 
-[Xem giới thiệu đầy đủ dòng 500](/zh/products/500)
+[Xem giới thiệu đầy đủ dòng 500](/vi/products/500)
+
+### Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc
+Dòng máy ép thủy lực cỡ nhỏ tập trung vào cửa hàng, phù hợp cho cửa hàng dầu mè, quầy dầu tươi trong siêu thị và các dự án dầu cao cấp quy mô nhỏ.
+
+- [Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc](/vi/products/korean-type-small-hydraulic-oil-press-machine)
+- [Máy ép dầu mè cỡ nhỏ](/vi/products/small-sesame-oil-press-machine)
+- [Máy ép dầu thủy lực nhỏ KHOP-10KG](/vi/products/khop-10kg-small-hydraulic-oil-press-machine)
+- [Máy ép dầu thủy lực nhỏ KHOP-15KG](/vi/products/khop-15kg-small-hydraulic-oil-press-machine)
+- [Máy ép dầu thủy lực nhỏ KHOP-20KG](/vi/products/khop-20kg-small-hydraulic-oil-press-machine)
 
 ## Sản phẩm tùy chỉnh khách hàng
 
 Đội ngũ dịch vụ tùy chỉnh của chúng tôi có thể cung cấp các giải pháp máy ép dầu thủy lực được cá nhân hóa dựa trên nhu cầu cụ thể của bạn.
 
-[Xem giới thiệu đầy đủ sản phẩm tùy chỉnh](/zh/products/customized-hydraulic-oil-press)
+[Xem giới thiệu đầy đủ sản phẩm tùy chỉnh](/vi/products/customized-hydraulic-oil-press)
 
 ## Video đơn hàng khách hàng & gửi hàng
 
-[Xem video đơn hàng khách hàng & gửi hàng](/zh/products/customer-order-shipping-video)
+[Xem video đơn hàng khách hàng & gửi hàng](/vi/products/customer-order-shipping-video)
 
 ## Thiết bị hỗ trợ
 
-[Xem thiết bị hỗ trợ](/zh/products/supporting)
+[Xem thiết bị hỗ trợ](/vi/products/supporting)
 
 
 ## Nguyên lý hoạt động của xi lanh thủy lực
 
 Tìm hiểu chi tiết về nguyên lý hoạt động, thành phần cơ bản và các công thức chính của xi lanh thủy lực.
 
-[Xem nguyên lý hoạt động của xi lanh thủy lực](/zh/products/hydraulic-cylinder-principle)
+[Xem nguyên lý hoạt động của xi lanh thủy lực](/vi/products/hydraulic-cylinder-principle)
 
 ---
 
@@ -142,4 +151,3 @@ Video xử lý tắt các cửa hàng máy ép dầu, xử lý tắt các cửa 
 #### 9.Khối van
 #### 10.Thép cầu
 #### 11.Lò xo
-

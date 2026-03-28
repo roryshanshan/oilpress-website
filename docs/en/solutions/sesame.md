@@ -146,6 +146,8 @@ We provide free technical consultation, sample testing, and on-site inspection s
 - [Seed Oil Solutions](/en/solutions/seed-oils)
 - [Soybean Solutions](/en/solutions/soybean)
 - [Peanut Solutions](/en/solutions/peanut)
+- [Korean Type Small Hydraulic Oil Press Machine](/en/products/korean-type-small-hydraulic-oil-press-machine)
+- [Small Sesame Oil Press Machine](/en/products/small-sesame-oil-press-machine)
 - [300 Series Hydraulic Oil Press](/en/products/300)
 - [Contact Technical Team](/en/contact/)
 - [中文页面](/zh/solutions/sesame)

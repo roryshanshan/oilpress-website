@@ -136,3 +136,17 @@ keywords: giải pháp vừng, ép dầu vừng, thiết bị chế biến vừn
 - 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
 
 我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的芝麻压榨解决方案。
+
+## Liên kết liên quan
+
+- [Tổng quan giải pháp](/vi/solutions/)
+- [Giải pháp theo loại dầu](/vi/solutions/seed-oils)
+- [Giải pháp đậu nành](/vi/solutions/soybean)
+- [Giải pháp lạc](/vi/solutions/peanut)
+- [Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc](/vi/products/korean-type-small-hydraulic-oil-press-machine)
+- [Máy ép dầu mè cỡ nhỏ](/vi/products/small-sesame-oil-press-machine)
+- [Máy ép dầu thủy lực nhỏ KHOP-10KG](/vi/products/khop-10kg-small-hydraulic-oil-press-machine)
+- [Máy ép dầu thủy lực nhỏ KHOP-15KG](/vi/products/khop-15kg-small-hydraulic-oil-press-machine)
+- [Máy ép dầu thủy lực nhỏ KHOP-20KG](/vi/products/khop-20kg-small-hydraulic-oil-press-machine)
+- [Dòng 300](/vi/products/300)
+- [Liên hệ đội kỹ thuật](/vi/contact/)

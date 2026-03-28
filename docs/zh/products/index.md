@@ -1,7 +1,7 @@
 ---
-title: 液压榨油机与油料加工设备 | 300-500系列产品总览
-description: 对比300到500系列液压榨油机、过滤设备、精炼脱蜡设备、灌装包装设备及整线配套资源，适合小型油坊到规模化油厂项目。
-keywords: 液压榨油机产品系列, 300-500系列榨油机, 过滤设备, 精炼设备, 脱蜡设备, 灌装包装设备, 液压榨油机设备, 榨油机厂家, 定制油料加工整线, 盛世赫程
+title: 液压榨油机与油料加工设备 | 300-500系列与韩式小型门店机型
+description: 对比300到500系列液压榨油机、韩式小型液压榨油机、过滤设备、精炼脱蜡设备和灌装包装设备，适合门店现榨到规模化油厂项目。
+keywords: 液压榨油机产品系列, 300-500系列榨油机, 韩式小型液压榨油机, 小型芝麻榨油机, 过滤设备, 精炼设备, 灌装包装设备, 液压榨油机设备, 榨油机厂家, 盛世赫程
 ---
 
 # 产品系列
@@ -68,6 +68,15 @@ keywords: 液压榨油机产品系列, 300-500系列榨油机, 过滤设备, 精
 旗舰系列，特大型产能。
 
 [查看500系列完整介绍](/zh/products/500)
+
+### 韩式小型液压榨油机
+面向芝麻油门店、商超现榨柜台和小型精品油业务的小型液压榨油机系列，更适合高附加值、重展示、重终端转化的现榨场景。
+
+- [韩式小型液压榨油机](/zh/products/korean-type-small-hydraulic-oil-press-machine)
+- [小型芝麻榨油机](/zh/products/small-sesame-oil-press-machine)
+- [KHOP-10KG 小型液压榨油机](/zh/products/khop-10kg-small-hydraulic-oil-press-machine)
+- [KHOP-15KG 小型液压榨油机](/zh/products/khop-15kg-small-hydraulic-oil-press-machine)
+- [KHOP-20KG 小型液压榨油机](/zh/products/khop-20kg-small-hydraulic-oil-press-machine)
 
 ## 配套设备
 

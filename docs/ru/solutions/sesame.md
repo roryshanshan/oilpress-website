@@ -134,3 +134,17 @@ keywords: Решения для кунжута, Отжим кунжутного 
 - 📍 **Адрес**: № 5888, Улица Иньнэн, Зона развития, Город Цинчжоу, Провинция Шаньдун, Китай
 
 Мы предоставляем бесплатные технические консультации, тестирование образцов и услуги выездной инспекции, чтобы предоставить вам наиболее подходящие решения для отжима кунжута.
+
+## Связанные ссылки
+
+- [Обзор решений](/ru/solutions/)
+- [Решения по типу масла](/ru/solutions/seed-oils)
+- [Решение по сое](/ru/solutions/soybean)
+- [Решение по арахису](/ru/solutions/peanut)
+- [Малая гидравлическая маслопрессовая машина корейского типа](/ru/products/korean-type-small-hydraulic-oil-press-machine)
+- [Малая машина для отжима кунжутного масла](/ru/products/small-sesame-oil-press-machine)
+- [KHOP-10KG малая гидравлическая машина](/ru/products/khop-10kg-small-hydraulic-oil-press-machine)
+- [KHOP-15KG малая гидравлическая машина](/ru/products/khop-15kg-small-hydraulic-oil-press-machine)
+- [KHOP-20KG малая гидравлическая машина](/ru/products/khop-20kg-small-hydraulic-oil-press-machine)
+- [Серия 300](/ru/products/300)
+- [Свяжитесь с технической командой](/ru/contact/)

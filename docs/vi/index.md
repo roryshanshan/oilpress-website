@@ -98,6 +98,12 @@ keywords: Máy ép dầu đậu tương thủy lực, Máy ép dầu lạc thủ
   <p>Phù hợp doanh nghiệp siêu lớn, sản lượng dầu 8-15 tấn/ngày</p>
   <a href="/vi/products/500" class="learn-more">Tìm hiểu thêm</a>
   </div>
+  <div class="product-card">
+    <img src="/images/korean-type-small-press/korean-type-overview.jpg" alt="Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc" />
+  <h3>Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc</h3>
+  <p>Dòng model cho cửa hàng dầu mè, quầy dầu tươi và kinh doanh nhỏ, gồm KHOP-10KG, 15KG và 20KG</p>
+  <a href="/vi/products/korean-type-small-hydraulic-oil-press-machine" class="learn-more">Tìm hiểu thêm</a>
+  </div>
 </div>
 
 ## Ưu điểm sản phẩm

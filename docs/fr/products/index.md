@@ -1,7 +1,7 @@
 ---
-title: Séries de produits
-description: Shandong Shengshi Hecheng Machinery Co., Ltd.
-keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
+title: Séries de produits | Séries 300-500 et petits modèles de boutique
+description: Comparez les presses à huile hydrauliques séries 300 à 500, les petits modèles hydrauliques de type coréen, les équipements de filtration, de raffinage et de remplissage pour des projets allant de la boutique à l'usine.
+keywords: presse à huile hydraulique, série 300-500, petite presse hydraulique type coréen, machine de sésame pour boutique, filtration d'huile, équipement de raffinage, équipement de remplissage
 ---
 # Séries de produits
 
@@ -46,6 +46,15 @@ Série ultra-grande, avec un design de capacité ultra-grande.
 Série phare, avec une capacité extra-large.
 
 [Voir l'introduction complète de la série 500](/fr/products/500)
+
+### Petite presse à huile hydraulique de type coréen
+Famille de petites presses hydrauliques orientée boutique, adaptée aux magasins d'huile de sésame, aux comptoirs d'huile fraîche et aux petites activités d'huile premium.
+
+- [Petite presse à huile hydraulique de type coréen](/fr/products/korean-type-small-hydraulic-oil-press-machine)
+- [Petite machine de pressage d'huile de sésame](/fr/products/small-sesame-oil-press-machine)
+- [KHOP-10KG petite presse à huile hydraulique](/fr/products/khop-10kg-small-hydraulic-oil-press-machine)
+- [KHOP-15KG petite presse à huile hydraulique](/fr/products/khop-15kg-small-hydraulic-oil-press-machine)
+- [KHOP-20KG petite presse à huile hydraulique](/fr/products/khop-20kg-small-hydraulic-oil-press-machine)
 
 ## Version personnalisée
 

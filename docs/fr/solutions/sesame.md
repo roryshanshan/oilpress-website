@@ -133,3 +133,17 @@ If you are interested in sesame pressing solutions, please contact our technical
 - 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
 
 We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable sesame pressing solutions.
+
+## Liens connexes
+
+- [Aperçu des solutions](/fr/solutions/)
+- [Solutions par type d'huile](/fr/solutions/seed-oils)
+- [Solution soja](/fr/solutions/soybean)
+- [Solution arachide](/fr/solutions/peanut)
+- [Petite presse à huile hydraulique de type coréen](/fr/products/korean-type-small-hydraulic-oil-press-machine)
+- [Petite machine de pressage d'huile de sésame](/fr/products/small-sesame-oil-press-machine)
+- [KHOP-10KG petite presse à huile hydraulique](/fr/products/khop-10kg-small-hydraulic-oil-press-machine)
+- [KHOP-15KG petite presse à huile hydraulique](/fr/products/khop-15kg-small-hydraulic-oil-press-machine)
+- [KHOP-20KG petite presse à huile hydraulique](/fr/products/khop-20kg-small-hydraulic-oil-press-machine)
+- [Série 300](/fr/products/300)
+- [Contactez l'équipe technique](/fr/contact/)
