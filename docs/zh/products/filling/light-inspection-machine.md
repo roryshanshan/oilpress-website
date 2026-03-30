@@ -34,8 +34,13 @@ head:
               "name": "Shengshi Hecheng",
               "url": "https://hydraulicoilpressing.opchn.com/zh/about/"
             },
-            "businessFunction": "http://purl.org/goodrelations/v1#Sell"
-          },
+            "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          },,
           "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": "4.8",
