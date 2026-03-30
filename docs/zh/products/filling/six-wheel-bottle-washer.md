@@ -35,6 +35,11 @@ head:
               "url": "https://hydraulicoilpressing.opchn.com/zh/about/"
             },
             "businessFunction": "http://purl.org/goodrelations/v1#Sell"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "reviewCount": "24"
           }
         }
   - - script
