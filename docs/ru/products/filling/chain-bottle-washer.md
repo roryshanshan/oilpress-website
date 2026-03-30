@@ -19,20 +19,20 @@ head:
           "manufacturer": {
             "@type": "Organization",
             "name": "Shengshi Hecheng",
-            "url": "https://hydraulic-oil-press.com/ru/about/"
+            "url": "https://hydraulicoilpressing.opchn.com/ru/about/"
           },
           "sku": "chain-bottle-washer",
-          "url": "https://hydraulic-oil-press.com/ru/products/filling/chain-bottle-washer",
+          "url": "https://hydraulicoilpressing.opchn.com/ru/products/filling/chain-bottle-washer",
           "offers": {
             "@type": "Offer",
-            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "url": "https://hydraulicoilpressing.opchn.com/ru/contact/",
             "priceCurrency": "USD",
             "availability": "https://schema.org/InStock",
             "itemCondition": "https://schema.org/NewCondition",
             "seller": {
               "@type": "Organization",
               "name": "Shengshi Hecheng",
-              "url": "https://hydraulic-oil-press.com/ru/about/"
+              "url": "https://hydraulicoilpressing.opchn.com/ru/about/"
             },
             "businessFunction": "http://purl.org/goodrelations/v1#Sell"
           }
@@ -44,7 +44,7 @@ head:
           "@context": "https://schema.org",
           "@type": "Brand",
           "name": "Shengshi Hecheng",
-          "url": "https://hydraulic-oil-press.com"
+          "url": "https://hydraulicoilpressing.opchn.com"
         }
   - - script
     - type: application/ld+json
@@ -57,19 +57,19 @@ head:
               "@type": "ListItem",
               "position": 1,
               "name": "Главная",
-              "item": "https://hydraulic-oil-press.com/ru/"
+              "item": "https://hydraulicoilpressing.opchn.com/ru/"
             },
             {
               "@type": "ListItem",
               "position": 2,
               "name": "Продукция",
-              "item": "https://hydraulic-oil-press.com/ru/products/"
+              "item": "https://hydraulicoilpressing.opchn.com/ru/products/"
             },
             {
               "@type": "ListItem",
               "position": 3,
               "name": "Машина для мытья бутылок с цепной рейкой",
-              "item": "https://hydraulic-oil-press.com/ru/products/filling/chain-bottle-washer"
+              "item": "https://hydraulicoilpressing.opchn.com/ru/products/filling/chain-bottle-washer"
             }
           ]
         }

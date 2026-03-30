@@ -19,20 +19,20 @@ head:
           "manufacturer": {
             "@type": "Organization",
             "name": "Shengshi Hecheng",
-            "url": "https://hydraulic-oil-press.com/vi/about/"
+            "url": "https://hydraulicoilpressing.opchn.com/vi/about/"
           },
           "sku": "customer-order-shipping-video",
-          "url": "https://hydraulic-oil-press.com/vi/products/customer-order-shipping-video",
+          "url": "https://hydraulicoilpressing.opchn.com/vi/products/customer-order-shipping-video",
           "offers": {
             "@type": "Offer",
-            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "url": "https://hydraulicoilpressing.opchn.com/vi/contact/",
             "priceCurrency": "USD",
             "availability": "https://schema.org/InStock",
             "itemCondition": "https://schema.org/NewCondition",
             "seller": {
               "@type": "Organization",
               "name": "Shengshi Hecheng",
-              "url": "https://hydraulic-oil-press.com/vi/about/"
+              "url": "https://hydraulicoilpressing.opchn.com/vi/about/"
             },
             "businessFunction": "http://purl.org/goodrelations/v1#Sell"
           }
@@ -44,7 +44,7 @@ head:
           "@context": "https://schema.org",
           "@type": "Brand",
           "name": "Shengshi Hecheng",
-          "url": "https://hydraulic-oil-press.com"
+          "url": "https://hydraulicoilpressing.opchn.com"
         }
   - - script
     - type: application/ld+json
@@ -57,19 +57,19 @@ head:
               "@type": "ListItem",
               "position": 1,
               "name": "Trang chủ",
-              "item": "https://hydraulic-oil-press.com/vi/"
+              "item": "https://hydraulicoilpressing.opchn.com/vi/"
             },
             {
               "@type": "ListItem",
               "position": 2,
               "name": "Sản phẩm",
-              "item": "https://hydraulic-oil-press.com/vi/products/"
+              "item": "https://hydraulicoilpressing.opchn.com/vi/products/"
             },
             {
               "@type": "ListItem",
               "position": 3,
               "name": "Video Đơn hàng Khách hàng & Gửi hàng",
-              "item": "https://hydraulic-oil-press.com/vi/products/customer-order-shipping-video"
+              "item": "https://hydraulicoilpressing.opchn.com/vi/products/customer-order-shipping-video"
             }
           ]
         }

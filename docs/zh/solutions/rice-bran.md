@@ -15,20 +15,20 @@ head:
           "provider": {
             "@type": "Organization",
             "name": "Shengshi Hecheng",
-            "url": "https://hydraulic-oil-press.com/zh/about/"
+            "url": "https://hydraulicoilpressing.opchn.com/zh/about/"
           },
           "serviceType": "解决方案",
           "areaServed": "Worldwide",
-          "url": "https://hydraulic-oil-press.com/zh/solutions/rice-bran",
+          "url": "https://hydraulicoilpressing.opchn.com/zh/solutions/rice-bran",
           "offers": {
             "@type": "Offer",
-            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "url": "https://hydraulicoilpressing.opchn.com/zh/contact/",
             "priceCurrency": "USD",
             "availability": "https://schema.org/InStock",
             "seller": {
               "@type": "Organization",
               "name": "Shengshi Hecheng",
-              "url": "https://hydraulic-oil-press.com/zh/about/"
+              "url": "https://hydraulicoilpressing.opchn.com/zh/about/"
             },
             "businessFunction": "http://purl.org/goodrelations/v1#Sell"
           }
@@ -40,7 +40,7 @@ head:
           "@context": "https://schema.org",
           "@type": "Brand",
           "name": "Shengshi Hecheng",
-          "url": "https://hydraulic-oil-press.com"
+          "url": "https://hydraulicoilpressing.opchn.com"
         }
   - - script
     - type: application/ld+json
@@ -53,19 +53,19 @@ head:
               "@type": "ListItem",
               "position": 1,
               "name": "首页",
-              "item": "https://hydraulic-oil-press.com/zh/"
+              "item": "https://hydraulicoilpressing.opchn.com/zh/"
             },
             {
               "@type": "ListItem",
               "position": 2,
               "name": "解决方案",
-              "item": "https://hydraulic-oil-press.com/zh/solutions/"
+              "item": "https://hydraulicoilpressing.opchn.com/zh/solutions/"
             },
             {
               "@type": "ListItem",
               "position": 3,
               "name": "米糠（米糠油）解决方案",
-              "item": "https://hydraulic-oil-press.com/zh/solutions/rice-bran"
+              "item": "https://hydraulicoilpressing.opchn.com/zh/solutions/rice-bran"
             }
           ]
         }

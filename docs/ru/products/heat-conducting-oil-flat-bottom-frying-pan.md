@@ -19,20 +19,20 @@ head:
           "manufacturer": {
             "@type": "Organization",
             "name": "Shengshi Hecheng",
-            "url": "https://hydraulic-oil-press.com/ru/about/"
+            "url": "https://hydraulicoilpressing.opchn.com/ru/about/"
           },
           "sku": "heat-conducting-oil-flat-bottom-frying-pan",
-          "url": "https://hydraulic-oil-press.com/ru/products/heat-conducting-oil-flat-bottom-frying-pan",
+          "url": "https://hydraulicoilpressing.opchn.com/ru/products/heat-conducting-oil-flat-bottom-frying-pan",
           "offers": {
             "@type": "Offer",
-            "url": "https://hydraulic-oil-press.com/ru/contact/",
+            "url": "https://hydraulicoilpressing.opchn.com/ru/contact/",
             "priceCurrency": "USD",
             "availability": "https://schema.org/InStock",
             "itemCondition": "https://schema.org/NewCondition",
             "seller": {
               "@type": "Organization",
               "name": "Shengshi Hecheng",
-              "url": "https://hydraulic-oil-press.com/ru/about/"
+              "url": "https://hydraulicoilpressing.opchn.com/ru/about/"
             },
             "businessFunction": "http://purl.org/goodrelations/v1#Sell"
           }
@@ -44,7 +44,7 @@ head:
           "@context": "https://schema.org",
           "@type": "Brand",
           "name": "Shengshi Hecheng",
-          "url": "https://hydraulic-oil-press.com"
+          "url": "https://hydraulicoilpressing.opchn.com"
         }
   - - script
     - type: application/ld+json
@@ -57,19 +57,19 @@ head:
               "@type": "ListItem",
               "position": 1,
               "name": "Главная",
-              "item": "https://hydraulic-oil-press.com/ru/"
+              "item": "https://hydraulicoilpressing.opchn.com/ru/"
             },
             {
               "@type": "ListItem",
               "position": 2,
               "name": "Продукция",
-              "item": "https://hydraulic-oil-press.com/ru/products/"
+              "item": "https://hydraulicoilpressing.opchn.com/ru/products/"
             },
             {
               "@type": "ListItem",
               "position": 3,
               "name": "Электрическая сковорода с плоским дном с теплоносителем, облицованная минеральной ватой и нержавеющей сталью",
-              "item": "https://hydraulic-oil-press.com/ru/products/heat-conducting-oil-flat-bottom-frying-pan"
+              "item": "https://hydraulicoilpressing.opchn.com/ru/products/heat-conducting-oil-flat-bottom-frying-pan"
             }
           ]
         }

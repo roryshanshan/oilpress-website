@@ -19,20 +19,20 @@ head:
           "manufacturer": {
             "@type": "Organization",
             "name": "Shengshi Hecheng",
-            "url": "https://hydraulic-oil-press.com/zh/about/"
+            "url": "https://hydraulicoilpressing.opchn.com/zh/about/"
           },
           "sku": "gfp-12a-low-vacuum-filling-machine",
-          "url": "https://hydraulic-oil-press.com/zh/products/filling/gfp-12a-low-vacuum-filling-machine",
+          "url": "https://hydraulicoilpressing.opchn.com/zh/products/filling/gfp-12a-low-vacuum-filling-machine",
           "offers": {
             "@type": "Offer",
-            "url": "https://hydraulic-oil-press.com/zh/contact/",
+            "url": "https://hydraulicoilpressing.opchn.com/zh/contact/",
             "priceCurrency": "USD",
             "availability": "https://schema.org/InStock",
             "itemCondition": "https://schema.org/NewCondition",
             "seller": {
               "@type": "Organization",
               "name": "Shengshi Hecheng",
-              "url": "https://hydraulic-oil-press.com/zh/about/"
+              "url": "https://hydraulicoilpressing.opchn.com/zh/about/"
             },
             "businessFunction": "http://purl.org/goodrelations/v1#Sell"
           }
@@ -44,7 +44,7 @@ head:
           "@context": "https://schema.org",
           "@type": "Brand",
           "name": "Shengshi Hecheng",
-          "url": "https://hydraulic-oil-press.com"
+          "url": "https://hydraulicoilpressing.opchn.com"
         }
   - - script
     - type: application/ld+json
@@ -57,19 +57,19 @@ head:
               "@type": "ListItem",
               "position": 1,
               "name": "首页",
-              "item": "https://hydraulic-oil-press.com/zh/"
+              "item": "https://hydraulicoilpressing.opchn.com/zh/"
             },
             {
               "@type": "ListItem",
               "position": 2,
               "name": "产品",
-              "item": "https://hydraulic-oil-press.com/zh/products/"
+              "item": "https://hydraulicoilpressing.opchn.com/zh/products/"
             },
             {
               "@type": "ListItem",
               "position": 3,
               "name": "GFP-12A低真空灌装机",
-              "item": "https://hydraulic-oil-press.com/zh/products/filling/gfp-12a-low-vacuum-filling-machine"
+              "item": "https://hydraulicoilpressing.opchn.com/zh/products/filling/gfp-12a-low-vacuum-filling-machine"
             }
           ]
         }

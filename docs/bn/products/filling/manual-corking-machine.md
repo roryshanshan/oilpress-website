@@ -19,20 +19,20 @@ head:
           "manufacturer": {
             "@type": "Organization",
             "name": "Shengshi Hecheng",
-            "url": "https://hydraulic-oil-press.com/bn/about/"
+            "url": "https://hydraulicoilpressing.opchn.com/bn/about/"
           },
           "sku": "manual-corking-machine",
-          "url": "https://hydraulic-oil-press.com/bn/products/filling/manual-corking-machine",
+          "url": "https://hydraulicoilpressing.opchn.com/bn/products/filling/manual-corking-machine",
           "offers": {
             "@type": "Offer",
-            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "url": "https://hydraulicoilpressing.opchn.com/bn/contact/",
             "priceCurrency": "USD",
             "availability": "https://schema.org/InStock",
             "itemCondition": "https://schema.org/NewCondition",
             "seller": {
               "@type": "Organization",
               "name": "Shengshi Hecheng",
-              "url": "https://hydraulic-oil-press.com/bn/about/"
+              "url": "https://hydraulicoilpressing.opchn.com/bn/about/"
             },
             "businessFunction": "http://purl.org/goodrelations/v1#Sell"
           }
@@ -44,7 +44,7 @@ head:
           "@context": "https://schema.org",
           "@type": "Brand",
           "name": "Shengshi Hecheng",
-          "url": "https://hydraulic-oil-press.com"
+          "url": "https://hydraulicoilpressing.opchn.com"
         }
   - - script
     - type: application/ld+json
@@ -57,19 +57,19 @@ head:
               "@type": "ListItem",
               "position": 1,
               "name": "হোম",
-              "item": "https://hydraulic-oil-press.com/bn/"
+              "item": "https://hydraulicoilpressing.opchn.com/bn/"
             },
             {
               "@type": "ListItem",
               "position": 2,
               "name": "পণ্য",
-              "item": "https://hydraulic-oil-press.com/bn/products/"
+              "item": "https://hydraulicoilpressing.opchn.com/bn/products/"
             },
             {
               "@type": "ListItem",
               "position": 3,
               "name": "ম্যানুয়াল কর্কিং মেশিন",
-              "item": "https://hydraulic-oil-press.com/bn/products/filling/manual-corking-machine"
+              "item": "https://hydraulicoilpressing.opchn.com/bn/products/filling/manual-corking-machine"
             }
           ]
         }

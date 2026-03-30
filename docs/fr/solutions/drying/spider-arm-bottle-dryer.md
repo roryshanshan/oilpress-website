@@ -15,20 +15,20 @@ head:
           "provider": {
             "@type": "Organization",
             "name": "Shengshi Hecheng",
-            "url": "https://hydraulic-oil-press.com/fr/about/"
+            "url": "https://hydraulicoilpressing.opchn.com/fr/about/"
           },
           "serviceType": "Solutions",
           "areaServed": "Worldwide",
-          "url": "https://hydraulic-oil-press.com/fr/solutions/drying/spider-arm-bottle-dryer",
+          "url": "https://hydraulicoilpressing.opchn.com/fr/solutions/drying/spider-arm-bottle-dryer",
           "offers": {
             "@type": "Offer",
-            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "url": "https://hydraulicoilpressing.opchn.com/fr/contact/",
             "priceCurrency": "USD",
             "availability": "https://schema.org/InStock",
             "seller": {
               "@type": "Organization",
               "name": "Shengshi Hecheng",
-              "url": "https://hydraulic-oil-press.com/fr/about/"
+              "url": "https://hydraulicoilpressing.opchn.com/fr/about/"
             },
             "businessFunction": "http://purl.org/goodrelations/v1#Sell"
           }
@@ -40,7 +40,7 @@ head:
           "@context": "https://schema.org",
           "@type": "Brand",
           "name": "Shengshi Hecheng",
-          "url": "https://hydraulic-oil-press.com"
+          "url": "https://hydraulicoilpressing.opchn.com"
         }
   - - script
     - type: application/ld+json
@@ -53,19 +53,19 @@ head:
               "@type": "ListItem",
               "position": 1,
               "name": "Accueil",
-              "item": "https://hydraulic-oil-press.com/fr/"
+              "item": "https://hydraulicoilpressing.opchn.com/fr/"
             },
             {
               "@type": "ListItem",
               "position": 2,
               "name": "Solutions",
-              "item": "https://hydraulic-oil-press.com/fr/solutions/"
+              "item": "https://hydraulicoilpressing.opchn.com/fr/solutions/"
             },
             {
               "@type": "ListItem",
               "position": 3,
               "name": "Sèche-cheveux à économie d'énergie SpiderHand",
-              "item": "https://hydraulic-oil-press.com/fr/solutions/drying/spider-arm-bottle-dryer"
+              "item": "https://hydraulicoilpressing.opchn.com/fr/solutions/drying/spider-arm-bottle-dryer"
             }
           ]
         }

@@ -19,20 +19,20 @@ head:
           "manufacturer": {
             "@type": "Organization",
             "name": "Shengshi Hecheng",
-            "url": "https://hydraulic-oil-press.com/bn/about/"
+            "url": "https://hydraulicoilpressing.opchn.com/bn/about/"
           },
           "sku": "automatic-drum-roaster",
-          "url": "https://hydraulic-oil-press.com/bn/products/automatic-drum-roaster",
+          "url": "https://hydraulicoilpressing.opchn.com/bn/products/automatic-drum-roaster",
           "offers": {
             "@type": "Offer",
-            "url": "https://hydraulic-oil-press.com/bn/contact/",
+            "url": "https://hydraulicoilpressing.opchn.com/bn/contact/",
             "priceCurrency": "USD",
             "availability": "https://schema.org/InStock",
             "itemCondition": "https://schema.org/NewCondition",
             "seller": {
               "@type": "Organization",
               "name": "Shengshi Hecheng",
-              "url": "https://hydraulic-oil-press.com/bn/about/"
+              "url": "https://hydraulicoilpressing.opchn.com/bn/about/"
             },
             "businessFunction": "http://purl.org/goodrelations/v1#Sell"
           }
@@ -44,7 +44,7 @@ head:
           "@context": "https://schema.org",
           "@type": "Brand",
           "name": "Shengshi Hecheng",
-          "url": "https://hydraulic-oil-press.com"
+          "url": "https://hydraulicoilpressing.opchn.com"
         }
   - - script
     - type: application/ld+json
@@ -57,19 +57,19 @@ head:
               "@type": "ListItem",
               "position": 1,
               "name": "হোম",
-              "item": "https://hydraulic-oil-press.com/bn/"
+              "item": "https://hydraulicoilpressing.opchn.com/bn/"
             },
             {
               "@type": "ListItem",
               "position": 2,
               "name": "পণ্য",
-              "item": "https://hydraulic-oil-press.com/bn/products/"
+              "item": "https://hydraulicoilpressing.opchn.com/bn/products/"
             },
             {
               "@type": "ListItem",
               "position": 3,
               "name": "সম্পূর্ণ স্বয়ংক্রিয় রোলিং ড্রাম ফ্রাইয়ার",
-              "item": "https://hydraulic-oil-press.com/bn/products/automatic-drum-roaster"
+              "item": "https://hydraulicoilpressing.opchn.com/bn/products/automatic-drum-roaster"
             }
           ]
         }

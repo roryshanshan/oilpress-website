@@ -15,20 +15,20 @@ head:
           "provider": {
             "@type": "Organization",
             "name": "Shengshi Hecheng",
-            "url": "https://hydraulic-oil-press.com/vi/about/"
+            "url": "https://hydraulicoilpressing.opchn.com/vi/about/"
           },
           "serviceType": "Giải pháp",
           "areaServed": "Worldwide",
-          "url": "https://hydraulic-oil-press.com/vi/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock",
+          "url": "https://hydraulicoilpressing.opchn.com/vi/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock",
           "offers": {
             "@type": "Offer",
-            "url": "https://hydraulic-oil-press.com/vi/contact/",
+            "url": "https://hydraulicoilpressing.opchn.com/vi/contact/",
             "priceCurrency": "USD",
             "availability": "https://schema.org/InStock",
             "seller": {
               "@type": "Organization",
               "name": "Shengshi Hecheng",
-              "url": "https://hydraulic-oil-press.com/vi/about/"
+              "url": "https://hydraulicoilpressing.opchn.com/vi/about/"
             },
             "businessFunction": "http://purl.org/goodrelations/v1#Sell"
           }
@@ -40,7 +40,7 @@ head:
           "@context": "https://schema.org",
           "@type": "Brand",
           "name": "Shengshi Hecheng",
-          "url": "https://hydraulic-oil-press.com"
+          "url": "https://hydraulicoilpressing.opchn.com"
         }
   - - script
     - type: application/ld+json
@@ -53,19 +53,19 @@ head:
               "@type": "ListItem",
               "position": 1,
               "name": "Trang chủ",
-              "item": "https://hydraulic-oil-press.com/vi/"
+              "item": "https://hydraulicoilpressing.opchn.com/vi/"
             },
             {
               "@type": "ListItem",
               "position": 2,
               "name": "Giải pháp",
-              "item": "https://hydraulic-oil-press.com/vi/solutions/"
+              "item": "https://hydraulicoilpressing.opchn.com/vi/solutions/"
             },
             {
               "@type": "ListItem",
               "position": 3,
               "name": "GDP36DK-10-10 Máy chiết rót, đóng nắp, dán kín hoàn toàn tự động thông minh",
-              "item": "https://hydraulic-oil-press.com/vi/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock"
+              "item": "https://hydraulicoilpressing.opchn.com/vi/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock"
             }
           ]
         }

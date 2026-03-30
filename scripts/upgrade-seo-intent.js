@@ -3,7 +3,7 @@ const path = require('path');
 
 const root = process.cwd();
 const docsDir = path.join(root, 'docs');
-const siteUrl = 'https://hydraulic-oil-press.com';
+const siteUrl = 'https://hydraulicoilpressing.opchn.com';
 const langs = ['en', 'zh', 'ru', 'fr', 'vi', 'bn'];
 const mainModels = ['300', '325', '355', '400', '426', '480', '500'];
 

@@ -19,20 +19,20 @@ head:
           "manufacturer": {
             "@type": "Organization",
             "name": "Shengshi Hecheng",
-            "url": "https://hydraulic-oil-press.com/fr/about/"
+            "url": "https://hydraulicoilpressing.opchn.com/fr/about/"
           },
           "sku": "smart-filling-machine",
-          "url": "https://hydraulic-oil-press.com/fr/products/filling/smart-filling-machine",
+          "url": "https://hydraulicoilpressing.opchn.com/fr/products/filling/smart-filling-machine",
           "offers": {
             "@type": "Offer",
-            "url": "https://hydraulic-oil-press.com/fr/contact/",
+            "url": "https://hydraulicoilpressing.opchn.com/fr/contact/",
             "priceCurrency": "USD",
             "availability": "https://schema.org/InStock",
             "itemCondition": "https://schema.org/NewCondition",
             "seller": {
               "@type": "Organization",
               "name": "Shengshi Hecheng",
-              "url": "https://hydraulic-oil-press.com/fr/about/"
+              "url": "https://hydraulicoilpressing.opchn.com/fr/about/"
             },
             "businessFunction": "http://purl.org/goodrelations/v1#Sell"
           }
@@ -44,7 +44,7 @@ head:
           "@context": "https://schema.org",
           "@type": "Brand",
           "name": "Shengshi Hecheng",
-          "url": "https://hydraulic-oil-press.com"
+          "url": "https://hydraulicoilpressing.opchn.com"
         }
   - - script
     - type: application/ld+json
@@ -57,19 +57,19 @@ head:
               "@type": "ListItem",
               "position": 1,
               "name": "Accueil",
-              "item": "https://hydraulic-oil-press.com/fr/"
+              "item": "https://hydraulicoilpressing.opchn.com/fr/"
             },
             {
               "@type": "ListItem",
               "position": 2,
               "name": "Produits",
-              "item": "https://hydraulic-oil-press.com/fr/products/"
+              "item": "https://hydraulicoilpressing.opchn.com/fr/products/"
             },
             {
               "@type": "ListItem",
               "position": 3,
               "name": "Positionnement du modèle",
-              "item": "https://hydraulic-oil-press.com/fr/products/filling/smart-filling-machine"
+              "item": "https://hydraulicoilpressing.opchn.com/fr/products/filling/smart-filling-machine"
             }
           ]
         }
