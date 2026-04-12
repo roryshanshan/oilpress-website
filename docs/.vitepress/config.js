@@ -1821,8 +1821,10 @@ const buildBasePageSchema = ({ canonical, pageName, description, langCode, pageT
   return schema
 }
 
-const buildProductSchema = ({ canonical, pageName, description, langCode, category, model }) => {
+const buildProductSchema = ({ canonical, pageName, description, langCode, lang, category, model }) => {
   const additionalProperty = []
+  const contactUrl = `${SITE_URL}${buildLocalizedPath(lang, '/contact/')}`
+  const aboutUrl = `${SITE_URL}${buildLocalizedPath(lang, '/about/')}`
 
   if (model) {
     additionalProperty.push({
@@ -1857,6 +1859,19 @@ const buildProductSchema = ({ canonical, pageName, description, langCode, catego
     },
     manufacturer: {
       '@id': ORGANIZATION_ID
+    },
+    offers: {
+      '@type': 'Offer',
+      url: contactUrl,
+      priceCurrency: 'USD',
+      availability: 'https://schema.org/InStock',
+      itemCondition: 'https://schema.org/NewCondition',
+      seller: {
+        '@type': 'Organization',
+        name: 'Shengshi Hecheng',
+        url: aboutUrl
+      },
+      businessFunction: 'http://purl.org/goodrelations/v1#Sell'
     }
   }
 
@@ -2303,6 +2318,7 @@ export default {
         pageName,
         description: pageDescription,
         langCode,
+        lang,
         category,
         model
       }))
@@ -2341,6 +2357,7 @@ export default {
         pageName,
         description: pageDescription,
         langCode,
+        lang,
         category,
         model
       }))
