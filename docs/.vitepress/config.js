@@ -1825,6 +1825,7 @@ const buildProductSchema = ({ canonical, pageName, description, langCode, lang, 
   const additionalProperty = []
   const contactUrl = `${SITE_URL}${buildLocalizedPath(lang, '/contact/')}`
   const aboutUrl = `${SITE_URL}${buildLocalizedPath(lang, '/about/')}`
+  const returnPolicyUrl = `${SITE_URL}${buildLocalizedPath(lang, '/advantages/service/')}`
 
   if (model) {
     additionalProperty.push({
@@ -1866,6 +1867,10 @@ const buildProductSchema = ({ canonical, pageName, description, langCode, lang, 
       priceCurrency: 'USD',
       availability: 'https://schema.org/InStock',
       itemCondition: 'https://schema.org/NewCondition',
+      hasMerchantReturnPolicy: {
+        '@type': 'MerchantReturnPolicy',
+        merchantReturnLink: returnPolicyUrl
+      },
       seller: {
         '@type': 'Organization',
         name: 'Shengshi Hecheng',

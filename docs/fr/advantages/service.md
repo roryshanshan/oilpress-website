@@ -40,3 +40,10 @@ Fourniture de support technique à distance et de services sur site pour les cli
 - **Délai de réponse** : Réponse dans les 2 heures suivant la réception de la demande de service
 - **Délai d'intervention** : 24 heures dans la province, 48 heures hors province pour se rendre sur site
 - **Efficacité de résolution** : 90 % des pannes résolues dans les 24 heures
+
+## Retours Et Traitement Des Commandes
+
+- Les équipements présentés sur ce site sont fournis sur la base d’un devis usine, d’une confirmation technique et du contrat signé. De nombreux projets sont validés selon la tension, la capacité, l’emballage et les exigences du procédé avant production.
+- Avant de passer commande, veuillez confirmer avec notre équipe commerciale le modèle, la configuration, le délai, le mode d’emballage et le périmètre de service.
+- Si vous constatez des dommages liés au transport, un écart de quantité ou une différence entre l’équipement livré et le contrat ou la commande confirmés, veuillez contacter dès que possible nos équipes commerciales et SAV.
+- Pour le traitement après-vente lié à la qualité, veuillez vous référer aux engagements de service de cette page et à nos engagements qualité publiés. La garantie et ses modalités d’exécution suivent le contrat et les informations publiques du projet.
