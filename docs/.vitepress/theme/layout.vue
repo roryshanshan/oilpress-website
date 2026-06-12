@@ -835,68 +835,102 @@ const toggleMobileWechatQR = () => {
   showMobileWechatQR.value = !showMobileWechatQR.value
 }
 
-// 切换到指定语言 - 修复核心问题
-const switchToLanguage = (lang) => {
-  showDropdown.value = false
-  showMobileMenu.value = false
+const normalizeSwitchPath = (value) => {
+  if (!value || value === '/') return '/'
+  return value.replace(/\/+$/, '')
+}
 
-  // 使用 VitePress 的相对路径，移除 .md 扩展名
-  const currentPath = page.value.relativePath.replace(/\.md$/, '')
+const buildLocaleRootPath = (lang) => lang === 'en' ? '/en/' : `/${lang}/`
 
-  // 提取内容路径和当前语言
-  let contentPath = currentPath
-  let currentLang = 'en' // 默认英文
+const getAlternateHref = (lang) => {
+  if (typeof document === 'undefined') return ''
 
-  const langPrefixes = ['zh', 'en', 'ru', 'fr', 'bn', 'vi']
+  const hreflangMap = {
+    zh: 'zh-CN',
+    en: 'en',
+    ru: 'ru',
+    fr: 'fr',
+    vi: 'vi',
+    bn: 'bn'
+  }
 
-  for (const prefix of langPrefixes) {
-    if (contentPath.startsWith(`${prefix}/`)) {
-      currentLang = prefix
-      contentPath = contentPath.substring(prefix.length + 1)
-      break
-    } else if (contentPath === prefix) {
-      currentLang = prefix
-      contentPath = ''
-      break
+  const hreflang = hreflangMap[lang]
+  if (!hreflang) return ''
+
+  const link = document.querySelector(`link[rel="alternate"][hreflang="${hreflang}"]`)
+  return link?.getAttribute('href') || ''
+}
+
+const buildLanguageSwitchCandidates = (lang) => {
+  const candidates = new Set()
+  const localeRoot = buildLocaleRootPath(lang)
+  const absoluteAlternateHref = getAlternateHref(lang)
+
+  if (absoluteAlternateHref) {
+    try {
+      const parsed = new URL(absoluteAlternateHref, window.location.origin)
+      candidates.add(normalizeSwitchPath(parsed.pathname))
+    } catch (err) {
+      // ignore invalid alternate href
     }
   }
 
-  // 如果是根路径或 index，认为是英文
-  if (currentPath === '' || currentPath === 'index') {
-    currentLang = 'en'
-    contentPath = ''
+  const currentBrowserPath = normalizeSwitchPath(window.location.pathname || '/')
+  const pathSegments = currentBrowserPath.split('/').filter(Boolean)
+  const knownLangs = new Set(['zh', 'en', 'ru', 'fr', 'bn', 'vi'])
+  const contentSegments = knownLangs.has(pathSegments[0]) ? pathSegments.slice(1) : pathSegments
+
+  for (let index = contentSegments.length; index >= 0; index -= 1) {
+    const partialSegments = contentSegments.slice(0, index)
+    const targetPath = partialSegments.length
+      ? `${localeRoot}${partialSegments.join('/')}`
+      : localeRoot
+    candidates.add(normalizeSwitchPath(targetPath))
   }
 
+  candidates.add(normalizeSwitchPath(localeRoot))
+
+  return Array.from(candidates)
+}
+
+const canReachPath = async (path) => {
+  try {
+    const response = await fetch(path, {
+      method: 'GET',
+      redirect: 'follow',
+      credentials: 'same-origin'
+    })
+
+    return response.ok
+  } catch (err) {
+    return false
+  }
+}
+
+// 切换到指定语言
+const switchToLanguage = async (lang) => {
+  showDropdown.value = false
+  showMobileMenu.value = false
+
   // 如果已经在目标语言，不切换
-  if (currentLang === lang) {
+  if (currentLang.value === lang || typeof window === 'undefined') {
     return
   }
 
-  // 清理内容路径
-  contentPath = contentPath.replace(/^\/+|\/+$/g, '')
-  if (contentPath === 'index' || contentPath.endsWith('/index')) {
-    contentPath = contentPath.replace(/\/index$/, '')
+  const candidates = buildLanguageSwitchCandidates(lang)
+
+  for (const candidate of candidates) {
+    if (normalizeSwitchPath(window.location.pathname) === candidate) {
+      return
+    }
+
+    if (await canReachPath(candidate)) {
+      window.location.assign(candidate)
+      return
+    }
   }
 
-  // 构建目标路径
-  let targetPath = ''
-  if (lang === 'en') {
-    // 英文加前缀
-    targetPath = contentPath === '' ? '/en/' : `/en/${contentPath}/`
-  } else {
-    // 其他语言加前缀
-    targetPath = contentPath === '' ? `/${lang}/` : `/${lang}/${contentPath}/`
-  }
-
-  const normalizePath = (value) => value.replace(/\/+$/, '') || '/'
-  const currentBrowserPath = typeof window !== 'undefined'
-    ? normalizePath(window.location.pathname)
-    : normalizePath(`/${currentPath}`)
-  const normalizedTargetPath = normalizePath(targetPath)
-
-  if (targetPath && currentBrowserPath !== normalizedTargetPath && typeof window !== 'undefined') {
-    window.location.assign(targetPath)
-  }
+  window.location.assign(buildLocaleRootPath(lang))
 }
 
 // 点击页面其他地方关闭下拉菜单和移动端菜单
