@@ -1,5 +1,5 @@
 ---
-title: "Grape Seed Oil Processing Guide: Cold Press Process and Produc..."
+title: "Grape Seed Oil Processing Guide | Cold Press Line Quote"
 description: A practical grape seed oil processing guide covering cold press positioning, seed preparation, filtration, oxidation control, and line planning.
 keywords: hydraulic oil press machine, edible oil processing, oil press guide, oil processing line
 date: "2026-03-07"

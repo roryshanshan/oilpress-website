@@ -91,7 +91,7 @@ The biggest practical difference is not only the machine shape. It is the produc
 | **Oil Yield** | ⭐⭐⭐⭐⭐ Higher (95%+) | ⭐⭐⭐ Moderate (85–92%) |
 | **Oil Quality / Clarity** | ⭐⭐⭐⭐⭐ Excellent (less heat, less oxidation) | ⭐⭐⭐ Good (more heat generated) |
 | **Pressing Speed** | Slower (batch process) | Faster (continuous operation) |
-| **Daily Capacity** | 0.3–15 tons/day depending on model | 5–200+ tons/day |
+| **Daily Capacity** | Calculated by barrel size, batch load, cycle time, raw material, and working hours | Easier to scale by continuous feeding and line speed |
 | **Machine Cost** | Medium | Medium–High |
 | **Operating Cost** | Low (low power, minimal wear) | Medium (higher energy, more wear parts) |
 | **Maintenance** | Simple, fewer wear parts | More frequent maintenance needed |
@@ -156,22 +156,29 @@ Screw presses generate friction heat (60–120°C), which can degrade heat-sensi
 
 ---
 
-## Production Capacity: Screw Press Wins for Scale
+## Production Capacity: Barrel and Cycle Decide Hydraulic Output
 
-| Hydraulic Press Model | Daily Capacity |
+For a hydraulic oil press, production capacity should not be read from the series number alone. The series mainly tells you the pressure level and structure. Real output depends on **barrel diameter, usable batch load, pressing cycle, preparation speed, operator rhythm, and daily working hours**.
+
+| Capacity Factor | What It Means in Real Production |
 |---|---|
-| 300 Series | 0.3–0.8 tons |
-| 325–355 Series | 0.5–2 tons |
-| 400–426 Series | 2–5 tons |
-| 480–500 Series | 5–15 tons |
+| Pressing force / series | Affects pressure reserve, cake dryness, material suitability, and stability under harder oilseeds |
+| Barrel size | Decides how much material can be loaded per batch |
+| Usable batch load | Usually lower than theoretical maximum because material density and expansion differ |
+| Cycle time | Includes filling, pressing, oil drainage, cake removal, and cleaning |
+| Daily working hours | Converts batch output into actual daily processing capacity |
 
-For large edible oil factories requiring 50–200 tons per day, continuous screw presses are more practical.
+A simple planning formula is:
+
+**Daily processing capacity = usable batch load × batches per hour × working hours per day**
+
+For large edible oil factories requiring very high continuous throughput, screw presses are usually more practical. For premium batch oil, hydraulic presses are often the better fit because they give more control over pressure, temperature, oil clarity, and cake dryness.
 
 ---
 
 <div class="capacity-note">
   <strong>Practical reading:</strong>
-  Hydraulic pressing is usually selected when the finished oil value is high enough to justify batch control. Screw pressing is usually selected when the project is built around bulk throughput.
+  Do not compare hydraulic press models by a fixed tons-per-day table. Ask first about barrel configuration, realistic batch load, oilseed type, and full-cycle timing.
 </div>
 
 ## Which Should You Choose?
@@ -179,12 +186,12 @@ For large edible oil factories requiring 50–200 tons per day, continuous screw
 **Choose a Hydraulic Oil Press if:**
 - You produce premium, cold-pressed specialty oils (walnut, avocado, grape seed, pumpkin seed)
 - You require high oil yield with minimal residue
-- You operate a small to medium oil mill (under 15 tons/day)
+- You operate a batch oil workshop or premium oil line where output can be planned by barrel size and batches per day
 - You want simple operation and low maintenance costs
 - Oil quality and aroma preservation are critical (artisan oils, high-end retail)
 
 **Choose a Screw Press if:**
-- You operate a large industrial oil factory (50+ tons/day)
+- You operate a large industrial oil factory where continuous daily throughput is the main target
 - Speed and continuous operation are priorities
 - You process standard commodity oils (soybean, rapeseed, sunflower at scale)
 - You have skilled maintenance staff on-site
@@ -243,7 +250,7 @@ For small to medium operations (1–5 tons/day), most customers recover their in
 ## Related Resources
 
 - [300 Series Hydraulic Oil Press](/en/products/300) — Entry-level model for small mills
-- [500 Series Hydraulic Oil Press](/en/products/500) — Flagship large-capacity model
+- [500 Series Hydraulic Oil Press](/en/products/500) — Flagship high-pressure model
 - [How to Improve Oil Press Yield](/en/news/technology/improve-oil-yield)
 - [Oil Processing Solutions by Raw Material](/en/solutions/)
 - [Contact Us for a Custom Solution](/en/contact/)

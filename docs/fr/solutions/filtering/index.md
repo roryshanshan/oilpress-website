@@ -21,12 +21,12 @@ Les machines de filtration sont utilisées pour clarifier les liquides avant l'e
 | Page | Résumé | Entrée |
 | --- | --- | --- |
 | Page solution filtration | Explique la position de la filtration avant remplissage et raffinage | [Voir la page](/fr/solutions/filtering/) |
-| Aperçu des équipements de filtration | Convient à la clarification d'huile brute | [Voir le produit](/fr/products/filtration-equipment) |
+| Aperçu des équipements de filtration | Convient à la clarification d'huile brute | [Voir le produit](/fr/products/pneumatic-filter-press) |
 | Presse-filtre pneumatique | Convient aux petits et moyens ateliers | [Voir l'équipement](/fr/products/pneumatic-filter-press) |
 
 ## Pages liées
 
-- [Équipements de filtration](/fr/products/filtration-equipment)
+- [Équipements de filtration](/fr/products/pneumatic-filter-press)
 - [Presse-filtre pneumatique](/fr/products/pneumatic-filter-press)
 - [Série de machines de remplissage](/fr/solutions/filling/)
 - [Aperçu des solutions de remplissage](/fr/solutions/filling-packages)

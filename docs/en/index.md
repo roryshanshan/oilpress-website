@@ -60,43 +60,43 @@ keywords: hydraulic oil press price, hydraulic oil press manufacturer, oil press
   <div class="product-card">
     <img src="/images/300-325-series.webp" alt="300 Series Oil Press" />
     <h3>300 Series</h3>
-    <p>Suitable for small workshops, daily oil production 0.3-0.8 tons</p>
+    <p>Entry hot-press model; capacity is calculated by barrel size, batch load, cycle time, and working hours.</p>
     <a href="/en/products/300" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
     <img src="/images/300-325-series.webp" alt="325 Series Oil Press" />
     <h3>325 Series</h3>
-    <p>Suitable for small workshops, daily oil production 0.5-1 ton</p>
+    <p>Hot-press workhorse for small workshops; output depends on barrel configuration and batch rhythm.</p>
     <a href="/en/products/325" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="355 Series Oil Press" />
     <h3>355 Series</h3>
-    <p>Suitable for small to medium enterprises, daily oil production 1-2 tons</p>
+    <p>Stronger pressure structure for premium batch pressing and cold-press projects.</p>
     <a href="/en/products/355" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="400 Series Oil Press" />
     <h3>400 Series</h3>
-    <p>Suitable for medium enterprises, daily oil production 2-3 tons</p>
+    <p>Mid-range cold-press model; match barrel size and raw material before estimating output.</p>
     <a href="/en/products/400" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="426 Series Oil Press" />
     <h3>426 Series</h3>
-    <p>Suitable for medium to large enterprises, daily oil production 3-5 tons</p>
+    <p>Stable high-pressure option for harder oilseeds and longer production schedules.</p>
     <a href="/en/products/426" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="480 Series Oil Press" />
     <h3>480 Series</h3>
-    <p>Suitable for large enterprises, daily oil production 5-8 tons</p>
+    <p>Heavy-duty cold-press model for projects that need more pressure reserve and stable batches.</p>
     <a href="/en/products/480" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="500 Series Oil Press" />
     <h3>500 Series</h3>
-    <p>Suitable for super large enterprises, daily oil production 8-15 tons</p>
+    <p>Flagship high-pressure model; real capacity still depends on barrel setup and full-cycle timing.</p>
     <a href="/en/products/500" class="learn-more">Learn More</a>
   </div>
 </div>
@@ -225,7 +225,7 @@ keywords: hydraulic oil press price, hydraulic oil press manufacturer, oil press
 Our equipment supports soybean, peanut, sesame, rapeseed, sunflower, flaxseed, tea seed, walnut, and many other oil-bearing materials. You can review complete raw material coverage on the [solutions pages](/en/solutions/).
 
 ### How do I choose between 300/325/355/400/426/480/500 series?
-Selection depends on daily capacity, raw material characteristics, and automation needs. Start from the [product overview](/en/products/) and then contact us for a tailored recommendation.
+Selection depends on raw material, hot or cold press route, pressure requirement, barrel configuration, batch cycle, and working hours. Start from the [product overview](/en/products/) and then contact us for a tailored recommendation.
 
 ### Do you provide full line support beyond the main press?
 Yes. We provide pre-treatment, filtration, refining, dewaxing, filling, and supporting equipment. See [supporting equipment](/en/products/supporting), [oil filtration equipment](/en/products/filtration-equipment), [refining and dewaxing equipment](/en/products/refining-and-dewaxing-equipment), and [filling solutions](/en/solutions/filling-packages).

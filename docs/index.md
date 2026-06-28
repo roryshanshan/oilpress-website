@@ -6,9 +6,6 @@ head:
   - - meta
     - http-equiv: refresh
       content: 0; url=/en/
-  - - link
-    - rel: canonical
-      href: /en/
 ---
 
 <script setup>

@@ -1,5 +1,5 @@
 ---
-title: "Sesame Oil Production Line Guide: Hot Press, Cold Press, and E..."
+title: "Sesame Oil Production Line Guide | Equipment List and Quote"
 description: Understand sesame oil hot press and cold press processes, key equipment, aroma control points, and how to configure a practical hydraulic oil production line.
 keywords: sesame oil production line, sesame oil press, hydraulic oil press sesame, hot press sesame oil
 date: "2026-03-18"

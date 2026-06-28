@@ -60,43 +60,43 @@ keywords: 液压榨油机价格, 液压榨油机厂家, 榨油机报价, 采购,
   <div class="product-card">
     <img src="/images/300-325-series.webp" alt="300系列榨油机" />
     <h3>300系列</h3>
-    <p>适合小型作坊，日产油量0.3-0.8吨</p>
+    <p>入门热榨机型；产能需按榨桶尺寸、单批装料、单批周期和工时核算。</p>
     <a href="/zh/products/300" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
     <img src="/images/300-325-series.webp" alt="325系列榨油机" />
     <h3>325系列</h3>
-    <p>适合小型作坊，日产油量0.5-1吨</p>
+    <p>小型油坊热榨主力机型；实际产量取决于榨桶配置和批次节拍。</p>
     <a href="/zh/products/325" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="355系列榨油机" />
     <h3>355系列</h3>
-    <p>适合中小型企业，日产油量1-2吨</p>
+    <p>压力和结构更强，适合精品批次压榨和冷榨项目。</p>
     <a href="/zh/products/355" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="400系列榨油机" />
     <h3>400系列</h3>
-    <p>适合中型企业，日产油量2-3吨</p>
+    <p>中段冷榨机型；应先匹配榨桶尺寸和原料，再估算产量。</p>
     <a href="/zh/products/400" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="426系列榨油机" />
     <h3>426系列</h3>
-    <p>适合中大型企业，日产油量3-5吨</p>
+    <p>更稳定的高压力配置，适合较硬油料和长时间生产。</p>
     <a href="/zh/products/426" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="480系列榨油机" />
     <h3>480系列</h3>
-    <p>适合大型企业，日产油量5-8吨</p>
+    <p>重载冷榨机型，适合需要更高压力储备和稳定批次的项目。</p>
     <a href="/zh/products/480" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="500系列榨油机" />
     <h3>500系列</h3>
-    <p>适合超大型企业，日产油量8-15吨</p>
+    <p>旗舰高压力机型；真实产能仍需按榨桶和完整周期计算。</p>
     <a href="/zh/products/500" class="learn-more">了解更多</a>
   </div>
 </div>
@@ -225,7 +225,7 @@ keywords: 液压榨油机价格, 液压榨油机厂家, 榨油机报价, 采购,
 可覆盖大豆、花生、芝麻、油菜籽、向日葵籽、亚麻籽、茶籽、核桃等多种油料。可在[解决方案页面](/zh/solutions/)查看更完整的原料与工艺匹配。
 
 ### 300/325/355/400/426/480/500 系列如何选型？
-建议按日产能、原料特性、自动化需求综合评估。可先查看[产品总览](/zh/products/)，再联系销售工程师获取定制选型建议。
+建议按原料、热榨/冷榨路线、压力需求、榨桶配置、批次周期和每日工时综合评估。可先查看[产品总览](/zh/products/)，再联系销售工程师获取定制选型建议。
 
 ### 除主机外是否提供整线配套？
 提供。我们可提供预处理、过滤、精炼、脱蜡、灌装等配套设备与整线方案。可查看[配套设备](/zh/products/supporting)、[过滤设备](/zh/products/filtration-equipment)、[精炼与脱蜡设备](/zh/products/refining-and-dewaxing-equipment)与[灌装配套方案](/zh/solutions/filling-packages)。

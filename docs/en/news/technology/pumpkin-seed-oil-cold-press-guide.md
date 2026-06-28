@@ -1,5 +1,5 @@
 ---
-title: "Pumpkin Seed Oil Cold Press Guide: Premium Oil Process and Equ..."
+title: "Pumpkin Seed Oil Cold Press Guide | Equipment Selection"
 description: Learn how to produce premium pumpkin seed oil with hydraulic cold pressing, including material preparation, machine selection, filtration, and quality control.
 keywords: hydraulic oil press machine, edible oil processing, oil press guide, oil processing line
 date: "2026-03-08"

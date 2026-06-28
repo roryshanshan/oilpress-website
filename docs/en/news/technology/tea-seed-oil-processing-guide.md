@@ -1,5 +1,5 @@
 ---
-title: "Tea Seed Oil Processing Guide: Hot Press, Cold Press, and Equi..."
+title: "Tea Seed Oil Processing Guide | Hot Press and Cold Press"
 description: Learn how to process tea seed oil with hydraulic oil press machines, including hot press and cold press choices, pretreatment, and production line setup.
 keywords: hydraulic oil press machine, edible oil processing, oil press guide, oil processing line
 date: "2026-03-11"

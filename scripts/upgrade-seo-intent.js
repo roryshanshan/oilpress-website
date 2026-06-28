@@ -4,6 +4,7 @@ const path = require('path');
 const root = process.cwd();
 const docsDir = path.join(root, 'docs');
 const siteUrl = 'https://hydraulicoilpressing.opchn.com';
+const offerPriceValidUntil = '2027-12-31';
 const langs = ['en', 'zh', 'ru', 'fr', 'vi', 'bn'];
 const mainModels = ['300', '325', '355', '400', '426', '480', '500'];
 
@@ -695,6 +696,10 @@ function isSolutionDetail(relPath) {
 }
 
 function buildHeadBlock(kind, lang, relPath, name, description, sku) {
+  // JSON-LD is generated centrally in docs/.vitepress/config.js.
+  // Keep Markdown frontmatter focused on editable SEO copy only.
+  return [];
+
   const url = `${siteUrl}/${relPath.replace(/\.md$/, '')}`;
   const aboutUrl = `${siteUrl}/${lang}/about/`;
   const contactUrl = `${siteUrl}/${lang}/contact/`;
@@ -720,9 +725,17 @@ function buildHeadBlock(kind, lang, relPath, name, description, sku) {
           offers: {
             '@type': 'Offer',
             url: contactUrl,
+            price: '0',
             priceCurrency: 'USD',
+            priceValidUntil: offerPriceValidUntil,
             availability: 'https://schema.org/InStock',
             itemCondition: 'https://schema.org/NewCondition',
+            priceSpecification: {
+              '@type': 'PriceSpecification',
+              price: '0',
+              priceCurrency: 'USD',
+              valueAddedTaxIncluded: false
+            },
             seller: {
               '@type': 'Organization',
               name: 'Shengshi Hecheng',
@@ -747,8 +760,16 @@ function buildHeadBlock(kind, lang, relPath, name, description, sku) {
           offers: {
             '@type': 'Offer',
             url: contactUrl,
+            price: '0',
             priceCurrency: 'USD',
+            priceValidUntil: offerPriceValidUntil,
             availability: 'https://schema.org/InStock',
+            priceSpecification: {
+              '@type': 'PriceSpecification',
+              price: '0',
+              priceCurrency: 'USD',
+              valueAddedTaxIncluded: false
+            },
             seller: {
               '@type': 'Organization',
               name: 'Shengshi Hecheng',

@@ -1,5 +1,5 @@
 ---
-title: "How to Start a Small Cold Pressed Oil Business: Equipment, Cos..."
+title: "How to Start a Small Cold Pressed Oil Business"
 description: A practical startup guide for small cold pressed oil businesses covering product selection, machine configuration, filtration, packaging
 keywords: cold pressed oil business, hydraulic oil press business, small oil mill startup, cold press oil machine
 date: "2026-03-20"

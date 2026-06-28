@@ -1,4 +1,4 @@
-import { readdirSync, readFileSync } from 'node:fs'
+import { existsSync, readdirSync, readFileSync } from 'node:fs'
 
 const zhFillingSeriesSidebarItems = [
   {
@@ -1023,6 +1023,7 @@ const ORGANIZATION_ID = `${SITE_URL}/#organization`
 const WEBSITE_ID = `${SITE_URL}/#website`
 const DEFAULT_IMAGE = `${SITE_URL}/images/hero-oil-press.webp`
 const DEFAULT_DESCRIPTION = 'Professional Hydraulic Oil Press Manufacturer and One-stop Oil Processing Solutions.'
+const OFFER_PRICE_VALID_UNTIL = '2027-12-31'
 const LOCALE_CODES = { en: 'en', zh: 'zh-CN', fr: 'fr', ru: 'ru', vi: 'vi', bn: 'bn' }
 const PRODUCT_COLLECTION_SLUGS = new Set([
   'supporting',
@@ -1399,6 +1400,12 @@ const getSeriesLabel = (lang, model) => {
 const buildLocalizedPath = (lang, path) => {
   const normalized = path.startsWith('/') ? path : `/${path}`
   return lang === 'en' ? `/en${normalized}` : `/${lang}${normalized}`
+}
+
+const routeExists = (route = '/') => {
+  const normalized = route.endsWith('/') ? `${route}index` : route
+  const relative = normalized.replace(/^\//, '')
+  return existsSync(new URL(`../${relative}.md`, import.meta.url))
 }
 
 const normalizeSchemaRoute = (route = '/') => {
@@ -1864,9 +1871,17 @@ const buildProductSchema = ({ canonical, pageName, description, langCode, lang, 
     offers: {
       '@type': 'Offer',
       url: contactUrl,
+      price: '0',
       priceCurrency: 'USD',
+      priceValidUntil: OFFER_PRICE_VALID_UNTIL,
       availability: 'https://schema.org/InStock',
       itemCondition: 'https://schema.org/NewCondition',
+      priceSpecification: {
+        '@type': 'PriceSpecification',
+        price: '0',
+        priceCurrency: 'USD',
+        valueAddedTaxIncluded: false
+      },
       hasMerchantReturnPolicy: {
         '@type': 'MerchantReturnPolicy',
         merchantReturnLink: returnPolicyUrl
@@ -2257,10 +2272,18 @@ export default {
       }
     }
 
-    const altHrefs = allLangs.map((locale) => {
-      const href = routeSuffix ? `${SITE_URL}/${locale}${routeSuffix}` : `${SITE_URL}/${locale}/`
-      return { hreflang: LOCALE_CODES[locale], href }
-    })
+    const altHrefs = allLangs
+      .map((locale) => {
+        const localizedRoute = routeSuffix ? `/${locale}${routeSuffix}` : `/${locale}/`
+        return {
+          locale,
+          route: localizedRoute,
+          hreflang: LOCALE_CODES[locale],
+          href: `${SITE_URL}${localizedRoute}`
+        }
+      })
+      .filter(({ route }) => routeExists(route))
+    const xDefaultRoute = routeSuffix && routeExists(`/en${routeSuffix}`) ? `/en${routeSuffix}` : '/en/'
 
     const isHome = segments.length === 0
     const isLocalizedHome = route !== '/' && isHome
@@ -2392,7 +2415,7 @@ export default {
       ...(pageData.frontmatter?.title ? [['meta', { property: 'og:title', content: pageData.frontmatter.title }]] : []),
       ...(pageData.frontmatter?.description ? [['meta', { property: 'og:description', content: pageData.frontmatter.description }]] : []),
       ...altHrefs.map(({ hreflang, href }) => ['link', { rel: 'alternate', hreflang, href }]),
-      ['link', { rel: 'alternate', hreflang: 'x-default', href: `${SITE_URL}/en/` }],
+      ['link', { rel: 'alternate', hreflang: 'x-default', href: `${SITE_URL}${xDefaultRoute}` }],
       ['script', { type: 'application/ld+json' }, JSON.stringify(breadcrumbSchema)],
       ...pageSchemas.map((schema) => ['script', { type: 'application/ld+json' }, JSON.stringify(schema)])
     ]
@@ -3236,6 +3259,7 @@ s0.parentNode.insertBefore(s1,s0);
       themeConfig: {
         nav: [
           { text: 'Home', link: '/en/' },
+          { text: 'Get Price & Quote', link: '/en/contact/' },
           {
             text: 'Products',
             link: '/en/products/',

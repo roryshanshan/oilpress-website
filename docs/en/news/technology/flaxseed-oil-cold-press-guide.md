@@ -1,5 +1,5 @@
 ---
-title: "Flaxseed Oil Cold Press Guide: Process, Machine Selection, and..."
+title: "Flaxseed Oil Cold Press Guide | Process and Machine Selection"
 description: A practical flaxseed oil cold press guide covering low-temperature processing, hydraulic oil press selection, oxidation control, and packaging tips.
 keywords: hydraulic oil press machine, edible oil processing, oil press guide, oil processing line
 date: "2026-03-10"
