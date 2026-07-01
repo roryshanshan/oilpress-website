@@ -26,7 +26,7 @@ Peanut is an important oilseed and cash crop, and peanut oil has unique aroma an
 + Peanut Oil (Aromatic Type) Hot Pressing Process: Crush peanuts - flat-bottomed wok frying peanut grits - directly feed into hydraulic oil press bucket for pressing
    + The peanut oil produced by this process has a rich aroma, golden and bright color, good taste, and does not require hydration treatment with no foaming when cooking.
    + Basically no filtration treatment is needed, just sedimentation and bottling. This is the pressing process adopted by COFCO Group's premium peanut oil (the crushing, frying, pressing, and filtration equipment for this project are provided by our factory).
-   + ![](/images/花生热榨工艺.png)
+   + ![Peanut hot pressing process](/images/花生热榨工艺.png)
 
 ## Processing Technology Videos
 

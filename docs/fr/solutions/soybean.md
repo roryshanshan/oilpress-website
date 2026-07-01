@@ -27,11 +27,11 @@ Le soja est l'une des principales cultures oléagineuses mondiales, et l'huile d
 
 ### Procédé de pressage à froid
 - Broyage à haute vitesse de soja suivi de pressage
-- ![](/images/大豆冷榨工艺.png)
+- ![Soja processus de pressage à froid](/images/大豆冷榨工艺.png)
 
 ### Procédé de pressage à chaud
 - Broyage de soja en forme d'embryon (broyage) - cuisson à la vapeur - pressage
-- ![](/images/大豆热榨工艺.png)
+- ![Soja processus de pressage à chaud](/images/大豆热榨工艺.png)
 
 La vidéo suivante montre le processus de transformation du soja par pressage à chaud :
 

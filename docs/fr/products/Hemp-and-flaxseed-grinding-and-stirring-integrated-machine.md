@@ -24,4 +24,4 @@ Cette machine est largement utilisée dans les industries pharmaceutique, chimiq
 | Poids      | Environ 400 Kg | Dimensions  | 2000×800×1500 mm |
 
 ## Images
-![](https://i.postimg.cc/ZYq7J51L/202509051417544.png?dl=1)
+![Images](https://i.postimg.cc/ZYq7J51L/202509051417544.png?dl=1)

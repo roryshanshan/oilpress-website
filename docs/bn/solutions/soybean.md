@@ -26,9 +26,9 @@ keywords: সয়াবিন (সয়াবিন অয়েল) সম�
 ## প্রক্রিয়াকরণ প্রক্রিয়া
 + সয়াবিন (সুপারিশকৃত 300AC-390/325AC-390/350AC-390/400AC-390)
  + কোল্ড প্রেসিং প্রক্রিয়া: সয়াবিন হাই-স্পিড গ্রাইন্ডিংয়ের পর প্রেস করা
- + ![](/images/大豆冷榨工艺.png)
+ + ![সয়াবিন ঠান্ডা চাপ প্রক্রিয়া](/images/大豆冷榨工艺.png)
  + হট প্রেসিং প্রক্রিয়া: সয়াবিন গ্রাইন্ড করে এমব্রায়ো আকারে (গ্রাইন্ডিং) - স্টিম করে - প্রেস করা
- + ![](/images/大豆热榨工艺.png)
+ + ![সয়াবিন গরম চাপ প্রক্রিয়া](/images/大豆热榨工艺.png)
  + সয়াবিন হট প্রেসিংয়ের প্রক্রিয়াকরণ প্রক্রিয়ার ভিডিও নিচে:
  <div class="video-container">
    <iframe src="https://www.youtube.com/embed/FoADdpLvCGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

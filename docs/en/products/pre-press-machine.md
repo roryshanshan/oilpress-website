@@ -5,7 +5,7 @@ keywords: Pre-press Machine - Shandong Shengshi Hecheng Machinery Co., Ltd. pric
 ---
 # Pre-press Machine
 
-![](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)
+![Pre-press Machine](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)
 
 ## Product Overview
 

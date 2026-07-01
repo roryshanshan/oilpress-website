@@ -114,7 +114,7 @@ Compared with traditional screw oil presses and mechanical oil presses, the **hy
   - The pressed cake can be further processed using a [Cake Pulverizer machine](/en/products/cake-pulverizer) to achieve higher oil extraction rates or can be used as animal feed directly.
 - Store the filtered peanut oil in clean, food-grade containers for distribution or further refining if necessary.
 - Configure suitable filling equipment according to the production demand, and fill the peanut oil into the bottle.
-- ![](/images/花生热榨工艺.png)
+- ![Peanut hot pressing process](/images/花生热榨工艺.png)
 ## If your working space is limited
 If your **working space** is limited, we can provide a crushing and stir-frying all-in-one machine, which integrates auto lift-feeding, crushing and roasting, with a small area and easy operation, suitable for small workshops and family workshops.
 auto lift-feeding, crushing and roasting video attached below:

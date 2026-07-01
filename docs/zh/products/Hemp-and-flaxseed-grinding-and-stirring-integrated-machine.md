@@ -25,7 +25,7 @@ keywords: 胡麻亚麻籽研磨搅拌一体机 - 山东盛世赫程机械有限�
 
 ## 产品图片
 
-![](https://i.postimg.cc/ZYq7J51L/202509051417544.png?dl=1)
+![产品图片](https://i.postimg.cc/ZYq7J51L/202509051417544.png?dl=1)
 
 ## 视频参考
 

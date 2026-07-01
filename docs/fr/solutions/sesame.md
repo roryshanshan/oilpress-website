@@ -28,7 +28,7 @@ Le sésame est une importante culture oléagineuse, et l'huile de sésame a un a
 ### Sesame Oil Hot Pressing Process
 - Roll-type wok roasting sesame then directly feeding into hydraulic oil press bucket for pressing. The sesame oil produced by this process has a rich aroma, sweet aftertaste, and does not require hydration treatment with no foaming when cooking.
 - Basically no filtration treatment is needed, just sedimentation and bottling.
-- ![](/images/芝麻热榨工艺.png)
+- ![Sésame processus de pressage à chaud](/images/芝麻热榨工艺.png)
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/qBI23dYcG2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

@@ -5,7 +5,7 @@ keywords: প্রি-প্রেস মেশিন দাম, প্রি-�
 ---
 # প্রি-প্রেস মেশিন
 
-![](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)
+![প্রি-প্রেস মেশিন](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)
 
 ## পণ্যের সারাংশ
 

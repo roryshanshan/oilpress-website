@@ -28,7 +28,7 @@ Tea seed is an important oil crop, tea seed oil has unique nutritional value and
 ### Tea Seed Oil Hot Pressing Process
 - Tea seeds go through screening, cleaning, drying, crushing, and steaming before being fed into the hydraulic oil press bucket for pressing.
 - The tea seed oil produced by this process has clear color, pure aroma, and rich nutrition.
-- ![](/images/茶籽热榨工艺.png)
+- ![Tea seed hot pressing process](/images/茶籽热榨工艺.png)
 
 ## Tea Seed Hot Pressing Process Video
 

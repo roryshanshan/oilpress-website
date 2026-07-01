@@ -28,7 +28,7 @@ La noix est une importante culture oléagineuse, l'huile de noix a une valeur nu
 + Walnut (Recommended 426AC-390/480AC-390/500AC-390)
      + Cold pressing process: Walnuts go through screening, cleaning, and high-speed crushing before being directly fed into the hydraulic oil press bucket for pressing.
      + The walnut oil produced by this process has golden color and a sweet aftertaste. The pressed oil does not require hydration treatment and does not foam when used in cooking.
-     + ![](/images/核桃冷榨工艺.png)
+     + ![Noix processus de pressage à froid](/images/核桃冷榨工艺.png)
 
 ## Vidéo de référence de pressage à froid de noix, la machine de test dans la vidéo est de type 325, non recommandée pour une utilisation en production, uniquement à titre de référence.
 

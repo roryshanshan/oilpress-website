@@ -4,7 +4,7 @@ description: Nhận báo giá và tư vấn mua Máy lọc dầu nhiều tầng 
 keywords: giá Máy lọc dầu nhiều tầng khí nén, mua Máy lọc dầu nhiều tầng khí nén, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 ---
 # Máy lọc dầu nhiều tầng khí nén
-![](https://i.postimg.cc/mR4Z4z8S/image.png?dl=1)
+![Máy lọc dầu nhiều tầng khí nén](https://i.postimg.cc/mR4Z4z8S/image.png?dl=1)
 ## Giới thiệu sản phẩm
 
 Bộ lọc dầu nhiều tầng này sử dụng inox 304 ở phần tiếp xúc vật liệu, thiết kế bề mặt sáng bóng, các khớp nối bằng inox 304 (phần nắp trên bằng đồng), đảm bảo vệ sinh và thẩm mỹ.

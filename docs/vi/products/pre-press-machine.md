@@ -5,7 +5,7 @@ keywords: giá Máy ép sơ, mua Máy ép sơ, báo giá nhà máy, nhà sản x
 ---
 # Máy ép sơ
 
-![](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)
+![Máy ép sơ](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)
 ## Giới thiệu sản phẩm
 
 Máy ép sơ này sử dụng nguyên lý nghiền xoắn, được thiết kế để vận hành hiệu quả và ổn định, tiếng ồn thấp và chi phí bảo trì thấp.

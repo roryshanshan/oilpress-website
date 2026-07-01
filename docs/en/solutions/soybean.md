@@ -27,11 +27,11 @@ Soybean is one of the world's most important oilseed crops, and soybean oil is a
 
 ### Cold Pressing Process
 - Soybean high-speed crushing followed by pressing
-- ![](/images/大豆冷榨工艺.png)
+- ![Soybean cold pressing process](/images/大豆冷榨工艺.png)
 
 ### Hot Pressing Process
 - Soybean grinding into embryo shape (crushing) - steaming - pressing
-- ![](/images/大豆热榨工艺.png)
+- ![Soybean hot pressing process](/images/大豆热榨工艺.png)
 
 The hot pressing process for soybean processing is shown in the following video:
 

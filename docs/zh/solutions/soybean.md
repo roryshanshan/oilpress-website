@@ -1,6 +1,6 @@
 ---
-title: 大豆（豆油）解决方案 - 山东盛世赫程机械有限公司报价|整线方案
-description: 获取大豆（豆油）解决方案 - 山东盛世赫程机械有限公司整线方案与报价，含工艺、设备清单与售后支持。
+title: 大豆液压榨油机｜豆油压榨方案与设备
+description: 大豆液压榨油机适合小批量物理压榨豆油，保留豆香、无溶剂残留，适合非转基因大豆冷榨与作坊式加工的选型参考。
 keywords: 大豆（豆油）解决方案 - 山东盛世赫程机械有限公司报价, 大豆（豆油）解决方案 - 山东盛世赫程机械有限公司价格, 整线方案, 生产线, 采购
 ---
 # 大豆（豆油）解决方案
@@ -26,9 +26,9 @@ keywords: 大豆（豆油）解决方案 - 山东盛世赫程机械有限公司�
 ## 加工工艺
 + 大豆(建议 300AC-390/325AC-390/350AC-390/400AC-390)
  + 冷榨工艺：大豆高速粉碎后进行压榨
- + ![](/images/大豆冷榨工艺.png)
+ + ![大豆冷榨工艺](/images/大豆冷榨工艺.png)
  + 热榨工艺：大豆磨成胚状（粉碎）一 蒸熟-一压榨
- + ![](/images/大豆热榨工艺.png)
+ + ![大豆热榨工艺](/images/大豆热榨工艺.png)
  + 大豆热榨的加工工艺的视频如下：
  <div class="video-container">
   <iframe src="https://www.youtube.com/embed/FoADdpLvCGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

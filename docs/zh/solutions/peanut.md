@@ -1,6 +1,6 @@
 ---
-title: 花生（花生油）解决方案 - 山东盛世赫程机械有限公司报价|整线方案
-description: 获取花生（花生油）解决方案 - 山东盛世赫程机械有限公司整线方案与报价，含工艺、设备清单与售后支持。
+title: 花生液压榨油机｜花生油压榨方案与设备
+description: 花生液压榨油机采用热榨工艺，出油率高、花生油香味浓郁，适合花生浓香油作坊与中小型油厂，提供整线配置与选型建议。
 keywords: 花生（花生油）解决方案 - 山东盛世赫程机械有限公司报价, 花生（花生油）解决方案 - 山东盛世赫程机械有限公司价格, 整线方案, 生产线, 采购
 ---
 # 花生（花生油）解决方案
@@ -29,7 +29,7 @@ keywords: 花生（花生油）解决方案 - 山东盛世赫程机械有限公�
 + 花生油（浓香型）热榨压榨工艺：粉碎花生 - 平底炒锅炒制花生糁 一直接入液压榨油机料桶压榨
    + 采用此工艺压榨的花生油，香味浓郁，金黄透亮，入口口感好，压榨出的油不用水化处理，下锅不起泡。
    + 基本不需要过滤处理，沉淀装瓶即可，中粮集团高端花生油采用的压榨工艺（该项目粉碎、炒料，压榨，过滤设备由我厂提供）。
-   + ![](/images/花生热榨工艺.png)    
+   + ![花生热榨工艺](/images/花生热榨工艺.png)    
 
 
 ## 加工工艺视频
@@ -47,6 +47,17 @@ keywords: 花生（花生油）解决方案 - 山东盛世赫程机械有限公�
   <iframe src="https://www.youtube.com/embed/NoGVyosPoeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
+## 花生油整套设备装车发货视频
+
+<div class="video-seo-card">
+  <h3>花生油热榨生产线设备发货现场</h3>
+  <p>该视频展示江苏客户花生油压榨整套设备装车发货现场，包含花生榨油机、电炒锅、预榨机、滤油机等关键设备。适合正在采购花生油生产线、比较厂家报价、评估交期和售后安装方案的客户参考。</p>
+  <video controls preload="metadata" playsinline poster="/videos/oil-press/peanut-oil-pressing-line-shipping-demo-20251105.jpg">
+    <source src="/videos/oil-press/peanut-oil-pressing-line-shipping-demo-20251105.mp4" type="video/mp4">
+  </video>
+  <p><a class="video-seo-cta" href="/zh/contact/">获取花生油热榨生产线厂家报价</a></p>
+</div>
 
 ## 产品介绍
 

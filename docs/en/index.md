@@ -32,7 +32,7 @@ keywords: hydraulic oil press price, hydraulic oil press manufacturer, oil press
     <div class="hero-buttons">
       <a href="/en/products/" class="primary-button">View Products</a>
       <a href="/en/contact/" class="contact-link-button">Get Price & Quote</a>
-      <a href="https://hydraulic-oil-press.com/" class="secondary-button" target="_blank" rel="noopener">Official Website</a>
+      <a href="/en/" class="secondary-button">Back to Home</a>
     </div>
   </div>
   <div class="hero-image">

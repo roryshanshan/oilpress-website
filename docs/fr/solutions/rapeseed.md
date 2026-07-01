@@ -28,7 +28,7 @@ Le colza est une importante culture oléagineuse, l'huile de colza est l'une des
 ### Procédé de pressage à chaud de l'huile de colza
 - Le colza subit des processus de nettoyage, de concassage, de friture et de cuisson à la vapeur avant d'être introduit dans le seau de presse à huile hydraulique pour le pressage.
 - L'huile de colza produite par ce processus a un rendement en huile élevé, une couleur dorée et une saveur fraîche.
-- ![](/images/菜籽热榨工艺.png)
+- ![Colza processus de pressage à chaud](/images/菜籽热榨工艺.png)
 
 ## Vidéo du processus de pressage à chaud du colza
 

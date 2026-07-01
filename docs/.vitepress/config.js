@@ -1267,7 +1267,7 @@ const ROUTE_LABELS = {
     industry: 'Tin ngành',
     technology: 'Kiến thức kỹ thuật',
     about: 'Về chúng tôi',
-    contact: 'Nhận giá & báo giá',
+    contact: 'Nhận báo giá',
     advantages: 'Ưu điểm',
     supporting: 'Thiết bị hỗ trợ',
     'pre-treatment': 'Thiết bị tiền xử lý',
@@ -1748,6 +1748,89 @@ const getCollectionItemList = (lang, section, segments) => {
       url: `${SITE_URL}${buildLocalizedPath(lang, normalizedPath)}`
     }
   })
+}
+
+
+const PAGE_VIDEO_SCHEMA = {
+  '/zh/products/325': [
+    {
+      name: '325型液压榨油机发货实拍视频',
+      description: '展示325系列液压榨油机单桶机型装车发货现场，适合比较榨油机价格、厂家供货能力、交期和售后支持的客户参考。',
+      slug: '325-hydraulic-oil-press-shipping-demo-20240624',
+      uploadDate: '2024-06-24',
+      duration: 'PT11S'
+    }
+  ],
+  '/zh/products/500': [
+    {
+      name: '500型液压榨油机厂家发货视频',
+      description: '展示500系列液压榨油机工厂发货实拍，适合核桃油、茶籽油、亚麻籽油、杏仁油等冷榨生产线采购客户参考。',
+      slug: '500-hydraulic-oil-press-shipping-demo-20251116',
+      uploadDate: '2025-11-16',
+      duration: 'PT16S'
+    }
+  ],
+  '/zh/solutions/tea-seed': [
+    {
+      name: '茶籽油冷榨试机视频',
+      description: '展示茶籽粉碎后直接冷榨试机现场，适合茶籽油、山茶油低温物理压榨项目客户评估设备和生产线报价。',
+      slug: 'tea-seed-oil-cold-pressing-demo-20260307',
+      uploadDate: '2026-03-07',
+      duration: 'PT23S'
+    }
+  ],
+  '/zh/solutions/peanut': [
+    {
+      name: '花生油热榨生产线设备发货视频',
+      description: '展示花生油压榨整套设备装车发货现场，包含花生榨油机、电炒锅、预榨机、滤油机等关键设备。',
+      slug: 'peanut-oil-pressing-line-shipping-demo-20251105',
+      uploadDate: '2025-11-05',
+      duration: 'PT28S'
+    }
+  ],
+  '/zh/products/11kw-high-speed-pulverizer': [
+    {
+      name: '茶籽高速粉碎机实拍视频',
+      description: '展示茶籽专用高速粉碎机运行效果，适合茶籽、核桃、杏仁、亚麻籽等冷榨生产线前处理设备采购参考。',
+      slug: 'tea-seed-high-speed-pulverizer-demo-20260607',
+      uploadDate: '2026-06-07',
+      duration: 'PT12S'
+    }
+  ],
+  '/zh/products/pneumatic-filter-press': [
+    {
+      name: '不锈钢千层滤油机成品视频',
+      description: '展示不锈钢千层精滤滤油机成品，适合液压榨油后的毛油澄清过滤、瓶装前过滤和油坊后处理设备采购参考。',
+      slug: 'stainless-steel-oil-filter-press-demo-20260605',
+      uploadDate: '2026-06-05',
+      duration: 'PT9S'
+    }
+  ]
+}
+
+const buildPageVideoSchemas = ({ route, canonical, langCode }) => {
+  const videos = PAGE_VIDEO_SCHEMA[route] || []
+
+  return videos.map((video, index) => ({
+    '@context': 'https://schema.org',
+    '@type': 'VideoObject',
+    '@id': `${canonical}#video-${index + 1}`,
+    name: video.name,
+    description: video.description,
+    thumbnailUrl: [`${SITE_URL}/videos/oil-press/${video.slug}.jpg`],
+    uploadDate: video.uploadDate,
+    duration: video.duration,
+    contentUrl: `${SITE_URL}/videos/oil-press/${video.slug}.mp4`,
+    embedUrl: canonical,
+    url: canonical,
+    inLanguage: langCode,
+    publisher: {
+      '@id': ORGANIZATION_ID
+    },
+    isPartOf: {
+      '@id': `${canonical}#webpage`
+    }
+  }))
 }
 
 const buildBreadcrumbSchema = ({ route, canonical, lang, segments, pageName }) => {
@@ -2401,6 +2484,8 @@ export default {
       }))
     }
 
+    pageSchemas.push(...buildPageVideoSchemas({ route, canonical, langCode }))
+
     const breadcrumbSchema = buildBreadcrumbSchema({
       route,
       canonical,
@@ -2581,32 +2666,32 @@ s0.parentNode.insertBefore(s1,s0);
           { text: '🏠 Home', link: '/en/' },
           { text: '💰 Get Price & Quote', link: '/en/contact/' },
           {
-            text: '🛠️ Products & Pricing',
+            text: '🛠️ Products',
             link: '/en/products/',
             items: [
-              { text: '📋 Product Overview & Quote', link: '/en/products/' },
-              { text: '300 Series Pricing', link: '/en/products/300' },
-              { text: '325 Series Pricing', link: '/en/products/325' },
-              { text: '355 Series Pricing', link: '/en/products/355' },
-              { text: '400 Series Pricing', link: '/en/products/400' },
-              { text: '426 Series Pricing', link: '/en/products/426' },
-              { text: '480 Series Pricing', link: '/en/products/480' },
-              { text: '500 Series Pricing', link: '/en/products/500' },
-              { text: 'Korean Type Small Press Pricing', link: '/en/products/korean-type-small-hydraulic-oil-press-machine' },
-              { text: '🧪 Oil Filtration Equipment Quote', link: '/en/products/filtration-equipment' },
-              { text: '✨ Refining & Dewaxing Quote', link: '/en/products/refining-and-dewaxing-equipment' },
-              { text: '📦 Filling & Packaging Quote', link: '/en/products/filling-equipment' },
-              { text: '🔧 Supporting Equipment Quote', link: '/en/products/supporting' }
+              { text: '📋 Product Overview', link: '/en/products/' },
+              { text: '300 Series', link: '/en/products/300' },
+              { text: '325 Series', link: '/en/products/325' },
+              { text: '355 Series', link: '/en/products/355' },
+              { text: '400 Series', link: '/en/products/400' },
+              { text: '426 Series', link: '/en/products/426' },
+              { text: '480 Series', link: '/en/products/480' },
+              { text: '500 Series', link: '/en/products/500' },
+              { text: 'Korean Type Small Hydraulic Oil Press', link: '/en/products/korean-type-small-hydraulic-oil-press-machine' },
+              { text: '🧪 Oil Filtration Equipment', link: '/en/products/filtration-equipment' },
+              { text: '✨ Refining & Dewaxing Equipment', link: '/en/products/refining-and-dewaxing-equipment' },
+              { text: '📦 Filling & Packaging Equipment', link: '/en/products/filling-equipment' },
+              { text: '🔧 Supporting Equipment', link: '/en/products/supporting' }
             ]
           },
           {
-            text: '💡 Solutions & Quotes',
+            text: '💡 Solutions',
             link: '/en/solutions/',
             items: [
-              { text: '📚 Solutions Overview & Quote', link: '/en/solutions/' },
-              { text: '🏭 Production Lines Quote', link: '/en/solutions/production-lines' },
-              { text: '🌾 By Oil Type Quote', link: '/en/solutions/seed-oils' },
-              { text: '📦 Filling Packages Quote', link: '/en/solutions/filling-packages' }
+              { text: '📚 Solutions Overview', link: '/en/solutions/' },
+              { text: '🏭 Production Lines', link: '/en/solutions/production-lines' },
+              { text: '🌾 By Oil Type', link: '/en/solutions/seed-oils' },
+              { text: '📦 Filling Packages', link: '/en/solutions/filling-packages' }
             ]
           },
           { text: '⭐ Advantages', link: '/en/advantages/' },
@@ -2621,56 +2706,56 @@ s0.parentNode.insertBefore(s1,s0);
               items: [
                 { text: 'Product Overview', link: '/en/products/' },
                 {
-                  text: '300 Series Pricing',
+                  text: '300 Series',
                   collapsed: true,
                   items: [
                     { text: 'Series Overview', link: '/en/products/300' }
                   ]
                 },
                 {
-                  text: '325 Series Pricing',
+                  text: '325 Series',
                   collapsed: true,
                   items: [
                     { text: 'Series Overview', link: '/en/products/325' }
                   ]
                 },
                 {
-                  text: '355 Series Pricing',
+                  text: '355 Series',
                   collapsed: true,
                   items: [
                     { text: 'Series Overview', link: '/en/products/355' }
                   ]
                 },
                 {
-                  text: '400 Series Pricing',
+                  text: '400 Series',
                   collapsed: true,
                   items: [
                     { text: 'Series Overview', link: '/en/products/400' }
                   ]
                 },
                 {
-                  text: '426 Series Pricing',
+                  text: '426 Series',
                   collapsed: true,
                   items: [
                     { text: 'Series Overview', link: '/en/products/426' }
                   ]
                 },
                 {
-                  text: '480 Series Pricing',
+                  text: '480 Series',
                   collapsed: true,
                   items: [
                     { text: 'Series Overview', link: '/en/products/480' }
                   ]
                 },
                 {
-                  text: '500 Series Pricing',
+                  text: '500 Series',
                   collapsed: true,
                   items: [
                     { text: 'Series Overview', link: '/en/products/500' }
                   ]
                 },
                 {
-                  text: 'Korean Type Small Press Pricing',
+                  text: 'Korean Type Small Hydraulic Oil Press',
                   collapsed: false,
                   items: [
                     { text: 'Overview', link: '/en/products/korean-type-small-hydraulic-oil-press-machine' },
@@ -2912,35 +2997,35 @@ s0.parentNode.insertBefore(s1,s0);
           { text: '首页', link: '/zh/' },
           { text: '获取价格/报价', link: '/zh/contact/' },
           {
-            text: '产品报价',
+            text: '产品',
             link: '/zh/products/',
             items: [
-              { text: '产品概览/报价', link: '/zh/products/' },
-              { text: '300系列报价', link: '/zh/products/300' },
-              { text: '325系列报价', link: '/zh/products/325' },
-              { text: '355系列报价', link: '/zh/products/355' },
-              { text: '400系列报价', link: '/zh/products/400' },
-              { text: '426系列报价', link: '/zh/products/426' },
-              { text: '480系列报价', link: '/zh/products/480' },
-              { text: '500系列报价', link: '/zh/products/500' },
-              { text: '韩式小型液压榨油机报价', link: '/zh/products/korean-type-small-hydraulic-oil-press-machine' },
-              { text: '过滤设备报价', link: '/zh/products/filtration-equipment' },
-              { text: '精炼与脱蜡设备报价', link: '/zh/products/refining-and-dewaxing-equipment' },
-              { text: '灌装包装设备报价', link: '/zh/products/filling-equipment' },
+              { text: '产品概览', link: '/zh/products/' },
+              { text: '300系列', link: '/zh/products/300' },
+              { text: '325系列', link: '/zh/products/325' },
+              { text: '355系列', link: '/zh/products/355' },
+              { text: '400系列', link: '/zh/products/400' },
+              { text: '426系列', link: '/zh/products/426' },
+              { text: '480系列', link: '/zh/products/480' },
+              { text: '500系列', link: '/zh/products/500' },
+              { text: '韩式小型液压榨油机', link: '/zh/products/korean-type-small-hydraulic-oil-press-machine' },
+              { text: '过滤设备', link: '/zh/products/filtration-equipment' },
+              { text: '精炼与脱蜡设备', link: '/zh/products/refining-and-dewaxing-equipment' },
+              { text: '灌装包装设备', link: '/zh/products/filling-equipment' },
               { text: '设备使用说明书', link: '/zh/products/instruction-manual' },
               { text: '客户定制款液压榨油机', link: '/zh/products/customized-hydraulic-oil-press' },
               { text: '客户订货发货视频', link: '/zh/products/customer-order-shipping-video' },
-              { text: '配套设备报价', link: '/zh/products/supporting' }
+              { text: '配套设备', link: '/zh/products/supporting' }
             ]
           },
           {
-            text: '方案报价',
+            text: '解决方案',
             link: '/zh/solutions/',
             items: [
-              { text: '方案概览/报价', link: '/zh/solutions/' },
-              { text: '生产线报价', link: '/zh/solutions/production-lines' },
-              { text: '油料解决方案报价', link: '/zh/solutions/seed-oils' },
-              { text: '灌装配套报价', link: '/zh/solutions/filling-packages' }
+              { text: '方案概览', link: '/zh/solutions/' },
+              { text: '生产线', link: '/zh/solutions/production-lines' },
+              { text: '油料解决方案', link: '/zh/solutions/seed-oils' },
+              { text: '灌装配套方案', link: '/zh/solutions/filling-packages' }
             ]
           },
           { text: '公司优势', link: '/zh/advantages/' },
@@ -2950,61 +3035,61 @@ s0.parentNode.insertBefore(s1,s0);
         sidebar: {
           '/zh/products': [
             {
-              text: '产品报价',
+              text: '产品',
               collapsed: false,
               items: [
-                { text: '产品概览/报价', link: '/zh/products/' },
+                { text: '产品概览', link: '/zh/products/' },
                 {
-                  text: '300系列报价',
+                  text: '300系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述/报价', link: '/zh/products/300' }
+                    { text: '系列概述', link: '/zh/products/300' }
                   ]
                 },
                 {
-                  text: '325系列报价',
+                  text: '325系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述/报价', link: '/zh/products/325' }
+                    { text: '系列概述', link: '/zh/products/325' }
                   ]
                 },
                 {
-                  text: '355系列报价',
+                  text: '355系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述/报价', link: '/zh/products/355' }
+                    { text: '系列概述', link: '/zh/products/355' }
                   ]
                 },
                 {
-                  text: '400系列报价',
+                  text: '400系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述/报价', link: '/zh/products/400' }
+                    { text: '系列概述', link: '/zh/products/400' }
                   ]
                 },
                 {
-                  text: '426系列报价',
+                  text: '426系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述/报价', link: '/zh/products/426' }
+                    { text: '系列概述', link: '/zh/products/426' }
                   ]
                 },
                 {
-                  text: '480系列报价',
+                  text: '480系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述/报价', link: '/zh/products/480' }
+                    { text: '系列概述', link: '/zh/products/480' }
                   ]
                 },
                 {
-                  text: '500系列报价',
+                  text: '500系列',
                   collapsed: true,
                   items: [
-                    { text: '系列概述/报价', link: '/zh/products/500' }
+                    { text: '系列概述', link: '/zh/products/500' }
                   ]
                 },
                 {
-                  text: '韩式小型液压榨油机报价',
+                  text: '韩式小型液压榨油机',
                   collapsed: false,
                   items: [
                     { text: '概述', link: '/zh/products/korean-type-small-hydraulic-oil-press-machine' },
@@ -3015,7 +3100,7 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
-                  text: '过滤设备报价',
+                  text: '过滤设备',
                   collapsed: false,
                   items: [
                     { text: '概述', link: '/zh/products/filtration-equipment' },
@@ -3024,7 +3109,7 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
-                  text: '精炼与脱蜡设备报价',
+                  text: '精炼与脱蜡设备',
                   collapsed: false,
                   items: [
                     { text: '概述', link: '/zh/products/refining-and-dewaxing-equipment' },
@@ -3032,7 +3117,7 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
-                  text: '灌装包装设备报价',
+                  text: '灌装包装设备',
                   collapsed: false,
                   items: [
                     { text: '概述', link: '/zh/products/filling-equipment' },
@@ -3062,7 +3147,7 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
-                  text: '配套设备报价',
+                  text: '配套设备',
                   collapsed: false,
                   items: [
                     { text: '设备概述', link: '/zh/products/supporting' },
@@ -3100,13 +3185,13 @@ s0.parentNode.insertBefore(s1,s0);
           ],
           '/zh/solutions': [
             {
-              text: '方案报价',
+              text: '解决方案',
               collapsed: false,
               items: [
-                { text: '方案概览/报价', link: '/zh/solutions/' },
-                { text: '生产线报价', link: '/zh/solutions/production-lines' },
+                { text: '方案概览', link: '/zh/solutions/' },
+                { text: '生产线', link: '/zh/solutions/production-lines' },
                 {
-                  text: '油料解决方案报价',
+                  text: '油料解决方案',
                   collapsed: true,
                   items: [
                     {
@@ -3246,7 +3331,7 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: '专业制造 · 值得信赖 · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener">液压榨油机官网</a>',
+          message: '专业制造 · 值得信赖 · <a href="/zh/">液压榨油机官网</a>',
           copyright: '© 2025 山东盛世赫程机械有限公司'
         }
       }
@@ -3575,7 +3660,7 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'Professional Manufacturing · Trustworthy Quality · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener">Hydraulic Oil Press</a>',
+          message: 'Professional Manufacturing · Trustworthy Quality · <a href="/en/">Hydraulic Oil Press</a>',
           copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
         }
       }
@@ -3590,32 +3675,32 @@ s0.parentNode.insertBefore(s1,s0);
           { text: 'Главная', link: '/ru/' },
           { text: 'Запросить цену и расчёт', link: '/ru/contact/' },
           {
-            text: 'Продукты и цены',
+            text: 'Продукты и',
             link: '/ru/products/',
             items: [
-              { text: 'Обзор продукции и цены', link: '/ru/products/' },
-              { text: 'Серия 300 цены', link: '/ru/products/300' },
-              { text: 'Серия 325 цены', link: '/ru/products/325' },
-              { text: 'Серия 355 цены', link: '/ru/products/355' },
-              { text: 'Серия 400 цены', link: '/ru/products/400' },
-              { text: 'Серия 426 цены', link: '/ru/products/426' },
-              { text: 'Серия 480 цены', link: '/ru/products/480' },
-              { text: 'Серия 500 цены', link: '/ru/products/500' },
-              { text: 'Малый гидравлический пресс корейского типа цены', link: '/ru/products/korean-type-small-hydraulic-oil-press-machine' },
-              { text: 'Оборудование для розлива и упаковки цены', link: '/ru/products/filling-equipment' },
+              { text: 'Обзор продукции и', link: '/ru/products/' },
+              { text: 'Серия 300', link: '/ru/products/300' },
+              { text: 'Серия 325', link: '/ru/products/325' },
+              { text: 'Серия 355', link: '/ru/products/355' },
+              { text: 'Серия 400', link: '/ru/products/400' },
+              { text: 'Серия 426', link: '/ru/products/426' },
+              { text: 'Серия 480', link: '/ru/products/480' },
+              { text: 'Серия 500', link: '/ru/products/500' },
+              { text: 'Малый гидравлический пресс корейского типа', link: '/ru/products/korean-type-small-hydraulic-oil-press-machine' },
+              { text: 'Оборудование для розлива и упаковки', link: '/ru/products/filling-equipment' },
               { text: 'Руководство по Эксплуатации Оборудования', link: '/ru/products/instruction-manual' },
               { text: 'Гидравлический маслопресс на заказ', link: '/ru/products/customized-hydraulic-oil-press' },
               { text: 'Видео заказа и отгрузки клиента', link: '/ru/products/customer-order-shipping-video' },
-              { text: 'Вспомогательное оборудование цены', link: '/ru/products/supporting' }
+              { text: 'Вспомогательное оборудование', link: '/ru/products/supporting' }
             ]
           },
           {
-            text: 'Решения и цены',
+            text: 'Решения и',
             link: '/ru/solutions/',
             items: [
-              { text: 'Обзор решений и цены', link: '/ru/solutions/' },
-              { text: 'По типу масла (цены)', link: '/ru/solutions/seed-oils' },
-              { text: 'Решения для наполнения (цены)', link: '/ru/solutions/filling' }
+              { text: 'Обзор решений и', link: '/ru/solutions/' },
+              { text: 'По типу масла', link: '/ru/solutions/seed-oils' },
+              { text: 'Решения для наполнения', link: '/ru/solutions/filling' }
             ]
           },
           { text: 'Преимущества', link: '/ru/advantages/' },
@@ -3625,61 +3710,61 @@ s0.parentNode.insertBefore(s1,s0);
         sidebar: {
           '/ru/products': [
             {
-              text: 'Продукты и цены',
+              text: 'Продукты и',
               collapsed: false,
               items: [
-                { text: 'Обзор продукции и цены', link: '/ru/products/' },
+                { text: 'Обзор продукции и', link: '/ru/products/' },
                 {
-                  text: 'Серия 300 цены',
+                  text: 'Серия 300',
                   collapsed: true,
                   items: [
-                    { text: 'Обзор серии и цены', link: '/ru/products/300' }
+                    { text: 'Обзор серии и', link: '/ru/products/300' }
                   ]
                 },
                 {
-                  text: 'Серия 325 цены',
+                  text: 'Серия 325',
                   collapsed: true,
                   items: [
-                    { text: 'Обзор серии и цены', link: '/ru/products/325' }
+                    { text: 'Обзор серии и', link: '/ru/products/325' }
                   ]
                 },
                 {
-                  text: 'Серия 355 цены',
+                  text: 'Серия 355',
                   collapsed: true,
                   items: [
-                    { text: 'Обзор серии и цены', link: '/ru/products/355' }
+                    { text: 'Обзор серии и', link: '/ru/products/355' }
                   ]
                 },
                 {
-                  text: 'Серия 400 цены',
+                  text: 'Серия 400',
                   collapsed: true,
                   items: [
-                    { text: 'Обзор серии и цены', link: '/ru/products/400' }
+                    { text: 'Обзор серии и', link: '/ru/products/400' }
                   ]
                 },
                 {
-                  text: 'Серия 426 цены',
+                  text: 'Серия 426',
                   collapsed: true,
                   items: [
-                    { text: 'Обзор серии и цены', link: '/ru/products/426' }
+                    { text: 'Обзор серии и', link: '/ru/products/426' }
                   ]
                 },
                 {
-                  text: 'Серия 480 цены',
+                  text: 'Серия 480',
                   collapsed: true,
                   items: [
-                    { text: 'Обзор серии и цены', link: '/ru/products/480' }
+                    { text: 'Обзор серии и', link: '/ru/products/480' }
                   ]
                 },
                 {
-                  text: 'Серия 500 цены',
+                  text: 'Серия 500',
                   collapsed: true,
                   items: [
-                    { text: 'Обзор серии и цены', link: '/ru/products/500' }
+                    { text: 'Обзор серии и', link: '/ru/products/500' }
                   ]
                 },
                 {
-                  text: 'Малый гидравлический пресс корейского типа цены',
+                  text: 'Малый гидравлический пресс корейского типа',
                   collapsed: false,
                   items: [
                     { text: 'Обзор', link: '/ru/products/korean-type-small-hydraulic-oil-press-machine' },
@@ -3690,7 +3775,7 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
-                  text: 'Оборудование для розлива и упаковки цены',
+                  text: 'Оборудование для розлива и упаковки',
                   collapsed: false,
                   items: [
                     { text: 'Обзор', link: '/ru/products/filling-equipment' },
@@ -3732,7 +3817,7 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
-                  text: 'Вспомогательное оборудование цены',
+                  text: 'Вспомогательное оборудование',
                   collapsed: false,
                   items: [
                     { text: 'Обзор оборудования', link: '/ru/products/supporting' },
@@ -3770,12 +3855,12 @@ s0.parentNode.insertBefore(s1,s0);
           ],
           '/ru/solutions': [
             {
-              text: 'Решения и цены',
+              text: 'Решения и',
               collapsed: false,
               items: [
-                { text: 'Обзор решений и цены', link: '/ru/solutions/' },
+                { text: 'Обзор решений и', link: '/ru/solutions/' },
                 {
-                  text: 'По типу масла (цены)',
+                  text: 'По типу масла',
                   collapsed: true,
                   items: [
                     {
@@ -3837,7 +3922,7 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
-                  text: 'Решения для наполнения (цены)',
+                  text: 'Решения для наполнения',
                   collapsed: true,
                   items: [...ruFillingSeriesSidebarItems]
                 }
@@ -3913,7 +3998,7 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'Профессиональное производство · Надежное качество · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener">Hydraulic Oil Press</a>',
+          message: 'Профессиональное производство · Надежное качество · <a href="/ru/">Hydraulic Oil Press</a>',
           copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
         }
       }
@@ -3931,7 +4016,7 @@ s0.parentNode.insertBefore(s1,s0);
             text: 'Produits & Prix',
             link: '/fr/products/',
             items: [
-              { text: 'Aperçu produits & devis', link: '/fr/products/' },
+              { text: 'Aperçu produits', link: '/fr/products/' },
               { text: 'Série 300 (prix)', link: '/fr/products/300' },
               { text: 'Série 325 (prix)', link: '/fr/products/325' },
               { text: 'Série 355 (prix)', link: '/fr/products/355' },
@@ -3944,16 +4029,16 @@ s0.parentNode.insertBefore(s1,s0);
               { text: 'Manuel d\'Instructions de l\'Équipement', link: '/fr/products/instruction-manual' },
               { text: 'Presse hydraulique sur mesure', link: '/fr/products/customized-hydraulic-oil-press' },
               { text: 'Vidéo d\'expédition de commande client', link: '/fr/products/customer-order-shipping-video' },
-              { text: 'Équipements complémentaires (devis)', link: '/fr/products/supporting' }
+              { text: 'Équipements complémentaires', link: '/fr/products/supporting' }
             ]
           },
           {
-            text: 'Solutions & Devis',
+            text: 'Solutions',
             link: '/fr/solutions/',
             items: [
-              { text: 'Aperçu des solutions & devis', link: '/fr/solutions/' },
+              { text: 'Aperçu des solutions', link: '/fr/solutions/' },
               { text: 'Par type d\'huile', link: '/fr/solutions/seed-oils' },
-              { text: 'Solutions de remplissage (devis)', link: '/fr/solutions/filling' }
+              { text: 'Solutions de remplissage', link: '/fr/solutions/filling' }
             ]
           },
           { text: 'Avantages', link: '/fr/advantages/' },
@@ -3966,54 +4051,54 @@ s0.parentNode.insertBefore(s1,s0);
               text: 'Produits & Prix',
               collapsed: false,
               items: [
-                { text: 'Aperçu produits & devis', link: '/fr/products/' },
+                { text: 'Aperçu produits', link: '/fr/products/' },
                 {
                   text: 'Série 300 (prix)',
                   collapsed: true,
                   items: [
-                    { text: 'Aperçu de la série & devis', link: '/fr/products/300' }
+                    { text: 'Aperçu de la série', link: '/fr/products/300' }
                   ]
                 },
                 {
                   text: 'Série 325 (prix)',
                   collapsed: true,
                   items: [
-                    { text: 'Aperçu de la série & devis', link: '/fr/products/325' }
+                    { text: 'Aperçu de la série', link: '/fr/products/325' }
                   ]
                 },
                 {
                   text: 'Série 355 (prix)',
                   collapsed: true,
                   items: [
-                    { text: 'Aperçu de la série & devis', link: '/fr/products/355' }
+                    { text: 'Aperçu de la série', link: '/fr/products/355' }
                   ]
                 },
                 {
                   text: 'Série 400 (prix)',
                   collapsed: true,
                   items: [
-                    { text: 'Aperçu de la série & devis', link: '/fr/products/400' }
+                    { text: 'Aperçu de la série', link: '/fr/products/400' }
                   ]
                 },
                 {
                   text: 'Série 426 (prix)',
                   collapsed: true,
                   items: [
-                    { text: 'Aperçu de la série & devis', link: '/fr/products/426' }
+                    { text: 'Aperçu de la série', link: '/fr/products/426' }
                   ]
                 },
                 {
                   text: 'Série 480 (prix)',
                   collapsed: true,
                   items: [
-                    { text: 'Aperçu de la série & devis', link: '/fr/products/480' }
+                    { text: 'Aperçu de la série', link: '/fr/products/480' }
                   ]
                 },
                 {
                   text: 'Série 500 (prix)',
                   collapsed: true,
                   items: [
-                    { text: 'Aperçu de la série & devis', link: '/fr/products/500' }
+                    { text: 'Aperçu de la série', link: '/fr/products/500' }
                   ]
                 },
                 {
@@ -4070,7 +4155,7 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
-                  text: 'Équipements complémentaires (devis)',
+                  text: 'Équipements complémentaires',
                   collapsed: false,
                   items: [
                     { text: 'Aperçu des équipements', link: '/fr/products/supporting' },
@@ -4108,10 +4193,10 @@ s0.parentNode.insertBefore(s1,s0);
           ],
           '/fr/solutions': [
             {
-              text: 'Solutions & Devis',
+              text: 'Solutions',
               collapsed: false,
               items: [
-                { text: 'Aperçu des solutions & devis', link: '/fr/solutions/' },
+                { text: 'Aperçu des solutions', link: '/fr/solutions/' },
                 {
                   text: 'Par type d\'huile',
                   collapsed: true,
@@ -4175,7 +4260,7 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
-                  text: 'Solutions de remplissage (devis)',
+                  text: 'Solutions de remplissage',
                   collapsed: true,
                   items: [...frFillingSeriesSidebarItems]
                 }
@@ -4251,7 +4336,7 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'Fabrication professionnelle · Qualité fiable · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener">Hydraulic Oil Press</a>',
+          message: 'Fabrication professionnelle · Qualité fiable · <a href="/fr/">Hydraulic Oil Press</a>',
           copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
         }
       }
@@ -4264,25 +4349,25 @@ s0.parentNode.insertBefore(s1,s0);
       themeConfig: {
         nav: [
           { text: 'Trang chủ', link: '/vi/' },
-          { text: 'Nhận giá & báo giá', link: '/vi/contact/' },
+          { text: 'Nhận báo giá', link: '/vi/contact/' },
           {
-            text: 'Sản phẩm & Báo giá',
+            text: 'Sản phẩm',
             link: '/vi/products/',
             items: [
-              { text: 'Tổng quan sản phẩm & Báo giá', link: '/vi/products/' },
-              { text: 'Dòng 300 báo giá', link: '/vi/products/300' },
-              { text: 'Dòng 325 báo giá', link: '/vi/products/325' },
-              { text: 'Dòng 355 báo giá', link: '/vi/products/355' },
-              { text: 'Dòng 400 báo giá', link: '/vi/products/400' },
-              { text: 'Dòng 426 báo giá', link: '/vi/products/426' },
-              { text: 'Dòng 480 báo giá', link: '/vi/products/480' },
-              { text: 'Dòng 500 báo giá', link: '/vi/products/500' },
-              { text: 'Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc báo giá', link: '/vi/products/korean-type-small-hydraulic-oil-press-machine' },
-              { text: 'Thiết bị chiết rót và đóng gói báo giá', link: '/vi/products/filling-equipment' },
-              { text: 'Thiết bị hỗ trợ báo giá', link: '/vi/products/supporting' }
+              { text: 'Tổng quan sản phẩm', link: '/vi/products/' },
+              { text: 'Dòng 300', link: '/vi/products/300' },
+              { text: 'Dòng 325', link: '/vi/products/325' },
+              { text: 'Dòng 355', link: '/vi/products/355' },
+              { text: 'Dòng 400', link: '/vi/products/400' },
+              { text: 'Dòng 426', link: '/vi/products/426' },
+              { text: 'Dòng 480', link: '/vi/products/480' },
+              { text: 'Dòng 500', link: '/vi/products/500' },
+              { text: 'Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc', link: '/vi/products/korean-type-small-hydraulic-oil-press-machine' },
+              { text: 'Thiết bị chiết rót và đóng gói', link: '/vi/products/filling-equipment' },
+              { text: 'Thiết bị hỗ trợ', link: '/vi/products/supporting' }
             ]
           },
-          { text: 'Giải pháp & Báo giá', link: '/vi/solutions/' },
+          { text: 'Giải pháp', link: '/vi/solutions/' },
           { text: 'Ưu điểm', link: '/vi/advantages/' },
           { text: 'Tin tức', link: '/vi/news/' },
           { text: 'Về chúng tôi', link: '/vi/about/' },
@@ -4290,61 +4375,61 @@ s0.parentNode.insertBefore(s1,s0);
         sidebar: {
           '/vi/products': [
             {
-              text: 'Sản phẩm & Báo giá',
+              text: 'Sản phẩm',
               collapsed: false,
               items: [
-                { text: 'Tổng quan sản phẩm & Báo giá', link: '/vi/products/' },
+                { text: 'Tổng quan sản phẩm', link: '/vi/products/' },
                 {
-                  text: 'Dòng 300 báo giá',
+                  text: 'Dòng 300',
                   collapsed: true,
                   items: [
-                    { text: 'Tổng quan dòng & Báo giá', link: '/vi/products/300' }
+                    { text: 'Tổng quan dòng', link: '/vi/products/300' }
                   ]
                 },
                 {
-                  text: 'Dòng 325 báo giá',
+                  text: 'Dòng 325',
                   collapsed: true,
                   items: [
-                    { text: 'Tổng quan dòng & Báo giá', link: '/vi/products/325' }
+                    { text: 'Tổng quan dòng', link: '/vi/products/325' }
                   ]
                 },
                 {
-                  text: 'Dòng 355 báo giá',
+                  text: 'Dòng 355',
                   collapsed: true,
                   items: [
-                    { text: 'Tổng quan dòng & Báo giá', link: '/vi/products/355' }
+                    { text: 'Tổng quan dòng', link: '/vi/products/355' }
                   ]
                 },
                 {
-                  text: 'Dòng 400 báo giá',
+                  text: 'Dòng 400',
                   collapsed: true,
                   items: [
-                    { text: 'Tổng quan dòng & Báo giá', link: '/vi/products/400' }
+                    { text: 'Tổng quan dòng', link: '/vi/products/400' }
                   ]
                 },
                 {
-                  text: 'Dòng 426 báo giá',
+                  text: 'Dòng 426',
                   collapsed: true,
                   items: [
-                    { text: 'Tổng quan dòng & Báo giá', link: '/vi/products/426' }
+                    { text: 'Tổng quan dòng', link: '/vi/products/426' }
                   ]
                 },
                 {
-                  text: 'Dòng 480 báo giá',
+                  text: 'Dòng 480',
                   collapsed: true,
                   items: [
-                    { text: 'Tổng quan dòng & Báo giá', link: '/vi/products/480' }
+                    { text: 'Tổng quan dòng', link: '/vi/products/480' }
                   ]
                 },
                 {
-                  text: 'Dòng 500 báo giá',
+                  text: 'Dòng 500',
                   collapsed: true,
                   items: [
-                    { text: 'Tổng quan dòng & Báo giá', link: '/vi/products/500' }
+                    { text: 'Tổng quan dòng', link: '/vi/products/500' }
                   ]
                 },
                 {
-                  text: 'Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc báo giá',
+                  text: 'Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc',
                   collapsed: false,
                   items: [
                     { text: 'Tổng quan', link: '/vi/products/korean-type-small-hydraulic-oil-press-machine' },
@@ -4355,11 +4440,11 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
-                  text: 'Thiết bị chiết rót và đóng gói báo giá',
+                  text: 'Thiết bị chiết rót và đóng gói',
                   collapsed: false,
                   items: [
                     { text: 'Tổng quan', link: '/vi/products/filling-equipment' },
-                    { text: 'Giải pháp bao bì lắp đặt toàn diện (Báo giá)', link: '/vi/solutions/filling-packages' },
+                    { text: 'Giải pháp bao bì lắp đặt toàn diện', link: '/vi/solutions/filling-packages' },
                     ...viFillingSeriesSidebarItems,
                     {
                       text: 'Dòng thiết bị brewing',
@@ -4376,7 +4461,7 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
-                  text: 'Thiết bị hỗ trợ báo giá',
+                  text: 'Thiết bị hỗ trợ',
                   collapsed: false,
                   items: [
                     { text: 'Tổng quan thiết bị', link: '/vi/products/supporting' },
@@ -4415,12 +4500,12 @@ s0.parentNode.insertBefore(s1,s0);
           ],
           '/vi/solutions': [
             {
-              text: 'Giải pháp & Báo giá',
+              text: 'Giải pháp',
               collapsed: false,
               items: [
-                { text: 'Tổng quan giải pháp & Báo giá', link: '/vi/solutions/' },
+                { text: 'Tổng quan giải pháp', link: '/vi/solutions/' },
                 {
-                  text: 'Theo loại dầu (Báo giá)',
+                  text: 'Theo loại dầu',
                   collapsed: true,
                   items: [
                     { text: 'Tổng quan', link: '/vi/solutions/seed-oils' },
@@ -4432,7 +4517,7 @@ s0.parentNode.insertBefore(s1,s0);
                   ]
                 },
                 {
-                  text: 'Giải pháp chiết rót đồng bộ (Báo giá)',
+                  text: 'Giải pháp chiết rót đồng bộ',
                   collapsed: true,
                   items: [...viFillingSeriesSidebarItems]
                 }
@@ -4508,7 +4593,7 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'Sản xuất chuyên nghiệp · Chất lượng đáng tin cậy · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener">Hydraulic Oil Press</a>',
+          message: 'Sản xuất chuyên nghiệp · Chất lượng đáng tin cậy · <a href="/vi/">Hydraulic Oil Press</a>',
           copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
         }
       }
@@ -4846,7 +4931,7 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'পেশাদার উৎপাদন · বিশ্বস্ত গুণমান · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener">Hydraulic Oil Press</a>',
+          message: 'পেশাদার উৎপাদন · বিশ্বস্ত গুণমান · <a href="/bn/">Hydraulic Oil Press</a>',
           copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
         }
       }

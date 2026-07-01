@@ -10,7 +10,7 @@ const blocks = {
     block: [
       '### Get a Quote / Official Website',
       'For pricing, configuration, and delivery time, visit:',
-      '[Hydraulic Oil Press](https://hydraulic-oil-press.com/)' ,
+      '[Hydraulic Oil Press](/en/)' ,
       ''
     ].join('\n')
   },
@@ -19,14 +19,14 @@ const blocks = {
     block: [
       '### 获取报价 / 官方网站',
       '价格、配置与交期咨询请访问：',
-      '[液压榨油机官网](https://hydraulic-oil-press.com/)',
+      '[液压榨油机官网](/zh/)',
       ''
     ].join('\n')
   }
 };
 
 function insertBlock(content, heading, block) {
-  if (content.includes('https://hydraulic-oil-press.com/')) return { changed: false, content };
+  if (content.includes('### 获取报价') || content.includes('### Get a Quote')) return { changed: false, content };
   const lines = content.split(/\r?\n/);
   const idx = lines.findIndex((line) => line.trim() === heading);
   if (idx === -1) return { changed: false, content };

@@ -12,6 +12,17 @@ keywords: 11Kw高速粉碎机 - 山东盛世赫程机械有限公司价格, 11Kw
 另有15KW可选，加工量3T/h。
 
 
+## 茶籽高速粉碎机实拍视频
+
+<div class="video-seo-card">
+  <h3>茶籽专用高速粉碎机运行展示</h3>
+  <p>该视频展示茶籽专用高速粉碎机成品与运行效果，适合茶籽、核桃、杏仁、亚麻籽、火麻籽等冷榨项目前处理。对于355到500系列冷榨机型，粉碎后直接入桶压榨是常见配置，粉碎细度会影响装桶密度、出油效率和过滤负担。</p>
+  <video controls preload="metadata" playsinline poster="/videos/oil-press/tea-seed-high-speed-pulverizer-demo-20260607.jpg">
+    <source src="/videos/oil-press/tea-seed-high-speed-pulverizer-demo-20260607.mp4" type="video/mp4">
+  </video>
+  <p><a class="video-seo-cta" href="/zh/contact/">咨询粉碎机价格与冷榨生产线配套方案</a></p>
+</div>
+
 ## 规格参数
 
 | 型号 | JJ-11FS | 功率 | 11KW |

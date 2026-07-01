@@ -32,7 +32,7 @@ keywords: 液压榨油机价格, 液压榨油机厂家, 榨油机报价, 采购,
     <div class="hero-buttons">
       <a href="/zh/products/" class="primary-button">查看产品系列</a>
       <a href="/zh/contact/" class="contact-link-button">获取价格/报价</a>
-      <a href="https://hydraulic-oil-press.com/" class="secondary-button" target="_blank" rel="noopener">官方网站</a>
+      <a href="/zh/" class="secondary-button">返回首页</a>
     </div>
   </div>
   <div class="hero-image">

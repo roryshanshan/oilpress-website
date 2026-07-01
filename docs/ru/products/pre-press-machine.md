@@ -5,7 +5,7 @@ keywords: Предпресс-машина цена, купить Предпре�
 ---
 # Предпресс-машина
 
-![](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)
+![Предпресс-машина](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)
 
 ## Обзор продукта
 

@@ -26,9 +26,9 @@ keywords: Giải pháp đậu nành (Dầu đậu nành) báo giá dây chuyền
 ## 加工工艺
 + 大豆(建议 300AC-390/325AC-390/350AC-390/400AC-390)
  + 冷榨工艺：大豆高速粉碎后进行压榨
- + ![](/images/大豆冷榨工艺.png)
+ + ![Đậu nành quy trình ép lạnh](/images/大豆冷榨工艺.png)
  + 热榨工艺：大豆磨成胚状（粉碎）一 蒸熟-一压榨
- + ![](/images/大豆热榨工艺.png)
+ + ![Đậu nành quy trình ép nóng](/images/大豆热榨工艺.png)
  + 大豆热榨的加工工艺的视频如下：
  <div class="video-container">
   <iframe src="https://www.youtube.com/embed/FoADdpLvCGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

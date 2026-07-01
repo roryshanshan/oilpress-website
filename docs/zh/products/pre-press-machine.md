@@ -5,7 +5,7 @@ keywords: 预榨机 - 山东盛世赫程机械有限公司价格, 预榨机 - �
 ---
 # 预榨机
 
-![](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)
+![预榨机](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)
 ## 产品概述
 
 本预压榨机采用螺旋压碎原理，设计用于高效、稳定的运行，噪音低，易损件维护成本低。

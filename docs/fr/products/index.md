@@ -79,21 +79,21 @@ Notre équipe de service de personnalisation peut fournir des solutions de press
 + La pression est à cinq pistons, haute pression de travail, atteignant facilement 60 MPa pendant l'opération;
 + Équipée de vannes de décharge haute et basse pression, double décharge haute pression, pas de surpression, plus sûr;
 + La vanne de direction adopte une vanne de direction à quatre cœurs à très haute pression, pas facile à fuir et perdre la pression, plus résistante à l'usure et durable.
-![](https://i.postimg.cc/PXrT6N9K/202509011618921.png?dl=1)
+![Station de pompe](https://i.postimg.cc/PXrT6N9K/202509011618921.png?dl=1)
 
 ### 2. Moteur en cuivre pur
 + Adopte un moteur en cuivre pur, haute efficacité de travail et durabilité, qualité solide, pas facile à endommager.
-![](https://i.postimg.cc/pR7bDsP0/202509011615213.png?dl=1)
+![Moteur en cuivre pur](https://i.postimg.cc/pR7bDsP0/202509011615213.png?dl=1)
 
 ### 3. Cylindre hydraulique
 + Cylindre produit à Daye, Hubei (entreprise d'État), fabriqué en matériau de tube d'alliage 27 silicium-manganèse, le bloc cylindre est trempé par traitement thermique, performances matérielles plus stables, très haute pression pas facile à éclater, la pression peut atteindre 80 MPa;
 + Le joint d'étanchéité est importé du Japon, adopte un joint d'étanchéité combiné Glyd à anneau de maintien Y-type, plus résistant à la très haute pression, doubles joints d'étanchéité moins susceptibles de fuir, utilisant des matériaux plusieurs fois supérieurs aux matériaux ordinaires, qualité excellente, performances d'étanchéité fortes, pas facile de fuir l'huile;
 + Le piston adopte deux bandes de guidage avant et arrière, moins susceptible d'endommager la paroi intérieure du cylindre, ne se dérèglera pas et n'usera pas la paroi.
-![](https://i.postimg.cc/knHfHphZ/202509011620773.png?dl=1)
-![](https://i.postimg.cc/G3wzLsRx/202509011620379.png?dl=1)
-![](https://i.postimg.cc/hcnMNxpS/202509011621472.png?dl=1)
-![](https://i.postimg.cc/9cK9HHCG/202509011625161.png?dl=1)
-![](https://i.postimg.cc/69Zv9bpF/202509011625094.png?dl=1)
+![Cylindre hydraulique](https://i.postimg.cc/knHfHphZ/202509011620773.png?dl=1)
+![Cylindre hydraulique](https://i.postimg.cc/G3wzLsRx/202509011620379.png?dl=1)
+![Cylindre hydraulique](https://i.postimg.cc/hcnMNxpS/202509011621472.png?dl=1)
+![Cylindre hydraulique](https://i.postimg.cc/9cK9HHCG/202509011625161.png?dl=1)
+![Cylindre hydraulique](https://i.postimg.cc/69Zv9bpF/202509011625094.png?dl=1)
 Vidéo de laminage en miroir du cylindre hydraulique :
 <div class="video-container">
   <iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -113,7 +113,7 @@ Vidéo du processus de soudage du cylindre hydraulique à ultra-haute pression :
 + Le système de contrôle utilise un système à micro-ordinateur, tous les programmes sont connectés par logiciel, le fonctionnement du système de contrôle est simple;
 + Équipée de deux manomètres, de deux fusibles de contrôle électrique haute tension;
 + Les composants électriques utilisent des produits de qualité de marques connues, qualité solide et longue durée de vie.
-![](https://i.postimg.cc/fz2tCG2t/202509011631969.png?dl=1)
+![Boîte de commande](https://i.postimg.cc/fz2tCG2t/202509011631969.png?dl=1)
 
 ### 5. Baril à matériaux
 + Ce modèle est équipé d'un baril à matériaux de diamètre 390 mm;

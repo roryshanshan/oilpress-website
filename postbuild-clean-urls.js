@@ -90,6 +90,7 @@ function generateCleanUrlAliases() {
     if (!fullPath.endsWith('.html')) continue
     const entry = path.basename(fullPath)
     if (entry === 'index.html' || entry === '404.html') continue
+    if (entry.startsWith('._')) continue
 
     const basename = entry.slice(0, -5)
     const aliasDir = path.join(path.dirname(fullPath), basename)

@@ -28,7 +28,7 @@ keywords: Giải pháp mè (Dầu mè) báo giá dây chuyền, giải pháp tr�
 + 芝麻(建议300AC-390/325AC-390/355AC-390/400AC-390)
  + 芝麻油热榨工艺：滚筒炒锅炒制芝麻后直接入液压榨油机料桶压榨。采用此工艺压榨的芝麻油，香味浓郁，入口回甘，压榨出的油不用水化处理，下锅不起泡。
  + 基本不需要过滤处理，沉淀装瓶即可。
- + ![](/images/芝麻热榨工艺.png)
+ + ![Vừng quy trình ép nóng](/images/芝麻热榨工艺.png)
 
 ## 芝麻液压榨油机热榨工艺视频展示
 <div class="video-container">

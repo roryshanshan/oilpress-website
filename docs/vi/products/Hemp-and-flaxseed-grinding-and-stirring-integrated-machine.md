@@ -25,7 +25,7 @@ Máy có thể sử dụng rộng rãi trong các ngành dược phẩm, hóa ch
 
 ## Hình ảnh sản phẩm
 
-![](https://i.postimg.cc/ZYq7J51L/202509051417544.png?dl=1)
+![Hình ảnh sản phẩm](https://i.postimg.cc/ZYq7J51L/202509051417544.png?dl=1)
 
 ## Video tham khảo
 

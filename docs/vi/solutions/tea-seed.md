@@ -28,7 +28,7 @@ keywords: Giải pháp hạt trà (Dầu hạt trà) báo giá dây chuyền, gi
 + 茶籽(建议300AC-390/325AC-390/355AC-390/400AC-390)
         + 茶籽油热榨工艺：茶籽经过筛选、清洗、烘干、破碎、蒸炒后接入液压榨油机料桶压榨。
         + 采用此工艺压榨的茶籽油，色泽清亮，香味纯正，营养丰富。
-        + ![](/images/茶籽热榨工艺.png)
+        + ![Hạt trà quy trình ép nóng](/images/茶籽热榨工艺.png)
 
 ## 茶籽热榨工艺视频
 <div class="video-container">

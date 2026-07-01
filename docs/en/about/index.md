@@ -13,7 +13,7 @@ Shandong Shengshi Hecheng Machinery Co., Ltd., established in 2008, is a high-te
 ## Official Website
 
 Learn more about our latest hydraulic oil press models and complete production lines:
-[Hydraulic Oil Press](https://hydraulic-oil-press.com/)
+[Hydraulic Oil Press](/en/)
 
 ## Enterprise Strength
 

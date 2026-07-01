@@ -4,10 +4,21 @@ description: 获取气压千层滤油机 - 山东盛世赫程机械有限公司�
 keywords: 气压千层滤油机 - 山东盛世赫程机械有限公司价格, 气压千层滤油机 - 山东盛世赫程机械有限公司报价, 气压千层滤油机 - 山东盛世赫程机械有限公司厂家, 气压千层滤油机 - 山东盛世赫程机械有限公司采购, 售后服务
 ---
 # 气压千层滤油机
-![](https://i.postimg.cc/mR4Z4z8S/image.png?dl=1)
+![气压千层滤油机](https://i.postimg.cc/mR4Z4z8S/image.png?dl=1)
 ## 产品概述
 
 我们的气压千层滤油机接触物料部分均采用304不锈钢材质，整机采用不锈钢高亮镜面设计，所有接头管件部分均为304不锈钢（顶部部分为黄铜），美观卫生上档次。
+
+## 不锈钢千层滤油机实拍视频
+
+<div class="video-seo-card">
+  <h3>不锈钢滤油机成品展示</h3>
+  <p>该视频展示不锈钢千层精滤滤油机成品，适合液压榨油后的毛油澄清过滤、瓶装前过滤和小中型油坊后处理。采购滤油机时建议同时确认榨油机型号、单批出油量、油料种类和是否直接灌装销售，以便匹配过滤面积和泵组配置。</p>
+  <video controls preload="metadata" playsinline poster="/videos/oil-press/stainless-steel-oil-filter-press-demo-20260605.jpg">
+    <source src="/videos/oil-press/stainless-steel-oil-filter-press-demo-20260605.mp4" type="video/mp4">
+  </video>
+  <p><a class="video-seo-cta" href="/zh/contact/">获取不锈钢滤油机价格与过滤方案</a></p>
+</div>
 
 ## 主要特点
 

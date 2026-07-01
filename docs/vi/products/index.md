@@ -87,19 +87,19 @@ Tìm hiểu chi tiết về nguyên lý hoạt động, thành phần cơ bản 
 + Áp suất là năm piston, công suất cao, hoạt động dễ dàng đạt 60 MPa;
 + Trang bị van xả áp suất cao-thấp, xả áp suất cao kép, sẽ không vượt quá áp suất an toàn hơn;
 + Van chuyển hướng sử dụng van chuyển hướng bốn cốt siêu cao áp, không dễ bị rò rỉ áp suất, bền bỏ, bền lâu dài hơn.
-![](https://i.postimg.cc/PXrT6N9K/202509011618921.png?dl=1)
+![Trạm bơm](https://i.postimg.cc/PXrT6N9K/202509011618921.png?dl=1)
 
 ### 2.Motor đồng nguyên chất
 + Sử dụng motor đồng nguyên chất, hiệu suất hoạt động cao và bền bỏ, chất lượng cứng rắn, không dễ hỏng.
-![](https://i.postimg.cc/pR7bDsP0/202509011615213.png?dl=1)
+![Motor đồng nguyên chất](https://i.postimg.cc/pR7bDsP0/202509011615213.png?dl=1)
 ### 3.Xi lanh thủy lực
 + Địa điểm sản xuất xi lanh là Đại Dã Sơn Đông (Công ty Nhà nước), sử dụng ống hợp kim silic-mangan 27, ống xi lanh được xử lý nhiệt và ủy quyền, hiệu suất vật liệu ổn định hơn, siêu cao áp không dễ bị nổ xi lanh, áp suất có thể đạt 80 MPa;
 + Dầu của xi lanh được nhập khẩu từ Nhật Bản, sử dụng nhóm dầu cao áp Grayling kết hợp và vòng chắn nắp kép Y kết hợp, chịu siêu cao áp tốt hơn, hai lớp dầu không dễ bị rò rỉ, vật liệu được sử dụng gấp bội lần vật liệu thông thường, chất lượng cứng rắn, hiệu suất niêm phong mạnh, không dễ bị rò rỉ dầu;
 + Piston sử dụng hai dây hướng phía trước và phía sau, không dễ hỏng hóc tường xi lanh, sẽ không chạy lệch mài tường.
-![](https://i.postimg.cc/knHfHphZ/202509011620773.png?dl=1)
+![Xi lanh thủy lực](https://i.postimg.cc/knHfHphZ/202509011620773.png?dl=1)
 
-![](https://i.postimg.cc/9cK9HHCG/202509011625161.png?dl=1)
-![](https://i.postimg.cc/69Zv9bpF/202509011625094.png?dl=1)
+![Xi lanh thủy lực](https://i.postimg.cc/9cK9HHCG/202509011625161.png?dl=1)
+![Xi lanh thủy lực](https://i.postimg.cc/69Zv9bpF/202509011625094.png?dl=1)
 
 Video lăn gương xi lanh thủy lực:
 <div class="video-container">
@@ -120,7 +120,7 @@ Video kỹ thuật hàn siêu cao áp xi lanh thủy lực:
 + Hệ thống điều khiển sử dụng hệ thống vi máy tính, tất cả các chương trình được kết nối phần mềm, hệ thống điều khiển dễ hoạt động;
 + Được trang bị với hai đồng hồ đo áp suất, phanh điện cao áp kép;
 + Các linh kiện điện sử dụng các sản phẩm chất lượng của các thương hiệu nổi tiếng, chất lượng cứng rắn có tuổi thọ lâu dài.
-![](https://i.postimg.cc/fz2tCG2t/202509011631969.png?dl=1)
+![Hộp điều khiển](https://i.postimg.cc/fz2tCG2t/202509011631969.png?dl=1)
 
 
 ### 5.Bình chứa
@@ -132,7 +132,7 @@ Video kỹ thuật hàn siêu cao áp xi lanh thủy lực:
 </div>
 
 ### 6.Thanh piston
-![](https://i.postimg.cc/hcnMNxpS/202509011621472.png?dl=1)
+![Thanh piston](https://i.postimg.cc/hcnMNxpS/202509011621472.png?dl=1)
 Video xử lý tắt các cửa hàng máy ép dầu, xử lý tắt các cửa hàng piston tăng độ cứng bề mặt không bị trầy xước, kéo dài tuổi thọ xi lanh thủy lực
 <div class="video-container">
   <iframe width="700" height="330" src="https://www.youtube.com/embed/twPxOI2VQIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

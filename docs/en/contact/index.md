@@ -29,7 +29,7 @@ Postal Code: 262500
 
 ## Official Website
 
-Learn more about our hydraulic oil press solutions at [Hydraulic Oil Press](https://hydraulic-oil-press.com/).
+Learn more about our hydraulic oil press solutions at [Hydraulic Oil Press](/en/).
 
 ## Company Address
 

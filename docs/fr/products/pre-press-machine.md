@@ -5,7 +5,7 @@ keywords: Machine de pré-pressage prix, acheter Machine de pré-pressage, devis
 ---
 # Machine de pré-pressage
 
-![](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)
+![Machine de pré-pressage](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)
 
 ## Aperçu du produit
 

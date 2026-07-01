@@ -28,7 +28,7 @@ Les graines de thé sont une importante culture oléagineuse, l'huile de graines
 ### Procédé de Pressage à Chaud d'Huile de Graine de Thé
 - Les graines de thé subissent un criblage, un nettoyage, un séchage, un concassage et une cuisson à la vapeur avant d'être introduites dans le seau de presse hydraulique pour le pressage.
 - L'huile de graines de thé produite par ce processus a une couleur claire, un arôme pur et une riche nutrition.
-- ![](/images/茶籽热榨工艺.png)
+- ![Graine de thé processus de pressage à chaud](/images/茶籽热榨工艺.png)
 
 ## Vidéo du processus de pressage à chaud des graines de thé
 

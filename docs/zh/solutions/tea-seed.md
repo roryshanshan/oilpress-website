@@ -1,6 +1,6 @@
 ---
-title: 茶籽（茶籽油）解决方案 - 山东盛世赫程机械有限公司报价|整线方案
-description: 获取茶籽（茶籽油）解决方案 - 山东盛世赫程机械有限公司整线方案与报价，含工艺、设备清单与售后支持。
+title: 茶籽液压榨油机｜茶籽油/山茶油压榨方案
+description: 茶籽液压榨油机低温冷榨山茶油，保留茶多酚与不饱和脂肪酸，适合油茶产区茶籽油、山茶油物理压榨生产线。
 keywords: 茶籽（茶籽油）解决方案 - 山东盛世赫程机械有限公司报价, 茶籽（茶籽油）解决方案 - 山东盛世赫程机械有限公司价格, 整线方案, 生产线, 采购
 ---
 # 茶籽（茶籽油）解决方案
@@ -28,7 +28,7 @@ keywords: 茶籽（茶籽油）解决方案 - 山东盛世赫程机械有限公�
 + 茶籽(建议300AC-390/325AC-390/355AC-390/400AC-390)
         + 茶籽油热榨工艺：茶籽经过筛选、清洗、烘干、破碎、蒸炒后接入液压榨油机料桶压榨。
         + 采用此工艺压榨的茶籽油，色泽清亮，香味纯正，营养丰富。
-        + ![](/images/茶籽热榨工艺.png)
+        + ![茶籽热榨工艺](/images/茶籽热榨工艺.png)
 
 ## 茶籽热榨工艺视频
 <div class="video-container">
@@ -49,6 +49,17 @@ keywords: 茶籽（茶籽油）解决方案 - 山东盛世赫程机械有限公�
 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/dedion7Oq20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## 茶籽油冷榨试机视频
+
+<div class="video-seo-card">
+  <h3>茶籽粉碎后直接冷榨试机</h3>
+  <p>该视频展示茶籽油冷榨试机现场，适合希望做高端茶籽油、山茶油或低温物理压榨项目的客户参考。实际方案可根据茶籽含水率、是否剥壳、是否低温烘干、粉碎细度和日产量，匹配355/400/426/480/500系列液压榨油机、粉碎机和滤油设备。</p>
+  <video controls preload="metadata" playsinline poster="/videos/oil-press/tea-seed-oil-cold-pressing-demo-20260307.jpg">
+    <source src="/videos/oil-press/tea-seed-oil-cold-pressing-demo-20260307.mp4" type="video/mp4">
+  </video>
+  <p><a class="video-seo-cta" href="/zh/contact/">获取茶籽油冷榨生产线报价与设备清单</a></p>
 </div>
 
 ## 技术优势

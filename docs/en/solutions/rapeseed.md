@@ -28,7 +28,7 @@ Rapeseed is an important oil crop, rapeseed oil is one of the major edible oils 
 ### Rapeseed Oil Hot Pressing Process
 - Rapeseed goes through cleaning, crushing, frying and steaming processes before being fed into the hydraulic oil press bucket for pressing.
 - The rapeseed oil produced by this process has high oil yield, golden color, and fresh aroma.
-- ![](/images/菜籽热榨工艺.png)
+- ![Rapeseed hot pressing process](/images/菜籽热榨工艺.png)
 
 ## Rapeseed Hot Pressing Process Video
 
