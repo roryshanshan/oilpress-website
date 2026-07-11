@@ -2,6 +2,7 @@
 title: Machine thermorétractable pour capuchons en caoutchouc à une ...
 description: Demandez le prix et le devis pour Machine thermorétractable pour capuchons en caoutchouc à une tête. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Machine thermorétractable à capuchon en caoutchouc à tête unique prix, acheter Machine thermorétractable à capuchon en caoutchouc à tête unique, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/single-head-cap-shrinking-machine.webp"
 ---
 # Machine thermorétractable à capuchon en caoutchouc à tête unique
 

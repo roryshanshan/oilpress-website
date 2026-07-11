@@ -1,7 +1,8 @@
 ---
 title: Làm đầy và chặn hai dòng báo giá | giải pháp trọn gói
-description: Nhận báo giá Làm đầy và chặn hai dòng với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Đổ đầy và đóng nắp hai trực tuyến: quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Đổ đầy và đóng nắp hai trực tuyến báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/filling-corking-monoblock.webp"
 ---
 # Đổ đầy và đóng nắp hai trực tuyến
 

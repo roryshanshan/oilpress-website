@@ -2,6 +2,7 @@
 title: Machine combinée de rinçage, remplissage et bouchage du vin prix
 description: Demandez le prix et le devis pour Machine combinée de rinçage, remplissage et bouchage du vin. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Machine combinée de rinçage, remplissage et bouchage du vin prix, acheter Machine combinée de rinçage, remplissage et bouchage du vin, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/wine-rinsing-filling-corking-monoblock.webp"
 ---
 # Machine combinée de rinçage, remplissage et bouchage du vin
 

@@ -2,6 +2,7 @@
 title: GFP-30H low vacuum filling machine Quote | Turnkey Solution
 description: Get a quote and turnkey plan for GFP-30H low vacuum filling machine. Process design, equipment list, and after-sales support.
 keywords: GFP-30H low vacuum filling machine quote, GFP-30H low vacuum filling machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/gfp-30h-low-vacuum-filling-machine.webp"
 ---
 # GFP-30H low vacuum filling machine
 

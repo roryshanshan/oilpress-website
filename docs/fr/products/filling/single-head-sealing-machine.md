@@ -2,6 +2,7 @@
 title: Machine à sceller automatique à tête unique prix | fabricant
 description: Demandez le prix et le devis pour Machine à sceller automatique à tête unique. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Machine à sceller automatique à tête unique prix, acheter Machine à sceller automatique à tête unique, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/single-head-sealing-machine.webp"
 ---
 # Machine à sceller automatique à tête unique
 

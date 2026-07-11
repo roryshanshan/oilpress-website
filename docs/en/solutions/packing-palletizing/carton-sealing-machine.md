@@ -2,6 +2,7 @@
 title: Automatic folding and cartoning machine Quote | Turnkey Solution
 description: Get a quote and turnkey plan for Automatic folding and cartoning machine. Process design, equipment list, and after-sales support.
 keywords: Automatic folding and cartoning machine quote, Automatic folding and cartoning machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/carton-sealing-machine.webp"
 ---
 # Automatic folding and sealing machine
 

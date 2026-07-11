@@ -2,6 +2,7 @@
 title: Etiqueteuse linéaire à double étiquette entière Solution | Devis
 description: "Demandez un devis pour Etiqueteuse linéaire à double étiquette entièrement automatique : plan de ligne, liste d’équipements et SAV."
 keywords: Etiqueteuse linéaire à double étiquette entièrement automatique prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/double-label-automatic-labeling-machine.webp"
 ---
 # Etiqueteuse linéaire à double étiquette entièrement automatique
 

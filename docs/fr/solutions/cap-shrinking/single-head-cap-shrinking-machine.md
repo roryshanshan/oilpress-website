@@ -2,6 +2,7 @@
 title: Machine thermorétractable pour capuchons en cao Solution | Devis
 description: "Demandez un devis pour Machine thermorétractable pour capuchons en caoutchouc à une tête : plan de ligne, liste d’équipements et SAV."
 keywords: Machine thermorétractable à capuchon en caoutchouc à tête unique prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/single-head-cap-shrinking-machine.webp"
 ---
 # Machine thermorétractable à capuchon en caoutchouc à tête unique
 

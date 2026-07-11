@@ -2,6 +2,7 @@
 title: Tea Seed (Tea Seed Oil) | Equipment List & Factory Quote
 description: Get a turnkey plan for Tea Seed (Tea Seed Oil) Solution, including process design, equipment list, factory quote, procurement support, and after-sales service.
 keywords: Tea Seed (Tea Seed Oil) Solution quote, Tea Seed (Tea Seed Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
+image: "/images/process-image-0901d2dd53.webp"
 ---
 # Tea Seed (Tea Seed Oil) Solution
 
@@ -28,7 +29,7 @@ Tea seed is an important oil crop, tea seed oil has unique nutritional value and
 ### Tea Seed Oil Hot Pressing Process
 - Tea seeds go through screening, cleaning, drying, crushing, and steaming before being fed into the hydraulic oil press bucket for pressing.
 - The tea seed oil produced by this process has clear color, pure aroma, and rich nutrition.
-- ![Tea seed hot pressing process](/images/茶籽热榨工艺.png)
+- ![Tea seed hot pressing process](/images/process-image-0901d2dd53.webp)
 
 ## Tea Seed Hot Pressing Process Video
 

@@ -2,6 +2,7 @@
 title: Castor Seed (Castor Oil) | Equipment List & Factory Quote
 description: Get a turnkey plan for Castor Seed (Castor Oil) Solution, including process design, equipment list, factory quote, procurement support, and after-sales service.
 keywords: Castor Seed (Castor Oil) Solution quote, Castor Seed (Castor Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
+image: "/images/hot-pressing-process-of-castor-seeds-png-89a6227aab.webp"
 ---
 # Castor Seed (Castor Oil) Solution
 
@@ -29,7 +30,7 @@ Castor seed oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/
  + Step 1: Crushing
  + Step 2: Frying
  + Step 3: Pressing
- + ![Castor Seed Oil](/images/蓖麻子热榨工艺_Hot%20pressing%20process%20of%20castor%20seeds_png.png)
+ + ![Castor Seed Oil](/images/hot-pressing-process-of-castor-seeds-png-89a6227aab.webp)
 
 ## No large-capacity high-pressure processing video from our company available yet, please temporarily refer to the following Korean oil press pressing castor seeds
 

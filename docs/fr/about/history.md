@@ -1,6 +1,6 @@
 ---
-title: Development History - Shengshi Hecheng
-description: Shandong Shengshi Hecheng development history, from 2008 entrepreneurship to 2023 innovation leadership
+title: "Development History | Fabricant de presses hydrauliques"
+description: Development History — Shengshi Hecheng conçoit et fabrique des presses hydrauliques à huile et lignes d’huile comestible.
 keywords: Development history, Company history, Entrepreneurship beginning, Technological breakthrough, Production expansion, Internationalization development, Innovation leadership, Shandong Shengshi Hecheng history, Oil press development history, Enterprise development history
 ---
 

@@ -1,7 +1,8 @@
 ---
-title: Máy nạp thuốc trừ sâu giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy nạp thuốc trừ sâu từ nhà sản xuất Shengshi Hecheng.
+title: "Máy nạp thuốc trừ sâu giá | Giá nhà máy & báo giá"
+description: "Nhận giá nhà máy cho Máy nạp thuốc trừ sâu giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Máy chiết rót thuốc trừ sâu, mua Máy chiết rót thuốc trừ sâu, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/pesticide-filling-machine.webp"
 ---
 # Máy chiết rót thuốc trừ sâu
 

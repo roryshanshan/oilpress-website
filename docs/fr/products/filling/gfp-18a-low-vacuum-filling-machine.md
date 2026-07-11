@@ -2,6 +2,7 @@
 title: Machine de remplissage sous vide faible GFP-18A prix | fabricant
 description: Demandez le prix et le devis pour Machine de remplissage sous vide faible GFP-18A. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Machine de remplissage sous vide faible GFP-18A prix, acheter Machine de remplissage sous vide faible GFP-18A, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/gfp-18a-low-vacuum-filling-machine.webp"
 ---
 # Machine de remplissage sous vide faible GFP-18A
 

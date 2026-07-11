@@ -1,7 +1,8 @@
 ---
-title: 南瓜籽液压榨油机｜南瓜籽油冷榨方案
-description: 南瓜籽液压榨油机冷榨南瓜籽油，富含锌与不饱和脂肪酸，适合功能性食用油加工，提供剥壳、压榨、过滤配套。
+title: 南瓜籽（南瓜籽油）解决方案｜设备与厂家报价
+description: "南瓜籽是重要的油料作物，南瓜籽油具有独特的营养价值和应用价值。山东盛世赫程机械有限公司提供专业的南瓜籽压榨解决方案，从小型作坊到大型工厂的全套设备和服务。"
 keywords: 南瓜籽（南瓜籽油）解决方案 - 山东盛世赫程机械有限公司报价, 南瓜籽（南瓜籽油）解决方案 - 山东盛世赫程机械有限公司价格, 整线方案, 生产线, 采购
+image: "/images/an-overview-of-the-cold-pressing-process-of-pumpki-c206ee35aa.webp"
 ---
 # 南瓜籽（南瓜籽油）解决方案
 
@@ -27,7 +28,7 @@ keywords: 南瓜籽（南瓜籽油）解决方案 - 山东盛世赫程机械有�
 
 +  南瓜籽(建议 426AC-390)
      + 南瓜子油冷榨工艺：经过筛选、清洗、高速粉碎后直接入液压榨油机料桶压榨 
-     + ![南瓜籽](/images/南瓜籽冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressing%20Process%20of%20Pumpkin%20Seeds.png) 
+     + ![南瓜籽](/images/an-overview-of-the-cold-pressing-process-of-pumpki-c206ee35aa.webp) 
 
 
 

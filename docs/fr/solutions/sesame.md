@@ -2,6 +2,7 @@
 title: Solutions de sésame (huile de sésame) - Shengshi Hecheng devis...
 description: "Demandez un devis pour Solutions de sésame (huile de sésame) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV."
 keywords: Solutions de sésame (huile de sésame) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/process-image-dfc1cdf2c9.webp"
 ---
 # Solutions de sésame (huile de sésame)
 
@@ -28,7 +29,7 @@ Le sésame est une importante culture oléagineuse, et l'huile de sésame a un a
 ### Sesame Oil Hot Pressing Process
 - Roll-type wok roasting sesame then directly feeding into hydraulic oil press bucket for pressing. The sesame oil produced by this process has a rich aroma, sweet aftertaste, and does not require hydration treatment with no foaming when cooking.
 - Basically no filtration treatment is needed, just sedimentation and bottling.
-- ![Sésame processus de pressage à chaud](/images/芝麻热榨工艺.png)
+- ![Sésame processus de pressage à chaud](/images/process-image-dfc1cdf2c9.webp)
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/qBI23dYcG2I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

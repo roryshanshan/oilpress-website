@@ -1,10 +1,11 @@
 ---
-title: Wood-Fired Steamer Price | Factory Quote & Procurement
+title: "Wood-Fired Steamer | Factory Price & Quote"
 description: Request a factory quote for Wood-Fired Steamer, including specifications, line matching, delivery, procurement support, and after-sales service.
 keywords: Wood-Fired Steamer price, Wood-Fired Steamer quote, Wood-Fired Steamer manufacturer, factory procurement, production line matching, after-sales service
+image: "/images/external/products-wood-fired-steamer-f4d44ffc.webp"
 ---
 # Wood-Fired Steamer
-![Wood-Fired Steamer](https://i.postimg.cc/Gcs3LvWX/image.png?dl=1)
+![Wood-Fired Steamer](/images/external/products-wood-fired-steamer-f4d44ffc.webp)
 ## Product Overview
 
 The stove body is made of Q355B material and can be heated with different fuels.

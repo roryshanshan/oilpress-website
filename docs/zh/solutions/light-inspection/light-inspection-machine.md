@@ -1,7 +1,8 @@
 ---
-title: 灯检机报价|整线方案
-description: 获取灯检机整线方案与报价，含工艺、设备清单与售后支持。
+title: "灯检机｜瓶装油检测设备与厂家报价"
+description: "灯检机用于瓶装油杂质、液位与外观检测，可配套灌装封口线，提供设备选型与厂家报价支持。"
 keywords: 灯检机报价, 灯检机价格, 整线方案, 生产线, 采购
+image: "/images/filling-products/light-inspection-machine.webp"
 ---
 # 灯检机
 

@@ -1,6 +1,6 @@
 ---
-title: Руководство по Эксплуатации Оборудования
-description: Скачивание Руководства по Эксплуатации Гидравлического Пресса для Масла Qianlong
+title: "Инструкция гидравлического маслопресса | Скачать"
+description: "Download hydraulic oil press instruction manuals and operating guidance for safer installation, commissioning, and daily maintenance."
 keywords: Руководство по Эксплуатации Оборудования цена, купить Руководство по Эксплуатации Оборудования, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 ---
 # Руководство по Эксплуатации Оборудования

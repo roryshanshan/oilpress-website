@@ -1,10 +1,11 @@
 ---
-title: 11Kw高速粉碎机 - 山东盛世赫程机械有限公司价格|厂家报价
-description: 获取11Kw高速粉碎机 - 山东盛世赫程机械有限公司价格、采购与售后支持，厂家直供，支持选型与交付。
-keywords: 11Kw高速粉碎机 - 山东盛世赫程机械有限公司价格, 11Kw高速粉碎机 - 山东盛世赫程机械有限公司报价, 11Kw高速粉碎机 - 山东盛世赫程机械有限公司厂家, 11Kw高速粉碎机 - 山东盛世赫程机械有限公司采购, 售后服务
+title: 11Kw高速粉碎机｜价格与厂家报价
+description: "获取11Kw高速粉碎机厂家价格与采购方案，支持单机/整线选型、产能配置与售后服务，适合食用油及特种油加工项目落地。"
+keywords: "11Kw高速粉碎机价格, 11Kw高速粉碎机报价, 11Kw高速粉碎机厂家, 11Kw高速粉碎机采购, 售后服务"
+image: "/images/external/products-11kw-high-speed-pulverizer-2f354a64.webp"
 ---
 # 11Kw高速粉碎机
-![高速粉碎机](https://i.postimg.cc/QjCxz20G/image.png?dl=1)
+![高速粉碎机](/images/external/products-11kw-high-speed-pulverizer-2f354a64.webp)
 ## 产品概述
 
 本机采用飞轮式结构设计，可根据需求更换成不同的筛网，最细可粉碎成微米级。

@@ -1,6 +1,6 @@
 ---
 title: Corporate Culture - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng corporate culture with core values of integrity, innovation, excellence, and responsibility.
+description: Corporate Culture — Shengshi Hecheng conçoit et fabrique des presses hydrauliques à huile et lignes d’huile comestible.
 keywords: Corporate culture, Company culture, Corporate mission, Core values, Corporate spirit, Development philosophy, Shandong Shengshi Hecheng, Oil press manufacturer, Company introduction, Company philosophy, Corporate values, Corporate spirit
 ---
 

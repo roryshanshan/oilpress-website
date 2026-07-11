@@ -2,6 +2,7 @@
 title: Chili Seed (Chili Seed Oil) | Equipment List & Factory Quote
 description: "Get a chili seed oil line plan with process design, equipment list, factory quote, procurement, and after-sales service."
 keywords: Chili Seed (Chili Seed Oil) Solution quote, Chili Seed (Chili Seed Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
+image: "/images/hot-pressing-process-of-chili-seeds-c9c009d0eb.webp"
 ---
 # Chili Seed (Chili Seed Oil) Solution
 
@@ -29,7 +30,7 @@ Chili oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/400AC-
  + Step 1: Crushing
  + Step 2: Steaming
  + Step 3: Pressing
- + ![Chili Oil](/images/辣椒籽热榨工艺_Hot%20pressing%20process%20of%20chili%20seeds.png)
+ + ![Chili Oil](/images/hot-pressing-process-of-chili-seeds-c9c009d0eb.webp)
 
 ## Technical Advantages
 

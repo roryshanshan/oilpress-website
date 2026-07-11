@@ -1,6 +1,6 @@
 ---
-title: Ligne de production d’huile | Solution & devis
-description: Solutions clés en main, liste d’équipements, prix usine et service après-vente.
+title: "Oil Processing Solutions | Equipment List & Factory Quote"
+description: "Explore turnkey oil processing solutions by oilseed and process, including press selection, filtration, packaging, and factory quotes."
 keywords: ligne de production d’huile, solution clé en main, devis, prix usine, SAV
 ---
 

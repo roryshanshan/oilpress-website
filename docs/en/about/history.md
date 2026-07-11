@@ -1,6 +1,6 @@
 ---
-title: Development History - Shengshi Hecheng
-description: Shandong Shengshi Hecheng development history, from 2008 entrepreneurship to 2023 innovation leadership
+title: "Development History | Hydraulic Oil Press Manufacturer"
+description: Development History — Shandong Shengshi Hecheng designs and builds hydraulic oil presses and edible oil lines with global project support.
 keywords: Development History, Shandong Shengshi Hecheng, hydraulic oil press manufacturer, oil press equipment factory, oilseed processing equipment, oil press R&D, Company history, Entrepreneurship beginning
 ---
 

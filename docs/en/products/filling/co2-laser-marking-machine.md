@@ -1,7 +1,8 @@
 ---
-title: CO2 laser machine Price | Manufacturer & Quote
-description: Get price, procurement, and after-sales support for CO2 laser machine from Shengshi Hecheng manufacturer.
+title: "CO2 laser machine | Factory Price & Quote"
+description: "Get factory pricing for CO2 laser machine. Suitable for edible oil projects with model selection, procurement support, and after-sales service from…"
 keywords: CO2 laser machine price, CO2 laser machine quote, CO2 laser machine manufacturer, CO2 laser machine supplier, procurement, after-sales
+image: "/images/filling-products/co2-laser-marking-machine.webp"
 ---
 # CO2 laser machine
 

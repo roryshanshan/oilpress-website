@@ -1,6 +1,6 @@
 ---
 title: Pistachio (Pistachio Oil) | Equipment List & Factory Quote
-description: "Get a pistachio oil line plan with process design, equipment list, factory quote, procurement, and after-sales service."
+description: "Turnkey Pistachio (Pistachio Oil) Solution with process design, hydraulic press selection, filtration options, equipment list, and factory quote support."
 keywords: Pistachio (Pistachio Oil) Solution quote, Pistachio (Pistachio Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
 ---
 # Pistachio (Pistachio Oil) Solution

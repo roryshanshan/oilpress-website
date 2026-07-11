@@ -1,7 +1,8 @@
 ---
 title: Boucheuse semi-automatique devis | solution clé en main
-description: "Demandez un devis pour Boucheuse semi-automatique : plan de ligne, liste d’équipements et SAV."
+description: "Solution clé en main Boucheuse semi-automatique : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Boucheuse semi-automatique prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/semi-automatic-corking-machine.webp"
 ---
 # Boucheuse semi-automatique
 

@@ -1,8 +1,9 @@
 ---
 layout: home
-title: তেল প্রেস নির্মাতা | দাম ও দরপত্র
-description: 300-500 সিরিজ তেল প্রেস ও সম্পূর্ণ উৎপাদন লাইনের দাম/দরপত্র। কারখানা সরবরাহ ও বিক্রয়োত্তর সেবা।
+title: "হাইড্রোলিক অয়েল প্রেস প্রস্তুতকারক | মূল্য ও কোটেশন"
+description: "300-500 সিরিজ হাইড্রোলিক অয়েল প্রেস ও টার্নকি ভোজ্য তেল লাইনের কারখানা মূল্য, মডেল বাছাই ও আফটার-সেলস সাপোর্ট।"
 keywords: তেল প্রেস দাম, নির্মাতা, দরপত্র, ক্রয়, উৎপাদন লাইন, বিক্রয়োত্তর সেবা
+image: "/images/hero-oil-press.webp"
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
@@ -35,7 +36,7 @@ keywords: তেল প্রেস দাম, নির্মাতা, দর�
     </div>
   </div>
   <div class="hero-image">
-    <img src="/images/hero-oil-press.webp" alt="শেংশি হেচেং হাইড্রোলিক অয়েল প্রেস" />
+    <img src="/images/hero-oil-press.webp" alt="শেংশি হেচেং হাইড্রোলিক অয়েল প্রেস" decoding="async" fetchpriority="high" loading="eager" width="1200" height="800">
   </div>
 </div>
 
@@ -49,7 +50,7 @@ keywords: তেল প্রেস দাম, নির্মাতা, দর�
     <a href="/bn/about/" class="learn-more">আরও জানুন →</a>
   </div>
   <div class="intro-image">
-    <img src="/images/hero-oil-press.webp" alt="শেংশি হেচেং ফ্যাক্টরি" />
+    <img src="/images/hero-oil-press.webp" alt="শেংশি হেচেং ফ্যাক্টরি" decoding="async" fetchpriority="high" loading="eager" width="1200" height="800">
   </div>
 </div>
 
@@ -57,49 +58,49 @@ keywords: তেল প্রেস দাম, নির্মাতা, দর�
 
 <div class="product-series">
   <div class="product-card">
-    <img src="/images/300-325-series.webp" alt="৩০০ সিরিজ অয়েল প্রেস" />
+    <img src="/images/300-325-series.webp" alt="৩০০ সিরিজ অয়েল প্রেস" decoding="async" loading="lazy" width="1200" height="1600">
     <h3>৩০০ সিরিজ</h3>
     <p>ছোট কারখানার জন্য উপযুক্ত, দৈনিক তেল উৎপাদন ০.৩-০.৮ টন</p>
     <a href="/bn/products/300" class="learn-more">আরও জানুন</a>
   </div>
   <div class="product-card">
-    <img src="/images/300-325-series.webp" alt="৩২৫ সিরিজ অয়েল প্রেস" />
+    <img src="/images/300-325-series.webp" alt="৩২৫ সিরিজ অয়েল প্রেস" decoding="async" loading="lazy" width="1200" height="1600">
     <h3>৩২৫ সিরিজ</h3>
     <p>ছোট কারখানার জন্য উপযুক্ত, দৈনিক তেল উৎপাদন ০.৫-১ টন</p>
     <a href="/bn/products/325" class="learn-more">আরও জানুন</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="৩৫৫ সিরিজ অয়েল প্রেস" />
+    <img src="/images/355-500-series.webp" alt="৩৫৫ সিরিজ অয়েল প্রেস" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>৩৫৫ সিরিজ</h3>
     <p>ছোট ও মাঝারি প্রতিষ্ঠানের জন্য উপযুক্ত, দৈনিক তেল উৎপাদন ১-২ টন</p>
     <a href="/bn/products/355" class="learn-more">আরও জানুন</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="৪০০ সিরিজ অয়েল প্রেস" />
+    <img src="/images/355-500-series.webp" alt="৪০০ সিরিজ অয়েল প্রেস" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>৪০০ সিরিজ</h3>
     <p>মাঝারি প্রতিষ্ঠানের জন্য উপযুক্ত, দৈনিক তেল উৎপাদন ২-৩ টন</p>
     <a href="/bn/products/400" class="learn-more">আরও জানুন</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="৪২৬ সিরিজ অয়েল প্রেস" />
+    <img src="/images/355-500-series.webp" alt="৪২৬ সিরিজ অয়েল প্রেস" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>৪২৬ সিরিজ</h3>
     <p>মাঝারি ও বড় প্রতিষ্ঠানের জন্য উপযুক্ত, দৈনিক তেল উৎপাদন ৩-৫ টন</p>
     <a href="/bn/products/426" class="learn-more">আরও জানুন</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="৪৮০ সিরিজ অয়েল প্রেস" />
+    <img src="/images/355-500-series.webp" alt="৪৮০ সিরিজ অয়েল প্রেস" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>৪৮০ সিরিজ</h3>
     <p>বড় প্রতিষ্ঠানের জন্য উপযুক্ত, দৈনিক তেল উৎপাদন ৫-৮ টন</p>
     <a href="/bn/products/480" class="learn-more">আরও জানুন</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="৫০০ সিরিজ অয়েল প্রেস" />
+    <img src="/images/355-500-series.webp" alt="৫০০ সিরিজ অয়েল প্রেস" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>৫০০ সিরিজ</h3>
     <p>অতি বড় প্রতিষ্ঠানের জন্য উপযুক্ত, দৈনিক তেল উৎপাদন ৮-১৫ টন</p>
     <a href="/bn/products/500" class="learn-more">আরও জানুন</a>
   </div>
   <div class="product-card">
-    <img src="/images/korean-type-small-press/korean-type-overview.jpg" alt="কোরিয়ান টাইপ ছোট হাইড্রোলিক অয়েল প্রেস মেশিন" />
+    <img src="/images/korean-type-small-press/korean-type-overview.webp" alt="কোরিয়ান টাইপ ছোট হাইড্রোলিক অয়েল প্রেস মেশিন" decoding="async" loading="lazy" width="1200" height="1600">
     <h3>কোরিয়ান টাইপ ছোট হাইড্রোলিক অয়েল প্রেস</h3>
     <p>তিলের তেলের দোকান, ফ্রেশ অয়েল কাউন্টার ও ছোট ব্যবসার জন্য KHOP-10KG, 15KG ও 20KG মডেলসহ কমপ্যাক্ট সিরিজ</p>
     <a href="/bn/products/korean-type-small-hydraulic-oil-press-machine" class="learn-more">আরও জানুন</a>
@@ -136,35 +137,35 @@ keywords: তেল প্রেস দাম, নির্মাতা, দর�
 <div class="materials-section">
   <div class="materials-grid">
     <div class="material-item">
-      <img src="/images/peanut.svg" alt="চিনাবাদাম" />
+      <img src="/images/peanut.svg" alt="চিনাবাদাম" decoding="async" loading="lazy" width="200" height="200">
       <span>চিনাবাদাম</span>
     </div>
     <div class="material-item">
-      <img src="/images/soybean.svg" alt="সয়াবিন" />
+      <img src="/images/soybean.svg" alt="সয়াবিন" decoding="async" loading="lazy" width="200" height="200">
       <span>সয়াবিন</span>
     </div>
     <div class="material-item">
-      <img src="/images/tea-seed.svg" alt="চা বীজ" />
+      <img src="/images/tea-seed.svg" alt="চা বীজ" decoding="async" loading="lazy" width="200" height="200">
       <span>চা বীজ</span>
     </div>
     <div class="material-item">
-      <img src="/images/sesame.svg" alt="তিল" />
+      <img src="/images/sesame.svg" alt="তিল" decoding="async" loading="lazy" width="200" height="200">
       <span>তিল</span>
     </div>
     <div class="material-item">
-      <img src="/images/corn.svg" alt="ভুট্টার ভ্রূণ" />
+      <img src="/images/corn.svg" alt="ভুট্টার ভ্রূণ" decoding="async" loading="lazy" width="200" height="200">
       <span>ভুট্টার ভ্রূণ</span>
     </div>
     <div class="material-item">
-      <img src="/images/flax.svg" alt="তিসি" />
+      <img src="/images/flax.svg" alt="তিসি" decoding="async" loading="lazy" width="100" height="100">
       <span>তিসি</span>
     </div>
     <div class="material-item">
-      <img src="/images/rapeseed.svg" alt="সরিষা" />
+      <img src="/images/rapeseed.svg" alt="সরিষা" decoding="async" loading="lazy" width="100" height="100">
       <span>সরিষা</span>
     </div>
     <div class="material-item">
-      <img src="/images/cottonseed.svg" alt="তুলা বীজ" />
+      <img src="/images/cottonseed.svg" alt="তুলা বীজ" decoding="async" loading="lazy" width="100" height="100">
       <span>তুলা বীজ</span>
     </div>
   </div>
@@ -196,14 +197,14 @@ keywords: তেল প্রেস দাম, নির্মাতা, দর�
 
 <div class="case-studies">
   <div class="case-item">
-    <img src="/images/case1.svg" alt="শিনজিয়াং তেল কারখানা কেস" />
+    <img src="/images/case1.svg" alt="শিনজিয়াং তেল কারখানা কেস" decoding="async" loading="lazy" width="200" height="200">
     <div class="case-content">
       <h3>শিনজিয়াং বৃহৎ তেল কারখানা</h3>
       <p>আমাদের কোম্পানির ৪২৫ সিরিজ অয়েল প্রেস ব্যবহার করে, দৈনিক ২০ টন তেল উৎপাদন, তেল নিষ্কাশন হার ১৫% বৃদ্ধি, বার্ষিক ২ মিলিয়ন ইউয়ান অতিরিক্ত আয়</p>
     </div>
   </div>
   <div class="case-item">
-    <img src="/images/case2.svg" alt="দক্ষিণ-পূর্ব এশীয় গ্রাহক কেস" />
+    <img src="/images/case2.svg" alt="দক্ষিণ-পূর্ব এশীয় গ্রাহক কেস" decoding="async" loading="lazy" width="200" height="200">
     <h3>দক্ষিণ-পূর্ব এশীয় গ্রাহক</h3>
     <p>আমাদের কোম্পানির সম্পূর্ণ তেল প্রেসিং উৎপাদন লাইন প্রবর্তন করে, হস্তচালিত কারখানা থেকে আধুনিক কারখানায় রূপান্তর করেছে, উৎপাদন ক্ষমতা ৫ গুণ বৃদ্ধি পেয়েছে</p>
   </div>

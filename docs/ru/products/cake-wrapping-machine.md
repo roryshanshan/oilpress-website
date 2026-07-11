@@ -2,9 +2,10 @@
 title: Машина для обёртки жмыха - Shengshi Hecheng цена | производитель
 description: Запросите цену и подбор Машина для обёртки жмыха - Shengshi Hecheng. Производитель Shengshi Hecheng, поставка и сервис.
 keywords: Машина для обёртки жмыха цена, купить Машина для обёртки жмыха, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
+image: "/images/external/products-cake-wrapping-machine-ae834832.webp"
 ---
 # Машина для обёртки жмыха
-![Машина для обёртки жмыха](https://i.postimg.cc/XW8ztq7j/9fbc817965109be9b37b5995fe94af50.png?dl=1)
+![Машина для обёртки жмыха](/images/external/products-cake-wrapping-machine-ae834832.webp)
 
 ## Обзор продукта
 

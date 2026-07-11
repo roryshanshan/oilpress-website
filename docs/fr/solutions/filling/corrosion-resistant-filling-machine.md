@@ -2,6 +2,7 @@
 title: Machine de remplissage résistante à la corrosio Solution | Devis
 description: "Demandez un devis pour Machine de remplissage résistante à la corrosion acide et alcaline : plan de ligne, liste d’équipements et SAV."
 keywords: Machine de remplissage résistante à la corrosion acide et alcaline prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/corrosion-resistant-filling-machine.webp"
 ---
 # Machine de remplissage résistante à la corrosion acide et alcaline
 

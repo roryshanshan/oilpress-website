@@ -1,9 +1,10 @@
 ---
-title: Machine de remplissage intelligente série devis
-description: "Demandez un devis pour Machine de remplissage intelligente série : plan de ligne, liste d’équipements et SAV."
+title: "Machine de remplissage intelligente série | Liste…"
+description: "Solution clé en main Machine de remplissage intelligente série : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Positionnement du modèle prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/smart-filling-machine.webp"
 ---
-Machine de remplissage intelligente série #
+# Machine de remplissage intelligente série
 
 ![Série de machines de remplissage intelligentes](/images/filling-products/smart-filling-machine.webp)
 

@@ -2,6 +2,7 @@
 title: Cottonseed (Cottonseed Oil) | Equipment List & Factory Quote
 description: "Get a cottonseed oil line plan with process design, equipment list, factory quote, procurement, and after-sales service."
 keywords: Cottonseed (Cottonseed Oil) Solutions quote, Cottonseed (Cottonseed Oil) Solutions production line, equipment list, turnkey solution, factory procurement, after-sales service
+image: "/images/process-image-c32ca90dab.webp"
 ---
 # Cottonseed (Cottonseed Oil) Solutions
 
@@ -30,7 +31,7 @@ Cottonseed processing technology (recommended 300AC-390/325AC-390/355AC-390/400A
 + Step 1: Steaming
 + Step 2: Grinding + stirring
 + Step 3: Pressing
-+ ![Cottonseed processing technology](/images/棉籽热榨工艺.png)
++ ![Cottonseed processing technology](/images/process-image-c32ca90dab.webp)
 
 ## Equipment Recommendations
 

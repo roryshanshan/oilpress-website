@@ -1,7 +1,8 @@
 ---
-title: Fruit and vegetable pre-processing equipment
-description: The fruit and vegetable pre-processing equipment is suitable for cleaning, sorting, impurity removal, crushing, beating and other processes
+title: "Fruit and vegetable pre-processing equipment | Specs, Models…"
+description: "Browse fruit and vegetable pre-processing equipment for edible oil and liquid packaging lines. Compare models, capacity ranges, and request factory…"
 keywords: Fruit and vegetable pre-processing equipment, fruit and vegetable cleaning and sorting, crushing and beating equipment, fruit and vegetable pre-processing line, fruit raw material processing, beverage front-end equipment
+image: "/images/filling-solutions/fruit-veg-processing.webp"
 ---
 
 # Fruit and vegetable pre-processing equipment

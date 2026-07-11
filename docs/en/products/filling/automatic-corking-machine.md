@@ -1,7 +1,8 @@
 ---
 title: Fully automatic corking machine Price | Manufacturer & Quote
-description: Get price, procurement, and after-sales support for Fully automatic corking machine from Shengshi Hecheng manufacturer.
+description: "Get factory pricing for Fully automatic corking machine. Suitable for edible oil projects with model selection, procurement support, and after-sales…"
 keywords: Fully automatic corking machine price, Fully automatic corking machine quote, Fully automatic corking machine manufacturer, Fully automatic corking machine supplier, procurement, after-sales
+image: "/images/filling-products/automatic-corking-machine.webp"
 ---
 # Fully automatic corking machine
 

@@ -1,7 +1,8 @@
 ---
-title: Rinçage intermittent devis | solution clé en main
-description: "Demandez un devis pour Rinçage intermittent : plan de ligne, liste d’équipements et SAV."
+title: "Rinçage intermittent | Liste d’équipements et devis"
+description: "Solution clé en main Rinçage intermittent : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Rinçage intermittent prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/intermittent-bottle-washer.webp"
 ---
 # Rinçage intermittent
 

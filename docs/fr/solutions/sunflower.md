@@ -2,6 +2,7 @@
 title: Solution de graines de tournesol (huile de tournesol) devis
 description: "Demandez un devis pour Solution de graines de tournesol (huile de tournesol) : plan de ligne, liste d’équipements et SAV."
 keywords: Solution de graines de tournesol (huile de tournesol) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/sunflower-seed-hot-pressing-process.webp"
 ---
 # Solution de graines de tournesol (huile de tournesol)
 
@@ -27,7 +28,7 @@ Les graines de tournesol sont une importante culture oléagineuse, l'huile de to
 
 ### Processus de Pressing à Chaud d'Huile de Tournesol
 - Les graines de tournesol passent par les processus de nettoyage, de concassage et de friture avant d'être alimentées dans le seau de presse hydraulique pour le pressage.
-- ![Processus de Pressing à Chaud d'Huile de Tournesol](/images/sunflower-seed-hot-pressing-process.png)
+- ![Processus de Pressing à Chaud d'Huile de Tournesol](/images/sunflower-seed-hot-pressing-process.webp)
 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/BdmN8beHRyg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

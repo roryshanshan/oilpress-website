@@ -1,7 +1,8 @@
 ---
 title: Rinceuse de bouteilles à bascule devis | solution clé en main
-description: "Demandez un devis pour Rinceuse de bouteilles à bascule : plan de ligne, liste d’équipements et SAV."
+description: "Solution clé en main Rinceuse de bouteilles à rabat : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Rinceuse de bouteilles à rabat prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/flip-bottle-washer.webp"
 ---
 # Rinceuse de bouteilles à rabat
 

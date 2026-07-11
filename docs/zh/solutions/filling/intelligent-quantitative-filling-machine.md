@@ -1,7 +1,8 @@
 ---
-title: 智能定量灌装机报价|整线方案
-description: 获取智能定量灌装机整线方案与报价，含工艺、设备清单与售后支持。
+title: 智能定量灌装机｜设备与厂家报价
+description: "智能定量灌装机强调灌装与后续理盖、扣盖、封盖动作的联动，一台设备即可覆盖多道动作，适合希望减少中间人工干预和二次污染风险的自动化线体。"
 keywords: 智能定量灌装机报价, 智能定量灌装机价格, 整线方案, 生产线, 采购
+image: "/images/filling-products/intelligent-quantitative-filling-machine.webp"
 ---
 # 智能定量灌装机
 

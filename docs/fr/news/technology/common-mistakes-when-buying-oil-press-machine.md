@@ -1,6 +1,6 @@
 ---
 title: "Erreurs courantes lors de l'achat d'une presse à huile : 5 err..."
-description: Évitez les erreurs d'achat les plus fréquentes, comme se focaliser uniquement sur le prix, mal estimer la capacité
+description: "Erreurs courantes lors de l'achat d'une presse à huile : 5 erreurs d'acheteur à éviter: equipment overview, selection guidance, and factory quote support…"
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-13"
 ---

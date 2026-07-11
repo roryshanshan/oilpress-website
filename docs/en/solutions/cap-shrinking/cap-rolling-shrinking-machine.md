@@ -1,7 +1,8 @@
 ---
-title: Cap rolling/shrinking machine Quote | Turnkey Solution
+title: "Capping/shrinking machine | Equipment List & Factory Quote"
 description: Get a quote and turnkey plan for Cap rolling/shrinking machine. Process design, equipment list, and after-sales support.
 keywords: Cap rolling/shrinking machine quote, Cap rolling/shrinking machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/cap-rolling-shrinking-machine.webp"
 ---
 # Capping/shrinking machine
 

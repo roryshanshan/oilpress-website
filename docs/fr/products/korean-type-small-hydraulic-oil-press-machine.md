@@ -1,11 +1,12 @@
 ---
-title: Petite presse à huile hydraulique de type coréen prix
+title: "Petite presse à huile hydraulique de type coréen prix |…"
 description: Demandez le prix et le devis pour Petite presse à huile hydraulique de type coréen. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Petite presse à huile hydraulique de type coréen prix, acheter Petite presse à huile hydraulique de type coréen, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/korean-type-small-press/korean-type-overview.webp"
 ---
 # Petite presse à huile hydraulique de type coréen
 
-![Petite presse à huile hydraulique de type coréen](/images/korean-type-small-press/korean-type-overview.jpg)
+![Petite presse à huile hydraulique de type coréen](/images/korean-type-small-press/korean-type-overview.webp)
 
 La petite presse à huile hydraulique de type coréen est conçue pour une production à faible capacité mais à forte valeur ajoutée. Elle convient particulièrement aux boutiques d'huile de sésame fraîche, aux magasins bio, aux comptoirs visibles pour les clients et aux petits ateliers qui souhaitent presser et vendre en même temps.
 
@@ -16,7 +17,7 @@ La petite presse à huile hydraulique de type coréen est conçue pour une produ
 - Structure inox plus facile à nettoyer et à exposer
 - Très adaptée au sésame et aux huiles premium à forte valeur
 
-![Vue latérale de la petite presse à huile hydraulique de type coréen](/images/korean-type-small-press/korean-type-side.jpg)
+![Vue latérale de la petite presse à huile hydraulique de type coréen](/images/korean-type-small-press/korean-type-side.webp)
 
 ## Différence avec les presses industrielles
 
@@ -60,7 +61,7 @@ Pour un positionnement plus directement centré sur le sésame, consultez la pag
 - Petite activité d'huile premium
 - Atelier alimentaire local
 
-![Vue d'utilisation de la petite presse à huile hydraulique de type coréen](/images/korean-type-small-press/korean-type-operation.jpg)
+![Vue d'utilisation de la petite presse à huile hydraulique de type coréen](/images/korean-type-small-press/korean-type-operation.webp)
 
 ## Conseils de sélection
 

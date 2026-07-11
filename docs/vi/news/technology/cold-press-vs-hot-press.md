@@ -1,6 +1,6 @@
 ---
-title: Hướng dẫn so sánh ép lạnh và ép nóng
-description: Hiểu nhanh sự khác biệt giữa ép lạnh và ép nóng về hương vị, dinh dưỡng, tỷ lệ thu dầu và định vị thị trường.
+title: "Hướng dẫn so sánh ép lạnh và ép nóng | Hydraulic Oil Press"
+description: "Ép lạnh và ép nóng tạo ra hai kiểu sản phẩm khác nhau. Ép lạnh phù hợp với dầu cao cấp, chú trọng dinh dưỡng và hình ảnh tự nhiên. Ép nóng phù hợp với…"
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2025-03-10"
 ---

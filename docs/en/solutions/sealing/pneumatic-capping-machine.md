@@ -1,7 +1,8 @@
 ---
-title: Fully automatic pneumatic capping machine Quote
+title: "Fully automatic pneumatic capping machine | Equipment List…"
 description: Get a quote and turnkey plan for Fully automatic pneumatic capping machine. Process design, equipment list, and after-sales support.
 keywords: Fully automatic pneumatic capping machine quote, Fully automatic pneumatic capping machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/pneumatic-capping-machine.webp"
 ---
 # Fully automatic pneumatic capping machine
 

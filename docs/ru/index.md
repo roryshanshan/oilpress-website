@@ -1,8 +1,9 @@
 ---
 layout: home
-title: Производитель маслопрессов | Цена и расчёт
-description: Цены и расчёт на прессы 300-500 и линии производства масла. Заводские поставки и сервис.
+title: "Производитель гидравлических маслопрессов | Цена и КП"
+description: "Заводские цены на гидропрессы серий 300-500 и комплектные линии пищевого масла, подбор модели и послепродажная поддержка."
 keywords: маслопресс цена, производитель, запросить цену, закупка, линия переработки масла, сервис
+image: "/images/hero-oil-press.webp"
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
@@ -35,7 +36,7 @@ keywords: маслопресс цена, производитель, запро�
     </div>
   </div>
   <div class="hero-image">
-    <img src="/images/hero-oil-press.webp" alt="Гидравлический маслобойный пресс Shengshi Hecheng" />
+    <img src="/images/hero-oil-press.webp" alt="Гидравлический маслобойный пресс Shengshi Hecheng" decoding="async" fetchpriority="high" loading="eager" width="1200" height="800">
   </div>
 </div>
 
@@ -49,7 +50,7 @@ keywords: маслопресс цена, производитель, запро�
     <a href="/ru/about/" class="learn-more">Узнать больше →</a>
   </div>
   <div class="intro-image">
-    <img src="/images/hero-oil-press.webp" alt="Завод Shengshi Hecheng" />
+    <img src="/images/hero-oil-press.webp" alt="Завод Shengshi Hecheng" decoding="async" fetchpriority="high" loading="eager" width="1200" height="800">
   </div>
 </div>
 
@@ -57,43 +58,43 @@ keywords: маслопресс цена, производитель, запро�
 
 <div class="product-series">
   <div class="product-card">
-    <img src="/images/300-325-series.webp" alt="Маслобойный пресс серии 300" />
+    <img src="/images/300-325-series.webp" alt="Маслобойный пресс серии 300" decoding="async" loading="lazy" width="1200" height="1600">
     <h3>Серия 300</h3>
     <p>Подходит для малых мастерских, суточное производство масла 0,3-0,8 тонн</p>
     <a href="/ru/products/300" class="learn-more">Узнать больше</a>
   </div>
   <div class="product-card">
-    <img src="/images/300-325-series.webp" alt="Маслобойный пресс серии 325" />
+    <img src="/images/300-325-series.webp" alt="Маслобойный пресс серии 325" decoding="async" loading="lazy" width="1200" height="1600">
     <h3>Серия 325</h3>
     <p>Подходит для малых мастерских, суточное производство масла 0,5-1 тонна</p>
     <a href="/ru/products/325" class="learn-more">Узнать больше</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="Маслобойный пресс серии 355" />
+    <img src="/images/355-500-series.webp" alt="Маслобойный пресс серии 355" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>Серия 355</h3>
     <p>Подходит для малых и средних предприятий, суточное производство масла 1-2 тонны</p>
     <a href="/ru/products/355" class="learn-more">Узнать больше</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="Маслобойный пресс серии 400" />
+    <img src="/images/355-500-series.webp" alt="Маслобойный пресс серии 400" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>Серия 400</h3>
     <p>Подходит для средних предприятий, суточное производство масла 2-3 тонны</p>
     <a href="/ru/products/400" class="learn-more">Узнать больше</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="Маслобойный пресс серии 426" />
+    <img src="/images/355-500-series.webp" alt="Маслобойный пресс серии 426" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>Серия 426</h3>
     <p>Подходит для средних и крупных предприятий, суточное производство масла 3-5 тонн</p>
     <a href="/ru/products/426" class="learn-more">Узнать больше</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="Маслобойный пресс серии 480" />
+    <img src="/images/355-500-series.webp" alt="Маслобойный пресс серии 480" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>Серия 480</h3>
     <p>Подходит для крупных предприятий, суточное производство масла 5-8 тонн</p>
     <a href="/ru/products/480" class="learn-more">Узнать больше</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="Маслобойный пресс серии 500" />
+    <img src="/images/355-500-series.webp" alt="Маслобойный пресс серии 500" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>Серия 500</h3>
     <p>Подходит для сверхкрупных предприятий, суточное производство масла 8-15 тонн</p>
     <a href="/ru/products/500" class="learn-more">Узнать больше</a>
@@ -130,35 +131,35 @@ keywords: маслопресс цена, производитель, запро�
 <div class="materials-section">
   <div class="materials-grid">
     <div class="material-item">
-      <img src="/images/peanut.svg" alt="Арахис" />
+      <img src="/images/peanut.svg" alt="Арахис" decoding="async" loading="lazy" width="200" height="200">
       <span>Арахис</span>
     </div>
     <div class="material-item">
-      <img src="/images/soybean.svg" alt="Соя" />
+      <img src="/images/soybean.svg" alt="Соя" decoding="async" loading="lazy" width="200" height="200">
       <span>Соя</span>
     </div>
     <div class="material-item">
-      <img src="/images/tea-seed.svg" alt="Семена чая" />
+      <img src="/images/tea-seed.svg" alt="Семена чая" decoding="async" loading="lazy" width="200" height="200">
       <span>Семена чая</span>
     </div>
     <div class="material-item">
-      <img src="/images/sesame.svg" alt="Кунжут" />
+      <img src="/images/sesame.svg" alt="Кунжут" decoding="async" loading="lazy" width="200" height="200">
       <span>Кунжут</span>
     </div>
     <div class="material-item">
-      <img src="/images/corn.svg" alt="Кукурузные зародыши" />
+      <img src="/images/corn.svg" alt="Кукурузные зародыши" decoding="async" loading="lazy" width="200" height="200">
       <span>Кукурузные зародыши</span>
     </div>
     <div class="material-item">
-      <img src="/images/flax.svg" alt="Лен" />
+      <img src="/images/flax.svg" alt="Лен" decoding="async" loading="lazy" width="100" height="100">
       <span>Лен</span>
     </div>
     <div class="material-item">
-      <img src="/images/rapeseed.svg" alt="Рапс" />
+      <img src="/images/rapeseed.svg" alt="Рапс" decoding="async" loading="lazy" width="100" height="100">
       <span>Рапс</span>
     </div>
     <div class="material-item">
-      <img src="/images/cottonseed.svg" alt="Хлопковое семя" />
+      <img src="/images/cottonseed.svg" alt="Хлопковое семя" decoding="async" loading="lazy" width="100" height="100">
       <span>Хлопковое семя</span>
     </div>
   </div>
@@ -190,21 +191,21 @@ keywords: маслопресс цена, производитель, запро�
 
 <div class="case-studies">
   <div class="case-item">
-    <img src="/images/case1.svg" alt="Кейс маслозавода в Синьцзяне" />
+    <img src="/images/case1.svg" alt="Кейс маслозавода в Синьцзяне" decoding="async" loading="lazy" width="200" height="200">
     <div class="case-content">
       <h3>Крупный маслозавод в Синьцзяне</h3>
       <p>Использует наш маслобойный пресс серии 425 с суточной мощностью 20 тонн, выход масла увеличился на 15%, что привело к ежегодному увеличению дохода на 2 миллиона юаней</p>
     </div>
   </div>
   <div class="case-item">
-    <img src="/images/case2.svg" alt="Кейс клиента из Юго-Восточной Азии" />
+    <img src="/images/case2.svg" alt="Кейс клиента из Юго-Восточной Азии" decoding="async" loading="lazy" width="200" height="200">
     <div class="case-content">
       <h3>Клиент из Юго-Восточной Азии</h3>
       <p>Приобрел 3 комплекта оборудования серии 355 для маслозавода в Вьетнаме, суточная мощность 6 тонн, высокая эффективность и стабильная работа</p>
     </div>
   </div>
   <div class="case-item">
-    <img src="/images/case2.svg" alt="Кейс африканского клиента" />
+    <img src="/images/case2.svg" alt="Кейс африканского клиента" decoding="async" loading="lazy" width="200" height="200">
     <div class="case-content">
       <h3>Африканский клиент</h3>
       <p>Выбрал оборудование серии 400 для маслозавода в Нигерии, удовлетворен качеством и послепродажным обслуживанием</p>

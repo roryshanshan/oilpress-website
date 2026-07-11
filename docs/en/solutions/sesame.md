@@ -1,7 +1,8 @@
 ---
-title: Sesame (Sesame Oil) | Equipment List & Factory Quote
+title: "Sesame (Sesame Oil) Solutions | Equipment List & Factory…"
 description: Get a turnkey plan for Sesame (Sesame Oil) Solutions, including process design, equipment list, factory quote, procurement support, and after-sales service.
 keywords: Sesame (Sesame Oil) Solutions quote, Sesame (Sesame Oil) Solutions production line, equipment list, turnkey solution, factory procurement, after-sales service
+image: "/images/process-image-dfc1cdf2c9.webp"
 ---
 # Sesame (Sesame Oil) Solutions
 
@@ -28,7 +29,7 @@ Sesame is an important oilseed crop, and sesame oil has unique aroma and rich nu
 ### Sesame Oil Hot Pressing Process
 - Roll-type wok roasting sesame then directly feeding into hydraulic oil press bucket for pressing. The sesame oil produced by this process has a rich aroma, sweet aftertaste, and does not require hydration treatment with no foaming when cooking.
 - Basically no filtration treatment is needed, just sedimentation and bottling.
-- ![Sesame hot pressing process](/images/芝麻热榨工艺.png)
+- ![Sesame hot pressing process](/images/process-image-dfc1cdf2c9.webp)
 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/TeSE53ywSw4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

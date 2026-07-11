@@ -2,6 +2,7 @@
 title: Solution de son de riz (huile de son de riz) - Shengshi Hechen...
 description: "Demandez un devis pour Solution de son de riz (huile de son de riz) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV."
 keywords: Solution de son de riz (huile de son de riz) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/cold-pressing-process-of-glutinous-rice-77cef64384.webp"
 ---
 # Solution de son de riz (huile de son de riz)
 
@@ -26,7 +27,7 @@ Le son de riz est un sous-produit de la transformation du riz, riche en huile de
 ## Technologie de Transformation
 Glutinous rice oil pressing technology: (Recommended 426AC-390/480AC-390/500AC-390)
  + Glutinous rice cold pressing process: Direct pressing
- ++ ![Glutinous Rice](/images/糯米冷榨工艺_Cold-pressing%20process%20of%20glutinous%20rice_.png)
+ ++ ![Glutinous Rice](/images/cold-pressing-process-of-glutinous-rice-77cef64384.webp)
 
 ## Vidéo de processus de presse à huile hydraulique non disponible pour le moment, veuillez d'abord vous référer à la vidéo de processus de presse à huile à vis
 

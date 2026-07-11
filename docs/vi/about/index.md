@@ -1,6 +1,6 @@
 ---
-title: Về chúng tôi - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: Giới thiệu doanh nghiệp Shengshi Hecheng, chuyên nghiên cứu và sản xuất máy ép dầu thủy lực, phục vụ khách hàng toàn cầu
+title: "Về chúng tôi | Nhà sản xuất máy ép dầu thủy lực"
+description: "Shengshi Hecheng từ 2008 chuyên R&D và sản xuất máy ép dầu thủy lực cùng dây chuyền dầu ăn, phục vụ 30+ quốc gia."
 keywords: Về chúng tôi, Giới thiệu doanh nghiệp, Shengshi Hecheng Sơn Đông, Nhà sản xuất máy ép dầu, Phát triển doanh nghiệp, Đổi mới công nghệ, Máy ép dầu thủy lực, Thiết bị chế biến dầu, Văn hóa doanh nghiệp, Tinh thần doanh nghiệp
 ---
 

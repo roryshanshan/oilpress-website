@@ -4,9 +4,17 @@ Allow: /
 # Sitemap
 Sitemap: https://hydraulicoilpressing.opchn.com/sitemap.xml
 
-# 禁止索引的路径
+# Do not index utility / non-content routes
 Disallow: /404
+Disallow: /404.html
 Disallow: /search
+Disallow: /bn/translation-glossary
+Disallow: /en/solutions/peanut1
 
-# 爬虫延迟（可选）
+# Prefer Googlebot without crawl-delay (Crawl-delay is ignored by Google)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
 Crawl-delay: 1

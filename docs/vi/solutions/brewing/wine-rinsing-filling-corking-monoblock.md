@@ -2,6 +2,7 @@
 title: Máy kết hợp rửa, chiết rót và đóng nút chai báo giá
 description: Nhận báo giá Máy kết hợp rửa, chiết rót và đóng nút chai với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Máy kết hợp rửa, chiết rót và đóng nút chai rượu báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/wine-rinsing-filling-corking-monoblock.webp"
 ---
 # Máy kết hợp rửa, chiết rót và đóng nút chai rượu
 

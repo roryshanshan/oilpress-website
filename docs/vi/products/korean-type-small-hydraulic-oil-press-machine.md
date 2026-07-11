@@ -1,11 +1,12 @@
 ---
 title: Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc từ nhà sản xuất Shengshi Hecheng.
+description: "Nhận giá nhà máy cho Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc, mua Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/korean-type-small-press/korean-type-overview.webp"
 ---
 # Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc
 
-![Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc](/images/korean-type-small-press/korean-type-overview.jpg)
+![Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc](/images/korean-type-small-press/korean-type-overview.webp)
 
 Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc được thiết kế cho các dự án sản lượng thấp nhưng giá trị gia tăng cao. Dòng máy này đặc biệt phù hợp với cửa hàng dầu mè tươi, cửa hàng thực phẩm hữu cơ, quầy ép dầu trực quan trước khách và các xưởng nhỏ muốn vừa ép vừa bán.
 
@@ -16,7 +17,7 @@ Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc được thiết kế 
 - Kết cấu inox dễ vệ sinh và trưng bày
 - Rất phù hợp cho mè và các loại dầu cao cấp
 
-![Góc nhìn bên của máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc](/images/korean-type-small-press/korean-type-side.jpg)
+![Góc nhìn bên của máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc](/images/korean-type-small-press/korean-type-side.webp)
 
 ## Khác gì so với máy ép thủy lực công nghiệp
 
@@ -60,7 +61,7 @@ Dòng máy này chủ yếu phù hợp với các nguyên liệu có hàm lượ
 - Dự án dầu cao cấp quy mô nhỏ
 - Xưởng thực phẩm địa phương
 
-![Góc vận hành của máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc](/images/korean-type-small-press/korean-type-operation.jpg)
+![Góc vận hành của máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc](/images/korean-type-small-press/korean-type-operation.webp)
 
 ## Gợi ý chọn model
 

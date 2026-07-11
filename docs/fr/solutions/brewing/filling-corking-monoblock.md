@@ -1,7 +1,8 @@
 ---
-title: Remplissage et bouchage à deux lignes devis
-description: "Demandez un devis pour Remplissage et bouchage à deux lignes : plan de ligne, liste d’équipements et SAV."
+title: "Remplissage et bouchage de deux en ligne | Liste…"
+description: "Solution clé en main Remplissage et bouchage de deux en ligne : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Remplissage et bouchage de deux en ligne prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/filling-corking-monoblock.webp"
 ---
 # Remplissage et bouchage de deux en ligne
 

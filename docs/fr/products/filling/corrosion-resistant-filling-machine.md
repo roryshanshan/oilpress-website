@@ -2,6 +2,7 @@
 title: Machine de remplissage résistante à la corrosion acide et alc...
 description: Demandez le prix et le devis pour Machine de remplissage résistante à la corrosion acide et alcaline. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Machine de remplissage résistante à la corrosion acide et alcaline prix, acheter Machine de remplissage résistante à la corrosion acide et alcaline, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/corrosion-resistant-filling-machine.webp"
 ---
 # Machine de remplissage résistante à la corrosion acide et alcaline
 

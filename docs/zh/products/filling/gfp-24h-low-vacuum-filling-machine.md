@@ -1,7 +1,8 @@
 ---
-title: GFP-24H低真空灌装机价格|厂家报价
-description: 获取GFP-24H低真空灌装机价格、采购与售后支持，厂家直供，支持选型与交付。
+title: GFP-24H低真空灌装机｜价格与厂家报价
+description: "GFP-24H低真空灌装机：`GFP-24H` 是低真空定液位灌装系列中的 24 头机型，产能已经进入中型酒类包装线常见区间。对于葡萄酒、果酒、黄酒，以及玻璃瓶酱油、醋项目，它是比较常见的一档主力型号。"
 keywords: GFP-24H低真空灌装机价格, GFP-24H低真空灌装机报价, GFP-24H低真空灌装机厂家, GFP-24H低真空灌装机采购, 售后服务
+image: "/images/filling-products/gfp-24h-low-vacuum-filling-machine.webp"
 ---
 # GFP-24H低真空灌装机
 

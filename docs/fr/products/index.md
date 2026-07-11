@@ -1,7 +1,8 @@
 ---
-title: Prix presses à huile | Modèles & devis usine
-description: Modèles 300-500 et équipements associés, prix usine et support d’achat rapide.
+title: "Hydraulic Oil Press Products | Models, Price & Quote"
+description: "Browse 300-500 series hydraulic oil presses plus filtration, refining, and filling equipment with factory pricing support."
 keywords: prix presse à huile, modèles 300 325 355 400 426 480 500, devis usine, achat
+image: "/images/external/products-index-bfb7fcaa.webp"
 ---
 # Séries de produits
 
@@ -79,21 +80,21 @@ Notre équipe de service de personnalisation peut fournir des solutions de press
 + La pression est à cinq pistons, haute pression de travail, atteignant facilement 60 MPa pendant l'opération;
 + Équipée de vannes de décharge haute et basse pression, double décharge haute pression, pas de surpression, plus sûr;
 + La vanne de direction adopte une vanne de direction à quatre cœurs à très haute pression, pas facile à fuir et perdre la pression, plus résistante à l'usure et durable.
-![Station de pompe](https://i.postimg.cc/PXrT6N9K/202509011618921.png?dl=1)
+![Station de pompe](/images/external/products-index-bfb7fcaa.webp)
 
 ### 2. Moteur en cuivre pur
 + Adopte un moteur en cuivre pur, haute efficacité de travail et durabilité, qualité solide, pas facile à endommager.
-![Moteur en cuivre pur](https://i.postimg.cc/pR7bDsP0/202509011615213.png?dl=1)
+![Moteur en cuivre pur](/images/external/products-index-798d8557.webp)
 
 ### 3. Cylindre hydraulique
 + Cylindre produit à Daye, Hubei (entreprise d'État), fabriqué en matériau de tube d'alliage 27 silicium-manganèse, le bloc cylindre est trempé par traitement thermique, performances matérielles plus stables, très haute pression pas facile à éclater, la pression peut atteindre 80 MPa;
 + Le joint d'étanchéité est importé du Japon, adopte un joint d'étanchéité combiné Glyd à anneau de maintien Y-type, plus résistant à la très haute pression, doubles joints d'étanchéité moins susceptibles de fuir, utilisant des matériaux plusieurs fois supérieurs aux matériaux ordinaires, qualité excellente, performances d'étanchéité fortes, pas facile de fuir l'huile;
 + Le piston adopte deux bandes de guidage avant et arrière, moins susceptible d'endommager la paroi intérieure du cylindre, ne se dérèglera pas et n'usera pas la paroi.
-![Cylindre hydraulique](https://i.postimg.cc/knHfHphZ/202509011620773.png?dl=1)
-![Cylindre hydraulique](https://i.postimg.cc/G3wzLsRx/202509011620379.png?dl=1)
-![Cylindre hydraulique](https://i.postimg.cc/hcnMNxpS/202509011621472.png?dl=1)
-![Cylindre hydraulique](https://i.postimg.cc/9cK9HHCG/202509011625161.png?dl=1)
-![Cylindre hydraulique](https://i.postimg.cc/69Zv9bpF/202509011625094.png?dl=1)
+![Cylindre hydraulique](/images/external/products-index-76efb8f6.webp)
+![Cylindre hydraulique](/images/external/products-index-aa229706.webp)
+![Cylindre hydraulique](/images/external/products-index-a0ce7064.webp)
+![Cylindre hydraulique](/images/external/products-index-6aa7869d.webp)
+![Cylindre hydraulique](/images/external/products-index-f582c751.webp)
 Vidéo de laminage en miroir du cylindre hydraulique :
 <div class="video-container">
   <iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -113,7 +114,7 @@ Vidéo du processus de soudage du cylindre hydraulique à ultra-haute pression :
 + Le système de contrôle utilise un système à micro-ordinateur, tous les programmes sont connectés par logiciel, le fonctionnement du système de contrôle est simple;
 + Équipée de deux manomètres, de deux fusibles de contrôle électrique haute tension;
 + Les composants électriques utilisent des produits de qualité de marques connues, qualité solide et longue durée de vie.
-![Boîte de commande](https://i.postimg.cc/fz2tCG2t/202509011631969.png?dl=1)
+![Boîte de commande](/images/external/products-index-3bdb9615.webp)
 
 ### 5. Baril à matériaux
 + Ce modèle est équipé d'un baril à matériaux de diamètre 390 mm;

@@ -2,6 +2,7 @@
 title: Machine de capsulage pneumatique entièrement automatique prix
 description: Demandez le prix et le devis pour Machine de capsulage pneumatique entièrement automatique. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Machine de capsulage pneumatique entièrement automatique prix, acheter Machine de capsulage pneumatique entièrement automatique, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/pneumatic-capping-machine.webp"
 ---
 # Machine de capsulage pneumatique entièrement automatique
 

@@ -1,7 +1,8 @@
 ---
 title: Máy rửa kiểu ray xích báo giá | giải pháp trọn gói
-description: Nhận báo giá Máy rửa kiểu ray xích với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Máy giặt chai dạng ray xích: quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Máy giặt chai dạng ray xích báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/chain-bottle-washer.webp"
 ---
 # Máy giặt chai dạng ray xích
 

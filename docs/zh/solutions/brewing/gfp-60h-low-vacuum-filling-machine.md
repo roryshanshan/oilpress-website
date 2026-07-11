@@ -1,7 +1,8 @@
 ---
-title: GFP-60H低真空灌装机报价|整线方案
-description: 获取GFP-60H低真空灌装机整线方案与报价，含工艺、设备清单与售后支持。
+title: GFP-60H低真空灌装机｜设备与厂家报价
+description: "`GFP-60H` 是低真空定液位灌装系列中的更高产能版本，面向 20000 瓶/小时级别的规模化玻璃瓶液体灌装项目。"
 keywords: GFP-60H低真空灌装机报价, GFP-60H低真空灌装机价格, 整线方案, 生产线, 采购
+image: "/images/filling-products/gfp-60h-low-vacuum-filling-machine.webp"
 ---
 # GFP-60H低真空灌装机
 

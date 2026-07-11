@@ -1,7 +1,8 @@
 ---
-title: Fully automatic anti-theft cover sealing machine Quote
+title: "Fully automatic anti-theft cover sealing machine |…"
 description: Get a quote and turnkey plan for Fully automatic anti-theft cover sealing machine. Process design, equipment list, and after-sales support.
 keywords: Fully automatic anti-theft cover sealing machine quote, Fully automatic anti-theft cover sealing machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/anti-theft-cap-sealing-machine.webp"
 ---
 # Fully automatic anti-theft cover sealing machine
 

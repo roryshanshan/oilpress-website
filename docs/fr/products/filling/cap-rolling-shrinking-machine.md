@@ -1,7 +1,8 @@
 ---
 title: Machine à rouler/rétrécir les bouchons prix | fabricant
-description: Demandez le prix et le devis pour Machine à rouler/rétrécir les bouchons. Fabricant Shengshi Hecheng, livraison et SAV.
+description: "Obtenez le prix usine pour Machine à rouler/rétrécir les bouchons prix. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
 keywords: Machine de capsulage/rétrécissement prix, acheter Machine de capsulage/rétrécissement, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/cap-rolling-shrinking-machine.webp"
 ---
 # Machine de capsulage/rétrécissement
 

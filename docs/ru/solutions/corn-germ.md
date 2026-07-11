@@ -2,6 +2,7 @@
 title: Corn Germ (Corn Germ Oil) Solution - Shengshi Hecheng цена | к...
 description: "Запросите стоимость решения Corn Germ (Corn Germ Oil) Solution - Shengshi Hecheng: проект линии, список оборудования и сервис."
 keywords: Corn Germ (Corn Germ Oil) Solution цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
+image: "/images/hot-pressing-process-of-corn-germ-2dad9e44c2.webp"
 ---
 # Corn Germ (Corn Germ Oil) Solution
 
@@ -30,7 +31,7 @@ Hot pressing technology for corn germ oil: (Recommended 300AC-390/325AC-390/355A
  + Step 1: Crushing
  + Step 2: Steaming
  + Step 3: Pressing
- + ![Corn Germ Oil](/images/玉米胚芽热榨工艺_Hot%20pressing%20process%20of%20corn%20germ_.png)
+ + ![Corn Germ Oil](/images/hot-pressing-process-of-corn-germ-2dad9e44c2.webp)
 
 ## Видео гидравлического пресса для масла пока недоступно, ниже винтовой пресс для масла, прессующий зародыш кукурузы, только для справки
 

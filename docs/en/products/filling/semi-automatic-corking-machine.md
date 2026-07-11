@@ -1,7 +1,8 @@
 ---
 title: Semi-automatic corking machine Price | Manufacturer & Quote
-description: Get price, procurement, and after-sales support for Semi-automatic corking machine from Shengshi Hecheng manufacturer.
+description: "Get factory pricing for Semi-automatic corking machine. Suitable for edible oil projects with model selection, procurement support, and after-sales…"
 keywords: Semi-automatic corking machine price, Semi-automatic corking machine quote, Semi-automatic corking machine manufacturer, Semi-automatic corking machine supplier, procurement, after-sales
+image: "/images/filling-products/semi-automatic-corking-machine.webp"
 ---
 # Semi-automatic corking machine
 

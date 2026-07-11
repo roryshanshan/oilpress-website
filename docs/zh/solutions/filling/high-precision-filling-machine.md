@@ -1,7 +1,8 @@
 ---
-title: 高精度定量灌装机报价|整线方案
-description: 获取高精度定量灌装机整线方案与报价，含工艺、设备清单与售后支持。
+title: 高精度定量灌装机｜设备与厂家报价
+description: "高精度定量灌装机适合对计量一致性要求较高的瓶装液体项目，常用于多规格瓶型、多批次切换以及对单瓶误差比较敏感的灌装段。"
 keywords: 高精度定量灌装机报价, 高精度定量灌装机价格, 整线方案, 生产线, 采购
+image: "/images/filling-products/high-precision-filling-machine.webp"
 ---
 # 高精度定量灌装机
 

@@ -1,7 +1,8 @@
 ---
 title: Máy sấy thổi dao khí tăng áp báo giá | giải pháp trọn gói
-description: Nhận báo giá Máy sấy thổi dao khí tăng áp với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Máy sấy thổi khí tăng áp: quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Máy sấy thổi khí tăng áp báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/turbo-air-knife-dryer.webp"
 ---
 # Máy sấy thổi khí tăng áp
 

@@ -1,7 +1,8 @@
 ---
-title: Machine de remplissage de pesticides devis
-description: "Demandez un devis pour Machine de remplissage de pesticides : plan de ligne, liste d’équipements et SAV."
+title: "Machine de remplissage de pesticides | Liste d’équipements…"
+description: "Solution clé en main Machine de remplissage de pesticides : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Machine de remplissage de pesticides prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/pesticide-filling-machine.webp"
 ---
 # Machine de remplissage de pesticides
 

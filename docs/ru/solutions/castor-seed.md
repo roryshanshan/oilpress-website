@@ -2,6 +2,7 @@
 title: Castor Seed (Castor Oil) Solutions - Shengshi Hecheng цена | к...
 description: "Запросите стоимость решения Castor Seed (Castor Oil) Solutions - Shengshi Hecheng: проект линии, список оборудования и сервис."
 keywords: Castor Seed (Castor Oil) Solution цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
+image: "/images/hot-pressing-process-of-castor-seeds-png-89a6227aab.webp"
 ---
 # Castor Seed (Castor Oil) Solution
 
@@ -29,7 +30,7 @@ Castor seed oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/
  + Step 1: Crushing
  + Step 2: Frying
  + Step 3: Pressing
- + ![Castor Seed Oil](/images/蓖麻子热榨工艺_Hot%20pressing%20process%20of%20castor%20seeds_png.png)
+ + ![Castor Seed Oil](/images/hot-pressing-process-of-castor-seeds-png-89a6227aab.webp)
 
 ## Видео обработки высокого давления большой емкости от нашей компании пока недоступно, пожалуйста, временно обратитесь к следующему корейскому прессу для масла, прессующему семена клещевины
 

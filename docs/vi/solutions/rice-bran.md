@@ -1,7 +1,8 @@
 ---
 title: Giải pháp cám gạo (Dầu cám gạo) báo giá | giải pháp trọn gói
-description: Nhận báo giá Giải pháp cám gạo (Dầu cám gạo) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Giải pháp cám gạo (Dầu cám gạo): quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Giải pháp cám gạo (Dầu cám gạo) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/cold-pressing-process-of-glutinous-rice-77cef64384.webp"
 ---
 # Giải pháp cám gạo (Dầu cám gạo)
 
@@ -26,7 +27,7 @@ Cám gạo là sản phẩm phụ trong quá trình sản xuất gạo, chứa n
 ## 加工工艺
 糯米油压榨工艺：(建议426AC-390/480AC-390/500AC-390)
  +糯米冷榨工艺：直接压榨
- ++ ![糯米](/images/糯米冷榨工艺_Cold-pressing%20process%20of%20glutinous%20rice_.png)
+ ++ ![糯米](/images/cold-pressing-process-of-glutinous-rice-77cef64384.webp)
 
 ## 暂无液压榨油机工艺视频，请先参考螺旋榨油机加工工艺视频
 <div class="video-container">

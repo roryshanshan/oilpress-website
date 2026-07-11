@@ -1,7 +1,8 @@
 ---
-title: Giải pháp hạt tía tô (Dầu hạt tía tô) báo giá
+title: "Giải pháp hạt tía tô (Dầu hạt tía tô) | Danh mục thiết bị…"
 description: Nhận báo giá Giải pháp hạt tía tô (Dầu hạt tía tô) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Giải pháp hạt tía tô (Dầu hạt tía tô) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/an-overview-of-the-hot-pressing-process-of-perilla-a2e7edd577.webp"
 ---
 # Giải pháp hạt tía tô (Dầu hạt tía tô)
 
@@ -27,9 +28,9 @@ keywords: Giải pháp hạt tía tô (Dầu hạt tía tô) báo giá dây chuy
 
 +  紫苏子(建议300AC-390/325AC-390/355AC-390/400AC-390)
      + 热榨工艺：紫苏子经过筛选、清洗、炒制、粉碎后然后蒸制，最后进入液压榨油机料桶压榨
-     +  ![紫苏子](/images/紫苏热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressing%20Process%20of%20Perilla.png)
+     +  ![紫苏子](/images/an-overview-of-the-hot-pressing-process-of-perilla-a2e7edd577.webp)
      + 冷榨工艺：紫苏子经过筛选、清洗、粉碎后直接入液压榨油机料桶压榨
-     +  ![紫苏子](/images/紫苏冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressing%20Process%20of%20Perilla.png)
+     +  ![紫苏子](/images/an-overview-of-the-cold-pressing-process-of-perill-76371f15c4.webp)
 
 ## 热榨紫苏籽视频参考
 

@@ -2,6 +2,7 @@
 title: Machine à sceller les bouchons en aluminium prix | fabricant
 description: Demandez le prix et le devis pour Machine à sceller les bouchons en aluminium. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Machine à sceller les bouchons en aluminium prix, acheter Machine à sceller les bouchons en aluminium, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/aluminum-cap-sealing-machine.webp"
 ---
 # Machine à sceller les bouchons en aluminium
 

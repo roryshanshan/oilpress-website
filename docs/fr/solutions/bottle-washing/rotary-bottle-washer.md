@@ -1,7 +1,8 @@
 ---
-title: Rinceuse rotative devis | solution clé en main
-description: "Demandez un devis pour Rinceuse rotative : plan de ligne, liste d’équipements et SAV."
+title: "Rinceuse de bouteilles rotative | Liste d’équipements et…"
+description: "Solution clé en main Rinceuse de bouteilles rotative : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Rinceuse de bouteilles rotative prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/rotary-bottle-washer.webp"
 ---
 # Rinceuse de bouteilles rotative
 

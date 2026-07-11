@@ -2,6 +2,7 @@
 title: Sèche-cheveux à lame d'air turbocompressé prix | fabricant
 description: Demandez le prix et le devis pour Sèche-cheveux à lame d'air turbocompressé. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Sèche-cheveux à lame d'air turbocompressé prix, acheter Sèche-cheveux à lame d'air turbocompressé, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/turbo-air-knife-dryer.webp"
 ---
 # Sèche-cheveux à lame d'air turbocompressé
 

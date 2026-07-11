@@ -1,7 +1,8 @@
 ---
-title: Máy rót rượu hai dây giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy rót rượu hai dây từ nhà sản xuất Shengshi Hecheng.
+title: "Máy rót rượu hai dây giá | Giá nhà máy & báo giá"
+description: "Nhận giá nhà máy cho Máy rót rượu hai dây giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Rót rượu hai dòng, mua Rót rượu hai dòng, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/baijiu-filling-capping-monoblock.webp"
 ---
 # Rót rượu hai dòng
 

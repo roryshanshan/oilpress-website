@@ -1,7 +1,8 @@
 ---
-title: Máy làm đầy chống ăn mòn axit và kiềm báo giá
+title: "Máy chiết rót chống ăn mòn axit và kiềm | Danh mục thiết…"
 description: Nhận báo giá Máy làm đầy chống ăn mòn axit và kiềm với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Máy chiết rót chống ăn mòn axit và kiềm báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/corrosion-resistant-filling-machine.webp"
 ---
 # Máy chiết rót chống ăn mòn axit và kiềm
 

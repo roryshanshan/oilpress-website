@@ -1,7 +1,8 @@
 ---
-title: Machine d'inspection légère prix | fabricant
-description: Demandez le prix et le devis pour Machine d'inspection légère. Fabricant Shengshi Hecheng, livraison et SAV.
+title: "Machine d'inspection légère | Prix usine et devis"
+description: "Demandez le prix usine pour Machine d'inspection légère. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
 keywords: Machine d'inspection légère prix, acheter Machine d'inspection légère, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/light-inspection-machine.webp"
 ---
 # Machine d'inspection légère
 

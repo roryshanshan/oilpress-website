@@ -2,10 +2,11 @@
 title: Предпресс-машина - Shengshi Hecheng цена | производитель
 description: Запросите цену и подбор Предпресс-машина - Shandong Shengshi Hecheng Machinery Co., Ltd.. Производитель Shengshi Hecheng, поставка и сервис.
 keywords: Предпресс-машина цена, купить Предпресс-машина, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
+image: "/images/external/products-pre-press-machine-c62a58a9.webp"
 ---
 # Предпресс-машина
 
-![Предпресс-машина](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)
+![Предпресс-машина](/images/external/products-pre-press-machine-c62a58a9.webp)
 
 ## Обзор продукта
 

@@ -1,6 +1,6 @@
 ---
 title: Le nouvel établissement de production de Shengshi Hecheng entre
-description: "Publié : 18 septembre 2023"
+description: "Après 18 mois de construction et de préparation intensives, le nouvel établissement de production de Shengshi Hecheng a officiellement commencé ses…"
 keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
 ---
 # Le nouvel établissement de production de Shengshi Hecheng entre officiellement en activité

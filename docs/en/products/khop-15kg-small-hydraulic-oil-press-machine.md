@@ -1,11 +1,12 @@
 ---
-title: "KHOP-15KG Small Oil Press Price | Quote"
+title: "KHOP-15KG Small Oil Press | Factory Price & Quote"
 description: "Request a factory quote for the KHOP-15KG small hydraulic oil press, including specs, delivery, procurement, and after-sales service."
 keywords: KHOP-15KG Small Hydraulic Oil Press Machine price, KHOP-15KG Small Hydraulic Oil Press Machine quote, KHOP-15KG Small Hydraulic Oil Press Machine manufacturer, factory procurement, production line matching, after-sales service
+image: "/images/korean-type-small-press/korean-type-overview.webp"
 ---
 # KHOP-15KG Small Hydraulic Oil Press Machine
 
-![KHOP-15KG small hydraulic oil press machine](/images/korean-type-small-press/korean-type-overview.jpg)
+![KHOP-15KG small hydraulic oil press machine](/images/korean-type-small-press/korean-type-overview.webp)
 
 The KHOP-15KG automatic hydraulic oil press is a medium-capacity small oil press machine designed for sesame oil production and small commercial operations. Compared with the 10KG level, it offers higher daily output while keeping the footprint friendly for a retail oil store or compact workshop.
 

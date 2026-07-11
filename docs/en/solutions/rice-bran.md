@@ -1,7 +1,8 @@
 ---
 title: Rice Bran (Rice Bran Oil) | Equipment List & Factory Quote
-description: "Get a rice bran oil line plan with process design, equipment list, factory quote, procurement, and after-sales service."
+description: "Turnkey Rice Bran (Rice Bran Oil) Solution with process design, hydraulic press selection, filtration options, equipment list, and factory quote support."
 keywords: Rice Bran (Rice Bran Oil) Solution quote, Rice Bran (Rice Bran Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
+image: "/images/cold-pressing-process-of-glutinous-rice-77cef64384.webp"
 ---
 # Rice Bran (Rice Bran Oil) Solution
 
@@ -26,7 +27,7 @@ Rice bran is a by-product of rice processing, rich in high-quality oil, and can 
 ## Processing Technology
 Glutinous rice oil pressing technology: (Recommended 426AC-390/480AC-390/500AC-390)
  + Glutinous rice cold pressing process: Direct pressing
- ++ ![Glutinous Rice](/images/糯米冷榨工艺_Cold-pressing%20process%20of%20glutinous%20rice_.png)
+ ++ ![Glutinous Rice](/images/cold-pressing-process-of-glutinous-rice-77cef64384.webp)
 
 ## No hydraulic oil press process video available yet, please refer to the screw oil press processing video first
 

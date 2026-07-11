@@ -1,7 +1,8 @@
 ---
-title: 农药灌装机报价|整线方案
-description: 获取农药灌装机整线方案与报价，含工艺、设备清单与售后支持。
+title: 农药灌装机｜设备与厂家报价
+description: "农药灌装机适合农化、日化等瓶装液体项目，前段带理瓶机构，后段衔接旋盖，可覆盖从中低产量到中高产量的自动线需求。"
 keywords: 农药灌装机报价, 农药灌装机价格, 整线方案, 生产线, 采购
+image: "/images/filling-products/pesticide-filling-machine.webp"
 ---
 # 农药灌装机
 

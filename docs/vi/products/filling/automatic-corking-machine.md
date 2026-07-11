@@ -1,7 +1,8 @@
 ---
 title: Máy đóng nút chai hoàn toàn tự động giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy đóng nút chai hoàn toàn tự động từ nhà sản xuất Shengshi Hecheng.
+description: "Nhận giá nhà máy cho Máy đóng nút chai hoàn toàn tự động giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Máy đóng nút chai hoàn toàn tự động, mua Máy đóng nút chai hoàn toàn tự động, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/automatic-corking-machine.webp"
 ---
 # Máy đóng nút chai hoàn toàn tự động
 

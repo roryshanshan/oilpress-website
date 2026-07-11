@@ -1,7 +1,8 @@
 ---
-title: CO2激光机价格|厂家报价
-description: 获取CO2激光机价格、采购与售后支持，厂家直供，支持选型与交付。
+title: CO2激光机｜价格与厂家报价
+description: "CO2激光机：CO2激光机可作为激光打码机系列中的具体机型参考。本页按公开产品资料整理了机型定位、参数信息和配套建议，方便做初步选型与页面内跳转。"
 keywords: CO2激光机价格, CO2激光机报价, CO2激光机厂家, CO2激光机采购, 售后服务
+image: "/images/filling-products/co2-laser-marking-machine.webp"
 ---
 # CO2激光机
 

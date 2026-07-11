@@ -1,7 +1,8 @@
 ---
-title: Labeling machine series
-description: The labeling machine series is suitable for automatic labeling of packaging products such as edible oil, beverages, and seasoning liquids
+title: "Labeling machine series | Specs, Models & Factory Quote"
+description: "Browse labeling machine series for edible oil and liquid packaging lines. Compare models, capacity ranges, and request factory pricing with process guidance."
 keywords: Labeling machine series, automatic labeling machine, round bottle labeling machine, double side labeling machine, edible oil labeling equipment, packaging line labeling system
+image: "/images/filling-solutions/labeling.webp"
 ---
 
 # Labeling machine series

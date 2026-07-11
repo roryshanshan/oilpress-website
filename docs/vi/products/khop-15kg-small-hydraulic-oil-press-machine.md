@@ -1,11 +1,12 @@
 ---
 title: Máy ép dầu thủy lực nhỏ KHOP-15KG giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy ép dầu thủy lực nhỏ KHOP-15KG từ nhà sản xuất Shengshi Hecheng.
+description: "Nhận giá nhà máy cho Máy ép dầu thủy lực nhỏ KHOP-15KG giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Máy ép dầu thủy lực nhỏ KHOP-15KG, mua Máy ép dầu thủy lực nhỏ KHOP-15KG, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/korean-type-small-press/korean-type-detail.webp"
 ---
 # Máy ép dầu thủy lực nhỏ KHOP-15KG
 
-![Máy ép dầu thủy lực nhỏ KHOP-15KG](/images/korean-type-small-press/korean-type-detail.jpg)
+![Máy ép dầu thủy lực nhỏ KHOP-15KG](/images/korean-type-small-press/korean-type-detail.webp)
 
 KHOP-15KG là máy ép dầu thủy lực tự động ở mức công suất trung bình trong nhóm máy cửa hàng cỡ nhỏ. Máy phù hợp cho sản xuất dầu mè và các dự án thương mại nhỏ. So với cấp 10KG, model này cung cấp sản lượng ngày cao hơn nhưng vẫn giữ bố cục thân máy phù hợp cho cửa hàng hoặc khu xử lý phía sau có diện tích hạn chế.
 

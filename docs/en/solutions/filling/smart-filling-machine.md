@@ -2,6 +2,7 @@
 title: Series intelligent filling machine Quote | Turnkey Solution
 description: Get a quote and turnkey plan for Series intelligent filling machine. Process design, equipment list, and after-sales support.
 keywords: Series intelligent filling machine quote, Series intelligent filling machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/smart-filling-machine.webp"
 ---
 # Series Intelligent Filling Machine
 

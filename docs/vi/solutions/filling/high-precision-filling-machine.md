@@ -2,6 +2,7 @@
 title: Máy chiết rót định lượng có độ chính xác cao báo giá
 description: Nhận báo giá Máy chiết rót định lượng có độ chính xác cao với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Máy chiết rót định lượng có độ chính xác cao báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/high-precision-filling-machine.webp"
 ---
 # Máy chiết rót định lượng có độ chính xác cao
 

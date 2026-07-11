@@ -1,7 +1,8 @@
 ---
-title: Solution de noix de coco (huile de noix de coco) devis
-description: "Demandez un devis pour Solution de noix de coco (huile de noix de coco) : plan de ligne, liste d’équipements et SAV."
+title: "Solution de noix de coco (huile de noix de coco) | Liste…"
+description: "Solution clé en main Solution de noix de coco (huile de noix de coco) : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Solution de noix de coco (huile de noix de coco) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/coconut-puree-e2083a9300.webp"
 ---
 # Solution de noix de coco (huile de noix de coco)
 
@@ -27,7 +28,7 @@ La noix de coco est une importante culture oléagineuse, l'huile de noix de coco
 
 +  Coconut Oil (Recommended 300AC-390/325AC-390/355AC-390/400AC-390)
      + Cold pressing process: The crushed coconut pulp is directly fed into the hydraulic oil press bucket for pressing
-     +  ![Coconut Oil](/images/椰蓉Coconut%20puree冷榨工艺.png)
+     +  ![Coconut Oil](/images/coconut-puree-e2083a9300.webp)
 ## Référence vidéo de presse à huile hydraulique pour jus de coco/lait de coco/purée de coco
 
 <div class="video-container">

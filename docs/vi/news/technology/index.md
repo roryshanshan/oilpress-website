@@ -1,6 +1,6 @@
 ---
-title: Kiến thức kỹ thuật
-description: Các bài viết kỹ thuật mới nhất về máy ép dầu thủy lực, lựa chọn nguyên liệu, ép nóng và ép lạnh, chọn model, ROI, lọc dầu và cấu hình dây chuyền dầu ăn.
+title: "Kiến thức kỹ thuật | Hướng dẫn máy ép dầu"
+description: "Hướng dẫn thực tế: chọn model, ép nóng/lạnh, tăng suất dầu, lọc dầu và layout dây chuyền cho dự án ép dầu thủy lực."
 keywords: máy ép dầu thủy lực, kiến thức ép dầu, ép lạnh, dây chuyền dầu ăn
 ---
 

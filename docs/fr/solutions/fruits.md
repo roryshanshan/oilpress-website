@@ -1,6 +1,6 @@
 ---
 title: Solutions d'huile de fruits devis | solution clé en main
-description: "Demandez un devis pour Solutions d'huile de fruits : plan de ligne, liste d’équipements et SAV."
+description: "Solution clé en main Solutions d'huile de fruits : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Solutions d'huile de fruits prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 ---
 # Solutions d'huile de fruits

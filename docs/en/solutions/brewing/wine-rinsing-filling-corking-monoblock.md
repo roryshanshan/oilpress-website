@@ -2,6 +2,7 @@
 title: Wine rinsing, filling and corking combined machine Quote
 description: Get a quote and turnkey plan for Wine rinsing, filling and corking combined machine. Process design, equipment list, and after-sales support.
 keywords: Wine rinsing, filling and corking combined machine quote, Wine rinsing, filling and corking combined machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/wine-rinsing-filling-corking-monoblock.webp"
 ---
 # Wine rinsing, filling and corking combined machine
 

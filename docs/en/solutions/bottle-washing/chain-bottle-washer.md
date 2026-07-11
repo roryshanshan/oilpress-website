@@ -2,6 +2,7 @@
 title: Chain rail type rinsing machine Quote | Turnkey Solution
 description: Get a quote and turnkey plan for Chain rail type rinsing machine. Process design, equipment list, and after-sales support.
 keywords: Chain rail type rinsing machine quote, Chain rail type rinsing machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/chain-bottle-washer.webp"
 ---
 # Chain Rail Type Bottle Washing Machine
 

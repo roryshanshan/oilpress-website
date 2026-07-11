@@ -1,7 +1,8 @@
 ---
 title: Máy chiết rót chân không thấp GFP-12A giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy chiết rót chân không thấp GFP-12A từ nhà sản xuất Shengshi Hecheng.
+description: "Nhận giá nhà máy cho Máy chiết rót chân không thấp GFP-12A giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Máy chiết rót chân không thấp GFP-12A, mua Máy chiết rót chân không thấp GFP-12A, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/gfp-12a-low-vacuum-filling-machine.webp"
 ---
 # Máy chiết rót chân không thấp GFP-12A
 

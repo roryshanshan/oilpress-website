@@ -1,7 +1,8 @@
 ---
-title: Máy khắc laser sợi quang giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy khắc laser sợi quang từ nhà sản xuất Shengshi Hecheng.
+title: "Máy khắc laser sợi quang giá | Giá nhà máy & báo giá"
+description: "Nhận giá nhà máy cho Máy khắc laser sợi quang giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Máy khắc laser sợi quang, mua Máy khắc laser sợi quang, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/fiber-laser-marking-machine.webp"
 ---
 # Máy khắc laser sợi quang
 

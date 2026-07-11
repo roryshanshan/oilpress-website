@@ -1,7 +1,8 @@
 ---
-title: Machine à sceller automatique à tête unique devis
-description: "Demandez un devis pour Machine à sceller automatique à tête unique : plan de ligne, liste d’équipements et SAV."
+title: "Machine à sceller automatique à tête unique | Liste…"
+description: "Solution clé en main Machine à sceller automatique à tête unique : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Machine à sceller automatique à tête unique prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/single-head-sealing-machine.webp"
 ---
 # Machine à sceller automatique à tête unique
 

@@ -2,6 +2,7 @@
 title: Solution de graines de thé (huile de graines de thé) devis
 description: "Demandez un devis pour Solution de graines de thé (huile de graines de thé) : plan de ligne, liste d’équipements et SAV."
 keywords: Solution de graines de thé (huile de graines de thé) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/process-image-0901d2dd53.webp"
 ---
 # Solution de graines de thé (huile de graines de thé)
 
@@ -28,7 +29,7 @@ Les graines de thé sont une importante culture oléagineuse, l'huile de graines
 ### Procédé de Pressage à Chaud d'Huile de Graine de Thé
 - Les graines de thé subissent un criblage, un nettoyage, un séchage, un concassage et une cuisson à la vapeur avant d'être introduites dans le seau de presse hydraulique pour le pressage.
 - L'huile de graines de thé produite par ce processus a une couleur claire, un arôme pur et une riche nutrition.
-- ![Graine de thé processus de pressage à chaud](/images/茶籽热榨工艺.png)
+- ![Graine de thé processus de pressage à chaud](/images/process-image-0901d2dd53.webp)
 
 ## Vidéo du processus de pressage à chaud des graines de thé
 

@@ -1,7 +1,8 @@
 ---
-title: 直线式灌装机价格|厂家报价
-description: 获取直线式灌装机价格、采购与售后支持，厂家直供，支持选型与交付。
+title: 直线式灌装机｜价格与厂家报价
+description: "直线式灌装机：直线式灌装机主要面向中大桶液体的定量灌装，适合 10-25 L 容量段的包装需求，常用于食用油、化工液体和大包装液体项目。"
 keywords: 直线式灌装机价格, 直线式灌装机报价, 直线式灌装机厂家, 直线式灌装机采购, 售后服务
+image: "/images/filling-products/linear-filling-machine.webp"
 ---
 # 直线式灌装机
 

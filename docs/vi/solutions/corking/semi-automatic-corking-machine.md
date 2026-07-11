@@ -1,7 +1,8 @@
 ---
 title: Máy đóng nút chai bán tự động báo giá | giải pháp trọn gói
-description: Nhận báo giá Máy đóng nút chai bán tự động với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Máy đóng nút chai bán tự động: quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Máy đóng nút chai bán tự động báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/semi-automatic-corking-machine.webp"
 ---
 # Máy đóng nút chai bán tự động
 

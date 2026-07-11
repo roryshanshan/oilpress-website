@@ -1,7 +1,8 @@
 ---
 title: Giải pháp đậu nành (Dầu đậu nành) báo giá | giải pháp trọn gói
-description: Nhận báo giá Giải pháp đậu nành (Dầu đậu nành) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Giải pháp đậu nành (Dầu đậu nành): quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Giải pháp đậu nành (Dầu đậu nành) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/process-image-bc91f2194d.webp"
 ---
 # Giải pháp đậu nành (Dầu đậu nành)
 
@@ -26,9 +27,9 @@ keywords: Giải pháp đậu nành (Dầu đậu nành) báo giá dây chuyền
 ## 加工工艺
 + 大豆(建议 300AC-390/325AC-390/350AC-390/400AC-390)
  + 冷榨工艺：大豆高速粉碎后进行压榨
- + ![Đậu nành quy trình ép lạnh](/images/大豆冷榨工艺.png)
+ + ![Đậu nành quy trình ép lạnh](/images/process-image-bc91f2194d.webp)
  + 热榨工艺：大豆磨成胚状（粉碎）一 蒸熟-一压榨
- + ![Đậu nành quy trình ép nóng](/images/大豆热榨工艺.png)
+ + ![Đậu nành quy trình ép nóng](/images/process-image-ce959e498e.webp)
  + 大豆热榨的加工工艺的视频如下：
  <div class="video-container">
   <iframe src="https://www.youtube.com/embed/FoADdpLvCGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

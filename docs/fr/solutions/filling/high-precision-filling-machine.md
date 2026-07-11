@@ -2,6 +2,7 @@
 title: Machine de remplissage quantitative de haute précision devis
 description: "Demandez un devis pour Machine de remplissage quantitative de haute précision : plan de ligne, liste d’équipements et SAV."
 keywords: Machine de remplissage quantitative de haute précision prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/high-precision-filling-machine.webp"
 ---
 # Machine de remplissage quantitative de haute précision
 

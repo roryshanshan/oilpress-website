@@ -1,7 +1,8 @@
 ---
-title: Série de machines thermorétractables pour capuchons en caoutchouc
-description: La série de machines thermorétractables pour bouchons en caoutchouc est principalement utilisée pour l'emballage rétractable de bouchons en caoutchouc PVC ou...
+title: Série de machines thermorétractables pour capuchons en…
+description: Découvrez série de machines thermorétractables pour capuchons en caoutchouc pour lignes d’huile comestible et conditionnement liquide. Comparez les…
 keywords: Série de machines thermorétractables pour capuchons en caoutchouc, machine thermorétractable, équipement thermorétractable pour capuchons en caoutchouc PVC, machine rétractable pour bouchons de vin, équipement pour capuchons rétractables d'huile de boîte-cadeau, machine de scellage thermorétractable
+image: "/images/filling-solutions/cap-shrinking.webp"
 ---
 
 # Série de machines thermorétractables pour capuchons en caoutchouc

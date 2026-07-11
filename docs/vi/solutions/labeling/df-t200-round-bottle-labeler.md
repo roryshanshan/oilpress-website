@@ -2,6 +2,7 @@
 title: Máy dán nhãn chai tròn bán tự động DF-T200 báo giá
 description: Nhận báo giá Máy dán nhãn chai tròn bán tự động DF-T200 với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Máy dán nhãn chai tròn bán tự động DF-T200 báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/df-t200-round-bottle-labeler.webp"
 ---
 # Máy dán nhãn chai tròn bán tự động DF-T200
 

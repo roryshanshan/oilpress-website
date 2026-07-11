@@ -1,11 +1,12 @@
 ---
-title: 韩式小型液压榨油机价格|厂家报价
-description: 获取韩式小型液压榨油机价格、采购与售后支持，厂家直供，支持选型与交付。
+title: 韩式小型液压榨油机｜价格与厂家报价
+description: "韩式小型液压榨油机：韩式小型液压榨油机主要面向低产量、高附加值的现榨油业务场景，尤其适合芝麻油门店、客户可视化现榨柜台、有机油品专柜以及小型精品油坊，一边压榨一边销售，展示效果和商业转化都更友好。"
 keywords: 韩式小型液压榨油机价格, 韩式小型液压榨油机报价, 韩式小型液压榨油机厂家, 韩式小型液压榨油机采购, 售后服务
+image: "/images/korean-type-small-press/korean-type-overview.webp"
 ---
 # 韩式小型液压榨油机
 
-![韩式小型液压榨油机](/images/korean-type-small-press/korean-type-overview.jpg)
+![韩式小型液压榨油机](/images/korean-type-small-press/korean-type-overview.webp)
 
 韩式小型液压榨油机主要面向低产量、高附加值的现榨油业务场景，尤其适合芝麻油门店、客户可视化现榨柜台、有机油品专柜以及小型精品油坊，一边压榨一边销售，展示效果和商业转化都更友好。
 
@@ -16,7 +17,7 @@ keywords: 韩式小型液压榨油机价格, 韩式小型液压榨油机报价, 
 - 不锈钢外观更利于清洁与展示
 - 更适合芝麻等高油率、重香型、重体验的油料
 
-![韩式小型液压榨油机侧视图](/images/korean-type-small-press/korean-type-side.jpg)
+![韩式小型液压榨油机侧视图](/images/korean-type-small-press/korean-type-side.webp)
 
 ## 与工业液压榨油机的区别
 
@@ -60,7 +61,7 @@ keywords: 韩式小型液压榨油机价格, 韩式小型液压榨油机报价, 
 - 小型精品油品项目
 - 社区型食品加工店
 
-![韩式小型液压榨油机操作图](/images/korean-type-small-press/korean-type-operation.jpg)
+![韩式小型液压榨油机操作图](/images/korean-type-small-press/korean-type-operation.webp)
 
 ## 选型建议
 

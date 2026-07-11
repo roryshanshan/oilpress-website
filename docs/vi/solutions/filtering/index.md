@@ -1,11 +1,12 @@
 ---
-title: Dòng máy lọc (Filtering)
-description: Dòng máy lọc dùng để làm trong chất lỏng trước khi chiết rót hoặc sau ép dầu, giúp giảm cặn, ổn định ngoại quan và bảo vệ thiết bị phía sau.
+title: "Dòng máy lọc (Filtering) | Model, thông số & báo giá nhà máy"
+description: Xem dòng máy lọc (filtering) cho dây chuyền dầu ăn và đóng gói lỏng. So sánh model và yêu cầu báo giá nhà máy.
 keywords: máy lọc chất lỏng, filtering machine, lọc dầu ăn, lọc trước chiết rót, máy lọc khung bản
+image: "/images/filling-solutions/filtering.webp"
 ---
 # Dòng máy lọc (Filtering)
 
-![Máy lọc](/images/filling-solutions/filtering.png)
+![Máy lọc](/images/filling-solutions/filtering.webp)
 
 Máy lọc là một mắt xích quan trọng trước khi chiết rót hoặc sau ép, đặc biệt với dầu ăn, rượu, đồ uống và nước chấm. Chất lượng lọc ảnh hưởng trực tiếp đến độ trong, lượng cặn còn lại và độ ổn định của máy chiết rót ở công đoạn sau.
 

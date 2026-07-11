@@ -1,7 +1,8 @@
 ---
-title: Thang máy giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Thang máy từ nhà sản xuất Shengshi Hecheng.
+title: "Băng tải nâng / Elevator | Giá nhà máy & báo giá"
+description: "Nhận giá nhà máy cho elevator/thang nâng dùng trên dây chuyền chiết rót dầu ăn và đóng gói lỏng, hỗ trợ chọn model và sau bán."
 keywords: giá Palăng, mua Palăng, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/fruit-elevator.webp"
 ---
 # Palăng
 

@@ -1,7 +1,8 @@
 ---
-title: Dòng máy chiết rót
-description: Dòng máy chiết rót phù hợp để chiết rót định lượng các sản phẩm dạng lỏng như dầu ăn, dầu đặc biệt, đồ uống, chất lỏng gia vị, v. v.
+title: "Dòng máy chiết rót | Model, thông số & báo giá nhà máy"
+description: Xem dòng máy chiết rót cho dây chuyền dầu ăn và đóng gói lỏng. So sánh model và yêu cầu báo giá nhà máy.
 keywords: Dòng máy chiết rót, máy chiết rót dầu ăn, thiết bị chiết rót định lượng, máy chiết rót dầu đóng chai, thiết bị chiết rót thùng, dây chuyền sản xuất chiết rót chất lỏng
+image: "/images/filling-solutions/filling.webp"
 ---
 
 # Dòng máy chiết rót

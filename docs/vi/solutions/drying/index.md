@@ -1,7 +1,8 @@
 ---
-title: Dòng máy sấy thổi
-description: Dòng máy sấy thổi được sử dụng để thổi bay nước trên bề mặt chai sau khi rửa, làm sạch hoặc đổ đầy, nhằm tạo điều kiện thuận lợi cho việc dán nhãn
+title: "Dòng máy sấy thổi | Model, thông số & báo giá nhà máy"
+description: Xem dòng máy sấy thổi cho dây chuyền dầu ăn và đóng gói lỏng. So sánh model và yêu cầu báo giá nhà máy.
 keywords: Dòng máy sấy thổi, máy sấy thổi chai, thiết bị sấy dao khí, sấy trước khi dán nhãn, máy sấy bao bì dầu ăn, thiết bị sấy dây chuyền chiết rót
+image: "/images/filling-solutions/drying.webp"
 ---
 
 # Dòng máy sấy thổi

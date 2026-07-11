@@ -1,5 +1,5 @@
 ---
-title: Thiết bị chiết rót và đóng gói
+title: "Thiết bị chiết rót và đóng gói | Giá nhà máy & báo giá"
 description: Tổng quan thiết bị chiết rót và đóng gói, tập trung vào các dự án rượu vang, hoàng tửu, nước tương, giấm và các model máy chiết rót chân không thấp.
 keywords: giá Thiết bị chiết rót và đóng gói, mua Thiết bị chiết rót và đóng gói, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 ---

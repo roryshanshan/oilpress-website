@@ -1,7 +1,8 @@
 ---
-title: Machine à deux lignes de remplissage d'alcool devis
-description: "Demandez un devis pour Machine à deux lignes de remplissage d'alcool : plan de ligne, liste d’équipements et SAV."
+title: "Remplissage d'alcool à deux lignes | Liste d’équipements…"
+description: "Solution clé en main Remplissage d'alcool à deux lignes : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Remplissage d'alcool à deux lignes prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/baijiu-filling-capping-monoblock.webp"
 ---
 # Remplissage d'alcool à deux lignes
 

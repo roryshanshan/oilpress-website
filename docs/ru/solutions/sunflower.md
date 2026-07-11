@@ -2,6 +2,7 @@
 title: Решение для семян подсолнечника (Масло подсолнечника) цена
 description: "Запросите стоимость решения Решение для семян подсолнечника (Масло подсолнечника): проект линии, список оборудования и сервис."
 keywords: Решение для семян подсолнечника (Масло подсолнечника) цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
+image: "/images/sunflower-seed-hot-pressing-process.webp"
 ---
 # Решение для семян подсолнечника (Масло подсолнечника)
 
@@ -27,7 +28,7 @@ keywords: Решение для семян подсолнечника (Масл�
 
 ### Процесс горячего отжима масла подсолнечника
 - Семена подсолнечника проходят очистку, измельчение и обжарку перед подачей в гидравлический прессовый бак для отжима.
-- ![Процесс горячего отжима масла подсолнечника](/images/sunflower-seed-hot-pressing-process.png)
+- ![Процесс горячего отжима масла подсолнечника](/images/sunflower-seed-hot-pressing-process.webp)
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/BdmN8beHRyg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

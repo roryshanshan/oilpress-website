@@ -1,7 +1,8 @@
 ---
-title: Palettiseur robot prix | fabricant
-description: Demandez le prix et le devis pour Palettiseur robot. Fabricant Shengshi Hecheng, livraison et SAV.
+title: "Robot palettiseur | Prix usine et devis"
+description: "Demandez le prix usine pour Robot palettiseur. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
 keywords: Robot palettiseur prix, acheter Robot palettiseur, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/robot-palletizer.webp"
 ---
 # Robot palettiseur
 

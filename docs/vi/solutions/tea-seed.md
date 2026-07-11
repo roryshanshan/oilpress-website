@@ -1,7 +1,8 @@
 ---
 title: Giải pháp hạt trà (Dầu hạt trà) báo giá | giải pháp trọn gói
-description: Nhận báo giá Giải pháp hạt trà (Dầu hạt trà) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Giải pháp hạt trà (Dầu hạt trà): quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Giải pháp hạt trà (Dầu hạt trà) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/process-image-0901d2dd53.webp"
 ---
 # Giải pháp hạt trà (Dầu hạt trà)
 
@@ -28,7 +29,7 @@ keywords: Giải pháp hạt trà (Dầu hạt trà) báo giá dây chuyền, gi
 + 茶籽(建议300AC-390/325AC-390/355AC-390/400AC-390)
         + 茶籽油热榨工艺：茶籽经过筛选、清洗、烘干、破碎、蒸炒后接入液压榨油机料桶压榨。
         + 采用此工艺压榨的茶籽油，色泽清亮，香味纯正，营养丰富。
-        + ![Hạt trà quy trình ép nóng](/images/茶籽热榨工艺.png)
+        + ![Hạt trà quy trình ép nóng](/images/process-image-0901d2dd53.webp)
 
 ## 茶籽热榨工艺视频
 <div class="video-container">

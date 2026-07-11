@@ -1,7 +1,8 @@
 ---
-title: 核桃液压榨油机｜核桃油冷榨方案与设备
-description: 核桃液压榨油机低温冷榨核桃油，保留亚油酸与营养成分，适合核桃产区高端食用油加工，提供整线配置与产能测算。
+title: 核桃（核桃油）解决方案｜设备与厂家报价
+description: "核桃是重要的油料作物，核桃油具有独特的营养价值和应用价值。山东盛世赫程机械有限公司提供专业的核桃压榨解决方案，从小型作坊到大型工厂的全套设备和服务。"
 keywords: 核桃（核桃油）解决方案 - 山东盛世赫程机械有限公司报价, 核桃（核桃油）解决方案 - 山东盛世赫程机械有限公司价格, 整线方案, 生产线, 采购
+image: "/images/process-image-647a0e9868.webp"
 ---
 # 核桃（核桃油）解决方案
 
@@ -28,7 +29,7 @@ keywords: 核桃（核桃油）解决方案 - 山东盛世赫程机械有限公�
 + 核桃(建议426AC-390/480AC-390/500AC-390)
      + 冷榨工艺：核桃经过筛选、清洗、高速粉碎后直接入液压榨油机料桶压榨。
      + 采用此工艺压榨的核桃油，色泽金黄，入口回甘，压榨出的油不用水化处理，下锅不起泡。
-     + ![核桃冷榨工艺](/images/核桃冷榨工艺.png)
+     + ![核桃冷榨工艺](/images/process-image-647a0e9868.webp)
 ## 核桃冷榨参考视频，视频中测试机为 325 型，不建议做为生产使用，仅供参考。
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/2Y0HsdtzfWg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

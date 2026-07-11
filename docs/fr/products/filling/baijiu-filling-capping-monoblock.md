@@ -2,6 +2,7 @@
 title: Machine à deux lignes de remplissage d'alcool prix | fabricant
 description: Demandez le prix et le devis pour Machine à deux lignes de remplissage d'alcool. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Remplissage d'alcool à deux lignes prix, acheter Remplissage d'alcool à deux lignes, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/baijiu-filling-capping-monoblock.webp"
 ---
 # Remplissage d'alcool à deux lignes
 

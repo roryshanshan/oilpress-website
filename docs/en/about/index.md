@@ -1,6 +1,6 @@
 ---
-title: About Us - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng Machinery Co., Ltd.
+title: "About Us | Hydraulic Oil Press Manufacturer"
+description: About Us — Shandong Shengshi Hecheng designs and builds hydraulic oil presses and edible oil lines with global project support.
 keywords: About Us, Shandong Shengshi Hecheng, hydraulic oil press manufacturer, oil press equipment factory, oilseed processing equipment, oil press R&D, Oil press equipment manufacturer, Oil press equipment R&D
 ---
 

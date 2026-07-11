@@ -2,6 +2,7 @@
 title: GDP36DK-10-10 Machine combinée de remplissage et de bouchage ...
 description: Demandez le prix et le devis pour GDP36DK-10-10 Machine combinée de remplissage et de bouchage intelligente entièrement automatique.
 keywords: GDP36DK-10-10 Machine de remplissage, de bouchage et de scellage intelligente entièrement automatique prix, acheter GDP36DK-10-10 Machine de remplissage, de bouchage et de scellage intelligente entièrement automatique, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/gdp36dk-filling-capping-sealing-monoblock.webp"
 ---
 # GDP36DK-10-10 Machine de remplissage, de bouchage et de scellage intelligente entièrement automatique
 

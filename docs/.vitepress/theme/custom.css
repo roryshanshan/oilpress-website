@@ -265,3 +265,13 @@ html {
   color: #fff !important;
   -webkit-text-fill-color: #fff;
 }
+
+/* Semantic replacement for legacy <font color="red"> tags */
+.notice-highlight {
+  color: #c0392b;
+  font-weight: 600;
+}
+
+.notice-text {
+  color: var(--vp-c-text-2);
+}

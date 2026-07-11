@@ -1,10 +1,11 @@
 ---
-title: 包饼机 - 山东盛世赫程机械有限公司价格|厂家报价
-description: 获取包饼机 - 山东盛世赫程机械有限公司价格、采购与售后支持，厂家直供，支持选型与交付。
-keywords: 包饼机 - 山东盛世赫程机械有限公司价格, 包饼机 - 山东盛世赫程机械有限公司报价, 包饼机 - 山东盛世赫程机械有限公司厂家, 包饼机 - 山东盛世赫程机械有限公司采购, 售后服务
+title: "包饼机｜液压榨油配套价格与报价"
+description: "获取包饼机厂家价格与方案，配合液压榨油机完成包饼入桶工序，支持整线配置与售后支持。"
+keywords: "包饼机价格, 包饼机报价, 包饼机厂家, 包饼机采购, 售后服务"
+image: "/images/external/products-cake-wrapping-machine-ae834832.webp"
 ---
 # 包饼机
-![包饼机](https://i.postimg.cc/XW8ztq7j/9fbc817965109be9b37b5995fe94af50.png?dl=1)
+![包饼机](/images/external/products-cake-wrapping-machine-ae834832.webp)
 ## 产品概述
 
 该机器为卧式液压榨油机必备配套设备，压饼模具大小可定制，常规款饼径240-480mm，其他款尺寸需定制。

@@ -1,7 +1,8 @@
 ---
-title: Rinsing machine series
-description: The bottle rinsing machine series is suitable for cleaning empty bottles before filling bottled products such as edible oil, beverages, and seasoning liquids
+title: "Bottle rinsing machine series | Specs, Models & Factory Quote"
+description: "Browse bottle rinsing machine series for edible oil and liquid packaging lines. Compare models, capacity ranges, and request factory pricing with process…"
 keywords: Bottle rinsing machine series, empty bottle rinsing equipment, edible oil rinsing machine, glass bottle rinsing machine, PET bottle cleaning equipment, filling pre-treatment equipment
+image: "/images/filling-solutions/bottle-washing.webp"
 ---
 
 # Bottle rinsing machine series

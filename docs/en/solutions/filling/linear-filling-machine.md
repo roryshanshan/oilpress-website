@@ -1,7 +1,8 @@
 ---
-title: Linear filling machine Quote | Turnkey Solution
-description: Get a quote and turnkey plan for Linear filling machine. Process design, equipment list, and after-sales support.
+title: "Linear filling machine | Equipment List & Factory Quote"
+description: "Turnkey Linear filling machine with process design, hydraulic press selection, filtration options, equipment list, and factory quote support."
 keywords: Linear filling machine quote, Linear filling machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/linear-filling-machine.webp"
 ---
 # Linear filling machine
 

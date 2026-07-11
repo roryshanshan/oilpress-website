@@ -2,6 +2,7 @@
 title: Máy sấy thổi tiết kiệm năng lượng tay nhện báo giá
 description: Nhận báo giá Máy sấy thổi tiết kiệm năng lượng tay nhện với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Máy sấy thổi tiết kiệm năng lượng SpiderHand báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/spider-arm-bottle-dryer.webp"
 ---
 # Máy sấy thổi tiết kiệm năng lượng SpiderHand
 

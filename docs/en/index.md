@@ -1,8 +1,9 @@
 ---
 layout: home
-title: Hydraulic Oil Press Manufacturer | Price & Quote Today
-description: Get price and procurement support for 300-500 series hydraulic oil press machines and turnkey edible oil production lines, with factory direct after-sales.
+title: "Hydraulic Oil Press Manufacturer | Price & Quote Today"
+description: "Get price and procurement support for 300-500 series hydraulic oil press machines and turnkey edible oil production lines, with factory direct after-sales."
 keywords: hydraulic oil press price, hydraulic oil press manufacturer, oil press quote, oil press procurement, oil processing line supplier, factory direct, after-sales service, Shengshi Hecheng
+image: "/images/hero-oil-press.webp"
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
@@ -36,7 +37,7 @@ keywords: hydraulic oil press price, hydraulic oil press manufacturer, oil press
     </div>
   </div>
   <div class="hero-image">
-    <img src="/images/hero-oil-press.webp" alt="Shengshi Hecheng Hydraulic Oil Press" />
+    <img src="/images/hero-oil-press.webp" alt="Shengshi Hecheng Hydraulic Oil Press" decoding="async" fetchpriority="high" loading="eager" width="1200" height="800">
   </div>
 </div>
 
@@ -50,7 +51,7 @@ keywords: hydraulic oil press price, hydraulic oil press manufacturer, oil press
     <a href="/en/about/" class="learn-more">Learn More →</a>
   </div>
   <div class="intro-image">
-    <img src="/images/hero-oil-press.webp" alt="Shengshi Hecheng Factory" />
+    <img src="/images/hero-oil-press.webp" alt="Shengshi Hecheng Factory" decoding="async" fetchpriority="high" loading="eager" width="1200" height="800">
   </div>
 </div>
 
@@ -58,43 +59,43 @@ keywords: hydraulic oil press price, hydraulic oil press manufacturer, oil press
 
 <div class="product-series">
   <div class="product-card">
-    <img src="/images/300-325-series.webp" alt="300 Series Oil Press" />
+    <img src="/images/300-325-series.webp" alt="300 Series Oil Press" decoding="async" loading="lazy" width="1200" height="1600">
     <h3>300 Series</h3>
     <p>Entry hot-press model; capacity is calculated by barrel size, batch load, cycle time, and working hours.</p>
     <a href="/en/products/300" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
-    <img src="/images/300-325-series.webp" alt="325 Series Oil Press" />
+    <img src="/images/300-325-series.webp" alt="325 Series Oil Press" decoding="async" loading="lazy" width="1200" height="1600">
     <h3>325 Series</h3>
     <p>Hot-press workhorse for small workshops; output depends on barrel configuration and batch rhythm.</p>
     <a href="/en/products/325" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="355 Series Oil Press" />
+    <img src="/images/355-500-series.webp" alt="355 Series Oil Press" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>355 Series</h3>
     <p>Stronger pressure structure for premium batch pressing and cold-press projects.</p>
     <a href="/en/products/355" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="400 Series Oil Press" />
+    <img src="/images/355-500-series.webp" alt="400 Series Oil Press" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>400 Series</h3>
     <p>Mid-range cold-press model; match barrel size and raw material before estimating output.</p>
     <a href="/en/products/400" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="426 Series Oil Press" />
+    <img src="/images/355-500-series.webp" alt="426 Series Oil Press" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>426 Series</h3>
     <p>Stable high-pressure option for harder oilseeds and longer production schedules.</p>
     <a href="/en/products/426" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="480 Series Oil Press" />
+    <img src="/images/355-500-series.webp" alt="480 Series Oil Press" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>480 Series</h3>
     <p>Heavy-duty cold-press model for projects that need more pressure reserve and stable batches.</p>
     <a href="/en/products/480" class="learn-more">Learn More</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="500 Series Oil Press" />
+    <img src="/images/355-500-series.webp" alt="500 Series Oil Press" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>500 Series</h3>
     <p>Flagship high-pressure model; real capacity still depends on barrel setup and full-cycle timing.</p>
     <a href="/en/products/500" class="learn-more">Learn More</a>
@@ -131,35 +132,35 @@ keywords: hydraulic oil press price, hydraulic oil press manufacturer, oil press
 <div class="materials-section">
   <div class="materials-grid">
     <div class="material-item">
-      <img src="/images/peanut.svg" alt="Peanut" />
+      <img src="/images/peanut.svg" alt="Peanut" decoding="async" loading="lazy" width="200" height="200">
       <span>Peanut</span>
     </div>
     <div class="material-item">
-      <img src="/images/soybean.svg" alt="Soybean" />
+      <img src="/images/soybean.svg" alt="Soybean" decoding="async" loading="lazy" width="200" height="200">
       <span>Soybean</span>
     </div>
     <div class="material-item">
-      <img src="/images/tea-seed.svg" alt="Tea Seed" />
+      <img src="/images/tea-seed.svg" alt="Tea Seed" decoding="async" loading="lazy" width="200" height="200">
       <span>Tea Seed</span>
     </div>
     <div class="material-item">
-      <img src="/images/sesame.svg" alt="Sesame" />
+      <img src="/images/sesame.svg" alt="Sesame" decoding="async" loading="lazy" width="200" height="200">
       <span>Sesame</span>
     </div>
     <div class="material-item">
-      <img src="/images/corn.svg" alt="Corn Germ" />
+      <img src="/images/corn.svg" alt="Corn Germ" decoding="async" loading="lazy" width="200" height="200">
       <span>Corn Germ</span>
     </div>
     <div class="material-item">
-      <img src="/images/flax.svg" alt="Flax" />
+      <img src="/images/flax.svg" alt="Flax" decoding="async" loading="lazy" width="100" height="100">
       <span>Flax</span>
     </div>
     <div class="material-item">
-      <img src="/images/rapeseed.svg" alt="Rapeseed" />
+      <img src="/images/rapeseed.svg" alt="Rapeseed" decoding="async" loading="lazy" width="100" height="100">
       <span>Rapeseed</span>
     </div>
     <div class="material-item">
-      <img src="/images/cottonseed.svg" alt="Cottonseed" />
+      <img src="/images/cottonseed.svg" alt="Cottonseed" decoding="async" loading="lazy" width="100" height="100">
       <span>Cottonseed</span>
     </div>
   </div>
@@ -191,14 +192,14 @@ keywords: hydraulic oil press price, hydraulic oil press manufacturer, oil press
 
 <div class="case-studies">
   <div class="case-item">
-    <img src="/images/case1.svg" alt="Xinjiang Oil Factory Case" />
+    <img src="/images/case1.svg" alt="Xinjiang Oil Factory Case" decoding="async" loading="lazy" width="200" height="200">
     <div class="case-content">
       <h3>Large Oil Factory in Xinjiang</h3>
       <p>Using our 425 Series oil press, with a daily output of 20 tons, oil yield increased by 15%, resulting in an annual revenue increase of 2 million yuan</p>
     </div>
   </div>
   <div class="case-item">
-    <img src="/images/case2.svg" alt="Southeast Asian Customer Case" />
+    <img src="/images/case2.svg" alt="Southeast Asian Customer Case" decoding="async" loading="lazy" width="200" height="200">
     <h3>Southeast Asian Customer</h3>
     <p>Introduced our complete oil pressing production line, transforming from a manual workshop to a modern factory, with a 5-fold increase in production capacity</p>
   </div>

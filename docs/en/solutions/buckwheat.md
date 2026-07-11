@@ -1,6 +1,6 @@
 ---
 title: Buckwheat (Buckwheat Oil) | Equipment List & Factory Quote
-description: "Get a buckwheat oil line plan with process design, equipment list, factory quote, procurement, and after-sales service."
+description: "Turnkey Buckwheat (Buckwheat Oil) Solution with process design, hydraulic press selection, filtration options, equipment list, and factory quote support."
 keywords: Buckwheat (Buckwheat Oil) Solution quote, Buckwheat (Buckwheat Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
 ---
 # Buckwheat (Buckwheat Oil) Solution

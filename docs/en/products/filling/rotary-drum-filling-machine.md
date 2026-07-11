@@ -1,7 +1,8 @@
 ---
 title: Rotary vat filling machine Price | Manufacturer & Quote
-description: Get price, procurement, and after-sales support for Rotary vat filling machine from Shengshi Hecheng manufacturer.
+description: "Get factory pricing for Rotary vat filling machine. Suitable for edible oil projects with model selection, procurement support, and after-sales service…"
 keywords: Rotary vat filling machine price, Rotary vat filling machine quote, Rotary vat filling machine manufacturer, Rotary vat filling machine supplier, procurement, after-sales
+image: "/images/filling-products/rotary-drum-filling-machine.webp"
 ---
 # Rotary vat filling machine
 

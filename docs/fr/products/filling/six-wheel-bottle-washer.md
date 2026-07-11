@@ -1,7 +1,8 @@
 ---
-title: Rinceuse à six roues prix | fabricant
-description: Demandez le prix et le devis pour Rinceuse à six roues. Fabricant Shengshi Hecheng, livraison et SAV.
+title: "Rinceuse à six roues | Prix usine et devis"
+description: "Demandez le prix usine pour Rinceuse à six roues. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
 keywords: Rinceuse à six roues prix, acheter Rinceuse à six roues, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/six-wheel-bottle-washer.webp"
 ---
 # Rinceuse à six roues
 

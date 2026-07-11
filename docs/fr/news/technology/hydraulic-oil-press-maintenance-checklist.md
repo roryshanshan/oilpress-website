@@ -1,6 +1,6 @@
 ---
 title: "Checklist d'entretien d'une presse à huile hydraulique : contr..."
-description: Utilisez cette checklist d'entretien de presse à huile hydraulique pour gérer les inspections quotidiennes
+description: "Checklist d'entretien d'une presse à huile hydraulique : contrôles quotidiens, hebdomadaires et mensuels: equipment overview, selection guidance, and…"
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-14"
 ---

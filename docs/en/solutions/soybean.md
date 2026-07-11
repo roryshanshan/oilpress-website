@@ -1,7 +1,8 @@
 ---
-title: Soybean (Soybean Oil) | Equipment List & Factory Quote
+title: "Soybean (Soybean Oil) Solutions | Equipment List & Factory…"
 description: Get a turnkey plan for Soybean (Soybean Oil) Solutions, including process design, equipment list, factory quote, procurement support, and after-sales service.
 keywords: Soybean (Soybean Oil) Solutions quote, Soybean (Soybean Oil) Solutions production line, equipment list, turnkey solution, factory procurement, after-sales service
+image: "/images/process-image-bc91f2194d.webp"
 ---
 # Soybean (Soybean Oil) Solutions
 
@@ -27,11 +28,11 @@ Soybean is one of the world's most important oilseed crops, and soybean oil is a
 
 ### Cold Pressing Process
 - Soybean high-speed crushing followed by pressing
-- ![Soybean cold pressing process](/images/大豆冷榨工艺.png)
+- ![Soybean cold pressing process](/images/process-image-bc91f2194d.webp)
 
 ### Hot Pressing Process
 - Soybean grinding into embryo shape (crushing) - steaming - pressing
-- ![Soybean hot pressing process](/images/大豆热榨工艺.png)
+- ![Soybean hot pressing process](/images/process-image-ce959e498e.webp)
 
 The hot pressing process for soybean processing is shown in the following video:
 

@@ -2,9 +2,10 @@
 title: Máy lọc dầu nhiều tầng khí nén - Shengshi Hecheng giá | nhà sả...
 description: Nhận báo giá và tư vấn mua Máy lọc dầu nhiều tầng khí nén - Shengshi Hecheng từ nhà sản xuất Shengshi Hecheng.
 keywords: giá Máy lọc dầu nhiều tầng khí nén, mua Máy lọc dầu nhiều tầng khí nén, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/external/products-pneumatic-filter-press-54de9739.webp"
 ---
 # Máy lọc dầu nhiều tầng khí nén
-![Máy lọc dầu nhiều tầng khí nén](https://i.postimg.cc/mR4Z4z8S/image.png?dl=1)
+![Máy lọc dầu nhiều tầng khí nén](/images/external/products-pneumatic-filter-press-54de9739.webp)
 ## Giới thiệu sản phẩm
 
 Bộ lọc dầu nhiều tầng này sử dụng inox 304 ở phần tiếp xúc vật liệu, thiết kế bề mặt sáng bóng, các khớp nối bằng inox 304 (phần nắp trên bằng đồng), đảm bảo vệ sinh và thẩm mỹ.

@@ -1,7 +1,8 @@
 ---
-title: Palettiseur robot devis | solution clé en main
-description: "Demandez un devis pour Palettiseur robot : plan de ligne, liste d’équipements et SAV."
+title: "Robot palettiseur | Liste d’équipements et devis"
+description: "Solution clé en main Robot palettiseur : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Robot palettiseur prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/robot-palletizer.webp"
 ---
 # Robot palettiseur
 

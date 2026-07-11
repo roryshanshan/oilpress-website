@@ -1,7 +1,8 @@
 ---
 title: Giải pháp hạt ớt (Dầu hạt ớt) báo giá | giải pháp trọn gói
-description: Nhận báo giá Giải pháp hạt ớt (Dầu hạt ớt) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Giải pháp hạt ớt (Dầu hạt ớt): quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Giải pháp hạt ớt (Dầu hạt ớt) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/hot-pressing-process-of-chili-seeds-c9c009d0eb.webp"
 ---
 # Giải pháp hạt ớt (Dầu hạt ớt)
 
@@ -29,7 +30,7 @@ Quy trình ép dầu ớt (gợi ý: 300AC-390/325AC-390/355AC-390/400AC-390)
 + Bước 1: Nghiền
 + Bước 2: Hấp
 + Bước 3: Ép
-+ ![Quy trình ép nóng](/images/辣椒籽热榨工艺_Hot%20pressing%20process%20of%20chili%20seeds.png)
++ ![Quy trình ép nóng](/images/hot-pressing-process-of-chili-seeds-c9c009d0eb.webp)
 
 
 ## Ưu điểm kỹ thuật

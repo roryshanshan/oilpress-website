@@ -2,6 +2,7 @@
 title: Machine trois-en-un pour rincer, remplir et sceller prix
 description: Demandez le prix et le devis pour Machine trois-en-un pour rincer, remplir et sceller. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Machine à trois lignes de rinçage, de remplissage et de scellage prix, acheter Machine à trois lignes de rinçage, de remplissage et de scellage, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/cgf-three-in-one-monoblock.webp"
 ---
 # Machine à trois lignes de rinçage, de remplissage et de scellage
 

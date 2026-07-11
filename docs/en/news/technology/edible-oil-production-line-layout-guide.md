@@ -1,6 +1,6 @@
 ---
-title: "Edible Oil Production Line Layout Guide"
-description: "Plan raw material flow, pressing, filtration, filling, and expansion space for an edible oil production line."
+title: "Edible Oil Production Line Layout Guide: Practical…"
+description: "Edible Oil Production Line Layout Guide: Practical Workshop Flow and Equipment Planning: equipment overview, selection guidance, and factory quote…"
 keywords: edible oil production line layout, oil mill layout, edible oil workshop planning, oil processing line design
 date: "2026-06-12"
 ---

@@ -1,6 +1,6 @@
 ---
-title: Get Oil Press Price & Quote | Procurement Support
-description: Contact Shengshi Hecheng for hydraulic oil press prices, production line quotes, and factory-direct procurement with after-sales.
+title: "Get Price & Quote | Hydraulic Oil Press Manufacturer"
+description: "Contact Shengshi Hecheng for hydraulic oil press prices, production-line quotes, model selection, and after-sales support worldwide."
 keywords: oil press quote, oil press price, contact manufacturer, procurement support, after-sales service
 ---
 

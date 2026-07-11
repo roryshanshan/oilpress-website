@@ -1,7 +1,8 @@
 ---
-title: Máy cán/thu nhỏ nắp giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy cán/thu nhỏ nắp từ nhà sản xuất Shengshi Hecheng.
+title: "Máy cán/thu nhỏ nắp giá | Giá nhà máy & báo giá"
+description: "Nhận giá nhà máy cho Máy cán/thu nhỏ nắp giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Máy đóng nắp/thu nhỏ, mua Máy đóng nắp/thu nhỏ, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/cap-rolling-shrinking-machine.webp"
 ---
 # Máy đóng nắp/thu nhỏ
 

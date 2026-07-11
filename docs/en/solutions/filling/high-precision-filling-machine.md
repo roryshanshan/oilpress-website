@@ -1,7 +1,8 @@
 ---
-title: High-precision quantitative filling machine Quote
+title: "High-precision quantitative filling machine | Equipment…"
 description: Get a quote and turnkey plan for High-precision quantitative filling machine. Process design, equipment list, and after-sales support.
 keywords: High-precision quantitative filling machine quote, High-precision quantitative filling machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/high-precision-filling-machine.webp"
 ---
 # High-precision quantitative filling machine
 

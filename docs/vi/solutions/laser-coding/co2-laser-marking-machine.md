@@ -1,7 +1,8 @@
 ---
-title: Máy laser CO2 báo giá | giải pháp trọn gói
-description: Nhận báo giá Máy laser CO2 với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+title: "máy laser CO2 | Danh mục thiết bị & báo giá"
+description: "Giải pháp trọn gói máy laser CO2: quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: máy laser CO2 báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/co2-laser-marking-machine.webp"
 ---
 # máy laser CO2
 

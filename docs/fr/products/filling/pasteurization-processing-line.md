@@ -2,6 +2,7 @@
 title: Ligne de traitement de pasteurisation en cuve prix | fabricant
 description: Demandez le prix et le devis pour Ligne de traitement de pasteurisation en cuve. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Ligne de traitement de pasteurisation en cuve prix, acheter Ligne de traitement de pasteurisation en cuve, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/pasteurization-processing-line.webp"
 ---
 # Ligne de traitement de pasteurisation en cuve
 

@@ -2,6 +2,7 @@
 title: Machine à boucher entièrement automatique prix | fabricant
 description: Demandez le prix et le devis pour Machine à boucher entièrement automatique. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Machine à boucher entièrement automatique prix, acheter Machine à boucher entièrement automatique, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/automatic-corking-machine.webp"
 ---
 # Machine à boucher entièrement automatique
 

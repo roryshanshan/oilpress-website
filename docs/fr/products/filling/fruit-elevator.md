@@ -1,7 +1,8 @@
 ---
-title: Ascenseur prix | fabricant
-description: Demandez le prix et le devis pour Ascenseur. Fabricant Shengshi Hecheng, livraison et SAV.
+title: "Élévateur de fruits/bouteilles | Prix usine et devis"
+description: "Demandez le prix usine pour élévateurs de ligne de remplissage huile comestible et liquides, avec sélection de modèle et SAV."
 keywords: Palan prix, acheter Palan, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/fruit-elevator.webp"
 ---
 # Palan
 

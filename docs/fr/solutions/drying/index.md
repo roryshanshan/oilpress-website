@@ -1,7 +1,8 @@
 ---
-title: Série de sèche-cheveux
-description: La série de sèche-cheveux est utilisée pour souffler l'eau à la surface de la bouteille après le rinçage, le nettoyage ou le remplissage
+title: "Série de sèche-cheveux | Modèles, specs et devis usine"
+description: Découvrez série de sèche-cheveux pour lignes d’huile comestible et conditionnement liquide. Comparez les modèles et demandez un devis usine.
 keywords: Série de machines de séchage par soufflage, machine de séchage par soufflage de bouteilles, équipement de séchage à lame d'air, séchage avant étiquetage, machine de séchage d'emballage d'huile comestible, équipement de séchage de ligne de remplissage
+image: "/images/filling-solutions/drying.webp"
 ---
 
 # Série de sèche-cheveux

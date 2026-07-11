@@ -1,6 +1,6 @@
 ---
-title: Industry News
-description: With global population growth and dietary structure changes, the demand for edible oil continues to grow.
+title: "Industry News | Edible Oil Market Insights"
+description: "Edible oil market trends, policy updates, and processing-industry insights to support oil press investment decisions."
 keywords: hydraulic oil press, oil press machine, oil processing equipment
 ---
 # Industry News

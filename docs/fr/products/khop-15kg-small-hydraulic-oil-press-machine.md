@@ -2,10 +2,11 @@
 title: KHOP-15KG petite presse à huile hydraulique prix | fabricant
 description: Demandez le prix et le devis pour KHOP-15KG petite presse à huile hydraulique. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: KHOP-15KG petite presse à huile hydraulique prix, acheter KHOP-15KG petite presse à huile hydraulique, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/korean-type-small-press/korean-type-detail.webp"
 ---
 # KHOP-15KG petite presse à huile hydraulique
 
-![KHOP-15KG petite presse à huile hydraulique](/images/korean-type-small-press/korean-type-detail.jpg)
+![KHOP-15KG petite presse à huile hydraulique](/images/korean-type-small-press/korean-type-detail.webp)
 
 La KHOP-15KG automatique appartient à la catégorie moyenne capacité des petites presses pour boutique. Elle convient à la production d'huile de sésame et aux petites activités commerciales. Par rapport au niveau 10KG, elle fournit davantage de débit journalier tout en restant adaptée à une boutique ou à un petit espace arrière.
 

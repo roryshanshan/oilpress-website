@@ -1,10 +1,11 @@
 ---
-title: 柴火蒸锅 - 山东盛世赫程机械有限公司价格|厂家报价
-description: 获取柴火蒸锅 - 山东盛世赫程机械有限公司价格、采购与售后支持，厂家直供，支持选型与交付。
-keywords: 柴火蒸锅 - 山东盛世赫程机械有限公司价格, 柴火蒸锅 - 山东盛世赫程机械有限公司报价, 柴火蒸锅 - 山东盛世赫程机械有限公司厂家, 柴火蒸锅 - 山东盛世赫程机械有限公司采购, 售后服务
+title: 柴火蒸锅｜价格与厂家报价
+description: "获取柴火蒸锅厂家价格与采购方案，支持单机/整线选型、产能配置与售后服务，适合食用油及特种油加工项目落地。"
+keywords: "柴火蒸锅价格, 柴火蒸锅报价, 柴火蒸锅厂家, 柴火蒸锅采购, 售后服务"
+image: "/images/external/products-wood-fired-steamer-f4d44ffc.webp"
 ---
 # 柴火蒸锅
-![柴火蒸锅](https://i.postimg.cc/Gcs3LvWX/image.png?dl=1)
+![柴火蒸锅](/images/external/products-wood-fired-steamer-f4d44ffc.webp)
 ## 产品概述
 
 灶体采用Q355B材质打造，可使用不同燃料加热。

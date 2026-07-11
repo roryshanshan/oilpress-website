@@ -1,7 +1,8 @@
 ---
-title: Máy rửa kiểu ray xích giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy rửa kiểu ray xích từ nhà sản xuất Shengshi Hecheng.
+title: "Máy rửa kiểu ray xích giá | Giá nhà máy & báo giá"
+description: "Nhận giá nhà máy cho Máy rửa kiểu ray xích giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Máy giặt chai dạng ray xích, mua Máy giặt chai dạng ray xích, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/chain-bottle-washer.webp"
 ---
 # Máy giặt chai dạng ray xích
 

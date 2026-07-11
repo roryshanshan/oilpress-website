@@ -1,6 +1,6 @@
 ---
 title: Giải pháp dầu từ hạt (Nuts) báo giá | giải pháp trọn gói
-description: Nhận báo giá Giải pháp dầu từ hạt (Nuts) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Giải pháp dầu từ hạt (Nuts): quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Giải pháp dầu từ hạt (Nuts) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
 ---
 # Giải pháp dầu từ hạt (Nuts)

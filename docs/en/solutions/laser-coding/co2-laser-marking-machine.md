@@ -1,7 +1,8 @@
 ---
-title: CO2 laser machine Quote | Turnkey Solution
-description: Get a quote and turnkey plan for CO2 laser machine. Process design, equipment list, and after-sales support.
+title: "CO2 laser machine | Equipment List & Factory Quote"
+description: "Turnkey CO2 laser machine with process design, hydraulic press selection, filtration options, equipment list, and factory quote support."
 keywords: CO2 laser machine quote, CO2 laser machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/co2-laser-marking-machine.webp"
 ---
 # CO2 laser machine
 

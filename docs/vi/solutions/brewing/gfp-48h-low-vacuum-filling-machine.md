@@ -1,7 +1,8 @@
 ---
-title: Máy chiết rót chân không thấp GFP-48H báo giá
+title: "Máy chiết rót chân không thấp GFP-48H | Danh mục thiết bị…"
 description: Nhận báo giá Máy chiết rót chân không thấp GFP-48H với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Máy chiết rót chân không thấp GFP-48H báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/gfp-48h-low-vacuum-filling-machine.webp"
 ---
 # Máy chiết rót chân không thấp GFP-48H
 

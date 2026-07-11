@@ -1,7 +1,8 @@
 ---
-title: DF-T200型半自动圆瓶贴标机报价|整线方案
-description: 获取DF-T200型半自动圆瓶贴标机整线方案与报价，含工艺、设备清单与售后支持。
+title: DF-T200型半自动圆瓶贴标机｜设备与厂家报价
+description: "DF-T200型半自动圆瓶贴标机可作为贴标机系列中的具体机型参考。本页按公开产品资料整理了机型定位、参数信息和配套建议，方便做初步选型与页面内跳转。"
 keywords: DF-T200型半自动圆瓶贴标机报价, DF-T200型半自动圆瓶贴标机价格, 整线方案, 生产线, 采购
+image: "/images/filling-products/df-t200-round-bottle-labeler.webp"
 ---
 # DF-T200型半自动圆瓶贴标机
 

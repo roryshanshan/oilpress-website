@@ -1,7 +1,8 @@
 ---
-title: Série de machines de rinçage
-description: La série de machines de rinçage de bouteilles convient au nettoyage des bouteilles vides avant de remplir des produits en bouteille tels que de l'huile comes...
+title: "Série de machines de rinçage de bouteilles | Modèles, specs…"
+description: Découvrez série de machines de rinçage de bouteilles pour lignes d’huile comestible et conditionnement liquide. Comparez les modèles et demandez un devis usine.
 keywords: Série de machines de rinçage de bouteilles, équipement de rinçage de bouteilles vides, machine de rinçage d'huile comestible, machine de rinçage de bouteilles en verre, équipement de nettoyage de bouteilles PET, équipement de prétraitement de remplissage
+image: "/images/filling-solutions/bottle-washing.webp"
 ---
 
 # Série de machines de rinçage de bouteilles

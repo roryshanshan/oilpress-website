@@ -1,7 +1,8 @@
 ---
-title: Dòng máy co nhiệt nắp cao su
-description: Dòng máy co nhiệt nắp cao su chủ yếu được sử dụng để đóng gói co lại nắp cao su PVC hoặc nắp co nhiệt, phù hợp cho dây chuyền đóng gói rượu vang
+title: "Dòng máy co nhiệt nắp cao su | Model, thông số & báo giá nhà máy"
+description: Xem dòng máy co nhiệt nắp cao su cho dây chuyền dầu ăn và đóng gói lỏng. So sánh model và yêu cầu báo giá nhà máy.
 keywords: Dòng máy co nhiệt nắp cao su, máy co nhiệt, thiết bị co nhiệt nắp cao su PVC, máy co nắp rượu, thiết bị nắp co dầu hộp quà tặng, máy hàn kín nhiệt
+image: "/images/filling-solutions/cap-shrinking.webp"
 ---
 
 # Dòng máy co nhiệt nắp cao su

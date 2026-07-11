@@ -1,6 +1,6 @@
 ---
-title: News - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng news, including company news, industry information, technical knowledge, learn about the latest developments in oil presses
+title: "News & Insights | Hydraulic Oil Press Manufacturer"
+description: "Company updates, edible oil industry trends, and hydraulic oil press technical guides from Shengshi Hecheng."
 keywords: News, oil press news, oil processing industry news, hydraulic oil press updates, oil extraction technology, Company news, Industry information, Technical knowledge
 ---
 

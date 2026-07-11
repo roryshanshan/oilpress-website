@@ -1,5 +1,5 @@
 ---
-title: Giải pháp hạt kiều mạch (Dầu kiều mạch) báo giá
+title: "Giải pháp hạt kiều mạch (Dầu kiều mạch) | Danh mục thiết…"
 description: Nhận báo giá Giải pháp hạt kiều mạch (Dầu kiều mạch) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Giải pháp hạt kiều mạch (Dầu kiều mạch) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
 ---

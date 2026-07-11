@@ -1,7 +1,8 @@
 ---
-title: GFP-36H低真空灌装机价格|厂家报价
-description: 获取GFP-36H低真空灌装机价格、采购与售后支持，厂家直供，支持选型与交付。
+title: GFP-36H低真空灌装机｜价格与厂家报价
+description: "GFP-36H低真空灌装机：`GFP-36H` 是低真空定液位灌装系列中的 36 头机型，已经进入 10000 瓶/小时级别，适合更成熟的葡萄酒、黄酒和玻璃瓶调味液体包装线。"
 keywords: GFP-36H低真空灌装机价格, GFP-36H低真空灌装机报价, GFP-36H低真空灌装机厂家, GFP-36H低真空灌装机采购, 售后服务
+image: "/images/filling-products/gfp-36h-low-vacuum-filling-machine.webp"
 ---
 # GFP-36H低真空灌装机
 

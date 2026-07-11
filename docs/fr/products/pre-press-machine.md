@@ -2,10 +2,11 @@
 title: Machine de pré-pressage - Shengshi Hecheng prix | fabricant
 description: Demandez le prix et le devis pour Machine de pré-pressage - Shengshi Hecheng. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Machine de pré-pressage prix, acheter Machine de pré-pressage, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/external/products-pre-press-machine-c62a58a9.webp"
 ---
 # Machine de pré-pressage
 
-![Machine de pré-pressage](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)
+![Machine de pré-pressage](/images/external/products-pre-press-machine-c62a58a9.webp)
 
 ## Aperçu du produit
 

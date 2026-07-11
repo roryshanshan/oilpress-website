@@ -1,7 +1,8 @@
 ---
-title: Série de machines de codage laser
-description: La série de machines de codage laser convient au marquage des dates, des numéros de lot, des codes QR et des informations de traçabilité sur les bouteilles
+title: "Série de machines de codage laser | Modèles, specs et devis usine"
+description: Découvrez série de machines de codage laser pour lignes d’huile comestible et conditionnement liquide. Comparez les modèles et demandez un devis usine.
 keywords: Série de machines de codage laser, machine de codage laser, codage de numéro de lot de date, équipement de codage de code QR, codage d'emballage d'huile comestible, équipement de marquage de traçabilité
+image: "/images/filling-solutions/laser-coding.webp"
 ---
 
 # Série de machines de codage laser

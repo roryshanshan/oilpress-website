@@ -2,6 +2,7 @@
 title: Machine combinée de rinçage, remplissage et bouchage du vin d...
 description: "Demandez un devis pour Machine combinée de rinçage, remplissage et bouchage du vin : plan de ligne, liste d’équipements et SAV."
 keywords: Machine combinée de rinçage, remplissage et bouchage du vin prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/wine-rinsing-filling-corking-monoblock.webp"
 ---
 # Machine combinée de rinçage, remplissage et bouchage du vin
 

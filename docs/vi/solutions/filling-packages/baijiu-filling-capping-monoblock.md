@@ -1,7 +1,8 @@
 ---
-title: Máy rót rượu hai dây báo giá | giải pháp trọn gói
-description: Nhận báo giá Máy rót rượu hai dây với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+title: "Rót rượu hai dòng | Danh mục thiết bị & báo giá"
+description: "Giải pháp trọn gói Rót rượu hai dòng: quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Rót rượu hai dòng báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/baijiu-filling-capping-monoblock.webp"
 ---
 # Rót rượu hai dòng
 

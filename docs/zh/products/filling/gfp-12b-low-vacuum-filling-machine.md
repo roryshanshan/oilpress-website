@@ -1,7 +1,8 @@
 ---
-title: GFP-12B低真空灌装机价格|厂家报价
-description: 获取GFP-12B低真空灌装机价格、采购与售后支持，厂家直供，支持选型与交付。
+title: GFP-12B低真空灌装机｜价格与厂家报价
+description: "GFP-12B低真空灌装机：`GFP-12B` 是低真空定液位灌装系列中的 12 头机型。公开资料显示，它与 `GFP-12A` 处于同一产能段，适合中小批量葡萄酒、黄酒、酱油、醋等易起泡液体灌装项目。"
 keywords: GFP-12B低真空灌装机价格, GFP-12B低真空灌装机报价, GFP-12B低真空灌装机厂家, GFP-12B低真空灌装机采购, 售后服务
+image: "/images/filling-products/gfp-12b-low-vacuum-filling-machine.webp"
 ---
 # GFP-12B低真空灌装机
 

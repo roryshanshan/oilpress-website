@@ -2,6 +2,7 @@
 title: Filling and stoppering two-line Quote | Turnkey Solution
 description: Get a quote and turnkey plan for Filling and stoppering two-line. Process design, equipment list, and after-sales support.
 keywords: Filling and stoppering two-line quote, Filling and stoppering two-line price, turnkey solution, production line, procurement
+image: "/images/filling-products/filling-corking-monoblock.webp"
 ---
 # Filling and stoppering two online
 

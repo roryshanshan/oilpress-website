@@ -1,7 +1,8 @@
 ---
-title: Linear filling machine Price | Manufacturer & Quote
-description: Get price, procurement, and after-sales support for Linear filling machine from Shengshi Hecheng manufacturer.
+title: "Linear filling machine | Factory Price & Quote"
+description: "Get factory pricing for Linear filling machine. Suitable for edible oil projects with model selection, procurement support, and after-sales service from…"
 keywords: Linear filling machine price, Linear filling machine quote, Linear filling machine manufacturer, Linear filling machine supplier, procurement, after-sales
+image: "/images/filling-products/linear-filling-machine.webp"
 ---
 # Linear filling machine
 

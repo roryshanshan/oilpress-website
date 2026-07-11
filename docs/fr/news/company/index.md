@@ -1,6 +1,6 @@
 ---
-title: Actualités de l'entreprise
-description: L'entreprise a participé à l'exposition internationale chinoise des technologies de transformation des graines oléagineuses 2023
+title: "Actualités entreprise | Fabricant presse à huile"
+description: "Nouveautés Shengshi Hecheng : salons professionnels, extension d’usine et jalons de projets presse hydraulique pour clients internationaux."
 keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
 ---
 # Actualités de l'entreprise

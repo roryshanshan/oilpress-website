@@ -1,6 +1,6 @@
 ---
 title: Phân tích xu hướng thị trường dầu ăn toàn cầu 2023
-description: "Thời gian công bố: 10 tháng 5 năm 2023"
+description: "Theo báo cáo nghiên cứu thị trường mới nhất, sản lượng dầu ăn toàn cầu năm 2022 đạt 210 triệu tấn, tăng 3,5% so với năm trước. Tăng trưởng này chủ yếu…"
 keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
 ---
 # Phân tích xu hướng thị trường dầu ăn toàn cầu 2023

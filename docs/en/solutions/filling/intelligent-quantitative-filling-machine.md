@@ -1,7 +1,8 @@
 ---
-title: Intelligent quantitative filling machine Quote
+title: "Intelligent quantitative filling machine | Equipment List…"
 description: Get a quote and turnkey plan for Intelligent quantitative filling machine. Process design, equipment list, and after-sales support.
 keywords: Intelligent quantitative filling machine quote, Intelligent quantitative filling machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/intelligent-quantitative-filling-machine.webp"
 ---
 # Intelligent quantitative filling machine
 

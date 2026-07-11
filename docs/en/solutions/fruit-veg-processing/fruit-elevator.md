@@ -1,7 +1,8 @@
 ---
-title: Elevator Quote | Turnkey Solution
-description: Get a quote and turnkey plan for Elevator. Process design, equipment list, and after-sales support.
+title: "Fruit Elevator | Factory Price & Line Quote"
+description: "Get factory pricing for fruit and bottle elevators used in edible oil and liquid packaging lines, with model selection and after-sales support."
 keywords: Elevator quote, Elevator price, turnkey solution, production line, procurement
+image: "/images/filling-products/fruit-elevator.webp"
 ---
 # Hoist
 

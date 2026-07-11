@@ -1,7 +1,8 @@
 ---
-title: Pesticide filling machine Price | Manufacturer & Quote
-description: Get price, procurement, and after-sales support for Pesticide filling machine from Shengshi Hecheng manufacturer.
+title: "Pesticide filling machine | Factory Price & Quote"
+description: "Get factory pricing for Pesticide filling machine. Suitable for edible oil projects with model selection, procurement support, and after-sales service…"
 keywords: Pesticide filling machine price, Pesticide filling machine quote, Pesticide filling machine manufacturer, Pesticide filling machine supplier, procurement, after-sales
+image: "/images/filling-products/pesticide-filling-machine.webp"
 ---
 # Pesticide filling machine
 

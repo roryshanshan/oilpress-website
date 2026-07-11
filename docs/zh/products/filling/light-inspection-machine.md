@@ -1,7 +1,8 @@
 ---
-title: 灯检机价格|厂家报价
-description: 获取灯检机价格、采购与售后支持，厂家直供，支持选型与交付。
+title: "灯检机｜瓶装油质检价格与厂家报价"
+description: "获取灯检机厂家价格，用于瓶装食用油杂质与液位目视/光电检测，支持灌装线配套与售后。"
 keywords: 灯检机价格, 灯检机报价, 灯检机厂家, 灯检机采购, 售后服务
+image: "/images/filling-products/light-inspection-machine.webp"
 ---
 # 灯检机
 

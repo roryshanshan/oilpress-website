@@ -1,10 +1,11 @@
 ---
-title: "Wood-Fired Thermal Oil Wok Price | Factory Quote"
+title: "Wood-Fired Thermal Oil Wok | Factory Price & Quote"
 description: "Request a factory quote for the wood-fired thermal oil wok, including specs, delivery, procurement support, and after-sales service."
 keywords: Wood-Fired Thermal Oil Flat-Bottom Wok price, Wood-Fired Thermal Oil Flat-Bottom Wok quote, Wood-Fired Thermal Oil Flat-Bottom Wok manufacturer, factory procurement, production line matching, after-sales service
+image: "/images/external/products-wood-fired-thermal-oil-flat-bottom-wok-cc178b06.webp"
 ---
 # Wood-Fired Thermal Oil Flat-Bottom Wok
-![Wood-Fired Thermal Oil Flat-Bottom Wok](https://i.postimg.cc/wHP2fGLt/202509051612083.png?dl=1)
+![Wood-Fired Thermal Oil Flat-Bottom Wok](/images/external/products-wood-fired-thermal-oil-flat-bottom-wok-cc178b06.webp)
 ## Product Overview
 
 * This flat-bottom wok comes with its own furnace. The thermal oil model solves the problem of uneven heating at the bottom of the wood-fired pot. This model is suitable for rural areas and urban-rural fringe areas where wood and natural gas can be burned, which can greatly save processing costs.

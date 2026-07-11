@@ -1,7 +1,8 @@
 ---
-title: 间歇式冲瓶机价格|厂家报价
-description: 获取间歇式冲瓶机价格、采购与售后支持，厂家直供，支持选型与交付。
+title: 间歇式冲瓶机｜价格与厂家报价
+description: "间歇式冲瓶机：间歇式冲瓶机可作为冲瓶机系列中的具体机型参考。本页按公开产品资料整理了机型定位、参数信息和配套建议，方便做初步选型与页面内跳转。"
 keywords: 间歇式冲瓶机价格, 间歇式冲瓶机报价, 间歇式冲瓶机厂家, 间歇式冲瓶机采购, 售后服务
+image: "/images/filling-products/intermittent-bottle-washer.webp"
 ---
 # 间歇式冲瓶机
 

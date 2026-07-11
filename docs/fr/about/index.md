@@ -1,6 +1,6 @@
 ---
-title: À propos de nous - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng Machinery Co., Ltd.
+title: "À propos | Fabricant de presses hydrauliques"
+description: "Shengshi Hecheng conçoit et fabrique des presses hydrauliques à huile et lignes d’huile comestible depuis 2008, avec projets dans 30+ pays."
 keywords: Shandong Shengshi Hecheng, fabricant d'équipements d'extraction d'huile, fabricant de presses à huile hydrauliques, équipements de traitement des oléagineux, R&D d'équipements d'extraction d'huile, production d'équipements d'extraction d'huile, entreprise de haute technologie, usine d'équipements d'extraction d'huile, fabricant de presses à huile, équipements d'extraction d'oléagineux, usine de production de presses à huile, machines de traitement des oléagineux
 ---
 

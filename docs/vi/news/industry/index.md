@@ -1,6 +1,6 @@
 ---
-title: Tin tức ngành công nghiệp
-description: Cùng với sự tăng trưởng dân số toàn cầu và sự thay đổi cơ cấu chế độ ăn, nhu cầu thị trường dầu ăn tiếp tục tăng.
+title: "Tin ngành | Thị trường dầu ăn & máy ép dầu"
+description: "Xu hướng thị trường, chính sách và insight ngành hỗ trợ quyết định đầu tư máy ép dầu và dây chuyền dầu ăn."
 keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
 ---
 # Tin tức ngành công nghiệp

@@ -1,7 +1,8 @@
 ---
-title: Máy chiết rót chân không thấp GFP-18A báo giá
+title: "Máy chiết rót chân không thấp GFP-18A | Danh mục thiết bị…"
 description: Nhận báo giá Máy chiết rót chân không thấp GFP-18A với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Máy chiết rót chân không thấp GFP-18A báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/gfp-18a-low-vacuum-filling-machine.webp"
 ---
 # Máy chiết rót chân không thấp GFP-18A
 

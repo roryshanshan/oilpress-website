@@ -1,7 +1,8 @@
 ---
 title: Solution de graines de périlla (huile de périlla) devis
-description: "Demandez un devis pour Solution de graines de périlla (huile de périlla) : plan de ligne, liste d’équipements et SAV."
+description: "Solution clé en main Solution de graines de périlla (huile de périlla) : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Solution de graines de périlla (huile de périlla) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/an-overview-of-the-hot-pressing-process-of-perilla-a2e7edd577.webp"
 ---
 # Solution de graines de périlla (huile de périlla)
 
@@ -27,11 +28,11 @@ Les graines de périlla sont une importante culture oléagineuse, l'huile de pé
 
 ### Hot Pressing Process
 - Les graines de périlla passent par le criblage, cleaning, frying, crushing, and then steaming before finally being fed into the hydraulic oil press bucket for pressing.
-- ![Perilla Seeds](/images/紫苏热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressing%20Process%20of%20Perilla.png)
+- ![Perilla Seeds](/images/an-overview-of-the-hot-pressing-process-of-perilla-a2e7edd577.webp)
 
 ### Cold Pressing Process
 - Les graines de périlla passent par le criblage, cleaning, and crushing before being directly fed into the hydraulic oil press bucket for pressing.
-- ![Perilla Seeds](/images/紫苏冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressing%20Process%20of%20Perilla.png)
+- ![Perilla Seeds](/images/an-overview-of-the-cold-pressing-process-of-perill-76371f15c4.webp)
 
 ## Référence vidéo de pressage à chaud des graines de périlla
 

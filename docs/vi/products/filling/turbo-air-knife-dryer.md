@@ -1,7 +1,8 @@
 ---
-title: Máy sấy thổi dao khí tăng áp giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy sấy thổi dao khí tăng áp từ nhà sản xuất Shengshi Hecheng.
+title: "Máy sấy thổi dao khí tăng áp giá | Giá nhà máy & báo giá"
+description: "Nhận giá nhà máy cho Máy sấy thổi dao khí tăng áp giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Máy sấy thổi khí tăng áp, mua Máy sấy thổi khí tăng áp, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/turbo-air-knife-dryer.webp"
 ---
 # Máy sấy thổi khí tăng áp
 

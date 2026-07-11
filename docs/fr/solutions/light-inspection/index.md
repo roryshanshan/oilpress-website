@@ -1,7 +1,8 @@
 ---
-title: Série de machines d'inspection légères
-description: La série de machines d'inspection légères est utilisée pour l'inspection en ligne des produits liquides en bouteille.
+title: "Série de machines d'inspection de lampes | Modèles, specs et…"
+description: "Découvrez série de machines d'inspection de lampes pour lignes d’huile comestible et conditionnement liquide. Comparez les modèles et demandez un devis usine."
 keywords: Série de machines d'inspection légère, machine d'inspection légère, équipement d'inspection en ligne, détection de niveau de liquide, détection de corps étrangers, inspection d'emballage d'huile en bouteille
+image: "/images/filling-solutions/light-inspection.webp"
 ---
 
 # Série de machines d'inspection de lampes

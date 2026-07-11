@@ -1,7 +1,8 @@
 ---
-title: Robot palletizer Price | Manufacturer & Quote
-description: Get price, procurement, and after-sales support for Robot palletizer from Shengshi Hecheng manufacturer.
+title: "Robot palletizer | Factory Price & Quote"
+description: "Get factory pricing for Robot palletizer. Suitable for edible oil projects with model selection, procurement support, and after-sales service from…"
 keywords: Robot palletizer price, Robot palletizer quote, Robot palletizer manufacturer, Robot palletizer supplier, procurement, after-sales
+image: "/images/filling-products/robot-palletizer.webp"
 ---
 # Robot Palletizer
 

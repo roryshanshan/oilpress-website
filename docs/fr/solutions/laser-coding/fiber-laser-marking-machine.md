@@ -1,7 +1,8 @@
 ---
 title: Machine de marquage laser à fibre devis | solution clé en main
-description: "Demandez un devis pour Machine de marquage laser à fibre : plan de ligne, liste d’équipements et SAV."
+description: "Solution clé en main Machine de marquage laser fibre : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Machine de marquage laser fibre prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/fiber-laser-marking-machine.webp"
 ---
 # Machine de marquage laser fibre
 

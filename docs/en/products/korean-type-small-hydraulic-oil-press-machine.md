@@ -1,11 +1,12 @@
 ---
-title: "Korean Type Small Oil Press Price | Factory Quote"
+title: "Korean Type Small Oil Press | Factory Price & Quote"
 description: "Request a factory quote for the Korean type small hydraulic oil press, including specs, delivery, procurement, and after-sales service."
 keywords: Korean Type Small Hydraulic Oil Press Machine for Shop & Small Business price, Korean Type Small Hydraulic Oil Press Machine for Shop & Small Business quote, Korean Type Small Hydraulic Oil Press Machine for Shop & Small Business manufacturer, factory procurement, production line matching, after-sales service
+image: "/images/korean-type-small-press/korean-type-overview.webp"
 ---
 # Korean Type Small Hydraulic Oil Press Machine for Shop & Small Business
 
-![Korean type small hydraulic oil press machine](/images/korean-type-small-press/korean-type-overview.jpg)
+![Korean type small hydraulic oil press machine](/images/korean-type-small-press/korean-type-overview.webp)
 
 Korean type small hydraulic oil press machines are built for low-capacity, high-value oil production. They are especially suitable for fresh oil shops, customer-facing sesame oil businesses, organic oil counters, and compact workshops that want to press and sell at the same time.
 
@@ -16,7 +17,7 @@ Korean type small hydraulic oil press machines are built for low-capacity, high-
 - Stainless steel structure for easier cleaning and presentation
 - Suitable for premium oils where freshness and visible processing matter
 
-![Korean type small hydraulic oil press side view](/images/korean-type-small-press/korean-type-side.jpg)
+![Korean type small hydraulic oil press side view](/images/korean-type-small-press/korean-type-side.webp)
 
 ## Why this family is different from industrial hydraulic presses
 
@@ -66,7 +67,7 @@ For the clearest positioning and best process match, see [Small Sesame Oil Press
 - Small-scale oil businesses
 - Local food processing shops
 
-![Korean type small hydraulic oil press operation view](/images/korean-type-small-press/korean-type-operation.jpg)
+![Korean type small hydraulic oil press operation view](/images/korean-type-small-press/korean-type-operation.webp)
 
 ## How to choose the right model
 

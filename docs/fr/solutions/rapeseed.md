@@ -2,6 +2,7 @@
 title: Solution de colza (huile de colza) - Shengshi Hecheng devis | ...
 description: "Demandez un devis pour Solution de colza (huile de colza) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV."
 keywords: Solution de colza (huile de colza) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/process-image-55d72f15da.webp"
 ---
 # Solution de colza (huile de colza)
 
@@ -28,7 +29,7 @@ Le colza est une importante culture oléagineuse, l'huile de colza est l'une des
 ### Procédé de pressage à chaud de l'huile de colza
 - Le colza subit des processus de nettoyage, de concassage, de friture et de cuisson à la vapeur avant d'être introduit dans le seau de presse à huile hydraulique pour le pressage.
 - L'huile de colza produite par ce processus a un rendement en huile élevé, une couleur dorée et une saveur fraîche.
-- ![Colza processus de pressage à chaud](/images/菜籽热榨工艺.png)
+- ![Colza processus de pressage à chaud](/images/process-image-55d72f15da.webp)
 
 ## Vidéo du processus de pressage à chaud du colza
 

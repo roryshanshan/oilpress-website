@@ -1,7 +1,8 @@
 ---
-title: Máy súc rửa liên tục báo giá | giải pháp trọn gói
-description: Nhận báo giá Máy súc rửa liên tục với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+title: "Máy súc rửa liên tục | Danh mục thiết bị & báo giá"
+description: "Giải pháp trọn gói Máy súc rửa liên tục: quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Máy súc rửa liên tục báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/intermittent-bottle-washer.webp"
 ---
 # Máy súc rửa liên tục
 

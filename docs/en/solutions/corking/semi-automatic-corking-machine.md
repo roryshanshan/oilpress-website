@@ -2,6 +2,7 @@
 title: Semi-automatic corking machine Quote | Turnkey Solution
 description: Get a quote and turnkey plan for Semi-automatic corking machine. Process design, equipment list, and after-sales support.
 keywords: Semi-automatic corking machine quote, Semi-automatic corking machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/semi-automatic-corking-machine.webp"
 ---
 # Semi-automatic corking machine
 

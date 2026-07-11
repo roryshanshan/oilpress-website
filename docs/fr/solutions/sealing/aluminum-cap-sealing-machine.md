@@ -1,7 +1,8 @@
 ---
-title: Machine à sceller les bouchons en aluminium devis
-description: "Demandez un devis pour Machine à sceller les bouchons en aluminium : plan de ligne, liste d’équipements et SAV."
+title: "Machine à sceller les bouchons en aluminium | Liste…"
+description: "Solution clé en main Machine à sceller les bouchons en aluminium : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Machine à sceller les bouchons en aluminium prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/aluminum-cap-sealing-machine.webp"
 ---
 # Machine à sceller les bouchons en aluminium
 

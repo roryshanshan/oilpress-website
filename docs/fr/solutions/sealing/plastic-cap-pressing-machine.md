@@ -1,7 +1,8 @@
 ---
 title: Machine de capsulage en plastique devis | solution clé en main
-description: "Demandez un devis pour Machine de capsulage en plastique : plan de ligne, liste d’équipements et SAV."
+description: "Solution clé en main Machine de capsulage anti-pression plastique : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Machine de capsulage anti-pression plastique prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/plastic-cap-pressing-machine.webp"
 ---
 # Machine de capsulage anti-pression plastique
 

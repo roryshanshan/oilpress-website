@@ -1,7 +1,8 @@
 ---
 title: Liquor filling two-line machine Price | Manufacturer & Quote
-description: Get price, procurement, and after-sales support for Liquor filling two-line machine from Shengshi Hecheng manufacturer.
+description: "Get factory pricing for Liquor filling two-line machine. Suitable for edible oil projects with model selection, procurement support, and after-sales…"
 keywords: Liquor filling two-line machine price, Liquor filling two-line machine quote, Liquor filling two-line machine manufacturer, Liquor filling two-line machine supplier, procurement, after-sales
+image: "/images/filling-products/baijiu-filling-capping-monoblock.webp"
 ---
 # Liquor filling two-line
 

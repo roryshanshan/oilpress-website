@@ -1,7 +1,8 @@
 ---
-title: Dòng máy chiết rót thông minh giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Dòng máy chiết rót thông minh từ nhà sản xuất Shengshi Hecheng.
+title: "Dòng máy chiết rót thông minh giá | Giá nhà máy & báo giá"
+description: "Nhận giá nhà máy cho Dòng máy chiết rót thông minh giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Dòng máy chiết rót thông minh, mua Dòng máy chiết rót thông minh, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/smart-filling-machine.webp"
 ---
 # Dòng máy chiết rót thông minh
 

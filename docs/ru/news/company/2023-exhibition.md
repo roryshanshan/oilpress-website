@@ -1,9 +1,9 @@
 ---
 title: 盛世赫程 успешно участвует в выставке China International Grain an
-description: "Опубликовано: 28 ноября 2023 г."
+description: "С 15 по 17 ноября 2023 года компания Shengshi Hecheng успешно приняла участие в выставке China International Grain and Oil, проходившей в Шанхайском…"
 keywords: гидравлический маслопресс, пресс для масла, оборудование для отжима масла
 ---
-#盛世赫程 успешно участвует в выставке China International Grain and Oil 2023
+# 盛世赫程 успешно участвует в выставке China International Grain and Oil 2023
 
 *Опубликовано: 28 ноября 2023 г.*
 *Категория: Новости компании*

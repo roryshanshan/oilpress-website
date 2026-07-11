@@ -1,11 +1,12 @@
 ---
-title: 小型芝麻榨油机价格|厂家报价
-description: 获取小型芝麻榨油机价格、采购与售后支持，厂家直供，支持选型与交付。
+title: 小型芝麻榨油机｜价格与厂家报价
+description: "小型芝麻榨油机：小型芝麻榨油机主要面向高品质芝麻油的小批量压榨场景，通常采用韩式小型液压榨油机结构，适用于芝麻油门店、有机食品店以及兼顾展示与销售的小型商业空间。"
 keywords: 小型芝麻榨油机价格, 小型芝麻榨油机报价, 小型芝麻榨油机厂家, 小型芝麻榨油机采购, 售后服务
+image: "/images/korean-type-small-press/small-sesame-hero.webp"
 ---
 # 小型芝麻榨油机
 
-![小型芝麻榨油机](/images/korean-type-small-press/small-sesame-hero.jpg)
+![小型芝麻榨油机](/images/korean-type-small-press/small-sesame-hero.webp)
 
 小型芝麻榨油机主要面向高品质芝麻油的小批量压榨场景，通常采用韩式小型液压榨油机结构，适用于芝麻油门店、有机食品店以及兼顾展示与销售的小型商业空间。
 

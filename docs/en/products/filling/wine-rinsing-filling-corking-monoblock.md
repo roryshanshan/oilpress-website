@@ -2,6 +2,7 @@
 title: Wine rinsing, filling and corking combined machine Price
 description: Get price, procurement, and after-sales support for Wine rinsing, filling and corking combined machine from Shengshi Hecheng manufacturer.
 keywords: Wine rinsing, filling and corking combined machine price, Wine rinsing, filling and corking combined machine quote, Wine rinsing, filling and corking combined machine manufacturer, Wine rinsing, filling and corking combined machine supplier, procurement, after-sales
+image: "/images/filling-products/wine-rinsing-filling-corking-monoblock.webp"
 ---
 # Wine rinsing, filling and corking combined machine
 

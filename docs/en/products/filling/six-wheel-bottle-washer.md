@@ -1,7 +1,8 @@
 ---
-title: Six-wheel rinsing machine Price | Manufacturer & Quote
-description: Get price, procurement, and after-sales support for Six-wheel rinsing machine from Shengshi Hecheng manufacturer.
+title: "Six-wheel rinsing machine | Factory Price & Quote"
+description: "Get factory pricing for Six-wheel rinsing machine. Suitable for edible oil projects with model selection, procurement support, and after-sales service…"
 keywords: Six-wheel rinsing machine price, Six-wheel rinsing machine quote, Six-wheel rinsing machine manufacturer, Six-wheel rinsing machine supplier, procurement, after-sales
+image: "/images/filling-products/six-wheel-bottle-washer.webp"
 ---
 # Six-wheel rinsing machine
 

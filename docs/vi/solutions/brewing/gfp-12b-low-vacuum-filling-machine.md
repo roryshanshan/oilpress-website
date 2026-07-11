@@ -1,7 +1,8 @@
 ---
-title: Máy chiết rót chân không thấp GFP-12B báo giá
+title: "Máy chiết rót chân không thấp GFP-12B | Danh mục thiết bị…"
 description: Nhận báo giá Máy chiết rót chân không thấp GFP-12B với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Máy chiết rót chân không thấp GFP-12B báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/gfp-12b-low-vacuum-filling-machine.webp"
 ---
 # Máy chiết rót chân không thấp GFP-12B
 

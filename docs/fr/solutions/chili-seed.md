@@ -2,6 +2,7 @@
 title: Solution de graines de piment (huile de graines de piment) devis
 description: "Demandez un devis pour Solution de graines de piment (huile de graines de piment) : plan de ligne, liste d’équipements et SAV."
 keywords: Solution de graines de piment (huile de graines de piment) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/hot-pressing-process-of-chili-seeds-c9c009d0eb.webp"
 ---
 # Solution de graines de piment (huile de graines de piment)
 
@@ -29,7 +30,7 @@ Chili oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/400AC-
  + Étape 1: Broyage
  + Étape 2: Cuisson à la vapeur
  + Étape 3: Pressing
- + ![Chili Oil](/images/辣椒籽热榨工艺_Hot%20pressing%20process%20of%20chili%20seeds.png)
+ + ![Chili Oil](/images/hot-pressing-process-of-chili-seeds-c9c009d0eb.webp)
 
 ## Avantages Techniques
 

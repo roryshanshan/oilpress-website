@@ -2,6 +2,7 @@
 title: Series intelligent filling machine Price | Manufacturer & Quote
 description: Get price, procurement, and after-sales support for Series intelligent filling machine from Shengshi Hecheng manufacturer.
 keywords: Series intelligent filling machine price, Series intelligent filling machine quote, Series intelligent filling machine manufacturer, Series intelligent filling machine supplier, procurement, after-sales
+image: "/images/filling-products/smart-filling-machine.webp"
 ---
 # Series Intelligent Filling Machine
 

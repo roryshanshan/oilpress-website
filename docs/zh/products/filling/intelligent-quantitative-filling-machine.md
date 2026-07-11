@@ -1,7 +1,8 @@
 ---
-title: 智能定量灌装机价格|厂家报价
-description: 获取智能定量灌装机价格、采购与售后支持，厂家直供，支持选型与交付。
+title: 智能定量灌装机｜价格与厂家报价
+description: "智能定量灌装机：智能定量灌装机强调灌装与后续理盖、扣盖、封盖动作的联动，一台设备即可覆盖多道动作，适合希望减少中间人工干预和二次污染风险的自动化线体。"
 keywords: 智能定量灌装机价格, 智能定量灌装机报价, 智能定量灌装机厂家, 智能定量灌装机采购, 售后服务
+image: "/images/filling-products/intelligent-quantitative-filling-machine.webp"
 ---
 # 智能定量灌装机
 

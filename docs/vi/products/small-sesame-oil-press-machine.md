@@ -1,11 +1,12 @@
 ---
-title: Máy ép dầu mè cỡ nhỏ giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy ép dầu mè cỡ nhỏ từ nhà sản xuất Shengshi Hecheng.
+title: "Máy ép dầu mè cỡ nhỏ giá | Giá nhà máy & báo giá"
+description: "Nhận giá nhà máy cho Máy ép dầu mè cỡ nhỏ giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Máy ép dầu mè cỡ nhỏ, mua Máy ép dầu mè cỡ nhỏ, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/korean-type-small-press/small-sesame-hero.webp"
 ---
 # Máy ép dầu mè cỡ nhỏ
 
-![Máy ép dầu mè cỡ nhỏ](/images/korean-type-small-press/small-sesame-hero.jpg)
+![Máy ép dầu mè cỡ nhỏ](/images/korean-type-small-press/small-sesame-hero.webp)
 
 Máy ép dầu mè cỡ nhỏ được định vị rõ ràng cho việc sản xuất dầu mè chất lượng cao theo mẻ nhỏ. Trong hầu hết trường hợp, máy này dựa trên kết cấu máy ép dầu thủy lực kiểu Hàn Quốc và phù hợp với cửa hàng dầu mè, cửa hàng hữu cơ và không gian thương mại nhỏ kết hợp trình diễn với bán hàng.
 

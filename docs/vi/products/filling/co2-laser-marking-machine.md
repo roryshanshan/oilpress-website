@@ -1,7 +1,8 @@
 ---
-title: Máy laser CO2 giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy laser CO2 từ nhà sản xuất Shengshi Hecheng.
+title: "Máy laser CO2 giá | Giá nhà máy & báo giá"
+description: "Nhận giá nhà máy cho Máy laser CO2 giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá máy laser CO2, mua máy laser CO2, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/co2-laser-marking-machine.webp"
 ---
 # máy laser CO2
 

@@ -1,6 +1,6 @@
 ---
-title: তেল উৎপাদন লাইন | সমাধান ও দরপত্র
-description: টার্নকি সমাধান, যন্ত্রপাতির তালিকা, কারখানার দাম ও সেবা।
+title: "Oil Processing Solutions | Equipment List & Factory Quote"
+description: "Explore turnkey oil processing solutions by oilseed and process, including press selection, filtration, packaging, and factory quotes."
 keywords: তেল উৎপাদন লাইন, সমাধান, দরপত্র, কারখানা দাম, সেবা
 ---
 

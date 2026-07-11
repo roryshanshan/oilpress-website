@@ -1,7 +1,8 @@
 ---
-title: Dây chuyền xử lý thanh trùng bể chứa báo giá
+title: "Dây chuyền xử lý thanh trùng bể chứa | Danh mục thiết bị &…"
 description: Nhận báo giá Dây chuyền xử lý thanh trùng bể chứa với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Dây chuyền xử lý thanh trùng bể chứa báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/pasteurization-processing-line.webp"
 ---
 # Dây chuyền xử lý thanh trùng bể chứa
 

@@ -1,8 +1,9 @@
 ---
 layout: home
-title: 液压榨油机厂家｜价格/报价/采购/生产线
-description: 300-500系列液压榨油机与成套榨油生产线，厂家直供价格与报价，提供选型、采购与售后支持。
+title: "液压榨油机厂家｜价格/报价/采购/生产线"
+description: "300-500系列液压榨油机与成套食用油生产线，厂家直供价格与报价，提供选型、采购与售后支持，服务全球油厂与作坊项目。"
 keywords: 液压榨油机价格, 液压榨油机厂家, 榨油机报价, 采购, 生产线, 成套设备, 售后服务, 盛世赫程
+image: "/images/hero-oil-press.webp"
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
@@ -36,7 +37,7 @@ keywords: 液压榨油机价格, 液压榨油机厂家, 榨油机报价, 采购,
     </div>
   </div>
   <div class="hero-image">
-    <img src="/images/hero-oil-press.webp" alt="盛世赫程液压榨油机" />
+    <img src="/images/hero-oil-press.webp" alt="盛世赫程液压榨油机" decoding="async" fetchpriority="high" loading="eager" width="1200" height="800">
   </div>
 </div>
 
@@ -50,7 +51,7 @@ keywords: 液压榨油机价格, 液压榨油机厂家, 榨油机报价, 采购,
     <a href="/zh/about/" class="learn-more">了解更多 →</a>
   </div>
   <div class="intro-image">
-    <img src="/images/hero-oil-press.webp" alt="盛世赫程工厂" />
+    <img src="/images/hero-oil-press.webp" alt="盛世赫程工厂" decoding="async" fetchpriority="high" loading="eager" width="1200" height="800">
   </div>
 </div>
 
@@ -58,43 +59,43 @@ keywords: 液压榨油机价格, 液压榨油机厂家, 榨油机报价, 采购,
 
 <div class="product-series">
   <div class="product-card">
-    <img src="/images/300-325-series.webp" alt="300系列榨油机" />
+    <img src="/images/300-325-series.webp" alt="300系列榨油机" decoding="async" loading="lazy" width="1200" height="1600">
     <h3>300系列</h3>
     <p>入门热榨机型；产能需按榨桶尺寸、单批装料、单批周期和工时核算。</p>
     <a href="/zh/products/300" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
-    <img src="/images/300-325-series.webp" alt="325系列榨油机" />
+    <img src="/images/300-325-series.webp" alt="325系列榨油机" decoding="async" loading="lazy" width="1200" height="1600">
     <h3>325系列</h3>
     <p>小型油坊热榨主力机型；实际产量取决于榨桶配置和批次节拍。</p>
     <a href="/zh/products/325" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="355系列榨油机" />
+    <img src="/images/355-500-series.webp" alt="355系列榨油机" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>355系列</h3>
     <p>压力和结构更强，适合精品批次压榨和冷榨项目。</p>
     <a href="/zh/products/355" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="400系列榨油机" />
+    <img src="/images/355-500-series.webp" alt="400系列榨油机" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>400系列</h3>
     <p>中段冷榨机型；应先匹配榨桶尺寸和原料，再估算产量。</p>
     <a href="/zh/products/400" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="426系列榨油机" />
+    <img src="/images/355-500-series.webp" alt="426系列榨油机" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>426系列</h3>
     <p>更稳定的高压力配置，适合较硬油料和长时间生产。</p>
     <a href="/zh/products/426" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="480系列榨油机" />
+    <img src="/images/355-500-series.webp" alt="480系列榨油机" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>480系列</h3>
     <p>重载冷榨机型，适合需要更高压力储备和稳定批次的项目。</p>
     <a href="/zh/products/480" class="learn-more">了解更多</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="500系列榨油机" />
+    <img src="/images/355-500-series.webp" alt="500系列榨油机" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>500系列</h3>
     <p>旗舰高压力机型；真实产能仍需按榨桶和完整周期计算。</p>
     <a href="/zh/products/500" class="learn-more">了解更多</a>
@@ -131,35 +132,35 @@ keywords: 液压榨油机价格, 液压榨油机厂家, 榨油机报价, 采购,
 <div class="materials-section">
   <div class="materials-grid">
     <div class="material-item">
-      <img src="/images/peanut.svg" alt="花生" />
+      <img src="/images/peanut.svg" alt="花生" decoding="async" loading="lazy" width="200" height="200">
       <span>花生</span>
     </div>
     <div class="material-item">
-      <img src="/images/soybean.svg" alt="大豆" />
+      <img src="/images/soybean.svg" alt="大豆" decoding="async" loading="lazy" width="200" height="200">
       <span>大豆</span>
     </div>
     <div class="material-item">
-      <img src="/images/tea-seed.svg" alt="茶籽" />
+      <img src="/images/tea-seed.svg" alt="茶籽" decoding="async" loading="lazy" width="200" height="200">
       <span>茶籽</span>
     </div>
     <div class="material-item">
-      <img src="/images/sesame.svg" alt="芝麻" />
+      <img src="/images/sesame.svg" alt="芝麻" decoding="async" loading="lazy" width="200" height="200">
       <span>芝麻</span>
     </div>
     <div class="material-item">
-      <img src="/images/corn.svg" alt="玉米胚芽" />
+      <img src="/images/corn.svg" alt="玉米胚芽" decoding="async" loading="lazy" width="200" height="200">
       <span>玉米胚芽</span>
     </div>
     <div class="material-item">
-      <img src="/images/flax.svg" alt="亚麻" />
+      <img src="/images/flax.svg" alt="亚麻" decoding="async" loading="lazy" width="100" height="100">
       <span>亚麻</span>
     </div>
     <div class="material-item">
-      <img src="/images/rapeseed.svg" alt="油菜籽" />
+      <img src="/images/rapeseed.svg" alt="油菜籽" decoding="async" loading="lazy" width="100" height="100">
       <span>油菜籽</span>
     </div>
     <div class="material-item">
-      <img src="/images/cottonseed.svg" alt="棉籽" />
+      <img src="/images/cottonseed.svg" alt="棉籽" decoding="async" loading="lazy" width="100" height="100">
       <span>棉籽</span>
     </div>
   </div>
@@ -191,14 +192,14 @@ keywords: 液压榨油机价格, 液压榨油机厂家, 榨油机报价, 采购,
 
 <div class="case-studies">
   <div class="case-item">
-    <img src="/images/case1.svg" alt="新疆油厂案例" />
+    <img src="/images/case1.svg" alt="新疆油厂案例" decoding="async" loading="lazy" width="200" height="200">
     <div class="case-content">
       <h3>新疆大型油厂</h3>
       <p>采用我公司425系列榨油机，日产油20吨，出油率提高15%，年增收200万元</p>
     </div>
   </div>
   <div class="case-item">
-    <img src="/images/case2.svg" alt="东南亚客户案例" />
+    <img src="/images/case2.svg" alt="东南亚客户案例" decoding="async" loading="lazy" width="200" height="200">
     <h3>东南亚客户</h3>
     <p>引进我公司全套榨油生产线，实现了从手工作坊到现代化工厂的转变，产能提升5倍</p>
   </div>

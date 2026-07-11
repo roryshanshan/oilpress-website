@@ -1,7 +1,8 @@
 ---
 title: Giải pháp hạt cải (Dầu cải) báo giá | giải pháp trọn gói
-description: Nhận báo giá Giải pháp hạt cải (Dầu cải) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Giải pháp hạt cải (Dầu cải): quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Giải pháp hạt cải (Dầu cải) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/process-image-55d72f15da.webp"
 ---
 # Giải pháp hạt cải (Dầu cải)
 
@@ -28,7 +29,7 @@ keywords: Giải pháp hạt cải (Dầu cải) báo giá dây chuyền, giải
  + 菜籽(建议300AC-390/325AC-390/355AC-390/400AC-390)
         + 菜籽油热榨工艺：菜籽经过清理、破碎、炒制蒸制工艺后再放入液压榨油机料桶压榨。
         + 采用此工艺压榨的菜籽油，出油率高，色泽金黄，口感清香。
-        + ![Hạt cải quy trình ép nóng](/images/菜籽热榨工艺.png)‘
+        + ![Hạt cải quy trình ép nóng](/images/process-image-55d72f15da.webp)‘
 ## 菜籽热榨工艺视频
 
 <div class="video-container">

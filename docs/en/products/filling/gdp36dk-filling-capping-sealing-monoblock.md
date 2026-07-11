@@ -1,7 +1,8 @@
 ---
-title: "GDP36DK Filling Capping Sealing Monoblock Price"
+title: "GDP36DK Filling Capping Sealing Monoblock | Factory Price…"
 description: "Request a factory quote for the GDP36DK filling, capping, and sealing monoblock, including specs, delivery, procurement, and service."
 keywords: GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing machine price, GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing machine quote, GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing machine manufacturer, factory procurement, production line matching, after-sales service
+image: "/images/filling-products/gdp36dk-filling-capping-sealing-monoblock.webp"
 ---
 # GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing machine
 

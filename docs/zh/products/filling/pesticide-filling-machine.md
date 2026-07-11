@@ -1,7 +1,8 @@
 ---
-title: 农药灌装机价格|厂家报价
-description: 获取农药灌装机价格、采购与售后支持，厂家直供，支持选型与交付。
+title: 农药灌装机｜价格与厂家报价
+description: "农药灌装机：农药灌装机适合农化、日化等瓶装液体项目，前段带理瓶机构，后段衔接旋盖，可覆盖从中低产量到中高产量的自动线需求。"
 keywords: 农药灌装机价格, 农药灌装机报价, 农药灌装机厂家, 农药灌装机采购, 售后服务
+image: "/images/filling-products/pesticide-filling-machine.webp"
 ---
 # 农药灌装机
 

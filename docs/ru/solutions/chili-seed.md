@@ -2,6 +2,7 @@
 title: Chili Seed (Chili Seed Oil) Solutions - Shengshi Hecheng цена ...
 description: "Запросите стоимость решения Chili Seed (Chili Seed Oil) Solutions - Shengshi Hecheng: проект линии, список оборудования и сервис."
 keywords: Chili Seed (Chili Seed Oil) Solution цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
+image: "/images/hot-pressing-process-of-chili-seeds-c9c009d0eb.webp"
 ---
 # Chili Seed (Chili Seed Oil) Solution
 
@@ -29,7 +30,7 @@ Chili oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/400AC-
  + Step 1: Crushing
  + Step 2: Steaming
  + Step 3: Pressing
- + ![Chili Oil](/images/辣椒籽热榨工艺_Hot%20pressing%20process%20of%20chili%20seeds.png)
+ + ![Chili Oil](/images/hot-pressing-process-of-chili-seeds-c9c009d0eb.webp)
 
 ## Technical Advantages
 

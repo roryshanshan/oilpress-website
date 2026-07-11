@@ -2,6 +2,7 @@
 title: Máy tháo dỡ, tạo hình thùng carton, đóng thùng tự động giá
 description: Nhận báo giá và tư vấn mua Máy tháo dỡ, tạo hình thùng carton, đóng thùng tự động từ nhà sản xuất Shengshi Hecheng.
 keywords: giá Máy tháo dỡ, tạo hình thùng carton, đóng thùng tự động, mua Máy tháo dỡ, tạo hình thùng carton, đóng thùng tự động, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/case-erector-packing-machine.webp"
 ---
 # Máy tháo dỡ, tạo hình thùng carton, đóng thùng tự động
 

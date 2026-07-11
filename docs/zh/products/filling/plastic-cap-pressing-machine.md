@@ -1,7 +1,8 @@
 ---
-title: 塑防压盖机价格|厂家报价
-description: 获取塑防压盖机价格、采购与售后支持，厂家直供，支持选型与交付。
+title: 塑防压盖机｜价格与厂家报价
+description: "塑防压盖机：塑防压盖机可作为封口机系列中的具体机型参考。本页按公开产品资料整理了机型定位、参数信息和配套建议，方便做初步选型与页面内跳转。"
 keywords: 塑防压盖机价格, 塑防压盖机报价, 塑防压盖机厂家, 塑防压盖机采购, 售后服务
+image: "/images/filling-products/plastic-cap-pressing-machine.webp"
 ---
 # 塑防压盖机
 

@@ -1,7 +1,8 @@
 ---
 title: Machine trois-en-un pour rincer, remplir et sceller devis
-description: "Demandez un devis pour Machine trois-en-un pour rincer, remplir et sceller : plan de ligne, liste d’équipements et SAV."
+description: "Solution clé en main Machine à trois lignes de rinçage, de remplissage et de scellage : process, presse hydraulique, filtration, liste d’équipements et…"
 keywords: Machine à trois lignes de rinçage, de remplissage et de scellage prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/cgf-three-in-one-monoblock.webp"
 ---
 # Machine à trois lignes de rinçage, de remplissage et de scellage
 

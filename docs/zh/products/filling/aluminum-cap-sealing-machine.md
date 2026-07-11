@@ -1,7 +1,8 @@
 ---
-title: 铝盖封口机价格|厂家报价
-description: 获取铝盖封口机价格、采购与售后支持，厂家直供，支持选型与交付。
+title: 铝盖封口机｜价格与厂家报价
+description: "铝盖封口机：铝盖封口机可作为封口机系列中的具体机型参考。本页按公开产品资料整理了机型定位、参数信息和配套建议，方便做初步选型与页面内跳转。"
 keywords: 铝盖封口机价格, 铝盖封口机报价, 铝盖封口机厂家, 铝盖封口机采购, 售后服务
+image: "/images/filling-products/aluminum-cap-sealing-machine.webp"
 ---
 # 铝盖封口机
 

@@ -1,7 +1,8 @@
 ---
-title: Plieuse et encartonneuse automatique prix | fabricant
-description: Demandez le prix et le devis pour Plieuse et encartonneuse automatique. Fabricant Shengshi Hecheng, livraison et SAV.
+title: "Machine automatique de pliage et de scellage | Prix usine et devi"
+description: "Demandez le prix usine pour Machine automatique de pliage et de scellage. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
 keywords: Machine automatique de pliage et de scellage prix, acheter Machine automatique de pliage et de scellage, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/carton-sealing-machine.webp"
 ---
 # Machine automatique de pliage et de scellage
 

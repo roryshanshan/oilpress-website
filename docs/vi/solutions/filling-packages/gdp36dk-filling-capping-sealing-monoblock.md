@@ -2,6 +2,7 @@
 title: Máy kết hợp đóng nắp thông minh hoàn toàn tự Giải pháp | Báo giá
 description: Nhận báo giá Máy kết hợp đóng nắp thông minh hoàn toàn tự động GDP36DK-10-10 với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: GDP36DK-10-10 Máy chiết rót, đóng nắp, dán kín hoàn toàn tự động thông minh báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/gdp36dk-filling-capping-sealing-monoblock.webp"
 ---
 # GDP36DK-10-10 Máy chiết rót, đóng nắp, dán kín hoàn toàn tự động thông minh
 

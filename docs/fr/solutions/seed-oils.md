@@ -1,6 +1,6 @@
 ---
 title: Solutions d'huile de graines devis | solution clé en main
-description: "Demandez un devis pour Solutions d'huile de graines : plan de ligne, liste d’équipements et SAV."
+description: "Solution clé en main Solutions d'huile de graines : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Solutions d'huile de graines prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 ---
 # Solutions d'huile de graines

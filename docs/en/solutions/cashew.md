@@ -1,7 +1,8 @@
 ---
-title: Cashew (Cashew Oil) | Equipment List & Factory Quote
+title: "Cashew (Cashew Oil) Solution | Equipment List & Factory…"
 description: Get a turnkey plan for Cashew (Cashew Oil) Solution, including process design, equipment list, factory quote, procurement support, and after-sales service.
 keywords: Cashew (Cashew Oil) Solution quote, Cashew (Cashew Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
+image: "/images/hot-pressing-process-of-cashew-peel-def65fdf7a.webp"
 ---
 # Cashew (Cashew Oil) Solution
 
@@ -29,10 +30,10 @@ Cashew is an important oil crop, cashew oil has unique nutritional value and app
 
 Cashew pressing process: (Recommended 426AC-390/480AC-390/500AC-390)
 + Cashew peel hot pressing process: Pressing after steaming
-    + ![Cashew Peel Pressing Process](/images/腰果皮热榨工艺Hot%20pressing%20process%20of%20cashew%20peel.png)
+    + ![Cashew Peel Pressing Process](/images/hot-pressing-process-of-cashew-peel-def65fdf7a.webp)
 
 + Cashew kernel cold pressing process: Direct pressing
-    + ![Cashew Kernel Cold Pressing Process](/images/腰果仁冷榨工艺_Cold%20pressing%20process%20of%20cashew%20kernels_.png)
+    + ![Cashew Kernel Cold Pressing Process](/images/cold-pressing-process-of-cashew-kernels-f8ff465cd8.webp)
 
 ## Technical Advantages
 

@@ -1,7 +1,8 @@
 ---
-title: Boucheuse semi-automatique prix | fabricant
-description: Demandez le prix et le devis pour Boucheuse semi-automatique. Fabricant Shengshi Hecheng, livraison et SAV.
+title: "Boucheuse semi | Prix usine et devis"
+description: "Demandez le prix usine pour Boucheuse semi. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
 keywords: Boucheuse semi-automatique prix, acheter Boucheuse semi-automatique, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/semi-automatic-corking-machine.webp"
 ---
 # Boucheuse semi-automatique
 

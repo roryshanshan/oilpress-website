@@ -2,6 +2,7 @@
 title: Giải pháp dừa (Dầu dừa) - Công ty TNHH Shengshi Hecheng Sơn Đô...
 description: Nhận báo giá Giải pháp dừa (Dầu dừa) - Công ty TNHH Shengshi Hecheng Sơn Đông với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Giải pháp dừa (Dầu dừa) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/coconut-puree-e2083a9300.webp"
 ---
 # Giải pháp dừa (Dầu dừa)
 
@@ -27,7 +28,7 @@ Dừa là nguyên liệu dầu quan trọng, dầu dừa có giá trị dinh dư
 
 +  椰子油(建议300AC-390/325AC-390/355AC-390/400AC-390)
      + 冷榨工艺：粉碎后的椰蓉直接进入液压榨油机料桶压榨
-     +  ![椰子油](/images/椰蓉Coconut%20puree冷榨工艺.png)
+     +  ![椰子油](/images/coconut-puree-e2083a9300.webp)
 
 ## 椰子汁/椰浆/椰蓉液压榨油机视频参考
 <div class="video-container">

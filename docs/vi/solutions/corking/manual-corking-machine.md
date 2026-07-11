@@ -1,7 +1,8 @@
 ---
 title: Máy đóng nút chai thủ công báo giá | giải pháp trọn gói
-description: Nhận báo giá Máy đóng nút chai thủ công với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Máy đóng nút chai thủ công: quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Máy đóng nút chai thủ công báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/manual-corking-machine.webp"
 ---
 # Máy đóng nút chai thủ công
 

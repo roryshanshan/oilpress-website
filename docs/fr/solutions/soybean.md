@@ -2,6 +2,7 @@
 title: Solutions de soja (huile de soja) - Shengshi Hecheng devis | s...
 description: "Demandez un devis pour Solutions de soja (huile de soja) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV."
 keywords: Solutions de soja (huile de soja) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/process-image-bc91f2194d.webp"
 ---
 # Solutions de soja (huile de soja)
 
@@ -27,11 +28,11 @@ Le soja est l'une des principales cultures oléagineuses mondiales, et l'huile d
 
 ### Procédé de pressage à froid
 - Broyage à haute vitesse de soja suivi de pressage
-- ![Soja processus de pressage à froid](/images/大豆冷榨工艺.png)
+- ![Soja processus de pressage à froid](/images/process-image-bc91f2194d.webp)
 
 ### Procédé de pressage à chaud
 - Broyage de soja en forme d'embryon (broyage) - cuisson à la vapeur - pressage
-- ![Soja processus de pressage à chaud](/images/大豆热榨工艺.png)
+- ![Soja processus de pressage à chaud](/images/process-image-ce959e498e.webp)
 
 La vidéo suivante montre le processus de transformation du soja par pressage à chaud :
 

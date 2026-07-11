@@ -2,6 +2,7 @@
 title: Machine à sceller les couvercles antivol entièr Solution | Devis
 description: "Demandez un devis pour Machine à sceller les couvercles antivol entièrement automatique : plan de ligne, liste d’équipements et SAV."
 keywords: Machine à sceller les couvercles antivol entièrement automatique prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/anti-theft-cap-sealing-machine.webp"
 ---
 # Machine à sceller les couvercles antivol entièrement automatique
 

@@ -1,7 +1,8 @@
 ---
-title: Single-head rubber cap heat shrink machine Price
+title: "Single-head rubber cap heat shrink machine | Factory Price…"
 description: Get price, procurement, and after-sales support for Single-head rubber cap heat shrink machine from Shengshi Hecheng manufacturer.
 keywords: Single-head rubber cap heat shrink machine price, Single-head rubber cap heat shrink machine quote, Single-head rubber cap heat shrink machine manufacturer, Single-head rubber cap heat shrink machine supplier, procurement, after-sales
+image: "/images/filling-products/single-head-cap-shrinking-machine.webp"
 ---
 # Single head rubber cap heat shrink machine
 

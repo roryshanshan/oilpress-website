@@ -2,8 +2,9 @@
 title: Machine de remplissage intelligente série prix | fabricant
 description: Demandez le prix et le devis pour Machine de remplissage intelligente série. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Positionnement du modèle prix, acheter Positionnement du modèle, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/smart-filling-machine.webp"
 ---
-Machine de remplissage intelligente série #
+# Machine de remplissage intelligente série
 
 ![Série de machines de remplissage intelligentes](/images/filling-products/smart-filling-machine.webp)
 

@@ -2,10 +2,11 @@
 title: KHOP-20KG petite presse à huile hydraulique prix | fabricant
 description: Demandez le prix et le devis pour KHOP-20KG petite presse à huile hydraulique. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: KHOP-20KG petite presse à huile hydraulique prix, acheter KHOP-20KG petite presse à huile hydraulique, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/korean-type-small-press/korean-type-side.webp"
 ---
 # KHOP-20KG petite presse à huile hydraulique
 
-![KHOP-20KG petite presse à huile hydraulique](/images/korean-type-small-press/korean-type-side.jpg)
+![KHOP-20KG petite presse à huile hydraulique](/images/korean-type-small-press/korean-type-side.webp)
 
 La KHOP-20KG automatique est l'option de capacité la plus élevée de cette famille coréenne compacte. Elle est conçue pour la production d'huile de sésame et les opérations commerciales qui ont besoin d'un débit journalier plus fort tout en conservant une machine adaptée à l'exposition en boutique et à un petit atelier.
 

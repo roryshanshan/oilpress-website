@@ -2,6 +2,7 @@
 title: Sunflower Seed (Sunflower Oil) | Equipment List & Factory Quote
 description: "Get a sunflower seed oil line plan with process design, equipment list, factory quote, procurement, and after-sales service."
 keywords: Sunflower Seed (Sunflower Oil) Solution quote, Sunflower Seed (Sunflower Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
+image: "/images/sunflower-seed-hot-pressing-process.webp"
 ---
 # Sunflower Seed (Sunflower Oil) Solution
 
@@ -27,7 +28,7 @@ Sunflower seed is an important oil crop, sunflower oil has golden color and refr
 
 ### Sunflower Oil Hot Pressing Process
 - Sunflower seeds go through cleaning, crushing, and frying processes before being fed into the hydraulic oil press bucket for pressing.
-- ![Sunflower Oil Hot Pressing Process](/images/sunflower-seed-hot-pressing-process.png)
+- ![Sunflower Oil Hot Pressing Process](/images/sunflower-seed-hot-pressing-process.webp)
 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/BdmN8beHRyg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

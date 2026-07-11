@@ -1,7 +1,8 @@
 ---
-title: 回转式大桶灌装机报价|整线方案
-description: 获取回转式大桶灌装机整线方案与报价，含工艺、设备清单与售后支持。
+title: 回转式大桶灌装机｜设备与厂家报价
+description: "回转式大桶灌装机适合大桶液体自动定量灌装，重点在于高流量灌装、桶口适配和大包装场景下的稳定性，常用于油脂、化工液体及其他大容量包装项目。"
 keywords: 回转式大桶灌装机报价, 回转式大桶灌装机价格, 整线方案, 生产线, 采购
+image: "/images/filling-products/rotary-drum-filling-machine.webp"
 ---
 # 回转式大桶灌装机
 

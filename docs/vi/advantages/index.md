@@ -1,6 +1,6 @@
 ---
-title: Lợi thế công ty - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: Lợi thế của Shengshi Hecheng, bao gồm năng lực cạnh tranh cốt lõi, đổi mới công nghệ, đảm bảo chất lượng và hỗ trợ dịch vụ; đội ngũ R&D chuyên nghiệp
+title: "Lợi thế | Chất lượng, đổi mới và dịch vụ"
+description: "Vì sao chọn Shengshi Hecheng: R&D máy ép thủy lực, hệ thống chất lượng, case study và hỗ trợ kỹ thuật lâu dài."
 keywords: lợi thế công ty, năng lực cạnh tranh, đổi mới công nghệ, đảm bảo chất lượng, hỗ trợ dịch vụ, đội ngũ R&D, bằng sáng chế, ISO9001, bảo hành, Shengshi Hecheng
 ---
 

@@ -1,7 +1,8 @@
 ---
-title: Emballage et palettisation
-description: L'équipement d'emballage et de palettisation est utilisé pour l'emballage, le scellage
+title: "Emballage et palettisation | Modèles, specs et devis usine"
+description: Découvrez emballage et palettisation pour lignes d’huile comestible et conditionnement liquide. Comparez les modèles et demandez un devis usine.
 keywords: Équipement d'emballage et de palettisation, encartonneuse automatique, machine de palettisation automatique, équipement de scellage de cartons, ligne de post-emballage d'huile comestible, équipement d'emballage terminal
+image: "/images/filling-solutions/packing-palletizing.webp"
 ---
 
 # Emballage et palettisation

@@ -2,6 +2,7 @@
 title: Rinsing, filling and sealing three-in-one machine Quote
 description: Get a quote and turnkey plan for Rinsing, filling and sealing three-in-one machine. Process design, equipment list, and after-sales support.
 keywords: Rinsing, filling and sealing three-in-one machine quote, Rinsing, filling and sealing three-in-one machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/cgf-three-in-one-monoblock.webp"
 ---
 # Rinsing, filling and sealing three-line machine
 

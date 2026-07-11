@@ -1,7 +1,8 @@
 ---
-title: Série de machines à sceller
-description: La série de machines à sceller convient au scellage et au scellage de produits liquides en bouteille
+title: "Série de machines à sceller | Modèles, specs et devis usine"
+description: Découvrez série de machines à sceller pour lignes d’huile comestible et conditionnement liquide. Comparez les modèles et demandez un devis usine.
 keywords: Série de machines à sceller, machine à sceller les huiles comestibles, machine à sceller les feuilles d'aluminium, équipement de scellage de bouchage, machine à sceller à chaud, ligne de scellage pour emballages liquides
+image: "/images/filling-solutions/sealing.webp"
 ---
 
 # Série de machines à sceller

@@ -2,9 +2,10 @@
 title: Высокоскоростная дробилка 11 кВт - Shengshi Hecheng цена | про...
 description: Запросите цену и подбор Высокоскоростная дробилка 11 кВт - Shengshi Hecheng. Производитель Shengshi Hecheng, поставка и сервис.
 keywords: Высокоскоростная дробилка 11 кВт цена, купить Высокоскоростная дробилка 11 кВт, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
+image: "/images/external/products-11kw-high-speed-pulverizer-2f354a64.webp"
 ---
 # Высокоскоростная дробилка 11 кВт
-![Высокоскоростная дробилка](https://i.postimg.cc/QjCxz20G/image.png?dl=1)
+![Высокоскоростная дробилка](/images/external/products-11kw-high-speed-pulverizer-2f354a64.webp)
 
 ## Обзор продукта
 

@@ -1,7 +1,8 @@
 ---
 title: GDP36DK-10-10 全自动智能型灌装扣盖封口联体机报价|整线方案
-description: 获取GDP36DK-10-10 全自动智能型灌装扣盖封口联体机整线方案与报价，含工艺、设备清单与售后支持。
+description: "GDP36DK-10-10 全自动智能型灌装扣盖封口联体机可作为联体机与灌装配套总线中的具体机型参考。本页按公开产品资料整理了机型定位、参数信息和配套建议，方便做初步选型与页面内跳转。"
 keywords: GDP36DK-10-10 全自动智能型灌装扣盖封口联体机报价, GDP36DK-10-10 全自动智能型灌装扣盖封口联体机价格, 整线方案, 生产线, 采购
+image: "/images/filling-products/gdp36dk-filling-capping-sealing-monoblock.webp"
 ---
 # GDP36DK-10-10 全自动智能型灌装扣盖封口联体机
 

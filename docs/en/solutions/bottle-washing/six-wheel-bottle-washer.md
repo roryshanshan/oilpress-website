@@ -1,7 +1,8 @@
 ---
-title: Six-wheel rinsing machine Quote | Turnkey Solution
-description: Get a quote and turnkey plan for Six-wheel rinsing machine. Process design, equipment list, and after-sales support.
+title: "Six-wheel rinsing machine | Equipment List & Factory Quote"
+description: "Turnkey Six-wheel rinsing machine with process design, hydraulic press selection, filtration options, equipment list, and factory quote support."
 keywords: Six-wheel rinsing machine quote, Six-wheel rinsing machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/six-wheel-bottle-washer.webp"
 ---
 # Six-wheel rinsing machine
 

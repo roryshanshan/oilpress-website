@@ -2,6 +2,7 @@
 title: DF-T200 semi-automatic round bottle labeling machine Quote
 description: Get a quote and turnkey plan for DF-T200 semi-automatic round bottle labeling machine. Process design, equipment list, and after-sales support.
 keywords: DF-T200 semi-automatic round bottle labeling machine quote, DF-T200 semi-automatic round bottle labeling machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/df-t200-round-bottle-labeler.webp"
 ---
 # DF-T200 semi-automatic round bottle labeling machine
 

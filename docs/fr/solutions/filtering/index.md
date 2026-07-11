@@ -1,11 +1,12 @@
 ---
-title: Série de machines de filtration
-description: Série de machines de filtration pour la clarification et la purification avant remplissage des huiles, vins, boissons et liquides condimentaires.
+title: "Série de machines de filtration | Modèles, specs et devis usine"
+description: Découvrez série de machines de filtration pour lignes d’huile comestible et conditionnement liquide. Comparez les modèles et demandez un devis usine.
 keywords: série de machines de filtration, filtration huile alimentaire, filtre de clarification, filtration avant remplissage
+image: "/images/filling-solutions/filtering.webp"
 ---
 # Série de machines de filtration
 
-![Machine de filtration](/images/filling-solutions/filtering.png)
+![Machine de filtration](/images/filling-solutions/filtering.webp)
 
 Les machines de filtration sont utilisées pour clarifier les liquides avant l'entrée dans la section de remplissage. Elles améliorent l'apparence du produit et la stabilité du process.
 

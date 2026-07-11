@@ -1,7 +1,8 @@
 ---
-title: Giải pháp hạt thầu dầu (Dầu thầu dầu) báo giá
+title: "Giải pháp hạt thầu dầu (Dầu thầu dầu) | Danh mục thiết bị…"
 description: Nhận báo giá Giải pháp hạt thầu dầu (Dầu thầu dầu) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Giải pháp hạt thầu dầu (Dầu thầu dầu) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/hot-pressing-process-of-castor-seeds-png-89a6227aab.webp"
 ---
 # Giải pháp hạt thầu dầu (Dầu thầu dầu)
 
@@ -29,7 +30,7 @@ Quy trình ép hạt thầu dầu (gợi ý: 300AC-390/325AC-390/355AC-390/400AC
 + Bước 1: Nghiền
 + Bước 2: Rang
 + Bước 3: Ép
-+ ![Quy trình ép nóng](/images/蓖麻子热榨工艺_Hot%20pressing%20process%20of%20castor%20seeds_png.png)
++ ![Quy trình ép nóng](/images/hot-pressing-process-of-castor-seeds-png-89a6227aab.webp)
 
 ## Hiện chưa có video quy trình công suất lớn của chúng tôi; tạm thời tham khảo video máy ép Hàn Quốc ép hạt thầu dầu dưới đây
 

@@ -1,7 +1,8 @@
 ---
 title: Máy gấp, đóng thùng tự động báo giá | giải pháp trọn gói
-description: Nhận báo giá Máy gấp, đóng thùng tự động với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Máy gấp và dán kín tự động: quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Máy gấp và dán kín tự động báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/carton-sealing-machine.webp"
 ---
 # Máy gấp và dán kín tự động
 

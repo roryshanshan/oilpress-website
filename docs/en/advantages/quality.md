@@ -1,6 +1,6 @@
 ---
-title: Quality Assurance - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng has passed ISO9001 quality management system certification, established a comprehensive quality control system
+title: "Quality Assurance | ISO Process & Factory QC"
+description: "Learn how ISO-based quality control, incoming inspection, and factory testing protect every hydraulic oil press shipment."
 keywords: Quality Assurance, oil press manufacturer advantages, technology innovation, service support, ISO9001 certification, Oil press equipment quality, Quality management system, Equipment quality control
 ---
 

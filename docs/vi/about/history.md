@@ -1,10 +1,10 @@
 ---
-title: Lịch sử công ty - Công ty TNHH Shengshi Hecheng Sơn Đông
+title: "Lịch sử công ty | Nhà sản xuất máy ép dầu thủy lực"
 description: Quá trình phát triển của Shengshi Hecheng, tập trung vào nghiên cứu và sản xuất máy ép dầu thủy lực, liên tục đổi mới, phục vụ khách hàng toàn cầu.
 keywords: Lịch sử công ty, Quá trình phát triển, Shengshi Hecheng Sơn Đông, Nhà sản xuất máy ép dầu, Phát triển doanh nghiệp, Đổi mới công nghệ, Máy ép dầu thủy lực, Thiết bị chế biến dầu, Giới thiệu doanh nghiệp
 ---
 
-## Lịch sử công ty
+# Lịch sử công ty
 
 Công ty TNHH Shengshi Hecheng Sơn Đông được thành lập năm 2008, chuyên nghiên cứu và sản xuất máy ép dầu thủy lực. Sau hơn mười năm phát triển, công ty ngày càng lớn mạnh, sản phẩm được xuất khẩu trong và ngoài nước, nhận được sự tin tưởng và ủng hộ của đông đảo khách hàng.
 

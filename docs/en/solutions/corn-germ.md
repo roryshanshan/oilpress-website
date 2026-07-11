@@ -1,7 +1,8 @@
 ---
 title: Corn Germ (Corn Germ Oil) | Equipment List & Factory Quote
-description: "Get a corn germ oil line plan with process design, equipment list, factory quote, procurement, and after-sales service."
+description: "Turnkey Corn Germ (Corn Germ Oil) Solution with process design, hydraulic press selection, filtration options, equipment list, and factory quote support."
 keywords: Corn Germ (Corn Germ Oil) Solution quote, Corn Germ (Corn Germ Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
+image: "/images/hot-pressing-process-of-corn-germ-2dad9e44c2.webp"
 ---
 # Corn Germ (Corn Germ Oil) Solution
 
@@ -30,7 +31,7 @@ Hot pressing technology for corn germ oil: (Recommended 300AC-390/325AC-390/355A
  + Step 1: Crushing
  + Step 2: Steaming
  + Step 3: Pressing
- + ![Corn Germ Oil](/images/玉米胚芽热榨工艺_Hot%20pressing%20process%20of%20corn%20germ_.png)
+ + ![Corn Germ Oil](/images/hot-pressing-process-of-corn-germ-2dad9e44c2.webp)
 
 ## No hydraulic oil press video available yet, below is a screw oil press pressing corn germ for reference only
 

@@ -1,7 +1,8 @@
 ---
-title: Manual corking machine Price | Manufacturer & Quote
-description: Get price, procurement, and after-sales support for Manual corking machine from Shengshi Hecheng manufacturer.
+title: "Manual corking machine | Factory Price & Quote"
+description: "Get factory pricing for Manual corking machine. Suitable for edible oil projects with model selection, procurement support, and after-sales service from…"
 keywords: Manual corking machine price, Manual corking machine quote, Manual corking machine manufacturer, Manual corking machine supplier, procurement, after-sales
+image: "/images/filling-products/manual-corking-machine.webp"
 ---
 # Manual corking machine
 

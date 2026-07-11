@@ -2,6 +2,7 @@
 title: Liquor filling two-line machine Quote | Turnkey Solution
 description: Get a quote and turnkey plan for Liquor filling two-line machine. Process design, equipment list, and after-sales support.
 keywords: Liquor filling two-line machine quote, Liquor filling two-line machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/baijiu-filling-capping-monoblock.webp"
 ---
 # Liquor filling two-line
 

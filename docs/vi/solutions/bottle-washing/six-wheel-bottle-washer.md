@@ -1,7 +1,8 @@
 ---
-title: Máy súc rửa sáu bánh báo giá | giải pháp trọn gói
-description: Nhận báo giá Máy súc rửa sáu bánh với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+title: "Máy rửa sáu bánh | Danh mục thiết bị & báo giá"
+description: "Giải pháp trọn gói Máy rửa sáu bánh: quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Máy rửa sáu bánh báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/six-wheel-bottle-washer.webp"
 ---
 # Máy rửa sáu bánh
 

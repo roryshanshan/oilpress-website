@@ -2,6 +2,7 @@
 title: Máy tháo dỡ, tạo hình thùng carton, đóng thùng tự động báo giá
 description: Nhận báo giá Máy tháo dỡ, tạo hình thùng carton, đóng thùng tự động với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Máy tháo dỡ, tạo hình thùng carton, đóng thùng tự động báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/case-erector-packing-machine.webp"
 ---
 # Máy tháo dỡ, tạo hình thùng carton, đóng thùng tự động
 

@@ -1,7 +1,8 @@
 ---
-title: Fully automatic self-adhesive labeling machine Quote
+title: "Fully automatic self-adhesive labeling machine | Equipment…"
 description: Get a quote and turnkey plan for Fully automatic self-adhesive labeling machine. Process design, equipment list, and after-sales support.
 keywords: Fully automatic self-adhesive labeling machine quote, Fully automatic self-adhesive labeling machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/self-adhesive-labeling-machine.webp"
 ---
 # Fully automatic self-adhesive labeling machine
 

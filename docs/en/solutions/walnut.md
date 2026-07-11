@@ -1,7 +1,8 @@
 ---
-title: Walnut (Walnut Oil) | Equipment List & Factory Quote
+title: "Walnut (Walnut Oil) Solution | Equipment List & Factory…"
 description: Get a turnkey plan for Walnut (Walnut Oil) Solution, including process design, equipment list, factory quote, procurement support, and after-sales service.
 keywords: Walnut (Walnut Oil) Solution quote, Walnut (Walnut Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
+image: "/images/process-image-647a0e9868.webp"
 ---
 # Walnut (Walnut Oil) Solution
 
@@ -28,7 +29,7 @@ Walnut is an important oil crop, walnut oil has unique nutritional value and app
 + Walnut (Recommended 426AC-390/480AC-390/500AC-390)
      + Cold pressing process: Walnuts go through screening, cleaning, and high-speed crushing before being directly fed into the hydraulic oil press bucket for pressing.
      + The walnut oil produced by this process has golden color and a sweet aftertaste. The pressed oil does not require hydration treatment and does not foam when used in cooking.
-     + ![Walnut cold pressing process](/images/核桃冷榨工艺.png)
+     + ![Walnut cold pressing process](/images/process-image-647a0e9868.webp)
 
 ## Walnut cold pressing reference video, the test machine in the video is 325 type, not recommended for production use, for reference only.
 

@@ -1,7 +1,8 @@
 ---
-title: Rotary rinsing machine Quote | Turnkey Solution
-description: Get a quote and turnkey plan for Rotary rinsing machine. Process design, equipment list, and after-sales support.
+title: "Rotary bottle rinser | Equipment List & Factory Quote"
+description: "Turnkey Rotary bottle rinser with process design, hydraulic press selection, filtration options, equipment list, and factory quote support."
 keywords: Rotary rinsing machine quote, Rotary rinsing machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/rotary-bottle-washer.webp"
 ---
 # Rotary bottle rinser
 

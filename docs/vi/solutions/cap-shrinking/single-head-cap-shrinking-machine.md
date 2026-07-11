@@ -1,7 +1,8 @@
 ---
 title: Máy co nhiệt nắp cao su một đầu báo giá | giải pháp trọn gói
-description: Nhận báo giá Máy co nhiệt nắp cao su một đầu với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Máy co nhiệt nắp cao su một đầu: quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Máy co nhiệt nắp cao su một đầu báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/single-head-cap-shrinking-machine.webp"
 ---
 # Máy co nhiệt nắp cao su một đầu
 

@@ -2,6 +2,7 @@
 title: Tank pasteurization processing line Quote | Turnkey Solution
 description: Get a quote and turnkey plan for Tank pasteurization processing line. Process design, equipment list, and after-sales support.
 keywords: Tank pasteurization processing line quote, Tank pasteurization processing line price, turnkey solution, production line, procurement
+image: "/images/filling-products/pasteurization-processing-line.webp"
 ---
 # Tank pasteurization processing line
 

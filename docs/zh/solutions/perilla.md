@@ -1,7 +1,8 @@
 ---
-title: 苏子液压榨油机｜苏子油压榨方案与设备
-description: 苏子液压榨油机冷榨紫苏籽油，富含Omega-3，适合高端食用油与月子油加工，提供低温压榨与精滤成套方案。
+title: 苏子（苏子油）解决方案｜设备与厂家报价
+description: "苏子是重要的油料作物，苏子油具有独特的营养价值和应用价值。山东盛世赫程机械有限公司提供专业的苏子压榨解决方案，从小型作坊到大型工厂的全套设备和服务。"
 keywords: 苏子（苏子油）解决方案 - 山东盛世赫程机械有限公司报价, 苏子（苏子油）解决方案 - 山东盛世赫程机械有限公司价格, 整线方案, 生产线, 采购
+image: "/images/an-overview-of-the-hot-pressing-process-of-perilla-a2e7edd577.webp"
 ---
 # 苏子（苏子油）解决方案
 
@@ -27,9 +28,9 @@ keywords: 苏子（苏子油）解决方案 - 山东盛世赫程机械有限公�
 
 +  紫苏子(建议300AC-390/325AC-390/355AC-390/400AC-390)
      + 热榨工艺：紫苏子经过筛选、清洗、炒制、粉碎后然后蒸制，最后进入液压榨油机料桶压榨
-     +  ![紫苏子](/images/紫苏热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressing%20Process%20of%20Perilla.png)
+     +  ![紫苏子](/images/an-overview-of-the-hot-pressing-process-of-perilla-a2e7edd577.webp)
      + 冷榨工艺：紫苏子经过筛选、清洗、粉碎后直接入液压榨油机料桶压榨
-     +  ![紫苏子](/images/紫苏冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressing%20Process%20of%20Perilla.png)
+     +  ![紫苏子](/images/an-overview-of-the-cold-pressing-process-of-perill-76371f15c4.webp)
 
 ## 热榨紫苏籽视频参考
 

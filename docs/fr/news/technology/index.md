@@ -1,6 +1,6 @@
 ---
-title: Connaissances techniques
-description: Derniers guides sur les presses à huile hydrauliques couvrant le choix des graines, le pressage à chaud et à froid, la sélection de modèle, le ROI
+title: "Connaissances techniques | Guides presse à huile"
+description: "Guides pratiques presse à huile : sélection de modèle, pressage chaud/froid, rendement, filtration et layout de ligne de production."
 keywords: presse à huile hydraulique, connaissances techniques, guide pressage à froid, ligne d’huile alimentaire
 ---
 

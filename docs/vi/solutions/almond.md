@@ -2,6 +2,7 @@
 title: Giải pháp hạnh nhân (Dầu hạnh nhân) báo giá | giải pháp trọn gói
 description: Nhận báo giá Giải pháp hạnh nhân (Dầu hạnh nhân) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Giải pháp hạnh nhân (Dầu hạnh nhân) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/an-overview-of-the-cold-pressing-process-of-almond-d7174b6360.webp"
 ---
 # Giải pháp hạnh nhân (Dầu hạnh nhân)
 
@@ -26,7 +27,7 @@ keywords: Giải pháp hạnh nhân (Dầu hạnh nhân) báo giá dây chuyền
 ## 加工工艺
 +  杏仁/巴旦木(建议426AC-390/480AC-390/500AC-390)
      + 杏仁油冷榨工艺：经过筛选、清洗、高速粉碎后直接入液压榨油机料桶压榨
-     + ![杏仁](/images/杏仁冷榨工艺概览_An%20Overview%20of%20the%20cold-pressing%20Process%20of%20%20Almond%20kernel.png)
+     + ![杏仁](/images/an-overview-of-the-cold-pressing-process-of-almond-d7174b6360.webp)
 
 ## 巴基斯坦客户回传的杏仁油冷榨压榨视频参考
 <div class="video-container">

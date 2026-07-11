@@ -2,6 +2,7 @@
 title: Flaxseed (Flaxseed Oil) | Equipment List & Factory Quote
 description: Get a turnkey plan for Flaxseed (Flaxseed Oil) Solution, including process design, equipment list, factory quote, procurement support, and after-sales service.
 keywords: Flaxseed (Flaxseed Oil) Solution quote, Flaxseed (Flaxseed Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
+image: "/images/flaxseed-hot-pressing-process.webp"
 ---
 # Flaxseed (Flaxseed Oil) Solution
 
@@ -27,9 +28,9 @@ Flaxseed is an important oil crop, flaxseed oil has unique nutritional value and
 
 ### Flaxseed Hot Pressing Process
 - Flaxseed/Linseed hot pressing process: Flaxseeds are heated and fried + ground and fried before being fed into the hydraulic oil press bucket for pressing.
-- ![Flaxseed/Linseed Hot Pressing Process](/images/flaxseed-hot-pressing-process.png)
+- ![Flaxseed/Linseed Hot Pressing Process](/images/flaxseed-hot-pressing-process.webp)
 - Flaxseed oil hot pressing process: Flaxseeds are crushed by high-speed pulverizer before being fed into the hydraulic oil press bucket for pressing. Sweet aftertaste, sweet and fragrant taste, the pressed oil does not require hydration treatment and does not foam when cooking.
-- ![Flaxseed Oil Hot Pressing Process](/images/胡麻_亚麻籽冷榨工艺概览_An%20Overview%20of%20the%20Cold%20pressing%20Process%20of%20Flaxseed.png)
+- ![Flaxseed Oil Hot Pressing Process](/images/an-overview-of-the-cold-pressing-process-of-flaxse-0ea1b504ce.webp)
 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/g6zdZIm7aMs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: Etiqueteuse semi-automatique pour bouteilles rondes DF-T200 prix
 description: Demandez le prix et le devis pour Etiqueteuse semi-automatique pour bouteilles rondes DF-T200. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Etiqueteuse semi-automatique pour bouteilles rondes DF-T200 prix, acheter Etiqueteuse semi-automatique pour bouteilles rondes DF-T200, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/df-t200-round-bottle-labeler.webp"
 ---
 # Etiqueteuse semi-automatique pour bouteilles rondes DF-T200
 

@@ -1,7 +1,8 @@
 ---
-title: Light inspection machine Price | Manufacturer & Quote
-description: Get price, procurement, and after-sales support for Light inspection machine from Shengshi Hecheng manufacturer.
+title: "Light inspection machine | Factory Price & Quote"
+description: "Get factory pricing for Light inspection machine. Suitable for edible oil projects with model selection, procurement support, and after-sales service…"
 keywords: Light inspection machine price, Light inspection machine quote, Light inspection machine manufacturer, Light inspection machine supplier, procurement, after-sales
+image: "/images/filling-products/light-inspection-machine.webp"
 ---
 # Light inspection machine
 

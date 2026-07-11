@@ -1,7 +1,8 @@
 ---
-title: Machine laser CO2 prix | fabricant
-description: Demandez le prix et le devis pour Machine laser CO2. Fabricant Shengshi Hecheng, livraison et SAV.
+title: "Machine laser CO2 | Prix usine et devis"
+description: "Demandez le prix usine pour Machine laser CO2. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
 keywords: Machine laser CO2 prix, acheter Machine laser CO2, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/co2-laser-marking-machine.webp"
 ---
 # Machine laser CO2
 

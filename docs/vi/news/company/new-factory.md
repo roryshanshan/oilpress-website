@@ -1,6 +1,6 @@
 ---
 title: Khu nhà máy mới của công ty Shengshi Hecheng chính thức đi vào
-description: "Thời gian công bố: 20 tháng 3 năm 2023"
+description: "Với nhu cầu thị trường không ngừng tăng và sự phát triển nhanh chóng của kinh doanh công ty, địa điểm sản xuất ban đầu đã không thể đáp ứng nhu cầu sản…"
 keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
 ---
 # Khu nhà máy mới của công ty Shengshi Hecheng chính thức đi vào sản xuất

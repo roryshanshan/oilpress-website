@@ -1,7 +1,8 @@
 ---
-title: Giải pháp hạt óc chó (Dầu hạt óc chó) báo giá
+title: "Giải pháp hạt óc chó (Dầu hạt óc chó) | Danh mục thiết bị…"
 description: Nhận báo giá Giải pháp hạt óc chó (Dầu hạt óc chó) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Giải pháp hạt óc chó (Dầu hạt óc chó) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/process-image-647a0e9868.webp"
 ---
 # Giải pháp hạt óc chó (Dầu hạt óc chó)
 
@@ -28,7 +29,7 @@ keywords: Giải pháp hạt óc chó (Dầu hạt óc chó) báo giá dây chuy
 + 核桃(建议426AC-390/480AC-390/500AC-390)
      + 冷榨工艺：核桃经过筛选、清洗、高速粉碎后直接入液压榨油机料桶压榨。
      + 采用此工艺压榨的核桃油，色泽金黄，入口回甘，压榨出的油不用水化处理，下锅不起泡。
-     + ![Óc chó quy trình ép lạnh](/images/核桃冷榨工艺.png)
+     + ![Óc chó quy trình ép lạnh](/images/process-image-647a0e9868.webp)
 ## 核桃冷榨参考视频，视频中测试机为 325 型，不建议做为生产使用，仅供参考。
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/2Y0HsdtzfWg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,7 @@
 title: Automatic unpacking, carton forming, cartoning machine Quote
 description: Get a quote and turnkey plan for Automatic unpacking, carton forming, cartoning machine. Process design, equipment list, and after-sales support.
 keywords: Automatic unpacking, carton forming, cartoning machine quote, Automatic unpacking, carton forming, cartoning machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/case-erector-packing-machine.webp"
 ---
 # Automatic unpacking, carton forming, and cartoning machines
 

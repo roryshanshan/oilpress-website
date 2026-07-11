@@ -1,7 +1,8 @@
 ---
-title: Machine de remplissage de pesticides prix | fabricant
-description: Demandez le prix et le devis pour Machine de remplissage de pesticides. Fabricant Shengshi Hecheng, livraison et SAV.
+title: "Machine de remplissage de pesticides | Prix usine et devis"
+description: "Demandez le prix usine pour Machine de remplissage de pesticides. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
 keywords: Machine de remplissage de pesticides prix, acheter Machine de remplissage de pesticides, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/pesticide-filling-machine.webp"
 ---
 # Machine de remplissage de pesticides
 

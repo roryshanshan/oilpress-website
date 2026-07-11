@@ -1,7 +1,8 @@
 ---
-title: Ligne de traitement de pasteurisation en cuve devis
-description: "Demandez un devis pour Ligne de traitement de pasteurisation en cuve : plan de ligne, liste d’équipements et SAV."
+title: "Ligne de traitement de pasteurisation en cuve | Liste…"
+description: "Solution clé en main Ligne de traitement de pasteurisation en cuve : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Ligne de traitement de pasteurisation en cuve prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/pasteurization-processing-line.webp"
 ---
 # Ligne de traitement de pasteurisation en cuve
 

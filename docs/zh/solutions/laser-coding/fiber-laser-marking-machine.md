@@ -1,7 +1,8 @@
 ---
-title: 光纤激光打标机报价|整线方案
-description: 获取光纤激光打标机整线方案与报价，含工艺、设备清单与售后支持。
+title: 光纤激光打标机｜设备与厂家报价
+description: "光纤激光打标机可作为激光打码机系列中的具体机型参考。本页按公开产品资料整理了机型定位、参数信息和配套建议，方便做初步选型与页面内跳转。"
 keywords: 光纤激光打标机报价, 光纤激光打标机价格, 整线方案, 生产线, 采购
+image: "/images/filling-products/fiber-laser-marking-machine.webp"
 ---
 # 光纤激光打标机
 

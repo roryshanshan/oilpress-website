@@ -1,7 +1,8 @@
 ---
-title: 腰果液压榨油机｜腰果油压榨方案与设备
-description: 腰果液压榨油机冷榨腰果油，适合坚果油深加工与高附加值油品项目，提供压榨、过滤设备与工艺参数支持。
+title: 腰果（腰果油）解决方案｜设备与厂家报价
+description: "腰果是重要的油料作物，腰果油具有独特的营养价值和应用价值。山东盛世赫程机械有限公司提供专业的腰果压榨解决方案，从小型作坊到大型工厂的全套设备和服务。"
 keywords: 腰果（腰果油）解决方案 - 山东盛世赫程机械有限公司报价, 腰果（腰果油）解决方案 - 山东盛世赫程机械有限公司价格, 整线方案, 生产线, 采购
+image: "/images/hot-pressing-process-of-cashew-peel-def65fdf7a.webp"
 ---
 # 腰果（腰果油）解决方案
 
@@ -29,10 +30,10 @@ keywords: 腰果（腰果油）解决方案 - 山东盛世赫程机械有限公�
 
 腰果压榨工艺：(建议426AC-390/480AC-390/500AC-390)
 + 腰果皮热榨工艺：蒸制后压榨
-    + ![腰果皮压榨工艺](/images/腰果皮热榨工艺Hot%20pressing%20process%20of%20cashew%20peel.png)
+    + ![腰果皮压榨工艺](/images/hot-pressing-process-of-cashew-peel-def65fdf7a.webp)
 
 + 腰果仁冷榨工艺：直接压榨
-    + ![腰果仁冷榨工艺](/images/腰果仁冷榨工艺_Cold%20pressing%20process%20of%20cashew%20kernels_.png)
+    + ![腰果仁冷榨工艺](/images/cold-pressing-process-of-cashew-kernels-f8ff465cd8.webp)
 
 ## 技术优势
 

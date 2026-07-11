@@ -1,7 +1,8 @@
 ---
 title: Machine de rinçage à chaîne devis | solution clé en main
-description: "Demandez un devis pour Machine de rinçage à chaîne : plan de ligne, liste d’équipements et SAV."
+description: "Solution clé en main Machine à laver les bouteilles de type rail à chaîne : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Machine à laver les bouteilles de type rail à chaîne prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/chain-bottle-washer.webp"
 ---
 # Machine à laver les bouteilles de type rail à chaîne
 

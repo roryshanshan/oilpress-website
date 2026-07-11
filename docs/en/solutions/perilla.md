@@ -2,6 +2,7 @@
 title: Perilla Seed (Perilla Oil) | Equipment List & Factory Quote
 description: "Get a perilla seed oil line plan with process design, equipment list, factory quote, procurement, and after-sales service."
 keywords: Perilla Seed (Perilla Oil) Solution quote, Perilla Seed (Perilla Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
+image: "/images/an-overview-of-the-hot-pressing-process-of-perilla-a2e7edd577.webp"
 ---
 # Perilla Seed (Perilla Oil) Solution
 
@@ -27,11 +28,11 @@ Perilla seed is an important oil crop, perilla oil has unique nutritional value 
 
 ### Hot Pressing Process
 - Perilla seeds go through screening, cleaning, frying, crushing, and then steaming before finally being fed into the hydraulic oil press bucket for pressing.
-- ![Perilla Seeds](/images/紫苏热榨工艺概览_An%20Overview%20of%20the%20Hot%20Pressing%20Process%20of%20Perilla.png)
+- ![Perilla Seeds](/images/an-overview-of-the-hot-pressing-process-of-perilla-a2e7edd577.webp)
 
 ### Cold Pressing Process
 - Perilla seeds go through screening, cleaning, and crushing before being directly fed into the hydraulic oil press bucket for pressing.
-- ![Perilla Seeds](/images/紫苏冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressing%20Process%20of%20Perilla.png)
+- ![Perilla Seeds](/images/an-overview-of-the-cold-pressing-process-of-perill-76371f15c4.webp)
 
 ## Hot pressing perilla seed video reference
 

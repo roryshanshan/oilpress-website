@@ -1,8 +1,9 @@
 ---
 layout: home
-title: Fabricant de presses à huile | Prix & devis
-description: Prix et devis pour presses 300-500 et lignes de production d’huile. Vente directe usine et SAV.
+title: "Fabricant de presses hydrauliques à huile | Prix et devis"
+description: "Prix et support d’achat pour presses hydrauliques séries 300-500 et lignes d’huile comestible clés en main, avec SAV usine direct."
 keywords: prix presse à huile, fabricant, devis, achat, ligne de production d’huile, SAV
+image: "/images/hero-oil-press.webp"
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
@@ -35,7 +36,7 @@ keywords: prix presse à huile, fabricant, devis, achat, ligne de production d�
     </div>
   </div>
   <div class="hero-image">
-    <img src="/images/hero-oil-press.webp" alt="Presse à huile hydraulique Shengshi Hecheng" />
+    <img src="/images/hero-oil-press.webp" alt="Presse à huile hydraulique Shengshi Hecheng" decoding="async" fetchpriority="high" loading="eager" width="1200" height="800">
   </div>
 </div>
 
@@ -49,7 +50,7 @@ keywords: prix presse à huile, fabricant, devis, achat, ligne de production d�
     <a href="/fr/about/" class="learn-more">En savoir plus →</a>
   </div>
   <div class="intro-image">
-    <img src="/images/hero-oil-press.webp" alt="Usine Shengshi Hecheng" />
+    <img src="/images/hero-oil-press.webp" alt="Usine Shengshi Hecheng" decoding="async" fetchpriority="high" loading="eager" width="1200" height="800">
   </div>
 </div>
 
@@ -57,43 +58,43 @@ keywords: prix presse à huile, fabricant, devis, achat, ligne de production d�
 
 <div class="product-series">
   <div class="product-card">
-    <img src="/images/300-325-series.webp" alt="Presse à huile série 300" />
+    <img src="/images/300-325-series.webp" alt="Presse à huile série 300" decoding="async" loading="lazy" width="1200" height="1600">
     <h3>Série 300</h3>
     <p>Adaptée aux petites ateliers, production quotidienne d'huile 0,3-0,8 tonnes</p>
     <a href="/fr/products/300" class="learn-more">En savoir plus</a>
   </div>
   <div class="product-card">
-    <img src="/images/300-325-series.webp" alt="Presse à huile série 325" />
+    <img src="/images/300-325-series.webp" alt="Presse à huile série 325" decoding="async" loading="lazy" width="1200" height="1600">
     <h3>Série 325</h3>
     <p>Adaptée aux petites ateliers, production quotidienne d'huile 0,5-1 tonne</p>
     <a href="/fr/products/325" class="learn-more">En savoir plus</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="Presse à huile série 355" />
+    <img src="/images/355-500-series.webp" alt="Presse à huile série 355" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>Série 355</h3>
     <p>Adaptée aux petites et moyennes entreprises, production quotidienne d'huile 1-2 tonnes</p>
     <a href="/fr/products/355" class="learn-more">En savoir plus</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="Presse à huile série 400" />
+    <img src="/images/355-500-series.webp" alt="Presse à huile série 400" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>Série 400</h3>
     <p>Adaptée aux moyennes entreprises, production quotidienne d'huile 2-3 tonnes</p>
     <a href="/fr/products/400" class="learn-more">En savoir plus</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="Presse à huile série 426" />
+    <img src="/images/355-500-series.webp" alt="Presse à huile série 426" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>Série 426</h3>
     <p>Adaptée aux moyennes et grandes entreprises, production quotidienne d'huile 3-5 tonnes</p>
     <a href="/fr/products/426" class="learn-more">En savoir plus</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="Presse à huile série 480" />
+    <img src="/images/355-500-series.webp" alt="Presse à huile série 480" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>Série 480</h3>
     <p>Adaptée aux grandes entreprises, production quotidienne d'huile 5-8 tonnes</p>
     <a href="/fr/products/480" class="learn-more">En savoir plus</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="Presse à huile série 500" />
+    <img src="/images/355-500-series.webp" alt="Presse à huile série 500" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>Série 500</h3>
     <p>Adaptée aux très grandes entreprises, production quotidienne d'huile 8-15 tonnes</p>
     <a href="/fr/products/500" class="learn-more">En savoir plus</a>
@@ -130,35 +131,35 @@ keywords: prix presse à huile, fabricant, devis, achat, ligne de production d�
 <div class="materials-section">
   <div class="materials-grid">
     <div class="material-item">
-      <img src="/images/peanut.svg" alt="Arachide" />
+      <img src="/images/peanut.svg" alt="Arachide" decoding="async" loading="lazy" width="200" height="200">
       <span>Arachide</span>
     </div>
     <div class="material-item">
-      <img src="/images/soybean.svg" alt="Soja" />
+      <img src="/images/soybean.svg" alt="Soja" decoding="async" loading="lazy" width="200" height="200">
       <span>Soja</span>
     </div>
     <div class="material-item">
-      <img src="/images/tea-seed.svg" alt="Graines de thé" />
+      <img src="/images/tea-seed.svg" alt="Graines de thé" decoding="async" loading="lazy" width="200" height="200">
       <span>Graines de thé</span>
     </div>
     <div class="material-item">
-      <img src="/images/sesame.svg" alt="Sésame" />
+      <img src="/images/sesame.svg" alt="Sésame" decoding="async" loading="lazy" width="200" height="200">
       <span>Sésame</span>
     </div>
     <div class="material-item">
-      <img src="/images/corn.svg" alt="Germes de maïs" />
+      <img src="/images/corn.svg" alt="Germes de maïs" decoding="async" loading="lazy" width="200" height="200">
       <span>Germes de maïs</span>
     </div>
     <div class="material-item">
-      <img src="/images/flax.svg" alt="Lin" />
+      <img src="/images/flax.svg" alt="Lin" decoding="async" loading="lazy" width="100" height="100">
       <span>Lin</span>
     </div>
     <div class="material-item">
-      <img src="/images/rapeseed.svg" alt="Colza" />
+      <img src="/images/rapeseed.svg" alt="Colza" decoding="async" loading="lazy" width="100" height="100">
       <span>Colza</span>
     </div>
     <div class="material-item">
-      <img src="/images/cottonseed.svg" alt="Graines de coton" />
+      <img src="/images/cottonseed.svg" alt="Graines de coton" decoding="async" loading="lazy" width="100" height="100">
       <span>Graines de coton</span>
     </div>
   </div>
@@ -190,21 +191,21 @@ keywords: prix presse à huile, fabricant, devis, achat, ligne de production d�
 
 <div class="case-studies">
   <div class="case-item">
-    <img src="/images/case1.svg" alt="Cas d'usine d'huile au Xinjiang" />
+    <img src="/images/case1.svg" alt="Cas d'usine d'huile au Xinjiang" decoding="async" loading="lazy" width="200" height="200">
     <div class="case-content">
       <h3>Grande usine d'huile au Xinjiang</h3>
       <p>Utilisant notre presse à huile série 425, avec une capacité quotidienne de 20 tonnes, le rendement d'huile a augmenté de 15%, entraînant une augmentation annuelle des revenus de 2 millions de yuans</p>
     </div>
   </div>
   <div class="case-item">
-    <img src="/images/case2.svg" alt="Cas de client d'Asie du Sud-Est" />
+    <img src="/images/case2.svg" alt="Cas de client d'Asie du Sud-Est" decoding="async" loading="lazy" width="200" height="200">
     <div class="case-content">
       <h3>Client d'Asie du Sud-Est</h3>
       <p>A acheté 3 ensembles d'équipements série 355 pour une usine d'huile au Vietnam, capacité quotidienne de 6 tonnes, haute efficacité et fonctionnement stable</p>
     </div>
   </div>
   <div class="case-item">
-    <img src="/images/case2.svg" alt="Cas de client africain" />
+    <img src="/images/case2.svg" alt="Cas de client africain" decoding="async" loading="lazy" width="200" height="200">
     <div class="case-content">
       <h3>Client africain</h3>
       <p>A choisi l'équipement série 400 pour une usine d'huile au Nigeria, satisfait de la qualité et du service après-vente</p>

@@ -1,8 +1,9 @@
 ---
 layout: home
-title: Nhà sản xuất máy ép dầu | Giá & báo giá
-description: Báo giá máy ép dầu 300-500 và dây chuyền ép dầu trọn gói. Giá trực tiếp từ nhà máy và hậu mãi.
+title: "Nhà sản xuất máy ép dầu thủy lực | Giá & báo giá"
+description: "Nhận giá nhà máy máy ép dầu thủy lực series 300-500 và dây chuyền dầu ăn trọn gói, hỗ trợ chọn model và sau bán."
 keywords: giá máy ép dầu, nhà sản xuất, báo giá, mua hàng, dây chuyền ép dầu, hậu mãi
+image: "/images/hero-oil-press.webp"
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
@@ -35,7 +36,7 @@ keywords: giá máy ép dầu, nhà sản xuất, báo giá, mua hàng, dây chu
     </div>
   </div>
   <div class="hero-image">
-  <img src="/images/hero-oil-press.webp" alt="Máy ép dầu thủy lực Shengshi Hecheng" />
+  <img src="/images/hero-oil-press.webp" alt="Máy ép dầu thủy lực Shengshi Hecheng" decoding="async" fetchpriority="high" loading="eager" width="1200" height="800">
   </div>
 </div>
 
@@ -49,7 +50,7 @@ keywords: giá máy ép dầu, nhà sản xuất, báo giá, mua hàng, dây chu
   <a href="/vi/about/" class="learn-more">Tìm hiểu thêm →</a>
   </div>
   <div class="intro-image">
-  <img src="/images/hero-oil-press.webp" alt="Nhà máy Shengshi Hecheng" />
+  <img src="/images/hero-oil-press.webp" alt="Nhà máy Shengshi Hecheng" decoding="async" fetchpriority="high" loading="eager" width="1200" height="800">
   </div>
 </div>
 
@@ -57,49 +58,49 @@ keywords: giá máy ép dầu, nhà sản xuất, báo giá, mua hàng, dây chu
 
 <div class="product-series">
   <div class="product-card">
-    <img src="/images/300-325-series.webp" alt="Máy ép dầu thủy lực dòng 300" />
+    <img src="/images/300-325-series.webp" alt="Máy ép dầu thủy lực dòng 300" decoding="async" loading="lazy" width="1200" height="1600">
   <h3>Dòng 300</h3>
   <p>Phù hợp xưởng nhỏ, sản lượng dầu 0.3-0.8 tấn/ngày</p>
   <a href="/vi/products/300" class="learn-more">Tìm hiểu thêm</a>
   </div>
   <div class="product-card">
-    <img src="/images/300-325-series.webp" alt="Máy ép dầu thủy lực dòng 325" />
+    <img src="/images/300-325-series.webp" alt="Máy ép dầu thủy lực dòng 325" decoding="async" loading="lazy" width="1200" height="1600">
   <h3>Dòng 325</h3>
   <p>Phù hợp xưởng nhỏ, sản lượng dầu 0.5-1 tấn/ngày</p>
   <a href="/vi/products/325" class="learn-more">Tìm hiểu thêm</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 355" />
+    <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 355" decoding="async" loading="lazy" width="1200" height="1200">
   <h3>Dòng 355</h3>
   <p>Phù hợp doanh nghiệp vừa và nhỏ, sản lượng dầu 1-2 tấn/ngày</p>
   <a href="/vi/products/355" class="learn-more">Tìm hiểu thêm</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 400" />
+    <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 400" decoding="async" loading="lazy" width="1200" height="1200">
   <h3>Dòng 400</h3>
   <p>Phù hợp doanh nghiệp vừa, sản lượng dầu 2-3 tấn/ngày</p>
   <a href="/vi/products/400" class="learn-more">Tìm hiểu thêm</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 426" />
+    <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 426" decoding="async" loading="lazy" width="1200" height="1200">
   <h3>Dòng 426</h3>
   <p>Phù hợp doanh nghiệp vừa và lớn, sản lượng dầu 3-5 tấn/ngày</p>
   <a href="/vi/products/426" class="learn-more">Tìm hiểu thêm</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 480" />
+    <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 480" decoding="async" loading="lazy" width="1200" height="1200">
   <h3>Dòng 480</h3>
   <p>Phù hợp doanh nghiệp lớn, sản lượng dầu 5-8 tấn/ngày</p>
   <a href="/vi/products/480" class="learn-more">Tìm hiểu thêm</a>
   </div>
   <div class="product-card">
-    <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 500" />
+    <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 500" decoding="async" loading="lazy" width="1200" height="1200">
   <h3>Dòng 500</h3>
   <p>Phù hợp doanh nghiệp siêu lớn, sản lượng dầu 8-15 tấn/ngày</p>
   <a href="/vi/products/500" class="learn-more">Tìm hiểu thêm</a>
   </div>
   <div class="product-card">
-    <img src="/images/korean-type-small-press/korean-type-overview.jpg" alt="Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc" />
+    <img src="/images/korean-type-small-press/korean-type-overview.webp" alt="Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc" decoding="async" loading="lazy" width="1200" height="1600">
   <h3>Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc</h3>
   <p>Dòng model cho cửa hàng dầu mè, quầy dầu tươi và kinh doanh nhỏ, gồm KHOP-10KG, 15KG và 20KG</p>
   <a href="/vi/products/korean-type-small-hydraulic-oil-press-machine" class="learn-more">Tìm hiểu thêm</a>
@@ -136,35 +137,35 @@ keywords: giá máy ép dầu, nhà sản xuất, báo giá, mua hàng, dây chu
 <div class="materials-section">
   <div class="materials-grid">
     <div class="material-item">
-  <img src="/images/peanut.svg" alt="Đậu phộng" />
+  <img src="/images/peanut.svg" alt="Đậu phộng" decoding="async" loading="lazy" width="200" height="200">
   <span>Đậu phộng</span>
     </div>
     <div class="material-item">
-  <img src="/images/soybean.svg" alt="Đậu tương" />
+  <img src="/images/soybean.svg" alt="Đậu tương" decoding="async" loading="lazy" width="200" height="200">
   <span>Đậu tương</span>
     </div>
     <div class="material-item">
-  <img src="/images/tea-seed.svg" alt="Hạt trà" />
+  <img src="/images/tea-seed.svg" alt="Hạt trà" decoding="async" loading="lazy" width="200" height="200">
   <span>Hạt trà</span>
     </div>
     <div class="material-item">
-  <img src="/images/sesame.svg" alt="Mè (vừng)" />
+  <img src="/images/sesame.svg" alt="Mè (vừng)" decoding="async" loading="lazy" width="200" height="200">
   <span>Mè (vừng)</span>
     </div>
     <div class="material-item">
-  <img src="/images/corn.svg" alt="Mầm ngô" />
+  <img src="/images/corn.svg" alt="Mầm ngô" decoding="async" loading="lazy" width="200" height="200">
   <span>Mầm ngô</span>
     </div>
     <div class="material-item">
-  <img src="/images/flax.svg" alt="Hạt lanh" />
+  <img src="/images/flax.svg" alt="Hạt lanh" decoding="async" loading="lazy" width="100" height="100">
   <span>Hạt lanh</span>
     </div>
     <div class="material-item">
-  <img src="/images/rapeseed.svg" alt="Hạt cải dầu" />
+  <img src="/images/rapeseed.svg" alt="Hạt cải dầu" decoding="async" loading="lazy" width="100" height="100">
   <span>Hạt cải dầu</span>
     </div>
     <div class="material-item">
-  <img src="/images/cottonseed.svg" alt="Hạt bông" />
+  <img src="/images/cottonseed.svg" alt="Hạt bông" decoding="async" loading="lazy" width="100" height="100">
   <span>Hạt bông</span>
     </div>
   </div>
@@ -196,14 +197,14 @@ keywords: giá máy ép dầu, nhà sản xuất, báo giá, mua hàng, dây chu
 
 <div class="case-studies">
   <div class="case-item">
-    <img src="/images/case1.svg" alt="Trường hợp nhà máy dầu lớn ở Tân Cương" />
+    <img src="/images/case1.svg" alt="Trường hợp nhà máy dầu lớn ở Tân Cương" decoding="async" loading="lazy" width="200" height="200">
     <div class="case-content">
       <h3>Nhà máy dầu lớn ở Tân Cương</h3>
       <p>Sử dụng máy ép dầu dòng 425 của công ty chúng tôi, sản lượng dầu 20 tấn/ngày, tỷ lệ dầu tăng 15%, doanh thu tăng 2 triệu NDT/năm</p>
     </div>
   </div>
   <div class="case-item">
-  <img src="/images/case2.svg" alt="Trường hợp khách hàng Đông Nam Á" />
+  <img src="/images/case2.svg" alt="Trường hợp khách hàng Đông Nam Á" decoding="async" loading="lazy" width="200" height="200">
   <h3>Khách hàng Đông Nam Á</h3>
   <p>Áp dụng dây chuyền ép dầu hoàn chỉnh của công ty chúng tôi, chuyển đổi từ xưởng thủ công sang nhà máy hiện đại, năng suất tăng gấp 5 lần</p>
   </div>

@@ -1,7 +1,8 @@
 ---
-title: Máy đóng nút chai thủ công giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy đóng nút chai thủ công từ nhà sản xuất Shengshi Hecheng.
+title: "Máy đóng nút chai thủ công giá | Giá nhà máy & báo giá"
+description: "Nhận giá nhà máy cho Máy đóng nút chai thủ công giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Máy đóng nút chai thủ công, mua Máy đóng nút chai thủ công, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/manual-corking-machine.webp"
 ---
 # Máy đóng nút chai thủ công
 

@@ -2,6 +2,7 @@
 title: Déballeuse automatique, formage de cartons, encartonneuse prix
 description: Demandez le prix et le devis pour Déballeuse automatique, formage de cartons, encartonneuse. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Machines automatiques de déballage, de formage de cartons et d'encartonnage prix, acheter Machines automatiques de déballage, de formage de cartons et d'encartonnage, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/case-erector-packing-machine.webp"
 ---
 # Machines automatiques de déballage, de formage de cartons et d'encartonnage
 

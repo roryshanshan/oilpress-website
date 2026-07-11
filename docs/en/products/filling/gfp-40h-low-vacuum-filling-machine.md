@@ -2,6 +2,7 @@
 title: GFP-40H low vacuum filling machine Price | Manufacturer & Quote
 description: Get price, procurement, and after-sales support for GFP-40H low vacuum filling machine from Shengshi Hecheng manufacturer.
 keywords: GFP-40H low vacuum filling machine price, GFP-40H low vacuum filling machine quote, GFP-40H low vacuum filling machine manufacturer, GFP-40H low vacuum filling machine supplier, procurement, after-sales
+image: "/images/filling-products/gfp-40h-low-vacuum-filling-machine.webp"
 ---
 # GFP-40H low vacuum filling machine
 

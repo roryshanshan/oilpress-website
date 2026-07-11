@@ -2,6 +2,7 @@
 title: Grape Seed (Grape Seed Oil) | Equipment List & Factory Quote
 description: "Get a grape seed oil line plan with process design, equipment list, factory quote, procurement, and after-sales service."
 keywords: Grape Seed (Grape Seed Oil) Solution quote, Grape Seed (Grape Seed Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
+image: "/images/hot-pressing-process-of-grape-seeds-9fc9a8f225.webp"
 ---
 # Grape Seed (Grape Seed Oil) Solution
 
@@ -31,7 +32,7 @@ Grape seed processing technology: (Recommended 426AC-390/480AC-390/500AC-390)
     + Step 1: High-speed crushing
     + Step 2: High-temperature steaming
     + Step 3: Hydraulic oil press pressing
- + ![Grape Seed Pressing Process](/images/葡萄籽热榨工艺_Hot%20pressing%20process%20of%20grape%20seeds_.png)
+ + ![Grape Seed Pressing Process](/images/hot-pressing-process-of-grape-seeds-9fc9a8f225.webp)
 
 ## Technical Advantages
 

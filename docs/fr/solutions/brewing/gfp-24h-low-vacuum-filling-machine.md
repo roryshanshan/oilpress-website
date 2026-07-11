@@ -1,7 +1,8 @@
 ---
-title: Machine de remplissage sous vide faible GFP-24H devis
-description: "Demandez un devis pour Machine de remplissage sous vide faible GFP-24H : plan de ligne, liste d’équipements et SAV."
+title: "Machine de remplissage sous vide faible GFP-24H | Liste…"
+description: "Solution clé en main Machine de remplissage sous vide faible GFP-24H : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Machine de remplissage sous vide faible GFP-24H prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/gfp-24h-low-vacuum-filling-machine.webp"
 ---
 # Machine de remplissage sous vide faible GFP-24H
 

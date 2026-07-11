@@ -2,9 +2,10 @@
 title: Nồi hấp đốt gỗ - Shengshi Hecheng giá | nhà sản xuất
 description: Nhận báo giá và tư vấn mua Nồi hấp đốt gỗ - Shandong Shengshi Hecheng Machinery Co., Ltd. từ nhà sản xuất Shengshi Hecheng.
 keywords: giá Nồi hấp đốt gỗ, mua Nồi hấp đốt gỗ, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/external/products-wood-fired-steamer-f4d44ffc.webp"
 ---
 # Nồi hấp đốt gỗ
-![Nồi hấp đốt gỗ](https://i.postimg.cc/Gcs3LvWX/image.png?dl=1)
+![Nồi hấp đốt gỗ](/images/external/products-wood-fired-steamer-f4d44ffc.webp)
 ## Tổng quan sản phẩm
 
 Thân lò được chế tạo từ vật liệu Q355B, có thể sử dụng các loại nhiên liệu khác nhau để sưởi ấm.

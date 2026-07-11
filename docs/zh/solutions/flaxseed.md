@@ -1,7 +1,8 @@
 ---
-title: 亚麻籽液压榨油机｜亚麻籽油/胡麻油压榨方案
-description: 亚麻籽液压榨油机低温冷榨，最大程度保留α-亚麻酸(Omega-3)，适合胡麻油、亚麻籽油高端冷榨项目与选型咨询。
+title: 亚麻籽/胡麻（亚麻籽油）解决方案｜设备与厂家报价
+description: "亚麻籽是重要的油料作物，亚麻籽油具有独特的营养价值和应用价值。山东盛世赫程机械有限公司提供专业的亚麻籽压榨解决方案，从小型作坊到大型工厂的全套设备和服务。"
 keywords: 亚麻籽/胡麻（亚麻籽油）解决方案 - 山东盛世赫程机械有限公司报价, 亚麻籽/胡麻（亚麻籽油）解决方案 - 山东盛世赫程机械有限公司价格, 整线方案, 生产线, 采购
+image: "/images/flaxseed-hot-pressing-process.webp"
 ---
 # 亚麻籽/胡麻（亚麻籽油）解决方案
 
@@ -27,9 +28,9 @@ keywords: 亚麻籽/胡麻（亚麻籽油）解决方案 - 山东盛世赫程机
 
 + 胡麻/亚麻籽(建议300AC-390/325AC-390/355AC-390/400AC-390)
  + 胡麻/亚麻籽热榨工艺：胡麻籽经过加热炒制+磨糁炒制后再放入液压榨油机料桶压榨。
- + ![胡麻/亚麻籽热榨工艺](/images/flaxseed-hot-pressing-process.png)
+ + ![胡麻/亚麻籽热榨工艺](/images/flaxseed-hot-pressing-process.webp)
  + 胡麻籽油热榨工艺：胡麻籽经过高速粉碎机粉碎后再放入液压榨油机料桶压榨。入口回甘，入口香甜，压榨出的油不用水化处理，下锅不起泡。
- + ![胡麻籽油热榨工艺](/images/胡麻_亚麻籽冷榨工艺概览_An%20Overview%20of%20the%20Cold%20pressing%20Process%20of%20Flaxseed.png)
+ + ![胡麻籽油热榨工艺](/images/an-overview-of-the-cold-pressing-process-of-flaxse-0ea1b504ce.webp)
 ## 加工工艺视频
 
 <div class="video-container">

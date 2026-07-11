@@ -1,5 +1,5 @@
 ---
-title: "Ligne de production d'huile | Équipements, prix et SAV"
+title: "Ligne de production d'huile | Liste d’équipements et devis"
 description: "Obtenez un devis pour une ligne de production d'huile avec schéma de procédé, liste d'équipements, achat usine, livraison et service après-vente."
 keywords: "ligne de production d'huile prix, devis ligne huile, fabricant presse à huile, achat usine, équipements huilerie, SAV"
 ---

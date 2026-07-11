@@ -1,7 +1,8 @@
 ---
-title: Rotary vat filling machine Quote | Turnkey Solution
-description: Get a quote and turnkey plan for Rotary vat filling machine. Process design, equipment list, and after-sales support.
+title: "Rotary vat filling machine | Equipment List & Factory Quote"
+description: "Turnkey Rotary vat filling machine with process design, hydraulic press selection, filtration options, equipment list, and factory quote support."
 keywords: Rotary vat filling machine quote, Rotary vat filling machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/rotary-drum-filling-machine.webp"
 ---
 # Rotary vat filling machine
 

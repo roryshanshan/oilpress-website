@@ -2,6 +2,7 @@
 title: Cottonseed (Cottonseed Oil) Solutions - Shengshi Hecheng цена ...
 description: "Запросите стоимость решения Cottonseed (Cottonseed Oil) Solutions - Shengshi Hecheng: проект линии, список оборудования и сервис."
 keywords: Cottonseed (Cottonseed Oil) Solutions цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
+image: "/images/process-image-c32ca90dab.webp"
 ---
 # Cottonseed (Cottonseed Oil) Solutions
 
@@ -30,7 +31,7 @@ Cottonseed processing technology (recommended 300AC-390/325AC-390/355AC-390/400A
 + Step 1: Steaming
 + Step 2: Grinding + stirring
 + Step 3: Pressing
-+ ![Cottonseed processing technology](/images/棉籽热榨工艺.png)
++ ![Cottonseed processing technology](/images/process-image-c32ca90dab.webp)
 
 ## Equipment Recommendations
 

@@ -1,7 +1,8 @@
 ---
-title: Multi-head rubber cap heat shrink machine Price
+title: "Multi-head rubber cap heat shrink machine | Factory Price…"
 description: Get price, procurement, and after-sales support for Multi-head rubber cap heat shrink machine from Shengshi Hecheng manufacturer.
 keywords: Multi-head rubber cap heat shrink machine price, Multi-head rubber cap heat shrink machine quote, Multi-head rubber cap heat shrink machine manufacturer, Multi-head rubber cap heat shrink machine supplier, procurement, after-sales
+image: "/images/filling-products/multi-head-cap-shrinking-machine.webp"
 ---
 # Multi-head rubber cap heat shrink machine
 

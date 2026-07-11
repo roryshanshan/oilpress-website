@@ -1,6 +1,6 @@
 ---
-title: Tin tức công ty
-description: Công ty đã tham gia Triển lãm Công nghệ Chế biến Dầu Quốc tế Trung Quốc 2023, trưng bày thiết bị ép dầu thủy lực loạt mới nhất, thu hút sự chú ý rộng rãi.
+title: "Tin công ty | Nhà sản xuất máy ép dầu thủy lực"
+description: "Cập nhật Shengshi Hecheng: triển lãm quốc tế, mở rộng nhà máy và cột mốc dự án máy ép dầu thủy lực cho khách hàng toàn cầu."
 keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
 ---
 # Tin tức công ty

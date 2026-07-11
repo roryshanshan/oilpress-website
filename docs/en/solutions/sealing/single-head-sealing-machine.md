@@ -2,6 +2,7 @@
 title: Automatic single head sealing machine Quote | Turnkey Solution
 description: Get a quote and turnkey plan for Automatic single head sealing machine. Process design, equipment list, and after-sales support.
 keywords: Automatic single head sealing machine quote, Automatic single head sealing machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/single-head-sealing-machine.webp"
 ---
 # Automatic single head sealing machine
 

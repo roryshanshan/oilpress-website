@@ -1,7 +1,8 @@
 ---
 title: Machine de remplissage linéaire devis | solution clé en main
-description: "Demandez un devis pour Machine de remplissage linéaire : plan de ligne, liste d’équipements et SAV."
+description: "Solution clé en main Machine de remplissage linéaire : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Machine de remplissage linéaire prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/linear-filling-machine.webp"
 ---
 # Machine de remplissage linéaire
 

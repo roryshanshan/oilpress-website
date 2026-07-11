@@ -1,10 +1,11 @@
 ---
-title: "Feeding Crushing Frying Machine Price | Quote"
+title: "Feeding Crushing Frying Machine | Factory Price & Quote"
 description: "Request a factory quote for the feeding, crushing, and frying machine, including specs, delivery, procurement, and after-sales service."
 keywords: Feeding/Crushing/Frying Integrated Machine price, Feeding/Crushing/Frying Integrated Machine quote, Feeding/Crushing/Frying Integrated Machine manufacturer, factory procurement, production line matching, after-sales service
+image: "/images/external/products-feeding-crushing-frying-integrated-machin-3abcbed4.webp"
 ---
 # Feeding/Crushing/Frying Integrated Machine
-![Feeding/Crushing/Frying Integrated Machine](https://i.postimg.cc/cZcxLxzG/image.png?dl=1)
+![Feeding/Crushing/Frying Integrated Machine](/images/external/products-feeding-crushing-frying-integrated-machin-3abcbed4.webp)
 ## Product Overview
 
 * Integration of feeding, crushing, and frying processes, saving space and conversion costs between processes.

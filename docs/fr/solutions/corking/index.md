@@ -1,7 +1,8 @@
 ---
-title: Série de bouchons
-description: La série de machines à boucher convient au processus de pressage du liège ou des bouchons synthétiques de produits en bouteille en verre tels que le vin
+title: "Série de machines à boucher | Modèles, specs et devis usine"
+description: Découvrez série de machines à boucher pour lignes d’huile comestible et conditionnement liquide. Comparez les modèles et demandez un devis usine.
 keywords: Série de machines de bouchage, machine de bouchage, machine de pressage du liège, équipement de bouchage de vin, machine de bouchage de bouteilles en verre, équipement d'emballage d'huile de boîte-cadeau
+image: "/images/filling-solutions/corking.webp"
 ---
 
 # Série de machines à boucher

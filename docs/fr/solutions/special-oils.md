@@ -1,6 +1,6 @@
 ---
 title: Solutions d'huiles spéciales devis | solution clé en main
-description: "Demandez un devis pour Solutions d'huiles spéciales : plan de ligne, liste d’équipements et SAV."
+description: "Solution clé en main Solutions d'huiles spéciales : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Solutions d'huiles spéciales prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 ---
 # Solutions d'huiles spéciales

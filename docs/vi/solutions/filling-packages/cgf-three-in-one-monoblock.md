@@ -2,6 +2,7 @@
 title: Máy súc rửa, chiết rót và hàn kín ba trong một báo giá
 description: Nhận báo giá Máy súc rửa, chiết rót và hàn kín ba trong một với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Rửa, chiết rót và niêm phong máy ba dây chuyền báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/cgf-three-in-one-monoblock.webp"
 ---
 # Rửa, chiết rót và niêm phong máy ba dây chuyền
 

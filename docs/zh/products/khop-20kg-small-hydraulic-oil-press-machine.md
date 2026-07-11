@@ -1,11 +1,12 @@
 ---
-title: KHOP-20KG 小型液压榨油机价格|厂家报价
-description: 获取KHOP-20KG 小型液压榨油机价格、采购与售后支持，厂家直供，支持选型与交付。
+title: KHOP-20KG 小型液压榨油机｜价格与厂家报价
+description: "KHOP-20KG 小型液压榨油机：KHOP-20KG 自动液压榨油机是这一韩式小型系列中的较高产能版本，适合芝麻油生产和紧凑型商业项目。在保持门店展示友好度的同时，它可以提供更强的日产能力，适合前店销售加后场处理的组合业务。"
 keywords: KHOP-20KG 小型液压榨油机价格, KHOP-20KG 小型液压榨油机报价, KHOP-20KG 小型液压榨油机厂家, KHOP-20KG 小型液压榨油机采购, 售后服务
+image: "/images/korean-type-small-press/korean-type-side.webp"
 ---
 # KHOP-20KG 小型液压榨油机
 
-![KHOP-20KG 小型液压榨油机](/images/korean-type-small-press/korean-type-side.jpg)
+![KHOP-20KG 小型液压榨油机](/images/korean-type-small-press/korean-type-side.webp)
 
 KHOP-20KG 自动液压榨油机是这一韩式小型系列中的较高产能版本，适合芝麻油生产和紧凑型商业项目。在保持门店展示友好度的同时，它可以提供更强的日产能力，适合前店销售加后场处理的组合业务。
 

@@ -2,6 +2,7 @@
 title: Solution de pépins de raisin (huile de pépins de raisin) devis
 description: "Demandez un devis pour Solution de pépins de raisin (huile de pépins de raisin) : plan de ligne, liste d’équipements et SAV."
 keywords: Solution de pépins de raisin (huile de pépins de raisin) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/hot-pressing-process-of-grape-seeds-9fc9a8f225.webp"
 ---
 # Solution de pépins de raisin (huile de pépins de raisin)
 
@@ -31,7 +32,7 @@ Grape seed processing technology: (Recommended 426AC-390/480AC-390/500AC-390)
     + Étape 1: Broyage à haute vitesse
     + Étape 2: Cuisson à la vapeur à haute température
     + Étape 3: Pressing de presse à huile hydraulique
- + ![Grape Seed Pressing Process](/images/葡萄籽热榨工艺_Hot%20pressing%20process%20of%20grape%20seeds_.png)
+ + ![Grape Seed Pressing Process](/images/hot-pressing-process-of-grape-seeds-9fc9a8f225.webp)
 
 ## Avantages Techniques
 

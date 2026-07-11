@@ -1,7 +1,8 @@
 ---
-title: Robot palletizer Quote | Turnkey Solution
-description: Get a quote and turnkey plan for Robot palletizer. Process design, equipment list, and after-sales support.
+title: "Robot Palletizer | Equipment List & Factory Quote"
+description: "Turnkey Robot Palletizer with process design, hydraulic press selection, filtration options, equipment list, and factory quote support."
 keywords: Robot palletizer quote, Robot palletizer price, turnkey solution, production line, procurement
+image: "/images/filling-products/robot-palletizer.webp"
 ---
 # Robot Palletizer
 

@@ -1,7 +1,8 @@
 ---
-title: Máy kiểm tra ánh sáng giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy kiểm tra ánh sáng từ nhà sản xuất Shengshi Hecheng.
+title: "Máy kiểm tra ánh sáng giá | Giá nhà máy & báo giá"
+description: "Nhận giá nhà máy cho Máy kiểm tra ánh sáng giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Máy kiểm tra ánh sáng, mua Máy kiểm tra ánh sáng, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/light-inspection-machine.webp"
 ---
 # Máy kiểm tra ánh sáng
 

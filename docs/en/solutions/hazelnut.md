@@ -2,6 +2,7 @@
 title: Hazelnut (Hazelnut Oil) | Equipment List & Factory Quote
 description: Get a turnkey plan for Hazelnut (Hazelnut Oil) Solution, including process design, equipment list, factory quote, procurement support, and after-sales service.
 keywords: Hazelnut (Hazelnut Oil) Solution quote, Hazelnut (Hazelnut Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
+image: "/images/an-overview-of-the-cold-pressing-process-of-hazeln-98e165898b.webp"
 ---
 # Hazelnut (Hazelnut Oil) Solution
 
@@ -28,7 +29,7 @@ Hazelnut is an important oil crop, hazelnut oil has unique nutritional value and
 + Hazelnut pressing process (Recommended 426AC-390/480AC-390/500AC-390)
      + Cold pressing process: Hazelnuts go through screening, cleaning, and high-speed crushing before being directly fed into the hydraulic oil press bucket for pressing.
      + The hazelnut oil produced by this process has golden color and a sweet aftertaste. The pressed oil does not require hydration treatment and does not foam when used in cooking.
-     + ![Hazelnut Pressing Process](/images/榛子冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressing%20Process%20of%20Hazelnuts.png)
+     + ![Hazelnut Pressing Process](/images/an-overview-of-the-cold-pressing-process-of-hazeln-98e165898b.webp)
 
 ## Technical Advantages
 

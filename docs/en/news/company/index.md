@@ -1,6 +1,6 @@
 ---
-title: Company News
-description: The company participated in the 2023 China International Oilseed Processing Technology Exhibition, showcasing the latest series of hydraulic oil press equipment
+title: "Company News | Oil Press Manufacturer Updates"
+description: "Latest Shengshi Hecheng company news: exhibitions, factory expansion, and hydraulic oil press project milestones for global customers."
 keywords: hydraulic oil press, oil press machine, oil processing equipment
 ---
 # Company News

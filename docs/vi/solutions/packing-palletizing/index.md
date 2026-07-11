@@ -1,7 +1,8 @@
 ---
-title: Đóng gói và xếp hàng
-description: Thiết bị đóng gói và xếp pallet được sử dụng để đóng gói, niêm phong
+title: "Đóng gói và xếp hàng | Model, thông số & báo giá nhà máy"
+description: Xem đóng gói và xếp hàng cho dây chuyền dầu ăn và đóng gói lỏng. So sánh model và yêu cầu báo giá nhà máy.
 keywords: Thiết bị đóng gói và xếp hàng, máy đóng thùng tự động, máy xếp hàng tự động, thiết bị dán thùng carton, dây chuyền đóng gói sau dầu ăn, thiết bị đóng gói đầu cuối
+image: "/images/filling-solutions/packing-palletizing.webp"
 ---
 
 # Đóng gói và xếp hàng

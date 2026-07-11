@@ -2,6 +2,7 @@
 title: Machine de remplissage quantitative de haute précision prix
 description: Demandez le prix et le devis pour Machine de remplissage quantitative de haute précision. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Machine de remplissage quantitative de haute précision prix, acheter Machine de remplissage quantitative de haute précision, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/high-precision-filling-machine.webp"
 ---
 # Machine de remplissage quantitative de haute précision
 

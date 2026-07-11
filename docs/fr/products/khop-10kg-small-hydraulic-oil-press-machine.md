@@ -2,10 +2,11 @@
 title: KHOP-10KG petite presse à huile hydraulique prix | fabricant
 description: Demandez le prix et le devis pour KHOP-10KG petite presse à huile hydraulique. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: KHOP-10KG petite presse à huile hydraulique prix, acheter KHOP-10KG petite presse à huile hydraulique, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/korean-type-small-press/khop-10kg.webp"
 ---
 # KHOP-10KG petite presse à huile hydraulique
 
-![KHOP-10KG petite presse à huile hydraulique](/images/korean-type-small-press/khop-10kg.jpg)
+![KHOP-10KG petite presse à huile hydraulique](/images/korean-type-small-press/khop-10kg.webp)
 
 La KHOP-10KG automatique est une machine d'entrée de gamme pour la production de sésame en petits lots. Elle convient aux boutiques d'huile de sésame, aux comptoirs d'huile fraîche et aux petits projets premium. Par rapport au pressage manuel traditionnel, elle apporte une meilleure stabilité de qualité, moins de travail manuel et une présentation plus professionnelle.
 

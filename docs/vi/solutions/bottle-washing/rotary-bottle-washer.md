@@ -1,7 +1,8 @@
 ---
-title: Máy rửa quay báo giá | giải pháp trọn gói
-description: Nhận báo giá Máy rửa quay với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+title: "Máy rửa chai quay | Danh mục thiết bị & báo giá"
+description: "Giải pháp trọn gói Máy rửa chai quay: quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Máy rửa chai quay báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/rotary-bottle-washer.webp"
 ---
 # Máy rửa chai quay
 

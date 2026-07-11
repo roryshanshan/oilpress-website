@@ -2,6 +2,7 @@
 title: Flip-type bottle rinsing machine Quote | Turnkey Solution
 description: Get a quote and turnkey plan for Flip-type bottle rinsing machine. Process design, equipment list, and after-sales support.
 keywords: Flip-type bottle rinsing machine quote, Flip-type bottle rinsing machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/flip-bottle-washer.webp"
 ---
 # Flip-type bottle rinser
 

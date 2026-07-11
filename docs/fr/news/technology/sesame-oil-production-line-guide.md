@@ -1,6 +1,6 @@
 ---
 title: "Guide de ligne de production d'huile de sésame : pressage à ch..."
-description: Comprenez les procédés de pressage à chaud et à froid de l'huile de sésame, les équipements clés
+description: "Guide de ligne de production d'huile de sésame : pressage à chaud, à froid et configuration d'équipement: equipment overview, selection guidance, and…"
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-18"
 ---

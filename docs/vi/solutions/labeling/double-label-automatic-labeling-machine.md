@@ -2,6 +2,7 @@
 title: Máy dán nhãn đôi tuyến tính hoàn toàn tự động báo giá
 description: Nhận báo giá Máy dán nhãn đôi tuyến tính hoàn toàn tự động với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Máy dán nhãn kép tuyến tính hoàn toàn tự động báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/double-label-automatic-labeling-machine.webp"
 ---
 # Máy dán nhãn kép tuyến tính hoàn toàn tự động
 

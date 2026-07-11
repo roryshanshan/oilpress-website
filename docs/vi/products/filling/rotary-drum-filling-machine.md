@@ -1,7 +1,8 @@
 ---
-title: Máy đóng thùng quay giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy đóng thùng quay từ nhà sản xuất Shengshi Hecheng.
+title: "Máy đóng thùng quay giá | Giá nhà máy & báo giá"
+description: "Nhận giá nhà máy cho Máy đóng thùng quay giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Máy làm đầy thùng quay, mua Máy làm đầy thùng quay, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/rotary-drum-filling-machine.webp"
 ---
 # Máy làm đầy thùng quay
 

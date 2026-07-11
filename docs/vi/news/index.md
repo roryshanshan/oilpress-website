@@ -1,6 +1,6 @@
 ---
-title: Tin tức - Công ty TNHH Máy móc Shengshi Hecheng Shandong
-description: Tin tức của Shengshi Hecheng Shandong, bao gồm tin tức công ty, thông tin ngành và kiến thức kỹ thuật, cập nhật tin tức mới nhất về máy ép dầu
+title: "Tin tức | Nhà sản xuất máy ép dầu"
+description: "Tin công ty, xu hướng ngành dầu ăn và hướng dẫn kỹ thuật máy ép dầu thủy lực hỗ trợ lựa chọn thiết bị và lập dự án."
 keywords: tin tức, hoạt động công ty, thông tin ngành, kiến thức kỹ thuật, tin tức máy ép dầu, triển lãm lương thực & dầu, nhà máy mới đi vào hoạt động, thị trường dầu ăn, chính sách lương thực & dầu, cải thiện tỷ lệ thu dầu, quy trình chế biến dầu, tin tức Shengshi Hecheng Shandong
 ---
 

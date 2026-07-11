@@ -1,7 +1,8 @@
 ---
-title: Máy dán nắp chống trộm hoàn toàn tự động báo giá
+title: "Máy dán nắp chống trộm hoàn toàn tự động | Danh mục thiết…"
 description: Nhận báo giá Máy dán nắp chống trộm hoàn toàn tự động với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Máy dán nắp chống trộm hoàn toàn tự động báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/anti-theft-cap-sealing-machine.webp"
 ---
 # Máy dán nắp chống trộm hoàn toàn tự động
 

@@ -1,11 +1,12 @@
 ---
-title: Filtering Series
-description: Filtering machine series for clarification and pre-filling purification of edible oil, wine, beverage, and condiment liquids
+title: "Filtering Series | Specs, Models & Factory Quote"
+description: "Browse filtering series for edible oil and liquid packaging lines. Compare models, capacity ranges, and request factory pricing with process guidance."
 keywords: filtering machine series, edible oil filtration equipment, clarification filter, pre-filling filtration, liquid filtering equipment
+image: "/images/filling-solutions/filtering.webp"
 ---
 # Filtering Series
 
-![Filtering machine](/images/filling-solutions/filtering.png)
+![Filtering machine](/images/filling-solutions/filtering.webp)
 
 Filtering machines are used to clarify liquid products before they enter the filling section. In edible oil projects, filtration affects product appearance, sediment control, filling stability, and final shelf presentation.
 

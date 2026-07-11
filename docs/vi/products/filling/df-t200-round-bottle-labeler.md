@@ -1,7 +1,8 @@
 ---
 title: Máy dán nhãn chai tròn bán tự động DF-T200 giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy dán nhãn chai tròn bán tự động DF-T200 từ nhà sản xuất Shengshi Hecheng.
+description: "Nhận giá nhà máy cho Máy dán nhãn chai tròn bán tự động DF-T200 giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Máy dán nhãn chai tròn bán tự động DF-T200, mua Máy dán nhãn chai tròn bán tự động DF-T200, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/df-t200-round-bottle-labeler.webp"
 ---
 # Máy dán nhãn chai tròn bán tự động DF-T200
 

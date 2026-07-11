@@ -1,7 +1,8 @@
 ---
 title: Máy hàn một đầu tự động báo giá | giải pháp trọn gói
-description: Nhận báo giá Máy hàn một đầu tự động với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Máy hàn một đầu tự động: quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Máy hàn một đầu tự động báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/single-head-sealing-machine.webp"
 ---
 # Máy hàn một đầu tự động
 

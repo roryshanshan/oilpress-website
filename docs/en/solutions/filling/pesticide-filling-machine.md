@@ -1,7 +1,8 @@
 ---
-title: Pesticide filling machine Quote | Turnkey Solution
-description: Get a quote and turnkey plan for Pesticide filling machine. Process design, equipment list, and after-sales support.
+title: "Pesticide filling machine | Equipment List & Factory Quote"
+description: "Turnkey Pesticide filling machine with process design, hydraulic press selection, filtration options, equipment list, and factory quote support."
 keywords: Pesticide filling machine quote, Pesticide filling machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/pesticide-filling-machine.webp"
 ---
 # Pesticide filling machine
 

@@ -1,7 +1,8 @@
 ---
-title: Etiqueteuse autocollante entièrement automatique devis
-description: "Demandez un devis pour Etiqueteuse autocollante entièrement automatique : plan de ligne, liste d’équipements et SAV."
+title: "Etiqueteuse autocollante entièrement automatique | Liste…"
+description: "Solution clé en main Etiqueteuse autocollante entièrement automatique : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Etiqueteuse autocollante entièrement automatique prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/self-adhesive-labeling-machine.webp"
 ---
 # Etiqueteuse autocollante entièrement automatique
 

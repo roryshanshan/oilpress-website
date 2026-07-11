@@ -2,9 +2,10 @@
 title: Cuiseur à combustion bois - Shengshi Hecheng prix | fabricant
 description: Demandez le prix et le devis pour Cuiseur à combustion bois - Shengshi Hecheng. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Cuiseur à combustion bois prix, acheter Cuiseur à combustion bois, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/external/products-wood-fired-steamer-f4d44ffc.webp"
 ---
 # Cuiseur à combustion bois
-![Cuiseur à combustion bois](https://i.postimg.cc/Gcs3LvWX/image.png?dl=1)
+![Cuiseur à combustion bois](/images/external/products-wood-fired-steamer-f4d44ffc.webp)
 ## Aperçu du produit
 
 Le corps du four est en matériau Q355B et peut être chauffé avec différents combustibles.

@@ -1,7 +1,8 @@
 ---
-title: Blow dryer series
-description: The blow dryer series is used to blow off the water on the surface of the bottle after rinsing, cleaning or filling, to facilitate subsequent labeling
+title: "Blow dryer series | Specs, Models & Factory Quote"
+description: "Browse blow dryer series for edible oil and liquid packaging lines. Compare models, capacity ranges, and request factory pricing with process guidance."
 keywords: Blow drying machine series, bottle blow drying machine, air knife drying equipment, drying before labeling, edible oil packaging drying machine, filling line drying equipment
+image: "/images/filling-solutions/drying.webp"
 ---
 
 # Blow dryer series

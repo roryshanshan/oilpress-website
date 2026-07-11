@@ -1,7 +1,8 @@
 ---
-title: Automatic folding and cartoning machine Price
+title: "Automatic folding and cartoning machine | Factory Price &…"
 description: Get price, procurement, and after-sales support for Automatic folding and cartoning machine from Shengshi Hecheng manufacturer.
 keywords: Automatic folding and cartoning machine price, Automatic folding and cartoning machine quote, Automatic folding and cartoning machine manufacturer, Automatic folding and cartoning machine supplier, procurement, after-sales
+image: "/images/filling-products/carton-sealing-machine.webp"
 ---
 # Automatic folding and sealing machine
 

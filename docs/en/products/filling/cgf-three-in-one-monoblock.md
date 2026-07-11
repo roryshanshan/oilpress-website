@@ -2,6 +2,7 @@
 title: Rinsing, filling and sealing three-in-one machine Price
 description: Get price, procurement, and after-sales support for Rinsing, filling and sealing three-in-one machine from Shengshi Hecheng manufacturer.
 keywords: Rinsing, filling and sealing three-in-one machine price, Rinsing, filling and sealing three-in-one machine quote, Rinsing, filling and sealing three-in-one machine manufacturer, Rinsing, filling and sealing three-in-one machine supplier, procurement, after-sales
+image: "/images/filling-products/cgf-three-in-one-monoblock.webp"
 ---
 # Rinsing, filling and sealing three-line machine
 

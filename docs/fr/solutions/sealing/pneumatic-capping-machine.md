@@ -2,6 +2,7 @@
 title: Machine de capsulage pneumatique entièrement automatique devis
 description: "Demandez un devis pour Machine de capsulage pneumatique entièrement automatique : plan de ligne, liste d’équipements et SAV."
 keywords: Machine de capsulage pneumatique entièrement automatique prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/pneumatic-capping-machine.webp"
 ---
 # Machine de capsulage pneumatique entièrement automatique
 

@@ -1,7 +1,8 @@
 ---
-title: Machine à boucher entièrement automatique devis
-description: "Demandez un devis pour Machine à boucher entièrement automatique : plan de ligne, liste d’équipements et SAV."
+title: "Machine à boucher entièrement automatique | Liste…"
+description: "Solution clé en main Machine à boucher entièrement automatique : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Machine à boucher entièrement automatique prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/automatic-corking-machine.webp"
 ---
 # Machine à boucher entièrement automatique
 

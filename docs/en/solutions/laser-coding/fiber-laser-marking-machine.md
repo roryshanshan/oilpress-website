@@ -1,7 +1,8 @@
 ---
-title: Fiber laser marking machine Quote | Turnkey Solution
-description: Get a quote and turnkey plan for Fiber laser marking machine. Process design, equipment list, and after-sales support.
+title: "Fiber laser marking machine | Equipment List & Factory Quote"
+description: "Turnkey Fiber laser marking machine with process design, hydraulic press selection, filtration options, equipment list, and factory quote support."
 keywords: Fiber laser marking machine quote, Fiber laser marking machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/fiber-laser-marking-machine.webp"
 ---
 # Fiber laser marking machine
 

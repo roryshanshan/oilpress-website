@@ -1,7 +1,8 @@
 ---
-title: Máy đóng nắp nhựa báo giá | giải pháp trọn gói
-description: Nhận báo giá Máy đóng nắp nhựa với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+title: "Máy đóng nắp nhựa chống áp | Danh mục thiết bị & báo giá"
+description: "Giải pháp trọn gói Máy đóng nắp nhựa chống áp: quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Máy đóng nắp nhựa chống áp báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/plastic-cap-pressing-machine.webp"
 ---
 # Máy đóng nắp nhựa chống áp
 

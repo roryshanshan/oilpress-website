@@ -1,11 +1,12 @@
 ---
 title: Small Sesame Oil Press Machine Price | Manufacturer & Quote
-description: Get price, procurement, and after-sales support for Small Sesame Oil Press Machine from Shengshi Hecheng manufacturer.
+description: "Get factory pricing for Small Sesame Oil Press Machine. Suitable for edible oil projects with model selection, procurement support, and after-sales…"
 keywords: Small Sesame Oil Press Machine price, Small Sesame Oil Press Machine quote, Small Sesame Oil Press Machine manufacturer, Small Sesame Oil Press Machine supplier, procurement, after-sales
+image: "/images/korean-type-small-press/small-sesame-hero.webp"
 ---
 # Small Sesame Oil Press Machine
 
-![Small sesame oil press machine](/images/korean-type-small-press/small-sesame-hero.jpg)
+![Small sesame oil press machine](/images/korean-type-small-press/small-sesame-hero.webp)
 
 The small sesame oil press machine is specially positioned for high-quality sesame oil production in small batches. In most cases, it is based on the Korean type hydraulic oil press design and is used in sesame oil shops, organic oil stores, and compact commercial production spaces.
 

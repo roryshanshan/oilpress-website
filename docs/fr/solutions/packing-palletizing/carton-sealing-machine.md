@@ -1,7 +1,8 @@
 ---
-title: Plieuse et encartonneuse automatique devis
-description: "Demandez un devis pour Plieuse et encartonneuse automatique : plan de ligne, liste d’équipements et SAV."
+title: "Machine automatique de pliage et de scellage | Liste…"
+description: "Solution clé en main Machine automatique de pliage et de scellage : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Machine automatique de pliage et de scellage prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/carton-sealing-machine.webp"
 ---
 # Machine automatique de pliage et de scellage
 

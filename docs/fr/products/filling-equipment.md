@@ -1,6 +1,6 @@
 ---
-title: Équipements de remplissage et d'emballage
-description: Vue d'ensemble des équipements de remplissage et d'emballage, avec accent sur les projets de vin, huangjiu, sauce soja et vinaigre
+title: "Équipements de remplissage et d'emballage | Prix usine et devis"
+description: "Demandez le prix usine pour Équipements de remplissage et d'emballage. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
 keywords: Équipements de remplissage et d'emballage prix, acheter Équipements de remplissage et d'emballage, devis usine, fabricant chinois, exportation, service après-vente
 ---
 # Équipements de remplissage et d'emballage

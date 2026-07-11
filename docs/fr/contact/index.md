@@ -1,6 +1,6 @@
 ---
-title: Obtenir prix & devis | Achat direct usine
-description: Contactez Shengshi Hecheng pour prix, devis et support d’achat des presses et lignes.
+title: "Demander un prix / devis | Presse hydraulique"
+description: "Contactez Shengshi Hecheng pour prix presse hydraulique, devis de ligne et support après-vente international."
 keywords: obtenir devis, prix presse à huile, contact fabricant, achat, SAV
 ---
 

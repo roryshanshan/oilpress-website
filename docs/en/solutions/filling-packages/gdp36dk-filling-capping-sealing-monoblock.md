@@ -2,6 +2,7 @@
 title: GDP36DK-10-10 Fully automatic intelligent filli Solution | Quote
 description: Get a quote and turnkey plan for GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing combined machine.
 keywords: GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing combined machine quote, GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing combined machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/gdp36dk-filling-capping-sealing-monoblock.webp"
 ---
 # GDP36DK-10-10 Fully automatic intelligent filling, capping and sealing machine
 

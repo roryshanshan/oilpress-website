@@ -2,6 +2,7 @@
 title: Etiqueteuse semi-automatique pour bouteilles rondes DF-T200 d...
 description: "Demandez un devis pour Etiqueteuse semi-automatique pour bouteilles rondes DF-T200 : plan de ligne, liste d’équipements et SAV."
 keywords: Etiqueteuse semi-automatique pour bouteilles rondes DF-T200 prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/df-t200-round-bottle-labeler.webp"
 ---
 # Etiqueteuse semi-automatique pour bouteilles rondes DF-T200
 

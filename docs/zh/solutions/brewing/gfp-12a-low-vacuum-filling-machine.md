@@ -1,7 +1,8 @@
 ---
-title: GFP-12A低真空灌装机报价|整线方案
-description: 获取GFP-12A低真空灌装机整线方案与报价，含工艺、设备清单与售后支持。
+title: GFP-12A低真空灌装机｜设备与厂家报价
+description: "`GFP-12A` 是低真空定液位灌装系列中的 12 头机型，主要面向葡萄酒、黄酒、酱油、醋等易起泡液体的玻璃瓶灌装。它更适合中小产能项目、酒庄试产线和需要稳定液位一致性的单机配置。"
 keywords: GFP-12A低真空灌装机报价, GFP-12A低真空灌装机价格, 整线方案, 生产线, 采购
+image: "/images/filling-products/gfp-12a-low-vacuum-filling-machine.webp"
 ---
 # GFP-12A低真空灌装机
 

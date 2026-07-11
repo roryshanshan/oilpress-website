@@ -1,7 +1,8 @@
 ---
-title: Boucheuse manuelle devis | solution clé en main
-description: "Demandez un devis pour Boucheuse manuelle : plan de ligne, liste d’équipements et SAV."
+title: "Boucheuse manuelle | Liste d’équipements et devis"
+description: "Solution clé en main Boucheuse manuelle : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Boucheuse manuelle prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/manual-corking-machine.webp"
 ---
 # Boucheuse manuelle
 

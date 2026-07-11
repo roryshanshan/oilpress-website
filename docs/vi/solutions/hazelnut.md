@@ -1,7 +1,8 @@
 ---
 title: Giải pháp hồ trăn (Dầu hồ trăn) báo giá | giải pháp trọn gói
-description: Nhận báo giá Giải pháp hồ trăn (Dầu hồ trăn) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Giải pháp hồ trăn (Dầu hồ trăn): quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Giải pháp hồ trăn (Dầu hồ trăn) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/an-overview-of-the-cold-pressing-process-of-hazeln-98e165898b.webp"
 ---
 # Giải pháp hồ trăn (Dầu hồ trăn)
 
@@ -27,7 +28,7 @@ Hạt hồ trăn là nguyên liệu dầu quan trọng; dầu hồ trăn có gi�
 + 榛子压榨工艺(建议426AC-390/480AC-390/500AC-390)
      + 冷榨工艺：核桃经过筛选、清洗、高速粉碎后直接入液压榨油机料桶压榨。
      + 采用此工艺压榨的核桃油，色泽金黄，入口回甘，压榨出的油不用水化处理，下锅不起泡。
-     + ![榛子压榨工艺](/images/榛子冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressing%20Process%20of%20Hazelnuts.png)
+     + ![榛子压榨工艺](/images/an-overview-of-the-cold-pressing-process-of-hazeln-98e165898b.webp)
 
 
 

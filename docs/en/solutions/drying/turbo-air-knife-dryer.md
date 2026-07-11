@@ -2,6 +2,7 @@
 title: Turbocharged air knife blow dryer Quote | Turnkey Solution
 description: Get a quote and turnkey plan for Turbocharged air knife blow dryer. Process design, equipment list, and after-sales support.
 keywords: Turbocharged air knife blow dryer quote, Turbocharged air knife blow dryer price, turnkey solution, production line, procurement
+image: "/images/filling-products/turbo-air-knife-dryer.webp"
 ---
 # Turbocharged air knife blow dryer
 

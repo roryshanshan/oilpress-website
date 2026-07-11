@@ -2,6 +2,7 @@
 title: Machine thermorétractable à capuchon en caoutch Solution | Devis
 description: "Demandez un devis pour Machine thermorétractable à capuchon en caoutchouc multi-têtes : plan de ligne, liste d’équipements et SAV."
 keywords: Machine thermorétractable à capuchon en caoutchouc multi-têtes prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/multi-head-cap-shrinking-machine.webp"
 ---
 # Machine thermorétractable à capuchon en caoutchouc multi-têtes
 

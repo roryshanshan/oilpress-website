@@ -2,6 +2,7 @@
 title: Machine intégrée de broyage et mélange de graines de chanvre e...
 description: Demandez le prix et le devis pour Machine intégrée de broyage et mélange de graines de chanvre et. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Machine intégrée de broyage et mélange de graines de chanvre et de lin prix, acheter Machine intégrée de broyage et mélange de graines de chanvre et de lin, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/external/products-hemp-and-flaxseed-grinding-and-stirring-i-c49f6ae2.webp"
 ---
 # Machine intégrée de broyage et mélange de graines de chanvre et de lin
 
@@ -24,4 +25,4 @@ Cette machine est largement utilisée dans les industries pharmaceutique, chimiq
 | Poids      | Environ 400 Kg | Dimensions  | 2000×800×1500 mm |
 
 ## Images
-![Images](https://i.postimg.cc/ZYq7J51L/202509051417544.png?dl=1)
+![Images](/images/external/products-hemp-and-flaxseed-grinding-and-stirring-i-c49f6ae2.webp)

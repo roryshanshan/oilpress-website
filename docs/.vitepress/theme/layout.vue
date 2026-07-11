@@ -84,7 +84,7 @@
             </svg>
           </a>
           <div class="wechat-qr" :class="{ 'show': showWechatQR }">
-              <img src="https://i.postimg.cc/fzV3PSKV/202508260948733.png?dl=1" alt="微信二维码" width="200" height="200">
+              <img src="/images/wechat-qr.webp" alt="微信二维码" width="200" height="200" loading="lazy" decoding="async">
               <p>扫码添加微信</p>
             </div>
         </div>
@@ -555,7 +555,7 @@
             </svg>
           </a>
           <div class="wechat-qr" :class="{ 'show': showMobileWechatQR }">
-            <img src="https://i.postimg.cc/fzV3PSKV/202508260948733.png?dl=1" alt="微信二维码" width="200" height="200">
+            <img src="/images/wechat-qr.webp" alt="微信二维码" width="200" height="200" loading="lazy" decoding="async">
             <p>扫码添加微信</p>
           </div>
         </div>

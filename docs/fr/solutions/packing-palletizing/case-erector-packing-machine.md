@@ -2,6 +2,7 @@
 title: Déballeuse automatique, formage de cartons, encartonneuse devis
 description: "Demandez un devis pour Déballeuse automatique, formage de cartons, encartonneuse : plan de ligne, liste d’équipements et SAV."
 keywords: Machines automatiques de déballage, de formage de cartons et d'encartonnage prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/case-erector-packing-machine.webp"
 ---
 # Machines automatiques de déballage, de formage de cartons et d'encartonnage
 

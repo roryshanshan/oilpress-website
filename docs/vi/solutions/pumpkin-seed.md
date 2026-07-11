@@ -1,7 +1,8 @@
 ---
 title: Giải pháp hạt bí ngô (Dầu hạt bí) báo giá | giải pháp trọn gói
-description: Nhận báo giá Giải pháp hạt bí ngô (Dầu hạt bí) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Giải pháp hạt bí ngô (Dầu hạt bí): quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Giải pháp hạt bí ngô (Dầu hạt bí) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/an-overview-of-the-cold-pressing-process-of-pumpki-c206ee35aa.webp"
 ---
 # Giải pháp hạt bí ngô (Dầu hạt bí)
 
@@ -27,7 +28,7 @@ Hạt bí ngô là nguyên liệu dầu quan trọng; dầu hạt bí có giá t
 
 +  南瓜籽(建议 426AC-390)
      + 南瓜子油冷榨工艺：经过筛选、清洗、高速粉碎后直接入液压榨油机料桶压榨 
-     + ![南瓜籽](/images/南瓜籽冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressing%20Process%20of%20Pumpkin%20Seeds.png) 
+     + ![南瓜籽](/images/an-overview-of-the-cold-pressing-process-of-pumpki-c206ee35aa.webp) 
 
 
 

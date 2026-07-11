@@ -1,7 +1,8 @@
 ---
-title: Máy chiết rót chân không thấp giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy chiết rót chân không thấp từ nhà sản xuất Shengshi Hecheng.
+title: "Máy chiết rót chân không thấp giá | Giá nhà máy & báo giá"
+description: "Nhận giá nhà máy cho Máy chiết rót chân không thấp giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Máy chiết rót chân không thấp, mua Máy chiết rót chân không thấp, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/low-vacuum-filling-machine.webp"
 ---
 # Máy chiết rót chân không thấp
 

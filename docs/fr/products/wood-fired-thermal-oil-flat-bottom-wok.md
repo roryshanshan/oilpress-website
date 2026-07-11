@@ -2,9 +2,10 @@
 title: Wok à fond plat avec huile thermique à combustion bois prix
 description: Demandez le prix et le devis pour Wok à fond plat avec huile thermique à combustion bois. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Wok à fond plat avec huile thermique à combustion bois prix, acheter Wok à fond plat avec huile thermique à combustion bois, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/external/products-wood-fired-thermal-oil-flat-bottom-wok-cc178b06.webp"
 ---
 # Wok à fond plat avec huile thermique à combustion bois
-![Wok à fond plat avec huile thermique à combustion bois](https://i.postimg.cc/wHP2fGLt/202509051612083.png?dl=1)
+![Wok à fond plat avec huile thermique à combustion bois](/images/external/products-wood-fired-thermal-oil-flat-bottom-wok-cc178b06.webp)
 ## Aperçu du produit
 
 * Ce wok à fond plat est équipé de son propre four. Le modèle à huile thermique résout le problème de chauffage inégal au fond du pot à combustion bois. Ce modèle est adapté aux zones rurales et périurbaines où du bois et du gaz naturel peuvent être brûlés, ce qui peut grandement économiser les coûts de traitement.

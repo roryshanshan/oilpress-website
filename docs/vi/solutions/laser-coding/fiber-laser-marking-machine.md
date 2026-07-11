@@ -1,7 +1,8 @@
 ---
 title: Máy khắc laser sợi quang báo giá | giải pháp trọn gói
-description: Nhận báo giá Máy khắc laser sợi quang với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Máy khắc laser sợi quang: quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Máy khắc laser sợi quang báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/fiber-laser-marking-machine.webp"
 ---
 # Máy khắc laser sợi quang
 

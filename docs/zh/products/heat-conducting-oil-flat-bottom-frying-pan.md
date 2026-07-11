@@ -1,13 +1,14 @@
 ---
-title: 内衬岩棉/外包不锈钢/导热油平底电炒锅 - 山东盛世赫程机械有限公司价格|厂家报价
-description: 获取内衬岩棉/外包不锈钢/导热油平底电炒锅 - 山东盛世赫程机械有限公司价格、采购与售后支持，厂家直供，支持选型与交付。
-keywords: 内衬岩棉/外包不锈钢/导热油平底电炒锅 - 山东盛世赫程机械有限公司价格, 内衬岩棉/外包不锈钢/导热油平底电炒锅 - 山东盛世赫程机械有限公司报价, 内衬岩棉/外包不锈钢/导热油平底电炒锅 - 山东盛世赫程机械有限公司厂家, 内衬岩棉/外包不锈钢/导热油平底电炒锅 - 山东盛世赫程机械有限公司采购, 售后服务
+title: 内衬岩棉/外包不锈钢/导热油平底电炒锅｜价格与厂家报价
+description: "内衬岩棉/外包不锈钢/导热油平底电炒锅：我们的导热油平底电炒锅采用双层锅底加强筋与电机减速机一体化设计，锅体外围内衬岩棉保温层，外包不锈钢，美观大方。导热油电加热方式受热更均匀，降温慢，更加节能。"
+keywords: "内衬岩棉/外包不锈钢/导热油平底电炒锅价格, 内衬岩棉/外包不锈钢/导热油平底电炒锅报价, 内衬岩棉/外包不锈钢/导热油平底电炒锅厂家, 内衬岩棉/外包不锈钢/导热油平底电炒锅采购, 售后服务"
+image: "/images/external/products-heat-conducting-oil-flat-bottom-frying-pa-a97628b9.webp"
 ---
 # 内衬岩棉/外包不锈钢/导热油平底电炒锅
-![内衬岩棉/外包不锈钢/导热油平底电炒锅](https://i.postimg.cc/3KvT2YJ1/202509051516277.png?dl=1)
-![内衬岩棉/外包不锈钢/导热油平底电炒锅](https://i.postimg.cc/hg2f5LdS/IMG-6945.jpg?dl=1)
-![内衬岩棉/外包不锈钢/导热油平底电炒锅](https://i.postimg.cc/tpf7X9kw/IMG-6946.jpg?dl=1)
-![内衬岩棉/外包不锈钢/导热油平底电炒锅](https://i.postimg.cc/r879x6qP/202509220959703.png?dl=1)
+![内衬岩棉/外包不锈钢/导热油平底电炒锅](/images/external/products-heat-conducting-oil-flat-bottom-frying-pa-a97628b9.webp)
+![内衬岩棉/外包不锈钢/导热油平底电炒锅](/images/external/products-heat-conducting-oil-flat-bottom-frying-pa-189cc2b1.webp)
+![内衬岩棉/外包不锈钢/导热油平底电炒锅](/images/external/products-heat-conducting-oil-flat-bottom-frying-pa-c6cbfab4.webp)
+![内衬岩棉/外包不锈钢/导热油平底电炒锅](/images/external/products-heat-conducting-oil-flat-bottom-frying-pa-fbd7a9df.webp)
 ## 产品概述
 
 我们的导热油平底电炒锅采用双层锅底加强筋与电机减速机一体化设计，锅体外围内衬岩棉保温层，外包不锈钢，美观大方。导热油电加热方式受热更均匀，降温慢，更加节能。

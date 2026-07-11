@@ -1,6 +1,6 @@
 ---
 title: Giải pháp hồ đào (Dầu hồ đào) báo giá | giải pháp trọn gói
-description: Nhận báo giá Giải pháp hồ đào (Dầu hồ đào) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Giải pháp hồ đào (Dầu hồ đào): quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Giải pháp hồ đào (Dầu hồ đào) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
 ---
 # Giải pháp hồ đào (Dầu hồ đào)

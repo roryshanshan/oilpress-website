@@ -1,6 +1,6 @@
 ---
-title: Линия производства масла | Решение и расчёт
-description: Проектирование линий, список оборудования, заводские цены и сервис.
+title: "Oil Processing Solutions | Equipment List & Factory Quote"
+description: "Explore turnkey oil processing solutions by oilseed and process, including press selection, filtration, packaging, and factory quotes."
 keywords: линия производства масла, решение, цена, завод, закупка, сервис
 ---
 

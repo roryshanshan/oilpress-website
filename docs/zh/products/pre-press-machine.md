@@ -1,11 +1,12 @@
 ---
-title: 预榨机 - 山东盛世赫程机械有限公司价格|厂家报价
-description: 获取预榨机 - 山东盛世赫程机械有限公司价格、采购与售后支持，厂家直供，支持选型与交付。
-keywords: 预榨机 - 山东盛世赫程机械有限公司价格, 预榨机 - 山东盛世赫程机械有限公司报价, 预榨机 - 山东盛世赫程机械有限公司厂家, 预榨机 - 山东盛世赫程机械有限公司采购, 售后服务
+title: "预榨机｜油料预处理价格与厂家报价"
+description: "获取预榨机厂家价格与选型建议，用于高含油油料预压与后续精榨衔接，支持整线配置。"
+keywords: "预榨机价格, 预榨机报价, 预榨机厂家, 预榨机采购, 售后服务"
+image: "/images/external/products-pre-press-machine-c62a58a9.webp"
 ---
 # 预榨机
 
-![预榨机](https://i.postimg.cc/BqDs94Fy/image.png?dl=1)
+![预榨机](/images/external/products-pre-press-machine-c62a58a9.webp)
 ## 产品概述
 
 本预压榨机采用螺旋压碎原理，设计用于高效、稳定的运行，噪音低，易损件维护成本低。

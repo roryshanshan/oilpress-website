@@ -1,7 +1,8 @@
 ---
-title: Manual corking machine Quote | Turnkey Solution
-description: Get a quote and turnkey plan for Manual corking machine. Process design, equipment list, and after-sales support.
+title: "Manual corking machine | Equipment List & Factory Quote"
+description: "Turnkey Manual corking machine with process design, hydraulic press selection, filtration options, equipment list, and factory quote support."
 keywords: Manual corking machine quote, Manual corking machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/manual-corking-machine.webp"
 ---
 # Manual corking machine
 

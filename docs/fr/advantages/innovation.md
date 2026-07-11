@@ -1,6 +1,6 @@
 ---
-title: Innovation technologique - Shengshi Hecheng
-description: Innovation technologique de Shandong Shengshi Hecheng, avantages techniques principaux, système de contrôle intelligent
+title: "Innovation | Contrôle intelligent de presse hydraulique"
+description: "R&D Shengshi Hecheng : contrôle intelligent, précision de pression et conception économe pour usines d’huile comestible."
 keywords: Innovation technologique, Avantages techniques principaux, Système de contrôle intelligent, Technologie de contrôle précis de la pression, Conception écoénergétique et environnementale, Investissement en R&D, Technologie brevetée, Contrôleur programmable PLC, Entraînement par moteur servo, Technologie de régulation de fréquence variable, Procédé de pressage à froid à basse température, Innovation Shandong Shengshi Hecheng
 ---
 

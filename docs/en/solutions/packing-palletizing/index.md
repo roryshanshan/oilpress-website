@@ -1,7 +1,8 @@
 ---
-title: Packing and palletizing
-description: Packing and palletizing equipment is used for automatic packing, sealing, sorting and palletizing in the back section of the packaging line
+title: "Packing and palletizing | Specs, Models & Factory Quote"
+description: "Browse packing and palletizing for edible oil and liquid packaging lines. Compare models, capacity ranges, and request factory pricing with process guidance."
 keywords: Packing and palletizing equipment, automatic cartoning machine, automatic palletizing machine, carton sealing equipment, edible oil post-packaging line, terminal packaging equipment
+image: "/images/filling-solutions/packing-palletizing.webp"
 ---
 
 # Packing and palletizing

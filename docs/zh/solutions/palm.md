@@ -1,7 +1,8 @@
 ---
-title: 棕榈液压榨油机｜棕榈油压榨方案与设备
-description: 棕榈液压榨油机适合棕榈仁油物理压榨，服务热带油料加工项目，提供从预处理到压榨的整线设备与选型支持。
+title: 棕榈（棕榈油）解决方案｜设备与厂家报价
+description: "棕榈是重要的油料作物，棕榈油具有独特的营养价值和应用价值。山东盛世赫程机械有限公司提供专业的棕榈压榨解决方案，从小型作坊到大型工厂的全套设备和服务。"
 keywords: 棕榈（棕榈油）解决方案 - 山东盛世赫程机械有限公司报价, 棕榈（棕榈油）解决方案 - 山东盛世赫程机械有限公司价格, 整线方案, 生产线, 采购
+image: "/images/hot-pressing-process-of-palm-pulp-palm-kernel-7153ac8a85.webp"
 ---
 # 棕榈（棕榈油）解决方案
 
@@ -28,7 +29,7 @@ keywords: 棕榈（棕榈油）解决方案 - 山东盛世赫程机械有限公�
  + 第一步：高速粉碎
  + 第二步：蒸制
  + 第三步：压榨
-![棕榈油](/images/棕榈果肉_棕榈仁热榨工艺_Hot%20pressing%20process%20of%20palm%20pulp_palm%20kernel_.png)
+![棕榈油](/images/hot-pressing-process-of-palm-pulp-palm-kernel-7153ac8a85.webp)
 
  备注：
   + 棕榈果-红油   

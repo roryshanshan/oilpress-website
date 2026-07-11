@@ -1,7 +1,8 @@
 ---
-title: Single-head rubber cap heat shrink machine Quote
+title: "Single head rubber cap heat shrink machine | Equipment…"
 description: Get a quote and turnkey plan for Single-head rubber cap heat shrink machine. Process design, equipment list, and after-sales support.
 keywords: Single-head rubber cap heat shrink machine quote, Single-head rubber cap heat shrink machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/single-head-cap-shrinking-machine.webp"
 ---
 # Single head rubber cap heat shrink machine
 

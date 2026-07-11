@@ -1,7 +1,8 @@
 ---
-title: Série d'équipements de brassage
-description: La série d'équipements de vinification convient à la fermentation, au stockage, à la filtration, au remplissage et au post-emballage du vin, du vin de fruit
+title: "Série d'équipements de brassage | Modèles, specs et devis usine"
+description: "Découvrez série d'équipements de brassage pour lignes d’huile comestible et conditionnement liquide. Comparez les modèles et demandez un devis usine."
 keywords: Série d'équipements de vinification, équipement de vin, ligne de remplissage de vin de fruits, équipement de conditionnement de vin, équipement de stockage de vin de fermentation, ligne d'étiquetage de bouchage et de bouchage
+image: "/images/filling-solutions/brewing.webp"
 ---
 
 # Série d'équipements de brassage

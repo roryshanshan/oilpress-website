@@ -1024,7 +1024,17 @@ const WEBSITE_ID = `${SITE_URL}/#website`
 const DEFAULT_IMAGE = `${SITE_URL}/images/hero-oil-press.webp`
 const DEFAULT_DESCRIPTION = 'Professional Hydraulic Oil Press Manufacturer and One-stop Oil Processing Solutions.'
 const OFFER_PRICE_VALID_UNTIL = '2027-12-31'
-const LOCALE_CODES = { en: 'en', zh: 'zh-CN', fr: 'fr', ru: 'ru', vi: 'vi', bn: 'bn' }
+// Keep hreflang codes aligned with locales.*.lang and sitemap xhtml:link values
+const LOCALE_CODES = { en: 'en-US', zh: 'zh-CN', fr: 'fr-FR', ru: 'ru-RU', vi: 'vi-VN', bn: 'bn-BD' }
+const OG_LOCALE = { en: 'en_US', zh: 'zh_CN', fr: 'fr_FR', ru: 'ru_RU', vi: 'vi_VN', bn: 'bn_BD' }
+// Thin / internal / duplicate pages that should not be indexed
+const NOINDEX_ROUTE_PATTERNS = [
+  /^\/$/,
+  /\/translation-glossary$/,
+  /\/solutions\/peanut1$/,
+  /Sesame%20Cleaning%20Machine$/,
+  /\/products\/peanut$/
+]
 const PRODUCT_COLLECTION_SLUGS = new Set([
   'supporting',
   'pre-treatment',
@@ -1397,15 +1407,32 @@ const getSeriesLabel = (lang, model) => {
   return `${model} Series`
 }
 
+const pageNameFallback = (lang, slug, segments = []) => {
+  if (!segments.length) return SITE_NAME
+  return getRouteLabel(lang, slug) || SITE_NAME
+}
+
 const buildLocalizedPath = (lang, path) => {
   const normalized = path.startsWith('/') ? path : `/${path}`
   return lang === 'en' ? `/en${normalized}` : `/${lang}${normalized}`
 }
 
 const routeExists = (route = '/') => {
-  const normalized = route.endsWith('/') ? `${route}index` : route
-  const relative = normalized.replace(/^\//, '')
-  return existsSync(new URL(`../${relative}.md`, import.meta.url))
+  if (route === '/') return existsSync(new URL('../index.md', import.meta.url))
+  const cleaned = route.replace(/\/$/, '')
+  const relative = cleaned.replace(/^\//, '')
+  if (existsSync(new URL(`../${relative}.md`, import.meta.url))) return true
+  if (existsSync(new URL(`../${relative}/index.md`, import.meta.url))) return true
+  return false
+}
+
+const isNoindexRoute = (route = '/') =>
+  NOINDEX_ROUTE_PATTERNS.some((pattern) => pattern.test(route))
+
+const toCanonicalPath = (route = '/') => {
+  if (route === '/') return '/'
+  // Match vercel trailingSlash:false + cleanUrls — never emit trailing slash
+  return route.replace(/\/$/, '')
 }
 
 const normalizeSchemaRoute = (route = '/') => {
@@ -1872,7 +1899,7 @@ const buildBreadcrumbSchema = ({ route, canonical, lang, segments, pageName }) =
   }
 }
 
-const buildBasePageSchema = ({ canonical, pageName, description, langCode, pageType, collectionItems = [], mainEntityId = '' }) => {
+const buildBasePageSchema = ({ canonical, pageName, description, langCode, pageType, collectionItems = [], mainEntityId = '', image = DEFAULT_IMAGE }) => {
   const schema = {
     '@context': 'https://schema.org',
     '@type': pageType,
@@ -1885,7 +1912,7 @@ const buildBasePageSchema = ({ canonical, pageName, description, langCode, pageT
     breadcrumb: { '@id': `${canonical}#breadcrumb` },
     primaryImageOfPage: {
       '@type': 'ImageObject',
-      url: DEFAULT_IMAGE
+      url: absoluteAssetUrl(image)
     }
   }
 
@@ -1911,11 +1938,20 @@ const buildBasePageSchema = ({ canonical, pageName, description, langCode, pageT
   return schema
 }
 
-const buildProductSchema = ({ canonical, pageName, description, langCode, lang, category, model }) => {
+const absoluteAssetUrl = (value = '') => {
+  const raw = String(value || '').trim()
+  if (!raw) return DEFAULT_IMAGE
+  if (/^https?:\/\//i.test(raw)) return raw.split('?')[0]
+  const path = raw.startsWith('/') ? raw : `/${raw}`
+  return `${SITE_URL}${path.split('?')[0]}`
+}
+
+const buildProductSchema = ({ canonical, pageName, description, langCode, lang, category, model, image }) => {
   const additionalProperty = []
   const contactUrl = `${SITE_URL}${buildLocalizedPath(lang, '/contact/')}`
   const aboutUrl = `${SITE_URL}${buildLocalizedPath(lang, '/about/')}`
   const returnPolicyUrl = `${SITE_URL}${buildLocalizedPath(lang, '/advantages/service/')}`
+  const productImage = absoluteAssetUrl(image)
 
   if (model) {
     additionalProperty.push({
@@ -1943,7 +1979,7 @@ const buildProductSchema = ({ canonical, pageName, description, langCode, lang, 
     mainEntityOfPage: {
       '@id': `${canonical}#webpage`
     },
-    image: [DEFAULT_IMAGE],
+    image: [productImage],
     brand: {
       '@type': 'Brand',
       name: 'Shengshi Hecheng'
@@ -1951,22 +1987,18 @@ const buildProductSchema = ({ canonical, pageName, description, langCode, lang, 
     manufacturer: {
       '@id': ORGANIZATION_ID
     },
+    // Quote-based B2B equipment: do not emit fake price:0 (Google rich-result risk)
     offers: {
       '@type': 'Offer',
       url: contactUrl,
-      price: '0',
       priceCurrency: 'USD',
       priceValidUntil: OFFER_PRICE_VALID_UNTIL,
       availability: 'https://schema.org/InStock',
       itemCondition: 'https://schema.org/NewCondition',
-      priceSpecification: {
-        '@type': 'PriceSpecification',
-        price: '0',
-        priceCurrency: 'USD',
-        valueAddedTaxIncluded: false
-      },
       hasMerchantReturnPolicy: {
         '@type': 'MerchantReturnPolicy',
+        applicableCountry: 'CN',
+        returnPolicyCategory: 'https://schema.org/MerchantReturnNotPermitted',
         merchantReturnLink: returnPolicyUrl
       },
       seller: {
@@ -2013,7 +2045,7 @@ const buildServiceSchema = ({ canonical, pageName, description, langCode, lang }
   return schema
 }
 
-const buildArticleSchema = ({ canonical, pageName, description, langCode, date }) => {
+const buildArticleSchema = ({ canonical, pageName, description, langCode, date, image = DEFAULT_IMAGE }) => {
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -2024,7 +2056,7 @@ const buildArticleSchema = ({ canonical, pageName, description, langCode, date }
     mainEntityOfPage: {
       '@id': `${canonical}#webpage`
     },
-    image: [DEFAULT_IMAGE],
+    image: [absoluteAssetUrl(image)],
     author: {
       '@id': ORGANIZATION_ID
     },
@@ -2333,14 +2365,23 @@ const buildOilSolutionFaqSchema = (lang, solutionName) => {
 
 export default {
   transformHead: ({ pageData }) => {
-    const route = normalizeRoute(pageData.relativePath || 'index.md')
-    const canonical = `${SITE_URL}${route}`
-    const { lang, segments } = parseLocalizedRoute(route)
+    const rawRoute = normalizeRoute(pageData.relativePath || 'index.md')
+    const route = toCanonicalPath(rawRoute)
+    // Root `/` is a redirect shell — canonical should point at the English home
+    const canonicalPath = route === '/' ? '/en' : route
+    const canonical = `${SITE_URL}${canonicalPath}`
+    const { lang, segments } = parseLocalizedRoute(route === '/' ? '/en' : route)
     const langCode = LOCALE_CODES[lang] || lang
     const section = segments[0] || ''
     const slug = segments[segments.length - 1] || ''
-    const pageName = normalizeSchemaTitle(pageData.frontmatter?.title || pageData.title || '') || (segments.length ? getRouteLabel(lang, slug) : SITE_NAME)
+    const pageTitle = cleanSchemaText(pageData.frontmatter?.title || pageData.title || '') || pageNameFallback(lang, slug, segments)
+    const pageName = normalizeSchemaTitle(pageTitle) || pageNameFallback(lang, slug, segments)
     const pageDescription = cleanSchemaText(pageData.frontmatter?.description || pageData.description || '') || DEFAULT_DESCRIPTION
+    const pageKeywords = cleanSchemaText(pageData.frontmatter?.keywords || '')
+    const pageImage = absoluteAssetUrl(pageData.frontmatter?.image || DEFAULT_IMAGE)
+    const shouldNoindex = isNoindexRoute(route)
+      || pageData.frontmatter?.robots === 'noindex'
+      || pageData.frontmatter?.noindex === true
 
     const allLangs = Object.keys(LOCALE_CODES)
     let routeSuffix = ''
@@ -2357,7 +2398,8 @@ export default {
 
     const altHrefs = allLangs
       .map((locale) => {
-        const localizedRoute = routeSuffix ? `/${locale}${routeSuffix}` : `/${locale}/`
+        // Always no trailing slash to match canonical + vercel trailingSlash:false
+        const localizedRoute = toCanonicalPath(routeSuffix ? `/${locale}${routeSuffix}` : `/${locale}`)
         return {
           locale,
           route: localizedRoute,
@@ -2365,13 +2407,13 @@ export default {
           href: `${SITE_URL}${localizedRoute}`
         }
       })
-      .filter(({ route }) => routeExists(route))
-    const xDefaultRoute = routeSuffix && routeExists(`/en${routeSuffix}`) ? `/en${routeSuffix}` : '/en/'
+      .filter(({ route: altRoute }) => routeExists(altRoute))
+    const xDefaultRoute = routeSuffix && routeExists(`/en${routeSuffix}`)
+      ? toCanonicalPath(`/en${routeSuffix}`)
+      : '/en'
 
     const isHome = segments.length === 0
-    const isLocalizedHome = route !== '/' && isHome
     const isNewsArticle = section === 'news' && segments.length >= 3
-    const isNewsCollection = section === 'news' && segments.length <= 2
     const isProductCollection = section === 'products' && (segments.length === 1 || (segments.length === 2 && PRODUCT_COLLECTION_SLUGS.has(segments[1])))
     const isProductInfoPage = section === 'products' && segments.length === 2 && PRODUCT_INFO_SLUGS.has(segments[1])
     const isProductDetail = section === 'products' && !isProductCollection && !isProductInfoPage
@@ -2395,11 +2437,12 @@ export default {
         langCode,
         pageType: primaryPageType,
         collectionItems,
-        mainEntityId
+        mainEntityId,
+        image: pageImage
       })
     ]
 
-    if (isHome) {
+    if (isHome && route !== '/') {
       const homeFaq = buildHomeFaqSchema(lang)
       if (homeFaq) {
         homeFaq.inLanguage = langCode
@@ -2431,7 +2474,8 @@ export default {
         langCode,
         lang,
         category,
-        model
+        model,
+        image: pageImage
       }))
 
       if (/^\d+$/.test(segments[1])) {
@@ -2470,7 +2514,8 @@ export default {
         langCode,
         lang,
         category,
-        model
+        model,
+        image: pageImage
       }))
     }
 
@@ -2480,7 +2525,8 @@ export default {
         pageName,
         description: pageDescription,
         langCode,
-        date: pageData.frontmatter?.date || ''
+        date: pageData.frontmatter?.date || '',
+        image: pageImage
       }))
     }
 
@@ -2494,36 +2540,91 @@ export default {
       pageName
     })
 
-    return [
+    const headTags = [
+      // Page-level meta must be injected here: global head description was overwriting SEO
+      ['meta', { name: 'description', content: pageDescription }],
+      ...(pageKeywords ? [['meta', { name: 'keywords', content: pageKeywords }]] : []),
+      ['meta', {
+        name: 'robots',
+        content: shouldNoindex
+          ? 'noindex, nofollow'
+          : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
+      }],
+      // Preload LCP image on locale home pages
+      ...((isHome && route !== '/' && pageImage)
+        ? [[
+          'link',
+          {
+            rel: 'preload',
+            as: 'image',
+            href: pageImage,
+            ...(pageImage.endsWith('.webp') ? { type: 'image/webp' } : {})
+          }
+        ]]
+        : []),
       ['link', { rel: 'canonical', href: canonical }],
+      ['meta', { property: 'og:type', content: isNewsArticle ? 'article' : 'website' }],
+      ['meta', { property: 'og:site_name', content: SITE_NAME }],
       ['meta', { property: 'og:url', content: canonical }],
-      ...(pageData.frontmatter?.title ? [['meta', { property: 'og:title', content: pageData.frontmatter.title }]] : []),
-      ...(pageData.frontmatter?.description ? [['meta', { property: 'og:description', content: pageData.frontmatter.description }]] : []),
+      ['meta', { property: 'og:title', content: pageTitle }],
+      ['meta', { property: 'og:description', content: pageDescription }],
+      ['meta', { property: 'og:image', content: pageImage }],
+      ['meta', { property: 'og:image:alt', content: pageName || SITE_NAME }],
+      ['meta', { property: 'og:locale', content: OG_LOCALE[lang] || 'en_US' }],
+      ...altHrefs
+        .filter(({ locale }) => locale !== lang)
+        .map(({ locale }) => ['meta', { property: 'og:locale:alternate', content: OG_LOCALE[locale] || locale }]),
+      ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+      ['meta', { name: 'twitter:title', content: pageTitle }],
+      ['meta', { name: 'twitter:description', content: pageDescription }],
+      ['meta', { name: 'twitter:image', content: pageImage }],
       ...altHrefs.map(({ hreflang, href }) => ['link', { rel: 'alternate', hreflang, href }]),
       ['link', { rel: 'alternate', hreflang: 'x-default', href: `${SITE_URL}${xDefaultRoute}` }],
       ['script', { type: 'application/ld+json' }, JSON.stringify(breadcrumbSchema)],
       ...pageSchemas.map((schema) => ['script', { type: 'application/ld+json' }, JSON.stringify(schema)])
     ]
+
+    return headTags
   },
   lastUpdated: true,
   sitemap: {
-    hostname: 'https://hydraulicoilpressing.opchn.com/',
-    lastmod: new Date().toISOString(),
-    changefreq: 'weekly',
-    priority: 0.8,
-    urls: [
-      // 确保包含所有语言版本的首页
-      { url: '/', changefreq: 'daily', priority: 1.0 },
-      { url: '/zh/', changefreq: 'daily', priority: 1.0 },
-      { url: '/en/', changefreq: 'daily', priority: 1.0 },
-      { url: '/ru/', changefreq: 'daily', priority: 1.0 },
-      { url: '/fr/', changefreq: 'daily', priority: 1.0 },
-      { url: '/bn/', changefreq: 'daily', priority: 1.0 },
-      { url: '/vi/', changefreq: 'daily', priority: 1.0 }
-    ]
+    hostname: 'https://hydraulicoilpressing.opchn.com',
+    lastmodDateOnly: false,
+    transformItems: (items) => {
+      return items
+        .filter((item) => {
+          try {
+            const pathname = new URL(item.url, SITE_URL).pathname.replace(/\/$/, '') || '/'
+            if (pathname === '/') return false
+            if (isNoindexRoute(pathname)) return false
+            if (/%20|%2F|peanut1|translation-glossary|Sesame/i.test(item.url)) return false
+            return true
+          } catch {
+            return true
+          }
+        })
+        .map((item) => {
+          // Normalize trailing slash off for consistency with canonical
+          if (item.url && item.url.endsWith('/') && item.url !== `${SITE_URL}/`) {
+            item.url = item.url.replace(/\/$/, '')
+          }
+          // Locale homepages get higher priority
+          if (/\/(en|zh|fr|ru|vi|bn)$/.test(item.url || '')) {
+            item.priority = 1.0
+            item.changefreq = 'daily'
+          } else if (/\/(products|solutions)(\/|$)/.test(item.url || '')) {
+            item.priority = 0.9
+            item.changefreq = 'weekly'
+          } else if (/\/news\//.test(item.url || '')) {
+            item.priority = 0.6
+            item.changefreq = 'monthly'
+          }
+          return item
+        })
+    }
   },
   title: 'Shengshi Hecheng Oil Press',
-  description: 'Professional Oil Press Manufacturer',
+  description: 'Professional Hydraulic Oil Press Manufacturer and One-stop Oil Processing Solutions.',
   cleanUrls: true,
   base: '/',
   ignoreDeadLinks: true,
@@ -2552,23 +2653,14 @@ export default {
   },
   head: [
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
-    ['meta', { name: 'description', content: 'Professional Oil Press Manufacturer - Shengshi Hecheng' }],
-    ['meta', { name: 'keywords', content: 'oil press, hydraulic press, oil extraction, oil press machine' }],
+    // description / keywords / og / twitter / robots are injected per-page in transformHead
     ['meta', { name: 'author', content: 'Shengshi Hecheng' }],
-    ['meta', { name: 'robots', content: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' }],
     ['meta', { name: 'theme-color', content: '#e74c3c' }],
-    ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:site_name', content: 'Shengshi Hecheng Oil Press' }],
-    ['meta', { property: 'og:title', content: 'Shengshi Hecheng Oil Press' }],
-    ['meta', { property: 'og:description', content: 'Professional Hydraulic Oil Press Manufacturer and One-stop Oil Processing Solutions.' }],
-    ['meta', { property: 'og:image', content: 'https://hydraulicoilpressing.opchn.com/images/hero-oil-press.webp' }],
-    ['meta', { property: 'og:image:alt', content: 'Shengshi Hecheng hydraulic oil press equipment' }],
-    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:title', content: 'Shengshi Hecheng Oil Press' }],
-    ['meta', { name: 'twitter:description', content: 'Professional Hydraulic Oil Press Manufacturer and One-stop Oil Processing Solutions.' }],
-    ['meta', { name: 'twitter:image', content: 'https://hydraulicoilpressing.opchn.com/images/hero-oil-press.webp' }],
     ['meta', { name: 'baidu-site-verification', content: 'codeva-wjCh7UrQj8' }],
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    ['link', { rel: 'preconnect', href: 'https://www.googletagmanager.com' }],
+    ['link', { rel: 'preconnect', href: 'https://embed.tawk.to' }],
+    ['link', { rel: 'dns-prefetch', href: 'https://www.youtube.com' }],
     ['script', { type: 'application/ld+json' }, JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'Organization',
@@ -2660,7 +2752,7 @@ s0.parentNode.insertBefore(s1,s0);
 
   locales: {
     root: {
-      lang: 'en',
+      lang: 'en-US',
       themeConfig: {
         nav: [
           { text: '🏠 Home', link: '/en/' },

@@ -1,7 +1,8 @@
 ---
-title: 间歇式冲瓶机报价|整线方案
-description: 获取间歇式冲瓶机整线方案与报价，含工艺、设备清单与售后支持。
+title: 间歇式冲瓶机｜设备与厂家报价
+description: "间歇式冲瓶机可作为冲瓶机系列中的具体机型参考。本页按公开产品资料整理了机型定位、参数信息和配套建议，方便做初步选型与页面内跳转。"
 keywords: 间歇式冲瓶机报价, 间歇式冲瓶机价格, 整线方案, 生产线, 采购
+image: "/images/filling-products/intermittent-bottle-washer.webp"
 ---
 # 间歇式冲瓶机
 

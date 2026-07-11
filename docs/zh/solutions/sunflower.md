@@ -1,7 +1,8 @@
 ---
-title: 向日葵液压榨油机｜葵花籽油压榨方案与设备
-description: 向日葵液压榨油机压榨葵花籽油，冷榨保留亚油酸与维E，适合葵花籽油加工厂与作坊，提供剥壳、压榨、过滤配套。
+title: 向日葵籽（葵花籽油）解决方案｜设备与厂家报价
+description: "向日葵籽是重要的油料作物，葵花籽油具有金黄的色泽和清爽的口感。山东盛世赫程机械有限公司提供专业的向日葵籽压榨解决方案，从小型作坊到大型工厂的全套设备和服务。"
 keywords: 向日葵籽（葵花籽油）解决方案 - 山东盛世赫程机械有限公司报价, 向日葵籽（葵花籽油）解决方案 - 山东盛世赫程机械有限公司价格, 整线方案, 生产线, 采购
+image: "/images/sunflower-seed-hot-pressing-process.webp"
 ---
 # 向日葵籽（葵花籽油）解决方案
 
@@ -26,7 +27,7 @@ keywords: 向日葵籽（葵花籽油）解决方案 - 山东盛世赫程机械�
 ## 加工工艺
 + 葵花籽(建议300AC-390/325AC-390/355AC-390/400AC-390)
             + 葵花籽油热榨工艺：葵花籽经过清理、破碎、炒制工艺后再放入液压榨油机料桶压榨。
-            ![葵花籽油热榨工艺](/images/sunflower-seed-hot-pressing-process.png)
+            ![葵花籽油热榨工艺](/images/sunflower-seed-hot-pressing-process.webp)
 ## 葵花籽油热榨压榨视频
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/BdmN8beHRyg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

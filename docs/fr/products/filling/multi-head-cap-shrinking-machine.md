@@ -2,6 +2,7 @@
 title: Machine thermorétractable à capuchon en caoutchouc multi-tête...
 description: Demandez le prix et le devis pour Machine thermorétractable à capuchon en caoutchouc multi-têtes. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Machine thermorétractable à capuchon en caoutchouc multi-têtes prix, acheter Machine thermorétractable à capuchon en caoutchouc multi-têtes, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/multi-head-cap-shrinking-machine.webp"
 ---
 # Machine thermorétractable à capuchon en caoutchouc multi-têtes
 

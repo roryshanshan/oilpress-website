@@ -2,6 +2,7 @@
 title: Linear double label fully automatic labeling machine Quote
 description: Get a quote and turnkey plan for Linear double label fully automatic labeling machine. Process design, equipment list, and after-sales support.
 keywords: Linear double label fully automatic labeling machine quote, Linear double label fully automatic labeling machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/double-label-automatic-labeling-machine.webp"
 ---
 # Linear double label fully automatic labeling machine
 

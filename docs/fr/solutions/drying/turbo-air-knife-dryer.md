@@ -1,7 +1,8 @@
 ---
-title: Sèche-cheveux à lame d'air turbocompressé devis
-description: "Demandez un devis pour Sèche-cheveux à lame d'air turbocompressé : plan de ligne, liste d’équipements et SAV."
+title: "Sèche-cheveux à lame d'air turbocompressé | Liste…"
+description: "Solution clé en main Sèche-cheveux à lame d'air turbocompressé : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Sèche-cheveux à lame d'air turbocompressé prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/turbo-air-knife-dryer.webp"
 ---
 # Sèche-cheveux à lame d'air turbocompressé
 

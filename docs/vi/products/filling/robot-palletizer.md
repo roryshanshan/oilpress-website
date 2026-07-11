@@ -1,7 +1,8 @@
 ---
-title: Robot xếp hàng giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Robot xếp hàng từ nhà sản xuất Shengshi Hecheng.
+title: "Robot xếp hàng giá | Giá nhà máy & báo giá"
+description: "Nhận giá nhà máy cho Robot xếp hàng giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Robot xếp hàng, mua Robot xếp hàng, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/robot-palletizer.webp"
 ---
 # Robot xếp hàng
 

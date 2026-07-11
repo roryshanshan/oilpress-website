@@ -1,7 +1,8 @@
 ---
-title: GFP-40H低真空灌装机报价|整线方案
-description: 获取GFP-40H低真空灌装机整线方案与报价，含工艺、设备清单与售后支持。
+title: GFP-40H低真空灌装机｜设备与厂家报价
+description: "`GFP-40H` 是低真空定液位灌装系列中覆盖到 12000 瓶/小时的一档主力机型，适合更高节拍的葡萄酒、黄酒和玻璃瓶酱油、醋项目。"
 keywords: GFP-40H低真空灌装机报价, GFP-40H低真空灌装机价格, 整线方案, 生产线, 采购
+image: "/images/filling-products/gfp-40h-low-vacuum-filling-machine.webp"
 ---
 # GFP-40H低真空灌装机
 

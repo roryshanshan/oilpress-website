@@ -1,7 +1,8 @@
 ---
-title: Rotary rinsing machine Price | Manufacturer & Quote
-description: Get price, procurement, and after-sales support for Rotary rinsing machine from Shengshi Hecheng manufacturer.
+title: "Rotary rinsing machine | Factory Price & Quote"
+description: "Get factory pricing for Rotary rinsing machine. Suitable for edible oil projects with model selection, procurement support, and after-sales service from…"
 keywords: Rotary rinsing machine price, Rotary rinsing machine quote, Rotary rinsing machine manufacturer, Rotary rinsing machine supplier, procurement, after-sales
+image: "/images/filling-products/rotary-bottle-washer.webp"
 ---
 # Rotary bottle rinser
 

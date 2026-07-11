@@ -1,5 +1,5 @@
 ---
-title: Comparatif presse hydraulique et presse à vis
+title: "Comparatif presse hydraulique et presse à vis | Hydraulic…"
 description: Comparaison rapide entre la presse hydraulique et la presse à vis sur la qualité d'huile, la capacité, l'entretien et les usages.
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2025-03-01"

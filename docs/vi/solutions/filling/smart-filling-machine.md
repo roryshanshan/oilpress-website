@@ -1,7 +1,8 @@
 ---
 title: Dòng máy chiết rót thông minh báo giá | giải pháp trọn gói
-description: Nhận báo giá Dòng máy chiết rót thông minh với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Dòng máy chiết rót thông minh: quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Dòng máy chiết rót thông minh báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/smart-filling-machine.webp"
 ---
 # Dòng máy chiết rót thông minh
 

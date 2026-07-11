@@ -2,6 +2,7 @@
 title: Machine de remplissage de cuve rotative prix | fabricant
 description: Demandez le prix et le devis pour Machine de remplissage de cuve rotative. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Machine de remplissage de cuve rotative prix, acheter Machine de remplissage de cuve rotative, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/filling-products/rotary-drum-filling-machine.webp"
 ---
 # Machine de remplissage de cuve rotative
 

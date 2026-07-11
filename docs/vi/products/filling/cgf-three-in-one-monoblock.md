@@ -1,7 +1,8 @@
 ---
 title: Máy súc rửa, chiết rót và hàn kín ba trong một giá
-description: Nhận báo giá và tư vấn mua Máy súc rửa, chiết rót và hàn kín ba trong một từ nhà sản xuất Shengshi Hecheng.
+description: "Nhận giá nhà máy cho Máy súc rửa, chiết rót và hàn kín ba trong một giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Rửa, chiết rót và niêm phong máy ba dây chuyền, mua Rửa, chiết rót và niêm phong máy ba dây chuyền, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/cgf-three-in-one-monoblock.webp"
 ---
 # Rửa, chiết rót và niêm phong máy ba dây chuyền
 

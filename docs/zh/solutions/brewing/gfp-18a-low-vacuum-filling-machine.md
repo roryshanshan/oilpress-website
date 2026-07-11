@@ -1,7 +1,8 @@
 ---
-title: GFP-18A低真空灌装机报价|整线方案
-description: 获取GFP-18A低真空灌装机整线方案与报价，含工艺、设备清单与售后支持。
+title: GFP-18A低真空灌装机｜设备与厂家报价
+description: "`GFP-18A` 是低真空定液位灌装系列中的 18 头机型，适合需要比 12 头机型更高效率、但又暂时不需要 24 头以上产能的酒类与调味液体项目。"
 keywords: GFP-18A低真空灌装机报价, GFP-18A低真空灌装机价格, 整线方案, 生产线, 采购
+image: "/images/filling-products/gfp-18a-low-vacuum-filling-machine.webp"
 ---
 # GFP-18A低真空灌装机
 

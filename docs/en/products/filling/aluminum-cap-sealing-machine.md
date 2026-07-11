@@ -1,7 +1,8 @@
 ---
 title: Aluminum cap sealing machine Price | Manufacturer & Quote
-description: Get price, procurement, and after-sales support for Aluminum cap sealing machine from Shengshi Hecheng manufacturer.
+description: "Get factory pricing for Aluminum cap sealing machine. Suitable for edible oil projects with model selection, procurement support, and after-sales service…"
 keywords: Aluminum cap sealing machine price, Aluminum cap sealing machine quote, Aluminum cap sealing machine manufacturer, Aluminum cap sealing machine supplier, procurement, after-sales
+image: "/images/filling-products/aluminum-cap-sealing-machine.webp"
 ---
 # Aluminum cap sealing machine
 

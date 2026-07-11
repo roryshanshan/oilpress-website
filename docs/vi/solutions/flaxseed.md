@@ -1,7 +1,8 @@
 ---
 title: Giải pháp hạt lanh (Dầu hạt lanh) báo giá | giải pháp trọn gói
-description: Nhận báo giá Giải pháp hạt lanh (Dầu hạt lanh) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Giải pháp hạt lanh (Dầu hạt lanh): quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Giải pháp hạt lanh (Dầu hạt lanh) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/flaxseed-hot-pressing-process.webp"
 ---
 # Giải pháp hạt lanh (Dầu hạt lanh)
 
@@ -27,9 +28,9 @@ Hạt lanh là một cây dầu quan trọng; dầu hạt lanh có giá trị di
 
 + Hạt vừng / hạt lanh (gợi ý mẫu: 300AC-390 / 325AC-390 / 355AC-390 / 400AC-390)
 + Quy trình ép nóng (hot-press) hạt vừng/hạt lanh: hạt được gia nhiệt, rang và nghiền rồi đưa vào thùng ép thủy lực để ép dầu.
-+ ![Quy trình ép nóng](/images/flaxseed-hot-pressing-process.png)
++ ![Quy trình ép nóng](/images/flaxseed-hot-pressing-process.webp)
 + Quy trình ép nóng dầu hạt lanh: hạt được nghiền bằng máy nghiền tốc độ cao trước khi đưa vào thùng ép thủy lực; dầu ép có vị ngọt đầu, không cần xử lý hóa nước và không tạo bọt khi chiên.
-+ ![Quy trình ép lạnh](/images/胡麻_亚麻籽冷榨工艺概览_An%20Overview%20of%20the%20Cold%20pressing%20Process%20of%20Flaxseed.png)
++ ![Quy trình ép lạnh](/images/an-overview-of-the-cold-pressing-process-of-flaxse-0ea1b504ce.webp)
 ## Video quy trình chế biến
 
 <div class="video-container">

@@ -2,6 +2,7 @@
 title: Máy chiết rót định lượng thông minh báo giá | giải pháp trọn gói
 description: Nhận báo giá Máy chiết rót định lượng thông minh với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Máy chiết rót định lượng thông minh báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/intelligent-quantitative-filling-machine.webp"
 ---
 # Máy chiết rót định lượng thông minh
 

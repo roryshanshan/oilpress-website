@@ -2,9 +2,10 @@
 title: Дровяная пароварка - Shengshi Hecheng цена | производитель
 description: Запросите цену и подбор Дровяная пароварка - Shengshi Hecheng. Производитель Shengshi Hecheng, поставка и сервис.
 keywords: Дровяная пароварка цена, купить Дровяная пароварка, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
+image: "/images/external/products-wood-fired-steamer-f4d44ffc.webp"
 ---
 # Дровяная пароварка
-![Дровяная пароварка](https://i.postimg.cc/Gcs3LvWX/image.png?dl=1)
+![Дровяная пароварка](/images/external/products-wood-fired-steamer-f4d44ffc.webp)
 
 ## Обзор продукта
 

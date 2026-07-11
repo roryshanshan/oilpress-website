@@ -1,11 +1,12 @@
 ---
-title: KHOP-15KG 小型液压榨油机价格|厂家报价
-description: 获取KHOP-15KG 小型液压榨油机价格、采购与售后支持，厂家直供，支持选型与交付。
+title: KHOP-15KG 小型液压榨油机｜价格与厂家报价
+description: "KHOP-15KG 小型液压榨油机：KHOP-15KG 自动液压榨油机属于中等产能的小型门店榨油设备，适合芝麻油生产和小型商业项目。与 10KG 级别相比，它可以提供更高的日产，同时仍然保持适合门店和紧凑后场空间的机身布局。"
 keywords: KHOP-15KG 小型液压榨油机价格, KHOP-15KG 小型液压榨油机报价, KHOP-15KG 小型液压榨油机厂家, KHOP-15KG 小型液压榨油机采购, 售后服务
+image: "/images/korean-type-small-press/korean-type-detail.webp"
 ---
 # KHOP-15KG 小型液压榨油机
 
-![KHOP-15KG 小型液压榨油机](/images/korean-type-small-press/korean-type-detail.jpg)
+![KHOP-15KG 小型液压榨油机](/images/korean-type-small-press/korean-type-detail.webp)
 
 KHOP-15KG 自动液压榨油机属于中等产能的小型门店榨油设备，适合芝麻油生产和小型商业项目。与 10KG 级别相比，它可以提供更高的日产，同时仍然保持适合门店和紧凑后场空间的机身布局。
 

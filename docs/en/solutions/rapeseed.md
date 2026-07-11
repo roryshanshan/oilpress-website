@@ -2,6 +2,7 @@
 title: Rapeseed (Rapeseed Oil) | Equipment List & Factory Quote
 description: Get a turnkey plan for Rapeseed (Rapeseed Oil) Solution, including process design, equipment list, factory quote, procurement support, and after-sales service.
 keywords: Rapeseed (Rapeseed Oil) Solution quote, Rapeseed (Rapeseed Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
+image: "/images/process-image-55d72f15da.webp"
 ---
 # Rapeseed (Rapeseed Oil) Solution
 
@@ -28,7 +29,7 @@ Rapeseed is an important oil crop, rapeseed oil is one of the major edible oils 
 ### Rapeseed Oil Hot Pressing Process
 - Rapeseed goes through cleaning, crushing, frying and steaming processes before being fed into the hydraulic oil press bucket for pressing.
 - The rapeseed oil produced by this process has high oil yield, golden color, and fresh aroma.
-- ![Rapeseed hot pressing process](/images/菜籽热榨工艺.png)
+- ![Rapeseed hot pressing process](/images/process-image-55d72f15da.webp)
 
 ## Rapeseed Hot Pressing Process Video
 

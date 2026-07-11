@@ -1,7 +1,8 @@
 ---
-title: Ascenseur devis | solution clé en main
-description: "Demandez un devis pour Ascenseur : plan de ligne, liste d’équipements et SAV."
+title: "Élévateur de fruits/bouteilles | Prix usine et devis"
+description: "Demandez le prix usine pour élévateurs de ligne de remplissage huile comestible et liquides, avec sélection de modèle et SAV."
 keywords: Palan prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/fruit-elevator.webp"
 ---
 # Palan
 

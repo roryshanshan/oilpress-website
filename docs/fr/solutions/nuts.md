@@ -1,6 +1,6 @@
 ---
-title: Solutions d'huile de noix devis | solution clé en main
-description: "Demandez un devis pour Solutions d'huile de noix : plan de ligne, liste d’équipements et SAV."
+title: "Solutions d'huile de noix | Liste d’équipements et devis"
+description: "Solution clé en main Solutions d'huile de noix : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Solutions d'huile de noix prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
 ---
 # Solutions d'huile de noix

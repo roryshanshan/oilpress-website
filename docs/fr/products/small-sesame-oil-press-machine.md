@@ -2,10 +2,11 @@
 title: Petite machine de pressage d'huile de sésame prix | fabricant
 description: Demandez le prix et le devis pour Petite machine de pressage d'huile de sésame. Fabricant Shengshi Hecheng, livraison et SAV.
 keywords: Petite machine de pressage d'huile de sésame prix, acheter Petite machine de pressage d'huile de sésame, devis usine, fabricant chinois, exportation, service après-vente
+image: "/images/korean-type-small-press/small-sesame-hero.webp"
 ---
 # Petite machine de pressage d'huile de sésame
 
-![Petite machine de pressage d'huile de sésame](/images/korean-type-small-press/small-sesame-hero.jpg)
+![Petite machine de pressage d'huile de sésame](/images/korean-type-small-press/small-sesame-hero.webp)
 
 La petite machine de pressage d'huile de sésame est spécialement positionnée pour la production de sésame premium en petits lots. Dans la plupart des cas, elle repose sur la structure de la presse hydraulique de type coréen et s'adresse aux boutiques spécialisées, aux magasins bio et aux petits espaces commerciaux combinant démonstration et vente.
 

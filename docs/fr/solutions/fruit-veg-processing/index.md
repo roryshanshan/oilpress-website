@@ -1,7 +1,8 @@
 ---
-title: Équipements de prétraitement des fruits et légumes
-description: L'équipement de prétraitement des fruits et légumes convient au nettoyage, au tri, à l'élimination des impuretés, au broyage, au battage et à d'autres processus
+title: "Équipements de prétraitement des fruits et légumes | Modèles…"
+description: Découvrez équipements de prétraitement des fruits et légumes pour lignes d’huile comestible et conditionnement liquide. Comparez les modèles et demandez…
 keywords: Équipement de prétraitement des fruits et légumes, équipement de nettoyage et de tri des fruits et légumes, équipement de concassage et de battage, ligne de prétraitement des fruits et légumes, transformation des matières premières des fruits, équipement frontal pour boissons
+image: "/images/filling-solutions/fruit-veg-processing.webp"
 ---
 
 # Équipements de prétraitement des fruits et légumes

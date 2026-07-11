@@ -2,6 +2,7 @@
 title: Solution de graines de ricin (huile de ricin) - Shengshi Heche...
 description: "Demandez un devis pour Solution de graines de ricin (huile de ricin) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV."
 keywords: Solution de graines de ricin (huile de ricin) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/hot-pressing-process-of-castor-seeds-png-89a6227aab.webp"
 ---
 # Solution de graines de ricin (huile de ricin)
 
@@ -29,7 +30,7 @@ Castor seed oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/
  + Étape 1: Broyage
  + Étape 2: Friture
  + Étape 3: Pressing
- + ![Castor Seed Oil](/images/蓖麻子热榨工艺_Hot%20pressing%20process%20of%20castor%20seeds_png.png)
+ + ![Castor Seed Oil](/images/hot-pressing-process-of-castor-seeds-png-89a6227aab.webp)
 
 ## Aucune vidéo de traitement haute pression à grande capacité de notre entreprise n'est encore disponible, veuillez temporairement vous référer à la presse à huile coréenne suivante pressant des graines de ricin
 

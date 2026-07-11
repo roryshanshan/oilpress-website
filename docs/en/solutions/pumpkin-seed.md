@@ -2,6 +2,7 @@
 title: Pumpkin Seed (Pumpkin Seed Oil) | Equipment List & Factory Quote
 description: "Get a pumpkin seed oil line plan with process design, equipment list, factory quote, procurement, and after-sales service."
 keywords: Pumpkin Seed (Pumpkin Seed Oil) Solution quote, Pumpkin Seed (Pumpkin Seed Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
+image: "/images/an-overview-of-the-cold-pressing-process-of-pumpki-c206ee35aa.webp"
 ---
 # Pumpkin Seed (Pumpkin Seed Oil) Solution
 
@@ -27,7 +28,7 @@ Pumpkin seed is an important oil crop, pumpkin seed oil has unique nutritional v
 
 + Pumpkin seeds (Recommended 426AC-390)
      + Pumpkin seed oil cold pressing process: After screening, cleaning, and high-speed crushing, directly fed into the hydraulic oil press bucket for pressing
-     + ![Pumpkin Seeds](/images/南瓜籽冷榨工艺概览_An%20Overview%20of%20the%20Cold%20Pressing%20Process%20of%20Pumpkin%20Seeds.png)
+     + ![Pumpkin Seeds](/images/an-overview-of-the-cold-pressing-process-of-pumpki-c206ee35aa.webp)
 
 ## Technical Advantages
 

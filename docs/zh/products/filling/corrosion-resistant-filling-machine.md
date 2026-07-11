@@ -1,7 +1,8 @@
 ---
-title: 耐酸碱腐蚀灌装机价格|厂家报价
-description: 获取耐酸碱腐蚀灌装机价格、采购与售后支持，厂家直供，支持选型与交付。
+title: 耐酸碱腐蚀灌装机｜价格与厂家报价
+description: "耐酸碱腐蚀灌装机：耐酸碱腐蚀灌装机主要面向强酸、强腐蚀、高泡类液体，适合农化、日化、消杀产品等对材料防腐和防滴漏要求较高的灌装场景。"
 keywords: 耐酸碱腐蚀灌装机价格, 耐酸碱腐蚀灌装机报价, 耐酸碱腐蚀灌装机厂家, 耐酸碱腐蚀灌装机采购, 售后服务
+image: "/images/filling-products/corrosion-resistant-filling-machine.webp"
 ---
 # 耐酸碱腐蚀灌装机
 

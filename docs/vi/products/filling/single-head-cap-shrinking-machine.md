@@ -1,7 +1,8 @@
 ---
 title: Máy co nhiệt nắp cao su một đầu giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy co nhiệt nắp cao su một đầu từ nhà sản xuất Shengshi Hecheng.
+description: "Nhận giá nhà máy cho Máy co nhiệt nắp cao su một đầu giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Máy co nhiệt nắp cao su một đầu, mua Máy co nhiệt nắp cao su một đầu, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/single-head-cap-shrinking-machine.webp"
 ---
 # Máy co nhiệt nắp cao su một đầu
 

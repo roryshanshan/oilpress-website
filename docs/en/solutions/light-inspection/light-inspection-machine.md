@@ -1,7 +1,8 @@
 ---
-title: Light inspection machine Quote | Turnkey Solution
-description: Get a quote and turnkey plan for Light inspection machine. Process design, equipment list, and after-sales support.
+title: "Light inspection machine | Equipment List & Factory Quote"
+description: "Turnkey Light inspection machine with process design, hydraulic press selection, filtration options, equipment list, and factory quote support."
 keywords: Light inspection machine quote, Light inspection machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/light-inspection-machine.webp"
 ---
 # Light inspection machine
 

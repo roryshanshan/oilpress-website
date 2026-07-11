@@ -1,6 +1,6 @@
 ---
 title: Quy trình ép tốt nhất cho các loại nguyên liệu dầu
-description: "Ngày phát hành: 25-01-2023"
+description: "Để đạt tỷ lệ thu dầu cao và chất lượng dầu tốt hơn, các loại nguyên liệu cần áp dụng tiền xử lý và tham số ép khác nhau. Dưới đây tóm tắt các điểm quy…"
 keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
 ---
 

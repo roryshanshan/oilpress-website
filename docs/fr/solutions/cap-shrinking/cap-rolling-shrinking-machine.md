@@ -1,7 +1,8 @@
 ---
-title: Machine à rouler/rétrécir les bouchons devis
-description: "Demandez un devis pour Machine à rouler/rétrécir les bouchons : plan de ligne, liste d’équipements et SAV."
+title: "Machine de capsulage/rétrécissement | Liste d’équipements…"
+description: "Solution clé en main Machine de capsulage/rétrécissement : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Machine de capsulage/rétrécissement prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/cap-rolling-shrinking-machine.webp"
 ---
 # Machine de capsulage/rétrécissement
 

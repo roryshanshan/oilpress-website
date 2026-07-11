@@ -1,7 +1,8 @@
 ---
-title: Machine laser CO2 devis | solution clé en main
-description: "Demandez un devis pour Machine laser CO2 : plan de ligne, liste d’équipements et SAV."
+title: "Machine laser CO2 | Liste d’équipements et devis"
+description: "Solution clé en main Machine laser CO2 : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Machine laser CO2 prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/co2-laser-marking-machine.webp"
 ---
 # Machine laser CO2
 

@@ -1,6 +1,6 @@
 ---
-title: Success Cases - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng success cases showcase, including large oil factory projects, small and medium enterprise cases, international market cases
+title: "Études de cas | Projets presse hydraulique à huile"
+description: "Découvrez des projets d’huileries et d’export avec presses hydrauliques, hausses de capacité et lignes clés en main."
 keywords: Success cases, Customer cases, Oil factory projects, Oil press cases, Large oil factories, Small and medium enterprises, International market, Technology innovation, Production efficiency improvement, Oil yield increase, Shandong Shengshi Hecheng cases, Oil pressing equipment application
 ---
 

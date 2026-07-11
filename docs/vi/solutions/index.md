@@ -1,6 +1,6 @@
 ---
-title: Dây chuyền ép dầu | Giải pháp & báo giá
-description: Giải pháp trọn gói, danh mục thiết bị, giá nhà máy và dịch vụ sau bán.
+title: "Oil Processing Solutions | Equipment List & Factory Quote"
+description: "Explore turnkey oil processing solutions by oilseed and process, including press selection, filtration, packaging, and factory quotes."
 keywords: dây chuyền ép dầu, giải pháp, báo giá, giá nhà máy, sau bán
 ---
 

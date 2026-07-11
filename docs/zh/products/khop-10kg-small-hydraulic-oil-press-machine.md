@@ -1,11 +1,12 @@
 ---
-title: KHOP-10KG 小型液压榨油机价格|厂家报价
-description: 获取KHOP-10KG 小型液压榨油机价格、采购与售后支持，厂家直供，支持选型与交付。
+title: KHOP-10KG 小型液压榨油机｜价格与厂家报价
+description: "KHOP-10KG 小型液压榨油机：KHOP-10KG 自动液压榨油机是一款入门型小批量芝麻榨油设备，适合芝麻油门店、鲜榨油柜台和小型精品油项目。相较传统人工压榨，它在油质稳定性、劳动强度和终端展示感上都更适合商业化使用。"
 keywords: KHOP-10KG 小型液压榨油机价格, KHOP-10KG 小型液压榨油机报价, KHOP-10KG 小型液压榨油机厂家, KHOP-10KG 小型液压榨油机采购, 售后服务
+image: "/images/korean-type-small-press/khop-10kg.webp"
 ---
 # KHOP-10KG 小型液压榨油机
 
-![KHOP-10KG 小型液压榨油机](/images/korean-type-small-press/khop-10kg.jpg)
+![KHOP-10KG 小型液压榨油机](/images/korean-type-small-press/khop-10kg.webp)
 
 KHOP-10KG 自动液压榨油机是一款入门型小批量芝麻榨油设备，适合芝麻油门店、鲜榨油柜台和小型精品油项目。相较传统人工压榨，它在油质稳定性、劳动强度和终端展示感上都更适合商业化使用。
 

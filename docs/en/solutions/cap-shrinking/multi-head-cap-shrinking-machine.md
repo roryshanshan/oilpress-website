@@ -1,7 +1,8 @@
 ---
-title: Multi-head rubber cap heat shrink machine Quote
+title: "Multi-head rubber cap heat shrink machine | Equipment List…"
 description: Get a quote and turnkey plan for Multi-head rubber cap heat shrink machine. Process design, equipment list, and after-sales support.
 keywords: Multi-head rubber cap heat shrink machine quote, Multi-head rubber cap heat shrink machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/multi-head-cap-shrinking-machine.webp"
 ---
 # Multi-head rubber cap heat shrink machine
 

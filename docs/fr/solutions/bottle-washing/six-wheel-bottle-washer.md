@@ -1,7 +1,8 @@
 ---
-title: Rinceuse à six roues devis | solution clé en main
-description: "Demandez un devis pour Rinceuse à six roues : plan de ligne, liste d’équipements et SAV."
+title: "Rinceuse à six roues | Liste d’équipements et devis"
+description: "Solution clé en main Rinceuse à six roues : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Rinceuse à six roues prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/six-wheel-bottle-washer.webp"
 ---
 # Rinceuse à six roues
 

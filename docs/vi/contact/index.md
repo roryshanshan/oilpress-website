@@ -1,6 +1,6 @@
 ---
-title: Nhận giá & báo giá | Hỗ trợ mua hàng
-description: Liên hệ Shengshi Hecheng để nhận giá máy ép dầu và báo giá dây chuyền, hỗ trợ sau bán.
+title: "Nhận giá & báo giá | Máy ép dầu thủy lực"
+description: "Liên hệ Shengshi Hecheng để nhận giá máy ép dầu thủy lực, báo giá dây chuyền và hỗ trợ sau bán."
 keywords: nhận báo giá, giá máy ép dầu, liên hệ, mua hàng, sau bán
 ---
 

@@ -1,7 +1,8 @@
 ---
-title: Thang máy báo giá | giải pháp trọn gói
-description: Nhận báo giá Thang máy với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+title: "Băng tải nâng / Elevator | Giá nhà máy & báo giá"
+description: "Nhận giá nhà máy cho elevator/thang nâng dùng trên dây chuyền chiết rót dầu ăn và đóng gói lỏng, hỗ trợ chọn model và sau bán."
 keywords: Palăng báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/fruit-elevator.webp"
 ---
 # Palăng
 

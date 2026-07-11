@@ -1,7 +1,8 @@
 ---
-title: Machine de remplissage de cuve rotative devis
-description: "Demandez un devis pour Machine de remplissage de cuve rotative : plan de ligne, liste d’équipements et SAV."
+title: "Machine de remplissage de cuve rotative | Liste…"
+description: "Solution clé en main Machine de remplissage de cuve rotative : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Machine de remplissage de cuve rotative prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/rotary-drum-filling-machine.webp"
 ---
 # Machine de remplissage de cuve rotative
 

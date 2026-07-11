@@ -1,11 +1,12 @@
 ---
 title: Máy ép dầu thủy lực nhỏ KHOP-10KG giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy ép dầu thủy lực nhỏ KHOP-10KG từ nhà sản xuất Shengshi Hecheng.
+description: "Nhận giá nhà máy cho Máy ép dầu thủy lực nhỏ KHOP-10KG giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Máy ép dầu thủy lực nhỏ KHOP-10KG, mua Máy ép dầu thủy lực nhỏ KHOP-10KG, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/korean-type-small-press/khop-10kg.webp"
 ---
 # Máy ép dầu thủy lực nhỏ KHOP-10KG
 
-![Máy ép dầu thủy lực nhỏ KHOP-10KG](/images/korean-type-small-press/khop-10kg.jpg)
+![Máy ép dầu thủy lực nhỏ KHOP-10KG](/images/korean-type-small-press/khop-10kg.webp)
 
 KHOP-10KG là máy ép dầu thủy lực tự động cấp nhập môn cho các mẻ mè nhỏ. Máy phù hợp với cửa hàng dầu mè, quầy dầu tươi và các dự án dầu cao cấp quy mô nhỏ. So với ép thủ công truyền thống, máy mang lại chất lượng dầu ổn định hơn, giảm lao động thủ công và tạo hình ảnh chuyên nghiệp hơn tại điểm bán.
 

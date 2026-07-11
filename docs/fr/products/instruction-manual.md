@@ -1,6 +1,6 @@
 ---
-title: Manuel d'Instructions de l'Équipement
-description: Téléchargement du Manuel d'Instructions de la Presse à Huile Hydraulique Qianlong
+title: "Manuel d’instructions presse à huile | Téléchargement"
+description: "Download hydraulic oil press instruction manuals and operating guidance for safer installation, commissioning, and daily maintenance."
 keywords: Manuel d'Instructions de l'Équipement prix, acheter Manuel d'Instructions de l'Équipement, devis usine, fabricant chinois, exportation, service après-vente
 ---
 # Manuel d'Instructions de l'Équipement

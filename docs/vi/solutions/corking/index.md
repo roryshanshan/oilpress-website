@@ -1,7 +1,8 @@
 ---
-title: loạt nút chặn
-description: Dòng máy đóng nút chai phù hợp với quy trình ép nút chai hoặc nút tổng hợp của các sản phẩm chai thủy tinh như rượu vang, rượu hoa quả, dầu hộp quà tặng cao cấp
+title: "Dòng máy đóng nút | Model, thông số & báo giá nhà máy"
+description: Xem dòng máy đóng nút cho dây chuyền dầu ăn và đóng gói lỏng. So sánh model và yêu cầu báo giá nhà máy.
 keywords: Dòng máy đóng nút chai, máy đóng nút chai, máy ép nút chai, thiết bị đóng nút chai rượu vang, máy đóng nút chai thủy tinh, thiết bị đóng gói dầu hộp quà tặng
+image: "/images/filling-solutions/corking.webp"
 ---
 
 # Dòng máy đóng nút

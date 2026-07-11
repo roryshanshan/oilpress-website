@@ -1,7 +1,8 @@
 ---
-title: Máy súc rửa sáu bánh giá | nhà sản xuất
-description: Nhận báo giá và tư vấn mua Máy súc rửa sáu bánh từ nhà sản xuất Shengshi Hecheng.
+title: "Máy súc rửa sáu bánh giá | Giá nhà máy & báo giá"
+description: "Nhận giá nhà máy cho Máy súc rửa sáu bánh giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
 keywords: giá Máy rửa sáu bánh, mua Máy rửa sáu bánh, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/six-wheel-bottle-washer.webp"
 ---
 # Máy rửa sáu bánh
 

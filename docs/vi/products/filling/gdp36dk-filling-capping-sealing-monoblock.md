@@ -2,6 +2,7 @@
 title: Máy kết hợp đóng nắp thông minh hoàn toàn tự động GDP36DK-10-...
 description: Nhận báo giá và tư vấn mua Máy kết hợp đóng nắp thông minh hoàn toàn tự động GDP36DK-10-10 từ nhà sản xuất Shengshi Hecheng.
 keywords: giá GDP36DK-10-10 Máy chiết rót, đóng nắp, dán kín hoàn toàn tự động thông minh, mua GDP36DK-10-10 Máy chiết rót, đóng nắp, dán kín hoàn toàn tự động thông minh, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+image: "/images/filling-products/gdp36dk-filling-capping-sealing-monoblock.webp"
 ---
 # GDP36DK-10-10 Máy chiết rót, đóng nắp, dán kín hoàn toàn tự động thông minh
 

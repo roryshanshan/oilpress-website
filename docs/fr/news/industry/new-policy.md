@@ -1,6 +1,6 @@
 ---
-title: La nouvelle politique nationale stimule le développement de
-description: "Publié : 8 août 2023"
+title: "La nouvelle politique nationale stimule le développement"
+description: "Le 1er août 2023, le ministère chinois de l'Agriculture et des Affaires rurales, conjointement avec six autres ministères, a publié les « Lignes…"
 keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
 ---
 # La nouvelle politique nationale stimule le développement de l'industrie de transformation des céréales et huiles

@@ -2,6 +2,7 @@
 title: Automatic unpacking, carton forming, cartoning machine Price
 description: Get price, procurement, and after-sales support for Automatic unpacking, carton forming, cartoning machine from Shengshi Hecheng manufacturer.
 keywords: Automatic unpacking, carton forming, cartoning machine price, Automatic unpacking, carton forming, cartoning machine quote, Automatic unpacking, carton forming, cartoning machine manufacturer, Automatic unpacking, carton forming, cartoning machine supplier, procurement, after-sales
+image: "/images/filling-products/case-erector-packing-machine.webp"
 ---
 # Automatic unpacking, carton forming, and cartoning machines
 

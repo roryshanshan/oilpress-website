@@ -1,7 +1,8 @@
 ---
 title: Giải pháp hạt điều (Dầu hạt điều) báo giá | giải pháp trọn gói
-description: Nhận báo giá Giải pháp hạt điều (Dầu hạt điều) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+description: "Giải pháp trọn gói Giải pháp hạt điều (Dầu hạt điều): quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Giải pháp hạt điều (Dầu hạt điều) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/hot-pressing-process-of-cashew-peel-def65fdf7a.webp"
 ---
 # Giải pháp hạt điều (Dầu hạt điều)
 
@@ -29,10 +30,10 @@ keywords: Giải pháp hạt điều (Dầu hạt điều) báo giá dây chuy�
 
 腰果压榨工艺：(建议426AC-390/480AC-390/500AC-390)
 + 腰果皮热榨工艺：蒸制后压榨
-    + ![腰果皮压榨工艺](/images/腰果皮热榨工艺Hot%20pressing%20process%20of%20cashew%20peel.png)
+    + ![腰果皮压榨工艺](/images/hot-pressing-process-of-cashew-peel-def65fdf7a.webp)
 
 + 腰果仁冷榨工艺：直接压榨
-    + ![腰果仁冷榨工艺](/images/腰果仁冷榨工艺_Cold%20pressing%20process%20of%20cashew%20kernels_.png)
+    + ![腰果仁冷榨工艺](/images/cold-pressing-process-of-cashew-kernels-f8ff465cd8.webp)
 
 ## 技术优势
 

@@ -1,5 +1,5 @@
 ---
-title: Guide pressage à froid vs à chaud
+title: "Guide pressage à froid vs à chaud | Hydraulic Oil Press"
 description: Comprendre rapidement les différences entre pressage à froid et à chaud sur l'arôme, la nutrition, le rendement et le marché.
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2025-03-10"

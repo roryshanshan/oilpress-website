@@ -1,7 +1,8 @@
 ---
 title: Machine d'inspection légère devis | solution clé en main
-description: "Demandez un devis pour Machine d'inspection légère : plan de ligne, liste d’équipements et SAV."
+description: "Solution clé en main Machine d'inspection légère : process, presse hydraulique, filtration, liste d’équipements et devis usine."
 keywords: Machine d'inspection légère prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+image: "/images/filling-products/light-inspection-machine.webp"
 ---
 # Machine d'inspection légère
 

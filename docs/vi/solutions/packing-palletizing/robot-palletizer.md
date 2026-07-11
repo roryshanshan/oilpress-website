@@ -1,7 +1,8 @@
 ---
-title: Robot xếp hàng báo giá | giải pháp trọn gói
-description: Nhận báo giá Robot xếp hàng với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
+title: "Robot xếp hàng | Danh mục thiết bị & báo giá"
+description: "Giải pháp trọn gói Robot xếp hàng: quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
 keywords: Robot xếp hàng báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/robot-palletizer.webp"
 ---
 # Robot xếp hàng
 

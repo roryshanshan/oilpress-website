@@ -2,6 +2,7 @@
 title: Máy đóng nút chai hoàn toàn tự động báo giá | giải pháp trọn gói
 description: Nhận báo giá Máy đóng nút chai hoàn toàn tự động với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
 keywords: Máy đóng nút chai hoàn toàn tự động báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+image: "/images/filling-products/automatic-corking-machine.webp"
 ---
 # Máy đóng nút chai hoàn toàn tự động
 

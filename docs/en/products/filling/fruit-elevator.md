@@ -1,7 +1,8 @@
 ---
-title: Elevator Price | Manufacturer & Quote
-description: Get price, procurement, and after-sales support for Elevator from Shengshi Hecheng manufacturer.
+title: "Fruit Elevator | Factory Price & Line Quote"
+description: "Get factory pricing for fruit and bottle elevators used in edible oil and liquid packaging lines, with model selection and after-sales support."
 keywords: Elevator price, Elevator quote, Elevator manufacturer, Elevator supplier, procurement, after-sales
+image: "/images/filling-products/fruit-elevator.webp"
 ---
 # Hoist
 

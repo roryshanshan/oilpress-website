@@ -2,6 +2,7 @@
 title: Fully automatic corking machine Quote | Turnkey Solution
 description: Get a quote and turnkey plan for Fully automatic corking machine. Process design, equipment list, and after-sales support.
 keywords: Fully automatic corking machine quote, Fully automatic corking machine price, turnkey solution, production line, procurement
+image: "/images/filling-products/automatic-corking-machine.webp"
 ---
 # Fully automatic corking machine
 

@@ -1,7 +1,8 @@
 ---
-title: Stopper series
-description: The corking machine series is suitable for the cork or synthetic stopper pressing process of glass bottle products such as wine, fruit wine
+title: "Stoppering machine series | Specs, Models & Factory Quote"
+description: "Browse stoppering machine series for edible oil and liquid packaging lines. Compare models, capacity ranges, and request factory pricing with process guidance."
 keywords: Corking machine series, corking machine, cork pressing machine, wine corking equipment, glass bottle corking machine, gift box oil packaging equipment
+image: "/images/filling-solutions/corking.webp"
 ---
 
 # Stoppering machine series
