@@ -7,6 +7,14 @@ keywords: giá Thiết bị hỗ trợ, mua Thiết bị hỗ trợ, báo giá n
 
 ## Thiết bị xử lý trước
 
+### Máy sàng mè
+- Nguyên liệu: mè, cải dầu, hạt lanh, hạt tía tô, kê và các loại hạt nhỏ
+- Công dụng: sàng khô, hút bụi bằng gió và xả riêng từng nhóm vật liệu
+- Kết cấu: kín, hở lưới cố định và hở lưới tháo rời
+- Điện áp: một số cấu hình mẫu 60/80 có điện 220V hoặc 380V
+
+[Xem thông số chi tiết](/vi/products/sesame-screening-machine)
+
 ### Máy xay cao tốc 11Kw
 - Công suất: 11KW
 - Tốc độ quay: 1460r/min

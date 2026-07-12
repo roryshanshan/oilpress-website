@@ -13,6 +13,7 @@ Notre gamme d'équipements de prétraitement de graines oléagineuses fournit de
 
 ### Systèmes de nettoyage
 - Écrans vibrants
+- [Machine de tamisage du sésame](/fr/products/sesame-screening-machine) pour le nettoyage à sec du sésame, colza, lin et autres petites graines oléagineuses
 - Système de séparation par air
 - Séparateurs magnétiques
 - Machine d'élimination des pierres

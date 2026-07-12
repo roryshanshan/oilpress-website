@@ -1,5 +1,5 @@
 # SEO Audit Report
-Total markdown files: 1393
+Total markdown files: 1397
 
 ## Missing Frontmatter
 No frontmatter: 0

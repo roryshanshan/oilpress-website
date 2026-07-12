@@ -1207,6 +1207,7 @@ const ROUTE_LABELS = {
     advantages: 'Avantages',
     supporting: 'Équipements complémentaires',
     'pre-treatment': 'Équipements de prétraitement',
+    'sesame-screening-machine': 'Machine de tamisage du sésame',
     'post-treatment': 'Équipements de post-traitement',
     'filtration-equipment': 'Équipements de filtration',
     'refining-and-dewaxing-equipment': 'Équipements de raffinage et déparaffinage',
@@ -1245,6 +1246,7 @@ const ROUTE_LABELS = {
     advantages: 'Преимущества',
     supporting: 'Вспомогательное оборудование',
     'pre-treatment': 'Оборудование предварительной обработки',
+    'sesame-screening-machine': 'Машина для очистки кунжута',
     'post-treatment': 'Оборудование последующей обработки',
     'filtration-equipment': 'Фильтрационное оборудование',
     'refining-and-dewaxing-equipment': 'Оборудование для рафинирования и депарафинизации',
@@ -1283,6 +1285,7 @@ const ROUTE_LABELS = {
     advantages: 'Ưu điểm',
     supporting: 'Thiết bị hỗ trợ',
     'pre-treatment': 'Thiết bị tiền xử lý',
+    'sesame-screening-machine': 'Máy sàng mè',
     'post-treatment': 'Thiết bị hậu xử lý',
     'filtration-equipment': 'Thiết bị lọc dầu',
     'refining-and-dewaxing-equipment': 'Thiết bị tinh luyện và khử sáp',
@@ -1321,6 +1324,7 @@ const ROUTE_LABELS = {
     advantages: 'সুবিধাসমূহ',
     supporting: 'সহায়ক সরঞ্জাম',
     'pre-treatment': 'প্রি-ট্রিটমেন্ট সরঞ্জাম',
+    'sesame-screening-machine': 'তিল স্ক্রিনিং মেশিন',
     'post-treatment': 'পোস্ট-ট্রিটমেন্ট সরঞ্জাম',
     'filtration-equipment': 'ফিল্ট্রেশন সরঞ্জাম',
     'refining-and-dewaxing-equipment': 'রিফাইনিং ও ডিওয়াক্সিং সরঞ্জাম',
@@ -1831,6 +1835,42 @@ const PAGE_VIDEO_SCHEMA = {
     {
       name: 'Sesame screening machine working video',
       description: 'Shows sesame feeding, vibration screening, air dust removal and separate discharge for buyers comparing oilseed cleaner price and line configuration.',
+      slug: 'sesame-screening-machine-demo-202607',
+      uploadDate: '2026-07-12',
+      duration: 'PT77S'
+    }
+  ],
+  '/ru/products/sesame-screening-machine': [
+    {
+      name: 'Видео работы машины для очистки кунжута',
+      description: 'Показаны подача кунжута, вибрационное просеивание, воздушное удаление пыли и раздельная выгрузка для выбора модели и расчёта цены.',
+      slug: 'sesame-screening-machine-demo-202607',
+      uploadDate: '2026-07-12',
+      duration: 'PT77S'
+    }
+  ],
+  '/fr/products/sesame-screening-machine': [
+    {
+      name: 'Vidéo de la machine de tamisage du sésame',
+      description: 'Démonstration de l’alimentation, du tamisage vibrant, de l’aspiration des poussières et des sorties séparées pour comparer les modèles et les prix.',
+      slug: 'sesame-screening-machine-demo-202607',
+      uploadDate: '2026-07-12',
+      duration: 'PT77S'
+    }
+  ],
+  '/vi/products/sesame-screening-machine': [
+    {
+      name: 'Video máy sàng mè hoạt động',
+      description: 'Trình bày quá trình cấp mè, sàng rung, hút bụi bằng gió và xả riêng từng loại vật liệu để lựa chọn mẫu máy và nhận báo giá.',
+      slug: 'sesame-screening-machine-demo-202607',
+      uploadDate: '2026-07-12',
+      duration: 'PT77S'
+    }
+  ],
+  '/bn/products/sesame-screening-machine': [
+    {
+      name: 'তিল স্ক্রিনিং মেশিনের কাজের ভিডিও',
+      description: 'তিল ফিডিং, ভাইব্রেশন স্ক্রিনিং, বাতাসে ধুলো অপসারণ ও আলাদা আউটলেট দেখানো হয়েছে, যা মডেল নির্বাচন ও দাম তুলনায় সহায়ক।',
       slug: 'sesame-screening-machine-demo-202607',
       uploadDate: '2026-07-12',
       duration: 'PT77S'
@@ -3941,6 +3981,7 @@ s0.parentNode.insertBefore(s1,s0);
                       collapsed: false,
                       items: [
                         { text: 'Обзор', link: '/ru/products/pre-treatment' },
+                        { text: 'Машина для очистки кунжута', link: '/ru/products/sesame-screening-machine' },
                         { text: '11kw Высокоскоростной измельчитель', link: '/ru/products/11kw-high-speed-pulverizer' },
                         { text: '27kw Электрический паровар', link: '/ru/products/27kw-electric-steamer' },
                         { text: 'Интегрированная машина для измельчения и смешивания конопли и льна', link: '/ru/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine' },
@@ -4279,6 +4320,7 @@ s0.parentNode.insertBefore(s1,s0);
                       collapsed: false,
                       items: [
                         { text: 'Aperçu', link: '/fr/products/pre-treatment' },
+                        { text: 'Machine de tamisage du sésame', link: '/fr/products/sesame-screening-machine' },
                         { text: 'Pulvérisateur haute vitesse 11kw', link: '/fr/products/11kw-high-speed-pulverizer' },
                         { text: 'Vapeur électrique 27kw', link: '/fr/products/27kw-electric-steamer' },
                         { text: 'Machine intégrée de broyage et mélange de graines de chanvre et de lin', link: '/fr/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine' },
@@ -4585,6 +4627,7 @@ s0.parentNode.insertBefore(s1,s0);
                       collapsed: false,
                       items: [
                         { text: 'Tổng quan', link: '/vi/products/pre-treatment' },
+                        { text: 'Máy sàng mè', link: '/vi/products/sesame-screening-machine' },
                         { text: '11kw High Speed Pulverizer', link: '/vi/products/11kw-high-speed-pulverizer' },
                         { text: '27kw Electric Steamer', link: '/vi/products/27kw-electric-steamer' },
                         { text: 'Hemp and Flaxseed Grinding and Stirring Integrated Machine', link: '/vi/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine' },
@@ -4874,6 +4917,7 @@ s0.parentNode.insertBefore(s1,s0);
                       collapsed: false,
                       items: [
                         { text: 'ওভারভিউ', link: '/bn/products/pre-treatment' },
+                        { text: 'তিল স্ক্রিনিং মেশিন', link: '/bn/products/sesame-screening-machine' },
                         { text: '১১কিলোওয়াট উচ্চ গতির পিষক', link: '/bn/products/11kw-high-speed-pulverizer' },
                         { text: '২৭কিলোওয়াট বৈদ্যুতিক স্টিমার', link: '/bn/products/27kw-electric-steamer' },
                         { text: 'শণ এবং তিসি বীজ পিষণ এবং মিশ্রণ ইন্টিগ্রেটেড মেশিন', link: '/bn/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine' },

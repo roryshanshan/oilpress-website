@@ -11,7 +11,7 @@ Thiết bị xử lý trước là thành phần quan trọng trong dây chuyề
 
 ### Thiết bị lựa chọn
 - Máy lựa chọn bằng gió
-- Máy sàng lựa
+- [Máy sàng mè](/vi/products/sesame-screening-machine) để làm sạch khô mè, cải dầu, hạt lanh và các loại hạt dầu nhỏ
 - Máy loại đá
 
 ### Thiết bị sấy

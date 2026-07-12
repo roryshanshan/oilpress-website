@@ -7,6 +7,14 @@ keywords: Équipements auxiliaires prix, acheter Équipements auxiliaires, devis
 
 ## Équipements de prétraitement
 
+### Machine de tamisage du sésame
+- Matières : sésame, colza, lin, périlla, millet et autres petites graines
+- Fonction : tamisage à sec, aspiration des poussières et sorties séparées par fraction
+- Structures : fermée, ouverte à tamis fixe et ouverte à tamis amovible
+- Tension : certaines configurations des modèles 60/80 sont disponibles en 220 ou 380 V
+
+[Voir les spécifications détaillées](/fr/products/sesame-screening-machine)
+
 ### Broyeur à haute vitesse 11Kw
 - Puissance : 11KW
 - Vitesse : 1460tr/min
