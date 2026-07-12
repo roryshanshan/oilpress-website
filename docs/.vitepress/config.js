@@ -1129,6 +1129,7 @@ const ROUTE_LABELS = {
     advantages: 'Advantages',
     supporting: 'Supporting Equipment',
     'pre-treatment': 'Pre-treatment Equipment',
+    'sesame-screening-machine': 'Sesame Screening Machine',
     'post-treatment': 'Post-treatment Equipment',
     'filtration-equipment': 'Oil Filtration Equipment',
     'refining-and-dewaxing-equipment': 'Refining & Dewaxing Equipment',
@@ -1167,6 +1168,7 @@ const ROUTE_LABELS = {
     advantages: '优势',
     supporting: '配套设备',
     'pre-treatment': '预处理设备',
+    'sesame-screening-machine': '芝麻筛选机',
     'post-treatment': '后处理设备',
     'filtration-equipment': '过滤设备',
     'refining-and-dewaxing-equipment': '精炼与脱蜡设备',
@@ -1512,6 +1514,7 @@ const COLLECTION_ROUTES = {
       '/products/post-treatment'
     ],
     'pre-treatment': [
+      '/products/sesame-screening-machine',
       '/products/11kw-high-speed-pulverizer',
       '/products/27kw-electric-steamer',
       '/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine',
@@ -1813,6 +1816,24 @@ const PAGE_VIDEO_SCHEMA = {
       slug: 'peanut-oil-pressing-line-shipping-demo-20251105',
       uploadDate: '2025-11-05',
       duration: 'PT28S'
+    }
+  ],
+  '/zh/products/sesame-screening-machine': [
+    {
+      name: '芝麻筛选机工作视频',
+      description: '展示芝麻上料、振动筛选、风力除尘和多出口分离过程，适合比较芝麻筛选机价格、厂家供货和整线采购方案的客户参考。',
+      slug: 'sesame-screening-machine-demo-202607',
+      uploadDate: '2026-07-12',
+      duration: 'PT77S'
+    }
+  ],
+  '/en/products/sesame-screening-machine': [
+    {
+      name: 'Sesame screening machine working video',
+      description: 'Shows sesame feeding, vibration screening, air dust removal and separate discharge for buyers comparing oilseed cleaner price and line configuration.',
+      slug: 'sesame-screening-machine-demo-202607',
+      uploadDate: '2026-07-12',
+      duration: 'PT77S'
     }
   ],
   '/zh/products/11kw-high-speed-pulverizer': [
@@ -2905,6 +2926,7 @@ s0.parentNode.insertBefore(s1,s0);
                       collapsed: false,
                       items: [
                         { text: 'Overview', link: '/en/products/pre-treatment' },
+                        { text: 'Sesame Screening Machine', link: '/en/products/sesame-screening-machine' },
                         { text: '11kw High Speed Pulverizer', link: '/en/products/11kw-high-speed-pulverizer' },
                         { text: '27kw Electric Steamer', link: '/en/products/27kw-electric-steamer' },
                         { text: 'Flaxseed and Rapeseed Grinding and Stirring Integrated Machine', link: '/en/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine' },
@@ -3248,6 +3270,7 @@ s0.parentNode.insertBefore(s1,s0);
                       collapsed: false,
                       items: [
                         { text: '概述', link: '/zh/products/pre-treatment' },
+                        { text: '芝麻筛选机', link: '/zh/products/sesame-screening-machine' },
                         { text: '11kw高速粉碎机', link: '/zh/products/11kw-high-speed-pulverizer' },
                         { text: '27kw电蒸锅', link: '/zh/products/27kw-electric-steamer' },
                         { text: '胡麻亚麻籽研磨搅拌一体机', link: '/zh/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine' },

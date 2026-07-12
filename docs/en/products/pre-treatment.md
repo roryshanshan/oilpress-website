@@ -13,6 +13,7 @@ Our oil seeds pre-treatment equipment line provides comprehensive solutions for 
 
 ### Cleaning Systems
 - Vibrating screens
+- [Sesame Screening Machine](/en/products/sesame-screening-machine) for sesame, rapeseed, flaxseed and small oilseed dry cleaning
 - Air separation system
 - Magnetic separators
 - Stone removing machine

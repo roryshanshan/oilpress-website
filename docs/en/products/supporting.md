@@ -7,6 +7,14 @@ keywords: Supporting Equipment, oil press machine, oil press price, oil press qu
 
 ## Pre-treatment Equipment
 
+### Sesame Screening Machine
+- Suitable materials: sesame, rapeseed, flaxseed, perilla seed, millet and other small grains
+- Process role: dry screening, air dust removal and separate discharge for oversize, clean seed and fine material
+- Structure options: closed type, open fixed-screen type and open removable-screen type
+- Voltage options: selected Model 60 / Model 80 configurations support 220V or 380V
+
+[View detailed specifications](/en/products/sesame-screening-machine)
+
 ### 11Kw High-speed Pulverizer
 - Power: 11KW
 - Speed: 1460r/min
