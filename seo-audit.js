@@ -5,11 +5,36 @@ const root = process.cwd();
 const docsDir = path.join(root, 'docs');
 
 const TARGET_FIELDS = ['title', 'description', 'keywords'];
+const DUPLICATE_SOLUTION_DETAIL_RE = /^(en|zh|fr|ru|vi|bn)\/solutions\/(bottle-washing|brewing|cap-shrinking|corking|dairy-processing|drying|filling|filling-packages|filtering|fruit-veg-processing|labeling|laser-coding|light-inspection|packing-palletizing|sealing)\/(?!index\.md$)[^/]+\.md$/;
+const COMMERCIAL_INTENT_PATTERNS = {
+  en: /\b(price|quote|buy|purchase|procurement|manufacturer|factory|supplier|production line|after-sales)\b/i,
+  zh: /(价格|报价|采购|厂家|制造商|生产线|售后)/,
+  fr: /\b(prix|devis|achat|acheter|approvisionnement|fabricant|usine|fournisseur|ligne de production|service après-vente)\b/i,
+  ru: /(цена|стоимост|коммерческ.{0,12}предлож|купить|закуп|производител|завод|поставщик|производственн.{0,8}лини|сервис)/i,
+  vi: /(giá|báo giá|mua|thu mua|nhà sản xuất|nhà máy|nhà cung cấp|dây chuyền sản xuất|hậu mãi)/i,
+  bn: /(দাম|কোটেশন|ক্রয়|কিনুন|প্রস্তুতকারক|কারখানা|সরবরাহকারী|উৎপাদন লাইন|বিক্রয়োত্তর)/
+};
+
+function cleanScalar(value) {
+  return String(value || '').trim().replace(/^['"]|['"]$/g, '');
+}
+
+function isNoindexSourcePage(relPath, data) {
+  const robots = cleanScalar(data.robots).toLowerCase();
+  const noindex = cleanScalar(data.noindex).toLowerCase();
+  return robots === 'noindex'
+    || noindex === 'true'
+    || DUPLICATE_SOLUTION_DETAIL_RE.test(relPath)
+    || /^(en|zh|fr|ru|vi|bn)\/solutions\/peanut1\.md$/.test(relPath)
+    || /^(en|zh|fr|ru|vi|bn)\/products\/peanut\.md$/.test(relPath)
+    || /^(en|zh|fr|ru|vi|bn)\/translation-glossary\.md$/.test(relPath);
+}
 
 function walk(dir) {
   const out = [];
   const entries = fs.readdirSync(dir, { withFileTypes: true });
   for (const ent of entries) {
+    if (ent.name.startsWith('._')) continue;
     const full = path.join(dir, ent.name);
     if (ent.isDirectory()) out.push(...walk(full));
     else if (ent.isFile() && ent.name.endsWith('.md')) out.push(full);
@@ -62,13 +87,19 @@ function detectLang(relPath) {
   return 'root';
 }
 
+function isCommercialSeoTarget(relPath, data) {
+  return !isNoindexSourcePage(relPath, data)
+    && /^(en|zh|fr|ru|vi|bn)\/(products|solutions)\//.test(relPath);
+}
+
 const files = walk(docsDir);
 const report = {
   totalFiles: files.length,
   noFrontmatter: [],
   missing: { title: [], description: [], keywords: [] },
   length: { titleTooLong: [], descriptionTooLong: [] },
-  duplicates: { byLang: {} },
+  duplicates: { byLang: {}, descriptionsByLang: {} },
+  intent: { missingCommercialIntent: [] },
   yamlQuotedFixes: []
 };
 
@@ -93,19 +124,32 @@ for (const file of files) {
     }
   }
 
-  const title = data.title ? data.title.trim().replace(/^['"]|['"]$/g, '') : '';
-  const desc = data.description ? data.description.trim().replace(/^['"]|['"]$/g, '') : '';
+  const title = cleanScalar(data.title);
+  const desc = cleanScalar(data.description);
+  const keywords = cleanScalar(data.keywords);
+  const shouldIndex = !isNoindexSourcePage(rel, data);
+
+  if (isCommercialSeoTarget(rel, data)) {
+    const intentPattern = COMMERCIAL_INTENT_PATTERNS[lang];
+    if (intentPattern && !intentPattern.test(`${title} ${desc} ${keywords}`)) {
+      report.intent.missingCommercialIntent.push(rel);
+    }
+  }
 
   if (title) {
-    if (!titleMap[lang]) titleMap[lang] = {};
-    titleMap[lang][title] = titleMap[lang][title] || [];
-    titleMap[lang][title].push(rel);
+    if (shouldIndex) {
+      if (!titleMap[lang]) titleMap[lang] = {};
+      titleMap[lang][title] = titleMap[lang][title] || [];
+      titleMap[lang][title].push(rel);
+    }
     if (title.length > 65) report.length.titleTooLong.push(rel);
   }
   if (desc) {
-    if (!descriptionMap[lang]) descriptionMap[lang] = {};
-    descriptionMap[lang][desc] = descriptionMap[lang][desc] || [];
-    descriptionMap[lang][desc].push(rel);
+    if (shouldIndex) {
+      if (!descriptionMap[lang]) descriptionMap[lang] = {};
+      descriptionMap[lang][desc] = descriptionMap[lang][desc] || [];
+      descriptionMap[lang][desc].push(rel);
+    }
     if (desc.length > 160) report.length.descriptionTooLong.push(rel);
   }
 }
@@ -113,6 +157,11 @@ for (const file of files) {
 for (const [lang, map] of Object.entries(titleMap)) {
   const dups = Object.entries(map).filter(([, files]) => files.length > 1);
   if (dups.length) report.duplicates.byLang[lang] = dups.map(([title, files]) => ({ title, files }));
+}
+
+for (const [lang, map] of Object.entries(descriptionMap)) {
+  const dups = Object.entries(map).filter(([, files]) => files.length > 1);
+  if (dups.length) report.duplicates.descriptionsByLang[lang] = dups.map(([description, files]) => ({ description, files }));
 }
 
 // Write report
@@ -137,7 +186,30 @@ for (const [lang, dups] of Object.entries(report.duplicates.byLang)) {
   lines.push(`- ${lang}: ${dups.length} duplicates`);
 }
 lines.push('');
+lines.push('## Duplicate Descriptions (indexable pages by language)');
+if (!Object.keys(report.duplicates.descriptionsByLang).length) lines.push('No duplicate descriptions: 0');
+for (const [lang, dups] of Object.entries(report.duplicates.descriptionsByLang)) {
+  lines.push(`- ${lang}: ${dups.length} duplicates`);
+}
+lines.push('');
+lines.push('## Commercial Intent Coverage');
+lines.push(`Product/solution pages missing localized price, quote, procurement, manufacturer, production-line, or after-sales intent: ${report.intent.missingCommercialIntent.length}`);
+lines.push('');
 
 const reportPath = path.join(root, 'seo-audit-report.md');
 fs.writeFileSync(reportPath, lines.join('\n'), 'utf8');
 console.log(`Report written to ${reportPath}`);
+
+const duplicateTitleCount = Object.values(report.duplicates.byLang).reduce((sum, entries) => sum + entries.length, 0);
+const duplicateDescriptionCount = Object.values(report.duplicates.descriptionsByLang).reduce((sum, entries) => sum + entries.length, 0);
+if (
+  report.noFrontmatter.length
+  || TARGET_FIELDS.some((field) => report.missing[field].length)
+  || report.length.titleTooLong.length
+  || report.length.descriptionTooLong.length
+  || duplicateTitleCount
+  || duplicateDescriptionCount
+  || report.intent.missingCommercialIntent.length
+) {
+  process.exitCode = 1;
+}

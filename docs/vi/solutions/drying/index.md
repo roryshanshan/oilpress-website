@@ -1,54 +1,71 @@
 ---
-title: "Dòng máy sấy thổi | Model, thông số & báo giá nhà máy"
-description: Xem dòng máy sấy thổi cho dây chuyền dầu ăn và đóng gói lỏng. So sánh model và yêu cầu báo giá nhà máy.
-keywords: Dòng máy sấy thổi, máy sấy thổi chai, thiết bị sấy dao khí, sấy trước khi dán nhãn, máy sấy bao bì dầu ăn, thiết bị sấy dây chuyền chiết rót
+title: "Máy thổi khô chai | Giá và báo giá nhà sản xuất"
+description: "So sánh máy thổi khô kiểu dao khí và tay nhện trước dán nhãn. Xác nhận mẫu chai, lượng nước và giao diện dây chuyền để nhận báo giá."
+keywords: giá máy thổi khô chai, máy sấy chai dao khí, máy thổi khô tay nhện, thổi khô trước dán nhãn, báo giá nhà sản xuất, hậu mãi dây chuyền
 image: "/images/filling-solutions/drying.webp"
 ---
 
-# Dòng máy sấy thổi
+# Máy thổi khô bề mặt chai trong dây chuyền đóng gói
 
-![Ảnh chụp thực tế của máy sấy thổi bằng dao hơi](/images/filling-solutions/drying.webp)
+![Máy thổi khô chai bằng dao khí](/images/filling-solutions/drying.webp)
 
-Máy sấy thổi chủ yếu được sử dụng để loại bỏ nước dư, nước ngưng tụ hoặc chất lỏng kèm theo sau khi làm sạch bề mặt ngoài của chai. Đây là trạm đệm quan trọng giữa máy rửa chai và máy dán nhãn. Đối với dây chuyền đóng gói dầu ăn, việc thân chai có khô hay không sẽ ảnh hưởng trực tiếp đến hiệu quả bám dính của nhãn, độ rõ của mã in và hình thức thành phẩm.
+Thiết bị này loại nước bám bên ngoài chai trước khi dán nhãn, khắc mã, kiểm tra hoặc đóng thùng. Đây không phải máy sấy sản phẩm. Quyết định mua phụ thuộc vào hình dáng chai, vị trí đọng nước, tốc độ băng tải và mức khô mà công đoạn sau yêu cầu.
 
-## Vị trí ứng dụng phổ biến
+## Có thể đặt máy ở đâu
 
-1. Sau [dòng máy rửa](/vi/solutions/bottle-washing/)
-2. [Dòng máy chiết rót] (/vi/solutions/filling/) trước và sau
-3. Trước [dòng máy dán nhãn](/vi/solutions/filling/)
+- Sau súc rửa chai, trước chiết rót nếu cần làm khô mặt ngoài
+- Sau chiết rót hoặc thanh trùng và làm mát, trước dán nhãn
+- Sau vệ sinh ướt, trước khắc mã laser hoặc kiểm tra ngoại quan
+- Trước đóng thùng khi chỉ cần xử lý vùng cổ, vai hoặc đáy chai
 
-## Các tình huống áp dụng
+Vị trí phù hợp phụ thuộc vào nước nằm trong lòng chai, trên bề mặt ngoài hay kẹt quanh nắp. Không nên chọn máy khi chưa xác định rõ vùng cần khô.
 
-- Chai thủy tinh, chai PET, thùng và các loại bao bì đóng gói khác
-- Dòng sản phẩm chai phải khô trước khi dán nhãn
-- Xưởng có độ ẩm cao hoặc dây chuyền đóng gói liên tục sau khi rửa tốc độ cao
-- Dầu ăn, nước giải khát, rượu hoa quả, nước gia vị và các ngành công nghiệp chất lỏng khác
+## Dữ liệu chai và băng tải
 
-## Gợi ý lựa chọn
+- Chai thủy tinh hay PET, gân thân, vai và hốc đáy
+- Nhiệt độ chai và lượng nước bám dự kiến
+- Vùng phải khô để nhãn hoặc mã bám ổn định
+- Chiều rộng, cao độ và khoảng trống hai bên băng tải
+- Công suất thuần và khoảng cách giữa các chai
+- Giới hạn khí tiêu thụ, tiếng ồn và phương án thoát nước
 
-- Chọn hướng dao khí và chiều dài vùng sấy theo độ ổn định của hình dạng chai
-- Chọn cấu hình công suất quạt và lưu lượng không khí theo tốc độ dây chuyền sản xuất
-- Nếu trong chai có nhiều nước, cần ưu tiên xả và thoát nước mặt trước của chai một cách tối ưu và phù hợp với nhịp điệu.
-- Nếu bước tiếp theo là ghi nhãn có độ chính xác cao thì hiệu ứng sấy khô phải được liệt kê là điểm chấp nhận chính
+## Hai dòng máy hiện có
 
-## Mô hình tham chiếu điểm chuẩn
+| Model | Nội dung cần đối chiếu |
+| --- | --- |
+| [Máy thổi khô dao khí HG-2/HG-3](/vi/products/filling/turbo-air-knife-dryer) | Bố trí dao khí, vùng bao phủ chai và tích hợp băng tải |
+| [Máy thổi khô tay nhện HG-A/HG-B](/vi/products/filling/spider-arm-bottle-dryer) | Hướng tiếp xúc khí và khả năng thích ứng với hình dáng chai |
 
-Điều quan trọng nhất trong phần sấy khô là phạm vi thích ứng của loại chai và cấu hình thể tích không khí. Tên model có thể được nhập trực tiếp vào trang sản phẩm tương ứng.
+Thông số trên trang sản phẩm là dữ liệu tham khảo. Kết quả làm khô phải được xác nhận bằng mẫu chai, lượng nước và tiêu chí bề mặt thực tế.
 
-| Người mẫu | Trích đoạn thông số công khai | Hướng dẫn áp dụng |
-| --- | --- | --- |
-| [Máy sấy thổi dao khí tăng áp HG-2 / HG-3](/vi/solutions/labeling/) | 5000-8000 chai/giờ; 2-3 nhóm dao hơi; phù hợp với các loại bình Φ50-100 mm, H160-320 mm; miệng chai φ22-32 mm | Thích hợp để sấy khô trước khi dán nhãn tốc độ cao |
-| [Máy sấy thổi tiết kiệm năng lượng tay nhện HG-A / HG-B](/vi/solutions/drying/turbo-air-knife-dryer) | 6000-9000 chai/giờ; 5,5-7,5 kW; loại chai áp dụng Φ40-100 mm, H100-380 mm | Thích hợp cho các chai có hình dạng đặc biệt hoặc yêu cầu về thể tích không khí cao hơn |
+## Hạng mục ảnh hưởng đến giá
 
-## Truy cập trực tiếp vào các mô hình cụ thể
+- Máy độc lập hay máy kèm băng tải mới
+- Số lượng và vị trí cửa khí cho từng hình dáng chai
+- Quạt, lọc khí, vỏ che, thoát nước và giảm ồn
+- Thanh dẫn chai và chi tiết đổi cỡ
+- Giao diện với máy rửa, thanh trùng, dán nhãn hoặc khắc mã
+- Điện áp, đóng gói, vận chuyển, lắp đặt và chạy thử
 
-- [Máy sấy thổi dao khí Turbo](/vi/solutions/drying/spider-arm-bottle-dryer)
-- [Máy sấy thổi tiết kiệm năng lượng tay nhện](/vi/solutions/drying/turbo-air-knife-dryer)
-- [Tổng quan về thư viện thông số thiết bị chiết rót và đóng gói](/vi/solutions/drying/spider-arm-bottle-dryer)
+## Hồ sơ yêu cầu báo giá
 
-## Các trang liên quan
+Gửi bản vẽ và mẫu chai, ảnh vị trí đọng nước, công suất thuần, công đoạn ướt phía trước, yêu cầu bề mặt phía sau, kích thước băng tải, nguồn điện, mặt bằng và điểm giao hàng. Nêu rõ có dùng lại băng tải hiện hữu hay không và bên nào phụ trách thoát nước hoặc xử lý tiếng ồn.
 
-- [dòng máy rửa](/vi/products/filling-equipment)
-- [Dòng máy dán nhãn](/vi/solutions/bottle-washing/)
-- [Dòng máy mã hóa laser](/vi/solutions/labeling/)
-- [Tổng quan về các giải pháp hỗ trợ chiết rót](/vi/solutions/laser-coding/)
+## Nghiệm thu và dịch vụ sau giao hàng
+
+Nghiệm thu tại xưởng phải dùng chai được duyệt với phương pháp làm ướt đã thống nhất. Văn bản thử cần chỉ rõ vị trí kiểm tra giọt nước, thời gian chạy, mức dao động chai và cách đổi cỡ. Nhân công địa phương, đường ống, thoát nước, đi lại, đào tạo, phụ tùng quạt và thời gian phản hồi hậu mãi chỉ theo phạm vi hợp đồng.
+
+## Thiết bị liền kề
+
+- [Máy súc rửa chai](/vi/solutions/bottle-washing/)
+- [Máy dán nhãn](/vi/solutions/labeling/)
+- [Máy khắc mã laser](/vi/solutions/laser-coding/)
+- [Tổng quan dây chuyền đóng gói](/vi/solutions/filling-packages)
+
+## Nhận giá máy thổi khô chai
+
+Cung cấp mẫu chai và điều kiện công đoạn ướt để nhận cấu hình máy cùng báo giá nhà sản xuất chi tiết.
+
+- [Yêu cầu báo giá máy thổi khô chai](/vi/contact/)
+
+<!-- quote-cta -->

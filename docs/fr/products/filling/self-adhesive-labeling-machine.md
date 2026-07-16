@@ -1,26 +1,27 @@
 ---
-title: "Etiqueteuse autocollante entièrement automatique prix |…"
-description: Demandez le prix et le devis pour Etiqueteuse autocollante entièrement automatique. Fabricant Shengshi Hecheng, livraison et SAV.
-keywords: Etiqueteuse autocollante entièrement automatique prix, acheter Etiqueteuse autocollante entièrement automatique, devis usine, fabricant chinois, exportation, service après-vente
+title: "Étiqueteuse autocollante | Prix fabricant et devis"
+description: "Étiqueteuse autocollante automatique de 50 à 150 flacons/min pour bouteilles rondes. Le devis précise les formats, l'intégration, le prix et le SAV."
+keywords: "étiqueteuse automatique autocollante prix, devis étiqueteuse automatique autocollante, 50-150 flacons/min pour bouteilles rondes de diamètre 30-100 mm, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/self-adhesive-labeling-machine.webp"
 ---
-# Etiqueteuse autocollante entièrement automatique
 
-![Machine d'étiquetage auto-adhésive entièrement automatique](/images/filling-products/self-adhesive-labeling-machine.webp)
+# Étiqueteuse automatique pour bouteilles rondes
 
-L'étiqueteuse autocollante entièrement automatique peut être utilisée comme référence pour des modèles spécifiques de la série d'étiqueteuses. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+![Étiqueteuse automatique pour bouteilles rondes](/images/filling-products/self-adhesive-labeling-machine.webp)
 
-## Positionnement du modèle
+Cette étiqueteuse verticale pose des étiquettes autocollantes sur des bouteilles rondes compatibles en convoyage continu. La rondeur, le comportement du support et l'espacement des bouteilles influencent la position ; l'ensemble bouteille-étiquette doit être essayé.
 
-- Série : [Série de machines d'étiquetage](/fr/solutions/labeling/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#label-adhesive)
-- Scénarios applicables : convient pour l'étiquetage automatique auto-adhésif des bouteilles rondes.
+## Domaine d'application et critères d'achat
 
-## Résumé des informations publiques
+- Famille : [Série d'étiqueteuses](/fr/solutions/labeling/)
+- Repère technique : [Paramètres publiés de Étiqueteuse automatique pour bouteilles rondes](/fr/products/filling-equipment#label-adhesive)
+- Comparer diamètre, hauteur et panneau utile avec la plage publiée.
+- Préciser l'étiquetage partiel ou enveloppant et le besoin d'orientation.
+- Coordonner dateur, contrôle de présence et rejet avec la commande.
 
-L'étiqueteuse verticale de bouteilles rondes convient à l'étiquetage de bouteilles rondes dans les industries quotidiennes des cosmétiques, des boissons, des médicaments et d'autres industries.
+## Paramètres de référence publiés
 
-## Table des paramètres publics
+Le tableau ci-dessous est conservé comme repère de gamme. Les performances et la compatibilité finales doivent être confirmées dans l'offre technique et le protocole de réception.
 
 <table>
   <tbody>
@@ -54,14 +55,24 @@ L'étiqueteuse verticale de bouteilles rondes convient à l'étiquetage de boute
   </tbody>
 </table>
 
-## Suggestions complémentaires
+## Données nécessaires au devis fabricant
 
-- Premier coup d'oeil à la page de la série : [Série de machines d'étiquetage](/fr/solutions/labeling/)
-- Regardez à nouveau l'aperçu des paramètres : [La position de l'étiqueteuse auto-adhésive entièrement automatique dans la bibliothèque de paramètres](/fr/products/filling-equipment#label-adhesive)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+- Bouteilles de chaque format, tolérance de diamètre et surface.
+- Rouleaux, support, mandrin, sens, dimensions, pas et repères.
+- Cadence, convoyeur, espacement amont et interfaces aval.
+- Position, inclinaison, chevauchement ou écart, essais et pièces de format.
 
-## Pages connexes
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
+## Prix, livraison et périmètre SAV écrit
+
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
+
+## Équipements associés et prochaine étape
+
 - [Série d'étiqueteuses](/fr/solutions/labeling/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+- [Paramètres publiés de Étiqueteuse automatique pour bouteilles rondes](/fr/products/filling-equipment#label-adhesive)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Planification des lignes de production](/fr/solutions/production-lines)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

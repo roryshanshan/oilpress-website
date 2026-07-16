@@ -1,137 +1,71 @@
 ---
-title: Cottonseed (Cottonseed Oil) Solutions - Shengshi Hecheng цена ...
-description: "Запросите стоимость решения Cottonseed (Cottonseed Oil) Solutions - Shengshi Hecheng: проект линии, список оборудования и сервис."
-keywords: Cottonseed (Cottonseed Oil) Solutions цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
+title: "Хлопковое масло: подготовка, отжим, цена и КП"
+description: "Линия хлопкового масла: очистка, шелушение, кондиционирование, прессование, фильтрация и рафинация. Сверьте оборудование, цену производителя, КП и сервис."
+keywords: пресс для хлопковых семян, линия хлопкового масла, оборудование для хлопчатника, цена, купить, производитель, рафинация, сервис
 image: "/images/process-image-c32ca90dab.webp"
 ---
-# Cottonseed (Cottonseed Oil) Solutions
 
-## Overview
+# Линия производства хлопкового масла
 
-Cottonseed is an important oilseed crop, and cottonseed oil has extensive industrial and edible applications. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional cottonseed pressing solutions, offering complete equipment and services from small workshops to large factories.
+Неочищенные хлопковые семена содержат линт и значительную долю оболочки. Для пищевого масла требуются очистка от линта, обрушивание, кондиционирование, прессование или извлечение, фильтрация, рафинация и анализ продукта, а не только прямой холодный отжим.
 
-## Cottonseed Characteristics
+![Подготовка хлопковых семян к извлечению масла](/images/process-image-c32ca90dab.webp)
 
-### 📊 Basic Parameters
-- **Oil Content**: 35-45%
-- **Protein Content**: 20-25%
-- **Main Fatty Acids**: Linoleic acid (45-55%), Palmitic acid (20-25%), Oleic acid (15-20%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+## Граница сырья
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 150-180 days
-- **Suitable Climate**: Warm, dry areas
-- **Soil Requirements**: Fertile, well-drained soil
-- **Annual Production**: Global annual production exceeds 50 million tons
+Укажите опушённые семена, делинтированные семена, очищенные ядра или другую подготовленную фракцию. Нужны доли линта и оболочки, влажность, примеси, доступный анализ масла, хранение и назначение масла и шрота. Сырое хлопковое масло не становится пищевым только после прессования и фильтрации.
 
-## Processing Technology
+## Рекомендуемая подготовка
 
-### Traditional Process Flow
-Cottonseed processing technology (recommended 300AC-390/325AC-390/355AC-390/400AC-390)
-+ Step 1: Steaming
-+ Step 2: Grinding + stirring
-+ Step 3: Pressing
-+ ![Cottonseed processing technology](/images/process-image-c32ca90dab.webp)
+1. Очистить семена от камней, металла и посторонних включений.
+2. Удалить линт, если принимаются опушённые семена.
+3. Обрушить семена и отделить оболочку до согласованной степени.
+4. Раздробить или расплющить ядра.
+5. Провести влаготепловое кондиционирование для выбранного способа извлечения.
 
-## Equipment Recommendations
+## Прессование или специализированное извлечение
 
-### Recommended Equipment
-- **Cottonseed**: 300AC-390/325AC-390/355AC-390/400AC-390
+Для промышленной линии сравнивают непрерывное шнековое прессование, предварительный отжим и специализированный маршрут по объёму сырья, цели по маслу и ценности шрота. Гидравлическая проба может характеризовать подготовленные ядра, но не является полной стандартной схемой. Сырое масло поступает на удаление твёрдых частиц и этапы рафинации, заданные применимым стандартом готового продукта.
 
-## Technical Advantages
+### Оборудование для комплектации
 
-### 🎯 Precise Control
-- Temperature control: ±2℃ accuracy
-- Pressure control: Intelligent adjustment
-- Humidity control: Optimal moisture content
+- [Оборудование предварительной подготовки](/ru/products/pre-treatment)
+- [Машина предварительного прессования](/ru/products/pre-press-machine)
+- [Пневматический фильтр-пресс](/ru/products/pneumatic-filter-press)
+- Модели для испытаний подготовленного сырья: [355](/ru/products/355), [400](/ru/products/400), [426](/ru/products/426), [480](/ru/products/480) и [500](/ru/products/500)
+- [Оборудование рафинации пищевого масла](/ru/products/edible-oil-refining-equipment)
+- [Комплектные линии производства масла](/ru/solutions/production-lines)
 
-### 💧 Oil Quality Guarantee
-- Professional detoxification process
-- Physical pressing without chemical residues
-- Industry-leading oil yield (38-42%)
+## Фильтрация, рафинация и спецификация
 
-### 🔄 Continuous Production
-- 24-hour uninterrupted operation
-- Automated feeding and discharging
-- Intelligent fault alarm
+Определите сырое фильтрованное или рафинированное пищевое масло, содержание твёрдых частиц, цвет, запах, влажность, точки отбора и требуемый анализ госсипола. По проекту задают гидратацию, нейтрализацию, отбеливание, дезодорацию, резервуары и упаковку. Использование шрота или жмыха оценивают независимо.
 
-## Product Applications
+## Данные для расчёта и коммерческого предложения
 
-### 🍳 Edible Oil
-- Cottonseed oil: Edible after detoxification
-- Blended oil: Mixed with other oils
-- Special oil: Industrial oil
+- Образец опушённых, делинтированных семян или ядер; линт, оболочка, влажность, примеси, данные по маслу и госсиполу
+- Объём семян в час или сутки, сменность, автоматизация и использование линта, оболочки и шрота
+- Делинтирование, обрушивание, плющение, кондиционирование, прессование или извлечение и цель по сырому либо рафинированному маслу
+- Фильтрация, рафинация, анализы готового масла, резервуары и упаковка
+- Пар или тепло, электричество, транспортирование, площадь, пункт назначения и условия поставки
 
-### 🥛 By-products
-- Cottonseed meal: High-quality protein feed
-- Cottonseed protein: Food additives
-- Cottonseed phospholipids: Functional ingredients
+## Протокол испытания и приёмки
 
-### 🏭 Industrial Applications
-- Lubricating oil base oil
-- Biodiesel raw material
-- Chemical raw materials
+Записывают потери очистки, результат делинтирования и обрушивания, остаток оболочки, состояние хлопьев, влажность и температуру после кондиционирования, подачу либо загрузку, сырое и фильтрованное масло, оболочку и шрот или жмых. Точки отбора до и после рафинации обозначают в протоколе и прикладывают согласованные лабораторные результаты, включая госсипол, когда это применимо. Визуальная оценка у пресса не заменяет приёмку масла.
 
-## Market Analysis
+## Связанные страницы
 
-### 📈 Development Trends
-- Industrial oil demand growth
-- Biodiesel market expansion
-- By-product comprehensive utilization improvement
+- [Обзор решений](/ru/solutions/)
+- [Специальные масличные решения](/ru/solutions/special-oils)
+- [Касторовое масло](/ru/solutions/castor-seed)
+- [Масло из рисовых отрубей](/ru/solutions/rice-bran)
+- [Пресс серии 500](/ru/products/500)
+- [Связаться с техническим отделом](/ru/contact/)
+- [Страница на китайском языке](/zh/solutions/cottonseed)
 
-### 🎯 Target Markets
-- Edible oil processing enterprises
-- Feed processing enterprises
-- Chemical raw material enterprises
-- Biodiesel production enterprises
+## Запросить конфигурацию и цену
 
-## Quality Standards
+Отправьте точное состояние хлопковых семян, данные по линту и оболочке, суточный объём, требования к маслу и шроту, рафинации и анализам, параметры площадки и доставки.
 
-### 🏆 Product Quality Standards
-- Meets national cottonseed oil standards (GB 1538)
-- Meets food safety standards
-- Meets export food standards
-- Meets industrial oil standards
-
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color transparency testing
-- Heavy metal content testing
-- Aflatoxin testing
-- Gossypol content testing
-
-## Sustainable Development
-
-### 🌱 Environmental Production
-- Waste recycling utilization
-- Energy saving and emission reduction processes
-- Green production standards
-
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
-
-### 🌍 Social Responsibility
-- Support cotton farmer income increase
-- Ensure food safety
-- Protect ecological environment
-
-## Contact Us
-
-If you are interested in cottonseed pressing solutions, please contact our technical team:
-
-- 📞 **Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
-
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable cottonseed pressing solutions.
-
-## Запросить цену и расчёт
-
-Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
-
-- [Запросить цену и расчёт](/ru/contact/)
+- [Запросить расчёт линии хлопкового масла](/ru/contact/)
 
 <!-- quote-cta -->

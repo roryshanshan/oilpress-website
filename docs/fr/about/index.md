@@ -1,54 +1,38 @@
 ---
-title: "À propos | Fabricant de presses hydrauliques"
-description: "Shengshi Hecheng conçoit et fabrique des presses hydrauliques à huile et lignes d’huile comestible depuis 2008, avec projets dans 30+ pays."
-keywords: Shandong Shengshi Hecheng, fabricant d'équipements d'extraction d'huile, fabricant de presses à huile hydrauliques, équipements de traitement des oléagineux, R&D d'équipements d'extraction d'huile, production d'équipements d'extraction d'huile, entreprise de haute technologie, usine d'équipements d'extraction d'huile, fabricant de presses à huile, équipements d'extraction d'oléagineux, usine de production de presses à huile, machines de traitement des oléagineux
+title: "Fabricant de presses à huile | Vérifier avant achat"
+description: "Évaluez Shengshi Hecheng par les machines fabriquées, l'essai matière, le contrôle usine, les documents export et le devis contractuel."
+keywords: fabricant presse hydraulique, usine presse à huile, contrôle usine, essai matière, documents export, devis ligne huile, inspection avant expédition
 ---
 
-# À propos de nous
+# Fabricant de presses hydrauliques et lignes d'huile
 
-## Profil de l'entreprise
+Shandong Shengshi Hecheng Machinery Co., Ltd. conçoit et fabrique des presses hydrauliques et étudie les équipements nécessaires à une ligne de transformation d'huile. Pour un achat, l'évaluation doit porter sur la configuration proposée et sur des preuves liées à la machine commandée, non sur des chiffres généraux d'ancienneté, de capacité ou de couverture commerciale.
 
-Shandong Shengshi Hecheng Machinery Co., Ltd., fondée en 2008, est une entreprise de haute technologie spécialisée dans la recherche, le développement et la fabrication d'équipements d'extraction d'huile. Depuis plus de dix ans, nous nous sommes engagés dans la philosophie commerciale de « Qualité avant tout, développement axé sur l'innovation », nous nous efforçant de fournir à nos clients des équipements et solutions d'extraction d'huile de la plus haute qualité.
+## Périmètre de fabrication et d'intégration
 
-## Force de l'entreprise
+- Presses hydrauliques par lots avec différents formats de cuve et niveaux de commande
+- Prétraitement : nettoyage, broyage, séchage, cuisson ou torréfaction selon la matière
+- Séparation et finition : décantation, filtration, stockage, raffinage éventuel et conditionnement
+- Interfaces de ligne : alimentation, déchargement, tension, commande et implantation
 
-### Innovation R&D
-- Équipe R&D professionnelle
-- Brevets techniques multiples
-- Capacité d'innovation continue
-- Technologie de pointe de l'industrie
+Consultez les [modèles de presses](/fr/products/) et les [solutions par matière](/fr/solutions/) pour préparer la configuration.
 
-### Capacité de production
-- Base de production moderne
-- Processus de production standardisé
-- Contrôle qualité strict
-- Système de test complet
+## Vérifications avant commande
 
-### Réseau de service
-- Réseau de vente mondial
-- Service localisé
-- Support technique 24h/24 et 7j/7
-- Mécanisme de réponse rapide
+- Comparer la fiche du modèle, le dessin, la plaque signalétique prévue et la nomenclature
+- Réaliser un essai avec une matière représentative lorsque le rendement, le cycle ou le tourteau est déterminant
+- Définir les critères de réception : fonctionnement à vide, circuit hydraulique, accessoires, sécurité et documents
+- Prévoir une inspection avant expédition avec photos, vidéo ou présence d'un représentant selon le contrat
 
-## Culture d'entreprise
+## Documents et certificats
 
-### Mission
-Fournir des équipements de traitement d'huile de qualité pour la santé humaine
+Une mention ISO, CE, brevet ou qualification d'entreprise doit être vérifiée par une copie lisible indiquant titulaire, numéro, périmètre, dates et modèle concerné. Une certification de système ne couvre pas automatiquement chaque machine ni les exigences d'importation du pays de destination.
 
-### Vision
-Devenir le principal fabricant mondial d'équipements d'extraction d'huile
+- [Voir la liste des documents à vérifier](/fr/about/honors)
 
-### Valeurs fondamentales
-- Intégrité comme base
-- Innovation comme moteur
-- Qualité avant tout
-- Service orienté client
+## Préparer un projet export
 
-## Qualifications et honneurs
+Indiquez la matière, l'humidité, la préparation, la quantité par lot et par jour, le produit final, la tension, les contraintes du site, le pays de livraison et les documents d'importation attendus. Le devis doit préciser la configuration, l'emballage, les pièces, l'installation, la formation, la garantie et le périmètre SAV.
 
-- Certification du système de management de la qualité ISO9001
-- Certification de sécurité internationale CE
-- Entreprise nationale de haute technologie
-- Centre technologique d'entreprise provincial
-- Brevets d'invention multiples
-
+- [Contacter l'équipe commerciale et technique](/fr/about/team)
+- [Demander un essai matière et un devis usine](/fr/contact/)

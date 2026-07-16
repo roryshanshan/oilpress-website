@@ -1,33 +1,37 @@
 ---
-title: "Optimal Oil Pressing Processes for Different Oil Crops |…"
-description: "Different oil crops require tailored pretreatment and pressing parameters to reach high yield and desired oil quality. This guide summarizes recommend…"
+title: "Oil Pressing Processes by Crop | Equipment Selection Guide"
+description: "Compare pretreatment, hot-press, and cold-press routes for major oil crops, then use material and capacity needs to shortlist equipment and request quotes."
 keywords: oil extraction technology, oil press machine, oil processing knowledge, cold press oil, oil pressing process guide, hot pressing vs cold pressing, peanut oil pressing process, sesame pressing process
 date: "2023-01-25"
 ---
 
-# Optimal Oil Pressing Processes for Different Oil Crops
+# Oil Pressing Process References for Different Crops
 
 *Published: January 25, 2023*
 *Category: Technical Knowledge*
 
-Different oil crops require tailored pretreatment and pressing parameters to reach high yield and desired oil quality. This guide summarizes recommended practices for peanuts, sesame, rapeseed/canola, sunflower, soybean, cottonseed, and flaxseed.
+Different oil crops require tailored pretreatment and pressing windows. This guide provides starting references for peanuts, sesame, rapeseed/canola, sunflower, soybean, cottonseed, and flaxseed; it does not promise oil recovery, cake residual oil, product quality, or line capacity.
+
+::: warning Process values and acceptance
+Published moisture, particle-size, and temperature ranges are starting references only. A purchase or process trial must record the raw-material species and lot, pretreatment, particle-size distribution, feed moisture, batch mass, the complete cycle from feeding through conditioning, pressing, drainage, cake discharge, cleaning, and restart, plus the continuous test duration and allowed stops. FAT/SAT acceptance must define calibrated weighing, sampling and laboratory methods, dry- or wet-basis calculations, tolerances, utilities, and operator actions. Only written contract criteria are binding.
+:::
 
 ## General Principles
-- Moisture: 5–8% before pressing; 6–10% after conditioning improves plasticity.
-- Particle size: cracking or flaking to 0.25–0.35 mm for efficient heat transfer and cell rupture.
-- Conditioning: staged heating and moistening to denature proteins and improve elasticity.
+- Moisture starting reference: 5–8% before pressing and 6–10% after conditioning; confirm by crop and sample trial.
+- Particle-size starting reference: cracking or flaking to 0.25–0.35 mm; verify the distribution and measurement method.
+- Conditioning: use staged heating and moistening, then record the actual time, temperature, and moisture profile.
 - Pressing: appropriate temperature and pressure gradient for hot/cold pressing; consider second pressing or extraction as needed.
 
 ::: tip Quality & Safety
 - Clean and magnetically separate to remove metal contaminants.
 - Control high-temperature residence to avoid oxidation and dark color.
-- Record parameters to reproduce the best results consistently.
+- Record each batch so the agreed process window can be repeated and audited.
 :::
 
 ## Peanut
 - Pretreatment: dehull, grade, optional skin removal for lighter color and flavor; clean and de-iron.
 - Moisture & temperature: 7–9% after conditioning; hot press 110–130°C; cold press <60°C.
-- Notes: hot press yields and aroma; cold press preserves more nutrients; target cake residual 8–12% (hot press).
+- Notes: hot and cold routes produce different aroma, color, and recovery tradeoffs. Set any cake-residual-oil target only after representative trials, with the sampling location, dry/wet basis, laboratory method, and acceptance tolerance written into the contract.
 
 ## Sesame
 - Pretreatment: clean and lightly roast to enhance aroma; avoid over-roasting.
@@ -35,7 +39,7 @@ Different oil crops require tailored pretreatment and pressing parameters to rea
 - Notes: temperature and flake fineness drive aroma release and pressing rate.
 
 ## Rapeseed/Canola
-- Pretreatment: clean, crack, soften, flake; low-erucic, low-glucosinolate varieties improve flavor and stability.
+- Pretreatment: clean, crack, soften, and flake; raw-material variety affects flavor, composition, and storage behavior.
 - Moisture & temperature: 7–9%; hot press 110–125°C.
 - Notes: proper conditioning reduces green/pungent notes; control cake strength for second pressing/extraction.
 
@@ -65,6 +69,5 @@ Different oil crops require tailored pretreatment and pressing parameters to rea
 - Optimization: small-batch trials and DOE to tune conditioning time/temperature, moisture, flake thickness, screw speed, and backpressure.
 
 ::: info Equipment-Process Synergy
-Shengshi Hecheng offers crop-specific parameter packages and equipment selection (hot/cold pressing, single/double screw, pre-press + extraction), along with on-site commissioning and training to help you reach stable high output quickly.
+Shengshi Hecheng can prepare a written equipment quotation for hot/cold pressing, single/double screw, or pre-press plus extraction routes. The quotation and contract should identify the manufacturer, configuration, capacity basis, FAT/SAT protocol, spare parts, warranty, and after-sales response boundary. Remote support and any on-site commissioning or training require written confirmation of region, travel, visas, lodging, fees, duration, work content, buyer utilities, and acceptance responsibilities; unlisted services are not included, and no output or recovery result is guaranteed outside the signed test criteria.
 :::
-

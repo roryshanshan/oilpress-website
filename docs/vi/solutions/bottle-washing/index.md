@@ -1,74 +1,73 @@
 ---
-title: "Dòng máy súc rửa chai | Model, thông số & báo giá nhà máy"
-description: Xem dòng máy súc rửa chai cho dây chuyền dầu ăn và đóng gói lỏng. So sánh model và yêu cầu báo giá nhà máy.
-keywords: Dòng máy rửa chai, thiết bị rửa chai rỗng, máy rửa dầu ăn, máy rửa chai thủy tinh, thiết bị làm sạch chai PET, thiết bị tiền xử lý rót
+title: "Máy súc rửa chai | Giá và báo giá dây chuyền"
+description: "So sánh máy súc rửa chai thủy tinh và PET theo mẫu chai, môi chất rửa, cách thoát nước và giao diện máy chiết để nhận báo giá nhà sản xuất."
+keywords: giá máy súc rửa chai, nhà sản xuất máy rửa chai, rửa chai thủy tinh, rửa chai PET, báo giá dây chuyền chiết rót, mua máy rửa chai
 image: "/images/filling-solutions/bottle-washing.webp"
 ---
 
-# Dòng máy súc rửa chai
+# Máy súc rửa chai cho dây chuyền chiết rót
 
-![Ảnh chụp thực tế máy rửa chai quay](/images/filling-solutions/bottle-washing.webp)
+![Máy súc rửa chai dạng quay](/images/filling-solutions/bottle-washing.webp)
 
-Máy rửa chai là thiết bị cơ bản ở phần trước của dây chuyền chiết rót. Nó chủ yếu được sử dụng để làm sạch, loại bỏ bụi và xử lý vệ sinh các chai rỗng trước khi đóng chai, giúp giảm tạp chất, vết nước và cặn bẩn trong chai. Đối với các mặt hàng như dầu ăn, dầu hương liệu đóng gói nhỏ, đồ uống và rượu hoa quả, quá trình tráng rửa ảnh hưởng trực tiếp đến độ ổn định của lần chiết rót tiếp theo và hình thức bên ngoài của thành phẩm.
+Súc rửa là công đoạn đầu tiên tiếp xúc trực tiếp với bao bì trong nhiều dây chuyền đóng chai. Kiểu máy phù hợp phụ thuộc vào chai thực tế, loại bụi bẩn cần loại bỏ, môi chất rửa và trạng thái chai khi đi vào máy chiết. Vì vậy, báo giá nên dựa trên mẫu chai và giao diện toàn tuyến, không chỉ dựa trên công suất danh nghĩa.
 
-## Chức năng trên toàn dòng
+## Vị trí trong dây chuyền
 
-- Cải thiện độ sạch của chai rỗng và giảm tạp chất xâm nhập vào khu vực chiết rót
-- Cung cấp các điều kiện tiên quyết ổn định cho quá trình chiết rót, dán nhãn và dán nhãn tiếp theo
-- Giảm biến động hiệu quả và rủi ro vệ sinh do xả nước thủ công
-- Thích hợp để liên kết với máy sấy, máy chiết rót và các mô-đun khác để tạo thành một bộ phận xử lý đầu cuối
+Trình tự thường gặp:
 
-## Các dạng cấu hình phổ biến
+**Cấp chai rỗng → súc rửa → để ráo hoặc thổi khô → chiết rót → đóng nắp hoặc niêm phong**
 
-- Máy rửa chai dạng lật: thích hợp để rửa liên tục các loại chai lọ thông thường
-- Máy rửa dạng phun: thích hợp cho các dây chuyền đóng chai có yêu cầu độ sạch cao hơn
-- Thiết bị rửa không khí/rửa không khí: phù hợp với những trường hợp bạn không muốn hơi ẩm đọng lại trong chai
-- Cấu trúc liên kết đa trạm: có thể kết nối trực tiếp với khâu sấy và chiết rót
+Với chai thủy tinh hoặc PET mới, yêu cầu có thể chỉ là loại bụi và súc bên trong. Chai thu hồi hoặc chai bẩn nặng cần quy trình rửa riêng đã được xác nhận. Không nên coi máy súc rửa thông thường là thiết bị tiệt trùng hoặc máy rửa chai tái sử dụng nếu chức năng đó không được thiết kế và ghi rõ trong báo giá.
 
-## Các tình huống áp dụng
+## Điều kiện chai và quá trình cần xác nhận
 
-- Dầu lạc, dầu hạt cải, dầu đậu nành, dầu mè và các dây chuyền đóng chai dầu ăn khác
-- Chai thủy tinh, chai PET, chai dầu hộp quà cỡ nhỏ
-- Bao bì bán lẻ các mặt hàng nhạy cảm với bụi, mảnh vụn và vết nước bên trong chai
-- Khu sơ chế các sản phẩm dạng lỏng như đồ uống, rượu hoa quả, gia vị,..
+- Vật liệu thủy tinh hay PET, hình dáng, miệng chai, độ ổn định của đáy và giới hạn trầy xước
+- Chai mới, chai tái sử dụng hoặc chai có loại bụi bẩn đã xác định
+- Nước, nước đã xử lý, khí hoặc môi chất rửa khác được phê duyệt
+- Yêu cầu lật chai, thời gian tiếp xúc, thoát nước và lượng nước còn lại
+- Số loại chai, tần suất đổi cỡ và không gian thao tác
+- Thu gom, lọc hoặc xả nước thải thuộc phạm vi của bên nào
 
-## Gợi ý lựa chọn
+## Các model để so sánh
 
-- Đầu tiên hãy xác nhận chất liệu chai và phạm vi kích thước. Phương pháp làm sạch chai thủy tinh và chai nhựa không hoàn toàn giống nhau.
-- Nếu việc dán nhãn được thực hiện trực tiếp trong tương lai, nên xem xét đồng thời [dòng máy sấy thổi] (/vi/solutions/drying/) để giảm lượng nước dư trên chai
-- Nếu dự án là đường dây tốc độ cao thì nên ưu tiên khớp nhịp của [Dòng máy chiết rót] (/vi/solutions/filling/)
-- Nếu tiêu chuẩn vệ sinh sản phẩm cao có thể bổ sung thêm dung dịch nước lọc tuần hoàn hoặc không khí rửa không dùng nước
+| Model | Trọng tâm khi chọn mua |
+| --- | --- |
+| [Máy súc rửa chai quay QSP-6A](/vi/products/filling/rotary-bottle-washer) | Cách quay, chuyển chai và kết nối với dây chuyền |
+| [Máy rửa chai sáu bánh QSP](/vi/products/filling/six-wheel-bottle-washer) | Cơ cấu bánh, phạm vi chai và cách dẫn hướng |
+| [Máy súc rửa chai kiểu lật](/vi/products/filling/flip-bottle-washer) | Góc lật, thoát nước và đỡ thân chai |
+| [Máy rửa chai băng xích](/vi/products/filling/chain-bottle-washer) | Bố trí băng tải và hành trình chai liên tục |
+| [Máy súc rửa chai gián đoạn QSP](/vi/products/filling/intermittent-bottle-washer) | Chu kỳ định vị và đồng bộ thiết bị trước sau |
 
-## Mối quan hệ phù hợp điển hình
+Thông số công bố nằm trên từng trang sản phẩm. Việc chọn model cuối cùng phải căn cứ vào chai được duyệt và cơ sở công suất của toàn tuyến.
 
-1. Nạp chai rỗng
-2. Rửa sạch bình sữa
-3. [Dòng máy sấy thổi](/vi/solutions/drying/)
-4. [Dòng máy chiết rót](/vi/solutions/filling/)
-5. [Dòng máy niêm phong](/vi/solutions/drying/)
+## Yếu tố làm thay đổi giá mua
 
-## Mô hình tham chiếu điểm chuẩn
+- Máy rửa độc lập hay cụm liên kết cơ khí với máy chiết
+- Nạp chai thủ công, băng tải cấp chai hay nối với máy gỡ rối chai hiện có
+- Số cỡ chai và bộ chi tiết chuyển đổi đi kèm
+- Bể, bơm, lọc, đường xả, che chắn và mạch nước rửa
+- Chiều dài băng tải, đoạn tích chai và giao tiếp điều khiển
+- Điện áp, đóng gói xuất khẩu, điều kiện giao hàng và phạm vi lắp đặt
 
-Các đoạn trích thông số sau đây được sắp xếp theo các trang công khai và phù hợp để so sánh nhanh về phạm vi loại chai, thời gian chu kỳ và mức tiêu thụ nước. Tên model có thể vào trực tiếp trang sản phẩm độc lập.
+## Dữ liệu cần gửi để nhận báo giá
 
-| Người mẫu | Trích đoạn thông số công khai | Hướng dẫn áp dụng |
-| --- | --- | --- |
-| [Máy rửa bình quay QSP-6A](/vi/solutions/filling/) | 6000 thùng/giờ; 1,85 mã lực; đường kính chai ∅40-∅110 mm; chiều cao chai 120-320 mm; tiêu thụ nước 1,5 m3/h | Thích hợp để rửa liên tục các chai thông thường |
-| [Máy rửa bình sáu bánh QSP-6A / QSP-6B](/vi/solutions/sealing/) | 3000-7000 chai/giờ; 1,85-2,2 kW; đường kính chai áp dụng ∅50-100 mm; chiều cao chai 100-320 mm | Thích hợp cho chai thủy tinh tốc độ trung bình hoặc Dòng chai PET |
-| [Máy rửa bình dạng lật QCP-18H~QSP-60H](/vi/solutions/bottle-washing/rotary-bottle-washer) | 3000-12000 trang/giờ; 18-60 đầu; chiều cao chai 160-320 mm; đường kính chai ∅60-100 mm; tiêu thụ nước 0,7-4,4 m3/h | Thích hợp cho các tình huống xả bên trong có độ sạch cao |
+Gửi bản vẽ hoặc mẫu chai, chi tiết nắp, công suất thuần mục tiêu, môi chất rửa, mô tả bụi bẩn, thiết bị cấp chai, máy chiết phía sau, tiện ích, mặt bằng và nơi giao hàng. Nêu rõ xử lý nước, thổi khô chai và nước thải có nằm trong phạm vi cung cấp hay không.
 
-## Truy cập trực tiếp vào các mô hình cụ thể
+## Nghiệm thu và ranh giới hậu mãi
 
-- [Máy súc rửa quay](/vi/solutions/bottle-washing/six-wheel-bottle-washer)
-- [Máy súc rửa sáu bánh](/vi/solutions/bottle-washing/flip-bottle-washer)
-- [Máy giặt chai loại ray xích](/vi/solutions/bottle-washing/rotary-bottle-washer)
-- [Máy súc rửa gián đoạn](/vi/solutions/bottle-washing/six-wheel-bottle-washer)
-- [Máy rửa bình dạng lật](/vi/solutions/bottle-washing/chain-bottle-washer)
-- [Tổng quan về thư viện thông số thiết bị chiết rót và đóng gói](/vi/solutions/bottle-washing/intermittent-bottle-washer)
+Nghiệm thu tại xưởng cần dùng dải chai đã thống nhất và phương pháp thử bằng văn bản. Kiểm tra chuyển chai, vùng súc rửa, thoát nước, vỡ hoặc kẹt chai, đổi cỡ và tín hiệu liên động. Nhân công lắp đặt, đi lại, chạy thử, đào tạo, phụ tùng khuyến nghị và phương thức hỗ trợ chỉ được tính là bao gồm khi ghi trong báo giá hoặc hợp đồng.
 
-## Các trang liên quan
+## Công đoạn liên quan
 
-- [Tổng quan về các giải pháp hỗ trợ chiết rót](/vi/solutions/bottle-washing/flip-bottle-washer)
-- [Dòng máy sấy thổi](/vi/products/filling-equipment)
-- [Dòng máy chiết rót](/vi/solutions/filling-packages)
-- [Liên hệ với chúng tôi để được tư vấn đầy đủ về dòng](/vi/solutions/drying/)
+- [Máy thổi khô chai](/vi/solutions/drying/)
+- [Máy chiết rót chất lỏng](/vi/solutions/filling/)
+- [Máy soi kiểm tra chai](/vi/solutions/light-inspection/)
+- [Tổng quan dây chuyền chiết rót và đóng gói](/vi/solutions/filling-packages)
+
+## Yêu cầu giá máy súc rửa chai
+
+Gửi mẫu chai và dữ liệu dây chuyền để nhận đề xuất model, danh mục cung cấp và báo giá nhà sản xuất theo từng hạng mục.
+
+- [Yêu cầu báo giá dây chuyền súc rửa chai](/vi/contact/)
+
+<!-- quote-cta -->

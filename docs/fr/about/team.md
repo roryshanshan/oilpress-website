@@ -1,42 +1,30 @@
 ---
-title: Team Introduction - Shandong Shengshi Hecheng Machinery Co., Ltd.
-description: Shandong Shengshi Hecheng team introduction, leadership team, technical team, sales and service team, corporate culture, Sales Director Gavin Lee
-keywords: Team introduction, Leadership team, Technical team, Sales and service team, Corporate culture, Sales director, Engineering team, Mechanical design engineer, Electrical automation engineer, Process engineer, Quality engineer, Shandong Shengshi Hecheng team
+title: "Équipe commerciale et technique | Contact fabricant"
+description: "Contactez l'équipe Shengshi Hecheng pour la sélection d'une presse hydraulique, l'étude de procédé, le devis usine et le service après-vente."
+keywords: équipe presse à huile, contact fabricant, ingénieur procédé, devis usine, achat machine, service après-vente
 ---
+# Équipe commerciale et technique
 
-# Team Introduction
+Un projet de presse à huile mobilise la vente export, l'étude mécanique, l'automatisation, le procédé et le service après-vente. L'objectif est de transformer les données de matière et de production en une configuration chiffrable.
 
-## Leadership Team
+## Contact commercial
 
-### Gavin Lee - Sales Director
+### Gavin Lee - Directeur commercial
 
-With 15 years of experience in the oil processing equipment industry, proficient in international trade and customer relationship management. Graduated from Shandong University with a degree in Business Administration.
+Gavin Lee centralise les demandes internationales, les informations nécessaires au devis et les échanges avec l'équipe technique.
 
-**Contact Information:**
-- 📱 WeChat/WhatsApp: +8619906365856
-- 📧 Email: gavin@oil-pressing-machine.com
+- WeChat / WhatsApp : +86 199 0636 5856
+- E-mail : gavin@oil-pressing-machine.com
 
-## Technical Team
+## Fonctions de l'équipe technique
 
-### Senior Engineering Team
+- **Conception mécanique** : structure de la presse, cuves, implantation et interfaces entre machines
+- **Automatisation électrique** : tension, commande, protections et intégration de ligne
+- **Procédé** : nettoyage, broyage, préparation à chaud ou à froid, filtration et essais matière
+- **Contrôle avant expédition** : vérification de la configuration convenue et préparation des documents
 
-The company has an experienced team of engineers with an average of over 10 years of industry experience. Key members include:
+## Préparer un échange efficace
 
-- **Mechanical Design Engineers**: Responsible for equipment structural design and optimization
-- **Electrical Automation Engineers**: Responsible for control system development
-- **Process Engineers**: Responsible for production process improvement
-- **Quality Engineers**: Responsible for product quality control
+Envoyez la matière exacte, des photos ou un échantillon, l'humidité, la quantité par lot ou par jour, le produit final, la tension et le pays de livraison. L'équipe pourra alors comparer les [presses hydrauliques](/fr/products/), les [solutions par matière](/fr/solutions/) et les équipements complémentaires.
 
-## Sales and Service Team
-
-### Professional Sales Team
-
-Sales and service teams distributed across the country, providing timely technical support and after-sales service to customers.
-
-### International Market Team
-
-Dedicated international market development team, familiar with international trade regulations and customer needs.
-
-## Corporate Culture
-
-We focus on talent development, regularly conduct technical training and team building activities, and create a learning organization.
+- [Demander une sélection et un devis fabricant](/fr/contact/)

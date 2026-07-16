@@ -1,28 +1,27 @@
 ---
-title: "Intelligent quantitative filling machine | Factory Price &…"
-description: Get price, procurement, and after-sales support for Intelligent quantitative filling machine from Shengshi Hecheng manufacturer.
-keywords: Intelligent quantitative filling machine price, Intelligent quantitative filling machine quote, Intelligent quantitative filling machine manufacturer, Intelligent quantitative filling machine supplier, procurement, after-sales
+title: "DK Intelligent Quantitative Filler | Manufacturer Quote"
+description: "Compare DK-12 to DK-36 quantitative fillers for 4,000-13,000 bottles/hour, with factory pricing and capping-line integration support."
+keywords: "DK intelligent quantitative filling machine price, DK intelligent quantitative filling machine manufacturer quote, DK filling machine, 4000-13000 bottles per hour, automatic filling capping line, complete line integration, export packing, commissioning, after-sales service"
 image: "/images/filling-products/intelligent-quantitative-filling-machine.webp"
 ---
-# Intelligent quantitative filling machine
 
-![Intelligent quantitative filling machine](/images/filling-products/intelligent-quantitative-filling-machine.webp)
+# Intelligent Quantitative Filling and Capping Line
 
-The intelligent quantitative filling machine emphasizes the linkage between filling and subsequent capping, buckling, and capping actions. One piece of equipment can cover multiple actions, and is suitable for automated lines that want to reduce intermediate manual intervention and the risk of secondary contamination.
+![Intelligent Quantitative Filling and Capping Line](/images/filling-products/intelligent-quantitative-filling-machine.webp)
 
-## Model positioning
+The DK series links quantitative filling with the cap-handling and closing functions specified for the project. It is relevant when the buyer wants fewer manual transfers after filling, but the actual scope of cap lifting, sorting, placing and sealing must be itemized in the quotation.
 
-- Series: [Filling Machine Series](/en/solutions/filling/)
-- Parameter overview entrance: [Filling and packaging equipment parameter library](/en/products/filling-equipment#fill-dk)
-- Applicable scenarios: Suitable for automatic lines that link lid lifting, cap sorting, cap buckling and cap sealing after filling.
+## Application and purchasing fit
 
-## Summary of public information
+- Product family: [Filling machine series](/en/solutions/filling/)
+- Parameter reference: [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+- Select the number of heads against the agreed bottle, fill volume and line requirement.
+- Confirm which closure devices are included and whether each cap format needs dedicated tooling.
+- Review fault recovery and buffer space between filling, cap handling and the downstream conveyor.
 
-- Compact structure, suitable for automation upgrade projects
-- Override `DK-12` to `DK-36` models
-- Reference efficiency `4000-13000 bottles/hour`
+## Published reference parameters
 
-## Public parameter table
+The following table is retained as the published model reference. Final performance and compatibility must be confirmed in the written quotation and acceptance specification.
 
 | Model | Production efficiency (bottles/hour) | Filling accuracy (ml) | Applicable bottle types | Machine power (kW) | Overall dimensions (mm) |
 | --- | --- | --- | --- | --- | --- |
@@ -32,20 +31,25 @@ The intelligent quantitative filling machine emphasizes the linkage between fill
 | DK-30 | 10000 | 500±1 | Bottle height 100-320 mm; bottle diameter 50-100 mm | 2.2 | 2100×2000×2350 |
 | DK-36 | 13000 | 500±1 | Bottle height 100-320 mm; bottle diameter 50-100 mm | 3 | 2200×2200×2350 |
 
-## How to choose
+## What to provide for a manufacturer quotation
 
-- `DK-12 / DK-18`: suitable for start-up automatic lines or small and medium batch projects
-- `DK-24 / DK-30`: suitable for standardized main production lines
-- `DK-36`: suitable for projects with higher production capacity and more complete back-end automation
+- Product properties, fill range, bottle and cap samples, and all planned package formats.
+- Required filling tolerance, sustained rate and cleaning or product-change procedure.
+- Cap supply method, orientation, closing or sealing requirement and closure acceptance tests.
+- Layout, utilities, controls interfaces, FAT plan and installation or training requested.
 
-## Supporting suggestions
+Use representative samples for the factory acceptance test whenever practical. The agreed test material, run duration, sampling method and pass limits should be written into the purchase specification.
 
-- If you prefer simple high-speed filling, you can check out [Series Smart Filling Machine](/en/products/filling/smart-filling-machine)
-- If you prefer high-precision quantitative filling, you can compare [high-precision quantitative filling machine](/en/products/filling/high-precision-filling-machine)
-- When planning the entire line, you can continue to read [Filling Package Overview](/en/solutions/filling-packages)
+## Price, delivery, and written service scope
 
-## Related pages
+Manufacturer pricing depends on the confirmed machine configuration, format parts, controls, guarding, line interfaces, utilities and destination. Delivery schedule, export packing, installation, commissioning, training, spare parts and after-sales support apply only as stated in the written quotation and contract.
 
-- [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+## Related equipment and next step
+
 - [Filling machine series](/en/solutions/filling/)
-- [Contact us for complete line advice](/en/contact/)
+- [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+- [Intelligent bottle filling machine series](/en/products/filling/smart-filling-machine)
+- [High-precision quantitative filling machine](/en/products/filling/high-precision-filling-machine)
+- [Filling and packaging line overview](/en/solutions/filling-packages)
+- [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+- [Request a configuration-based manufacturer quotation](/en/contact/)

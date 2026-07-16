@@ -1,78 +1,86 @@
 ---
-title: Filling Packages Overview | Equipment List & Factory Quote
-description: Get a turnkey plan for Filling Packages Overview, including process design, equipment list, factory quote, procurement support, and after-sales service.
-keywords: Filling Packages Overview quote, Filling Packages Overview production line, equipment list, turnkey solution, factory procurement, after-sales service
+title: "Filling & Packaging Lines | Equipment List & Quote"
+description: "Plan a complete liquid filling and packaging line from container preparation to palletizing. Define package, output and service scope for a factory quote."
+keywords: filling packaging line price, complete bottling line manufacturer, edible oil packaging equipment quote, turnkey filling line procurement, packaging line equipment list, installation and after sales
+image: "/images/filling-solutions/filling.webp"
 ---
-# Filling Packages Overview
 
-This page provides an overview of our filling line solutions for bottled, bagged and drum-packed edible oils and specialty oils. The solutions cover dosing, capping, labeling, case packing and online inspection.
+# Filling and packaging line solutions
 
-## Overview
+![Liquid filling and packaging line equipment](/images/filling-solutions/filling.webp)
 
-Based on extensive experience in oil processing and packaging, we provide turnkey solutions from raw material intake to finished product storage. Solutions can be customized by capacity, package type and automation level — from economical semi-automatic lines for small workshops to high-speed fully automatic intelligent lines for modern factories.
+This overview is for buyers planning a connected line rather than a single machine. It links container preparation, product supply, filling, closure, inspection, labeling, coding, case packing and palletizing around one approved package and production basis. The final equipment price depends on the agreed boundary and interfaces, not on a generic turnkey label.
 
-## Main Modules
+## Define the line boundary first
 
-- Raw material handling & pretreatment
-- Filling machines (weight/volume/flowmeter based)
-- Metering & supply systems
-- Capping/sealing units
-- Labeling/inkjet coding
-- Case packing/shrink wrap/palletizing
-- Online inspection (weight, leak, foreign object, label)
-- Conveying and buffering systems
-- Central control & data acquisition (PLC/SCADA)
+A complete project can begin and end at different points:
 
-## Typical Models & Capacity
+- Product tank outlet to filled and closed bottle
+- Empty bottle infeed to labeled retail package
+- Filtered edible oil to sealed carton
+- Clarified wine to corked, capsule-finished bottle
+- Packed cartons to a specified pallet pattern
 
-- Low-speed semi-auto: 300–1,000 bottles/hour
-- Mid-speed semi-auto: 1,000–3,000 bottles/hour
-- High-speed fully automatic: 3,000–20,000 bottles/hour (depends on bottle type and metering)
+Utilities, building work, water treatment, product tanks, laboratory work, warehouse handling and local compliance support are included only when separately listed.
 
-## Process Flow Example
+## Typical process architecture
 
-1. Feeding & filtration -> 2. Metering supply -> 3. Dosing/filling -> 4. Capping -> 5. Labeling/coding -> 6. Vision/weight inspection -> 7. Packing & palletizing -> 8. Finished goods storage
+**Container supply -> rinsing -> draining or drying -> filling -> capping, sealing or corking -> inspection -> labeling and coding -> case packing -> palletizing**
 
-## Technical Highlights
+Not every line needs every module. The correct sequence changes with bottle material, closure, product hygiene, label type, case format and the amount of automation required.
 
-- High-precision dosing: weight or volumetric systems, filling accuracy up to ±0.5% depending on product and range.
-- Anti-drip & anti-oxidation design: special return and venting to reduce oxidation and waste.
-- Modular design: flexible combination and easy expansion.
-- Automation & data: batch traceability, production reports, remote monitoring.
+## Integrated equipment entries
 
-## Applicable Scenarios
+| Product page | When to compare it |
+| --- | --- |
+| [CGF rinse-fill-cap monoblock](/en/products/filling/cgf-three-in-one-monoblock) | A compact linked route for compatible bottle, liquid and cap formats |
+| [GDP36DK fill-cap-seal monoblock](/en/products/filling/gdp36dk-filling-capping-sealing-monoblock) | Integrated filling, cap handling and sealing review |
+| [GF liquor filling and capping monoblock](/en/products/filling/baijiu-filling-capping-monoblock) | Bottling of an approved still liquor package |
 
-- Edible vegetable oils (peanut, rapeseed, soybean, sunflower, etc.)
-- Nut and specialty oils (walnut, almond, grape seed, etc.)
-- Functional and refined oils
-- Small OEM/custom brand production lines
+Use these pages as model references. A monoblock is not automatically preferable: separate machines can be more suitable when formats change frequently, the factory will expand in stages or existing equipment must be retained.
 
-## Selection Tips
+## Series used to build the line
 
-- For multiple small-batch SKUs choose modular semi-auto lines to reduce CAPEX.
-- For high-volume single SKU lines choose high-speed automatic systems with quick change fixtures.
-- For high-viscosity or particulate oils include pre-filtration and pressurized supply.
+| Line stage | Series page |
+| --- | --- |
+| Empty-container preparation | [Bottle rinsing machines](/en/solutions/bottle-washing/) |
+| Surface water removal | [Bottle drying machines](/en/solutions/drying/) |
+| Product clarification before filling | [Liquid filtration systems](/en/solutions/filtering/) |
+| Metered product transfer | [Liquid filling machines](/en/solutions/filling/) |
+| Closure application | [Capping and sealing machines](/en/solutions/sealing/) |
+| Corked bottle route | [Corking machines](/en/solutions/corking/) |
+| Neck capsule finishing | [Capsule shrinking machines](/en/solutions/cap-shrinking/) |
+| Filled-bottle checking | [Light inspection machines](/en/solutions/light-inspection/) |
+| Label application | [Labeling machines](/en/solutions/labeling/) |
+| Date, batch or traceability mark | [Laser coding machines](/en/solutions/laser-coding/) |
+| End-of-line logistics | [Packing and palletizing](/en/solutions/packing-palletizing/) |
 
-## After-sales & Service
+Special front-end routes are covered by [fruit and vegetable pre-processing](/en/solutions/fruit-veg-processing/), [dairy processing](/en/solutions/dairy-processing/) and [wine bottling equipment](/en/solutions/brewing/).
 
-We offer:
+## Procurement choices that control project price
 
-- Installation, commissioning and training
-- On-site process optimization and recipe advice
-- Spare parts supply and remote diagnostics
-- Regular maintenance and upgrades
+- Package range, closure type and number of planned changeovers
+- Product properties and cleaning or hygiene requirements
+- Net output basis, shift pattern and buffer strategy
+- Stand-alone machines, monoblocks or staged expansion
+- Existing equipment, conveyor elevations and controls protocol
+- Inspection, rejection, coding and production-data requirements
+- Export packing, delivery terms, installation, commissioning and training
 
-## Contact
+## Information required for a line quotation
 
-For sample trials, quotations or site evaluation contact:
+Send product specifications, container/closure/label/case samples or drawings, target output, operating schedule, process flow, plant layout, utilities, existing equipment interfaces, destination and requested delivery terms. Include pallet information when end-of-line automation is required.
 
-- Phone: +86 19906365856
-- Email: gavin@oil-pressing-machine.com
+The manufacturer proposal should return an equipment list, interface matrix, layout basis, utility list, commercial exclusions, delivery scope, recommended spare parts and acceptance plan. Pricing should be read together with that scope.
 
-## Get Price & Quote
+## FAT, site acceptance and service boundary
 
-Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+Agree which products and packaging materials will be used for factory testing, who supplies and ships them, how output and package quality are measured, and how linked-machine stoppages are handled. Installation labor, local lifting, utilities, travel, visas, accommodation, training, warranty and after-sales response must follow the signed quotation and contract.
 
-- [Get Price & Quote](/en/contact/)
+## Request a complete filling line quote
+
+Provide the line basis above to receive a staged or complete equipment proposal with itemized manufacturer pricing.
+
+- [Request a filling and packaging line quotation](/en/contact/)
 
 <!-- quote-cta -->

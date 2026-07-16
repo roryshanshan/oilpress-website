@@ -1,107 +1,72 @@
 ---
-title: Avocado (Avocado Oil) Solution - Shengshi Hecheng цена | компл...
-description: "Запросите стоимость решения Avocado (Avocado Oil) Solution - Shengshi Hecheng: проект линии, список оборудования и сервис."
-keywords: Avocado (Avocado Oil) Solution цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
+title: "Масло авокадо: технология линии, цена и КП"
+description: "Линия масла авокадо зависит от свежей или сушёной мякоти: подготовка, прессование, сепарация и фильтрация. Сверьте процесс, оборудование, цену и КП."
+keywords: оборудование для масла авокадо, пресс для авокадо, линия переработки авокадо, цена, купить, производитель, комплектация, сервис
 ---
-# Avocado (Avocado Oil) Solution
 
-## Overview
+# Линия производства масла авокадо
 
-Avocado is an important oil crop, avocado oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional avocado pressing solutions, from small workshops to large factories with complete equipment and services.
+Целые свежие авокадо не являются прямым сырьём для маслопресса. Плоды нужно вымыть, очистить от кожуры и косточек, после чего выбрать один из двух разных маршрутов: мокрое разделение свежей мякоти либо механическое прессование мякоти после контролируемого обезвоживания.
 
-## Avocado Characteristics
+## Граница сырья
 
-### 📊 Basic Parameters
-- **Oil Content**: 15-25%
-- **Protein Content**: 2-3%
-- **Main Fatty Acids**: Oleic acid (60-70%), Linoleic acid (10-15%), Palmitic acid (10-15%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+Укажите, что поступает на площадку: целые плоды, свежая или замороженная мякоть либо уже высушенная мякоть. Для расчёта нужны сорт, зрелость, доля полезной мякоти, влажность или содержание сухих веществ, срок хранения и признаки брожения, потемнения или порчи. Кожура и косточки учитываются как отдельные побочные продукты и не входят в производительность пресса.
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 4-6 years
-- **Suitable Climate**: Subtropical, warm areas
-- **Soil Requirements**: Fertile, well-drained soil
-- **Annual Production**: Global annual production exceeds 5 million tons
+## Рекомендуемая подготовка
 
-## Processing Technology
-To be supplemented
+1. Вымыть и отсортировать плоды.
+2. Удалить кожуру и косточки, исключив попадание твёрдых фрагментов в мякоть.
+3. Измельчить или протереть полезную мякоть.
+4. Для мокрого маршрута подготовить мякоть к малаксации и разделению масла, воды и твёрдой фазы.
+5. Для маршрута прессования обезводить или высушить мякоть в контролируемом низкотемпературном режиме, затем измельчить или кондиционировать пробу.
 
-## Product Applications
+## Мокрый маршрут или прессование сушёной мякоти
 
-### 🍳 Edible Oil
-- Avocado oil: Main edible oil variety
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+**Мокрый маршрут:** мойка плодов -> удаление кожуры и косточек -> измельчение мякоти -> контролируемая малаксация -> отделение твёрдой фазы -> разделение масла и воды -> полировочная фильтрация -> хранение.
 
-### 💄 Beauty and Skincare
-- Avocado oil: Natural skincare oil
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+**Маршрут сушёной мякоти:** удаление кожуры и косточек -> контролируемое обезвоживание или низкотемпературная сушка -> измельчение -> пробное кондиционирование -> механическое прессование -> отделение воды и твёрдых частиц -> фильтрация.
 
-### 💊 Health Products
-- Avocado oil: Nutritional supplement
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+Свежую высоковлажную мякоть нельзя загружать непосредственно в стандартный гидравлический пресс. Модель гидравлического пресса подбирают только по результатам испытания сушёной мякоти; для мокрого маршрута требуется специализированное сепарационное оборудование.
 
-## Market Analysis
+### Оборудование для комплектации
 
-### 📈 Development Trends
-- Growing demand for high-end edible oils and beauty skincare products
-- Expanding high-end avocado oil market
-- Increasing export trade opportunities
+- [Комплектные линии производства масла](/ru/solutions/production-lines)
+- [Оборудование предварительной подготовки](/ru/products/pre-treatment)
+- [Гидравлические маслопрессы](/ru/products/) — только для испытаний сушёной мякоти
+- [Пресс серии 400](/ru/products/400) как доступная модель для пробного подбора
+- [Оборудование последующей обработки](/ru/products/post-treatment)
+- [Оборудование розлива](/ru/products/filling-equipment)
 
-### 🎯 Target Markets
-- Edible oil processing enterprises
-- Food processing enterprises
-- Beauty and skincare enterprises
-- Export trade enterprises
+## Требования к разделению и готовому маслу
 
-## Quality Standards
+В техническом задании задают допустимые свободную воду и взвесь, прозрачность, цвет, аромат и согласованные показатели окисления после сепарации. Нужно указать точку отбора пробы после центрифугирования или фильтрации, закрытое хранение, материалы поверхностей, контактирующих с продуктом, и способ очистки всех узлов, работающих с мякотью.
 
-### 🏆 Product Quality Standards
-- Complies with national avocado oil standards
-- Complies with food safety standards
-- Complies with export food standards
-- Complies with organic food certification
+## Данные для расчёта и коммерческого предложения
 
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color and transparency testing
-- Heavy metal content testing
-- Pesticide residue testing
+- Образец целых плодов или мякоти, сорт, зрелость, доля мякоти, влажность или сухие вещества, срок и состояние хранения
+- База производительности: целые плоды, влажная мякоть или сушёная мякоть; суточный объём и часы приёмки
+- Выбранный мокрый маршрут или прессование обезвоженной мякоти, а также предельная температура процесса
+- Требования к свободной воде, осадку, прозрачности, цвету, аромату, методам контроля, ёмкостям и упаковке
+- Вода, электроснабжение, источник тепла для сушки, площадь от мойки до фильтрации, пункт назначения и условия поставки
 
-## Sustainable Development
+## Протокол испытания и приёмки
 
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
+В каждой записи указывают базу массы: целые плоды, влажная или сушёная мякоть. В протокол включают потери при очистке и удалении косточек, влажность или сухие вещества мякоти, режим сушки либо малаксации, массу загрузки, цикл или настройки сепаратора, температуру масла, массу сырого масла, отделённой воды и твёрдой фазы, а также фильтрованного масла. В согласованной точке отбора проверяют свободную воду, осадок, прозрачность, запах, очистку оборудования и остаток продукта в линии.
 
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
+## Связанные страницы
 
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
+- [Обзор решений](/ru/solutions/)
+- [Решения для плодового сырья](/ru/solutions/fruits)
+- [Масло виноградной косточки](/ru/solutions/grape-seed)
+- [Масло семян тыквы](/ru/solutions/pumpkin-seed)
+- [Пресс серии 400](/ru/products/400)
+- [Связаться с техническим отделом](/ru/contact/)
+- [Страница на китайском языке](/zh/solutions/avocado)
 
-## Contact Us
+## Запросить конфигурацию и цену
 
-If you are interested in avocado pressing solutions, please contact our technical team:
+Для расчёта отправьте состояние сырья, базу производительности, выбранный мокрый или сухой маршрут, спецификацию масла, доступные коммуникации и пункт назначения. В предложении должны быть раздельно указаны обязательные модули подготовки, разделения и последующей обработки.
 
-- 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
-
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable avocado pressing solution.
-
-## Запросить цену и расчёт
-
-Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
-
-- [Запросить цену и расчёт](/ru/contact/)
+- [Запросить расчёт линии масла авокадо](/ru/contact/)
 
 <!-- quote-cta -->

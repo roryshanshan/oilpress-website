@@ -1,58 +1,38 @@
 ---
-title: Quy trình ép tốt nhất cho các loại nguyên liệu dầu
-description: "Để đạt tỷ lệ thu dầu cao và chất lượng dầu tốt hơn, các loại nguyên liệu cần áp dụng tiền xử lý và tham số ép khác nhau. Dưới đây tóm tắt các điểm quy…"
+title: "Quy trình ép theo từng loại hạt dầu"
+description: "Đối chiếu làm sạch, bóc vỏ, sấy/rang, nghiền, ép nóng/lạnh, áp suất và lọc cho mè, lạc, cải, hướng dương, hạt trà, óc chó và hạt lanh."
 keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
 ---
 
-# Quy trình ép tốt nhất cho các loại nguyên liệu dầu
+# Tham khảo quy trình ép cho các loại nguyên liệu dầu
 
 *Ngày phát hành: 25-01-2023*
 *Danh mục: Kiến thức kỹ thuật*
 
-Để đạt tỷ lệ thu dầu cao và chất lượng dầu tốt hơn, các loại nguyên liệu cần áp dụng tiền xử lý và tham số ép khác nhau. Dưới đây tóm tắt các điểm quy trình khuyến nghị cho các nguyên liệu phổ biến (đậu phộng, vừng, hạt cải, hạt hướng dương, đậu nành, hạt bông, hạt lanh) để tham khảo sản xuất.
+Mỗi loại nguyên liệu dầu cần một cửa sổ tiền xử lý và ép riêng. Các giá trị dưới đây chỉ là điểm khởi đầu cho đậu phộng, vừng, hạt cải, hướng dương, đậu nành, hạt bông và hạt lanh; không cam kết mức thu hồi dầu, dầu dư bánh, chất lượng sản phẩm hoặc năng lực dây chuyền.
 
-## Nguyên tắc chung
-- Độ ẩm: Phần lớn nguyên liệu an toàn trước khi ép trong khoảng 5%–8%; sau khi hấp/rang, độ ẩm nhân hạt tăng nhẹ đến 6%–10% giúp hình thành độ dẻo và dễ tách dầu hơn.
-- Kích thước hạt: Nghiền hoặc cán mỏng để phá vỡ tế bào, tạo lát mỏng đồng đều (độ dày 0.25–0.35 mm) nâng cao hiệu quả truyền nhiệt và thẩm thấu.
-- Hấp/rang (điều chỉnh): Tăng nhiệt, bổ sung ẩm và giữ nhiệt theo giai đoạn, làm biến tính protein, phá vỡ màng tế bào, tăng tính dẻo, giúp bánh ép thành hình tốt và giảm dầu dư.
-- Ép: Lần ép đầu duy trì nhiệt độ và gradien áp lực vừa phải; tùy tính chất nguyên liệu chọn ép nóng hoặc ép lạnh; khi cần kết hợp ép lần hai hoặc chiết dung môi.
-
-::: tip Chất lượng và an toàn
-- Nguyên liệu phải được làm sạch, loại sắt bằng nam châm để tránh kim loại rơi vào thiết bị.
-- Kiểm soát nghiêm thời gian giữ nhiệt cao để tránh oxy hóa và cháy khét dầu.
-- Ghi chép tham số từng lô để sao chép ổn định quy trình tối ưu.
+::: warning Giá trị quy trình và nghiệm thu
+Các khoảng độ ẩm, kích thước hạt và nhiệt độ công bố chỉ là tham khảo ban đầu. Thử nghiệm mua hàng phải ghi loại và lô nguyên liệu, tiền xử lý, phân bố kích thước hạt, độ ẩm cấp liệu, khối lượng mẻ, chu trình đầy đủ từ cấp liệu, điều hòa, ép, thoát dầu, lấy bánh, vệ sinh đến khởi động lại, cùng thời gian thử liên tục và lần dừng được phép. FAT/SAT phải quy định cân đã hiệu chuẩn, lấy mẫu và phương pháp phòng thí nghiệm, cách tính theo cơ sở khô hoặc ướt, dung sai, tiện ích và thao tác người vận hành. Chỉ tiêu trong hợp đồng đã ký mới có giá trị ràng buộc.
 :::
 
-## Đậu phộng (Peanut)
-- Tiền xử lý: Bóc vỏ, phân loại, tùy chọn loại bỏ lớp đỏ vỏ lụa (cải thiện hương vị và màu sắc), làm sạch và tách sắt.
-- Độ ẩm & nhiệt độ: Sau hấp/rang, độ ẩm nhân 7%–9%; nhiệt độ ép nóng 110–130°C, ép lạnh < 60°C.
-```markdown
-# Quy trình ép tốt nhất cho các loại nguyên liệu dầu
-
-*Ngày phát hành: 25-01-2023*
-*Danh mục: Kiến thức kỹ thuật*
-
-Để đạt tỷ lệ thu dầu cao và chất lượng dầu tốt hơn, các loại nguyên liệu cần áp dụng tiền xử lý và tham số ép khác nhau. Dưới đây tóm tắt các điểm quy trình khuyến nghị cho các nguyên liệu phổ biến (đậu phộng, vừng, hạt cải, hạt hướng dương, đậu nành, hạt bông, hạt lanh) để tham khảo sản xuất.
-
 ## Nguyên tắc chung
-- Độ ẩm: Phần lớn nguyên liệu an toàn trước khi ép trong khoảng 5%–8%; sau khi hấp/rang, độ ẩm nhân hạt tăng nhẹ đến 6%–10% giúp hình thành độ dẻo và dễ tách dầu hơn.
-- Kích thước hạt: Nghiền hoặc cán mỏng để phá vỡ tế bào, tạo lát mỏng đồng đều (độ dày 0.25–0.35 mm) nâng cao hiệu quả truyền nhiệt và thẩm thấu.
-- Hấp/rang (điều chỉnh): Tăng nhiệt, bổ sung ẩm và giữ nhiệt theo giai đoạn, làm biến tính protein, phá vỡ màng tế bào, tăng tính dẻo, giúp bánh ép định hình tốt và giảm dầu dư.
+- Độ ẩm khởi đầu: 5%–8% trước ép và 6%–10% sau điều hòa; xác nhận theo nguyên liệu và thử mẫu.
+- Kích thước khởi đầu: nghiền hoặc cán lát 0.25–0.35 mm; cần thống nhất phân bố và phương pháp đo.
+- Hấp/rang: tăng nhiệt và bổ sung ẩm theo giai đoạn, đồng thời ghi thời gian, nhiệt độ và độ ẩm thực tế.
 - Ép: Lần ép đầu duy trì nhiệt độ và gradien áp lực vừa phải; tùy tính chất nguyên liệu chọn ép nóng hoặc ép lạnh; khi cần kết hợp ép lần hai hoặc chiết dung môi.
 
 ::: tip Chất lượng và an toàn
 - Nguyên liệu phải được làm sạch, loại sắt bằng nam châm để tránh kim loại rơi vào thiết bị.
 - Kiểm soát nghiêm thời gian giữ nhiệt cao để tránh oxy hóa và cháy khét dầu.
-- Ghi chép tham số từng lô để sao chép ổn định quy trình tối ưu.
+- Ghi từng lô để lặp lại và kiểm tra cửa sổ quy trình đã thống nhất.
 :::
 
 ## Đậu phộng (Peanut)
 - Tiền xử lý: Bóc vỏ, phân loại, tùy chọn loại bỏ lớp đỏ vỏ lụa (cải thiện hương vị và màu sắc), làm sạch và tách sắt.
 - Độ ẩm & nhiệt độ: Sau hấp/rang, độ ẩm nhân 7%–9%; nhiệt độ ép nóng 110–130°C, ép lạnh < 60°C.
 - Điểm lưu ý:
-  - Ép nóng: tỷ lệ thu cao, mùi thơm đậm, phù hợp dầu ăn phổ thông;
-  - Ép lạnh: bảo tồn nhiều hợp chất hoạt tính và hương nhẹ, phù hợp dầu ép lạnh cao cấp;
-  - Buồng ép tăng áp theo giai đoạn, kiểm soát dầu dư bánh 8%–12% (ép nóng), ép lạnh có thể cao hơn một chút.
+  - Ép nóng và ép lạnh có các đánh đổi khác nhau về mùi, màu, phơi nhiệt và mức thu hồi;
+  - Chỉ đặt mục tiêu dầu dư bánh sau khi thử mẫu đại diện, với vị trí lấy mẫu, cơ sở khô/ướt, phương pháp phòng thí nghiệm và dung sai ghi trong hợp đồng.
 
 ## Vừng (Sesame)
 - Tiền xử lý: Làm sạch, rang nhẹ để tăng mùi; tránh rang quá kỹ gây đắng và sẫm màu.
@@ -63,7 +43,7 @@ keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
   - Độ mịn và kiểm soát nhiệt quyết định tốc độ giải phóng hương và tốc độ thu dầu.
 
 ## Hạt cải (Rapeseed/Canola)
-- Tiền xử lý: Làm sạch, nghiền, làm mềm, cán lát; giống ít erucic và glucosinolate tốt cho mùi vị và ổn định.
+- Tiền xử lý: Làm sạch, nghiền, làm mềm, cán lát; giống nguyên liệu ảnh hưởng đến mùi vị, thành phần và bảo quản.
 - Độ ẩm & nhiệt độ: Sau làm mềm độ ẩm 7%–9%; nhiệt độ ép nóng 110–125°C.
 - Điểm lưu ý:
   - Rang/ hấp vừa phải để khử mùi hăng và cải thiện độ nhớt;
@@ -91,7 +71,7 @@ keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
 - Độ ẩm & nhiệt độ: Độ ẩm 7%–9%; nhiệt độ ép nóng 110–125°C.
 - Điểm lưu ý:
   - Chú ý ảnh hưởng của gossypol, kết hợp tiền xử lý và tinh luyện để khử độc;
-  - Tăng cường hấp/rang để tăng thu dầu và giảm dầu dư;
+  - Điều chỉnh mức hấp/rang bằng thử nghiệm và đo thay đổi của dầu cùng dầu dư bánh;
   - Đảm bảo độ bền bánh đủ cao để thuận tiện xử lý tiếp theo.
 
 ## Hạt lanh (Flaxseed/Linseed)
@@ -100,7 +80,7 @@ keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
 - Điểm lưu ý:
   - Dầu ép lạnh cao cấp tập trung bảo tồn dinh dưỡng, cần bảo quản trong môi trường nitơ và tránh ánh sáng;
   - Giảm cắt và quá nhiệt để kiểm soát oxy hóa;
-  - Khuyến nghị máy chạy tải nhỏ, cấp liệu ổn định.
+  - Bắt đầu ở tải thấp và ghi dao động cấp liệu cùng mức tăng nhiệt do cắt.
 
 ## Kiểm soát quy trình và kiểm tra
 - Giám sát trực tuyến: Nhiệt độ vào/ra, độ ẩm, công suất, dòng điện, nhiệt độ buồng ép, dầu dư trong bánh.
@@ -108,8 +88,5 @@ keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
 - Phương pháp tối ưu: Dùng thử nghiệm lô nhỏ + thiết kế thí nghiệm orthogonal, lặp lại tối ưu nhiệt/ thời gian hấp, độ ẩm, độ dày lát, tốc độ vít vít, áp lực đằng sau, v.v.
 
 ::: info Thiết bị và phối hợp quy trình
-Shengshi Hecheng cung cấp gói tham số quy trình và đề xuất chọn thiết bị cho từng loại nguyên liệu (ép nóng/lạnh, đơn/đôi vít, kết hợp tiền ép—chiết xuất, v.v.), và có thể cung cấp dịch vụ hiệu chỉnh tại chỗ và đào tạo nhân sự để giúp bạn nhanh chóng đạt sản xuất ổn định và năng suất cao.
+Shengshi Hecheng có thể lập báo giá bằng văn bản cho tuyến ép nóng/lạnh, vít đơn/đôi hoặc tiền ép kết hợp chiết xuất. Báo giá và hợp đồng phải nêu nhà sản xuất, cấu hình, cơ sở năng lực, quy trình FAT/SAT, phụ tùng, bảo hành và ranh giới hỗ trợ sau bán. Hỗ trợ từ xa và mọi chạy thử hoặc đào tạo tại chỗ cần xác nhận bằng văn bản về khu vực, đi lại, visa, lưu trú, chi phí, số ngày, nội dung công việc, tiện ích người mua và trách nhiệm nghiệm thu; không cam kết sản lượng hoặc mức thu hồi ngoài tiêu chí đã ký.
 :::
-
-```
-

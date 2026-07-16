@@ -1,206 +1,128 @@
 ---
-title: Nut Oil Solutions - Shengshi Hecheng Quote | Turnkey Solution
-description: Get a quote and turnkey plan for Nut Oil Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd.. Process design, equipment list, and after-sales support.
+title: "Nut Oil Processing Lines | Equipment & Factory Quote"
+description: "Plan shelling, sorting, crushing, low-temperature pressing, and filtration for nut oils; verify sample results, press model, equipment list, and quote scope."
 keywords: Nut Oil Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd. quote, Nut Oil Solutions - Shandong Shengshi Hecheng Machinery Co., Ltd. price, turnkey solution, production line, procurement
 ---
 # Nut Oil Solutions
 
-## Overview
+## Procurement Scope
 
-Nut oils have high oil content, rich nutritional value, and high added value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional nut oil processing solutions to meet the needs of high-end edible oils and beauty and skincare product raw materials.
+Nut-oil projects depend on whether the purchase material is a whole nut, an in-shell lot, a food-grade kernel, dried copra, or another prepared fraction. Kernel damage, rancidity, moisture, shell fragments, allergens, storage history, and the intended oil and cake markets change the process and the production-line price.
 
-## Main Nut Crops
+This page does not assign a fixed oil content, recovery, batch load, daily capacity, investment, operating schedule, or finished-oil grade. A factory quotation should use a representative sample and state every included preparation, press, filter, document, and service item.
 
-### 🥥 Coconut/Coconut Meat (Coconut Oil)
-**Oil Content**: 60-70%
-**Features**: High saturated fatty acid content, good stability
-**Suitable Equipment**: 300/325 Series Special Press
-**Processing Technology**: Coconut meat separation → Drying → Cold pressing → Filtering
+## Raw Material Differences
 
-### 🌴 Palm Fruit/Palm Kernel (Palm Oil/Palm Kernel Oil)
-**Oil Content**: 45-55%
-**Features**: Industrial oil, moderate melting point
-**Suitable Equipment**: 425/480 Series Industrial Press
-**Processing Technology**: Pulp separation → Cooking → Pressing → Refining
+| Nut or kernel group | Differences to confirm | Pretreatment boundary |
+| --- | --- | --- |
+| Walnut, hazelnut, and pistachio kernels | Whole or broken kernels, shell fragments, oxidation or rancidity indicators, moisture, grade, and allergen segregation | Confirm whether shelling and optical or manual sorting are buyer-supplied or included; select crushing and pressing by trial |
+| Almond and stone-fruit kernels | Sweet or bitter variety, shell removal, intended food, cosmetic, or industrial use, and regulated natural compounds | Do not assume edibility or cosmetic suitability; laboratory and destination requirements must be agreed before equipment selection |
+| Cashew | Kernel grade, roasting history, shell contamination, and separation from cashew-shell liquid | Raw shell handling is a separate safety process; the press quote applies only to the material form identified in the trial unless shelling is expressly included |
+| Coconut or copra | Fresh meat, dried copra, particle size, moisture, storage and mold condition | Fresh coconut-milk processing is separate; a press line is selected only for the prepared solid material stated in the quotation |
+| Palm fruit or palm kernel | Fresh fruit and kernel are different feedstocks with different extraction routes | A fresh palm-fruit line is outside a nut hydraulic-press scope unless separately engineered; prepared palm kernel requires its own sample trial |
 
-### 🥜 Walnut (Walnut Oil)
-**Oil Content**: 60-70%
-**Features**: Rich in unsaturated fatty acids, high nutritional value
-**Suitable Equipment**: 300/325 Series Special Press
-**Processing Technology**: Shelling → Cold pressing → Filtering → Refrigeration
+Each nut species and grade must be tested separately. Mixed-nut capacity, cleaning, allergen changeover, and oil quality cannot be inferred from a different kernel.
 
-### 🌰 Almond/Bitter Almond (Almond Oil)
-**Oil Content**: 45-55%
-**Features**: Beauty and skincare, medicinal value
-**Suitable Equipment**: 300/325 Series Special Press
-**Processing Technology**: Shelling → Cold pressing → Filtering → Refining
+## Press Route and Pretreatment Boundary
 
-### 🌰 Hazelnut (Hazelnut Oil)
-**Oil Content**: 55-65%
-**Features**: High vitamin E content, antioxidant
-**Suitable Equipment**: 300/325 Series Special Press
-**Processing Technology**: Shelling → Cold pressing → Filtering
-
-### 🥜 Cashew (Cashew Oil)
-**Oil Content**: 40-50%
-**Features**: Special aroma, high-end edible
-**Suitable Equipment**: 300/325 Series Special Press
-**Processing Technology**: Shelling → Cold pressing → Filtering
-
-### 🥜 Pistachio (Pistachio Oil)
-**Oil Content**: 45-55%
-**Features**: Green and healthy, balanced nutrition
-**Suitable Equipment**: 300/325 Series Special Press
-**Processing Technology**: Shelling → Cold pressing → Filtering
-
-## Equipment Recommendations
-
-### Small Scale Processing (0.5-2 tons/day)
-- **300/325 Series Special Oil Press**
-- Nut preprocessing equipment
-- Temperature control system
-- Investment Cost: 300,000-800,000 RMB
-
-### Medium Scale Processing (2-10 tons/day)
-- **355/400 Series Oil Press**
-- Automated preprocessing line
-- Temperature control system
-- Investment Cost: 1,500,000-4,000,000 RMB
-
-### Large Scale Processing (10+ tons/day)
-- **425/480 Series Oil Press**
-- Full automatic production line
-- Intelligent control system
-- Investment Cost: 6,000,000 RMB+
-
-## Processing Flow
+| Route | Press models | Required sequence | Use boundary |
+| --- | --- | --- | --- |
+| Hot pressing | 300/325 series | Clean and sort, shell or separate kernels as required, crush, roast or thermally condition, then press | Proposed primarily where roasted flavor or heat preparation is part of the product specification; conditions are established by trial |
+| Direct cold pressing | 355-500 series | Clean, use low-temperature drying only when required, crush, then press directly | No roasting, steaming, or cooking is assumed after crushing; the selected model and filtration are based on the prepared-kernel test |
 
 ```mermaid
-graph TD
-    A[Nut Raw Material] --> B[Quality Inspection]
-    B --> C[Shelling Processing]
-    C --> D[Crushing Processing]
-    D --> E[Cold Steaming]
-    E --> F[Pressing Oil Extraction]
-    F --> G[Centrifugal Separation]
-    G --> H[Refining Processing]
-    H --> I[Packaging Storage]
+flowchart TD
+    A[Representative nut or kernel lot] --> B[Inspection and sample trial]
+    B --> C[Shelling and sorting boundary confirmed]
+    C --> D{Selected press route}
+    D -->|300/325 hot pressing| E[Crush and roast or thermally condition]
+    E --> F[Hot press]
+    D -->|355-500 direct cold pressing| G[Clean]
+    G --> H[Low-temperature drying if required]
+    H --> I[Crush]
+    I --> J[Direct cold press]
+    F --> K[Settling or filtration as quoted]
+    J --> K
+    K --> L[Protected storage or downstream process as quoted]
 ```
 
-## Technical Advantages
+Shelling, sorting, low-temperature drying, roasting, refining, filling, cold storage, allergen segregation, utilities, laboratory testing, and waste handling are included only when named in the signed equipment and responsibility lists.
 
-### ❄️ Cold Pressing Technology
-- Preserve nutritional components
-- Retain natural aroma
-- Improve oil stability
+## Representative Sample and Trial Conditions
 
-### 🎯 Precise Control
-- Temperature control: ±1℃ accuracy
-- Pressure control: Intelligent adjustment
-- Time control: Optimal process parameters
+Agree the sample quantity, packing, courier or freight method, customs handling, trial charge, cleaning charge where applicable, consumables, and sample return or disposal before dispatch.
 
-### 🔄 Continuous Production
-- Automated production line
-- Continuous pressing process
-- Intelligent monitoring system
+The sample record should identify:
 
-## Product Applications
+- Common and botanical name, variety, origin, supplier, lot, production date, and storage conditions
+- Whole nut, in-shell nut, kernel, copra, or other prepared form
+- Moisture, shell fraction, broken or damaged material, foreign matter, mold, rancidity indicators, and laboratory oil content when available
+- Previous drying, roasting, blanching, shelling, or chemical treatment
+- Required hot-press or direct cold-press route, flavor, color, filtration, storage, and oil application
+- Intended use and specification for press cake, meal, or other co-products
+- Allergen controls, cleaning expectations, and any safety or destination-market restrictions
 
-### 🍳 Edible Oil
-- High-end edible oil
-- Special nutritional oil
-- Organic food oil
+The trial record should include preparation, net input, particle size, moisture, temperature history, pressure program, complete cycle, collected oil, cake, losses, settling or filtration basis, cleaning and changeover observations, and agreed laboratory methods. Production capacity is calculated from the verified cycle and every line bottleneck.
 
-### 💄 Beauty and Skincare
-- Natural skincare oil
-- Massage essential oil
-- Hair care product raw material
+## Equipment List for a Manufacturer Quote
 
-### 💊 Health Products
-- Nutritional supplements
-- Functional foods
-- Medicinal preparations
+A nut-oil line may require:
 
-## Market Prospects
+- Receiving, inspection, sorting, and foreign-material removal
+- Optional sheller, cracker, kernel-shell separator, grader, or damaged-kernel removal
+- Low-temperature dryer where required for the 355-500 cold-press route
+- Crusher selected for the kernel and press trial
+- Roaster or thermal conditioner for the 300/325 hot-press route
+- Selected press, hydraulic unit, contact parts, guards, and controls
+- Oil collection, settling, pumping, filtration, and protected storage
+- Cake collection, cooling, breaking, or packing interfaces
+- Allergen-segregated utensils, vessels, or cleaning provisions when specified
+- Electrical cabinet, drawings, manuals, agreed spare parts, and installation interfaces
+- Optional refining, filling, refrigeration, laboratory, utility, or packing equipment quoted separately
 
-### 📈 Development Trends
-- Health food demand growth
-- Beauty and skincare market expansion
-- High-end oil market development
+Only the signed bill of equipment and exclusions list defines what the manufacturer supplies.
 
-### 🎯 Target Markets
-- High-end food brands
-- Beauty and skincare enterprises
-- Health product manufacturers
-- Professional nutrition companies
+## Quote Inputs and Price Basis
 
-## Service Guarantee
+For a localized equipment price and supplier comparison, provide:
 
-### 🛠️ Technical Support
-- Process parameter optimization
-- Equipment debugging operation
-- Operation personnel training
-- Quality control guidance
+- Every nut or kernel to be processed and the annual or seasonal material plan
+- Target hot-press or direct cold-press route, target products, and changeover policy
+- Target throughput, batch and shift pattern, cleaning allowance, and storage plan
+- Destination country and city, site layout, access, floor loading, and lifting arrangements
+- Available electrical supply, heating source, water, compressed air, ventilation, drainage, and cold storage
+- Product-contact material, allergen, sanitation, filtration, storage, refining, and filling requirements
+- Buyer laboratory methods, packaging format, document language, and destination compliance list
+- Currency, trade term, delivery point, export packing, freight, insurance, tax, commissioning, training, and spare-parts request
+- Budget range if the buyer wants alternative line configurations compared on the same commercial basis
 
-### 🔧 After-sales Service
-- 7×24 hours technical support
-- Parts fast supply
-- Regular maintenance service
-- Technical upgrade service
+The quotation should separate base equipment, options, exclusions, freight and trade terms, utility assumptions, delivery basis, inspection and acceptance, document package, commissioning, and after-sales. Financial returns must use the buyer's current local prices for kernels, products, labor, utilities, logistics, tax, finance, and waste handling.
 
-### 📊 Data Services
-- Production data analysis
-- Quality inspection report
-- Market trend analysis
-- Customer demand research
+## FAT and SAT
 
-## Case Studies
+### Factory Acceptance Test (FAT)
 
-### Shandong High-end Nut Oil Factory
-- **Equipment Configuration**: 355 Series Special Press × 2 units
-- **Daily Processing Capacity**: 8 tons mixed nuts
-- **Product Categories**: Walnut oil, almond oil, hazelnut oil
-- **Market Positioning**: High-end organic edible oil
-- **Annual Sales**: 20,000,000 RMB
+The FAT protocol should identify the exact nut sample and preparation, equipment configuration, included safety functions, no-load and loaded checks, net input, complete cycle, oil and cake collection, temperature record, filtration basis, allergen cleaning observations, laboratory samples, documents, and acceptance criteria. Trial fees, sample handling, consumables, third-party tests, and any repeat FAT must be allocated in writing.
 
-### Zhejiang Beauty and Skincare Enterprise
-- **Equipment Configuration**: 300 Series Special Press × 3 units
-- **Daily Processing Capacity**: 3 tons almond kernels
-- **Product Application**: Skincare product raw material
-- **Product Quality**: Meets cosmetic standards
-- **Export Market**: Europe, Japan
+### Site Acceptance Test (SAT)
 
-### Henan Nut Processing Enterprise
-- **Equipment Configuration**: 400 Series Oil Press × 1 unit
-- **Daily Processing Capacity**: 5 tons walnuts
-- **Product Series**: Walnut oil, walnut kernels
-- **Brand Building**: Regional well-known brand
-- **Market Coverage**: Nationwide 20+ provinces
+The SAT protocol should confirm site readiness, utilities, foundations and access, installation responsibilities, material equivalence to the FAT sample, operating and cleaning method, trained personnel, repeat runs, laboratory comparison, records, and issue closure. Travel, visas, local labor, lifting, accommodation, consumables, and return visits are included only if stated and priced.
 
-## Quality Standards
+## Compliance and After-sales Confirmation
 
-### 🏆 Product Quality Standards
-- Meets national edible oil standards
-- Meets organic food certification
-- Meets export food standards
-- Meets beauty and skincare standards
+The contract must identify whether the oil and cake are intended for food, feed, cosmetics, supplements, or industrial use and list the destination requirements. Allergen management, food-contact materials, sanitation, worker safety, environmental controls, labels, laboratory testing, and any controls for bitter kernels, raw cashew shell material, mold, or contaminants require assigned responsibility.
 
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color transparency testing
-- Heavy metal content testing
-- Pesticide residue testing
+No national, export, organic, food, cosmetic, or other certification is assumed. Any certificate or test report must be current and checked for the named company, factory, machine, process, product, and destination. The press supplier does not determine the legal status of the finished product.
+
+After-sales terms must be written: warranty start and coverage, exclusions, support channels and response window, remote and site-service boundary, labor and travel charges, spare-part identification, price and lead-time confirmation, consumables, manuals, training, and preventive-maintenance duties. Service availability and response commitments are limited to the signed terms.
 
 ## Contact Us
 
-If you are interested in nut oil processing solutions, please contact our expert team:
+For nut-oil equipment procurement, a production-line configuration, a manufacturer price, or a formal quotation, contact the technical and commercial team:
 
-- 📞 **Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
-
-We provide free technical consultation and on-site inspection services, customizing the most suitable nut oil processing solutions for you.
+- **Hotline**: +86 19906365856
+- **Email**: gavin@oil-pressing-machine.com
+- **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
 
 ## Related Links
 
@@ -210,11 +132,11 @@ We provide free technical consultation and on-site inspection services, customiz
 - [Cashew Solutions](/en/solutions/cashew)
 - [426 Series Hydraulic Oil Press](/en/products/426)
 - [Contact Technical Team](/en/contact/)
-- [中文页面](/zh/solutions/nuts)
+- [Chinese page](/zh/solutions/nuts)
 
 ## Get Price & Quote
 
-Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+Send the material and sample record, process route, target production plan, site utilities, line boundary, destination requirements, and commercial terms. The manufacturer quote can then show comparable equipment, options, landed-cost inputs, acceptance, and after-sales items.
 
 - [Get Price & Quote](/en/contact/)
 

@@ -1,6 +1,6 @@
 ---
 title: "Инструкция гидравлического маслопресса | Скачать"
-description: "Download hydraulic oil press instruction manuals and operating guidance for safer installation, commissioning, and daily maintenance."
+description: "Скачайте инструкции для гидравлических маслопрессов Qianlong: безопасная установка, ввод в эксплуатацию, работа и регулярное обслуживание."
 keywords: Руководство по Эксплуатации Оборудования цена, купить Руководство по Эксплуатации Оборудования, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
 ---
 # Руководство по Эксплуатации Оборудования
@@ -12,20 +12,20 @@ keywords: Руководство по Эксплуатации Оборудов�
 ## Китайская Версия
 
 <div class="manual-download">
-  <a href="/images/钱隆牌液压榨油机使用说明书.pdf" target="_blank" class="download-btn">
+  <a href="/images/qianlong-hydraulic-oil-press-manual-zh.pdf" target="_blank" class="download-btn">
     📄 Скачать Китайское Руководство
     <br>
-    <small>钱隆牌液压榨油机使用说明书.pdf</small>
+    <small>Руководство Qianlong на китайском языке (PDF)</small>
   </a>
 </div>
 
 ## Английская Версия
 
 <div class="manual-download">
-  <a href="/images/Instruction Manual for Qianlong Brand Hydraulic Oil Press.pdf" target="_blank" class="download-btn">
+  <a href="/images/qianlong-hydraulic-oil-press-manual-en.pdf" target="_blank" class="download-btn">
     📄 Скачать Английское Руководство
     <br>
-    <small>Instruction Manual for Qianlong Brand Hydraulic Oil Press.pdf</small>
+    <small>Руководство Qianlong на английском языке (PDF)</small>
   </a>
 </div>
 
@@ -61,7 +61,7 @@ keywords: Руководство по Эксплуатации Оборудов�
 По любым вопросам или для получения технической поддержки, пожалуйста, свяжитесь с нашей командой послепродажного обслуживания:
 
 - **Горячая Линия Обслуживания**: +8619906365856
-- **Email**: gavin@oil-pressing-machine.com
+- **Эл. почта**: gavin@oil-pressing-machine.com
 - **Рабочее Время**: Понедельник - Пятница 9:00-17:00
 
 <style>

@@ -12,20 +12,20 @@ Below are the detailed instruction manuals for Qianlong Brand Hydraulic Oil Pres
 ## Chinese Version
 
 <div class="manual-download">
-  <a href="/images/钱隆牌液压榨油机使用说明书.pdf" target="_blank" class="download-btn">
+  <a href="/images/qianlong-hydraulic-oil-press-manual-zh.pdf" target="_blank" class="download-btn">
     📄 Download Chinese Manual
     <br>
-    <small>钱隆牌液压榨油机使用说明书.pdf</small>
+    <small>qianlong-hydraulic-oil-press-manual-zh.pdf</small>
   </a>
 </div>
 
 ## English Version
 
 <div class="manual-download">
-  <a href="/images/Instruction Manual for Qianlong Brand Hydraulic Oil Press.pdf" target="_blank" class="download-btn">
+  <a href="/images/qianlong-hydraulic-oil-press-manual-en.pdf" target="_blank" class="download-btn">
     📄 Download English Manual
     <br>
-    <small>Instruction Manual for Qianlong Brand Hydraulic Oil Press.pdf</small>
+    <small>qianlong-hydraulic-oil-press-manual-en.pdf</small>
   </a>
 </div>
 

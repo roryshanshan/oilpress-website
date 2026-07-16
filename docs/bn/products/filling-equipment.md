@@ -1,122 +1,246 @@
 ---
-title: "ফিলিং ও প্যাকেজিং যন্ত্রপাতি | কারখানা মূল্য ও কোট"
-description: ফিলিং ও প্যাকেজিং যন্ত্রপাতির সারাংশ, বিশেষ করে ওয়াইন, হুয়াংজিউ, সয়া সস, ভিনেগার এবং লো ভ্যাকুয়াম ফিলিং মডেলগুলোর জন্য।
-keywords: ফিলিং ও প্যাকেজিং যন্ত্রপাতি দাম, ফিলিং ও প্যাকেজিং যন্ত্রপাতি কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
+title: "ফিলিং ও প্যাকেজিং যন্ত্রপাতি | দাম ও কারখানা কোটেশন"
+description: "তরল, বোতল, ক্যাপ, গতি, সাইজ বদল ও লাইনের সীমা অনুযায়ী রিন্সিং, ফিলিং, ক্যাপিং, লেবেলিং ও প্যাকিং মেশিন তুলনা করে কোটেশন নিন।"
+keywords: ফিলিং মেশিন দাম, প্যাকেজিং লাইন কোটেশন, ফিলিং মেশিন কিনুন, বোতলজাতকরণ যন্ত্রপাতি প্রস্তুতকারক, সম্পূর্ণ ফিলিং লাইন, FAT SAT, ইনস্টলেশন, খুচরা যন্ত্রাংশ, বিক্রয়োত্তর সেবা
+outline: [2, 3]
+image: "/images/filling-solutions/filling-packages.webp"
 ---
-# ফিলিং ও প্যাকেজিং যন্ত্রপাতি
+# ফিলিং ও প্যাকেজিং যন্ত্রপাতি নির্বাচন
 
-এই পৃষ্ঠাটি সাইটের ফিলিং ও প্যাকেজিং যন্ত্রপাতির মূল তথ্য একত্র করে, বিশেষ করে ওয়াইন, ফলের ওয়াইন, হুয়াংজিউ, সয়া সস এবং ভিনেগারের জন্য।
+![সমন্বিত ফিলিং ও প্যাকেজিং লাইন](/images/filling-solutions/filling-packages.webp)
 
-## সম্পর্কিত মডিউল
+এই পৃষ্ঠাটি প্যাকেটজাত তরলের চাহিদা থেকে সঠিক বোতল ধোয়া, ফিলিং, ক্যাপিং, পরীক্ষা, লেবেলিং ও শেষ ধাপের প্যাকিং যন্ত্রপাতিতে পৌঁছাতে সাহায্য করে। এখানে এবং প্রতিটি পণ্যের পৃষ্ঠায় প্রকাশিত মানগুলো প্রাথমিক তুলনার জন্য; এগুলো শর্তহীন উৎপাদনক্ষমতা বা নির্ভুলতার নিশ্চয়তা নয়। প্রস্তুতকারকের কোটেশন প্রকৃত তরল, বোতল, ক্যাপ বা কর্ক, যন্ত্রগুলোর সংযোগ এবং গ্রহণযোগ্যতা পরীক্ষার পদ্ধতির ভিত্তিতে করতে হবে।
 
-- [বোতলজাতকরণ সাপোর্টিং সলিউশন ওভারভিউ](/bn/solutions/filling-packages)
-- [বোতলজাতকরণ মেশিন সিরিজ](/bn/solutions/filling/)
-- [কর্কিং মেশিন সিরিজ](/bn/solutions/corking/)
-- [ক্যাপ সঙ্কুচিত মেশিন সিরিজ](/bn/solutions/cap-shrinking/)
-- [লেবেলিং মেশিন সিরিজ](/bn/solutions/labeling/)
+## দাম তুলনার আগে আটটি তথ্য নির্ধারণ করুন
+
+| ক্রয়সংক্রান্ত তথ্য | প্রস্তুতকারককে যা দিতে হবে | কনফিগারেশনে প্রভাব |
+| --- | --- | --- |
+| তরল | পণ্যের নাম, সান্দ্রতা, তাপমাত্রা, ফেনা হওয়ার প্রবণতা, কণা এবং খাদ্য বা রাসায়নিক ব্যবহার | ফিলিং পদ্ধতি, সংস্পর্শের উপাদান, পাম্প, ভালভ ও পরিষ্কার করার নিয়ম |
+| বোতল বা পাত্র | উপাদান, ধারণক্ষমতা, উচ্চতা, গায়ের ব্যাস, মুখের নকশা, স্থায়িত্ব ও প্রতিনিধিত্বমূলক নমুনা | গাইড, স্টার হুইল, নজল, কনভেয়র ও সাইজ বদলের অংশ |
+| ক্যাপ বা কর্ক | স্ক্রু ক্যাপ, প্রেস-অন ক্যাপ, ট্যাম্পার-এভিডেন্ট ক্যাপ, কর্ক বা হিট-শ্রিংক স্লিভ; মাপ ও ফিডের অবস্থা | ক্যাপ ফিডার এবং প্রেসিং, রোলিং, কর্কিং, সিলিং বা শ্রিংকিং পদ্ধতি |
+| লেবেল ও কোড | লেবেলের উপাদান, বোতলের পৃষ্ঠ, লেবেলের অবস্থান, তারিখ বা ব্যাচ কোড এবং মার্কিং পৃষ্ঠ | লেবেলিং, পরিদর্শন ও লেজার মেশিন নির্বাচন |
+| স্থায়ী লাইনের গতি | প্রতিটি সাইজের জন্য প্রয়োজনীয় বোতল/ঘণ্টা, আগের মেশিনের সরবরাহ এবং পরের প্যাকিং গতি | সব মেশিনের গতি মিলিয়ে লাইনের বাধা এড়ানো |
+| সাইজ পরিবর্তন | পণ্যের ধরন, পরিবর্তনের ঘনত্ব, গ্রহণযোগ্য বিরতি এবং অবশিষ্ট পণ্যের সীমা | টুলিং, সমন্বয়, পরিষ্কার ও অপারেটরের কাজ |
+| পরিষ্কার | পণ্য বদলের পদ্ধতি, ফ্লাশ বা CIP, পানি নিষ্কাশন, স্বাস্থ্যবিধির অঞ্চল ও উপাদানের শর্ত | পাইপ, ট্যাংক, ভালভ, গার্ড ও নথিপত্র |
+| সম্পূর্ণ লাইনের সীমা | ট্যাংক, পাম্প, কনভেয়র, রিন্সার, ফিলার, ক্যাপার, ড্রায়ার, লেবেলার, কোডার, কার্টন প্যাকিং, প্যালেটাইজার ও ইউটিলিটি | একই সীমায় কোটেশন তুলনা এবং দায়িত্ব স্পষ্ট করা |
+
+সম্পূর্ণ স্বয়ংক্রিয় লাইন সব সময় ভালো ক্রয় নয়। সাইজ ঘন ঘন বদলালে, ব্যাচ ছোট হলে বা স্থানীয় রক্ষণাবেক্ষণ সুবিধা সীমিত হলে মডিউলার বা আধা-স্বয়ংক্রিয় লাইন বেশি বাস্তবসম্মত হতে পারে। অটোমেশনের স্তর প্রকৃত উৎপাদন পদ্ধতি অনুযায়ী নির্বাচন করা উচিত।
+
+## লাইন ও ১৪টি যন্ত্রপাতি সিরিজ
+
+প্রথমে [সমন্বিত ফিলিং ও প্যাকেজিং লাইন](/bn/solutions/filling-packages) দেখুন, তারপর প্রতিটি কাজের জন্য দায়ী সিরিজে যান।
+
+| নং | যন্ত্রপাতি সিরিজ | প্রধান ক্রয় সিদ্ধান্ত |
+| --- | --- | --- |
+| ০১ | [বোতল ধোয়া ও রিন্সিং](/bn/solutions/bottle-washing/) | বোতলের অবস্থা, ভেতর বা বাইরের ধোয়া, পানির সার্কিট ও সাইজের পরিসর |
+| ০২ | [তরল ফিলিং মেশিন](/bn/solutions/filling/) | তরলের বৈশিষ্ট্য, ভরার পরিসর, পাত্রের মাপ ও স্থায়ী গতি |
+| ০৩ | [বোতল লাইট ইন্সপেকশন](/bn/solutions/light-inspection/) | ত্রুটির ধরন, বোতলের স্বচ্ছতা, পরীক্ষার অবস্থান ও বাতিল করার পদ্ধতি |
+| ০৪ | [ক্যাপিং ও সিলিং](/bn/solutions/sealing/) | ক্যাপের গঠন, ফিডিং, প্রেসিং বা রোলিং পদ্ধতি ও সিলের মানদণ্ড |
+| ০৫ | [কর্ক ও স্টপার বসানো](/bn/solutions/corking/) | কর্কের ধরন, বোতলের মুখ, ফিডিং এবং বসানোর প্রয়োজনীয় ফলাফল |
+| ০৬ | [ক্যাপ রোলিং ও হিট-শ্রিংক](/bn/solutions/cap-shrinking/) | স্লিভের উপাদান ও মাপ, গরম করার পদ্ধতি এবং লাইনের গতি |
+| ০৭ | [বোতলের বাইরের অংশ শুকানো](/bn/solutions/drying/) | অবশিষ্ট পানি, বোতলের আকৃতি, বাতাসের সরবরাহ ও পরের লেবেলিং ধাপ |
+| ০৮ | [লেবেলিং মেশিন](/bn/solutions/labeling/) | লেবেলের উপাদান, বোতলের আকৃতি, অবস্থান ও সাইজ বদলের ঘনত্ব |
+| ০৯ | [লেজার কোডিং ও মার্কিং](/bn/solutions/laser-coding/) | পৃষ্ঠের উপাদান, কোডের বিষয় ও কনট্রাস্ট, গতি এবং ধোঁয়া নিষ্কাশন |
+| ১০ | [কার্টন প্যাকিং ও প্যালেটাইজিং](/bn/solutions/packing-palletizing/) | কার্টনের বিন্যাস, সিলিং পদ্ধতি, প্যালেট বিন্যাস ও হস্তান্তরের সীমা |
+| ১১ | [ফল ও সবজি প্রি-প্রসেসিং](/bn/solutions/fruit-veg-processing/) | কাঁচামাল, উত্তোলন, ধোয়া বা বাছাই এবং পরের যন্ত্রের সংযোগ |
+| ১২ | [তরল ফিল্টারিং](/bn/solutions/filtering/) | ইনলেটের কঠিন পদার্থ, প্রয়োজনীয় ফিল্ট্রেট, মিডিয়া, পরিষ্কার ও ভোগ্যপণ্য |
+| ১৩ | [ওয়াইন ও পানীয় বোতলজাতকরণ](/bn/solutions/brewing/) | লো-ভ্যাকুয়াম ফিলিং, কর্কিং, বোতল ধোয়া ও লাইন সংযোগ |
+| ১৪ | [দুগ্ধ প্রক্রিয়াকরণ](/bn/solutions/dairy-processing/) | পণ্যের প্রক্রিয়া, তাপ প্রয়োগ, স্বাস্থ্যবিধির সীমা ও ফিলিং সংযোগ |
+
+## একই সীমায় প্রস্তুতকারকের কোটেশন তুলনা করুন
+
+- মূল মেশিন, সাইজ বদলের অংশ, কনভেয়র, গার্ড, নিয়ন্ত্রণ ব্যবস্থা এবং সম্মত সংস্পর্শের উপাদান দামের মধ্যে আছে কি না দেখুন।
+- ট্যাংক, পাম্প, পাইপ, ইউটিলিটি, তার, ভিত্তি এবং যন্ত্রগুলোর মধ্যকার সংকেত কোন পক্ষ দেবে তা লিখুন।
+- বিকল্প মডিউল, প্রাথমিক ভোগ্যপণ্য, সুপারিশকৃত খুচরা যন্ত্রাংশ এবং ভবিষ্যৎ সাইজের টুলিং মূল দাম থেকে আলাদা করুন।
+- রপ্তানি প্যাকিং, ডেলিভারির শর্ত, গন্তব্য, নথির ভাষা এবং পাঠানোর সময়ের ভিত্তি লিখিতভাবে নিশ্চিত করুন।
+- ইনস্টলেশন, কমিশনিং, অপারেটর প্রশিক্ষণ ও উৎপাদন সহায়তা দূর থেকে, সাইটে নাকি সীমার বাইরে তা স্পষ্ট করুন।
+- ওয়ারেন্টি, বিক্রয়োত্তর সাড়া, ভ্রমণ ব্যয় ও প্রতিস্থাপন অংশের শর্ত কোটেশন ও চুক্তি অনুযায়ী লিখুন; কোনো সময়সীমা বা বিনামূল্যের সেবা ধরে নেবেন না।
+
+## FAT, SAT ও গ্রহণযোগ্যতা পরীক্ষা
+
+FAT অনুমোদিত নমুনা বা লিখিত বিকল্প উপাদান দিয়ে করা উচিত। পরীক্ষায় সম্মত সাইজ, স্থায়ী চালনা, সাইজ পরিবর্তন, পরিষ্কার, নিরাপত্তা ইন্টারলক এবং যন্ত্রগুলোর সংকেত অন্তর্ভুক্ত থাকবে। SAT স্থাপনের পরে ইউটিলিটি, সংযোগ এবং গ্রহণযোগ্যতা পদ্ধতি যাচাই করবে। উৎপাদনক্ষমতা, ভরার ফল, ক্যাপ বা কর্ক বসানোর ফল, লেবেলের অবস্থান, বাতিল করার লজিক এবং অনুমোদিত বিরতি পরীক্ষার আগে ক্রয় নথিতে লিখতে হবে।
 
 <a id="brewing-reference"></a>
 
-## ব্রুইং যন্ত্রপাতি সিরিজের রেফারেন্স মডেল
+## ওয়াইন ও লো-ভ্যাকুয়াম ফিলিংয়ের প্রকাশিত রেফারেন্স
+
+নিচের মানগুলো প্রকাশিত রেফারেন্স হিসেবে অপরিবর্তিত রাখা হয়েছে। ক্রয়ের শর্ত করার আগে কোটেশনে তরল, বোতল, পরীক্ষার সময় এবং গ্রহণযোগ্যতার সহনশীলতা নিশ্চিত করুন।
 
 | মডেল | প্রকাশ্য প্যারামিটার | প্রয়োগ |
 | --- | --- | --- |
-| ওয়াইন রিন্সিং-ফিলিং-কর্কিং মনোব্লক GFP-16-12-1 থেকে GFP-30-24-6 | 2000-6000 বোতল/ঘন্টা; 16-30 রিন্সিং হেড; 12-24 লো ভ্যাকুয়াম ফিলিং হেড; 1-6 কর্কিং হেড | ওয়াইন ও ফলের ওয়াইন লাইনের জন্য উপযোগী |
-| ফিলিং ও কর্কিং মনোব্লক GFP16-1 / GFP24-6 | 2200 / 6000 বোতল/ঘন্টা; 16 / 24 ফিলিং হেড; 1 / 6 কর্কিং হেড | ফিলিংয়ের পর সরাসরি কর্কিংয়ের জন্য উপযোগী |
-| লো ভ্যাকুয়াম ফিলিং মেশিন GFP-12A থেকে GFP-60H | 3000-20000 বোতল/ঘন্টা; 12-60 হেড; 1.12-7.5 kW | ওয়াইন, হুয়াংজিউ, সয়া সস ও ভিনেগারের জন্য উপযোগী |
+| ওয়াইন রিন্সিং-ফিলিং-কর্কিং মনোব্লক GFP-16-12-1 থেকে GFP-30-24-6 | 2000-6000 বোতল/ঘন্টা; 16-30 রিন্সিং হেড; 12-24 লো ভ্যাকুয়াম ফিলিং হেড; 1-6 কর্কিং হেড | ওয়াইন ও ফলের ওয়াইনের সমন্বিত লাইন |
+| ফিলিং ও কর্কিং মনোব্লক GFP16-1 / GFP24-6 | 2200 / 6000 বোতল/ঘন্টা; 16 / 24 ফিলিং হেড; 1 / 6 কর্কিং হেড | ফিলিংয়ের পর সরাসরি কর্ক বসানো |
+| লো ভ্যাকুয়াম ফিলিং মেশিন GFP-12A থেকে GFP-60H | 3000-20000 বোতল/ঘন্টা; 12-60 হেড; 1.12-7.5 kW | ওয়াইন, হুয়াংজিউ, সয়া সস ও ভিনেগারের মতো গ্যাসবিহীন তরল |
 
 <a id="brew-vacuum"></a>
-### [লো ভ্যাকুয়াম ফিলিং মেশিন](/bn/products/filling/low-vacuum-filling-machine)
 
-- প্রকাশ্য রেঞ্জ: `GFP-12A` থেকে `GFP-60H`, প্রায় `3000-20000 বোতল/ঘন্টা`
-- সরাসরি লিংক: [`GFP-12A`](/bn/products/filling/gfp-12a-low-vacuum-filling-machine), [`GFP-18A`](/bn/products/filling/gfp-18a-low-vacuum-filling-machine), [`GFP-24H`](/bn/products/filling/gfp-24h-low-vacuum-filling-machine), [`GFP-30H`](/bn/products/filling/gfp-30h-low-vacuum-filling-machine), [`GFP-36H`](/bn/products/filling/gfp-36h-low-vacuum-filling-machine), [`GFP-40H`](/bn/products/filling/gfp-40h-low-vacuum-filling-machine)
-- গ্যাসবিহীন কিন্তু সহজে ফেনা হওয়া তরলের জন্য, যেখানে স্থির ফিলিং লেভেল দরকার
+### GFP লো-ভ্যাকুয়াম ফিলিং মডেল
 
-## সম্পর্কিত পৃষ্ঠা
+- [GFP লো-ভ্যাকুয়াম ফিলিং মেশিন সিরিজ](/bn/products/filling/low-vacuum-filling-machine)
+- [GFP-12A](/bn/products/filling/gfp-12a-low-vacuum-filling-machine)
+- [GFP-12B](/bn/products/filling/gfp-12b-low-vacuum-filling-machine)
+- [GFP-18A](/bn/products/filling/gfp-18a-low-vacuum-filling-machine)
+- [GFP-24H](/bn/products/filling/gfp-24h-low-vacuum-filling-machine)
+- [GFP-30H](/bn/products/filling/gfp-30h-low-vacuum-filling-machine)
+- [GFP-36H](/bn/products/filling/gfp-36h-low-vacuum-filling-machine)
+- [GFP-40H](/bn/products/filling/gfp-40h-low-vacuum-filling-machine)
+- [GFP-48H](/bn/products/filling/gfp-48h-low-vacuum-filling-machine)
+- [GFP-60H](/bn/products/filling/gfp-60h-low-vacuum-filling-machine)
 
-- [ব্রুইং যন্ত্রপাতি সিরিজ](/bn/solutions/brewing/)
-- [কর্কিং মেশিন সিরিজ](/bn/solutions/corking/)
-- [দাম ও দরপত্র নিন](/bn/contact/)
 <!-- packaging-hub-links:start -->
-## বিস্তারিত পণ্যের লিংক
+## সরাসরি পণ্য তালিকা
 
-### বোতলজাতকরণ সাপোর্টিং সলিউশন ওভারভিউ
-- [মদ ভরাট দুই লাইন](/bn/products/filling/baijiu-filling-capping-monoblock)
-- [থ্রি-লাইন মেশিন রিন্সিং, ফিলিং এবং সিল করা](/bn/products/filling/cgf-three-in-one-monoblock)
-- [GDP36DK-10-10 সম্পূর্ণ স্বয়ংক্রিয় বুদ্ধিমান ফিলিং, ক্যাপিং এবং সিলিং মেশিন](/bn/products/filling/gdp36dk-filling-capping-sealing-monoblock)
+<a id="filling-packages-reference"></a>
 
-### বোতল rinsing মেশিন সিরিজ
-- [চেইন রেল টাইপ বোতল ওয়াশিং মেশিন](/bn/products/filling/chain-bottle-washer)
+### সমন্বিত ফিলিং ও প্যাকেজিং মনোব্লক
+
+সিরিজ: [সমন্বিত ফিলিং ও প্যাকেজিং লাইন](/bn/solutions/filling-packages)
+
+- [স্পিরিট ফিলিং ও ক্যাপিং মনোব্লক](/bn/products/filling/baijiu-filling-capping-monoblock)
+- [CGF রিন্সিং, ফিলিং ও ক্যাপিং মনোব্লক](/bn/products/filling/cgf-three-in-one-monoblock)
+- [GDP36DK ফিলিং, ক্যাপিং ও সিলিং মনোব্লক](/bn/products/filling/gdp36dk-filling-capping-sealing-monoblock)
+
+<a id="bottle-washing-reference"></a>
+
+### ০১. বোতল ধোয়া ও রিন্সিং
+
+সিরিজ: [বোতল ধোয়া ও রিন্সিং যন্ত্রপাতি](/bn/solutions/bottle-washing/)
+
+- [চেইন-কনভেয়র বোতল রিন্সার](/bn/products/filling/chain-bottle-washer)
 - [ফ্লিপ-টাইপ বোতল রিন্সার](/bn/products/filling/flip-bottle-washer)
-- [মাঝে মাঝে ধুয়ে ফেলার মেশিন](/bn/products/filling/intermittent-bottle-washer)
+- [বিরতিমূলক বোতল রিন্সার](/bn/products/filling/intermittent-bottle-washer)
 - [রোটারি বোতল রিন্সার](/bn/products/filling/rotary-bottle-washer)
-- [সিক্স-হুইল রিসিং মেশিন](/bn/products/filling/six-wheel-bottle-washer)
+- [ছয়-চাকা বোতল রিন্সার](/bn/products/filling/six-wheel-bottle-washer)
 
-### ফিলিং মেশিন সিরিজ
-- [অ্যাসিড এবং ক্ষার জারা প্রতিরোধী ফিলিং মেশিন](/bn/products/filling/corrosion-resistant-filling-machine)
+<a id="filling-reference"></a>
+
+### ০২. তরল ফিলিং মেশিন
+
+সিরিজ: [ফিলিং মেশিন নির্বাচন](/bn/solutions/filling/)
+
+- [ক্ষয়-প্রতিরোধী তরল ফিলিং মেশিন](/bn/products/filling/corrosion-resistant-filling-machine)
 - [উচ্চ-নির্ভুলতা পরিমাণগত ফিলিং মেশিন](/bn/products/filling/high-precision-filling-machine)
-- [বুদ্ধিমান পরিমাণগত ফিলিং মেশিন](/bn/products/filling/intelligent-quantitative-filling-machine)
-- [লিনিয়ার ফিলিং মেশিন](/bn/products/filling/linear-filling-machine)
-- [কীটনাশক ফিলিং মেশিন](/bn/products/filling/pesticide-filling-machine)
-- [রোটারি ভ্যাট ফিলিং মেশিন](/bn/products/filling/rotary-drum-filling-machine)
-- [সিরিজ ইন্টেলিজেন্ট ফিলিং মেশিন](/bn/products/filling/smart-filling-machine)
+- [বুদ্ধিমান পরিমাণগত ফিলিং ও ক্যাপিং লাইন](/bn/products/filling/intelligent-quantitative-filling-machine)
+- [লিনিয়ার 10-25 L ফিলিং মেশিন](/bn/products/filling/linear-filling-machine)
+- [কৃষি রাসায়নিক ও কীটনাশক ফিলিং মেশিন](/bn/products/filling/pesticide-filling-machine)
+- [রোটারি বড় পাত্র ফিলিং মেশিন](/bn/products/filling/rotary-drum-filling-machine)
+- [বুদ্ধিমান বোতল ফিলিং মেশিন সিরিজ](/bn/products/filling/smart-filling-machine)
 
-### ল্যাম্প পরিদর্শন মেশিন সিরিজ
-- [হালকা পরিদর্শন মেশিন](/bn/products/filling/light-inspection-machine)
+<a id="light-inspection-reference"></a>
 
-### সিলিং মেশিন সিরিজ
+### ০৩. বোতল লাইট ইন্সপেকশন
+
+সিরিজ: [বোতল পরিদর্শন যন্ত্রপাতি](/bn/solutions/light-inspection/)
+
+- [বোতল লাইট ইন্সপেকশন মেশিন](/bn/products/filling/light-inspection-machine)
+
+<a id="sealing-reference"></a>
+
+### ০৪. ক্যাপিং ও সিলিং
+
+সিরিজ: [ক্যাপিং ও সিলিং যন্ত্রপাতি](/bn/solutions/sealing/)
+
 - [অ্যালুমিনিয়াম ক্যাপ সিলিং মেশিন](/bn/products/filling/aluminum-cap-sealing-machine)
-- [সম্পূর্ণ স্বয়ংক্রিয় অ্যান্টি-থেফ্ট কভার সিলিং মেশিন](/bn/products/filling/anti-theft-cap-sealing-machine)
-- [প্লাস্টিক অ্যান্টি-প্রেশার ক্যাপিং মেশিন](/bn/products/filling/plastic-cap-pressing-machine)
-- [সম্পূর্ণ স্বয়ংক্রিয় বায়ুসংক্রান্ত ক্যাপিং মেশিন](/bn/products/filling/pneumatic-capping-machine)
-- [স্বয়ংক্রিয় একক মাথা সিলিং মেশিন](/bn/products/filling/single-head-sealing-machine)
+- [স্বয়ংক্রিয় ট্যাম্পার-এভিডেন্ট ক্যাপ সিলার](/bn/products/filling/anti-theft-cap-sealing-machine)
+- [প্লাস্টিক প্রেস-অন ক্যাপিং মেশিন](/bn/products/filling/plastic-cap-pressing-machine)
+- [স্বয়ংক্রিয় নিউম্যাটিক ক্যাপিং মেশিন](/bn/products/filling/pneumatic-capping-machine)
+- [স্বয়ংক্রিয় এক-মাথা ক্যাপ সিলিং মেশিন](/bn/products/filling/single-head-sealing-machine)
 
-### স্টপারিং মেশিন সিরিজ
-- [সম্পূর্ণ স্বয়ংক্রিয় কর্কিং মেশিন](/bn/products/filling/automatic-corking-machine)
+<a id="corking-reference"></a>
+
+### ০৫. কর্ক ও স্টপার বসানোর মেশিন
+
+সিরিজ: [কর্কিং যন্ত্রপাতি](/bn/solutions/corking/)
+
+- [স্বয়ংক্রিয় কর্কিং মেশিন](/bn/products/filling/automatic-corking-machine)
 - [ম্যানুয়াল কর্কিং মেশিন](/bn/products/filling/manual-corking-machine)
 - [আধা-স্বয়ংক্রিয় কর্কিং মেশিন](/bn/products/filling/semi-automatic-corking-machine)
 
-### রাবার ক্যাপ তাপ সঙ্কুচিত মেশিন সিরিজ
-- [ক্যাপিং/সঙ্কুচিত মেশিন](/bn/products/filling/cap-rolling-shrinking-machine)
-- [মাল্টি-হেড রাবার ক্যাপ হিট সঙ্কুচিত মেশিন](/bn/products/filling/multi-head-cap-shrinking-machine)
-- [একক মাথা রাবার ক্যাপ তাপ সঙ্কুচিত মেশিন](/bn/products/filling/single-head-cap-shrinking-machine)
+<a id="cap-shrinking-reference"></a>
 
-### ব্লো ড্রায়ার সিরিজ
-- [স্পাইডারহ্যান্ড এনার্জি সেভিং ব্লো ড্রায়ার](/bn/products/filling/spider-arm-bottle-dryer)
-- [টার্বোচার্জড এয়ার নাইফ ব্লো ড্রায়ার](/bn/products/filling/turbo-air-knife-dryer)
+### ০৬. ক্যাপ রোলিং ও হিট-শ্রিংক
 
-### লেবেলিং মেশিন সিরিজ
-- [DF-T200 আধা-স্বয়ংক্রিয় বৃত্তাকার বোতল লেবেল মেশিন](/bn/products/filling/df-t200-round-bottle-labeler)
-- [লিনিয়ার ডাবল লেবেল সম্পূর্ণ স্বয়ংক্রিয় লেবেলিং মেশিন](/bn/products/filling/double-label-automatic-labeling-machine)
-- [সম্পূর্ণ স্বয়ংক্রিয় স্ব-আঠালো লেবেলিং মেশিন](/bn/products/filling/self-adhesive-labeling-machine)
+সিরিজ: [ক্যাপ রোলিং ও শ্রিংকিং যন্ত্রপাতি](/bn/solutions/cap-shrinking/)
 
-### লেজার কোডিং মেশিন সিরিজ
-- [CO2 লেজার মেশিন](/bn/products/filling/co2-laser-marking-machine)
+- [ক্যাপ রোলিং ও হিট-শ্রিংক মেশিন](/bn/products/filling/cap-rolling-shrinking-machine)
+- [মাল্টি-হেড ক্যাপ হিট-শ্রিংক মেশিন](/bn/products/filling/multi-head-cap-shrinking-machine)
+- [সিঙ্গেল-হেড ক্যাপ হিট-শ্রিংক মেশিন](/bn/products/filling/single-head-cap-shrinking-machine)
+
+<a id="drying-reference"></a>
+
+### ০৭. বোতলের বাইরের অংশ শুকানো
+
+সিরিজ: [বোতল শুকানোর যন্ত্রপাতি](/bn/solutions/drying/)
+
+- [HG-A/HG-B স্পাইডার-আর্ম বোতল ড্রায়ার](/bn/products/filling/spider-arm-bottle-dryer)
+- [HG-2/HG-3 টার্বো এয়ার-নাইফ বোতল ড্রায়ার](/bn/products/filling/turbo-air-knife-dryer)
+
+<a id="labeling-reference"></a>
+
+### ০৮. লেবেলিং মেশিন
+
+সিরিজ: [লেবেলিং যন্ত্রপাতি](/bn/solutions/labeling/)
+
+- [DF-T200 আধা-স্বয়ংক্রিয় গোল বোতল লেবেলার](/bn/products/filling/df-t200-round-bottle-labeler)
+- [স্বয়ংক্রিয় দুই-পাশের লেবেলিং মেশিন](/bn/products/filling/double-label-automatic-labeling-machine)
+- [স্বয়ংক্রিয় স্ব-আঠালো গোল বোতল লেবেলার](/bn/products/filling/self-adhesive-labeling-machine)
+
+<a id="laser-coding-reference"></a>
+
+### ০৯. লেজার কোডিং ও মার্কিং
+
+সিরিজ: [লেজার কোডিং যন্ত্রপাতি](/bn/solutions/laser-coding/)
+
+- [CO2 লেজার কোডিং মেশিন](/bn/products/filling/co2-laser-marking-machine)
 - [ফাইবার লেজার মার্কিং মেশিন](/bn/products/filling/fiber-laser-marking-machine)
 
-### প্যাকিং এবং প্যালেটাইজিং
-- [স্বয়ংক্রিয় ভাঁজ এবং সিলিং মেশিন](/bn/products/filling/carton-sealing-machine)
-- [স্বয়ংক্রিয় আনপ্যাকিং, শক্ত কাগজ তৈরি এবং কার্টনিং মেশিন](/bn/products/filling/case-erector-packing-machine)
+<a id="packing-palletizing-reference"></a>
+
+### ১০. কার্টন প্যাকিং ও প্যালেটাইজিং
+
+সিরিজ: [কার্টন প্যাকিং ও প্যালেটাইজিং যন্ত্রপাতি](/bn/solutions/packing-palletizing/)
+
+- [স্বয়ংক্রিয় কার্টন ভাঁজ ও টেপ সিলিং মেশিন](/bn/products/filling/carton-sealing-machine)
+- [স্বয়ংক্রিয় কেস ইরেক্টর ও কার্টন প্যাকিং মেশিন](/bn/products/filling/case-erector-packing-machine)
 - [রোবট প্যালেটাইজার](/bn/products/filling/robot-palletizer)
 
-### ফল এবং উদ্ভিজ্জ প্রি-প্রসেসিং সরঞ্জাম
-- [উত্তোলন](/bn/products/filling/fruit-elevator)
+<a id="fruit-veg-processing-reference"></a>
 
-### চোলাই সরঞ্জাম সিরিজ
-- [অনলাইনে দুটি পূরণ করা এবং বন্ধ করা](/bn/products/filling/filling-corking-monoblock)
-- [GFP-12A কম ভ্যাকুয়াম ফিলিং মেশিন](/bn/products/filling/gfp-12a-low-vacuum-filling-machine)
-- [GFP-12B কম ভ্যাকুয়াম ফিলিং মেশিন](/bn/products/filling/gfp-12b-low-vacuum-filling-machine)
-- [GFP-18A কম ভ্যাকুয়াম ফিলিং মেশিন](/bn/products/filling/gfp-18a-low-vacuum-filling-machine)
-- [GFP-24H কম ভ্যাকুয়াম ফিলিং মেশিন](/bn/products/filling/gfp-24h-low-vacuum-filling-machine)
-- [GFP-30H কম ভ্যাকুয়াম ফিলিং মেশিন](/bn/products/filling/gfp-30h-low-vacuum-filling-machine)
-- [GFP-36H কম ভ্যাকুয়াম ফিলিং মেশিন](/bn/products/filling/gfp-36h-low-vacuum-filling-machine)
-- [GFP-40H কম ভ্যাকুয়াম ফিলিং মেশিন](/bn/products/filling/gfp-40h-low-vacuum-filling-machine)
-- [GFP-48H কম ভ্যাকুয়াম ফিলিং মেশিন](/bn/products/filling/gfp-48h-low-vacuum-filling-machine)
-- [GFP-60H কম ভ্যাকুয়াম ফিলিং মেশিন](/bn/products/filling/gfp-60h-low-vacuum-filling-machine)
-- [কম ভ্যাকুয়াম ফিলিং মেশিন](/bn/products/filling/low-vacuum-filling-machine)
-- [ওয়াইন রিন্সিং, ফিলিং এবং কর্কিং কম্বাইন্ড মেশিন](/bn/products/filling/wine-rinsing-filling-corking-monoblock)
+### ১১. ফল ও সবজি প্রি-প্রসেসিং
 
-### দুধ প্রক্রিয়াকরণ সরঞ্জাম
+সিরিজ: [ফল ও সবজি প্রি-প্রসেসিং যন্ত্রপাতি](/bn/solutions/fruit-veg-processing/)
+
+- [ফল ও সবজি এলিভেটর](/bn/products/filling/fruit-elevator)
+
+<a id="filtering-reference"></a>
+
+### ১২. তরল ফিল্টারিং
+
+সিরিজ: [ফিলিংয়ের আগের তরল ফিল্টারিং](/bn/solutions/filtering/)
+
+কোটেশনের জন্য ইনলেটের কঠিন পদার্থ, প্রয়োজনীয় ফিল্ট্রেট, তাপমাত্রা, পরিষ্কার করার পদ্ধতি এবং ফিল্টার মিডিয়ার সীমা জানান। এই সিরিজে বর্তমানে অপ্রমাণিত পণ্য লিংক বা ফ্র্যাগমেন্টের পরিবর্তে স্থিতিশীল সমাধান পৃষ্ঠাকে নির্বাচন প্রবেশপথ হিসেবে ব্যবহার করা হয়েছে।
+
+<a id="brewing-directory"></a>
+
+### ১৩. ওয়াইন ও গ্যাসবিহীন পানীয় বোতলজাতকরণ
+
+সিরিজ: [ওয়াইন ও পানীয় বোতলজাতকরণ যন্ত্রপাতি](/bn/solutions/brewing/)
+
+- [ওয়াইন ফিলিং ও কর্কিং মনোব্লক](/bn/products/filling/filling-corking-monoblock)
+- [ওয়াইন রিন্সিং, ফিলিং ও কর্কিং মনোব্লক](/bn/products/filling/wine-rinsing-filling-corking-monoblock)
+- [GFP সিরিজ ও পৃথক লো-ভ্যাকুয়াম মডেল](#brew-vacuum)
+
+<a id="dairy-processing-reference"></a>
+
+### ১৪. দুগ্ধ প্রক্রিয়াকরণ
+
+সিরিজ: [দুগ্ধ প্রক্রিয়াকরণ ও বোতলজাতকরণ](/bn/solutions/dairy-processing/)
+
 - [ট্যাংক পাস্তুরাইজেশন প্রক্রিয়াকরণ লাইন](/bn/products/filling/pasteurization-processing-line)
 
+## কনফিগারেশনভিত্তিক কারখানা কোটেশন নিন
+
+তরলের তথ্য, বোতল ও ক্যাপের নমুনা, প্রয়োজনীয় গতি, লেআউট, ইউটিলিটি, গন্তব্য এবং সেবার সীমা পাঠান। এরপর কোটেশনে মেশিনের দাম, বিকল্প মডিউল, ডেলিভারি, ইনস্টলেশন, খুচরা যন্ত্রাংশ, FAT/SAT এবং বিক্রয়োত্তর শর্ত আলাদা করা যাবে।
+
+[ফিলিং ও প্যাকেজিং লাইনের কোটেশন নিন](/bn/contact/)
 <!-- packaging-hub-links:end -->

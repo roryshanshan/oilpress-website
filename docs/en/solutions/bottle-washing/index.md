@@ -1,74 +1,75 @@
 ---
-title: "Bottle rinsing machine series | Specs, Models & Factory Quote"
-description: "Browse bottle rinsing machine series for edible oil and liquid packaging lines. Compare models, capacity ranges, and request factory pricing with process…"
-keywords: Bottle rinsing machine series, empty bottle rinsing equipment, edible oil rinsing machine, glass bottle rinsing machine, PET bottle cleaning equipment, filling pre-treatment equipment
+title: "Bottle Rinsing Machines | Factory Price & Line Quote"
+description: "Compare bottle rinsing machines for glass and PET containers. Plan rinsing, draining, drying and filling interfaces, then request a manufacturer quote."
+keywords: bottle rinsing machine price, bottle washer manufacturer, glass bottle rinser, PET bottle rinsing equipment, filling line quote, bottle washing machine procurement
 image: "/images/filling-solutions/bottle-washing.webp"
 ---
 
-# Bottle rinsing machine series
+# Bottle rinsing machines for filling lines
 
-![Real shot of rotary bottle washing machine](/images/filling-solutions/bottle-washing.webp)
+![Rotary bottle rinsing machine](/images/filling-solutions/bottle-washing.webp)
 
-The bottle rinser is the basic equipment in the front section of the filling line. It is mainly used for cleaning, dust removal and sanitary treatment of empty bottles before filling bottled products, helping to reduce impurities, water stains and foreign matter residues in the bottles. For items such as edible oil, small packaged flavoring oil, beverages, and fruit wine, the rinsing process directly affects the stability of subsequent filling and the appearance of the finished product.
+Bottle rinsing is the first container-contact step in many liquid packaging lines. The correct machine depends on the actual bottle, the contamination to be removed, the rinse medium and the way the container must reach the filler. A purchase quote should therefore be based on bottle samples and line interfaces, not only on a target speed.
 
-## Function in the whole line
+## Position in the production line
 
-- Improve the cleanliness of empty bottles and reduce foreign matter entering the filling area
-- Provide stable prerequisites for subsequent filling, sealing and labeling
-- Reduce efficiency fluctuations and hygiene risks caused by manual flushing
-- Suitable to be linked with dryers, filling machines and other modules to form a front-end processing unit
+A typical sequence is:
 
-## Common configuration forms
+**Bottle supply -> rinsing -> draining or bottle drying -> filling -> capping or sealing**
 
-- Flip-type bottle rinser: suitable for continuous rinse of regular bottles
-- Spray rinser: suitable for bottling lines with higher cleanliness requirements
-- Air washing/air washing equipment: suitable for scenarios where you don’t want moisture to remain in the bottle
-- Multi-station linkage structure: can be directly connected with drying and filling
+For new glass or PET bottles, the requirement may be limited to dust removal and internal rinsing. Returnable or heavily contaminated bottles can require a separate validated washing process. A standard rinser should not be treated as a sterilizer or returnable-bottle washer unless that duty is specifically designed and included in the quotation.
 
-## Applicable scenarios
+## Containers and process conditions
 
-- Peanut oil, rapeseed oil, soybean oil, sesame oil and other edible oil bottling lines
-- Glass bottles, PET bottles, small size gift box oil bottles
-- Retail packaging items that are sensitive to dust, debris and water stains inside bottles
-- Pre-processing section for liquid products such as beverages, fruit wine, seasonings, etc.
+Confirm these points before selecting a model:
 
-## Selection suggestions
+- Glass or PET, bottle shape, neck finish, base stability and allowable handling marks
+- New bottles, recycled bottles or bottles arriving with known dust and debris
+- Water, treated water, air or another approved rinse medium
+- Required inversion, contact time, drainage and residual-water condition
+- Bottle changeover frequency and the available space for conveyors and access
+- Wastewater collection, filtration or discharge responsibility
 
-- First confirm the bottle material and size range. The cleaning methods for glass bottles and plastic bottles are not exactly the same.
-- If labeling is carried out directly in the future, it is recommended to consider [blow dryer series](/en/solutions/drying/) to reduce residual water on the bottle.
-- If the project is a high-speed line, priority should be given to matching the rhythm of [filling machine series](/en/solutions/filling/)
-- If the product hygiene standards are high, filtered water circulation or waterless air washing solutions can be added
+## Available model pages
 
-## Typical matching relationship
+| Model | Best used to compare |
+| --- | --- |
+| [QSP-6A rotary bottle rinser](/en/products/filling/rotary-bottle-washer) | Rotary handling, bottle transfer and line integration |
+| [QSP six-wheel bottle washer](/en/products/filling/six-wheel-bottle-washer) | Wheel-based bottle handling and format suitability |
+| [Flip-type bottle rinser](/en/products/filling/flip-bottle-washer) | Inversion method, drainage and bottle support |
+| [Chain-rail bottle washer](/en/products/filling/chain-bottle-washer) | Conveyor arrangement and continuous bottle travel |
+| [QSP intermittent bottle rinser](/en/products/filling/intermittent-bottle-washer) | Indexed operation and upstream/downstream timing |
 
-1. Loading empty bottles
-2. Rinse and clean bottles
-3. [Blow dryer series](/en/solutions/drying/)
-4. [Filling machine series](/en/solutions/filling/)
-5. [Sealing machine series](/en/solutions/sealing/)
+Use the parameter table on each product page as the model reference. Final selection remains subject to the approved bottle and the complete line speed basis.
 
-## Benchmark reference model
+## Procurement decisions that affect price
 
-The following parameter excerpts are organized according to public pages and are suitable for quick comparison of bottle type range, cycle time and water consumption. The model name can directly enter the independent product page.
+- Stand-alone rinser or mechanically linked rinsing and filling section
+- Manual bottle loading, conveyor feed or connection to an existing unscrambler
+- Number of bottle formats and the change parts included in supply
+- Rinse circuit, pump, tank, filtration, drainage and guarding scope
+- Required conveyor length, buffer section and controls interface
+- Destination voltage, plant layout, packing method and delivery terms
 
-| Model | Excerpt of public parameters | Applicable instructions |
-| --- | --- | --- |
-| [Rotary bottle washing machine QSP-6A](/en/solutions/bottle-washing/rotary-bottle-washer) | 6000 b/h; 1.85 kW; bottle diameter ∅40-∅110 mm; bottle height 120-320 mm; water consumption 1.5 m3/h | Suitable for continuous washing of regular bottles |
-| [Six-wheel bottle washing machine QSP-6A / QSP-6B](/en/solutions/bottle-washing/six-wheel-bottle-washer) | 3000-7000 bottles/hour; 1.85-2.2 kW; applicable bottle diameter ∅50-100 mm; bottle height 100-320 mm | Suitable for medium speed glass bottles or PET bottle lines |
-| [Flip-type bottle washing machine QCP-18H~QSP-60H](/en/solutions/bottle-washing/flip-bottle-washer) | 3000-12000 p/h; 18-60 heads; bottle height 160-320 mm; bottle diameter ∅60-100 mm; water consumption 0.7-4.4 m3/h | Suitable for high clean internal flushing scenes |
+## Information needed for a factory quote
 
-## Direct access to specific models
+Send representative bottle drawings or samples, closure details, target line output, rinse medium, contamination description, upstream bottle supply, downstream filler, available utilities, layout and destination. State whether water treatment, bottle drying and wastewater handling are inside or outside the requested supply.
 
-- [Rotary bottle washing machine](/en/solutions/bottle-washing/rotary-bottle-washer)
-- [Six-wheel-bottle-washer](/en/solutions/bottle-washing/six-wheel-bottle-washer)
-- [Chain rail bottle washing machine](/en/solutions/bottle-washing/chain-bottle-washer)
-- [Intermittent bottle washing machine](/en/solutions/bottle-washing/intermittent-bottle-washer)
-- [Flip-bottle washing machine](/en/solutions/bottle-washing/flip-bottle-washer)
-- [Filling and packaging equipment parameter library overview](/en/products/filling-equipment)
+## FAT, installation and after-sales boundary
 
-## Related pages
+Factory acceptance should use the agreed bottle range and written test method. Check bottle transfer, rinse coverage, drainage, breakage or jamming, changeover and the signal interface with adjacent equipment. Site acceptance conditions, installation labor, travel, commissioning, operator training, recommended spare parts and response method must be listed in the commercial offer or contract. Items not listed should not be assumed to be included.
 
-- [Overview of filling packages](/en/solutions/filling-packages)
-- [Blow dryer series](/en/solutions/drying/)
-- [Filling machine series](/en/solutions/filling/)
-- [Contact us for complete line advice](/en/contact/)
+## Related line modules
+
+- [Bottle drying machines](/en/solutions/drying/)
+- [Liquid filling machines](/en/solutions/filling/)
+- [Light inspection machines](/en/solutions/light-inspection/)
+- [Filling and packaging line overview](/en/solutions/filling-packages)
+
+## Request bottle washer price and configuration
+
+Provide the bottle sample and line information above to receive a model recommendation, equipment list and itemized manufacturer quote.
+
+- [Request a bottle rinsing line quote](/en/contact/)
+
+<!-- quote-cta -->

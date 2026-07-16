@@ -1,153 +1,98 @@
 ---
-title: Thiết bị tinh luyện dầu ăn - Shengshi Hecheng giá | nhà sản xuất
-description: "Nhận giá nhà máy cho Thiết bị tinh luyện dầu ăn giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
-keywords: giá Thiết bị tinh luyện dầu ăn, mua Thiết bị tinh luyện dầu ăn, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+title: "Thiết bị tinh luyện dầu ăn | Giá và báo giá nhà sản xuất"
+description: "Dựa trên phân tích dầu thô để chọn khử gum, trung hòa, tẩy màu, khử mùi và khử sáp; yêu cầu báo giá, danh mục thiết bị, FAT/SAT và dịch vụ."
+keywords: giá thiết bị tinh luyện dầu ăn, báo giá dây chuyền tinh luyện dầu, nhà sản xuất thiết bị lọc dầu, khử gum dầu, tẩy màu khử mùi, hỗ trợ sau bán
 image: "/images/external/products-edible-oil-refining-equipment-f93cc22f.webp"
 ---
 # Thiết bị tinh luyện dầu ăn
 
-<div style="margin: 2rem 0;">
-  <iframe width="100%" height="500" src="https://www.youtube.com/embed/example-video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%; height: 500px; display: block;"></iframe>
-</div>
-
-## Giới thiệu sản phẩm
-
-Công ty Shandong Shengshi Hecheng chuyên nghiên cứu, sản xuất và cung cấp thiết bị tinh luyện dầu ăn. Chúng tôi cung cấp dây chuyền tinh luyện từ 1 tấn/ngày đến 100 tấn/ngày, phù hợp cho nhà máy vừa và nhỏ cũng như cơ sở sản xuất thủ công.
-
-Các hệ thống tinh luyện 1–5 tấn/ngày của chúng tôi được thiết kế dạng mô-đun, tiết kiệm diện tích, vận hành đơn giản và độ tự động hóa cao; hiệu quả loại bỏ tạp chất trong dầu thô, cải thiện màu sắc, độ trong và độ ổn định của dầu.
+Thiết bị tinh luyện không phải một cấu hình cố định cho mọi loại dầu. Tài liệu sản phẩm hiện có nêu các phương án từ 1 đến 100 tấn/ngày và dải 1-5 tấn/ngày cho cấu hình quy mô nhỏ; đây chỉ là cơ sở chọn ban đầu. Năng suất, số bồn, mức tự động hóa và phạm vi giao hàng cuối cùng phải dựa trên phân tích dầu thô, tiêu chuẩn sản phẩm, số ca và tiện ích tại xưởng.
 
 ![Thiết bị tinh luyện dầu ăn](/images/external/products-edible-oil-refining-equipment-f93cc22f.webp)
 
-## Mục đích tinh luyện
+## Mục tiêu của tinh luyện
 
-Mục đích của tinh luyện là loại bỏ tạp chất trong dầu thô, nâng cao chất lượng và độ ổn định của sản phẩm. Các tạp chất chính cần loại bỏ bao gồm:
-- Axit béo tự do
-- Phospholipid và glycolipid
-- Sắc tố và chất keo
-- Sáp và hợp chất hydrocarbon
-- Độ ẩm và các chất dễ bay hơi
-- Kim loại nặng và dư lượng thuốc bảo vệ thực vật
+Tùy kết quả xét nghiệm và quy trình được chọn, dự án có thể cần kiểm soát:
 
-## Quy trình tinh luyện
+- axit béo tự do
+- phospholipid, gum và chất keo
+- màu và các chất hấp phụ được
+- sáp và độ trong ở nhiệt độ thấp
+- độ ẩm, chất bay hơi và mùi
+- tạp chất hoặc dư lượng phải được theo dõi theo tiêu chuẩn áp dụng
 
-### Quy trình tinh luyện đầy đủ
-1. **Tiền xử lý dầu thô**: Gia nhiệt, lọc, loại tạp chất
-2. **Hoá nước & khử keo**: Loại bỏ phospholipid và chất keo
-3. **Tinh luyện kiềm (tách axit)**: Trung hoà axit béo tự do
-4. **Rửa nước**: Loại bỏ xà phòng và dư lượng kiềm
-5. **Sấy khô**: Loại bỏ độ ẩm
-6. **Tẩy màu**: Hấp phụ sắc tố và tạp chất
-7. **Khử mùi**: Loại bỏ các hợp chất gây mùi
-8. **Lọc thành phẩm**: Thu được dầu tinh luyện
+Không nên mặc định một dây chuyền tiêu chuẩn có thể loại bỏ mọi kim loại nặng, dư lượng thuốc bảo vệ thực vật hoặc làm dầu đáp ứng sẵn mọi giới hạn pháp lý. Các mục này phải được đánh giá bằng phân tích, thiết kế quy trình và phương pháp nghiệm thu đã thống nhất.
 
-### Quy trình tinh luyện đơn giản (phù hợp thiết bị nhỏ)
-1. **Tiền xử lý**: Gia nhiệt và lọc
-2. **Tinh kiềm**: Loại bỏ axit và khử keo
-3. **Rửa & sấy khô**
-4. **Lọc thành phẩm**
-4. **Lọc thành phẩm**
+## Xác định tuyến công nghệ từ dữ liệu dầu thô
+
+| Công đoạn | Nội dung cần xác nhận |
+| --- | --- |
+| Tiền lọc và gia nhiệt | Tải cặn, nhiệt độ, bồn đệm và điểm lấy mẫu |
+| Khử gum | Hàm lượng phospho/gum, nước hoặc axit sử dụng, thời gian phản ứng và tách pha |
+| Trung hòa hoặc khử axit vật lý | Chỉ số axit, hóa chất hoặc điều kiện chân không, tổn thất dầu và xử lý soapstock |
+| Rửa và sấy | Lượng nước, phương pháp tách, độ ẩm mục tiêu và nước thải |
+| Tẩy màu | Loại và liều chất hấp phụ, nhiệt độ, chân không và lọc bã |
+| Khử mùi | Nhiệt độ, chân không, hơi, thời gian giữ và yêu cầu thu hồi |
+| Khử sáp khi cần | Đường làm lạnh, kết tinh, thời gian lưu và lọc ở nhiệt độ thấp |
+| Lọc cuối và chứa | Cấp lọc, vật liệu bồn/ống, vệ sinh và bảo vệ dầu thành phẩm |
+
+Tuyến rút gọn chỉ phù hợp khi dữ liệu dầu đầu vào và yêu cầu thành phẩm cho phép. Không nên dùng tên “dây chuyền nhỏ” để bỏ qua các bước cần thiết.
 
 ## Phương pháp tinh luyện
 
-Tùy theo cơ chế phản ứng và đặc điểm thao tác công nghệ, các phương pháp tinh luyện dầu có thể chia thành ba loại chính: cơ học, hóa học và vật lý–hóa học. Các phương pháp cơ học phổ biến gồm lắng, lọc và phân tách ly tâm; phương pháp hóa học gồm tinh luyện axit/kiềm, phản ứng oxy hóa–khử và este hóa; phương pháp vật lý–hóa học gồm thủy hóa, hấp phụ, chưng cất hơi nước, chiết lỏng–lỏng và kết tinh lạnh。
+Quy trình có thể kết hợp phương pháp cơ học như lắng, lọc và ly tâm; phương pháp hóa học như trung hòa; và phương pháp hóa lý như thủy hóa, hấp phụ, chưng cất hơi nước hoặc kết tinh lạnh. Ví dụ, sau trung hòa kiềm, pha dầu và soapstock vẫn phải được tách bằng lắng hoặc ly tâm. Vì vậy, lựa chọn thiết bị cần dựa trên cả phản ứng và công đoạn phân ly phía sau.
 
-Quá trình tinh luyện dầu thường linh hoạt và có thể kết hợp nhiều phương pháp. Ví dụ, quá trình tinh kiềm (deacidification) dùng dung dịch kiềm để trung hoà axit béo tự do — đó là phương pháp hoá học; tuy nhiên, xà phòng tạo thành sau phản ứng có thể hấp phụ tạp chất và sắc tố, đây là biểu hiện của phương pháp vật lý–hóa học. Pha tách dầu–xà phòng sinh ra trong công nghệ thường được xử lý bằng lắng trọng lực hoặc máy ly tâm, đó là ví dụ của phương pháp cơ học. Do đó, việc kết hợp khoa học các phương pháp mới giúp nâng cao hiệu quả tinh luyện và đạt được mục tiêu chất lượng.
+## Dữ liệu cấu hình tham khảo
 
-## Đặc điểm kỹ thuật
+| Hạng mục | Giá trị đang được công bố |
+| --- | --- |
+| Dải xử lý của cấu hình nhỏ | 1-5 tấn/ngày |
+| Điện áp | 380V/50Hz, có thể cấu hình theo dự án |
+| Công suất lắp đặt | 15-25KW |
+| Diện tích tham khảo | 50-100 m² |
+| Nhân sự vận hành tham khảo | 2-4 người |
 
-### 🛠 Lợi thế kỹ thuật cốt lõi
-- **Thiết kế mô-đun**: dễ lắp đặt, bảo trì và nâng cấp
-- **Điều khiển tự động**: Hệ thống PLC thông minh, vận hành đơn giản
-- **Tiết kiệm năng lượng & thân thiện môi trường**: Thiết kế tiêu thụ năng lượng thấp, đáp ứng tiêu chuẩn xanh
-- **Phù hợp nhiều loại dầu**: Hỗ trợ dầu lạc, dầu cải, dầu đậu nành, dầu ngô, v.v.
-- **Chất lượng ổn định**: Kiểm soát chất lượng nghiêm ngặt, đảm bảo chất lượng dầu thành phẩm
+Các giá trị trên phải được xác nhận lại theo sơ đồ công nghệ, số và dung tích bồn, mức gia nhiệt/làm lạnh, thời gian mẻ, điều kiện lắp đặt và cấu hình điện trong báo giá đã ký. Chúng không phải cam kết chung về năng suất hoặc chi phí vận hành.
 
-### 📊 Thông số kỹ thuật
-- **Công suất xử lý**: 1-5 tấn/ngày
-- **Điện áp**: 380V/50Hz（Tuỳ chỉnh）
-- **Công suất**: 15-25KW
-- **Diện tích lắp đặt**: 50-100 m²
-- **Nhân công vận hành**: 2-4 người
-- **Hiệu suất tinh luyện**: ≥98%
-- **Chất lượng dầu thành phẩm**: Tuân thủ tiêu chuẩn quốc gia về dầu ăn
+## Phạm vi thiết bị có thể gồm
 
-## Thành phần thiết bị
+1. Bồn tiền xử lý để gia nhiệt, khuấy và lọc.
+2. Bồn khử gum hoặc thủy hóa.
+3. Bồn trung hòa kiềm khi tuyến công nghệ yêu cầu.
+4. Bồn rửa và thiết bị tách pha.
+5. Bồn hoặc hệ thống sấy.
+6. Bồn tẩy màu và cấp chất hấp phụ.
+7. Hệ thống khử mùi khi thuộc phạm vi dự án.
+8. Máy lọc khung bản hoặc thiết bị phân ly đã chọn.
+9. Tủ điều khiển, dụng cụ đo và liên động theo danh sách I/O.
+10. Bơm, đường ống và van theo vật liệu, nhiệt độ và yêu cầu vệ sinh.
 
-### Danh sách thiết bị chính
-1. **Bể tiền xử lý**: gia nhiệt, khuấy trộn, lọc
-2. **Bể thủy hóa**: loại bỏ phospholipid
-3. **Bể tinh kiềm**: phản ứng trung hòa axit
-4. **Bể rửa nước**: tách bã xà phòng
-5. **Bể sấy**: bay hơi độ ẩm
-6. **Bể tẩy màu**: hấp phụ bằng đất trắng
-7. **Bể khử mùi**: chưng cất bằng hơi nước
-8. **Máy lọc**: máy lọc khung bản hoặc máy ly tâm
-9. **Hệ thống điều khiển**: tủ điều khiển PLC
-10. **Hệ thống ống**: ống và van bằng thép không gỉ
+Danh sách thực tế có thể ít hoặc nhiều hơn; cần thể hiện rõ thiết bị chính, tùy chọn, vật tư khởi động và phần do bên mua chuẩn bị.
 
-## Ứng dụng
+## Thông tin cần gửi để nhận báo giá
 
-### 🏭 Phạm vi áp dụng
-- **Nhà máy dầu nhỏ**: công suất 1–5 tấn/ngày, phù hợp cho khu vực nông thôn
-- **Xưởng gia đình**: Thiết kế mô-đun, dễ vận hành
-- **Chế biến nông sản**: Hỗ trợ chế biến sâu nông sản
-- **Thương mại xuất khẩu**: Sản xuất dầu ăn đạt tiêu chuẩn quốc tế
+1. Loại dầu thô, quy trình ép/lọc trước đó và mẫu hoặc kết quả phân tích đại diện.
+2. Lượng dầu theo mẻ, giờ và ngày; số giờ chạy và tần suất đổi loại dầu.
+3. Công đoạn cần có: khử gum, khử axit, tẩy màu, khử mùi, khử sáp và lọc cuối.
+4. Tiêu chuẩn sản phẩm, thị trường đích, chỉ tiêu cần nghiệm thu và phương pháp lấy mẫu.
+5. Điện, hơi, nước, khí nén, làm lạnh, chân không, diện tích, bồn hiện có và giới hạn xả thải.
+6. Phạm vi giao hàng, điều kiện thương mại, địa điểm lắp đặt và ngôn ngữ tài liệu/đào tạo.
 
-### 🌾 Các loại dầu phù hợp
-- Dầu lạc, dầu mè, dầu cải
-- Dầu đậu nành, dầu ngô, dầu hướng dương
-- Dầu hạt trà, dầu óc chó và các loại dầu ăn khác
+## FAT, SAT và ranh giới chất lượng
 
-## Ví dụ khách hàng
+Trước khi đặt hàng, thống nhất dầu thử, thời gian chạy, phương pháp cân bằng khối lượng, điểm lấy mẫu và đơn vị xét nghiệm. Biên bản FAT/SAT có thể ghi năng suất thực tế, đường nhiệt độ và chân không, thời gian mẻ, hao hụt, mức tiêu thụ tiện ích, độ kín, vệ sinh, liên động và các chỉ tiêu dầu đã ghi trong hợp đồng.
 
-### Dự án nhà máy dầu quy mô vừa và nhỏ
-- **Một nhà máy ở Sơn Đông**: Sử dụng dây chuyền tinh luyện 3 tấn/ngày, sản lượng tinh luyện dầu lạc 2.8 tấn/ngày, chất lượng ổn định và được thị trường ưa chuộng
-- **Hợp tác xã ở Hà Nam**: Thiết bị 1.5 tấn/ngày, chế biến 50 tấn nguyên liệu/năm, đạt tích hợp tinh luyện địa phương
-- **Một trang trại ở Đông Bắc**: Thiết bị tinh luyện 2 tấn/ngày cho dầu đậu nành, sản phẩm xuất khẩu sang thị trường Nga
+Chất lượng cuối, hạn sử dụng và tuân thủ pháp lý phụ thuộc vào dầu thô, hóa chất, vận hành, bao bì và bảo quản. Thiết bị chỉ được nghiệm thu theo phạm vi và chỉ tiêu đã thỏa thuận, không theo cam kết chung trên trang giới thiệu.
 
-## Dịch vụ & Bảo hành
+## Dịch vụ, phụ tùng và môi trường
 
-### ✅ Dịch vụ toàn diện
-- **Tư vấn kỹ thuật**: Cung cấp miễn phí thiết kế quy trình và hướng dẫn kỹ thuật
-- **Lắp đặt thiết bị**: Kỹ thuật viên chuyên nghiệp lắp đặt và hiệu chỉnh tại chỗ
-- **Đào tạo vận hành**: Đào tạo nhân viên tại hiện trường
-- **Bảo trì hậu mãi**: Bảo hành 1 năm, hỗ trợ kỹ thuật trọn đời
-- **Cung cấp phụ tùng**: Cung cấp phụ tùng chính hãng lâu dài
+Báo giá cần tách thiết kế quy trình, thiết bị chính, bồn, bơm, đường ống, điều khiển, lắp đặt, chạy thử, đào tạo, phụ tùng, vận chuyển và bảo hành. Nêu rõ hình thức hỗ trợ từ xa hoặc tại chỗ, số ngày, chi phí đi lại, bộ phận được bảo hành, trường hợp loại trừ, thời gian cung cấp phụ tùng và trách nhiệm của mỗi bên.
 
-### 📞 Thông tin liên hệ
-- **Đường dây tư vấn**: +86 19906365856
-- **Hỗ trợ kỹ thuật**: gavin@oil-pressing-machine.com
-- **Địa chỉ công ty**: 5888 Đường Yineng, Khu phát triển, Thành phố Qingzhou, Thành phố Weifang, Tỉnh Shandong
+Nước thải, soapstock, bã lọc, hơi và khí thải phải được đánh giá theo thành phần, quy định địa phương và phạm vi hợp đồng. Tách dầu-nước, thu hồi nhiệt hoặc xử lý khí chỉ được xem là có trong dự án khi đã ghi trong danh mục cung cấp và tiêu chí nghiệm thu.
 
-## Tiêu chuẩn chất lượng
+## Trang liên quan
 
-### 🏆 Tiêu chuẩn sản phẩm
-Sản phẩm dầu tinh luyện phù hợp các tiêu chuẩn sau:
-- Tiêu chuẩn quốc gia GB 1535 (Dầu lạc)
-- Tiêu chuẩn quốc gia GB 1534 (Dầu cải)
-- Tiêu chuẩn quốc gia GB 1536 (Dầu đậu nành)
-- Tiêu chuẩn an toàn thực phẩm quốc gia GB 5009
-
-### 🔍 Các hạng mục kiểm tra
-- Giá axit (KOH mg/g) ≤0.2
-- Giá trị peroxide (meq/kg) ≤5.0
-- Màu sắc (Lovibond) vàng ≤15, đỏ ≤1.5
-- Độ ẩm và chất dễ bay hơi (%) ≤0.05
-- Chất không xà phòng hóa (%) ≤1.0
-
-## Tính năng bảo vệ môi trường
-
-### 🌱 Sản xuất xanh
-- **Xử lý nước thải**: tách dầu và nước, tái sử dụng
-- **Xử lý khí thải**: hấp phụ bằng than hoạt tính, thải đạt tiêu chuẩn
-- **Xử lý chất thải rắn**: tận dụng phần xà phòng và bã lọc
-- **Thiết kế tiết kiệm năng lượng**: thu hồi nhiệt, giảm tiêu thụ năng lượng
-
----
-
-```yaml
-seo:
-  title: Thiết bị tinh luyện dầu ăn | 1-5 tấn/ngày | Shandong Shengshi Hecheng Machinery Co., Ltd.
-  description: Thiết bị tinh luyện dầu ăn chuyên nghiệp, công suất xử lý 1–5 tấn/ngày, sử dụng quy trình tinh luyện tiên tiến để loại bỏ tạp chất và nâng cao chất lượng dầu.
-  keywords: thiết bị tinh luyện dầu ăn, dây chuyền tinh luyện dầu, tinh luyện dầu 1-5 tấn, thiết bị lọc dầu, tinh luyện kiềm, tẩy màu, khử mùi
-```
+- [Thiết bị lọc dầu ăn](/vi/products/filtration-equipment)
+- [Thiết bị xử lý sau ép](/vi/products/post-treatment)
+- [Thiết bị tinh luyện và khử sáp](/vi/products/refining-and-dewaxing-equipment)
+- [Yêu cầu cấu hình và báo giá nhà sản xuất](/vi/contact/)

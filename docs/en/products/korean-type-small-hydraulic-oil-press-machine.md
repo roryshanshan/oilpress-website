@@ -1,6 +1,6 @@
 ---
-title: "Korean Type Small Oil Press | Factory Price & Quote"
-description: "Request a factory quote for the Korean type small hydraulic oil press, including specs, delivery, procurement, and after-sales service."
+title: "Korean-Type Small Hydraulic Oil Press | Factory Quote"
+description: "Compare Korean-type hydraulic presses for shop-scale sesame and premium oils; verify batch size, footprint, voltage, accessories, cleaning, and quote scope."
 keywords: Korean Type Small Hydraulic Oil Press Machine for Shop & Small Business price, Korean Type Small Hydraulic Oil Press Machine for Shop & Small Business quote, Korean Type Small Hydraulic Oil Press Machine for Shop & Small Business manufacturer, factory procurement, production line matching, after-sales service
 image: "/images/korean-type-small-press/korean-type-overview.webp"
 ---

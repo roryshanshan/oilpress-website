@@ -1,26 +1,22 @@
 ---
-title: "Máy súc rửa sáu bánh giá | Giá nhà máy & báo giá"
-description: "Nhận giá nhà máy cho Máy súc rửa sáu bánh giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
-keywords: giá Máy rửa sáu bánh, mua Máy rửa sáu bánh, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+title: "Máy rửa chai sáu bánh | Báo giá từ nhà sản xuất"
+description: "Báo giá máy rửa chai sáu bánh từ nhà sản xuất; kiểm tra năng suất, cỡ chai, vật liệu chai và lượng nước; xác nhận khả năng ghép nối trước khi mua."
+keywords: "giá máy rửa chai sáu bánh, báo giá máy rửa chai sáu bánh, năng suất, đường kính/chiều cao và vật liệu chai, tích hợp dây chuyền chiết rót, cấu hình xuất khẩu, phụ tùng, hỗ trợ sau bán"
 image: "/images/filling-products/six-wheel-bottle-washer.webp"
 ---
-# Máy rửa sáu bánh
+# Máy súc rửa chai sáu bánh
 
 ![Máy rửa chai sáu bánh](/images/filling-products/six-wheel-bottle-washer.webp)
 
-Máy súc rửa sáu bánh có thể được sử dụng làm tài liệu tham khảo cho các mẫu máy cụ thể trong dòng máy súc rửa. Trang này sắp xếp vị trí mô hình, thông tin tham số và đề xuất hỗ trợ dựa trên thông tin sản phẩm công khai để tạo điều kiện thuận lợi cho việc lựa chọn sơ bộ và chuyển trang.
+Máy sáu bánh dùng xích con lăn ống lót để đưa chai qua các vùng súc rửa. Ở phần nước tuần hoàn, máy kết hợp tia phun bám theo vị trí chai với ống phun cố định; phần nước sạch dùng bộ chia phun bám theo chai. Chính cách tổ chức tia phun này, chứ không chỉ mã máy, phân biệt dòng sản phẩm với máy băng xích cơ bản và QSP-6A dạng quay.
 
-## Định vị mô hình
+## Truyền xích và bố trí tia phun
 
-- Series: [Dòng máy rửa chai](/vi/solutions/bottle-washing/)
-- Lối vào tổng quan về thông số: [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment#bw-six-wheel)
-- Các tình huống áp dụng: Thích hợp hơn cho việc rửa chai thủy tinh và chai PET tốc độ trung bình.
+Xích xác lập bước chai trong máy. Tia phun bám theo phải đồng bộ với bước đó, còn ống cố định phủ một đoạn hành trình nhất định; bộ chia nước sạch thực hiện lần phun bám theo cuối. Tuyến xích liên tục cần chai được đỡ ổn định và tốc độ vào ra phối hợp để tránh dồn chai ở đầu vào hoặc tích chai ở đầu ra.
 
-## Tóm tắt thông tin công khai
+Nguồn tài liệu không nêu lật chai, chổi cọ, số vòi hoặc cấp kết quả làm sạch. Cũng chưa rõ thùng, bơm, lọc, nước bù, tràn, xả cặn và đường ống nào được cung cấp. Vì vậy, ranh giới hệ nước phải được liệt kê dù cả nước tuần hoàn và nước sạch đều đã được mô tả.
 
-Máy này áp dụng nguyên lý truyền xích con lăn tay áo. Toàn bộ dây chuyền băng tải có khả năng truyền động chính xác và chống mài mòn tốt. Nước tuần hoàn sử dụng phun theo dõi và phun theo đường ống cố định. Phần nước sạch sử dụng bộ phân phối nước để theo dõi và phun nhằm tiết kiệm nguồn nước và cải thiện việc sử dụng nước.
-
-## Bảng tham số công khai
+## Thông số đã công bố
 
 <table>
   <tbody>
@@ -51,14 +47,24 @@ Máy này áp dụng nguyên lý truyền xích con lăn tay áo. Toàn bộ dâ
   </tbody>
 </table>
 
-## Đề xuất hỗ trợ
+## Chai thủy tinh và chai PET
 
-- Đầu tiên hãy xem trang series: [Dòng máy rửa chai](/vi/solutions/bottle-washing/)
-- Xem lại phần tổng quan về thông số: [Vị trí của máy rót chai sáu bánh trong thư viện thông số](/vi/products/filling-equipment#bw-six-wheel)
-- Nếu đây là một dự án dây chuyền hoàn chỉnh, bạn có thể tiếp tục xem [Tổng quan về gói chiết rót](/vi/solutions/filling-packages) và [Tổng quan về dây chuyền sản xuất](/vi/solutions/production-lines).
+Bảng áp dụng cho chai thủy tinh hoặc PET đường kính 50-100 mm, cao 100-320 mm. Trong khoảng này, hình vai, đáy, độ cứng và trọng tâm vẫn có thể đòi hỏi thanh dẫn hoặc bộ đỡ riêng. PET nhẹ cần chạy thử để xác nhận chai không mất ổn định khi chuyển và chịu tia nước.
 
-## Các trang liên quan
+Bên mua cung cấp từng quy cách mẫu và năng suất mục tiêu. Nhà sản xuất xác định chi tiết xích hoặc giá đỡ chai, thanh dẫn và vị trí điều chỉnh tia bám theo, rồi cho biết chai nào phù hợp QSP-6A hoặc QSP-6B. Do máy dạng quay cũng mang mã QSP-6A, đơn đặt hàng phải ghi đầy đủ tên máy, dải năng suất, công suất và kích thước.
 
-- [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
-- [Dòng máy rửa chai](/vi/solutions/bottle-washing/)
-- [Liên hệ với chúng tôi để được tư vấn đầy đủ về dòng sản phẩm](/vi/contact/)
+## Giao diện dây chuyền và trách nhiệm hiện trường
+
+Phía trước cấp dòng chai rỗng có trật tự; phía sau nhận chai ướt và bố trí để ráo hoặc thổi khô khi cần. Bản vẽ phải xác nhận cao độ và hướng băng tải, tốc độ tham chiếu, liên động, vùng tích chai, phía bảo trì, đường ống và phễu thu sàn. Khoảng bảo trì và đổi cỡ được cộng thêm ngoài kích thước trong bảng.
+
+Trang này không công bố lượng nước, áp suất vào hoặc cỡ đầu nối. Bên mua cung cấp nước sạch, nước bù cho mạch tuần hoàn nếu cần, điện và thoát ngoài theo bảng tiện ích cuối cùng. Với nước nóng, chất tẩy hoặc chất khử trùng, bên mua nêu thành phần, nồng độ, nhiệt độ, an toàn và quy định xả; nhà sản xuất kiểm tra độ tương thích. Hệ pha môi chất và xử lý nước thải chỉ bao gồm khi có báo giá.
+
+## Giá, kế hoạch thử và hỗ trợ
+
+Không thể định giá QSP-6A và QSP-6B chỉ từ năng suất. Bộ theo chai, cấu hình tia bám theo, phạm vi hệ nước, điều khiển, băng tải liền kề, phụ tùng, đóng gói xuất khẩu, lắp đặt và chạy thử đều ảnh hưởng giá mua. Báo giá cần liệt kê máy chính, chi tiết đổi cỡ, bộ chia và mạch nước, điều khiển, dụng cụ, tài liệu, FAT, đóng gói và phần bên mua tự chuẩn bị.
+
+FAT chạy các mẫu thủy tinh và/hoặc PET đại diện, kiểm tra chuyển động xích, đồng bộ vị trí chai, tia bám theo bằng nước tuần hoàn, ống phun cố định, tia bám theo bằng nước sạch, đổi cỡ và năng suất hợp đồng. SAT xác nhận dòng chai thực, nước, thoát, tín hiệu và chạy liên tục. Nếu cần định lượng hiệu quả làm sạch, mẫu bẩn và phương pháp kiểm phải thống nhất trước, không bổ sung chỉ tiêu độ sạch chưa được chứng minh.
+
+Điều khoản sau bán cần nêu thời hạn và thời điểm bắt đầu bảo hành, xích, giá đỡ, vòi và gioăng là chi tiết hao mòn, hỗ trợ từ xa, phí hiện trường và công tác, phụ tùng và đào tạo. Trách nhiệm do nước hoặc hóa chất không phù hợp, đổi cỡ sai hay băng tải ngoài cũng phải ghi trong hợp đồng.
+
+So sánh nguyên lý tại [dòng máy súc rửa chai](/vi/solutions/bottle-washing/) và [thư viện thiết bị đầy đủ](/vi/products/filling-equipment). [Giải pháp chiết rót và đóng gói](/vi/solutions/filling-packages) cùng [tổng quan dây chuyền](/vi/solutions/production-lines) hỗ trợ lập phương án ghép nối; gửi yêu cầu báo giá qua [trang liên hệ](/vi/contact/).

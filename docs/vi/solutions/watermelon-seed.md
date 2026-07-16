@@ -1,127 +1,64 @@
 ---
-title: Giải pháp hạt dưa hấu (Dầu hạt dưa) báo giá | giải pháp trọn gói
-description: Nhận báo giá Giải pháp hạt dưa hấu (Dầu hạt dưa) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
-keywords: Giải pháp hạt dưa hấu (Dầu hạt dưa) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+title: "Ép dầu hạt dưa hấu | Quy trình, thiết bị và báo giá"
+description: "Rửa, sấy và bóc vỏ hạt dưa trước ép lạnh hoặc rang nhẹ; chọn máy sấy, nghiền, ép, lọc và bồn. Kiểm tra độ ẩm, nhiệt độ, công suất và hương."
+keywords: "Hạt dưa hấu (dầu hạt dưa) báo giá, máy ép dầu, quy trình sản xuất, mua từ nhà máy, thiết bị phụ trợ, hậu mãi"
 ---
-# Giải pháp hạt dưa hấu (Dầu hạt dưa)
+# Giải pháp Hạt dưa hấu (dầu hạt dưa)
 
-## Tổng quan
+Hạt dưa hấu cần được rửa/làm sạch, sấy đồng đều và xác định dùng hạt nguyên hay nhân đã tách vỏ trước khi nghiền. Ép lạnh phù hợp với dầu có hương nhẹ, còn rang hoặc điều hòa nhẹ chỉ nên dùng khi thị trường cần hương đậm hơn và đã xác nhận bằng mẫu. Dầu sau ép được lắng, lọc theo độ trong mục tiêu và bảo quản tránh ánh sáng, không khí.
 
-西瓜籽是重要的油料作物，西瓜籽油具有独特的营养价值和应用价值。山东盛世赫程机械有限公司提供专业的西瓜籽压榨解决方案，从小型作坊到大型工厂的全套设备和服务。
+## Dữ liệu chọn quy trình
 
-## 西瓜籽特性
+| Hạng mục | Khuyến nghị |
+| --- | --- |
+| Hàm lượng dầu tham khảo | Khoảng 35-50% trong nhân |
+| Tuyến công nghệ ưu tiên | Làm sạch, tách vỏ rồi ép lạnh |
+| Model hoặc hướng thiết bị | 355 / 400 |
+| Cách chốt công suất | Dựa trên thử mẫu, số mẻ, thời gian chu kỳ và chất lượng dầu |
 
-### 📊 基本参数
-- **含油率**: 40-50%
-- **蛋白质含量**: 25-30%
-- **主要脂肪酸**: 亚油酸（50-60%）、油酸（20-30%）、棕榈酸（8-12%)
-- **适宜温度**: 压榨温度控制在60-80℃
+> Cần xác nhận tỷ lệ nhân, độ ẩm và hàm lượng dầu bằng mẫu thực tế trước khi chốt công suất.
 
-### 🌱 生长特性
-- **生长周期**: 80-100天
-- **适宜气候**: 温暖、干燥地区
-- **土壤要求**: 沙质、肥沃的土壤
-- **年产量**: 全球年产量超过50万吨
+## Quy trình khuyến nghị
 
-## 加工工艺
+1. Làm sạch và tách tạp chất
+2. Tách vỏ nếu sản phẩm yêu cầu
+3. Sấy nhẹ và nghiền nhân
+4. Ép thủy lực theo mẻ ở nhiệt độ thấp
+5. Lọc và đánh giá chất lượng dầu
 
-待补
+## Máy ép và thiết bị chính
 
-## 技术优势
+- [Dòng 355](/vi/products/355)
+- [Dòng 400](/vi/products/400)
+- [Thiết bị tiền xử lý](/vi/products/pre-treatment)
+- [Thiết bị lọc và hậu xử lý](/vi/products/post-treatment)
+- [Thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
 
-### 🎯 精准控制
-- 温度控制：±2℃精度
-- 压力控制：智能调节
-- 湿度控制：最佳含水量
+## Dữ liệu cần cho báo giá
 
-### 💧 油质保证
-- 低温工艺保留营养
-- 物理压榨无化学残留
-- 出油率高达42-48%
+- Mẫu hạt nguyên hay nhân, tỷ lệ nhân/vỏ, độ ẩm, tạp chất, hạt lép/hỏng và cách bảo quản
+- Khối lượng đầu vào tính theo hạt nguyên hay nhân mỗi mẻ/ngày, số ca và mùa cung ứng
+- Mục tiêu ép lạnh hay rang/điều hòa nhẹ, màu, hương và mục đích sử dụng dầu
+- Mức cặn, độ trong sau lắng/lọc, vật liệu bồn và quy cách bao bì cuối
+- Nhu cầu rửa/sấy/tách vỏ, nguồn nhiệt, điện áp, mặt bằng dây chuyền và điểm giao hàng
 
-### 🔄 连续生产
-- 24小时不间断运行
-- 自动化进料出料
-- 智能故障报警
+Hiệu suất thực tế phụ thuộc giống, độ ẩm, mức nghiền, nhiệt độ và thời gian ép. Không nên dùng một con số sản lượng cố định thay cho thử nghiệm nguyên liệu.
 
-## 产品应用
+## Kiểm tra nghiệm thu
 
-### 🍳 食用油
-- 西瓜籽油：主要食用油品种
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
+Biên bản chạy thử phải ghi cơ sở hạt nguyên hay nhân, tỷ lệ vỏ, độ ẩm sau sấy, cỡ nghiền, chế độ điều hòa, khối lượng nạp, nhiệt độ dầu và chu kỳ ép. Sau lắng/lọc, đối chiếu màu, hương, độ trong, khả năng tháo bã và vệ sinh; công suất chỉ được xác nhận cho trạng thái nguyên liệu và điều kiện thử đã nêu.
 
-### 💊 保健品
-- 西瓜籽油：营养补充剂
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
+## Trang liên quan
 
-### 🏭 工业用油
-- 西瓜籽油：基础油原料
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
+- [Tổng quan giải pháp](/vi/solutions/)
+- [Dây chuyền sản xuất dầu hoàn chỉnh](/vi/solutions/production-lines)
+- [Tất cả model máy ép dầu thủy lực](/vi/products/)
+- [Hướng dẫn mua hàng và kỹ thuật](/vi/news/technology/)
 
-## 市场分析
+## Nhận giá và cấu hình
 
-### 📈 发展趋势
-- 特色食用油、营养保健品需求增长
-- 高端西瓜籽油市场扩大
-- 出口贸易机会增加
+Gửi nguyên liệu, công suất, chất lượng dầu mục tiêu và điểm đến để nhận cấu hình cùng báo giá nhà máy.
 
-### 🎯 目标市场
-- 食用油加工企业
-- 食品加工企业
-- 保健品企业
-- 出口贸易企业
-
-
-
-## 质量标准
-
-### 🏆 产品质量标准
-- 符合国家西瓜籽油标准
-- 符合食品安全标准
-- 符合出口食品标准
-- 符合有机食品认证
-
-### 🔍 检测项目
-- 酸价检测
-- 过氧化值检测
-- 色泽透明度检测
-- 重金属含量检测
-- 农药残留检测
-
-## 可持续发展
-
-### 🌱 环保生产
-- 废弃物循环利用
-- 节能减排工艺
-- 绿色生产标准
-
-### 🔄 资源利用
-- 副产品综合利用
-- 产业链延伸
-- 循环经济模式
-
-### 🌍 社会责任
-- 支持农民增收
-- 保障食品安全
-- 保护生态环境
-
-## 联系我们
-
-如果您对西瓜籽压榨解决方案感兴趣，请联系我们的技术团队：
-
-- 📞 **咨询热线**: +86 19906365856
-- 📧 **邮箱**: gavin@oil-pressing-machine.com
-- 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
-
-我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的西瓜籽压榨解决方案。
-
-## Nhận giá & báo giá
-
-Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
-
-- [Nhận giá & báo giá](/vi/contact/)
+- [Yêu cầu báo giá](/vi/contact/)
 
 <!-- quote-cta -->

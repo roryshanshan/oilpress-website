@@ -1,35 +1,34 @@
 ---
-title: Máy súc rửa, chiết rót và hàn kín ba trong một giá
-description: "Nhận giá nhà máy cho Máy súc rửa, chiết rót và hàn kín ba trong một giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
-keywords: giá Rửa, chiết rót và niêm phong máy ba dây chuyền, mua Rửa, chiết rót và niêm phong máy ba dây chuyền, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+title: "Máy súc rửa, chiết rót, đóng nắp CGF 3 trong 1 | Báo giá"
+description: "Báo giá máy CGF súc rửa, chiết rót, đóng nắp 3 trong 1; kiểm tra 6.000-12.000 chai/giờ, cỡ chai/nắp và khả năng ghép nối."
+keywords: "giá máy liên hợp súc rửa, chiết rót và đóng nắp CGF, báo giá máy liên hợp súc rửa, chiết rót và đóng nắp CGF, công suất tham khảo 6.000-12.000 chai/giờ, dung tích chai và kiểu nắp, tích hợp dây chuyền chiết rót, cấu hình xuất khẩu, phụ tùng, hỗ trợ sau bán"
 image: "/images/filling-products/cgf-three-in-one-monoblock.webp"
 ---
 # Rửa, chiết rót và niêm phong máy ba dây chuyền
 
 ![Máy súc rửa, chiết rót và hàn kín ba trong một](/images/filling-products/cgf-three-in-one-monoblock.webp)
 
-Máy súc rửa, chiết rót và hàn kín ba dây chuyền là một trong những mẫu chính trong máy kết hợp và xe buýt hỗ trợ chiết rót. Nó phù hợp cho việc súc rửa, đổ đầy và đóng nắp được hoàn thành trên một thiết bị, giảm việc chuyển trung gian, rút ​​ngắn không gian sàn và nâng cao hiệu quả của toàn bộ dây chuyền.
+Máy liên hợp CGF thực hiện súc rửa, chiết rót và đóng nắp trên cùng một thân máy. Đây là lựa chọn cần được đánh giá theo mẫu chai, sản phẩm, loại nắp và nhịp toàn dây chuyền; các mức năng suất trong bảng chỉ có ý nghĩa khi điều kiện đầu vào đã được xác nhận.
 
-## Định vị mô hình
+## Phù hợp với dự án nào
 
-- Series: [Máy kết hợp và xe hỗ trợ chiết rót](/vi/solutions/filling-packages)
-- Lối vào tổng quan về thông số: [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment#fp-cgf)
-- Kịch bản áp dụng: Dây chuyền đóng gói tích hợp phù hợp với chai thủy tinh hoặc chai cứng như dầu đóng chai, rượu, nước nêm, v.v.
+- **Công đoạn:** Ba công đoạn liên tục: súc rửa chai, chiết rót và đóng nắp.
+- **Bao bì hoặc vật liệu:** Chai cứng và nắp có quy cách ổn định, dùng cho chất lỏng phù hợp với phương pháp chiết của máy.
+- **Khi nên cân nhắc:** Nên cân nhắc khi cần giảm chuyển tiếp giữa ba máy riêng và có mặt bằng cho một cụm liên hợp.
 
-## Tóm tắt thông tin công khai
+## Tiêu chí mua và so sánh giá
 
-- Model bán chạy tích hợp chức năng súc rửa, chiết rót và đóng nắp.
-- Khi dung tích hiệu chuẩn là `500 ml`, độ chính xác đổ đầy tham chiếu có thể đạt `±1,5 ml`.
-- Nó có thể thực hiện các hành động liên tục như bắt đầu với chai, dừng mà không cần chai, rửa tự động, đổ đầy, niêm phong, v.v.
+- Xác nhận chai mới hay chai tái sử dụng và yêu cầu súc rửa cụ thể.
+- Kiểm tra sản phẩm có gas, tạo bọt, có cặn hoặc yêu cầu vật liệu tiếp xúc đặc biệt hay không.
+- Đối chiếu số đầu từng công đoạn, loại nắp và tốc độ băng tải trước khi so sánh giá.
 
-## Tổng quan về mô hình
+## Đối chiếu các model trong bảng
 
-- `CGF30-24-8`: phù hợp cho dây chuyền sản xuất cỡ trung bình, đầu ra tham chiếu `6000 p/h`
-- `CGF40-30-8`: dòng tiêu chuẩn phù hợp để tiếp tục thăm dò năng lực sản xuất, sản lượng tham chiếu `8000 p/h`
-- `CGF48-36-8`: thích hợp cho sản xuất liên tục công suất trung bình đến cao, đầu ra tham chiếu `10000 p/h`
-- `CGF60-40-8`: phù hợp với các dự án toàn dây chuyền có nhịp độ cao hơn, đầu ra tham chiếu `12000 p/h`
+- Bảng công bố bốn model với số đầu súc rửa, chiết rót và đóng nắp khác nhau; sản lượng ghi trong bảng là dữ liệu tham khảo của từng cấu hình.
+- Chọn model sau khi đối chiếu sản lượng mục tiêu với kích thước chai, sản phẩm, loại nắp và thời gian dừng để đổi cỡ.
+- Yêu cầu nhà sản xuất ghi điều kiện thử và phạm vi thiết bị dùng để xác nhận sản lượng trong báo giá kỹ thuật.
 
-## Bảng tham số công khai
+## Thông số kỹ thuật đã công bố
 
 | Người mẫu | Sản xuất (p/h) | Tiêu thụ nước | Số đầu xả | Loại điền | Số đầu chiết rót | Loại niêm phong | Số đầu bịt kín | Tổng công suất (kW) | Kích thước (mm) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -38,14 +37,22 @@ Máy súc rửa, chiết rót và hàn kín ba dây chuyền là một trong nh�
 | CGF48-36-8 | 10000 | 3,5 | 48 | Cốc đong định lượng | 36 | Giới hạn | 8 | 6,4 | 5000×3150×2700 |
 | CGF60-40-8 | 12000 | 4.4 | 60 | Cốc đong định lượng | 40 | Giới hạn | 8 | 7,5 | 5500×3650×2700 |
 
-## Đề xuất hỗ trợ
+## Thông tin cần gửi để nhận báo giá
 
-- Nếu muốn xem các cấu trúc mối nối tương tự, bạn có thể tiếp tục xem [Máy đóng nắp và chiết rót thông minh hoàn toàn tự động GDP36DK-10-10](/vi/products/filling/gdp36dk-filling-capping-sealing-monoblock)
-- Nếu bạn đang làm dự án về rượu vang, bạn có thể so sánh [Rót rượu hai dòng](/vi/products/filling/baijiu-filling-capping-monoblock)
-- Nếu lập kế hoạch cho toàn bộ dây chuyền, bạn có thể tiếp tục xem [Tổng quan về gói chiết rót](/vi/solutions/filling-packages) và [Tổng quan về dây chuyền sản xuất](/vi/solutions/production-lines)
+- Mẫu chai, dung tích, kích thước cổ chai và loại nắp.
+- Tên sản phẩm, nhiệt độ chiết và đặc tính tạo bọt.
+- Sản lượng mục tiêu và thiết bị cấp chai, cấp nắp, dán nhãn phía sau.
+- Điện, nước rửa, khí nén, mặt bằng và tiêu chuẩn điện của nơi lắp đặt.
 
-## Các trang liên quan
+## Giao hàng, lắp đặt và hậu mãi
 
-- [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
-- [Máy kết hợp và xe hỗ trợ chiết rót](/vi/solutions/filling-packages)
-- [Liên hệ với chúng tôi để được tư vấn đầy đủ về dòng sản phẩm](/vi/contact/)
+Báo giá nên tách rõ thân máy, băng tải, bộ cấp nắp hoặc nút, chi tiết đổi cỡ, tủ điện và các giao diện với thiết bị trước/sau. Điều kiện giao hàng, đóng gói xuất khẩu, lắp đặt, chạy thử, đào tạo, phụ tùng, bảo hành và hỗ trợ sau bán chỉ được xem là bao gồm khi đã ghi trong báo giá hoặc hợp đồng.
+
+## Liên kết cấu hình và yêu cầu báo giá
+
+- [Giải pháp chiết rót và đóng gói liên hợp](/vi/solutions/filling-packages)
+- [Đối chiếu thiết bị trong bảng thông số tổng hợp](/vi/products/filling-equipment)
+- [Máy GDP36DK-10-10 chiết rót, đóng nắp, niêm phong](/vi/products/filling/gdp36dk-filling-capping-sealing-monoblock)
+- [Máy chiết rót và đóng nắp rượu 2 trong 1](/vi/products/filling/baijiu-filling-capping-monoblock)
+- [Giải pháp dây chuyền sản xuất](/vi/solutions/production-lines)
+- [Yêu cầu nhà sản xuất báo giá và xác nhận cấu hình](/vi/contact/)

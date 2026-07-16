@@ -1,37 +1,48 @@
 ---
-title: "Giới thiệu đội ngũ | Nhà sản xuất máy ép dầu thủy lực"
-description: Giới thiệu đội ngũ chuyên nghiệp của Công ty TNHH Shengshi Hecheng Sơn Đông, bao gồm các nhân sự R&D, sản xuất, kinh doanh, dịch vụ
-keywords: Giới thiệu đội ngũ, Đội ngũ chuyên nghiệp, Nghiên cứu phát triển, Quản lý sản xuất, Dịch vụ kinh doanh, Shengshi Hecheng Sơn Đông, Nhà sản xuất máy ép dầu, Nhân sự doanh nghiệp, Xây dựng đội ngũ, Văn hóa doanh nghiệp
+title: "Đội ngũ dự án máy ép dầu | Đầu mối và trách nhiệm"
+description: "Trước khi ký hợp đồng, xác nhận đầu mối kinh doanh, kỹ thuật, sản xuất, kiểm tra, vận chuyển xuất khẩu, bảo hành và cung cấp phụ tùng."
+keywords: đội ngũ dự án máy ép dầu, đầu mối kỹ thuật, quản lý đơn hàng, kiểm tra nhà máy, logistics xuất khẩu, hỗ trợ sau bán hàng
 ---
 
-# Giới thiệu đội ngũ
+# Vai trò trong một dự án máy ép dầu
 
-## Đội ngũ R&D chuyên nghiệp
+Người mua cần biết ai chịu trách nhiệm cho từng phần của đơn hàng. Chức danh, kinh nghiệm hoặc quy mô đội ngũ không thay thế cho đầu mối có tên, phạm vi công việc và kênh liên hệ được ghi trong hồ sơ dự án.
 
-Công ty sở hữu đội ngũ R&D chất lượng cao, tập trung vào đổi mới công nghệ và nâng cấp sản phẩm máy ép dầu thủy lực.
+## Điều phối kinh doanh và dự án
 
-## Đội ngũ quản lý sản xuất
+- Thu thập nguyên liệu, mục tiêu sản xuất, điện áp, địa điểm giao hàng và ngân sách
+- Phát hành báo giá, danh sách cấu hình và các điều khoản thương mại
+- Ghi nhận thay đổi và chuyển nội dung kỹ thuật cho người phụ trách xác nhận
 
-Hệ thống quản lý sản xuất nghiêm ngặt, đảm bảo chất lượng sản phẩm ổn định và đáng tin cậy.
+## Kỹ thuật quy trình và cấu hình
 
-## Đội ngũ kinh doanh & dịch vụ
+- Đánh giá tiền xử lý, thùng ép, chu kỳ, lọc và thiết bị phụ trợ
+- Lập điều kiện thử mẫu và tiêu chí nghiệm thu
+- Xác nhận bản vẽ, giao diện điện, yêu cầu nền móng và lắp đặt
 
-Đội ngũ kinh doanh và dịch vụ chuyên nghiệp, cung cấp hỗ trợ kỹ thuật toàn diện và dịch vụ hậu mãi cho khách hàng.
+## Sản xuất và kiểm tra
 
-- **Kỹ sư điện & tự động hóa**: Chịu trách nhiệm phát triển hệ thống điều khiển
-- **Kỹ sư quy trình**: Chịu trách nhiệm cải tiến quy trình sản xuất
-- **Kỹ sư chất lượng**: Chịu trách nhiệm kiểm soát chất lượng sản phẩm
+- Đối chiếu vật liệu, linh kiện và cấu hình với tài liệu đã duyệt
+- Thực hiện checklist lắp ráp, thủy lực, điều khiển và chạy thử
+- Lập biên bản sai lệch, sửa đổi và kiểm tra lại
 
-## Đội ngũ bán hàng và dịch vụ
+## Logistics và hồ sơ xuất khẩu
 
-### Đội ngũ bán hàng chuyên nghiệp
+- Xác nhận phương thức đóng gói, số kiện, kích thước và danh sách giao hàng
+- Chuẩn bị chứng từ theo điều kiện thương mại và yêu cầu của điểm đến
+- Ghi rõ trách nhiệm vận chuyển, bảo hiểm, thuế và thông quan
 
-Đội ngũ bán hàng và dịch vụ phủ khắp cả nước, cung cấp hỗ trợ kỹ thuật kịp thời và dịch vụ hậu mãi cho khách hàng.
+## Hỗ trợ sau giao hàng
 
-### Đội ngũ thị trường nước ngoài
+- Xác nhận hướng dẫn lắp đặt, đào tạo, phụ tùng và bảo dưỡng
+- Duy trì hỗ trợ theo phạm vi, thời hạn, kênh và chi phí ghi trong hợp đồng
+- Ghi nhận model, mã máy, lỗi, điều kiện vận hành và bằng chứng khi xử lý yêu cầu
 
-Đội ngũ chuyên trách phát triển thị trường nước ngoài, am hiểu quy định thương mại quốc tế và nhu cầu khách hàng.
+## Liên hệ dự án
 
-## Văn hóa doanh nghiệp
+- WeChat/WhatsApp: +8619906365856
+- Email: gavin@oil-pressing-machine.com
 
-Chúng tôi chú trọng đào tạo nhân lực, thường xuyên tổ chức các khóa đào tạo kỹ thuật và hoạt động xây dựng đội ngũ để phát triển một tổ chức học tập.
+Trước khi đặt hàng, hãy yêu cầu tên đầu mối cho kinh doanh, kỹ thuật, kiểm tra và hậu mãi trong báo giá hoặc kế hoạch dự án.
+
+- [Gửi yêu cầu cấu hình và phân công đầu mối](/vi/contact/)

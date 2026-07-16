@@ -1,6 +1,6 @@
 ---
-title: Cake Pulverizer - Shengshi Hecheng Price | Manufacturer & Quote
-description: Get price, procurement, and after-sales support for Cake Pulverizer - Shandong Shengshi Hecheng Machinery Co., Ltd. from Shengshi Hecheng manufacturer.
+title: "Oilseed Cake Pulverizer | Price & Manufacturer Quote"
+description: "Review the hammer-type cake pulverizer for bean, peanut, or cottonseed cake; verify feed size, screen, output, motor, wear parts, and manufacturer quote."
 keywords: Cake Pulverizer - Shandong Shengshi Hecheng Machinery Co., Ltd. price, Cake Pulverizer - Shandong Shengshi Hecheng Machinery Co., Ltd. quote, Cake Pulverizer - Shandong Shengshi Hecheng Machinery Co., Ltd. manufacturer, Cake Pulverizer - Shandong Shengshi Hecheng Machinery Co., Ltd. supplier, procurement, after-sales
 image: "/images/external/products-cake-pulverizer-c3debc16.webp"
 ---
@@ -15,13 +15,25 @@ This machine is suitable for various bean cakes, peanut cakes, cottonseed cakes,
 | Parameter             | Value            |
 | :-------------------- | :--------------- |
 | Model                 | FBJ-500          |
-| Power                 | 11Kw             |
+| Power                 | 11 kW (reference only; confirm in the final technical data and written quotation) |
 | Dimensions            | 600*600*800      |
 | Overall Weight        | 292Kg            |
-| Processing Capacity   | 1-4Kg/h          |
+| Processing Capacity   | 1–4 kg/h (unit and test conditions unverified; written confirmation required) |
 | Sieve Mesh Diameter   | 20mm             |
 | Inlet Size            | 525*145mm        |
 | Crushing Blade Structure| Hammer Type      |
+
+::: warning Parameter verification
+The values in this table are preliminary references only. No readable nameplate, final manufacturer datasheet, or measured test record currently verifies the stated `11 kW` rating or the unit and operating conditions behind `1–4 kg/h`. Both figures must be confirmed before ordering in the final technical documentation, written quotation, and contract; neither is a confirmed specification or guaranteed throughput.
+:::
+
+## Quotation and FAT confirmation
+
+- For the quotation, provide a representative cake sample and state the material, cake diameter and thickness, moisture, block size, bulk condition, and residual oil condition. The supplier must identify the motor rating, throughput unit, test basis, feed method, screen aperture, target particle size, voltage, frequency, and phase in writing.
+- For the factory acceptance test (FAT), use the buyer-approved sample and agreed screen. After stable operation, run continuously for the agreed period; record start time, end time, downtime, total feed, qualified output, oversize or returned material, and material loss.
+- Weigh the feed and qualified output using the agreed calibrated scale and calculate capacity from effective running time using the written measurement method. The contract and signed FAT report must state the acceptance value and tolerance.
+
+Send the sample details and acceptance requirements when you [request a written manufacturer quote](/en/contact/).
 
 ## Precautions for Use
 

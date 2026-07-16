@@ -1,36 +1,46 @@
 ---
-title: Machine de pré-pressage - Shengshi Hecheng prix | fabricant
-description: Demandez le prix et le devis pour Machine de pré-pressage - Shengshi Hecheng. Fabricant Shengshi Hecheng, livraison et SAV.
-keywords: Machine de pré-pressage prix, acheter Machine de pré-pressage, devis usine, fabricant chinois, exportation, service après-vente
+title: "Machine de pré-pressage YZJ-7.5 | Prix et devis fabricant"
+description: "Évaluez la prépresse pour colza, soja, lin, sésame, noix ou arachide; demandez un prix fabricant avec essai, débit, pièces et services."
+keywords: machine pré-pressage prix, prépresse oléagineux devis, YZJ-7.5 fabricant, acheter prépresse, pièces d'usure, service après-vente
 image: "/images/external/products-pre-press-machine-c62a58a9.webp"
 ---
 # Machine de pré-pressage
 
 ![Machine de pré-pressage](/images/external/products-pre-press-machine-c62a58a9.webp)
 
-## Aperçu du produit
+## Présentation du produit
 
-Notre machine de pré-pressage adopte le principe du broyage spiral, conçue pour un fonctionnement efficace et stable avec un faible bruit et des coûts d'entretien réduits pour les pièces d'usure.
+Cette machine à vis doit être évaluée comme un module de préparation ou de pré-pressage placé avant l'étape suivante. Son adéquation dépend de l'état de la matière, de la taille d'alimentation, de la forme de sortie ou du tourteau, de l'équipement aval, du plan de pièces d'usure et de l'équilibrage de la ligne.
 
-## Caractéristiques principales
+## Points de contrôle avant achat
 
--   **Broyage efficace :** Utilise la technologie de broyage spiral pour un traitement efficace des matériaux.
--   **Faible bruit et fonctionnement stable :** Assure un environnement de travail silencieux et cohérent.
--   **Faible entretien :** Conçue pour la durabilité avec peu de pièces d'usure, réduisant les coûts d'entretien globaux.
--   **Application polyvalente :** Capable de broyer parfaitement une large gamme de matériaux, notamment la colza, les soja, les graines de lin, les grains de poivre, le sésame, les noix et les cacahuètes.
--   **Options de puissance :** Disponible avec un moteur standard de 7,5Kw, avec une option de moteur de 11Kw pour des besoins de capacité plus élevés.
+- **Rôle dans le procédé :** préciser s'il faut concasser, pré-presser ou combiner les deux fonctions, puis définir le transfert vers la machine suivante.
+- **Essai représentatif :** colza, soja, lin, sésame, noix et arachide doivent être testés séparément; un seul réglage ne couvre pas toutes les matières.
+- **Entrée et sortie :** relever granulométrie, humidité, impuretés admises, température de sortie et état du tourteau ou du produit broyé.
+- **Transmission et usure :** vérifier moteur, réducteur, vis, chambre, roulements, points de lubrification et liste de pièces incluse au prix.
+- **Bruit et vibrations :** les mesurer dans les conditions d'essai convenues, sans promesse générale de fonctionnement silencieux ou stable.
 
 ## Spécifications
 
-| Paramètre         | Valeur       |
-| :---------------- | :---------- |
-| Modèle             | YZJ-7.5     |
-| Dimensions (cm)   | 103*100*75  |
-| Capacité          | 300-350 Kg/h|
-| Poids de la machine    | 174 Kg      |
-| Puissance de la machine     | 7.5 Kw      |
-| Tension de fonctionnement   | 380V        |
+| Paramètre | Valeur |
+| :--- | :--- |
+| Modèle | YZJ-7.5 |
+| Dimensions (cm) | 103*100*75 |
+| Capacité | 300-350 Kg/h |
+| Poids de la machine | 174 Kg |
+| Puissance du moteur | 7.5 Kw |
+| Tension de fonctionnement | 380V |
 
 ## Option de capacité
 
--   Une option de 11Kw est disponible, avec un rendement de 1500 jin/heure (750 kg/heure).
+La documentation fournisseur mentionne une option de 11 kW et une valeur nominale de 1 500 jin/heure, soit 750 kg/heure. Cette valeur doit être confirmée sur la configuration commandée, la matière représentative, son état d'alimentation et un essai continu; elle ne constitue pas un débit garanti pour toutes les graines.
+
+## Informations à fournir pour le prix
+
+Indiquez matière, état de l'échantillon, fonction demandée, débit cible, équipement aval, tension, durée de travail et destination. Le devis doit séparer machine de base, moteur-réducteur, pièces d'usure, commande, transport, assistance à l'installation et conditions de garantie.
+
+## Réception FAT/SAT
+
+Convenir de la masse chargée, de la durée d'essai et de la méthode de mesure. Relever débit réel, intensité, température, vibrations, bruit, état de sortie, blocages, temps de nettoyage et inspection des pièces d'usure. La réception se fait sur le procès-verbal signé et la spécification commandée.
+
+[Demander un essai matière et un devis fabricant pour la prépresse](/fr/contact/)

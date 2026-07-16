@@ -1,6 +1,6 @@
 ---
-title: "Máy sàng mè | Giá máy và báo giá nhà máy"
-description: "Nhận giá và báo giá máy sàng mè, cải dầu, hạt lanh và hạt dầu nhỏ. Có mẫu 60/80, điện 220V hoặc 380V, hỗ trợ dây chuyền trọn bộ."
+title: "Máy sàng mè và hạt dầu nhỏ | Báo giá từ nhà sản xuất"
+description: "Nhận báo giá máy sàng mè và hạt dầu nhỏ từ nhà sản xuất; đối chiếu dòng 60/80, điện 220/380 V, cỡ lưới, hút bụi và loại hạt trước khi đặt mua."
 keywords: giá máy sàng mè, báo giá máy làm sạch mè, nhà sản xuất máy sàng hạt dầu, máy sàng vừng, máy làm sạch cải dầu, mua máy nhà máy, hậu mãi
 image: "/images/sesame-screening-machine/sesame-screening-machine-green-main.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
-title: Sesame Screening Machine Price | Oilseed Cleaner Quote
-description: Get sesame screening machine price and factory quote for sesame, rapeseed, flaxseed and small oilseed cleaning, with 220V/380V options.
+title: "Sesame Screening Machine | Price & Manufacturer Quote"
+description: "Compare screening machines for sesame, rapeseed, flaxseed, and perilla; verify screen structure, airflow, output, voltage, and manufacturer quote."
 keywords: sesame screening machine price, sesame cleaning machine quote, oilseed cleaner manufacturer, sesame impurity remover, rapeseed screening machine, flaxseed cleaner, factory quote, after-sales support
 image: "/images/sesame-screening-machine/sesame-screening-machine-green-main.jpg"
 ---

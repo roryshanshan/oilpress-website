@@ -1,6 +1,6 @@
 ---
 title: "Pneumatic Oil Filter Press | Factory Price & Quote"
-description: "Request a factory quote for the pneumatic oil filter press, including specs, delivery, procurement support, and after-sales service."
+description: "Review the pneumatic oil filter press with 304 stainless contact parts, built-in pump, and compressor; verify oil trials, filter media, capacity, and quote."
 keywords: Pneumatic Multi-layer Oil Filter Press price, Pneumatic Multi-layer Oil Filter Press quote, Pneumatic Multi-layer Oil Filter Press manufacturer, factory procurement, production line matching, after-sales service
 image: "/images/external/products-pneumatic-filter-press-54de9739.webp"
 ---

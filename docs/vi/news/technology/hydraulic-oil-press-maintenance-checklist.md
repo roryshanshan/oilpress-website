@@ -1,6 +1,6 @@
 ---
-title: "Danh sách bảo dưỡng máy ép dầu thủy lực: Kiểm tra hàng ngày, h..."
-description: Sử dụng danh sách bảo dưỡng máy ép dầu thủy lực này để quản lý kiểm tra hàng ngày, hàng tuần và hàng tháng, đồng thời giảm thất thoát áp suất
+title: "Bảo dưỡng máy ép dầu thủy lực | Danh sách định kỳ"
+description: "Kiểm tra hằng ngày, tuần và tháng đối với mức dầu, rò rỉ, áp suất, nhiệt độ, phớt, ống, bu lông, điện, vệ sinh và lịch thay dầu thủy lực."
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-14"
 ---

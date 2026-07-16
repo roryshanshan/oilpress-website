@@ -1,31 +1,24 @@
 ---
-title: "Development History | Fabricant de presses hydrauliques"
-description: Development History — Shengshi Hecheng conçoit et fabrique des presses hydrauliques à huile et lignes d’huile comestible.
-keywords: Development history, Company history, Entrepreneurship beginning, Technological breakthrough, Production expansion, Internationalization development, Innovation leadership, Shandong Shengshi Hecheng history, Oil press development history, Enterprise development history
+title: "Développement de Shengshi Hecheng | Fabricant de presses"
+description: "Découvrez l'évolution de Shengshi Hecheng, de la presse hydraulique aux lignes intégrant prétraitement, filtration, raffinage et conditionnement."
+keywords: histoire Shengshi Hecheng, fabricant presse hydraulique, développement usine, ligne huile, équipement oléagineux
 ---
+# Développement de Shengshi Hecheng
 
-# Development History
+Shengshi Hecheng s'est développé autour de la presse hydraulique à huile et des équipements nécessaires pour transformer une machine isolée en ligne cohérente.
 
-## 2008 - The Beginning
+## Spécialisation dans le pressage hydraulique
 
-Shandong Shengshi Hecheng Machinery Co., Ltd. was established in 2008, specializing in the research and development and manufacturing of hydraulic oil press equipment.
+Le travail initial s'est concentré sur les presses par lots, leurs cuves, le circuit hydraulique et l'adaptation aux matières préparées à chaud ou à froid.
 
-## 2010 - Technological Breakthrough
+## Extension vers les lignes de procédé
 
-Successfully developed the first generation of automated hydraulic oil press, marking an important technological breakthrough for the company.
+Les projets ont progressivement intégré nettoyage, broyage, cuisson ou séchage, filtration, stockage, raffinage et conditionnement. Cette approche permet de chiffrer l'ensemble du flux plutôt qu'une presse sans équipements amont et aval.
 
-## 2015 - Production Expansion
+## Développement des services export
 
-The company moved to a modern production base, increasing production capacity to 2,000 units per year.
+La préparation des tensions électriques, de l'emballage, des pièces et de l'assistance à la mise en service fait désormais partie de l'étude commerciale. Le périmètre exact reste défini dans chaque contrat.
 
-## 2020 - International Development
+## Continuité technique
 
-Products began to be exported to overseas markets, with service networks covering Southeast Asia, Africa, the Middle East and other regions.
-
-## 2023 - Innovation Leadership
-
-Launched a new series of intelligent oil pressing equipment, leading the direction of industry technology development.
-
-## Future Outlook
-
-We will continue to uphold the spirit of innovation and provide better oil processing solutions for customers worldwide.
+Les évolutions de gamme visent la stabilité mécanique, la répétabilité des cycles et une sélection plus précise selon la matière. Consultez les [produits](/fr/products/), les [solutions de production](/fr/solutions/) ou demandez un [devis fabricant](/fr/contact/).

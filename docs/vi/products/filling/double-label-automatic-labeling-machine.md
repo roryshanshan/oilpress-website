@@ -1,26 +1,28 @@
 ---
-title: Máy dán nhãn đôi tuyến tính hoàn toàn tự động giá | nhà sản xuất
-description: "Nhận giá nhà máy cho Máy dán nhãn đôi tuyến tính hoàn toàn tự động giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
-keywords: giá Máy dán nhãn kép tuyến tính hoàn toàn tự động, mua Máy dán nhãn kép tuyến tính hoàn toàn tự động, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+title: "Máy dán nhãn hai mặt tự động | Báo giá từ nhà sản xuất"
+description: "Báo giá máy dán nhãn hai mặt tự động từ nhà sản xuất; kiểm tra tốc độ đến 6.000 chai/giờ, cỡ chai và nhãn; xác nhận khả năng ghép nối trước khi mua."
+keywords: "giá máy dán nhãn kép tuyến tính hoàn toàn tự động, báo giá máy dán nhãn kép tuyến tính hoàn toàn tự động, tốc độ tham khảo đến 6.000 chai/giờ, đường kính chai và kích thước hai nhãn, tích hợp dây chuyền chiết rót, cấu hình xuất khẩu, phụ tùng, hỗ trợ sau bán"
 image: "/images/filling-products/double-label-automatic-labeling-machine.webp"
 ---
 # Máy dán nhãn kép tuyến tính hoàn toàn tự động
 
 ![Máy dán nhãn tự động nhãn kép tuyến tính](/images/filling-products/double-label-automatic-labeling-machine.webp)
 
-Máy dán nhãn hoàn toàn tự động hai nhãn tuyến tính có thể được sử dụng làm tài liệu tham khảo cho các mẫu máy cụ thể trong dòng máy dán nhãn. Trang này sắp xếp vị trí mô hình, thông tin tham số và đề xuất hỗ trợ dựa trên thông tin sản phẩm công khai để tạo điều kiện thuận lợi cho việc lựa chọn sơ bộ và chuyển trang.
+Máy dán nhãn kép tuyến tính xử lý hai vị trí nhãn trên một sản phẩm trong dòng chạy liên tục. Trước khi mua cần xác định hình dạng chai, quan hệ giữa hai nhãn, cách định hướng sản phẩm và khả năng đồng bộ với máy chiết hoặc máy đóng thùng.
 
-## Định vị mô hình
+## Phù hợp với dự án nào
 
-- Series: [Dòng máy dán nhãn](/vi/solutions/labeling/)
-- Lối vào tổng quan về thông số: [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment#label-double)
-- Kịch bản áp dụng: Thích hợp cho các dự án bán lẻ dầu đóng chai và nhãn mác nhiều mặt.
+- **Công đoạn:** Dán nhãn trước/sau hoặc hai nhãn tại các vị trí đã xác định trên chai.
+- **Bao bì hoặc vật liệu:** Chai tròn, dẹt hoặc dạng khác chỉ được chấp nhận sau khi xác nhận cơ cấu định hướng.
+- **Khi nên cân nhắc:** Nên chọn khi hai nhãn cần được xử lý trên cùng một trạm tự động.
 
-## Tóm tắt thông tin công khai
+## Tiêu chí mua và so sánh giá
 
-Máy này được công ty chúng tôi sản xuất cẩn thận bằng cách áp dụng công nghệ tiên tiến.
+- Kiểm tra khả năng định hướng chai và sai lệch cho phép giữa hai nhãn.
+- Thử cuộn nhãn thật để xác nhận cảm biến, khoảng cách nhãn và độ bám bề mặt.
+- So sánh cấu hình theo số đầu dán, băng tải, bộ tách chai và bộ in mã đi kèm.
 
-## Bảng tham số công khai
+## Thông số kỹ thuật đã công bố
 
 <table>
   <tbody>
@@ -51,14 +53,21 @@ Máy này được công ty chúng tôi sản xuất cẩn thận bằng cách �
   </tbody>
 </table>
 
-## Đề xuất hỗ trợ
+## Thông tin cần gửi để nhận báo giá
 
-- Đầu tiên hãy xem trang series: [Dòng máy dán nhãn](/vi/solutions/labeling/)
-- Xem lại tổng quan thông số: [Vị trí của máy dán nhãn tự động nhãn kép tuyến tính trong thư viện thông số](/vi/products/filling-equipment#label-double)
-- Nếu đây là một dự án dây chuyền hoàn chỉnh, bạn có thể tiếp tục xem [Tổng quan về gói chiết rót](/vi/solutions/filling-packages) và [Tổng quan về dây chuyền sản xuất](/vi/solutions/production-lines).
+- Bản vẽ hoặc mẫu chai và ảnh vị trí của cả hai nhãn.
+- Kích thước nhãn, khoảng cách trên cuộn, lõi cuộn và hướng cuộn.
+- Tốc độ mục tiêu, khoảng cách chai và cao độ băng tải.
+- Yêu cầu in mã, kiểm tra nhãn và kết nối với thiết bị trước/sau.
 
-## Các trang liên quan
+## Giao hàng, lắp đặt và hậu mãi
 
-- [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
+Phạm vi cung cấp cần ghi rõ máy dán nhãn, cảm biến, bộ in mã nếu có, chi tiết đổi cỡ và giao diện băng tải. Việc thử mẫu, lắp đặt, hiệu chỉnh, đào tạo, phụ tùng và bảo hành được thực hiện theo báo giá hoặc hợp đồng bằng văn bản.
+
+## Liên kết cấu hình và yêu cầu báo giá
+
 - [Dòng máy dán nhãn](/vi/solutions/labeling/)
-- [Liên hệ với chúng tôi để được tư vấn đầy đủ về dòng sản phẩm](/vi/contact/)
+- [Đối chiếu thiết bị trong bảng thông số tổng hợp](/vi/products/filling-equipment)
+- [Giải pháp chiết rót và đóng gói liên hợp](/vi/solutions/filling-packages)
+- [Giải pháp dây chuyền sản xuất](/vi/solutions/production-lines)
+- [Yêu cầu nhà sản xuất báo giá và xác nhận cấu hình](/vi/contact/)

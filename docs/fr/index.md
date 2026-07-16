@@ -1,14 +1,14 @@
 ---
 layout: home
-title: "Fabricant de presses hydrauliques à huile | Prix et devis"
-description: "Prix et support d’achat pour presses hydrauliques séries 300-500 et lignes d’huile comestible clés en main, avec SAV usine direct."
-keywords: prix presse à huile, fabricant, devis, achat, ligne de production d’huile, SAV
+title: "Presse à huile hydraulique fabricant | Prix et devis"
+description: "Demandez un devis fabricant pour une presse hydraulique ou une ligne d’huile : modèle, procédé matière, emballage export, installation, pièces et SAV."
+keywords: presse à huile hydraulique prix, devis fabricant, achat presse à huile, ligne de production d’huile, installation, pièces détachées, SAV
 image: "/images/hero-oil-press.webp"
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
   <h1 style="font-size: 2rem; font-weight: bold; color: var(--vp-c-brand); margin-bottom: 0.5rem;">
-    Fabricant professionnel de presses à huile hydrauliques
+    Fabricant de presses à huile hydrauliques pour projets B2B
   </h1>
   <h2 style="font-size: 1.5rem; font-weight: 500; color: var(--vp-c-text-2);">
     Shandong Shengshi Hecheng Machinery Co., Ltd.
@@ -28,11 +28,12 @@ image: "/images/hero-oil-press.webp"
 
 <div class="hero-section">
   <div class="hero-content">
-    <h2>15 ans d'expertise dans les équipements de presses à huile hydrauliques</h2>
-    <p>Fabricant national clé d'équipements d'extraction de graines oléagineuses, fournissant des solutions complètes de transformation d'huile</p>
+    <h2>Du choix du modèle au devis de la ligne complète</h2>
+    <p>Indiquez votre matière première, le procédé souhaité et le périmètre d'achat : nous préparons une configuration et une offre adaptées au projet.</p>
     <div class="hero-buttons">
-      <a href="/fr/products/" class="primary-button">Voir les produits</a>
-      <a href="/fr/contact/" class="contact-link-button">Obtenir prix & devis</a>
+      <a href="/fr/products/" class="primary-button">Comparer les modèles</a>
+      <a href="/fr/contact/" class="contact-link-button">Demander un devis fabricant</a>
+      <a href="https://hydraulic-oil-press.com/" class="secondary-button" target="_blank" rel="noopener noreferrer">Site officiel du fabricant</a>
     </div>
   </div>
   <div class="hero-image">
@@ -44,85 +45,85 @@ image: "/images/hero-oil-press.webp"
 
 <div class="company-intro">
   <div class="intro-content">
-    <p>Shandong Shengshi Hecheng Machinery Co., Ltd., fondée en 2008, est un fabricant national clé d'équipements d'extraction de graines oléagineuses. Nous nous spécialisons dans la recherche, le développement et la fabrication de séries modernes de presses à huile hydrauliques automatiques et d'équipements de ligne de production d'huile comestible raffinée.</p>
-    <p>L'entreprise est stratégiquement située dans la ville de Qingzhou, province du Shandong, avec un accès pratique aux transports. Nous disposons d'une installation de production moderne de 20 000 mètres carrés équipée de machines de production avancées et d'instruments de test, produisant plus de 2 000 presses à huile hydrauliques par an.</p>
-    <p>Adhérant à la philosophie commerciale "Qualité d'abord, Client en priorité", nos produits sont exportés vers plus de 30 pays et régions, notamment l'Asie du Sud-Est, l'Afrique et le Moyen-Orient.</p>
-    <a href="/fr/about/" class="learn-more">En savoir plus →</a>
+    <p>Shandong Shengshi Hecheng Machinery Co., Ltd. conçoit et fabrique des presses à huile hydrauliques automatiques ainsi que les équipements nécessaires à une ligne de transformation d'huile.</p>
+    <p>La sélection ne repose pas uniquement sur le numéro du modèle. La matière, son état, le pressage à chaud ou à froid, l'organisation des lots, la tension électrique et les équipements en amont et en aval doivent être confirmés avant le devis.</p>
+    <p>Pour un achat export, l'offre peut préciser la configuration, l'emballage de transport, les documents disponibles, les consignes d'installation, les pièces recommandées et les modalités de support après-vente.</p>
+    <a href="/fr/about/" class="learn-more">Découvrir le fabricant →</a>
   </div>
   <div class="intro-image">
     <img src="/images/hero-oil-press.webp" alt="Usine Shengshi Hecheng" decoding="async" fetchpriority="high" loading="eager" width="1200" height="800">
   </div>
 </div>
 
-## Séries de produits
+## Choisir votre série de presse
 
 <div class="product-series">
   <div class="product-card">
     <img src="/images/300-325-series.webp" alt="Presse à huile série 300" decoding="async" loading="lazy" width="1200" height="1600">
     <h3>Série 300</h3>
-    <p>Adaptée aux petites ateliers, production quotidienne d'huile 0,3-0,8 tonnes</p>
-    <a href="/fr/products/300" class="learn-more">En savoir plus</a>
+    <p>À étudier pour un procédé de pressage à chaud, avec préparation thermique de la matière avant pressage. Demandez la configuration selon votre huile et votre organisation de production.</p>
+    <a href="/fr/products/300" class="learn-more">Voir le modèle et demander le prix</a>
   </div>
   <div class="product-card">
     <img src="/images/300-325-series.webp" alt="Presse à huile série 325" decoding="async" loading="lazy" width="1200" height="1600">
     <h3>Série 325</h3>
-    <p>Adaptée aux petites ateliers, production quotidienne d'huile 0,5-1 tonne</p>
-    <a href="/fr/products/325" class="learn-more">En savoir plus</a>
+    <p>Autre option de la gamme orientée pressage à chaud. Comparez-la à la série 300 à partir de la matière, du cycle de travail et des équipements de prétraitement.</p>
+    <a href="/fr/products/325" class="learn-more">Voir le modèle et demander le prix</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="Presse à huile série 355" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>Série 355</h3>
-    <p>Adaptée aux petites et moyennes entreprises, production quotidienne d'huile 1-2 tonnes</p>
-    <a href="/fr/products/355" class="learn-more">En savoir plus</a>
+    <p>Gamme de pressage à froid : nettoyage, séchage doux si nécessaire, broyage, puis pressage hydraulique direct. La compatibilité est confirmée selon la matière.</p>
+    <a href="/fr/products/355" class="learn-more">Voir le modèle et demander le prix</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="Presse à huile série 400" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>Série 400</h3>
-    <p>Adaptée aux moyennes entreprises, production quotidienne d'huile 2-3 tonnes</p>
-    <a href="/fr/products/400" class="learn-more">En savoir plus</a>
+    <p>Option de la gamme à froid avec broyage suivi d'un pressage direct. Le devis est établi après comparaison de la matière, du lot et de la ligne associée.</p>
+    <a href="/fr/products/400" class="learn-more">Voir le modèle et demander le prix</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="Presse à huile série 426" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>Série 426</h3>
-    <p>Adaptée aux moyennes et grandes entreprises, production quotidienne d'huile 3-5 tonnes</p>
-    <a href="/fr/products/426" class="learn-more">En savoir plus</a>
+    <p>Configuration à froid à sélectionner selon l'échantillon et le schéma de production : la matière préparée est broyée puis pressée directement.</p>
+    <a href="/fr/products/426" class="learn-more">Voir le modèle et demander le prix</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="Presse à huile série 480" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>Série 480</h3>
-    <p>Adaptée aux grandes entreprises, production quotidienne d'huile 5-8 tonnes</p>
-    <a href="/fr/products/480" class="learn-more">En savoir plus</a>
+    <p>Modèle de la gamme à froid, disponible pour l'achat d'une machine seule ou l'intégration à une ligne avec broyage, filtration et conditionnement.</p>
+    <a href="/fr/products/480" class="learn-more">Voir le modèle et demander le prix</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="Presse à huile série 500" decoding="async" loading="lazy" width="1200" height="1200">
     <h3>Série 500</h3>
-    <p>Adaptée aux très grandes entreprises, production quotidienne d'huile 8-15 tonnes</p>
-    <a href="/fr/products/500" class="learn-more">En savoir plus</a>
+    <p>Référence de la gamme 355-500 orientée pressage à froid après broyage. Le choix final dépend des essais matière et du périmètre de fourniture.</p>
+    <a href="/fr/products/500" class="learn-more">Voir le modèle et demander le prix</a>
   </div>
 </div>
 
-## Avantages du produit
+## Ce que le devis doit clarifier
 
 <div class="advantages-grid">
   <div class="advantage-item">
     <div class="advantage-icon">🔍</div>
-    <h3>Production à haute efficacité</h3>
-    <p>Efficacité d'extraction 30-50% supérieure par rapport aux équipements traditionnels, système de fonctionnement automatisé réduisant l'intervention manuelle, avec une forte capacité de fonctionnement continu</p>
+    <h3>Sélection par matière</h3>
+    <p>Le fabricant examine le type de graine ou de noix, son humidité, sa granulométrie et l'huile recherchée avant de recommander un modèle et un procédé.</p>
   </div>
   <div class="advantage-item">
     <div class="advantage-icon">💧</div>
-    <h3>Rendement d'huile supérieur</h3>
-    <p>Contrôle précis de la pression avec un rendement d'huile supérieur à 95%, processus d'extraction à froid à basse température préservant les nutriments, applicable à une grande variété de cultures oléagineuses</p>
+    <h3>Procédé chaud ou froid</h3>
+    <p>Les séries 300/325 sont orientées pressage à chaud. Les séries 355-500 privilégient le broyage puis le pressage à froid direct, sous réserve de validation de la matière.</p>
   </div>
   <div class="advantage-item">
     <div class="advantage-icon">🛠️</div>
-    <h3>Construction durable</h3>
-    <p>Fabriqué en acier allié de haute résistance, les composants clés subissent un traitement thermique spécial, avec une durée de vie de 15-20 ans, réduisant significativement les coûts de maintenance</p>
+    <h3>Configuration sans ambiguïté</h3>
+    <p>L'offre doit identifier la machine, les accessoires, la tension, le chauffage, la filtration, les interfaces de ligne et les exclusions afin de comparer correctement les prix.</p>
   </div>
   <div class="advantage-item">
     <div class="advantage-icon">🌿</div>
-    <h3>Écologique</h3>
-    <p>Aucun solvant chimique requis, processus d'extraction physique, pollution zéro pendant la production, conforme aux normes modernes de sécurité alimentaire</p>
+    <h3>Livraison et support</h3>
+    <p>Avant la commande, confirmez l'emballage export, les documents, l'assistance à l'installation, la liste des pièces et le canal de service après-vente.</p>
   </div>
 </div>
 
@@ -163,67 +164,67 @@ image: "/images/hero-oil-press.webp"
       <span>Graines de coton</span>
     </div>
   </div>
-  <p class="materials-more">Et d'autres cultures oléagineuses végétales et graines oléagineuses animales</p>
+  <p class="materials-more">Les séries 300/325 sont orientées vers le pressage à chaud. Pour les séries 355-500, le parcours privilégié est le nettoyage, le séchage doux si nécessaire, le broyage, puis le pressage à froid direct. La compatibilité et le prétraitement sont confirmés à partir de la matière ou d'un échantillon.</p>
 </div>
 
 ## Services d'ingénierie
 
 <div class="services-section">
   <div class="service-item">
-    <h3>Conception de solutions</h3>
-    <p>Conception professionnelle basée sur le système CAD, personnalisation de solutions optimales d'extraction d'huile selon les exigences du client</p>
+    <h3>Choix du modèle et du procédé</h3>
+    <p>Analyse de la matière première, du produit final et du mode de travail afin de proposer une presse et un parcours de transformation cohérents.</p>
   </div>
   <div class="service-item">
-    <h3>Personnalisation de la ligne de production</h3>
-    <p>Ligne de production personnalisable avec une capacité quotidienne de 1 à 100 tonnes, solutions complètes de la prétraitement des matières premières à l'emballage du produit fini</p>
+    <h3>Achat d'une ligne complète</h3>
+    <p>Configuration des étapes utiles au projet, depuis le nettoyage et le prétraitement jusqu'au pressage, à la filtration et au conditionnement.</p>
   </div>
   <div class="service-item">
-    <h3>Installation et mise en service</h3>
-    <p>Équipe technique professionnelle fournissant des conseils d'installation sur site et la mise en service de l'équipement pour garantir le fonctionnement normal</p>
+    <h3>Emballage export et installation</h3>
+    <p>Préparation de la fourniture pour le transport international et communication des consignes d'installation et de mise en route convenues dans l'offre.</p>
   </div>
   <div class="service-item">
-    <h3>Support après-vente</h3>
-    <p>Support technique complet et service après-vente, mécanisme de réponse 24 heures, maintenance à vie</p>
+    <h3>Pièces et service après-vente</h3>
+    <p>Identification des pièces recommandées, transmission des informations techniques et traitement des demandes de service selon l'équipement fourni.</p>
   </div>
 </div>
 
-## Études de cas clients
+## Préparer votre demande de devis
 
 <div class="case-studies">
   <div class="case-item">
-    <img src="/images/case1.svg" alt="Cas d'usine d'huile au Xinjiang" decoding="async" loading="lazy" width="200" height="200">
+    <img src="/images/case1.svg" alt="Analyse de la matière première pour une presse à huile" decoding="async" loading="lazy" width="200" height="200">
     <div class="case-content">
-      <h3>Grande usine d'huile au Xinjiang</h3>
-      <p>Utilisant notre presse à huile série 425, avec une capacité quotidienne de 20 tonnes, le rendement d'huile a augmenté de 15%, entraînant une augmentation annuelle des revenus de 2 millions de yuans</p>
+      <h3>Matière première et procédé</h3>
+      <p>Précisez la matière, son état à la réception, le pressage à chaud ou à froid recherché et, si possible, joignez des photos ou proposez un échantillon.</p>
     </div>
   </div>
   <div class="case-item">
-    <img src="/images/case2.svg" alt="Cas de client d'Asie du Sud-Est" decoding="async" loading="lazy" width="200" height="200">
+    <img src="/images/case2.svg" alt="Définition du périmètre d'achat d'une ligne d'huile" decoding="async" loading="lazy" width="200" height="200">
     <div class="case-content">
-      <h3>Client d'Asie du Sud-Est</h3>
-      <p>A acheté 3 ensembles d'équipements série 355 pour une usine d'huile au Vietnam, capacité quotidienne de 6 tonnes, haute efficacité et fonctionnement stable</p>
+      <h3>Périmètre d'achat</h3>
+      <p>Indiquez si vous recherchez une presse seule ou une ligne complète, ainsi que la tension, la destination, les équipements déjà disponibles et les étapes à inclure.</p>
     </div>
   </div>
   <div class="case-item">
-    <img src="/images/case2.svg" alt="Cas de client africain" decoding="async" loading="lazy" width="200" height="200">
+    <img src="/images/case2.svg" alt="Préparation du support après-vente et des pièces" decoding="async" loading="lazy" width="200" height="200">
     <div class="case-content">
-      <h3>Client africain</h3>
-      <p>A choisi l'équipement série 400 pour une usine d'huile au Nigeria, satisfait de la qualité et du service après-vente</p>
+      <h3>Installation, pièces et SAV</h3>
+      <p>Demandez que le devis mentionne l'assistance d'installation, les documents fournis, les pièces recommandées et la procédure de contact après livraison.</p>
     </div>
   </div>
 </div>
 
-## Contactez-nous
+## Demandez un devis fabricant
 
 <div class="contact-section">
   <div class="contact-info">
-    <h3>Gavin Lee - Directeur des ventes professionnel à votre service</h3>
+    <h3>Gavin Lee - votre interlocuteur commercial pour la sélection et le devis</h3>
     <p><strong>📱 WeChat :</strong> +8619906365856</p>
     <p><strong>📱 WhatsApp :</strong> +8619906365856</p>
     <p><strong>📧 Email :</strong> roryshanshan@gmail.com</p>
     <p><strong>📧 Commercial :</strong> gavin@oil-pressing-machine.com</p>
     <p><strong>🏭 Adresse :</strong> No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China</p>
-    <a href="/fr/contact/" class="contact-button">Obtenir prix & devis</a>
+    <a href="/fr/contact/" class="contact-button">Recevoir une sélection et un devis</a>
   </div>
   <div class="contact-form">
     <form action="https://formspree.io/f/xblaoewy" method="POST">
@@ -232,8 +233,8 @@ image: "/images/hero-oil-press.webp"
       <input type="tel" id="phone" name="phone" placeholder="Téléphone" required />
       <input type="hidden" name="_subject" value="Formulaire de contact - Accueil" />
       <input type="hidden" name="_next" value="/fr/contact/" />
-      <textarea id="message" name="message" rows="5" placeholder="Votre message" required></textarea>
-      <button type="submit">Envoyer la demande</button>
+      <textarea id="message" name="message" rows="5" placeholder="Matière, pressage à chaud ou à froid, machine seule ou ligne, pays de destination" required></textarea>
+      <button type="submit">Demander le prix et la configuration</button>
     </form>
   </div>
 </div>

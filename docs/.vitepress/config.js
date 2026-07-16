@@ -477,6 +477,7 @@ const ruFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Обзор серии', link: '/ru/solutions/filtering/' },
+      { text: 'Обзор фильтрационного оборудования', link: '/ru/products/filtration-equipment' },
       { text: 'Пневматический фильтр-пресс', link: '/ru/products/pneumatic-filter-press' },
       { text: 'Оборудование постобработки', link: '/ru/products/post-treatment' }
     ]
@@ -644,6 +645,7 @@ const frFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Aperçu de la série', link: '/fr/solutions/filtering/' },
+      { text: 'Aperçu des équipements de filtration', link: '/fr/products/filtration-equipment' },
       { text: 'Presse-filtre pneumatique', link: '/fr/products/pneumatic-filter-press' },
       { text: 'Équipement de post-traitement', link: '/fr/products/post-treatment' }
     ]
@@ -811,6 +813,7 @@ const viFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Tổng quan dòng', link: '/vi/solutions/filtering/' },
+      { text: 'Tổng quan thiết bị lọc', link: '/vi/products/filtration-equipment' },
       { text: 'Máy lọc ép khí nén', link: '/vi/products/pneumatic-filter-press' },
       { text: 'Thiết bị hậu xử lý', link: '/vi/products/post-treatment' }
     ]
@@ -978,6 +981,7 @@ const bnFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'সিরিজ ওভারভিউ', link: '/bn/solutions/filtering/' },
+      { text: 'ফিল্টারিং সরঞ্জাম ওভারভিউ', link: '/bn/products/filtration-equipment' },
       { text: 'পনিউম্যাটিক ফিল্টার প্রেস', link: '/bn/products/pneumatic-filter-press' },
       { text: 'পোস্ট-ট্রিটমেন্ট সরঞ্জাম', link: '/bn/products/post-treatment' }
     ]
@@ -1017,21 +1021,34 @@ const bnFillingSeriesSidebarItems = [
   }
 ]
 
+const DUPLICATE_SOLUTION_CATEGORY_PATTERN = 'bottle-washing|brewing|cap-shrinking|corking|dairy-processing|drying|filling|filling-packages|filtering|fruit-veg-processing|labeling|laser-coding|light-inspection|packing-palletizing|sealing'
+const DUPLICATE_SOLUTION_DETAIL_RE = new RegExp(`^/(en|zh|fr|ru|vi|bn)/solutions/(${DUPLICATE_SOLUTION_CATEGORY_PATTERN})/([^/]+)$`)
+
+const canonicalizeFillingSidebarItems = (items) => items.map((item) => {
+  const normalized = { ...item }
+  const match = item.link?.match(DUPLICATE_SOLUTION_DETAIL_RE)
+  if (match) normalized.link = `/${match[1]}/products/filling/${match[3]}`
+  if (item.items) normalized.items = canonicalizeFillingSidebarItems(item.items)
+  return normalized
+})
+
 const SITE_URL = 'https://hydraulicoilpressing.opchn.com'
 const SITE_NAME = 'Shengshi Hecheng Oil Press'
+const CURRENT_YEAR = new Date().getFullYear()
 const ORGANIZATION_ID = `${SITE_URL}/#organization`
 const WEBSITE_ID = `${SITE_URL}/#website`
 const DEFAULT_IMAGE = `${SITE_URL}/images/hero-oil-press.webp`
 const DEFAULT_DESCRIPTION = 'Professional Hydraulic Oil Press Manufacturer and One-stop Oil Processing Solutions.'
-const OFFER_PRICE_VALID_UNTIL = '2027-12-31'
 // Keep hreflang codes aligned with locales.*.lang and sitemap xhtml:link values
 const LOCALE_CODES = { en: 'en-US', zh: 'zh-CN', fr: 'fr-FR', ru: 'ru-RU', vi: 'vi-VN', bn: 'bn-BD' }
 const OG_LOCALE = { en: 'en_US', zh: 'zh_CN', fr: 'fr_FR', ru: 'ru_RU', vi: 'vi_VN', bn: 'bn_BD' }
 // Thin / internal / duplicate pages that should not be indexed
 const NOINDEX_ROUTE_PATTERNS = [
   /^\/$/,
+  /^\/404$/,
   /\/translation-glossary$/,
   /\/solutions\/peanut1$/,
+  DUPLICATE_SOLUTION_DETAIL_RE,
   /Sesame%20Cleaning%20Machine$/,
   /\/products\/peanut$/
 ]
@@ -1046,14 +1063,6 @@ const PRODUCT_COLLECTION_SLUGS = new Set([
 const PRODUCT_INFO_SLUGS = new Set([
   'instruction-manual',
   'customer-order-shipping-video'
-])
-const HYDRAULIC_PRESS_DETAIL_SLUGS = new Set([
-  'customized-hydraulic-oil-press',
-  'korean-type-small-hydraulic-oil-press-machine',
-  'small-sesame-oil-press-machine',
-  'khop-10kg-small-hydraulic-oil-press-machine',
-  'khop-15kg-small-hydraulic-oil-press-machine',
-  'khop-20kg-small-hydraulic-oil-press-machine'
 ])
 const OIL_SOLUTION_DETAIL_SLUGS = new Set([
   'soybean',
@@ -1320,7 +1329,7 @@ const ROUTE_LABELS = {
     industry: 'শিল্প সংবাদ',
     technology: 'কারিগরি জ্ঞান',
     about: 'আমাদের সম্পর্কে',
-    contact: 'দাম ও দরপত্র নিন',
+    contact: 'দাম ও কোটেশন নিন',
     advantages: 'সুবিধাসমূহ',
     supporting: 'সহায়ক সরঞ্জাম',
     'pre-treatment': 'প্রি-ট্রিটমেন্ট সরঞ্জাম',
@@ -1739,22 +1748,6 @@ const getCollectionFallbackName = (lang, path) => {
   return getRouteLabel(lang, slug)
 }
 
-const inferModel = (pageName, slug) => {
-  const source = `${pageName || ''} ${slug || ''}`.toUpperCase()
-  const patterns = [
-    /\b([A-Z]{2,}-\d+[A-Z]?)\b/,
-    /\b([A-Z]{2,}\d+(?:-\d+)+(?:[A-Z])?)\b/,
-    /\b(300|325|355|400|426|480|500)\b/
-  ]
-
-  for (const pattern of patterns) {
-    const match = source.match(pattern)
-    if (match) return match[1]
-  }
-
-  return null
-}
-
 const getPrimaryPageType = (section, segments) => {
   if (!segments.length) return 'WebPage'
   if (section === 'contact') return 'ContactPage'
@@ -1777,9 +1770,13 @@ const getCollectionItemList = (lang, section, segments) => {
 
   return paths.map((path) => {
     const normalizedPath = normalizeSchemaRoute(path)
+    const duplicateSolutionMatch = normalizedPath.match(new RegExp(`^/solutions/(${DUPLICATE_SOLUTION_CATEGORY_PATTERN})/([^/]+)$`))
+    const canonicalPath = duplicateSolutionMatch
+      ? `/products/filling/${duplicateSolutionMatch[2]}`
+      : normalizedPath
     return {
-      name: getDocTitleByPath(lang, normalizedPath) || getCollectionFallbackName(lang, normalizedPath),
-      url: `${SITE_URL}${buildLocalizedPath(lang, normalizedPath)}`
+      name: getDocTitleByPath(lang, canonicalPath) || getCollectionFallbackName(lang, canonicalPath),
+      url: `${SITE_URL}${buildLocalizedPath(lang, canonicalPath)}`
     }
   })
 }
@@ -1943,11 +1940,17 @@ const buildBreadcrumbSchema = ({ route, canonical, lang, segments, pageName }) =
     let accumulated = lang === 'en' ? '/en' : `/${lang}`
     segments.forEach((segment, index) => {
       accumulated += `/${segment}`
+      const isFillingParent = segments[0] === 'products' && index === 1 && segment === 'filling'
+      const itemPath = isFillingParent
+        ? `${lang === 'en' ? '/en' : `/${lang}`}/products/filling-equipment`
+        : accumulated
       itemListElement.push({
         '@type': 'ListItem',
         position: index + 2,
-        name: index === segments.length - 1 && pageName ? pageName : getRouteLabel(lang, segment),
-        item: `${SITE_URL}${accumulated}`
+        name: index === segments.length - 1 && pageName
+          ? pageName
+          : getRouteLabel(lang, isFillingParent ? 'filling-equipment' : segment),
+        item: `${SITE_URL}${itemPath}`
       })
     })
   }
@@ -1960,7 +1963,7 @@ const buildBreadcrumbSchema = ({ route, canonical, lang, segments, pageName }) =
   }
 }
 
-const buildBasePageSchema = ({ canonical, pageName, description, langCode, pageType, collectionItems = [], mainEntityId = '', image = DEFAULT_IMAGE }) => {
+const buildBasePageSchema = ({ canonical, pageName, description, langCode, pageType, collectionItems = [], mainEntityId = '', image = DEFAULT_IMAGE, includeBreadcrumb = true }) => {
   const schema = {
     '@context': 'https://schema.org',
     '@type': pageType,
@@ -1970,12 +1973,13 @@ const buildBasePageSchema = ({ canonical, pageName, description, langCode, pageT
     inLanguage: langCode,
     isPartOf: { '@id': WEBSITE_ID },
     about: { '@id': ORGANIZATION_ID },
-    breadcrumb: { '@id': `${canonical}#breadcrumb` },
     primaryImageOfPage: {
       '@type': 'ImageObject',
       url: absoluteAssetUrl(image)
     }
   }
+
+  if (includeBreadcrumb) schema.breadcrumb = { '@id': `${canonical}#breadcrumb` }
 
   if (description) schema.description = description
 
@@ -2007,81 +2011,6 @@ const absoluteAssetUrl = (value = '') => {
   return `${SITE_URL}${path.split('?')[0]}`
 }
 
-const buildProductSchema = ({ canonical, pageName, description, langCode, lang, category, model, image }) => {
-  const additionalProperty = []
-  const contactUrl = `${SITE_URL}${buildLocalizedPath(lang, '/contact/')}`
-  const aboutUrl = `${SITE_URL}${buildLocalizedPath(lang, '/about/')}`
-  const returnPolicyUrl = `${SITE_URL}${buildLocalizedPath(lang, '/advantages/service/')}`
-  const productImage = absoluteAssetUrl(image)
-
-  if (model) {
-    additionalProperty.push({
-      '@type': 'PropertyValue',
-      name: 'Model',
-      value: model
-    })
-  }
-
-  if (category) {
-    additionalProperty.push({
-      '@type': 'PropertyValue',
-      name: 'Category',
-      value: category
-    })
-  }
-
-  const schema = {
-    '@context': 'https://schema.org',
-    '@type': 'Product',
-    '@id': `${canonical}#product`,
-    name: pageName,
-    url: canonical,
-    inLanguage: langCode,
-    mainEntityOfPage: {
-      '@id': `${canonical}#webpage`
-    },
-    image: [productImage],
-    brand: {
-      '@type': 'Brand',
-      name: 'Shengshi Hecheng'
-    },
-    manufacturer: {
-      '@id': ORGANIZATION_ID
-    },
-    // Quote-based B2B equipment: do not emit fake price:0 (Google rich-result risk)
-    offers: {
-      '@type': 'Offer',
-      url: contactUrl,
-      priceCurrency: 'USD',
-      priceValidUntil: OFFER_PRICE_VALID_UNTIL,
-      availability: 'https://schema.org/InStock',
-      itemCondition: 'https://schema.org/NewCondition',
-      hasMerchantReturnPolicy: {
-        '@type': 'MerchantReturnPolicy',
-        applicableCountry: 'CN',
-        returnPolicyCategory: 'https://schema.org/MerchantReturnNotPermitted',
-        merchantReturnLink: returnPolicyUrl
-      },
-      seller: {
-        '@type': 'Organization',
-        name: 'Shengshi Hecheng',
-        url: aboutUrl
-      },
-      businessFunction: 'http://purl.org/goodrelations/v1#Sell'
-    }
-  }
-
-  if (description) schema.description = description
-  if (category) schema.category = category
-  if (model) {
-    schema.model = model
-    schema.sku = model
-  }
-  if (additionalProperty.length) schema.additionalProperty = additionalProperty
-
-  return schema
-}
-
 const buildServiceSchema = ({ canonical, pageName, description, langCode, lang }) => {
   const schema = {
     '@context': 'https://schema.org',
@@ -2096,8 +2025,7 @@ const buildServiceSchema = ({ canonical, pageName, description, langCode, lang }
     serviceType: pageName,
     provider: {
       '@id': ORGANIZATION_ID
-    },
-    areaServed: 'Worldwide'
+    }
   }
 
   if (description) schema.description = description
@@ -2424,12 +2352,294 @@ const buildOilSolutionFaqSchema = (lang, solutionName) => {
   return builder ? buildFaqSchema(builder(solutionName)) : null
 }
 
+const PRIMARY_NAV_COPY = {
+  en: {
+    home: 'Home', products: 'Machines & Pricing', models: 'Hydraulic Press Models', overview: 'All Machines & Prices',
+    hot300: '300 Hot-Press Series', hot325: '325 Hot-Press Series', cold355: '355 Cold-Press Series', cold400: '400 Cold-Press Series',
+    cold426: '426 Cold-Press Series', cold480: '480 Cold-Press Series', cold500: '500 Cold-Press Series', systems: 'Supporting Systems',
+    small: 'Small Shop Oil Presses', supporting: 'Pretreatment & Supporting Equipment', filling: 'Filling & Packaging Equipment',
+    solutions: 'Processing Solutions', process: 'Oil Processing Routes', solutionsOverview: 'Solutions Overview', lines: 'Complete Production Lines',
+    seed: 'Seed Oil Processes', nuts: 'Nut Oil Processes', fruits: 'Fruit Oil Processes', fillingLines: 'Filling Package Solutions',
+    guides: 'Buyer Guides', guideOverview: 'Guide Center', technology: 'Technical & Buying Guides', industry: 'Industry Insights', companyNews: 'Company News',
+    about: 'Company', quote: 'Get a Quote'
+  },
+  zh: {
+    home: '首页', products: '设备与价格', models: '液压榨油机型号', overview: '全部设备与价格',
+    hot300: '300 热榨系列', hot325: '325 热榨系列', cold355: '355 冷榨系列', cold400: '400 冷榨系列',
+    cold426: '426 冷榨系列', cold480: '480 冷榨系列', cold500: '500 冷榨系列', systems: '配套系统',
+    small: '门店小型榨油机', supporting: '预处理与配套设备', filling: '灌装与包装设备',
+    solutions: '加工解决方案', process: '油料加工路线', solutionsOverview: '解决方案概览', lines: '完整生产线',
+    seed: '籽类油料工艺', nuts: '坚果油工艺', fruits: '果实油工艺', fillingLines: '灌装配套方案',
+    guides: '采购指南', guideOverview: '指南中心', technology: '技术与采购指南', industry: '行业资讯', companyNews: '公司动态',
+    about: '公司介绍', quote: '获取报价'
+  },
+  ru: {
+    home: 'Главная', products: 'Оборудование и цены', models: 'Модели гидравлических прессов', overview: 'Все машины и цены',
+    hot300: 'Серия 300, горячий отжим', hot325: 'Серия 325, горячий отжим', cold355: 'Серия 355, холодный отжим', cold400: 'Серия 400, холодный отжим',
+    cold426: 'Серия 426, холодный отжим', cold480: 'Серия 480, холодный отжим', cold500: 'Серия 500, холодный отжим', systems: 'Вспомогательные системы',
+    small: 'Малые прессы для магазина', supporting: 'Подготовка и вспомогательное оборудование', filling: 'Розлив и упаковка',
+    solutions: 'Технологические решения', process: 'Технологии переработки', solutionsOverview: 'Обзор решений', lines: 'Комплектные производственные линии',
+    seed: 'Переработка семян', nuts: 'Переработка орехов', fruits: 'Переработка плодового сырья', fillingLines: 'Решения для розлива',
+    guides: 'Руководства покупателя', guideOverview: 'Центр руководств', technology: 'Технические руководства', industry: 'Отраслевые материалы', companyNews: 'Новости компании',
+    about: 'О компании', quote: 'Запросить КП'
+  },
+  fr: {
+    home: 'Accueil', products: 'Machines et prix', models: 'Modèles de presses hydrauliques', overview: 'Toutes les machines et prix',
+    hot300: 'Série 300, pressage à chaud', hot325: 'Série 325, pressage à chaud', cold355: 'Série 355, pressage à froid', cold400: 'Série 400, pressage à froid',
+    cold426: 'Série 426, pressage à froid', cold480: 'Série 480, pressage à froid', cold500: 'Série 500, pressage à froid', systems: 'Systèmes complémentaires',
+    small: 'Petites presses pour boutique', supporting: 'Prétraitement et équipements complémentaires', filling: 'Remplissage et emballage',
+    solutions: 'Solutions de procédé', process: 'Procédés de production', solutionsOverview: 'Aperçu des solutions', lines: 'Lignes de production complètes',
+    seed: 'Procédés pour graines', nuts: 'Procédés pour noix', fruits: 'Procédés pour fruits', fillingLines: 'Solutions de remplissage',
+    guides: "Guides d'achat", guideOverview: 'Centre de guides', technology: 'Guides techniques', industry: 'Analyses du secteur', companyNews: "Actualités de l'entreprise",
+    about: "L'entreprise", quote: 'Demander un devis'
+  },
+  vi: {
+    home: 'Trang chủ', products: 'Máy và giá', models: 'Model máy ép thủy lực', overview: 'Tất cả máy và giá',
+    hot300: 'Dòng 300 ép nóng', hot325: 'Dòng 325 ép nóng', cold355: 'Dòng 355 ép lạnh', cold400: 'Dòng 400 ép lạnh',
+    cold426: 'Dòng 426 ép lạnh', cold480: 'Dòng 480 ép lạnh', cold500: 'Dòng 500 ép lạnh', systems: 'Hệ thống phụ trợ',
+    small: 'Máy ép nhỏ cho cửa hàng', supporting: 'Tiền xử lý và thiết bị phụ trợ', filling: 'Chiết rót và đóng gói',
+    solutions: 'Giải pháp chế biến', process: 'Tuyến công nghệ dầu', solutionsOverview: 'Tổng quan giải pháp', lines: 'Dây chuyền sản xuất hoàn chỉnh',
+    seed: 'Quy trình dầu hạt', nuts: 'Quy trình dầu hạt cứng', fruits: 'Quy trình dầu từ quả', fillingLines: 'Giải pháp chiết rót',
+    guides: 'Hướng dẫn mua hàng', guideOverview: 'Trung tâm hướng dẫn', technology: 'Hướng dẫn kỹ thuật', industry: 'Thông tin ngành', companyNews: 'Tin công ty',
+    about: 'Công ty', quote: 'Nhận báo giá'
+  },
+  bn: {
+    home: 'হোম', products: 'মেশিন ও দাম', models: 'হাইড্রোলিক প্রেস মডেল', overview: 'সব মেশিন ও দাম',
+    hot300: '৩০০ হট-প্রেস সিরিজ', hot325: '৩২৫ হট-প্রেস সিরিজ', cold355: '৩৫৫ কোল্ড-প্রেস সিরিজ', cold400: '৪০০ কোল্ড-প্রেস সিরিজ',
+    cold426: '৪২৬ কোল্ড-প্রেস সিরিজ', cold480: '৪৮০ কোল্ড-প্রেস সিরিজ', cold500: '৫০০ কোল্ড-প্রেস সিরিজ', systems: 'সহায়ক সিস্টেম',
+    small: 'দোকানের ছোট অয়েল প্রেস', supporting: 'প্রি-ট্রিটমেন্ট ও সহায়ক যন্ত্রপাতি', filling: 'ফিলিং ও প্যাকেজিং',
+    solutions: 'প্রক্রিয়াকরণ সমাধান', process: 'তেল উৎপাদন প্রক্রিয়া', solutionsOverview: 'সমাধান সারসংক্ষেপ', lines: 'সম্পূর্ণ উৎপাদন লাইন',
+    seed: 'বীজ তেলের প্রক্রিয়া', nuts: 'বাদাম তেলের প্রক্রিয়া', fruits: 'ফলজাত তেলের প্রক্রিয়া', fillingLines: 'ফিলিং সমাধান',
+    guides: 'ক্রয় নির্দেশিকা', guideOverview: 'গাইড কেন্দ্র', technology: 'প্রযুক্তিগত নির্দেশিকা', industry: 'শিল্প তথ্য', companyNews: 'কোম্পানি সংবাদ',
+    about: 'কোম্পানি', quote: 'কোটেশন নিন'
+  }
+}
+
+const fillingSidebarByLocale = {
+  en: enFillingSeriesSidebarItems,
+  zh: zhFillingSeriesSidebarItems,
+  ru: ruFillingSeriesSidebarItems,
+  fr: frFillingSeriesSidebarItems,
+  vi: viFillingSeriesSidebarItems,
+  bn: bnFillingSeriesSidebarItems
+}
+
+const buildFillingOverviewNavItems = (locale) =>
+  (fillingSidebarByLocale[locale] || fillingSidebarByLocale.en)
+    .map((group) => {
+      const overview = group.items?.find((item) => item.link && !item.items)
+      return overview ? { text: group.text, link: toCanonicalPath(overview.link) } : null
+    })
+    .filter(Boolean)
+
+const sidebarTitle = (locale, path) => {
+  const title = getDocTitleByPath(locale, path) || getCollectionFallbackName(locale, path)
+  return title.split(/\s+[|｜]\s+/)[0].trim()
+}
+
+const sidebarLink = (locale, path) => {
+  const route = toCanonicalPath(buildLocalizedPath(locale, path))
+  const duplicateMatch = route.match(DUPLICATE_SOLUTION_DETAIL_RE)
+  return duplicateMatch
+    ? `/${duplicateMatch[1]}/products/filling/${duplicateMatch[3]}`
+    : route
+}
+
+const sidebarItem = (locale, path, text = '') => {
+  if (!routeExists(buildLocalizedPath(locale, path))) return null
+  return { text: text || sidebarTitle(locale, path), link: sidebarLink(locale, path) }
+}
+
+const compactItems = (items) => items.filter(Boolean)
+
+const directChildPaths = (locale, basePath) => {
+  const baseRoute = toCanonicalPath(buildLocalizedPath(locale, basePath))
+  const baseDepth = parseLocalizedRoute(baseRoute).segments.length
+  return Array.from(DOC_TITLE_INDEX.keys())
+    .filter((route) => route.startsWith(`${baseRoute}/`))
+    .filter((route) => parseLocalizedRoute(route).segments.length === baseDepth + 1)
+    .filter((route) => !isNoindexRoute(route))
+    .sort((a, b) => (DOC_TITLE_INDEX.get(a) || '').localeCompare(DOC_TITLE_INDEX.get(b) || '', locale))
+    .map((route) => route.replace(new RegExp(`^/${locale}`), '') || '/')
+}
+
+const sidebarGroup = (text, items, collapsed = true) => ({ text, collapsed, items: compactItems(items) })
+
+const buildUnifiedSidebar = (locale) => {
+  const t = PRIMARY_NAV_COPY[locale] || PRIMARY_NAV_COPY.en
+  const prefix = `/${locale}`
+  const modelPaths = ['300', '325', '355', '400', '426', '480', '500'].map((model) => `/products/${model}`)
+  const smallPressPaths = [
+    '/products/korean-type-small-hydraulic-oil-press-machine',
+    '/products/small-sesame-oil-press-machine',
+    '/products/khop-10kg-small-hydraulic-oil-press-machine',
+    '/products/khop-15kg-small-hydraulic-oil-press-machine',
+    '/products/khop-20kg-small-hydraulic-oil-press-machine'
+  ]
+  const reservedProductPaths = new Set([
+    ...modelPaths,
+    ...smallPressPaths,
+    '/products/filling-equipment',
+    '/products/filtration-equipment',
+    '/products/refining-and-dewaxing-equipment'
+  ])
+  const supportingPaths = directChildPaths(locale, '/products').filter((path) => !reservedProductPaths.has(path))
+  const fillingItems = canonicalizeFillingSidebarItems(fillingSidebarByLocale[locale] || fillingSidebarByLocale.en)
+
+  const processCollections = [
+    ['seed-oils', t.seed],
+    ['nuts', t.nuts],
+    ['fruits', t.fruits],
+    ['special-oils', getRouteLabel(locale, 'special-oils')]
+  ]
+  const processPaths = new Set(['/solutions/production-lines'])
+  const processGroups = processCollections.map(([key, label]) => {
+    const paths = [`/solutions/${key}`, ...(COLLECTION_ROUTES.solutions[key] || [])]
+    paths.forEach((path) => processPaths.add(normalizeSchemaRoute(path)))
+    return sidebarGroup(label, paths.map((path) => sidebarItem(locale, path)))
+  })
+  const fillingCategoryPaths = DUPLICATE_SOLUTION_CATEGORY_PATTERN.split('|').map((category) => `/solutions/${category}`)
+  fillingCategoryPaths.forEach((path) => processPaths.add(path))
+  const otherSolutionPaths = directChildPaths(locale, '/solutions')
+    .filter((path) => !processPaths.has(normalizeSchemaRoute(path)))
+
+  const newsGroup = (category, label) => sidebarGroup(label, [
+    sidebarItem(locale, `/news/${category}`),
+    ...directChildPaths(locale, `/news/${category}`).map((path) => sidebarItem(locale, path))
+  ])
+
+  return {
+    [`${prefix}/products`]: [
+      sidebarGroup(t.products, [
+        sidebarItem(locale, '/products', t.overview),
+        sidebarGroup(t.models, modelPaths.map((path) => sidebarItem(locale, path))),
+        sidebarGroup(t.small, smallPressPaths.map((path) => sidebarItem(locale, path))),
+        sidebarGroup(t.supporting, [
+          sidebarItem(locale, '/products/filtration-equipment'),
+          sidebarItem(locale, '/products/refining-and-dewaxing-equipment'),
+          ...supportingPaths.map((path) => sidebarItem(locale, path))
+        ]),
+        sidebarGroup(t.filling, [sidebarItem(locale, '/products/filling-equipment'), ...fillingItems])
+      ], false)
+    ],
+    [`${prefix}/solutions`]: [
+      sidebarGroup(t.solutions, [
+        sidebarItem(locale, '/solutions', t.solutionsOverview),
+        sidebarItem(locale, '/solutions/production-lines', t.lines),
+        ...processGroups,
+        ...otherSolutionPaths.map((path) => sidebarItem(locale, path)),
+        sidebarGroup(t.fillingLines, fillingCategoryPaths.map((path) => sidebarItem(locale, path)))
+      ], false)
+    ],
+    [`${prefix}/news`]: [
+      sidebarGroup(t.guides, [
+        sidebarItem(locale, '/news', t.guideOverview),
+        newsGroup('technology', t.technology),
+        newsGroup('industry', t.industry),
+        newsGroup('company', t.companyNews)
+      ], false)
+    ],
+    [`${prefix}/about`]: [
+      sidebarGroup(t.about, [
+        sidebarItem(locale, '/about', t.about),
+        ...directChildPaths(locale, '/about').map((path) => sidebarItem(locale, path))
+      ], false)
+    ],
+    [`${prefix}/advantages`]: [
+      sidebarGroup(getRouteLabel(locale, 'advantages'), [
+        sidebarItem(locale, '/advantages', getRouteLabel(locale, 'advantages')),
+        ...directChildPaths(locale, '/advantages').map((path) => sidebarItem(locale, path))
+      ], false)
+    ],
+    [`${prefix}/contact`]: [
+      sidebarGroup(t.quote, [sidebarItem(locale, '/contact', t.quote)], false)
+    ]
+  }
+}
+
+const buildPrimaryNav = (locale) => {
+  const t = PRIMARY_NAV_COPY[locale] || PRIMARY_NAV_COPY.en
+  const prefix = `/${locale}`
+  const fillingOverviewItems = buildFillingOverviewNavItems(locale)
+  return [
+    { text: t.home, link: prefix },
+    {
+      text: t.products,
+      items: [
+        { text: t.overview, link: `${prefix}/products` },
+        {
+          text: t.models,
+          items: [
+            { text: t.hot300, link: `${prefix}/products/300` },
+            { text: t.hot325, link: `${prefix}/products/325` },
+            { text: t.cold355, link: `${prefix}/products/355` },
+            { text: t.cold400, link: `${prefix}/products/400` },
+            { text: t.cold426, link: `${prefix}/products/426` },
+            { text: t.cold480, link: `${prefix}/products/480` },
+            { text: t.cold500, link: `${prefix}/products/500` }
+          ]
+        },
+        {
+          text: t.systems,
+          items: [
+            { text: t.small, link: `${prefix}/products/korean-type-small-hydraulic-oil-press-machine` },
+            { text: t.supporting, link: `${prefix}/products/supporting` },
+            { text: t.filling, link: `${prefix}/products/filling-equipment` }
+          ]
+        }
+      ]
+    },
+    {
+      text: t.solutions,
+      items: [
+        { text: t.solutionsOverview, link: `${prefix}/solutions` },
+        {
+          text: t.process,
+          items: [
+            { text: t.lines, link: `${prefix}/solutions/production-lines` },
+            { text: t.seed, link: `${prefix}/solutions/seed-oils` },
+            { text: t.nuts, link: `${prefix}/solutions/nuts` },
+            { text: t.fruits, link: `${prefix}/solutions/fruits` },
+            { text: t.fillingLines, link: `${prefix}/solutions/filling-packages` }
+          ]
+        },
+        {
+          text: t.fillingLines,
+          items: fillingOverviewItems
+        }
+      ]
+    },
+    {
+      text: t.guides,
+      items: [
+        { text: t.guideOverview, link: `${prefix}/news` },
+        { text: t.technology, link: `${prefix}/news/technology` },
+        { text: t.industry, link: `${prefix}/news/industry` },
+        { text: t.companyNews, link: `${prefix}/news/company` }
+      ]
+    },
+    {
+      text: t.about,
+      items: [
+        { text: t.about, link: `${prefix}/about` },
+        { text: getRouteLabel(locale, 'advantages'), link: `${prefix}/advantages` }
+      ]
+    },
+    { text: t.quote, link: `${prefix}/contact` }
+  ]
+}
+
 export default {
   transformHead: ({ pageData }) => {
     const rawRoute = normalizeRoute(pageData.relativePath || 'index.md')
     const route = toCanonicalPath(rawRoute)
+    const duplicateSolutionMatch = route.match(DUPLICATE_SOLUTION_DETAIL_RE)
     // Root `/` is a redirect shell — canonical should point at the English home
-    const canonicalPath = route === '/' ? '/en' : route
+    const canonicalPath = route === '/'
+      ? '/en'
+      : duplicateSolutionMatch
+        ? `/${duplicateSolutionMatch[1]}/products/filling/${duplicateSolutionMatch[3]}`
+        : route
     const canonical = `${SITE_URL}${canonicalPath}`
     const { lang, segments } = parseLocalizedRoute(route === '/' ? '/en' : route)
     const langCode = LOCALE_CODES[lang] || lang
@@ -2479,14 +2689,10 @@ export default {
     const isProductInfoPage = section === 'products' && segments.length === 2 && PRODUCT_INFO_SLUGS.has(segments[1])
     const isProductDetail = section === 'products' && !isProductCollection && !isProductInfoPage
     const isOilSolutionDetail = section === 'solutions' && segments.length === 2 && OIL_SOLUTION_DETAIL_SLUGS.has(segments[1])
-    const isSolutionCollection = section === 'solutions' && (segments.length === 1 || (segments.length === 2 && SOLUTION_COLLECTION_SLUGS.has(segments[1])))
-    const isSolutionMachineDetail = section === 'solutions' && !isOilSolutionDetail && !isSolutionCollection
-
     const primaryPageType = getPrimaryPageType(section, segments)
     const collectionItems = getCollectionItemList(lang, section, segments)
     let mainEntityId = ''
 
-    if (isProductDetail || isSolutionMachineDetail) mainEntityId = `${canonical}#product`
     if (isOilSolutionDetail) mainEntityId = `${canonical}#service`
     if (isNewsArticle) mainEntityId = `${canonical}#article`
 
@@ -2499,7 +2705,8 @@ export default {
         pageType: primaryPageType,
         collectionItems,
         mainEntityId,
-        image: pageImage
+        image: pageImage,
+        includeBreadcrumb: !isHome && !shouldNoindex
       })
     ]
 
@@ -2511,40 +2718,11 @@ export default {
       }
     }
 
-    if (isProductDetail) {
-      const productSlug = segments[1] === 'filling' ? segments[2] : segments[1]
-      const model = inferModel(pageName, productSlug)
-      let category = getRouteLabel(lang, 'products')
-
-      if (segments[1] === 'filling') {
-        category = getRouteLabel(lang, 'filling-equipment')
-      } else if (/^\d+$/.test(segments[1]) || HYDRAULIC_PRESS_DETAIL_SLUGS.has(segments[1])) {
-        category = getRouteLabel(lang, 'hydraulic-oil-press')
-      } else if (segments[1].includes('filter')) {
-        category = getRouteLabel(lang, 'filtration-equipment')
-      } else if (segments[1].includes('refining')) {
-        category = getRouteLabel(lang, 'refining-and-dewaxing-equipment')
-      } else {
-        category = getRouteLabel(lang, 'supporting')
-      }
-
-      pageSchemas.push(buildProductSchema({
-        canonical,
-        pageName,
-        description: pageDescription,
-        langCode,
-        lang,
-        category,
-        model,
-        image: pageImage
-      }))
-
-      if (/^\d+$/.test(segments[1])) {
-        const seriesFaq = buildSeriesFaqSchema(lang, segments[1])
-        if (seriesFaq) {
-          seriesFaq.inLanguage = langCode
-          pageSchemas.push(seriesFaq)
-        }
+    if (isProductDetail && /^\d+$/.test(segments[1])) {
+      const seriesFaq = buildSeriesFaqSchema(lang, segments[1])
+      if (seriesFaq) {
+        seriesFaq.inLanguage = langCode
+        pageSchemas.push(seriesFaq)
       }
     }
 
@@ -2564,22 +2742,6 @@ export default {
       }
     }
 
-    if (isSolutionMachineDetail) {
-      const model = inferModel(pageName, slug)
-      const category = getRouteLabel(lang, segments[1]) || getRouteLabel(lang, 'solutions')
-
-      pageSchemas.push(buildProductSchema({
-        canonical,
-        pageName,
-        description: pageDescription,
-        langCode,
-        lang,
-        category,
-        model,
-        image: pageImage
-      }))
-    }
-
     if (isNewsArticle) {
       pageSchemas.push(buildArticleSchema({
         canonical,
@@ -2593,13 +2755,10 @@ export default {
 
     pageSchemas.push(...buildPageVideoSchemas({ route, canonical, langCode }))
 
-    const breadcrumbSchema = buildBreadcrumbSchema({
-      route,
-      canonical,
-      lang,
-      segments,
-      pageName
-    })
+    const breadcrumbSchema = !isHome && !shouldNoindex
+      ? buildBreadcrumbSchema({ route, canonical, lang, segments, pageName })
+      : null
+    const renderedPageSchemas = shouldNoindex ? [] : pageSchemas
 
     const headTags = [
       // Page-level meta must be injected here: global head description was overwriting SEO
@@ -2639,10 +2798,10 @@ export default {
       ['meta', { name: 'twitter:title', content: pageTitle }],
       ['meta', { name: 'twitter:description', content: pageDescription }],
       ['meta', { name: 'twitter:image', content: pageImage }],
-      ...altHrefs.map(({ hreflang, href }) => ['link', { rel: 'alternate', hreflang, href }]),
-      ['link', { rel: 'alternate', hreflang: 'x-default', href: `${SITE_URL}${xDefaultRoute}` }],
-      ['script', { type: 'application/ld+json' }, JSON.stringify(breadcrumbSchema)],
-      ...pageSchemas.map((schema) => ['script', { type: 'application/ld+json' }, JSON.stringify(schema)])
+      ...(!shouldNoindex ? altHrefs.map(({ hreflang, href }) => ['link', { rel: 'alternate', hreflang, href }]) : []),
+      ...(!shouldNoindex ? [['link', { rel: 'alternate', hreflang: 'x-default', href: `${SITE_URL}${xDefaultRoute}` }]] : []),
+      ...(breadcrumbSchema ? [['script', { type: 'application/ld+json' }, JSON.stringify(breadcrumbSchema)]] : []),
+      ...renderedPageSchemas.map((schema) => ['script', { type: 'application/ld+json' }, JSON.stringify(schema)])
     ]
 
     return headTags
@@ -2658,16 +2817,39 @@ export default {
             const pathname = new URL(item.url, SITE_URL).pathname.replace(/\/$/, '') || '/'
             if (pathname === '/') return false
             if (isNoindexRoute(pathname)) return false
-            if (/%20|%2F|peanut1|translation-glossary|Sesame/i.test(item.url)) return false
+            if (/%20|%2F|peanut1|translation-glossary/i.test(item.url)) return false
             return true
           } catch {
             return true
           }
         })
         .map((item) => {
+          const normalizeSitemapUrl = (value) => {
+            if (!value) return value
+            const parsed = new URL(value, SITE_URL)
+            if (parsed.pathname !== '/') parsed.pathname = parsed.pathname.replace(/\/$/, '')
+            return parsed.toString()
+          }
+
           // Normalize trailing slash off for consistency with canonical
-          if (item.url && item.url.endsWith('/') && item.url !== `${SITE_URL}/`) {
-            item.url = item.url.replace(/\/$/, '')
+          item.url = normalizeSitemapUrl(item.url)
+          if (Array.isArray(item.links)) {
+            const seenLinks = new Set()
+            item.links = item.links
+              .map((link) => {
+                const key = Object.prototype.hasOwnProperty.call(link, 'url') ? 'url' : 'href'
+                return { ...link, [key]: normalizeSitemapUrl(link[key]) }
+              })
+              .filter((link) => {
+                const linkUrl = link.url || link.href
+                if (!linkUrl) return false
+                const pathname = new URL(linkUrl, SITE_URL).pathname.replace(/\/$/, '') || '/'
+                if (pathname === '/' || isNoindexRoute(pathname)) return false
+                const signature = `${link.lang || link.hreflang || ''}:${linkUrl}`
+                if (seenLinks.has(signature)) return false
+                seenLinks.add(signature)
+                return true
+              })
           }
           // Locale homepages get higher priority
           if (/\/(en|zh|fr|ru|vi|bn)$/.test(item.url || '')) {
@@ -2685,13 +2867,16 @@ export default {
     }
   },
   title: 'Shengshi Hecheng Oil Press',
+  titleTemplate: ':title',
   description: 'Professional Hydraulic Oil Press Manufacturer and One-stop Oil Processing Solutions.',
   cleanUrls: true,
+  metaChunk: true,
   base: '/',
   ignoreDeadLinks: true,
   vite: {
     build: {
-      chunkSizeWarningLimit: 1000,
+      // Locale search indexes are lazy-loaded and currently peak below 1.8 MB.
+      chunkSizeWarningLimit: 1900,
       rollupOptions: {
         output: {
           manualChunks(id) {
@@ -2718,7 +2903,7 @@ export default {
     ['meta', { name: 'author', content: 'Shengshi Hecheng' }],
     ['meta', { name: 'theme-color', content: '#e74c3c' }],
     ['meta', { name: 'baidu-site-verification', content: 'codeva-wjCh7UrQj8' }],
-    ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/images/oil-press-300.svg' }],
     ['link', { rel: 'preconnect', href: 'https://www.googletagmanager.com' }],
     ['link', { rel: 'preconnect', href: 'https://embed.tawk.to' }],
     ['link', { rel: 'dns-prefetch', href: 'https://www.youtube.com' }],
@@ -2740,14 +2925,12 @@ export default {
           telephone: '+86-19906365856',
           email: 'gavin@oil-pressing-machine.com',
           contactType: 'sales',
-          areaServed: 'Worldwide',
           availableLanguage: Object.values(LOCALE_CODES)
         },
         {
           '@type': 'ContactPoint',
           email: 'roryshanshan@gmail.com',
           contactType: 'customer support',
-          areaServed: 'Worldwide',
           availableLanguage: Object.values(LOCALE_CODES)
         }
       ],
@@ -2783,10 +2966,8 @@ export default {
 
   gtag('config', 'AW-17559313965');
     `],
-    // GA4 - Google Analytics 4
-    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-ZQC83SKWK2' }],
     ['script', {}, `
-  // If gtag already initialized above (for AW), simply configure GA4
+  // Reuse the existing gtag.js load for GA4.
   gtag('config', 'G-ZQC83SKWK2');
     `],
     ['script', {}, `document.addEventListener('click', function (e) {
@@ -2813,45 +2994,15 @@ s0.parentNode.insertBefore(s1,s0);
 
   locales: {
     root: {
+      label: 'English',
       lang: 'en-US',
+      link: '/en/',
+      title: 'Shengshi Hecheng Hydraulic Oil Press',
+      description: 'Hydraulic oil press machines, production lines, factory quotes and after-sales support.',
       themeConfig: {
-        nav: [
-          { text: '🏠 Home', link: '/en/' },
-          { text: '💰 Get Price & Quote', link: '/en/contact/' },
-          {
-            text: '🛠️ Products',
-            link: '/en/products/',
-            items: [
-              { text: '📋 Product Overview', link: '/en/products/' },
-              { text: '300 Series', link: '/en/products/300' },
-              { text: '325 Series', link: '/en/products/325' },
-              { text: '355 Series', link: '/en/products/355' },
-              { text: '400 Series', link: '/en/products/400' },
-              { text: '426 Series', link: '/en/products/426' },
-              { text: '480 Series', link: '/en/products/480' },
-              { text: '500 Series', link: '/en/products/500' },
-              { text: 'Korean Type Small Hydraulic Oil Press', link: '/en/products/korean-type-small-hydraulic-oil-press-machine' },
-              { text: '🧪 Oil Filtration Equipment', link: '/en/products/filtration-equipment' },
-              { text: '✨ Refining & Dewaxing Equipment', link: '/en/products/refining-and-dewaxing-equipment' },
-              { text: '📦 Filling & Packaging Equipment', link: '/en/products/filling-equipment' },
-              { text: '🔧 Supporting Equipment', link: '/en/products/supporting' }
-            ]
-          },
-          {
-            text: '💡 Solutions',
-            link: '/en/solutions/',
-            items: [
-              { text: '📚 Solutions Overview', link: '/en/solutions/' },
-              { text: '🏭 Production Lines', link: '/en/solutions/production-lines' },
-              { text: '🌾 By Oil Type', link: '/en/solutions/seed-oils' },
-              { text: '📦 Filling Packages', link: '/en/solutions/filling-packages' }
-            ]
-          },
-          { text: '⭐ Advantages', link: '/en/advantages/' },
-          { text: '📰 News', link: '/en/news/' },
-          { text: '👥 About Us', link: '/en/about/' },
-        ],
-        sidebar: {
+        nav: buildPrimaryNav('en'),
+        sidebar: buildUnifiedSidebar('en'),
+        legacySidebar: {
           '/en/products': [
             {
               text: 'Products',
@@ -2941,7 +3092,7 @@ s0.parentNode.insertBefore(s1,s0);
                   items: [
                     { text: 'Overview', link: '/en/products/filling-equipment' },
                     { text: 'Filling Packages Overview', link: '/en/solutions/filling-packages' },
-                    ...enFillingSeriesSidebarItems,
+                    ...canonicalizeFillingSidebarItems(enFillingSeriesSidebarItems),
                     {
                       text: 'Brewing Equipment Series',
                       collapsed: true,
@@ -3066,7 +3217,7 @@ s0.parentNode.insertBefore(s1,s0);
                 {
                   text: 'Filling & Packaging Solutions',
                   collapsed: false,
-                  items: [...enFillingSeriesSidebarItems]
+                  items: canonicalizeFillingSidebarItems(enFillingSeriesSidebarItems)
                 }
               ]
             }
@@ -3147,46 +3298,9 @@ s0.parentNode.insertBefore(s1,s0);
       title: '盛世赫程液压榨油机',
       description: '专业的榨油设备制造商',
       themeConfig: {
-        nav: [
-          { text: '首页', link: '/zh/' },
-          { text: '获取价格/报价', link: '/zh/contact/' },
-          {
-            text: '产品',
-            link: '/zh/products/',
-            items: [
-              { text: '产品概览', link: '/zh/products/' },
-              { text: '300系列', link: '/zh/products/300' },
-              { text: '325系列', link: '/zh/products/325' },
-              { text: '355系列', link: '/zh/products/355' },
-              { text: '400系列', link: '/zh/products/400' },
-              { text: '426系列', link: '/zh/products/426' },
-              { text: '480系列', link: '/zh/products/480' },
-              { text: '500系列', link: '/zh/products/500' },
-              { text: '韩式小型液压榨油机', link: '/zh/products/korean-type-small-hydraulic-oil-press-machine' },
-              { text: '过滤设备', link: '/zh/products/filtration-equipment' },
-              { text: '精炼与脱蜡设备', link: '/zh/products/refining-and-dewaxing-equipment' },
-              { text: '灌装包装设备', link: '/zh/products/filling-equipment' },
-              { text: '设备使用说明书', link: '/zh/products/instruction-manual' },
-              { text: '客户定制款液压榨油机', link: '/zh/products/customized-hydraulic-oil-press' },
-              { text: '客户订货发货视频', link: '/zh/products/customer-order-shipping-video' },
-              { text: '配套设备', link: '/zh/products/supporting' }
-            ]
-          },
-          {
-            text: '解决方案',
-            link: '/zh/solutions/',
-            items: [
-              { text: '方案概览', link: '/zh/solutions/' },
-              { text: '生产线', link: '/zh/solutions/production-lines' },
-              { text: '油料解决方案', link: '/zh/solutions/seed-oils' },
-              { text: '灌装配套方案', link: '/zh/solutions/filling-packages' }
-            ]
-          },
-          { text: '公司优势', link: '/zh/advantages/' },
-          { text: '新闻资讯', link: '/zh/news/' },
-          { text: '关于我们', link: '/zh/about/' },
-        ],
-        sidebar: {
+        nav: buildPrimaryNav('zh'),
+        sidebar: buildUnifiedSidebar('zh'),
+        legacySidebar: {
           '/zh/products': [
             {
               text: '产品',
@@ -3276,7 +3390,7 @@ s0.parentNode.insertBefore(s1,s0);
                   items: [
                     { text: '概述', link: '/zh/products/filling-equipment' },
                     { text: '灌装配套方案概览', link: '/zh/solutions/filling-packages' },
-                    ...zhFillingSeriesSidebarItems
+                    ...canonicalizeFillingSidebarItems(zhFillingSeriesSidebarItems)
                   ]
                 },
                 {
@@ -3411,7 +3525,7 @@ s0.parentNode.insertBefore(s1,s0);
                   collapsed: true,
                   items: [
                     { text: '灌装配套方案概览', link: '/zh/solutions/filling-packages' },
-                    ...zhFillingSeriesSidebarItems
+                    ...canonicalizeFillingSidebarItems(zhFillingSeriesSidebarItems)
                   ]
                 }
               ]
@@ -3486,8 +3600,8 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: '专业制造 · 值得信赖 · <a href="/zh/">液压榨油机官网</a>',
-          copyright: '© 2025 山东盛世赫程机械有限公司'
+          message: '设备选型 · 生产线方案 · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener noreferrer">厂家官网</a>',
+          copyright: `© ${CURRENT_YEAR} 山东盛世赫程机械有限公司`
         }
       }
     },
@@ -3497,46 +3611,9 @@ s0.parentNode.insertBefore(s1,s0);
       title: 'Shengshi Hecheng Oil Press',
       description: 'Professional Oil Press Manufacturer',
       themeConfig: {
-        nav: [
-          { text: 'Home', link: '/en/' },
-          { text: 'Get Price & Quote', link: '/en/contact/' },
-          {
-            text: 'Products',
-            link: '/en/products/',
-            items: [
-              { text: 'Product Overview', link: '/en/products/' },
-              { text: '300 Series', link: '/en/products/300' },
-              { text: '325 Series', link: '/en/products/325' },
-              { text: '355 Series', link: '/en/products/355' },
-              { text: '400 Series', link: '/en/products/400' },
-              { text: '426 Series', link: '/en/products/426' },
-              { text: '480 Series', link: '/en/products/480' },
-              { text: '500 Series', link: '/en/products/500' },
-              { text: 'Korean Type Small Hydraulic Oil Press', link: '/en/products/korean-type-small-hydraulic-oil-press-machine' },
-              { text: 'Oil Filtration Equipment', link: '/en/products/filtration-equipment' },
-              { text: 'Refining & Dewaxing Equipment', link: '/en/products/refining-and-dewaxing-equipment' },
-              { text: 'Filling & Packaging Equipment', link: '/en/products/filling-equipment' },
-              { text: 'Equipment Instruction Manual', link: '/en/products/instruction-manual' },
-              { text: 'Customized Hydraulic Oil Press', link: '/en/products/customized-hydraulic-oil-press' },
-              { text: 'Customer Order Shipping Video', link: '/en/products/customer-order-shipping-video' },
-              { text: 'Supporting Equipment', link: '/en/products/supporting' }
-            ]
-          },
-          {
-            text: 'Solutions',
-            link: '/en/solutions/',
-            items: [
-              { text: 'Solutions Overview', link: '/en/solutions/' },
-              { text: 'Production Lines Overview', link: '/en/solutions/production-lines' },
-              { text: 'By Oil Type', link: '/en/solutions/seed-oils' },
-              { text: 'Filling Packages Overview', link: '/en/solutions/filling-packages' }
-            ]
-          },
-          { text: 'Advantages', link: '/en/advantages/' },
-          { text: 'News', link: '/en/news/' },
-          { text: 'About Us', link: '/en/about/' },
-        ],
-        sidebar: {
+        nav: buildPrimaryNav('en'),
+        sidebar: buildUnifiedSidebar('en'),
+        legacySidebar: {
           '/en/products': [
             {
               text: 'Products',
@@ -3626,7 +3703,7 @@ s0.parentNode.insertBefore(s1,s0);
                   items: [
                     { text: 'Overview', link: '/en/products/filling-equipment' },
                     { text: 'Filling Packages Overview', link: '/en/solutions/filling-packages' },
-                    ...enFillingSeriesSidebarItems,
+                    ...canonicalizeFillingSidebarItems(enFillingSeriesSidebarItems),
                     {
                       text: 'Brewing Equipment Series',
                       collapsed: true,
@@ -3770,7 +3847,7 @@ s0.parentNode.insertBefore(s1,s0);
                 {
                   text: 'Filling & Packaging Solutions',
                   collapsed: false,
-                  items: [...enFillingSeriesSidebarItems]
+                  items: canonicalizeFillingSidebarItems(enFillingSeriesSidebarItems)
                 }
               ]
             }
@@ -3815,8 +3892,8 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'Professional Manufacturing · Trustworthy Quality · <a href="/en/">Hydraulic Oil Press</a>',
-          copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
+          message: 'Machine Selection · Production Lines · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener noreferrer">Manufacturer Website</a>',
+          copyright: `© ${CURRENT_YEAR} Shandong Shengshi Hecheng Machinery Co., Ltd`
         }
       }
     },
@@ -3826,43 +3903,9 @@ s0.parentNode.insertBefore(s1,s0);
       title: 'Гидравлический маслобойный пресс Shengshi Hecheng',
       description: 'Профессиональный производитель маслобойных прессов',
       themeConfig: {
-        nav: [
-          { text: 'Главная', link: '/ru/' },
-          { text: 'Запросить цену и расчёт', link: '/ru/contact/' },
-          {
-            text: 'Продукты и',
-            link: '/ru/products/',
-            items: [
-              { text: 'Обзор продукции и', link: '/ru/products/' },
-              { text: 'Серия 300', link: '/ru/products/300' },
-              { text: 'Серия 325', link: '/ru/products/325' },
-              { text: 'Серия 355', link: '/ru/products/355' },
-              { text: 'Серия 400', link: '/ru/products/400' },
-              { text: 'Серия 426', link: '/ru/products/426' },
-              { text: 'Серия 480', link: '/ru/products/480' },
-              { text: 'Серия 500', link: '/ru/products/500' },
-              { text: 'Малый гидравлический пресс корейского типа', link: '/ru/products/korean-type-small-hydraulic-oil-press-machine' },
-              { text: 'Оборудование для розлива и упаковки', link: '/ru/products/filling-equipment' },
-              { text: 'Руководство по Эксплуатации Оборудования', link: '/ru/products/instruction-manual' },
-              { text: 'Гидравлический маслопресс на заказ', link: '/ru/products/customized-hydraulic-oil-press' },
-              { text: 'Видео заказа и отгрузки клиента', link: '/ru/products/customer-order-shipping-video' },
-              { text: 'Вспомогательное оборудование', link: '/ru/products/supporting' }
-            ]
-          },
-          {
-            text: 'Решения и',
-            link: '/ru/solutions/',
-            items: [
-              { text: 'Обзор решений и', link: '/ru/solutions/' },
-              { text: 'По типу масла', link: '/ru/solutions/seed-oils' },
-              { text: 'Решения для наполнения', link: '/ru/solutions/filling' }
-            ]
-          },
-          { text: 'Преимущества', link: '/ru/advantages/' },
-          { text: 'Новости', link: '/ru/news/' },
-          { text: 'О нас', link: '/ru/about/' },
-        ],
-        sidebar: {
+        nav: buildPrimaryNav('ru'),
+        sidebar: buildUnifiedSidebar('ru'),
+        legacySidebar: {
           '/ru/products': [
             {
               text: 'Продукты и',
@@ -3935,7 +3978,7 @@ s0.parentNode.insertBefore(s1,s0);
                   items: [
                     { text: 'Обзор', link: '/ru/products/filling-equipment' },
                     { text: 'Обзор решений по фасовке', link: '/ru/solutions/filling-packages' },
-                    ...ruFillingSeriesSidebarItems,
+                    ...canonicalizeFillingSidebarItems(ruFillingSeriesSidebarItems),
                     {
                       text: 'Серия оборудования для пивоварения',
                       collapsed: true,
@@ -4080,7 +4123,7 @@ s0.parentNode.insertBefore(s1,s0);
                 {
                   text: 'Решения для наполнения',
                   collapsed: true,
-                  items: [...ruFillingSeriesSidebarItems]
+                  items: canonicalizeFillingSidebarItems(ruFillingSeriesSidebarItems)
                 }
               ]
             }
@@ -4154,8 +4197,8 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'Профессиональное производство · Надежное качество · <a href="/ru/">Hydraulic Oil Press</a>',
-          copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
+          message: 'Подбор оборудования · Производственные линии · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener noreferrer">Сайт производителя</a>',
+          copyright: `© ${CURRENT_YEAR} Shandong Shengshi Hecheng Machinery Co., Ltd`
         }
       }
     },
@@ -4165,43 +4208,9 @@ s0.parentNode.insertBefore(s1,s0);
       title: 'Presse à huile Shengshi Hecheng',
       description: 'Fabricant professionnel de presses à huile',
       themeConfig: {
-        nav: [
-          { text: 'Accueil', link: '/fr/' },
-          { text: 'Obtenir prix & devis', link: '/fr/contact/' },
-          {
-            text: 'Produits & Prix',
-            link: '/fr/products/',
-            items: [
-              { text: 'Aperçu produits', link: '/fr/products/' },
-              { text: 'Série 300 (prix)', link: '/fr/products/300' },
-              { text: 'Série 325 (prix)', link: '/fr/products/325' },
-              { text: 'Série 355 (prix)', link: '/fr/products/355' },
-              { text: 'Série 400 (prix)', link: '/fr/products/400' },
-              { text: 'Série 426 (prix)', link: '/fr/products/426' },
-              { text: 'Série 480 (prix)', link: '/fr/products/480' },
-              { text: 'Série 500 (prix)', link: '/fr/products/500' },
-              { text: 'Petite presse hydraulique type coréen (prix)', link: '/fr/products/korean-type-small-hydraulic-oil-press-machine' },
-              { text: 'Équipements de remplissage et d\'emballage', link: '/fr/products/filling-equipment' },
-              { text: 'Manuel d\'Instructions de l\'Équipement', link: '/fr/products/instruction-manual' },
-              { text: 'Presse hydraulique sur mesure', link: '/fr/products/customized-hydraulic-oil-press' },
-              { text: 'Vidéo d\'expédition de commande client', link: '/fr/products/customer-order-shipping-video' },
-              { text: 'Équipements complémentaires', link: '/fr/products/supporting' }
-            ]
-          },
-          {
-            text: 'Solutions',
-            link: '/fr/solutions/',
-            items: [
-              { text: 'Aperçu des solutions', link: '/fr/solutions/' },
-              { text: 'Par type d\'huile', link: '/fr/solutions/seed-oils' },
-              { text: 'Solutions de remplissage', link: '/fr/solutions/filling' }
-            ]
-          },
-          { text: 'Avantages', link: '/fr/advantages/' },
-          { text: 'Actualités', link: '/fr/news/' },
-          { text: 'À propos', link: '/fr/about/' },
-        ],
-        sidebar: {
+        nav: buildPrimaryNav('fr'),
+        sidebar: buildUnifiedSidebar('fr'),
+        legacySidebar: {
           '/fr/products': [
             {
               text: 'Produits & Prix',
@@ -4274,7 +4283,7 @@ s0.parentNode.insertBefore(s1,s0);
                   items: [
                     { text: 'Aperçu', link: '/fr/products/filling-equipment' },
                     { text: 'Aperçu des solutions de remplissage', link: '/fr/solutions/filling-packages' },
-                    ...frFillingSeriesSidebarItems,
+                    ...canonicalizeFillingSidebarItems(frFillingSeriesSidebarItems),
                     {
                       text: 'Série d\'équipements de brassage',
                       collapsed: true,
@@ -4419,7 +4428,7 @@ s0.parentNode.insertBefore(s1,s0);
                 {
                   text: 'Solutions de remplissage',
                   collapsed: true,
-                  items: [...frFillingSeriesSidebarItems]
+                  items: canonicalizeFillingSidebarItems(frFillingSeriesSidebarItems)
                 }
               ]
             }
@@ -4493,8 +4502,8 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'Fabrication professionnelle · Qualité fiable · <a href="/fr/">Hydraulic Oil Press</a>',
-          copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
+          message: 'Choix des machines · Lignes de production · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener noreferrer">Site du fabricant</a>',
+          copyright: `© ${CURRENT_YEAR} Shandong Shengshi Hecheng Machinery Co., Ltd`
         }
       }
     },
@@ -4504,32 +4513,9 @@ s0.parentNode.insertBefore(s1,s0);
       title: 'Shengshi Hecheng Oil Press',
       description: 'Nhà sản xuất máy ép dầu chuyên nghiệp',
       themeConfig: {
-        nav: [
-          { text: 'Trang chủ', link: '/vi/' },
-          { text: 'Nhận báo giá', link: '/vi/contact/' },
-          {
-            text: 'Sản phẩm',
-            link: '/vi/products/',
-            items: [
-              { text: 'Tổng quan sản phẩm', link: '/vi/products/' },
-              { text: 'Dòng 300', link: '/vi/products/300' },
-              { text: 'Dòng 325', link: '/vi/products/325' },
-              { text: 'Dòng 355', link: '/vi/products/355' },
-              { text: 'Dòng 400', link: '/vi/products/400' },
-              { text: 'Dòng 426', link: '/vi/products/426' },
-              { text: 'Dòng 480', link: '/vi/products/480' },
-              { text: 'Dòng 500', link: '/vi/products/500' },
-              { text: 'Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc', link: '/vi/products/korean-type-small-hydraulic-oil-press-machine' },
-              { text: 'Thiết bị chiết rót và đóng gói', link: '/vi/products/filling-equipment' },
-              { text: 'Thiết bị hỗ trợ', link: '/vi/products/supporting' }
-            ]
-          },
-          { text: 'Giải pháp', link: '/vi/solutions/' },
-          { text: 'Ưu điểm', link: '/vi/advantages/' },
-          { text: 'Tin tức', link: '/vi/news/' },
-          { text: 'Về chúng tôi', link: '/vi/about/' },
-        ],
-        sidebar: {
+        nav: buildPrimaryNav('vi'),
+        sidebar: buildUnifiedSidebar('vi'),
+        legacySidebar: {
           '/vi/products': [
             {
               text: 'Sản phẩm',
@@ -4602,7 +4588,7 @@ s0.parentNode.insertBefore(s1,s0);
                   items: [
                     { text: 'Tổng quan', link: '/vi/products/filling-equipment' },
                     { text: 'Giải pháp bao bì lắp đặt toàn diện', link: '/vi/solutions/filling-packages' },
-                    ...viFillingSeriesSidebarItems,
+                    ...canonicalizeFillingSidebarItems(viFillingSeriesSidebarItems),
                     {
                       text: 'Dòng thiết bị brewing',
                       collapsed: true,
@@ -4677,7 +4663,7 @@ s0.parentNode.insertBefore(s1,s0);
                 {
                   text: 'Giải pháp chiết rót đồng bộ',
                   collapsed: true,
-                  items: [...viFillingSeriesSidebarItems]
+                  items: canonicalizeFillingSidebarItems(viFillingSeriesSidebarItems)
                 }
               ]
             }
@@ -4751,8 +4737,8 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'Sản xuất chuyên nghiệp · Chất lượng đáng tin cậy · <a href="/vi/">Hydraulic Oil Press</a>',
-          copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
+          message: 'Chọn máy · Dây chuyền sản xuất · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener noreferrer">Website nhà sản xuất</a>',
+          copyright: `© ${CURRENT_YEAR} Shandong Shengshi Hecheng Machinery Co., Ltd`
         }
       }
     },
@@ -4762,43 +4748,9 @@ s0.parentNode.insertBefore(s1,s0);
       title: 'শেংশি হেচেং হাইড্রোলিক অয়েল প্রেস',
       description: 'পেশাদার অয়েল প্রেস ম্যানুফ্যাকচারার',
       themeConfig: {
-        nav: [
-          { text: 'হোম', link: '/bn/' },
-          { text: 'দাম ও দরপত্র নিন', link: '/bn/contact/' },
-          {
-            text: 'পণ্য ও দর',
-            link: '/bn/products/',
-            items: [
-              { text: 'পণ্যের সারসংক্ষেপ ও দর', link: '/bn/products/' },
-              { text: '৩০০ সিরিজ দর', link: '/bn/products/300' },
-              { text: '৩২৫ সিরিজ দর', link: '/bn/products/325' },
-              { text: '৩৫৫ সিরিজ দর', link: '/bn/products/355' },
-              { text: '৪০০ সিরিজ দর', link: '/bn/products/400' },
-              { text: '৪২৬ সিরিজ দর', link: '/bn/products/426' },
-              { text: '৪৮০ সিরিজ দর', link: '/bn/products/480' },
-              { text: '৫００ সিরিজ দর', link: '/bn/products/500' },
-              { text: 'কোরিয়ান টাইপ ছোট হাইড্রোলিক অয়েল প্রেস দর', link: '/bn/products/korean-type-small-hydraulic-oil-press-machine' },
-              { text: 'ফিলিং ও প্যাকেজিং যন্ত্রপাতি দর', link: '/bn/products/filling-equipment' },
-              { text: 'যন্ত্রপাতি ব্যবহারের নির্দেশিকা', link: '/bn/products/instruction-manual' },
-              { text: 'কাস্টমাইজড হাইড্রোলিক অয়েল প্রেস', link: '/bn/products/customized-hydraulic-oil-press' },
-              { text: 'গ্রাহক অর্ডার শিপিং ভিডিও', link: '/bn/products/customer-order-shipping-video' },
-              { text: 'সহায়ক যন্ত্রপাতি দর', link: '/bn/products/supporting' }
-            ]
-          },
-          {
-            text: 'সমাধান ও দর',
-            link: '/bn/solutions/',
-            items: [
-              { text: 'সমাধান ওভারভিউ ও দর', link: '/bn/solutions/' },
-              { text: 'তেলের ধরন অনুসারে (দর)', link: '/bn/solutions/seed-oils' },
-              { text: 'ফিলিং সহায়ক সমাধান (দর)', link: '/bn/solutions/filling' }
-            ]
-          },
-          { text: 'সুবিধাসমূহ', link: '/bn/advantages/' },
-          { text: 'সংবাদ', link: '/bn/news/' },
-          { text: 'আমাদের সম্পর্কে', link: '/bn/about/' },
-        ],
-        sidebar: {
+        nav: buildPrimaryNav('bn'),
+        sidebar: buildUnifiedSidebar('bn'),
+        legacySidebar: {
           '/bn/products': [
             {
               text: 'পণ্য ও দর',
@@ -4871,7 +4823,7 @@ s0.parentNode.insertBefore(s1,s0);
                   items: [
                     { text: 'ওভারভিউ', link: '/bn/products/filling-equipment' },
                     { text: 'বোতলজাতকরণ সাপোর্টিং সলিউশন ওভারভিউ', link: '/bn/solutions/filling-packages' },
-                    ...bnFillingSeriesSidebarItems,
+                    ...canonicalizeFillingSidebarItems(bnFillingSeriesSidebarItems),
                     {
                       text: 'ব্রুইং যন্ত্রপাতি সিরিজ',
                       collapsed: true,
@@ -5016,7 +4968,7 @@ s0.parentNode.insertBefore(s1,s0);
                 {
                   text: 'ফিলিং সহায়ক সমাধান (দর)',
                   collapsed: true,
-                  items: [...bnFillingSeriesSidebarItems]
+                  items: canonicalizeFillingSidebarItems(bnFillingSeriesSidebarItems)
                 }
               ]
             }
@@ -5090,8 +5042,8 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'পেশাদার উৎপাদন · বিশ্বস্ত গুণমান · <a href="/bn/">Hydraulic Oil Press</a>',
-          copyright: '© 2025 Shandong Shengshi Hecheng Machinery Co., Ltd'
+          message: 'মেশিন নির্বাচন · উৎপাদন লাইন · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener noreferrer">প্রস্তুতকারকের ওয়েবসাইট</a>',
+          copyright: `© ${CURRENT_YEAR} Shandong Shengshi Hecheng Machinery Co., Ltd`
         }
       }
     }
@@ -5104,8 +5056,8 @@ s0.parentNode.insertBefore(s1,s0);
     },
     // 社交 ссылки - уже удалены, используем иконки в пользовательском макете
     socialLinks: [],
-    // 启用多语言路由
-    i18nRouting: true,
+    // Custom locale switchers only preserve the current route when a translated page exists.
+    i18nRouting: false,
     // 启用完整的TOC（目录）
     outline: {
       level: [2, 6],

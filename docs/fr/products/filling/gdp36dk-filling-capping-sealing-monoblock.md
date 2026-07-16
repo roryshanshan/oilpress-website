@@ -1,26 +1,27 @@
 ---
-title: GDP36DK-10-10 Machine combinée de remplissage et de bouchage ...
-description: Demandez le prix et le devis pour GDP36DK-10-10 Machine combinée de remplissage et de bouchage intelligente entièrement automatique.
-keywords: GDP36DK-10-10 Machine de remplissage, de bouchage et de scellage intelligente entièrement automatique prix, acheter GDP36DK-10-10 Machine de remplissage, de bouchage et de scellage intelligente entièrement automatique, devis usine, fabricant chinois, exportation, service après-vente
+title: "Monobloc GDP36DK remplissage-capsulage | Prix fabricant et devis"
+description: "Monobloc GDP36DK pour remplissage et capsulage de 6 000 à 15 000 bouteilles/h. Vérifiez les formats, l'intégration, le prix fabricant, le devis et le SAV."
+keywords: "monobloc GDP36DK de remplissage et capsulage prix, devis monobloc GDP36DK de remplissage et capsulage, 6 000-15 000 bouteilles/h, contenants 40-750 ml de diamètre 50-100 mm, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/gdp36dk-filling-capping-sealing-monoblock.webp"
 ---
-# GDP36DK-10-10 Machine de remplissage, de bouchage et de scellage intelligente entièrement automatique
 
-![Machine de remplissage et de bouchage intelligente entièrement automatique GDP36DK-10-10](/images/filling-products/gdp36dk-filling-capping-sealing-monoblock.webp)
+# Monobloc GDP36DK de remplissage, capsulage et scellage
 
-La machine combinée de remplissage et de bouchage intelligente entièrement automatique GDP36DK-10-10 peut être utilisée comme référence pour des modèles spécifiques dans la machine combinée et le bus de support de remplissage. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+![Monobloc GDP36DK de remplissage, capsulage et scellage](/images/filling-products/gdp36dk-filling-capping-sealing-monoblock.webp)
 
-## Positionnement du modèle
+La gamme GDP36DK coordonne le remplissage quantitatif, la pose ou la fermeture de la capsule et l'opération de scellage prévue au projet. Le code modèle ne décrit pas à lui seul une ligne complète : chaque fermeture et chaque format doivent être précisés.
 
-- Série : [Machine combinée et bus de support de remplissage](/fr/solutions/filling-packages)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#fp-gdp36dk)
-- Scénarios applicables : convient aux lignes d'embouteillage de boutique, de vin et d'aliments liquides à vitesse moyenne à élevée.
+## Domaine d'application et critères d'achat
 
-## Résumé des informations publiques
+- Famille : [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- Repère technique : [Paramètres publiés de Monobloc GDP36DK de remplissage, capsulage et scellage](/fr/products/filling-equipment#fp-gdp36dk)
+- Identifier les opérations de manipulation et de fermeture des capsules réellement comprises dans l'offre.
+- Choisir le modèle d'après la cadence soutenue en tenant compte du guidage et des changements de format.
+- Vérifier les commandes et les accumulations en entrée et en sortie.
 
-Ce modèle est l’un des équipements haut de gamme les plus populaires dans l’industrie du remplissage du vin. Il introduit une technologie de principe de fonctionnement avancée étrangère, intègre la lumière, l'électricité et le gaz, est rapide, précis et efficace, et est largement utilisé dans l'industrie des produits d'emballage du vin.
+## Paramètres de référence publiés
 
-## Table des paramètres publics
+Le tableau ci-dessous est conservé comme repère de gamme. Les performances et la compatibilité finales doivent être confirmées dans l'offre technique et le protocole de réception.
 
 <table>
   <tbody>
@@ -75,14 +76,23 @@ Ce modèle est l’un des équipements haut de gamme les plus populaires dans l�
   </tbody>
 </table>
 
-## Suggestions complémentaires
+## Données nécessaires au devis fabricant
 
-- Regardez d'abord la page de la série : [Machine combinée et bus de support de remplissage](/fr/solutions/filling-packages)
-- Regardons à nouveau l'aperçu des paramètres : [La position de la machine de remplissage et de bouchage intelligente entièrement automatique GDP36DK-10-10 dans la bibliothèque de paramètres](/fr/products/filling-equipment#fp-gdp36dk)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+- Propriétés du liquide, volumes, échantillons de bouteilles et fermetures.
+- Alimentation, pose, capsulage ou scellage et contrôles de fermeture exigés.
+- Cadence, sens et hauteur de convoyeur, implantation et utilités.
+- Produits FAT, critères de réception, emballage export et périmètre de mise en service.
 
-## Pages connexes
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Machine combinée et bus de support de remplissage](/fr/solutions/filling-packages)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+## Prix, livraison et périmètre SAV écrit
+
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
+
+## Équipements associés et prochaine étape
+
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Paramètres publiés de Monobloc GDP36DK de remplissage, capsulage et scellage](/fr/products/filling-equipment#fp-gdp36dk)
+- [Planification des lignes de production](/fr/solutions/production-lines)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

@@ -1,151 +1,68 @@
 ---
-title: Giải pháp hạt trà (Dầu hạt trà) báo giá | giải pháp trọn gói
-description: "Giải pháp trọn gói Giải pháp hạt trà (Dầu hạt trà): quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
-keywords: Giải pháp hạt trà (Dầu hạt trà) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+title: "Sản xuất dầu hạt trà | Ép nóng, ép lạnh và thiết bị"
+description: "Làm sạch, bóc vỏ, nghiền và rang nhẹ hạt trà trước ép nóng/lạnh; chọn máy nghiền, rang, ép, lọc và bồn. Kiểm tra độ ẩm, hương, nhiệt độ và công suất."
+keywords: "Hạt trà/camellia (dầu trà) báo giá, máy ép dầu, quy trình sản xuất, mua từ nhà máy, thiết bị phụ trợ, hậu mãi"
 image: "/images/process-image-0901d2dd53.webp"
 ---
-# Giải pháp hạt trà (Dầu hạt trà)
+# Giải pháp Hạt trà/camellia (dầu trà)
 
-## Tổng quan
+![Hạt trà/camellia (dầu trà) - quy trình và thiết bị ép dầu](/images/process-image-0901d2dd53.webp)
 
-茶籽是重要的油料作物，茶籽油具有独特的营养价值和应用价值。山东盛世赫程机械有限公司提供专业的茶籽压榨解决方案，从小型作坊到大型工厂的全套设备和服务。
+Hạt trà/camellia cần được sấy, tách vỏ, loại nhân hỏng và nghiền đều trước khi nạp ép. Ép lạnh phù hợp với dầu cao cấp có hương nhẹ; điều hòa ấm hoặc rang nhẹ chỉ chọn khi mẫu cho thấy màu, mùi và khả năng thoát dầu phù hợp. Dầu sau ép được lắng/lọc, rồi khử sáp hoặc tinh luyện nhẹ nếu tiêu chuẩn độ trong và bảo quản yêu cầu.
 
-## 茶籽特性
+## Dữ liệu chọn quy trình
 
-### 📊 基本参数
-- **含油率**: 25-35%
-- **蛋白质含量**: 15-20%
-- **主要脂肪酸**: 油酸（75-85%）、亚油酸（8-12%）、棕榈酸（8-10%)
-- **适宜温度**: 压榨温度控制在60-80℃
+| Hạng mục | Khuyến nghị |
+| --- | --- |
+| Hàm lượng dầu tham khảo | Khoảng 30-40% trong nhân |
+| Tuyến công nghệ ưu tiên | Tách vỏ, nghiền rồi ép lạnh |
+| Model hoặc hướng thiết bị | 355 / 400 / 426 |
+| Cách chốt công suất | Dựa trên thử mẫu, số mẻ, thời gian chu kỳ và chất lượng dầu |
 
-### 🌱 生长特性
-- **生长周期**: 3-5年
-- **适宜气候**: 温暖、湿润地区
-- **土壤要求**: 酸性、山地土壤
-- **年产量**: 中国年产量超过50万吨
+> Kiểm soát độ ẩm và kích thước nghiền quan trọng hơn việc tăng nhiệt độ ép.
 
-## 加工工艺
+## Quy trình khuyến nghị
 
-+ 茶籽(建议300AC-390/325AC-390/355AC-390/400AC-390)
-        + 茶籽油热榨工艺：茶籽经过筛选、清洗、烘干、破碎、蒸炒后接入液压榨油机料桶压榨。
-        + 采用此工艺压榨的茶籽油，色泽清亮，香味纯正，营养丰富。
-        + ![Hạt trà quy trình ép nóng](/images/process-image-0901d2dd53.webp)
+1. Sấy và tách vỏ
+2. Phân loại, làm sạch nhân
+3. Nghiền tốc độ cao
+4. Ép thủy lực trực tiếp ở nhiệt độ thấp
+5. Lọc, khử sáp hoặc tinh luyện nhẹ theo yêu cầu
 
-## 茶籽热榨工艺视频
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/s5h70JVB46Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## Máy ép và thiết bị chính
 
-### 如果追求更高的出油率可以选择先剥壳，剥壳机视频如下：
+- [Dòng 355](/vi/products/355)
+- [Dòng 400](/vi/products/400)
+- [Dòng 426](/vi/products/426)
+- [Thiết bị tiền xử lý](/vi/products/pre-treatment)
+- [Thiết bị lọc và hậu xử lý](/vi/products/post-treatment)
+- [Thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/Yz1FETcJv7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## Dữ liệu cần cho báo giá
 
-## 部分茶籽压榨设备视频
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/_6HHsTppNS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+- Mẫu hạt nguyên hay nhân, tỷ lệ vỏ, độ ẩm, hạt cũ/mốc, tạp chất và thời gian bảo quản
+- Khối lượng hạt hoặc nhân cần xử lý mỗi mẻ/ngày, số ca và mùa cung ứng
+- Mục tiêu ép lạnh, điều hòa ấm hay rang nhẹ, cùng màu, hương và mục đích sử dụng dầu
+- Mức cặn, sáp, độ trong tại nhiệt độ bảo quản, phạm vi lọc/khử sáp và quy cách chai
+- Nhu cầu máy sấy/tách vỏ, nguồn nhiệt, điện áp, mặt bằng dây chuyền và điểm giao hàng
 
+Hiệu suất thực tế phụ thuộc giống, độ ẩm, mức nghiền, nhiệt độ và thời gian ép. Không nên dùng một con số sản lượng cố định thay cho thử nghiệm nguyên liệu.
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/dedion7Oq20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## Kiểm tra nghiệm thu
 
-## 技术优势
+Chạy nghiệm thu bằng lô hạt trà đã thống nhất và ghi tỷ lệ tách vỏ, độ ẩm nhân, cỡ nghiền, chế độ điều hòa, khối lượng nạp, nhiệt độ dầu và chu kỳ ép. Sau lắng/lọc hoặc khử sáp, đối chiếu màu, hương, cặn và độ trong bằng phép thử làm nguội đã chốt; đồng thời kiểm tra tháo bã và vệ sinh bề mặt tiếp xúc.
 
-### 🎯 精准控制
-- 温度控制：±2℃精度
-- 压力控制：智能调节
-- 湿度控制：最佳含水量
+## Trang liên quan
 
-### 💧 油质保证
-- 低温工艺保留营养
-- 物理压榨无化学残留
-- 出油率高达28-32%
+- [Tổng quan giải pháp](/vi/solutions/)
+- [Dây chuyền sản xuất dầu hoàn chỉnh](/vi/solutions/production-lines)
+- [Tất cả model máy ép dầu thủy lực](/vi/products/)
+- [Hướng dẫn mua hàng và kỹ thuật](/vi/news/technology/)
 
-### 🔄 连续生产
-- 24小时不间断运行
-- 自动化进料出料
-- 智能故障报警
+## Nhận giá và cấu hình
 
-## 产品应用
+Gửi nguyên liệu, công suất, chất lượng dầu mục tiêu và điểm đến để nhận cấu hình cùng báo giá nhà máy.
 
-### 🍳 食用油
-- 茶籽油：主要食用油品种
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
-
-### 💄 美容护肤
-- 茶籽油：天然护肤油
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
-
-### 💊 保健品
-- 茶籽油：营养补充剂
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
-
-## 市场分析
-
-### 📈 发展趋势
-- 高端食用油、美容产品需求增长
-- 高端茶籽油市场扩大
-- 出口贸易机会增加
-
-### 🎯 目标市场
-- 食用油加工企业
-- 食品加工企业
-- 美容护肤企业
-- 出口贸易企业
-
-
-## 质量标准
-
-### 🏆 产品质量标准
-- 符合国家茶籽油标准
-- 符合食品安全标准
-- 符合出口食品标准
-- 符合有机食品认证
-
-### 🔍 检测项目
-- 酸价检测
-- 过氧化值检测
-- 色泽透明度检测
-- 重金属含量检测
-- 农药残留检测
-
-## 可持续发展
-
-### 🌱 环保生产
-- 废弃物循环利用
-- 节能减排工艺
-- 绿色生产标准
-
-### 🔄 资源利用
-- 副产品综合利用
-- 产业链延伸
-- 循环经济模式
-
-### 🌍 社会责任
-- 支持农民增收
-- 保障食品安全
-- 保护生态环境
-
-## 联系我们
-
-如果您对茶籽压榨解决方案感兴趣，请联系我们的技术团队：
-
-- 📞 **咨询热线**: +86 19906365856
-- 📧 **邮箱**: gavin@oil-pressing-machine.com
-- 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
-
-我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的茶籽压榨解决方案。
-
-## Nhận giá & báo giá
-
-Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
-
-- [Nhận giá & báo giá](/vi/contact/)
+- [Yêu cầu báo giá](/vi/contact/)
 
 <!-- quote-cta -->

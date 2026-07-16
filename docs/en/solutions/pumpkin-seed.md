@@ -1,123 +1,54 @@
 ---
-title: Pumpkin Seed (Pumpkin Seed Oil) | Equipment List & Factory Quote
-description: "Get a pumpkin seed oil line plan with process design, equipment list, factory quote, procurement, and after-sales service."
+title: "Pumpkin Seed Oil Cold-Press Line | Equipment Quote"
+description: "Screen, clean, and crush pumpkin seeds before hydraulic cold pressing; verify trial moisture, filtered oil, cake residue, press model, filtration, and quote."
 keywords: Pumpkin Seed (Pumpkin Seed Oil) Solution quote, Pumpkin Seed (Pumpkin Seed Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
 image: "/images/an-overview-of-the-cold-pressing-process-of-pumpki-c206ee35aa.webp"
 ---
-# Pumpkin Seed (Pumpkin Seed Oil) Solution
+# Pumpkin Seed Oil Pressing Line
 
-## Overview
+Pumpkin seed projects must state whether the press feed is whole seed or dehulled kernel. Hull ratio, drying condition, and damaged seed change the usable feed, batch density, filtration load, and finished-oil profile.
 
-Pumpkin seed is an important oil crop, pumpkin seed oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional pumpkin seed pressing solutions, from small workshops to large factories with complete equipment and services.
+![Pumpkin seeds prepared for pressing](/images/an-overview-of-the-cold-pressing-process-of-pumpki-c206ee35aa.webp)
 
-## Pumpkin Seed Characteristics
+## Raw Material Boundary
 
-### 📊 Basic Parameters
-- **Oil Content**: 35-45%
-- **Protein Content**: 25-30%
-- **Main Fatty Acids**: Linoleic acid (45-55%), Oleic acid (25-35%), Palmitic acid (10-15%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+Declare seed type, whole-seed or kernel basis, hull ratio, moisture, impurities, storage history, and intended use. Remove moldy, insect-damaged, empty, scorched, or rancid material. Wet seed taken directly from fruit processing requires washing and controlled drying before storage or pressing.
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 90-120 days
-- **Suitable Climate**: Temperate, warm areas
-- **Soil Requirements**: Fertile, well-drained soil
-- **Annual Production**: Global annual production exceeds 1 million tons
+## Recommended Pretreatment
 
-## Processing Technology
+1. Wash or dry-clean according to the supplied seed condition.
+2. Dry evenly and cool before storage.
+3. Dehull when the product and trial require a kernel feed.
+4. Sort and remove foreign material.
+5. Crush lightly or condition according to the selected trial route.
 
-+ Pumpkin seeds (Recommended 426AC-390)
-     + Pumpkin seed oil cold pressing process: After screening, cleaning, and high-speed crushing, directly fed into the hydraulic oil press bucket for pressing
-     + ![Pumpkin Seeds](/images/an-overview-of-the-cold-pressing-process-of-pumpki-c206ee35aa.webp)
+## Pressing Route and Equipment
 
-## Technical Advantages
+Compare a low-temperature hydraulic batch trial with a separate lightly roasted or conditioned trial when a stronger seed aroma is required. Run whole-seed and dehulled-kernel samples separately because their charge density and cake behavior differ. Select the press only after the feed basis and trial record are fixed.
 
-### 🎯 Precise Control
-- Temperature control: ±2℃ precision
-- Pressure control: Intelligent adjustment
-- Humidity control: Optimal moisture content
+### Equipment Entry Points
 
-### 💧 Oil Quality Guarantee
-- Low-temperature process preserves nutrition
-- Physical pressing without chemical residues
-- Oil yield up to 36-42%
+- [Pretreatment equipment](/en/products/pre-treatment)
+- [Hydraulic oil press range](/en/products/)
+- [480 Series hydraulic oil press](/en/products/480) as a model entry for trial sizing
+- [Pneumatic filter press](/en/products/pneumatic-filter-press)
+- [Filling equipment](/en/products/filling-equipment)
 
-### 🔄 Continuous Production
-- 24-hour uninterrupted operation
-- Automated feeding and discharging
-- Intelligent fault alarm
+## Filtration and Finished-Oil Target
 
-## Product Applications
+Set the settling or filtration method, visible sediment, clarity, color, seed aroma, and sampling time. Tanks and packages should match the required protection from light and oxygen, and the quote should state whether filtered oil or further refining is in scope.
 
-### 🍳 Edible Oil
-- Pumpkin seed oil: Main edible oil variety
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+## Data Required for a Quotation
 
-### 💊 Health Products
-- Pumpkin seed oil: Nutritional supplement
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+- Wet seed, dry whole seed, or kernel sample; hull ratio, moisture, impurities, damaged fraction, and storage condition
+- Input basis and volume per batch or day, shifts, seasonality, and washing, drying, or dehulling scope
+- Cold-pressed or roasted profile and target color and aroma
+- Settling, filtration, tank, package, sampling, and test requirements
+- Heat source, power, floor space, destination, and delivery terms
 
-### 💄 Beauty and Skincare
-- Pumpkin seed oil: Natural skincare oil
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+## Acceptance Records
 
-## Market Analysis
-
-### 📈 Development Trends
-- Growing demand for high-end edible oils and nutritional health products
-- Expanding high-end pumpkin seed oil market
-- Increasing export trade opportunities
-
-### 🎯 Target Markets
-- Edible oil processing enterprises
-- Food processing enterprises
-- Health product enterprises
-- Export trade enterprises
-
-## Quality Standards
-
-### 🏆 Product Quality Standards
-- Complies with national pumpkin seed oil standards
-- Complies with food safety standards
-- Complies with export food standards
-- Complies with organic food certification
-
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color and transparency testing
-- Heavy metal content testing
-- Pesticide residue testing
-
-## Sustainable Development
-
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
-
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
-
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
-
-## Contact Us
-
-If you are interested in pumpkin seed pressing solutions, please contact our technical team:
-
-- 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
-
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable pumpkin seed pressing solution.
+Record the whole-seed or kernel basis, hull removal and kernel loss, moisture after drying, crush or conditioning settings, charge weight, cycle time, oil temperature, crude and filtered oil, and cake. Check color, aroma, clarity after the agreed period, cake discharge, retained material, and cleaning.
 
 ## Related Links
 
@@ -127,12 +58,12 @@ We provide free technical consultation, sample testing, and on-site inspection s
 - [Grape Seed Solutions](/en/solutions/grape-seed)
 - [480 Series Hydraulic Oil Press](/en/products/480)
 - [Contact Technical Team](/en/contact/)
-- [中文页面](/zh/solutions/pumpkin-seed)
+- [Chinese page](/zh/solutions/pumpkin-seed)
 
-## Get Price & Quote
+## Request a Configuration and Quote
 
-Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+Send the actual whole seed or kernel sample, dry input basis, target oil profile, pretreatment and filtration scope, utilities, and destination for a trial-based quotation.
 
-- [Get Price & Quote](/en/contact/)
+- [Request a pumpkin seed oil line quote](/en/contact/)
 
 <!-- quote-cta -->

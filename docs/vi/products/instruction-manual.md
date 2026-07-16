@@ -1,6 +1,6 @@
 ---
-title: "Hướng dẫn sử dụng máy ép dầu | Tải tài liệu"
-description: "Download hydraulic oil press instruction manuals and operating guidance for safer installation, commissioning, and daily maintenance."
+title: "Hướng dẫn máy ép dầu thủy lực | Lắp đặt và vận hành"
+description: "Tải tài liệu lắp đặt, chạy thử, vận hành an toàn, kiểm tra áp suất, thay dầu thủy lực, xử lý lỗi và bảo dưỡng định kỳ."
 keywords: giá Sách hướng dẫn sử dụng thiết bị, mua Sách hướng dẫn sử dụng thiết bị, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 ---
 # Sách hướng dẫn sử dụng thiết bị
@@ -12,20 +12,20 @@ Dưới đây là hướng dẫn sử dụng chi tiết cho máy ép dầu thủ
 ## Phiên bản tiếng Trung
 
 <div class="manual-download">
-  <a href="/images/Hướng dẫn sử dụng máy ép dầu Qianlong.pdf" target="_blank" class="download-btn">
+  <a href="/images/qianlong-hydraulic-oil-press-manual-zh.pdf" target="_blank" class="download-btn">
     📄 Tải xuống hướng dẫn sử dụng tiếng Trung
     <br>
-    <small>Hướng dẫn sử dụng máy ép dầu Qianlong.pdf</small>
+    <small>qianlong-hydraulic-oil-press-manual-zh.pdf</small>
   </a>
 </div>
 
-## English Version
+## Phiên bản tiếng Anh
 
 <div class="manual-download">
-  <a href="/images/Instruction Manual for Qianlong Brand Hydraulic Oil Press.pdf" target="_blank" class="download-btn">
-    📄 Download English Manual
+  <a href="/images/qianlong-hydraulic-oil-press-manual-en.pdf" target="_blank" class="download-btn">
+    📄 Tải hướng dẫn sử dụng tiếng Anh
     <br>
-    <small>Instruction Manual for Qianlong Brand Hydraulic Oil Press.pdf</small>
+    <small>qianlong-hydraulic-oil-press-manual-en.pdf</small>
   </a>
 </div>
 

@@ -1,135 +1,67 @@
 ---
-title: Giải pháp hạt bông (Dầu hạt bông) báo giá | giải pháp trọn gói
-description: "Giải pháp trọn gói Giải pháp hạt bông (Dầu hạt bông): quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
-keywords: Giải pháp hạt bông (Dầu hạt bông) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+title: "Sản xuất dầu hạt bông | Thiết bị và kiểm soát"
+description: "Tách xơ, bóc vỏ, chưng và ép nóng hạt bông; cần máy làm sạch, ép, lọc, tinh luyện. Kiểm tra gossypol, xử lý bã, công suất và tiêu chuẩn dầu."
+keywords: "Hạt bông (dầu hạt bông) báo giá, máy ép dầu, quy trình sản xuất, mua từ nhà máy, thiết bị phụ trợ, hậu mãi"
 image: "/images/process-image-c32ca90dab.webp"
 ---
-# Giải pháp hạt bông (Dầu hạt bông)
+# Giải pháp Hạt bông (dầu hạt bông)
 
-## Tổng quan
+![Hạt bông (dầu hạt bông) - quy trình và thiết bị ép dầu](/images/process-image-c32ca90dab.webp)
 
-棉籽是重要的油料作物，棉籽油具有广泛的工业和食用应用价值。山东盛世赫程机械有限公司提供专业的棉籽压榨解决方案，从小型作坊到大型工厂的全套设备和服务。
+Hạt bông phải qua tách xơ, làm sạch, bóc vỏ, nghiền và chưng sấy trước công đoạn ép. Không chọn ép lạnh trực tiếp cho mục tiêu dầu ăn chỉ để rút ngắn dây chuyền; dầu thô cần lọc rồi tinh luyện và kiểm nghiệm gossypol theo tiêu chuẩn áp dụng. Cấu hình cũng phải tính đường đi của vỏ, xơ và bã vì chất lượng phụ phẩm ảnh hưởng trực tiếp đến vận hành toàn tuyến.
 
-## 棉籽特性
+## Dữ liệu chọn quy trình
 
-### 📊 基本参数
-- **含油率**: 35-45%
-- **蛋白质含量**: 20-25%
-- **主要脂肪酸**: 亚油酸（45-55%）、棕榈酸（20-25%）、油酸（15-20%）
-- **适宜温度**: 压榨温度控制在60-80℃
+| Hạng mục | Khuyến nghị |
+| --- | --- |
+| Hàm lượng dầu tham khảo | Khoảng 15-25% ở hạt nguyên; cao hơn sau tách vỏ |
+| Tuyến công nghệ ưu tiên | Tiền xử lý, ép và tinh luyện bắt buộc |
+| Model hoặc hướng thiết bị | 355 / 400 |
+| Cách chốt công suất | Dựa trên thử mẫu, số mẻ, thời gian chu kỳ và chất lượng dầu |
 
-### 🌱 生长特性
-- **生长周期**: 150-180天
-- **适宜气候**: 温暖、干燥地区
-- **土壤要求**: 肥沃、排水良好的土壤
-- **年产量**: 全球年产量超过5000万吨
+> Không sử dụng dầu thô trực tiếp làm dầu ăn. Dự án thương mại cần tuyến tinh luyện và kiểm nghiệm gossypol.
 
-## 加工工艺
+## Quy trình khuyến nghị
 
-### 传统工艺流程
-棉籽加工工艺(建议300AC-390/325AC-390/355AC-390/400AC-390)
-+ 第1步：蒸制
-+ 第2步：磨糁+搅拌
-+ 第3步：压榨
-+ ![棉籽加工工艺](/images/process-image-c32ca90dab.webp)
+1. Tách xơ, làm sạch và bóc vỏ
+2. Nghiền và chưng sấy
+3. Ép sơ bộ hoặc ép theo thiết kế dự án
+4. Lọc dầu thô
+5. Tinh luyện và kiểm soát gossypol theo tiêu chuẩn
 
+## Máy ép và thiết bị chính
 
-## 技术优势
+- [Dòng 355](/vi/products/355)
+- [Dòng 400](/vi/products/400)
+- [Thiết bị tiền xử lý](/vi/products/pre-treatment)
+- [Thiết bị lọc và hậu xử lý](/vi/products/post-treatment)
+- [Thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
 
-### 🎯 精准控制
-- 温度控制：±2℃精度
-- 压力控制：智能调节
-- 湿度控制：最佳含水量
+## Dữ liệu cần cho báo giá
 
-### 💧 油质保证
-- 专业脱毒工艺
-- 物理压榨无化学残留
-- 出油率行业领先（38-42%）
+- Mẫu hạt còn xơ, đã tách xơ hay nhân đã bóc vỏ, cùng tỷ lệ xơ/vỏ, độ ẩm, tạp chất và dữ liệu gossypol nếu có
+- Công suất hạt đầu vào theo ngày, số ca, mức tự động hóa và mục tiêu sử dụng bã sau ép
+- Phương án chưng sấy/ép, dầu thô hay dầu ăn tinh luyện và tiêu chuẩn gossypol cần kiểm nghiệm
+- Cấp lọc dầu thô, phạm vi khử gum/tinh luyện, chỉ tiêu màu/cặn và quy cách bồn chứa
+- Nguồn hơi/nhiệt, điện áp, khu xử lý xơ - vỏ - bã, diện tích nhà xưởng và điểm giao hàng
 
-### 🔄 连续生产
-- 24小时不间断运行
-- 自动化进料出料
-- 智能故障报警
+Hiệu suất thực tế phụ thuộc giống, độ ẩm, mức nghiền, nhiệt độ và thời gian ép. Không nên dùng một con số sản lượng cố định thay cho thử nghiệm nguyên liệu.
 
-## 产品应用
+## Kiểm tra nghiệm thu
 
-### 🍳 食用油
-- 棉籽油：经脱毒处理后食用
-- 调和油：与其他油脂混合
-- 特种油：工业用油
+Nghiệm thu theo từng công đoạn: ghi hiệu quả tách xơ/vỏ, độ ẩm và nhiệt độ sau chưng sấy, khối lượng cấp, chu kỳ ép, dầu thô và bã thu được. Kiểm tra độ sạch sau lọc, điểm lấy mẫu trước/sau tinh luyện và hồ sơ gửi kiểm nghiệm gossypol; chỉ kết luận dầu ăn theo kết quả phòng thử nghiệm, không theo quan sát tại máy.
 
-### 🥛 副产品
-- 棉籽粕：优质蛋白饲料
-- 棉籽蛋白：食品添加剂
-- 棉籽磷脂：功能性成分
+## Trang liên quan
 
-### 🏭 工业应用
-- 润滑油基础油
-- 生物柴油原料
-- 化工原料
+- [Tổng quan giải pháp](/vi/solutions/)
+- [Dây chuyền sản xuất dầu hoàn chỉnh](/vi/solutions/production-lines)
+- [Tất cả model máy ép dầu thủy lực](/vi/products/)
+- [Hướng dẫn mua hàng và kỹ thuật](/vi/news/technology/)
 
-## 市场分析
+## Nhận giá và cấu hình
 
-### 📈 发展趋势
-- 工业用油需求增长
-- 生物柴油市场扩大
-- 副产品综合利用提升
+Gửi nguyên liệu, công suất, chất lượng dầu mục tiêu và điểm đến để nhận cấu hình cùng báo giá nhà máy.
 
-### 🎯 目标市场
-- 食用油加工企业
-- 饲料加工企业
-- 化工原料企业
-- 生物柴油生产企业
-
-
-
-## 质量标准
-
-### 🏆 产品质量标准
-- 符合国家棉籽油标准（GB 1538）
-- 符合食品安全标准
-- 符合出口食品标准
-- 符合工业用油标准
-
-### 🔍 检测项目
-- 酸价检测
-- 过氧化值检测
-- 色泽透明度检测
-- 重金属含量检测
-- 黄曲霉毒素检测
-- 棉酚含量检测
-
-## 可持续发展
-
-### 🌱 环保生产
-- 废弃物循环利用
-- 节能减排工艺
-- 绿色生产标准
-
-### 🔄 资源利用
-- 副产品综合利用
-- 产业链延伸
-- 循环经济模式
-
-### 🌍 社会责任
-- 支持棉农增收
-- 保障食品安全
-- 保护生态环境
-
-## 联系我们
-
-如果您对棉籽压榨解决方案感兴趣，请联系我们的技术团队：
-
-- 📞 **咨询热线**: +86 19906365856
-- 📧 **邮箱**: gavin@oil-pressing-machine.com
-- 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
-
-我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的棉籽压榨解决方案。
-
-## Nhận giá & báo giá
-
-Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
-
-- [Nhận giá & báo giá](/vi/contact/)
+- [Yêu cầu báo giá](/vi/contact/)
 
 <!-- quote-cta -->

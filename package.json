@@ -1,10 +1,12 @@
 {
   "scripts": {
     "docs:dev": "vitepress dev docs --host 127.0.0.1",
-    "docs:build": "vitepress build docs && node postbuild-clean-urls.js",
+    "docs:build": "node scripts/clean-appledouble.mjs && node scripts/audit-source-content.mjs && node seo-audit.js && vitepress build docs && node postbuild-clean-urls.js && node scripts/audit-built-site.mjs",
     "docs:preview": "vitepress preview docs",
-    "build": "vitepress build docs && node postbuild-clean-urls.js",
-    "dev": "vitepress dev docs --host 127.0.0.1"
+    "build": "node scripts/clean-appledouble.mjs && node scripts/audit-source-content.mjs && node seo-audit.js && vitepress build docs && node postbuild-clean-urls.js && node scripts/audit-built-site.mjs",
+    "dev": "vitepress dev docs --host 127.0.0.1",
+    "audit:source": "node scripts/audit-source-content.mjs",
+    "audit:built": "node scripts/audit-built-site.mjs"
   },
   "devDependencies": {
     "vitepress": "^2.0.0-alpha.16"

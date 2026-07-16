@@ -1,5 +1,5 @@
 # SEO Audit Report
-Total markdown files: 1397
+Total markdown files: 1118
 
 ## Missing Frontmatter
 No frontmatter: 0
@@ -10,13 +10,13 @@ Missing description: 0
 Missing keywords: 0
 
 ## Length Warnings
-Title > 65 chars: 1
+Title > 65 chars: 0
 Description > 160 chars: 0
 
 ## Duplicate Titles (by language)
-- bn: 1 duplicates
-- en: 1 duplicates
-- fr: 1 duplicates
-- ru: 1 duplicates
-- vi: 1 duplicates
-- zh: 1 duplicates
+
+## Duplicate Descriptions (indexable pages by language)
+No duplicate descriptions: 0
+
+## Commercial Intent Coverage
+Product/solution pages missing localized price, quote, procurement, manufacturer, production-line, or after-sales intent: 0

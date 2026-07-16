@@ -1,137 +1,68 @@
 ---
-title: Giải pháp hạnh nhân (Dầu hạnh nhân) báo giá | giải pháp trọn gói
-description: Nhận báo giá Giải pháp hạnh nhân (Dầu hạnh nhân) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
-keywords: Giải pháp hạnh nhân (Dầu hạnh nhân) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+title: "Ép dầu hạnh nhân | Quy trình, thiết bị và báo giá"
+description: "Tách vỏ, sấy nhẹ rồi ép lạnh hạnh nhân; chọn máy nghiền, ép thủy lực, lọc và bồn dầu. Khi mua, kiểm tra công suất, nhiệt độ và vật liệu tiếp xúc."
+keywords: "Hạnh nhân (dầu hạnh nhân) báo giá, máy ép dầu, quy trình sản xuất, mua từ nhà máy, thiết bị phụ trợ, hậu mãi"
 image: "/images/an-overview-of-the-cold-pressing-process-of-almond-d7174b6360.webp"
 ---
-# Giải pháp hạnh nhân (Dầu hạnh nhân)
+# Giải pháp Hạnh nhân (dầu hạnh nhân)
 
-## Tổng quan
+![Hạnh nhân (dầu hạnh nhân) - quy trình và thiết bị ép dầu](/images/an-overview-of-the-cold-pressing-process-of-almond-d7174b6360.webp)
 
-杏仁是重要的油料作物，杏仁油具有独特的营养价值和应用价值。山东盛世赫程机械有限公司提供专业的杏仁压榨解决方案，从小型作坊到大型工厂的全套设备和服务。
+Với hạnh nhân, cần tách vỏ, loại nhân hỏng, cân bằng độ ẩm và nghiền đồng đều trước khi nạp ép. Ép lạnh thủy lực phù hợp cho dầu thực phẩm hoặc mỹ phẩm có hương nhẹ; nếu muốn hương rang, chỉ điều hòa nhiệt theo kết quả thử mẫu. Dầu sau ép nên được lắng, lọc tinh và đóng trong bao bì hạn chế ánh sáng, oxy.
 
-## 杏仁特性
+## Dữ liệu chọn quy trình
 
-### 📊 基本参数
-- **含油率**: 45-55%
-- **蛋白质含量**: 20-25%
-- **主要脂肪酸**: 油酸（60-70%）、亚油酸（20-30%）、棕榈酸（4-6%)
-- **适宜温度**: 压榨温度控制在60-80℃
+| Hạng mục | Khuyến nghị |
+| --- | --- |
+| Hàm lượng dầu tham khảo | 45-55% |
+| Tuyến công nghệ ưu tiên | Ép lạnh sau khi nghiền |
+| Model hoặc hướng thiết bị | 426 / 480 / 500 |
+| Cách chốt công suất | Dựa trên thử mẫu, số mẻ, thời gian chu kỳ và chất lượng dầu |
 
-### 🌱 生长特性
-- **生长周期**: 3-4年
-- **适宜气候**: 温暖、干燥地区
-- **土壤要求**: 肥沃、钙质土壤
-- **年产量**: 全球年产量超过100万吨
+> Không rang ở nhiệt độ cao nếu mục tiêu là dầu hạnh nhân cao cấp dùng cho thực phẩm hoặc mỹ phẩm.
 
-## 加工工艺
-+  杏仁/巴旦木(建议426AC-390/480AC-390/500AC-390)
-     + 杏仁油冷榨工艺：经过筛选、清洗、高速粉碎后直接入液压榨油机料桶压榨
-     + ![杏仁](/images/an-overview-of-the-cold-pressing-process-of-almond-d7174b6360.webp)
+## Quy trình khuyến nghị
 
-## 巴基斯坦客户回传的杏仁油冷榨压榨视频参考
-<div class="video-container">
-  <iframe width="700" height="330" src="https://www.youtube.com/embed/rM4hgCIApAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<div class="video-container">
-  <iframe width="700" height="330" src="https://www.youtube.com/embed/kSeQ570mtvo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+1. Sàng và loại bỏ hạt hỏng
+2. Làm sạch, kiểm soát độ ẩm
+3. Nghiền tốc độ cao thành kích thước đồng đều
+4. Nạp trực tiếp vào thùng ép thủy lực để ép lạnh
+5. Lắng và lọc tinh trước khi đóng chai
 
-## 技术优势
+## Máy ép và thiết bị chính
 
-### 🎯 精准控制
-- 温度控制：±2℃精度
-- 压力控制：智能调节
-- 湿度控制：最佳含水量
+- [Dòng 426](/vi/products/426)
+- [Dòng 480](/vi/products/480)
+- [Dòng 500](/vi/products/500)
+- [Thiết bị tiền xử lý](/vi/products/pre-treatment)
+- [Thiết bị lọc và hậu xử lý](/vi/products/post-treatment)
+- [Thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
 
-### 💧 油质保证
-- 低温工艺保留营养
-- 物理压榨无化学残留
-- 出油率高达46-52%
+## Dữ liệu cần cho báo giá
 
-### 🔄 连续生产
-- 24小时不间断运行
-- 自动化进料出料
-- 智能故障报警
+- Mẫu hạnh nhân ở đúng trạng thái giao hàng: nguyên vỏ hay nhân, tỷ lệ nhân, độ ẩm, tạp chất, nhân vỡ/hỏng và dấu hiệu oxy hóa
+- Khối lượng nhân cần xử lý mỗi mẻ hoặc mỗi ngày, số giờ làm việc và cách cấp liệu
+- Mục tiêu dầu ép lạnh hay hương rang, mục đích thực phẩm/mỹ phẩm và giới hạn nhiệt độ dầu mong muốn
+- Mức cặn, độ trong sau lắng/lọc, màu và hương cần giữ, cùng loại chai hoặc can
+- Điện áp, mặt bằng cho nghiền - ép - lọc, yêu cầu vệ sinh, nhân công và điểm giao hàng
 
-## 产品应用
+Hiệu suất thực tế phụ thuộc giống, độ ẩm, mức nghiền, nhiệt độ và thời gian ép. Không nên dùng một con số sản lượng cố định thay cho thử nghiệm nguyên liệu.
 
-### 🍳 食用油
-- 杏仁油：主要食用油品种
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
+## Kiểm tra nghiệm thu
 
-### 💄 美容护肤
-- 杏仁油：天然护肤油
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
+Chạy đúng lô hạnh nhân đã thống nhất và ghi độ ẩm, cỡ nghiền, khối lượng nạp, nhiệt độ dầu cùng thời gian mỗi mẻ. Sau thời gian lắng/lọc đã thỏa thuận, đối chiếu độ trong, mùi khét hoặc ôi, khả năng tháo bã và vệ sinh bề mặt tiếp xúc; sản lượng chỉ đối chiếu theo biên bản thử mẫu, không dùng một mức cố định.
 
-### 💊 保健品
-- 杏仁油：营养补充剂
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
+## Trang liên quan
 
-## 市场分析
+- [Tổng quan giải pháp](/vi/solutions/)
+- [Dây chuyền sản xuất dầu hoàn chỉnh](/vi/solutions/production-lines)
+- [Tất cả model máy ép dầu thủy lực](/vi/products/)
+- [Hướng dẫn mua hàng và kỹ thuật](/vi/news/technology/)
 
-### 📈 发展趋势
-- 高端食用油、美容护肤品需求增长
-- 高端杏仁油市场扩大
-- 出口贸易机会增加
+## Nhận giá và cấu hình
 
-### 🎯 目标市场
-- 食用油加工企业
-- 食品加工企业
-- 美容护肤企业
-- 出口贸易企业
+Gửi nguyên liệu, công suất, chất lượng dầu mục tiêu và điểm đến để nhận cấu hình cùng báo giá nhà máy.
 
-
-
-## 质量标准
-
-### 🏆 产品质量标准
-- 符合国家杏仁油标准
-- 符合食品安全标准
-- 符合出口食品标准
-- 符合有机食品认证
-
-### 🔍 检测项目
-- 酸价检测
-- 过氧化值检测
-- 色泽透明度检测
-- 重金属含量检测
-- 农药残留检测
-
-## 可持续发展
-
-### 🌱 环保生产
-- 废弃物循环利用
-- 节能减排工艺
-- 绿色生产标准
-
-### 🔄 资源利用
-- 副产品综合利用
-- 产业链延伸
-- 循环经济模式
-
-### 🌍 社会责任
-- 支持农民增收
-- 保障食品安全
-- 保护生态环境
-
-## 联系我们
-
-如果您对杏仁压榨解决方案感兴趣，请联系我们的技术团队：
-
-- 📞 **咨询热线**: +86 19906365856
-- 📧 **邮箱**: gavin@oil-pressing-machine.com
-- 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
-
-我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的杏仁压榨解决方案。
-
-## Nhận giá & báo giá
-
-Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
-
-- [Nhận giá & báo giá](/vi/contact/)
+- [Yêu cầu báo giá](/vi/contact/)
 
 <!-- quote-cta -->

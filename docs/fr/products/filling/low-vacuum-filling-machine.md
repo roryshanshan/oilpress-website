@@ -1,34 +1,27 @@
 ---
-title: "Machine de remplissage sous vide | Prix usine et devis"
-description: "Demandez le prix usine pour Machine de remplissage sous vide. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
-keywords: Machine de remplissage sous vide prix, acheter Machine de remplissage sous vide, devis usine, fabricant chinois, exportation, service après-vente
+title: "Remplisseuses à faible vide | Prix fabricant et devis"
+description: "Gamme de remplisseuses à faible vide, 12-60 têtes et 3 000-20 000 bouteilles/h, pour vin, sauce soja et vinaigre. Comparez le prix, le devis et le SAV."
+keywords: "gamme de remplisseuses à faible vide prix, devis gamme de remplisseuses à faible vide, 12-60 têtes et 3 000-20 000 bouteilles/h pour vin, sauce soja et vinaigre, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/low-vacuum-filling-machine.webp"
 ---
-# Machine de remplissage sous vide
 
-![Machine de remplissage sous vide](/images/filling-products/low-vacuum-filling-machine.webp)
+# Gamme GFP de remplisseuses à faible vide
 
-La machine de remplissage sous vide faible peut être utilisée comme référence pour des modèles spécifiques de la série d'équipements de brassage. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+![Gamme GFP de remplisseuses à faible vide](/images/filling-products/low-vacuum-filling-machine.webp)
 
-## Positionnement du modèle
+La gamme GFP réalise un remplissage à faible vide pour des liquides non gazeux compatibles lorsque le niveau visuel doit être maîtrisé, notamment certains vins, vinaigres et sauces. Le produit et la bouteille sont validés d'abord, puis le nombre de têtes et la cadence publiée servent de repères.
 
-- Série : [Série d'équipements de brassage](/fr/solutions/brewing/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage] (/fr/products/filling-equipment#brew-vacuum)
-- Scénarios applicables : convient aux liquides facilement moussants tels que le vin, le vin de riz, la sauce soja et le vinaigre.
+## Domaine d'application et critères d'achat
 
-## Entrée rapide du modèle
+- Famille : [Équipements d'embouteillage du vin](/fr/solutions/brewing/)
+- Repère technique : [Paramètres publiés de Gamme GFP de remplisseuses à faible vide](/fr/products/filling-equipment#brew-vacuum)
+- Tester la mousse et la stabilité du niveau avec le liquide et la bouteille réels.
+- Choisir le nombre de têtes selon la cadence soutenue au volume d'achat.
+- Coordonner l'alimentation des bouteilles, le bouchage ou capsulage et l'étiquetage.
 
-- Capacité d'entrée : [`GFP-12A`](/fr/products/filling-equipment#brew-vacuum) / [`GFP-12B`](/fr/products/filling/gfp-12a-low-vacuum-filling-machine), sortie de référence `3000 bouteilles/heure`
-- Projets de petite et moyenne taille : [`GFP-18A`](/fr/products/filling/gfp-12b-low-vacuum-filling-machine), rendement de référence `4500 bouteilles/heure`
-- Modèles principaux de taille moyenne : [`GFP-24H`](/fr/products/filling/gfp-18a-low-vacuum-filling-machine) / [`GFP-30H`](/fr/products/filling/gfp-24h-low-vacuum-filling-machine), sortie de référence `6000-7000 bouteilles/heure`
-- Modèles moyenne et haute capacité : [`GFP-36H`](/fr/products/filling/gfp-30h-low-vacuum-filling-machine) / [`GFP-40H`](/fr/products/filling/gfp-36h-low-vacuum-filling-machine), sortie de référence `10000-12000 bouteilles/heure`
-- Extension de capacité supérieure : [`GFP-48H`](/fr/products/filling/gfp-40h-low-vacuum-filling-machine) / [`GFP-60H`](/fr/products/filling/gfp-48h-low-vacuum-filling-machine), sortie de référence `15 000-20 000 bouteilles/heure`
+## Paramètres de référence publiés
 
-## Résumé des informations publiques
-
-Cette série de machines de remplissage est spécialement conçue pour le remplissage à niveau fixe de liquides non aérés, de vin, de vin de riz, de sauce soja, de vinaigre et d'autres liquides facilement moussants.
-
-## Table des paramètres publics
+Le tableau ci-dessous est conservé comme repère de gamme. Les performances et la compatibilité finales doivent être confirmées dans l'offre technique et le protocole de réception.
 
 <table>
   <tbody>
@@ -105,22 +98,31 @@ Cette série de machines de remplissage est spécialement conçue pour le rempli
   </tbody>
 </table>
 
-## Comment choisir le modèle ?
+## Données nécessaires au devis fabricant
 
-- `GFP-12A / 12B` : Plus adapté aux établissements vinicoles de petite et moyenne taille, aux lignes de production d'essai et aux projets de démarrage de liquides aromatisants.
-- `GFP-18A` : Convient aux clients qui souhaitent passer de 3 000 bouteilles/heure, mais qui n'ont pas besoin de plus de 24 têtes pour le moment.
-- `GFP-24H / 30H` : Il s'agit du modèle principal le plus courant de lignes de taille moyenne, facile à relier avec le bouchage, le rétrécissement du capuchon et l'étiquetage.
-- `GFP-36H / 40H` : Convient aux projets de remplissage continu de bouteilles en verre au niveau de 10 000 à 12 000 bouteilles/heure.
-- `GFP-48H / 60H` : plus adapté aux projets complets avec un degré plus élevé d'automatisation dans le backend.
+- Liquide, viscosité, température, mousse, alcool éventuel et exigences sanitaires.
+- Bouteilles, finition du goulot, niveau ou volume cible et formats.
+- Cadence, implantation, convoyeur, utilités et fermeture aval.
+- Liquide FAT, méthode de contrôle du niveau, emballage export et mise en service.
 
-## Suggestions complémentaires
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-- Regardez d'abord la page de la série : [Série d'équipements de brassage](/fr/products/filling/gfp-60h-low-vacuum-filling-machine)
-- Regardez à nouveau l'aperçu des paramètres : [Emplacement de la machine de remplissage sous vide faible dans la bibliothèque de paramètres] (/fr/products/filling-equipment#brew-vacuum)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Aperçu de la solution de support de remplissage] (/fr/solutions/filling-packages) et [Aperçu de la ligne de production] (/fr/solutions/production-lines).
+## Prix, livraison et périmètre SAV écrit
 
-## Pages connexes
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/solutions/brewing/)
-- [Série d'équipements de brassage](/fr/products/filling-equipment#brew-vacuum)
-- [Contactez-nous pour des conseils complets sur la ligne](/fr/solutions/filling-packages)
+## Équipements associés et prochaine étape
+
+- [Équipements d'embouteillage du vin](/fr/solutions/brewing/)
+- [Paramètres publiés de Gamme GFP de remplisseuses à faible vide](/fr/products/filling-equipment#brew-vacuum)
+- [GFP-12A à faible vide](/fr/products/filling/gfp-12a-low-vacuum-filling-machine)
+- [GFP-12B à faible vide](/fr/products/filling/gfp-12b-low-vacuum-filling-machine)
+- [GFP-18A à faible vide](/fr/products/filling/gfp-18a-low-vacuum-filling-machine)
+- [GFP-24H à faible vide](/fr/products/filling/gfp-24h-low-vacuum-filling-machine)
+- [GFP-30H à faible vide](/fr/products/filling/gfp-30h-low-vacuum-filling-machine)
+- [GFP-36H à faible vide](/fr/products/filling/gfp-36h-low-vacuum-filling-machine)
+- [GFP-40H à faible vide](/fr/products/filling/gfp-40h-low-vacuum-filling-machine)
+- [GFP-48H à faible vide](/fr/products/filling/gfp-48h-low-vacuum-filling-machine)
+- [GFP-60H à faible vide](/fr/products/filling/gfp-60h-low-vacuum-filling-machine)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

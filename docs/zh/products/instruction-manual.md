@@ -1,6 +1,6 @@
 ---
 title: "液压榨油机说明书｜参数下载与操作指南"
-description: "获取设备使用说明书厂家价格与采购方案，支持单机/整线选型、产能配置与售后服务，适合食用油及特种油加工项目落地。"
+description: "提供液压榨油机使用说明书与操作要点，涵盖安装、调试、压榨流程、日常维护和安全检查，便于采购方确认培训、备件及厂家售后范围。"
 keywords: 设备使用说明书, 榨油机设备, 榨油机价格, 榨油机报价, 榨油机采购, 油料加工设备, 榨油机配套设备, 售后服务, 油料预处理设备, 液压榨油机
 ---
 # 设备使用说明书
@@ -12,20 +12,20 @@ keywords: 设备使用说明书, 榨油机设备, 榨油机价格, 榨油机报�
 ## 中文版本
 
 <div class="manual-download">
-  <a href="/images/钱隆牌液压榨油机使用说明书.pdf" target="_blank" class="download-btn">
+  <a href="/images/qianlong-hydraulic-oil-press-manual-zh.pdf" target="_blank" class="download-btn">
     📄 下载中文使用说明书
     <br>
-    <small>钱隆牌液压榨油机使用说明书.pdf</small>
+    <small>qianlong-hydraulic-oil-press-manual-zh.pdf</small>
   </a>
 </div>
 
 ## English Version
 
 <div class="manual-download">
-  <a href="/images/Instruction Manual for Qianlong Brand Hydraulic Oil Press.pdf" target="_blank" class="download-btn">
+  <a href="/images/qianlong-hydraulic-oil-press-manual-en.pdf" target="_blank" class="download-btn">
     📄 Download English Manual
     <br>
-    <small>Instruction Manual for Qianlong Brand Hydraulic Oil Press.pdf</small>
+    <small>qianlong-hydraulic-oil-press-manual-en.pdf</small>
   </a>
 </div>
 

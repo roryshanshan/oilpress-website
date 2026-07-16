@@ -1,128 +1,66 @@
 ---
-title: "Cashew (Cashew Oil) Solution | Equipment List & Factory…"
-description: Get a turnkey plan for Cashew (Cashew Oil) Solution, including process design, equipment list, factory quote, procurement support, and after-sales service.
+title: "Cashew Kernel and Shell Oil Line | Equipment Quote"
+description: "Steam and hot-press cashew shell material or cold-press kernels directly; verify feed type, oil and cake results, filtration, models, and quote scope."
 keywords: Cashew (Cashew Oil) Solution quote, Cashew (Cashew Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
 image: "/images/hot-pressing-process-of-cashew-peel-def65fdf7a.webp"
 ---
-# Cashew (Cashew Oil) Solution
+# Cashew Kernel and Cashew Shell Liquid Lines
 
-## Overview
+Cashew kernels and cashew nut shells are two different industrial feedstocks. Edible kernels may be evaluated for a food or cosmetic oil line. Shell material contains cashew nut shell liquid (CNSL) and requires a separate industrial safety, material-compatibility, collection, and cleaning study.
 
-Cashew is an important oil crop, cashew oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional cashew pressing solutions, from small workshops to large factories with complete equipment and services.
+![Cashew shell material for a dedicated industrial study](/images/hot-pressing-process-of-cashew-peel-def65fdf7a.webp)
 
-## Cashew Characteristics
+![Shelled cashew kernels for a separate low-temperature trial](/images/cold-pressing-process-of-cashew-kernels-f8ff465cd8.webp)
 
-### 📊 Basic Parameters
-- **Oil Content**: 40-50%
-- **Protein Content**: 18-22%
-- **Main Fatty Acids**: Oleic acid (60-70%), Linoleic acid (15-20%), Palmitic acid (8-10%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+## Raw Material Boundary
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 2-3 years
-- **Suitable Climate**: Tropical, coastal areas
-- **Soil Requirements**: Sandy, well-drained soil
-- **Annual Production**: Global annual production exceeds 4 million tons
+**Kernel line:** use safely shelled kernels or broken kernels with residual shell and CNSL contamination controlled.
 
-## Processing Technology
+**Shell line:** use a representative shell sample with its safety data, moisture, particle form, and intended industrial liquid specification. Shells must not enter a food-oil line, and shared equipment requires a documented contamination assessment.
 
-### Traditional Process Flow
+## Recommended Pretreatment
 
-Cashew pressing process: (Recommended 426AC-390/480AC-390/500AC-390)
-+ Cashew peel hot pressing process: Pressing after steaming
-    + ![Cashew Peel Pressing Process](/images/hot-pressing-process-of-cashew-peel-def65fdf7a.webp)
+### Cashew Kernels
 
-+ Cashew kernel cold pressing process: Direct pressing
-    + ![Cashew Kernel Cold Pressing Process](/images/cold-pressing-process-of-cashew-kernels-f8ff465cd8.webp)
+1. Sort out shell fragments, scorched kernels, mold, and rancid material.
+2. Verify moisture and storage condition.
+3. Crush evenly shortly before pressing.
+4. Keep food, cosmetic, and industrial lots segregated.
 
-## Technical Advantages
+### Cashew Shells
 
-### 🎯 Precise Control
-- Temperature control: ±2℃ precision
-- Pressure control: Intelligent adjustment
-- Humidity control: Optimal moisture content
+1. Define receiving, storage, size reduction, heating, vapor control, and closed liquid collection.
+2. Confirm seals, hoses, tanks, and contact surfaces against the actual CNSL specification.
+3. Define worker protection, spill control, residue handling, and cleaning before equipment selection.
 
-### 💧 Oil Quality Guarantee
-- Low-temperature process preserves nutrition
-- Physical pressing without chemical residues
-- Oil yield up to 42-48%
+## Pressing or Dedicated Route
 
-### 🔄 Continuous Production
-- 24-hour uninterrupted operation
-- Automated feeding and discharging
-- Intelligent fault alarm
+For kernels, start with a low-temperature hydraulic batch trial and evaluate filtered oil, cake release, and cleanability. For shells, do not copy the kernel route or assume a standard edible-oil press is suitable; select a dedicated industrial extraction route only after material and compatibility trials.
 
-## Product Applications
+### Equipment Entry Points
 
-### 🍳 Edible Oil
-- Cashew oil: Main edible oil variety
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+- [Pretreatment equipment](/en/products/pre-treatment)
+- [High-speed pulverizer](/en/products/11kw-high-speed-pulverizer)
+- [Hydraulic oil press range](/en/products/) for kernel trials
+- [480 Series hydraulic oil press](/en/products/480) as an existing kernel-trial model entry
+- [Pneumatic filter press](/en/products/pneumatic-filter-press)
+- [Complete oil production lines](/en/solutions/production-lines)
 
-### 🏭 Industrial Oil
-- Cashew oil: Base oil raw material
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+## Filtration and Finished-Oil Target for Kernels and CNSL
 
-### 💄 Beauty and Skincare
-- Cashew oil: Natural skincare oil
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+Kernel oil specifications should state settling or filtration grade, visible sediment, color, odor, intended use, and required tests. CNSL specifications must instead define industrial solids removal, water, collection temperature, tank and seal compatibility, and downstream use. The two products require separate sampling and acceptance criteria.
 
-## Market Analysis
+## Data Required for a Quotation
 
-### 📈 Development Trends
-- Growing demand for high-end edible oils and industrial lubricants
-- Expanding high-end cashew oil market
-- Increasing export trade opportunities
+- Exact feed: whole cashew, shell, raw kernel, or broken kernel; moisture, contamination, storage condition, and representative sample
+- Kernel food/cosmetic use or CNSL industrial use, plus available safety and product specifications
+- Input per batch or day, operating hours, and shelling or size-reduction scope
+- Heating, ventilation, closed collection, filtration, tank, residue, cleaning, and worker-protection scope
+- Power, heat, floor space, destination, and delivery terms
 
-### 🎯 Target Markets
-- Edible oil processing enterprises
-- Food processing enterprises
-- Industrial oil enterprises
-- Export trade enterprises
+## Acceptance Records
 
-## Quality Standards
-
-### 🏆 Product Quality Standards
-- Complies with national cashew oil standards
-- Complies with food safety standards
-- Complies with export food standards
-- Complies with organic food certification
-
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color and transparency testing
-- Heavy metal content testing
-- Pesticide residue testing
-
-## Sustainable Development
-
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
-
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
-
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
-
-## Contact Us
-
-If you are interested in cashew pressing solutions, please contact our technical team:
-
-- 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
-
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable cashew pressing solution.
+For kernels, record residual shell, moisture, crush size, charge, cycle time, oil temperature, crude and filtered oil, cake, and cleaning. For shells, record the approved material, conditioning settings, closed collection, liquid and residue mass, leak or spill checks, filtration result, contact-material condition, and residue-handling procedure. Acceptance of one route does not qualify the other.
 
 ## Related Links
 
@@ -132,12 +70,12 @@ We provide free technical consultation, sample testing, and on-site inspection s
 - [Coconut Solutions](/en/solutions/coconut)
 - [480 Series Hydraulic Oil Press](/en/products/480)
 - [Contact Technical Team](/en/contact/)
-- [中文页面](/zh/solutions/cashew)
+- [Chinese page](/zh/solutions/cashew)
 
-## Get Price & Quote
+## Request a Configuration and Quote
 
-Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+Send a representative kernel or shell sample, the exact intended product, safety data, daily input, utility and handling scope, and destination. The quotation will keep the food and CNSL routes separate.
 
-- [Get Price & Quote](/en/contact/)
+- [Request a cashew kernel or shell line quote](/en/contact/)
 
 <!-- quote-cta -->

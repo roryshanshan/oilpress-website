@@ -1,162 +1,83 @@
 ---
-title: Shengshi Hecheng New Production Facility Officially Commences
-description: "Shengshi Hecheng New Production Facility Officially Commences Operations: equipment overview, selection guidance, and factory quote support for edible…"
-keywords: "Shengshi Hecheng New Factory Opens: 50% Capacity Increase, oil extraction technology, oil press machine, oil processing knowledge, Shengshi Hecheng new factory, oil press manufacturer expansion, Qingzhou hydraulic oil press factory, oil press production capacity"
+title: "Factory Visit Checklist | Hydraulic Oil Press Quote"
+description: "Plan a hydraulic oil press factory visit, verify manufacturing records, witness acceptance tests, check export documents, and request a quote."
+keywords: hydraulic oil press factory visit, factory inspection, manufacturing records, factory acceptance test, export documents, oil press quote
 date: "2023-09-18"
 ---
 
-# Shengshi Hecheng New Production Facility Officially Commences Operations
+# Hydraulic Oil Press Factory Visit Checklist
 
 *Published: September 18, 2023*
 *Category: Company News*
 
-## Project Background
+This page is a procurement checklist for evaluating a production facility. Factory area, machine counts, monthly capacity, automation level, qualification rate, energy savings, revenue, employment, and expansion targets should not be accepted without current records and a defined calculation method.
 
-After 18 months of intensive construction and preparation, Shengshi Hecheng's new production facility officially commenced operations on September 15, 2023. This strategic expansion represents a significant milestone in our company's development, marking our transformation from a medium-sized manufacturer to a leading enterprise in the oil press equipment industry.
+## Before the Visit
 
-The new facility addresses growing market demand for high-quality oil press equipment and positions us to better serve both domestic and international customers with enhanced production capacity and improved product quality.
+Request the following in advance:
 
-## New Facility Overview
+- Current business license, factory address, contracting entity, bank beneficiary, and export entity
+- Itemized quotation, model list, general arrangement drawing, utility list, and preliminary bill of materials
+- Proposed inspection and test plan, sample-trial protocol, and factory acceptance criteria
+- Copies of certificates or qualifications cited in the proposal
+- Draft delivery schedule, packing method, destination voltage and frequency, Incoterm, and after-sales scope
 
-### Strategic Location
-- **Location**: High-tech Industrial Park, Shandong Province
-- **Transportation**: 50km from Qingdao Port, 30km from Jinan Airport
-- **Logistics**: Direct highway access for efficient transportation
-- **Supply chain**: Close to raw material suppliers and component manufacturers
+## Manufacturing Scope to Inspect
 
-### Functional Zones
-- **Production area**: 15,000 square meters of advanced manufacturing space
-- **R&D center**: 2,000 square meters dedicated to research and development
-- **Quality control**: 1,000 square meters of testing and inspection facilities
-- **Office space**: 3,000 square meters of modern office facilities
-- **Warehouse**: 5,000 square meters of raw material and finished goods storage
+### Material and Fabrication
+- Steel and component identification, storage, material certificates where specified, and incoming inspection records
+- Cutting, machining, frame fabrication, welding procedure, heat treatment where applicable, and dimensional checks
+- Control of subcontracted processes and purchased assemblies
 
-### Equipment Upgrades
-- **CNC machining centers**: 12 advanced CNC machines for precision manufacturing
-- **Automated welding**: 8 robotic welding stations for consistent quality
-- **Assembly lines**: 3 automated assembly lines for efficient production
-- **Testing equipment**: Complete testing facilities for quality assurance
-- **Packaging systems**: Automated packaging and labeling systems
+### Hydraulic and Electrical Assembly
+- Cylinder, pump, valves, hoses or pipes, pressure instruments, oil specification, cleanliness, and leakage controls
+- Motor, electrical cabinet, wiring, grounding, sensors, alarms, interlocks, emergency stop, and destination electrical standard
+- Component brands and models matched to the approved bill of materials
 
-## Production Capacity Enhancement
+### Final Assembly, Test, and Packing
+- Machine configuration compared with the approved drawing and quotation
+- Nameplate, guards, manuals, electrical and hydraulic diagrams, spare parts, tools, and labels
+- Test-instrument identification and calibration status
+- Export packing, moisture protection, lifting points, packing list, and container-loading plan
 
-### Before Expansion
-- **Previous capacity**: 200 units per month
-- **Product range**: 5 basic models
-- **Lead time**: 30-45 days for standard orders
-- **Peak capacity**: 250 units per month maximum
+## Verify Capacity and Lead Time
 
-### After Expansion
-- **New capacity**: 600 units per month (200% increase)
-- **Product range**: 12 models including advanced series
-- **Lead time**: 15-20 days for standard orders
-- **Peak capacity**: 800 units per month maximum
+Do not infer manufacturing capacity from floor area, equipment count, or a percentage increase. Ask for evidence relevant to the order:
 
-### Manufacturing Efficiency
-- **Automation level**: 85% automation (up from 60%)
-- **Quality consistency**: 99.5% product qualification rate
-- **Production flexibility**: Quick changeover between models
-- **Scalability**: Capacity can be further expanded to 1000 units/month
+- Current production schedule with confidential customer data removed
+- Dated completion and shipment records for comparable models
+- Identified bottlenecks in machining, welding, hydraulic assembly, electrical assembly, testing, and packing
+- Availability of critical purchased components and realistic supplier lead times
+- Planned start, inspection, corrective-action, packing, and shipment dates written into the contract
 
-## Intelligence Level
+## Factory Acceptance Test
 
-### Smart Manufacturing
-- **IoT integration**: All equipment connected to central monitoring system
-- **Real-time monitoring**: 24/7 monitoring of production parameters
-- **Predictive maintenance**: AI-powered maintenance scheduling
-- **Quality tracking**: Complete traceability from raw materials to finished products
+The FAT should cover the ordered configuration and agreed risks:
 
-### Digital Management
-- **ERP system**: Integrated enterprise resource planning system
-- **MES platform**: Manufacturing execution system for production control
-- **CRM integration**: Customer relationship management for better service
-- **Supply chain**: Digital supply chain management system
+1. Verify model, dimensions, materials, components, accessories, voltage, and documents.
+2. Run no-load operation and inspect noise, vibration, oil temperature, leakage, controls, and alarms.
+3. Record hydraulic pressure, hold time, relief settings, return sequence, and safety functions.
+4. Test interlocks, emergency stop, guarding, and manual fallback.
+5. Run a representative material trial when yield, throughput, cake condition, oil quality, or dewatering result affects acceptance.
+6. Record deviations, correction, retest, sign-off, packing release, and retained evidence.
 
-### Data Analytics
-- **Production optimization**: Data-driven production optimization
-- **Quality analysis**: Statistical quality control and analysis
-- **Market insights**: Data analysis for market trend prediction
-- **Performance metrics**: KPI dashboards for management decision-making
+## Certificate and Document Checks
 
-## Environmental Protection
+If ISO 9001, ISO 14001, CE, patents, green-factory status, or other qualifications are cited, request documents showing the holder, number, issuer, scope, covered site or product, and validity dates. Verify them with the issuer or official database. A management-system certificate does not establish the performance of the ordered machine.
 
-### Green Manufacturing
-- **Energy efficiency**: 30% reduction in energy consumption per unit
-- **Renewable energy**: 500kW solar panel installation
-- **Waste reduction**: 95% waste recycling and reuse
-- **Water treatment**: Advanced water treatment system for zero discharge
+## Export Project File
 
-### Environmental Certifications
-- **ISO 14001**: Environmental management system certification
-- **Green factory**: Designated as provincial-level green manufacturing facility
-- **Emissions control**: All emissions meet or exceed national standards
-- **Sustainable practices**: Implementation of circular economy principles
+Confirm responsibility for the commercial invoice, packing list, HS code, certificate of origin where included, inspection certificate where required, EU Declaration of Conformity or destination documents where applicable, manuals, drawings, destination-language labels, insurance, freight, customs, and installation records.
 
-## Employee Benefits
+## Request a Visit and Quote
 
-### Working Environment
-- **Modern facilities**: Air-conditioned production areas with ergonomic design
-- **Safety systems**: Comprehensive safety monitoring and protection systems
-- **Canteen facilities**: Modern cafeteria with healthy meal options
-- **Recreation areas**: Employee recreation and rest facilities
-
-### Training Programs
-- **Skill development**: Regular technical training programs
-- **Career advancement**: Clear career development paths
-- **Safety training**: Monthly safety training and certification programs
-- **Innovation incentives**: Employee suggestion and innovation reward system
-
-### Employee Welfare
-- **Competitive compensation**: Above-industry-average salary packages
-- **Health benefits**: Comprehensive health insurance coverage
-- **Transportation**: Free shuttle service for employees
-- **Housing assistance**: Subsidized housing for key employees
-
-## Economic Benefits
-
-### Revenue Growth
-- **Projected revenue**: 300% increase in annual revenue
-- **Market share**: Expected to gain 15% additional market share
-- **Export growth**: 500% increase in export capacity
-- **Profit margin**: Improved profit margins through efficiency gains
-
-### Cost Reduction
-- **Manufacturing cost**: 20% reduction in per-unit manufacturing cost
-- **Quality cost**: 50% reduction in quality-related costs
-- **Logistics cost**: 15% reduction in logistics and transportation costs
-- **Energy cost**: 30% reduction in energy costs through efficiency measures
-
-### Economic Impact
-- **Local employment**: Creation of 200 new direct jobs
-- **Indirect employment**: Estimated 500 indirect jobs in supply chain
-- **Tax contribution**: Significant increase in local tax revenue
-- **Economic multiplier**: Positive impact on regional economy
-
-## Future Plans
-
-### Phase 2 Expansion
-- **Timeline**: Planning to start Phase 2 in 2025
-- **Additional capacity**: Further 50% capacity increase
-- **New products**: Development of next-generation oil press equipment
-- **Global expansion**: Establishment of overseas production facilities
-
-### Technology Roadmap
-- **R&D investment**: Annual R&D investment of 8% of revenue
-- **Innovation focus**: AI-powered oil press equipment development
-- **Patent applications**: Target of 20 new patents per year
-- **University partnerships**: Establishment of joint research programs
-
-### Market Strategy
-- **Global presence**: Establishment of sales and service centers worldwide
-- **Brand building**: Investment in global brand recognition
-- **Customer service**: 24/7 global customer support network
-- **Strategic partnerships**: Formation of strategic alliances with key customers
+Provide the raw material, representative sample, target product, planned operating hours, line scope, site utilities, destination, acceptance tests, packing, and required documents.
 
 ::: tip Visiting Information
-Our new facility welcomes customers and partners for visits and technical exchanges. To arrange a facility tour, please contact:
+To arrange a facility visit, document review, sample trial, or quotation, contact:
 - Phone: +86 199 0636 5856
 - Email: factory@shengshihecheng.com
 - Address: High-tech Industrial Park, Shandong Province, China
 
-We look forward to showcasing our advanced manufacturing capabilities and discussing how we can support your business growth.
+[Submit project requirements](/en/contact/)
 :::

@@ -1,74 +1,61 @@
 ---
-title: "Série de machines de rinçage de bouteilles | Modèles, specs…"
-description: Découvrez série de machines de rinçage de bouteilles pour lignes d’huile comestible et conditionnement liquide. Comparez les modèles et demandez un devis usine.
+title: "Rinceuses de bouteilles | Modèles, prix et devis de ligne"
+description: "Comparez les rinceuses à chaîne, rotatives ou par retournement avant remplissage. Demandez les fiches modèles, le prix fabricant, le devis de ligne et le SAV."
 keywords: Série de machines de rinçage de bouteilles, équipement de rinçage de bouteilles vides, machine de rinçage d'huile comestible, machine de rinçage de bouteilles en verre, équipement de nettoyage de bouteilles PET, équipement de prétraitement de remplissage
 image: "/images/filling-solutions/bottle-washing.webp"
 ---
+# Rinceuses de bouteilles
 
-# Série de machines de rinçage de bouteilles
+![Rinceuse rotative de bouteilles](/images/filling-solutions/bottle-washing.webp)
 
-![Photo réelle d'un rinceur de bouteilles rotatif](/images/filling-solutions/bottle-washing.webp)
+Une rinceuse prépare les contenants vides avant remplissage en appliquant le procédé convenu : eau, solution de rinçage ou air selon la machine et le cahier des charges. Elle ne garantit ni stérilité ni conformité sanitaire à elle seule. Le choix dépend de la bouteille, du niveau de propreté initial, du fluide de rinçage, de la cadence et de la manière dont l'eau résiduelle est gérée.
 
-Le rince-bouteilles constitue l'équipement de base de la partie avant de la ligne de remplissage. Il est principalement utilisé pour le nettoyage, le dépoussiérage et le traitement sanitaire des bouteilles vides avant de remplir des produits en bouteille, contribuant ainsi à réduire les impuretés, les taches d'eau et les résidus de corps étrangers dans les bouteilles. Pour les produits tels que l'huile comestible, les huiles aromatisantes en petits emballages, les boissons et le vin de fruits, le processus de rinçage affecte directement la stabilité du remplissage ultérieur et l'apparence du produit fini.
+## Position dans la ligne
 
-## Fonction sur toute la ligne
+1. Alimentation des bouteilles vides
+2. Rinçage selon le procédé validé
+3. Égouttage et, si nécessaire, [séchage extérieur](/fr/solutions/drying/)
+4. [Remplissage](/fr/solutions/filling/)
+5. [Fermeture ou scellage](/fr/solutions/sealing/)
 
-- Améliorer la propreté des bouteilles vides et réduire les corps étrangers entrant dans la zone de remplissage
-- Fournir des conditions préalables stables pour le remplissage, le scellement et l'étiquetage ultérieurs
-- Réduire les fluctuations d'efficacité et les risques d'hygiène causés par le rinçage manuel
-- Convient pour être relié à des séchoirs, des machines de remplissage et d'autres modules pour former une unité de traitement frontal
+Pour une ligne complète, les transferts entre rinçage, séchage et remplissage doivent être conçus ensemble afin d'éviter les chutes, les mélanges de formats et les accumulations incontrôlées.
 
-## Formulaires de configuration courants
+## Critères de sélection et d'achat
 
-- Rinceur de bouteilles de type rabattable : adapté au rinçage continu des bouteilles ordinaires
-- Rinceuse par pulvérisation : adaptée aux lignes d'embouteillage ayant des exigences de propreté plus élevées
-- Équipement de lavage d'air/lavage d'air : adapté aux scénarios dans lesquels vous ne souhaitez pas que l'humidité reste dans la bouteille
-- Structure de liaison multi-stations : peut être directement connectée au séchage et au remplissage
+- Matière, forme, diamètre, hauteur, finition du goulot et stabilité de chaque bouteille.
+- Nature et état des salissures, objectif de rinçage et méthode de validation.
+- Eau ou air disponible, pression, qualité, température, filtration, recyclage éventuel et drainage.
+- Cadence soutenue, temps de traitement, changement de format, convoyeur et implantation.
+- Gestion de l'eau résiduelle avant remplissage ou étiquetage.
 
-## Scénarios applicables
+## Modèles de référence
 
-- Lignes d'embouteillage d'huile d'arachide, de colza, de soja, de sésame et autres huiles comestibles
--Bouteilles en verre, bouteilles en PET, bouteilles d'huile en coffret cadeau de petite taille
-- Articles d'emballage de vente au détail sensibles à la poussière, aux débris et aux taches d'eau à l'intérieur des bouteilles
-- Section de prétraitement de produits liquides tels que boissons, vins de fruits, assaisonnements, etc.
+Les valeurs ci-dessous sont conservées comme repères publiés. La compatibilité et la cadence doivent être confirmées sur les bouteilles de l'acheteur et dans l'offre technique.
 
-## Suggestions de sélection
-
-- Confirmez d'abord le matériau de la bouteille et la plage de tailles. Les méthodes de nettoyage des bouteilles en verre et des bouteilles en plastique ne sont pas exactement les mêmes.
-- Si l'étiquetage est effectué directement dans le futur, il est recommandé d'envisager [série de sèche-cheveux] (/fr/solutions/drying/) en même temps pour réduire l'eau résiduelle sur la bouteille.
-- Si le projet est une ligne à grande vitesse, la priorité doit être donnée à l'adaptation au rythme de [Filling Machine Series] (/fr/solutions/filling/)
-- Si les normes d'hygiène du produit sont élevées, des solutions de circulation d'eau filtrée ou de lavage d'air sans eau peuvent être ajoutées
-
-## Relation de correspondance typique
-
-1. Chargement des bouteilles vides
-2. Rincez et nettoyez les bouteilles
-3. [Série de sèche-cheveux](/fr/solutions/drying/)
-4. [Série de machines de remplissage](/fr/solutions/filling/)
-5. [Série de machines à sceller](/fr/solutions/drying/)
-
-## Modèle de référence de référence
-
-Les extraits de paramètres suivants sont organisés en fonction des pages publiques et conviennent à une comparaison rapide de la gamme de types de bouteilles, du temps de cycle et de la consommation d'eau. Le nom du modèle peut entrer directement dans la page du produit indépendant.
-
-| Modèle | Extrait des paramètres publics | Instructions applicables |
+| Modèle | Extrait des paramètres publics | Utilisation à vérifier |
 | --- | --- | --- |
-| [Rinceuse de bouteilles rotative QSP-6A](/fr/solutions/filling/) | 6 000 b/h ; 1,85 kW ; diamètre de la bouteille ∅40-∅110 mm ; hauteur de la bouteille 120-320 mm ; consommation d'eau 1,5 m3/h | Convient au rinçage continu des bouteilles ordinaires |
-| [Rinceuse de bouteilles à six roues QSP-6A / QSP-6B](/fr/solutions/sealing/) | 3 000 à 7 000 bouteilles/heure ; 1,85-2,2 kW ; diamètre de bouteille applicable ∅50-100 mm ; hauteur de la bouteille 100-320 mm | Convient aux bouteilles en verre à vitesse moyenne ou à la PET Bottle Line |
-| [Rinceuse de bouteilles à bascule QCP-18H~QSP-60H](/fr/solutions/bottle-washing/rotary-bottle-washer) | 3 000 à 12 000 pages/h ; 18 à 60 têtes ; hauteur de la bouteille 160-320 mm ; diamètre de la bouteille ∅60-100 mm ; consommation d'eau 0,7-4,4 m3/h | Convient aux scénarios de rinçage interne hautement propres |
+| [Rinceuse rotative QSP-6A](/fr/products/filling/rotary-bottle-washer) | 6 000 bouteilles/h ; 1,85 kW ; diamètre ∅40-∅110 mm ; hauteur 120-320 mm ; eau 1,5 m³/h | Rinçage continu de bouteilles régulières |
+| [Rinceuse à six roues QSP-6A / QSP-6B](/fr/products/filling/six-wheel-bottle-washer) | 3 000-7 000 bouteilles/h ; 1,85-2,2 kW ; diamètre ∅50-100 mm ; hauteur 100-320 mm | Bouteilles en verre ou PET compatibles |
+| [Rinceuse par retournement QCP-18H à QSP-60H](/fr/products/filling/flip-bottle-washer) | 3 000-12 000 bouteilles/h ; 18-60 têtes ; hauteur 160-320 mm ; diamètre ∅60-100 mm ; eau 0,7-4,4 m³/h | Rinçage intérieur avec retournement du contenant |
 
-## Accès direct à des modèles spécifiques
+## Accès direct aux cinq familles
 
-- [Machine de rinçage rotative](/fr/solutions/bottle-washing/six-wheel-bottle-washer)
-- [Machine de rinçage à six roues](/fr/solutions/bottle-washing/flip-bottle-washer)
-- [Machine à laver les bouteilles de type rail à chaîne](/fr/solutions/bottle-washing/rotary-bottle-washer)
-- [Machine de rinçage intermittent](/fr/solutions/bottle-washing/six-wheel-bottle-washer)
-- [Rinceuse de bouteilles à bascule](/fr/solutions/bottle-washing/chain-bottle-washer)
-- [Aperçu de la bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/solutions/bottle-washing/intermittent-bottle-washer)
+- [Rinceuse à convoyeur à chaîne](/fr/products/filling/chain-bottle-washer)
+- [Rinceuse par retournement](/fr/products/filling/flip-bottle-washer)
+- [Rinceuse intermittente](/fr/products/filling/intermittent-bottle-washer)
+- [Rinceuse rotative](/fr/products/filling/rotary-bottle-washer)
+- [Rinceuse à six roues](/fr/products/filling/six-wheel-bottle-washer)
+- [Répertoire des équipements et paramètres](/fr/products/filling-equipment)
 
-## Pages connexes
+## Devis fabricant et réception
 
-- [Aperçu des solutions de support de remplissage](/fr/solutions/bottle-washing/flip-bottle-washer)
-- [Série de sèche-cheveux](/fr/products/filling-equipment)
-- [Série de machines de remplissage](/fr/solutions/filling-packages)
-- [Contactez-nous pour des conseils complets sur la ligne](/fr/solutions/drying/)
+Pour obtenir un prix comparable, transmettre des bouteilles représentatives, le fluide de rinçage, la cadence, le plan de ligne et les utilités. Le devis doit préciser têtes ou postes, pièces de format, pompe et filtration éventuelles, convoyeurs, protections, récupération ou évacuation, commandes et essais FAT.
+
+La réception doit mesurer le traitement obtenu selon une méthode convenue, le taux de casse ou de chute, le drainage, le changement de format et la synchronisation avec la ligne. Livraison, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que selon l'offre écrite et le contrat.
+
+## Pages associées
+
+- [Vue d'ensemble du conditionnement](/fr/solutions/filling-packages)
+- [Sécheurs de bouteilles](/fr/solutions/drying/)
+- [Remplisseuses](/fr/solutions/filling/)
+- [Demander un prix fabricant pour la ligne](/fr/contact/)

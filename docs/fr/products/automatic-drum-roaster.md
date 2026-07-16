@@ -1,13 +1,13 @@
 ---
-title: Rôtisseur à Tambour Automatique - Shengshi Hecheng prix | fabr...
-description: Demandez le prix et le devis pour Rôtisseur à Tambour Automatique - Shengshi Hecheng. Fabricant Shengshi Hecheng, livraison et SAV.
-keywords: Rôtisseur à Tambour Automatique prix, acheter Rôtisseur à Tambour Automatique, devis usine, fabricant chinois, exportation, service après-vente
+title: "Torréfacteur à tambour électromagnétique | Prix et devis"
+description: "Comparez le torréfacteur à chauffage électromagnétique selon matière, lot, profil de température, cycle complet, FAT/SAT et périmètre SAV."
+keywords: Torréfacteur à tambour électromagnétique prix, devis torréfacteur à tambour, fabricant chinois, exportation, service après-vente
 image: "/images/external/products-automatic-drum-roaster-fe819d90.webp"
 ---
-# Rôtisseur à Tambour Automatique
-![Rôtisseur à Tambour Automatique](/images/external/products-automatic-drum-roaster-fe819d90.webp)
+# Torréfacteur à tambour électromagnétique
+![Torréfacteur à tambour électromagnétique](/images/external/products-automatic-drum-roaster-fe819d90.webp)
 ## Aperçu du Produit
-Le Rôtisseur à Tambour Automatique utilise le **chauffage électromagnétique** pour un fonctionnement pratique et des niveaux de puissance ajustables. Il offre des avantages tels que le chauffage rapide, la haute température, la sécurité, la fiabilité, l'efficacité énergétique et le respect de l'environnement.
+Le torréfacteur utilise un **chauffage électromagnétique** avec des niveaux de puissance sélectionnables. Le devis doit identifier le contrôleur, les capteurs, alarmes, entraînement, chargement et déchargement réellement fournis. La montée en température, la répartition thermique, l'énergie consommée et le besoin en main-d'œuvre se vérifient par un essai matière convenu.
 
 Adapté au rôtissage de divers matériaux, notamment :
 - Graines de lin
@@ -23,10 +23,10 @@ Adapté au rôtissage de divers matériaux, notamment :
 ---
 
 ## Points Forts du Produit
-- **Chauffage Électromagnétique Intelligent** : La puissance est ajustable par sections, assurant un chauffage uniforme, une montée en température rapide, l'efficacité énergétique et la protection de l'environnement.
-- **Fonctionnement Pratique** : Contrôle entièrement automatique, démarrage d'une seule touche, réduisant le travail manuel.
-- **Application Polyvalente** : Applicable aux aliments, aux matières médicinales et aux matières premières chimiques.
-- **Sûr et Fiable** : Conception sans flamme, éliminant les risques de sécurité, répondant aux exigences du traitement alimentaire et industriel moderne.
+- **Structure de chauffage** : Chauffage électromagnétique et puissance par paliers ; l'écart de température et le temps de montée sont des mesures de réception.
+- **Fonctions de commande** : Séquences marche/arrêt, alarmes, vitesse du tambour et interverrouillages ne sont inclus que s'ils figurent au devis. Chargement, déchargement, prélèvement et nettoyage peuvent rester manuels.
+- **Périmètre matière** : Les aliments, matières médicinales et produits chimiques exigent des vérifications séparées des matériaux au contact, poussières, fumées, nettoyage et contamination croisée.
+- **Maîtrise des risques** : L'absence de flamme de combustion directe n'exclut pas les protections, arrêt d'urgence, ventilation, protection électrique, procédures et exigences locales.
 
 ---
 
@@ -37,8 +37,8 @@ Adapté au rôtissage de divers matériaux, notamment :
 
 ---
 
-## Références de Titres Publicitaires
-- "Haute Efficacité, Économie d'Énergie, Rôtissage en Une Fois !"
-- "L'Assistant Intelligent du Traitement Alimentaire - Rôtisseur à Tambour Automatique"
-- "Dites Adieu aux Flammes Ouvertes, Adoptez le Chauffage Électromagnétique Intelligent"
-- "Une Machine, Plusieurs Fonctions, Répondant aux Besoins Diversifiés de l'Industrie"
+## Limite FAT/SAT et achat
+
+Utiliser un lot représentatif et enregistrer le type de matière, la granulométrie, l'humidité, la masse du lot, la vitesse du tambour, le palier de puissance, le profil de température et le cycle complet du chargement au rôtissage, au déchargement, au nettoyage et au redémarrage. Le protocole FAT/SAT doit préciser la durée d'essai continu, les arrêts admis, l'étalonnage des capteurs et balances, les points d'échantillonnage, la tolérance de température, le point final produit, la mesure énergétique en `kWh/lot` ou `kWh/t` et la tolérance de réception. La consommation, le niveau d'intervention humaine et les fonctions de maîtrise des risques ne deviennent des critères de réception que s'ils sont mesurables et inscrits au contrat signé.
+
+Le devis fabricant doit détailler la base de capacité, les matériaux au contact, commandes, protections, interfaces de poussières ou d'extraction, tension et fréquence, accessoires, emballage, livraison, pièces, garantie et canaux SAV. Toute mise en service ou formation sur site exige que le devis et le contrat confirment la région, les déplacements, visas, hébergement, coûts, durée, contenu, utilités de l'acheteur et responsabilités de réception ; aucune prestation non écrite n'est incluse.

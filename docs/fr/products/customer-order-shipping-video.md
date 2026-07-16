@@ -1,87 +1,90 @@
 ---
-title: Vidéo d'expédition de commande client - Shengshi Hecheng
-description: Shandong Shengshi Hecheng vidéo d'expédition de commande client, y compris l'emballage d'équipement, le chargement et le transport
-keywords: Vidéo d'expédition de commande client prix, acheter Vidéo d'expédition de commande client, devis usine, fabricant chinois, exportation, service après-vente
+title: "Vidéos d'emballage et d'expédition | Prix et devis"
+description: "Consultez des vidéos d'emballage et de chargement, puis vérifiez dans le devis le colisage, les documents export, l'assurance et l'Incoterm."
+keywords: vidéo expédition presse à huile, emballage machine export, liste de colisage équipement, fret presse hydraulique, devis fabricant, réception livraison
 ---
-#  <center> Vidéo d'expédition de commande client</center>
+# <center>Vidéos d'emballage et d'expédition</center>
 
-## Aperçu du service d'expédition
+Ces vidéos documentent des expéditions précises. Elles ne signifient pas que chaque commande utilise le même emballage, le même transporteur ou le même délai. Le devis et la liste de colisage signés doivent définir les machines, le démontage éventuel, le châssis ou la caisse, la protection anticorrosion, le plan de conteneur, les documents, l'assurance et l'Incoterm.
 
-Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des services professionnels d'expédition d'équipement, du confirmation de commande à l'acceptation client, service de suivi complet pour assurer la sécurité et la livraison ponctuelle de l'équipement.
+## Archives d'emballage et de chargement
 
-Notre équipe d'expédition a une riche expérience et peut fournir des solutions d'emballage et de transport personnalisées selon les caractéristiques des différents équipements et les besoins des clients.
-
-## Aperçu du site d'expédition domestique
-
-### Processus d'emballage et d'expédition de presse hydraulique
- <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/rrY56IsqT24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### Chargement et transport d'équipement
- <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/example1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-## Service d'expédition internationale
-
-### Acceptation d'équipement client étranger
- <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/example2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### Processus de chargement de conteneur
- <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/example3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+### Emballage d'une presse hydraulique
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/mjzmVves1SU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Archive d'emballage d'une presse hydraulique" loading="lazy" src="https://www.youtube.com/embed/rrY56IsqT24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### Chargement d'équipements
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/--mJg9RNZwA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Archive de chargement d'équipements de pressage" loading="lazy" src="https://www.youtube.com/embed/mjzmVves1SU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### Archive complémentaire de préparation avant expédition
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/jjbll8mzB70" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Archive complémentaire de préparation avant expédition" loading="lazy" src="https://www.youtube.com/embed/--mJg9RNZwA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+## Archives d'expédition export
+
+### Modèle 426-390AC pour un projet de pressage à froid d'amandes
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/qbhvJQ6amLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Expédition export d'une presse hydraulique modèle 426" loading="lazy" src="https://www.youtube.com/embed/jjbll8mzB70" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### Archive complémentaire d'expédition internationale
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/U077XRSuR-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Archive complémentaire d'expédition internationale" loading="lazy" src="https://www.youtube.com/embed/qbhvJQ6amLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Caractéristiques du service d'expédition
+### Plusieurs presses préparées pour expédition
+<div class="video-container">
+  <iframe title="Plusieurs presses hydrauliques préparées pour expédition" loading="lazy" src="https://www.youtube.com/embed/U077XRSuR-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-### Emballage professionnel
-- **Emballage anti-choc** : Utilisation de matériaux d'emballage professionnels pour prévenir les dommages dus aux vibrations pendant le transport
-- **Protection contre l'humidité** : Traitement anti-humidité de la surface de l'équipement pour prévenir la rouille et la corrosion
-- **Fixation renforcée** : L'équipement est fermement fixé pendant le transport pour assurer la sécurité
+## Périmètre d'emballage à confirmer avant commande
 
-### Suivi logistique
-- **Suivi en temps réel** : Fournir une consultation d'informations logistiques, toujours connaître l'emplacement des marchandises
-- **Service d'assurance** : Fournir une assurance de transport pour l'équipement afin de protéger les intérêts des clients
-- **Notification opportune** : Notification opportune des nœuds clés tels que l'expédition et l'arrivée
+1. Modèle, quantité, accessoires séparés et ensembles démontés pour le transport.
+2. Châssis nu, bâti acier, caisse bois ou fixation en conteneur, avec méthode de protection contre l'humidité et la corrosion.
+3. Points de levage, centre de gravité, dimensions des colis, poids brut/net et ordre de chargement.
+4. Facture commerciale, liste de colisage, manuels, certificats, données douanières et documents propres au pays de destination.
+5. Incoterm, port ou adresse de livraison, limite de responsabilité du transporteur, partie assurée et calendrier estimatif.
 
-### Service d'acceptation
-- **Acceptation sur site** : Acceptation de l'équipement avant l'expédition pour assurer l'intégrité de l'équipement
-- **Acceptation à l'arrivée** : Guider les clients pour effectuer l'acceptation à l'arrivée et fournir un support technique
-- **Suivi après-vente** : Service de suivi après l'installation et la mise en service de l'équipement
+## Contrôle au départ et à l'arrivée
 
-## Avis clients
+- Avant chargement, rapprocher la liste de colisage des plaques signalétiques, accessoires, outils, pièces et documents.
+- Si le contrat le prévoit, enregistrer par photos ou vidéo datées l'état de l'emballage et du conteneur.
+- À l'arrivée, contrôler le conteneur, les colis, les chocs ou traces de corrosion visibles et les pièces libres avant déballage; consigner toute réserve.
+- Installation, mise en service, formation, déplacement et assistance à distance relèvent du devis et du contrat; une vidéo d'expédition ne les inclut pas automatiquement.
 
-*"Le service d'expédition de Shengshi Hecheng est très professionnel, l'emballage de l'équipement est solide, le transport est sûr, l'équipement est intact à l'arrivée."*
-—— M. Li, Client du Shandong
-
-*"Le service d'expédition internationale est attentionné, le suivi logistique est opportun, ce qui nous rassure beaucoup."*
-—— M. Ahmed, Client pakistanais
-
-## Contactez-nous
-
-Si vous avez besoin de connaître plus d'informations sur les services d'expédition, ou avez des besoins spéciaux d'expédition, veuillez nous contacter :
-
-- **Ligne d'assistance expédition** : +86-19906365856
-
+[Demander le mode d'emballage, le périmètre de fret et un devis fabricant](/fr/contact/)
 
 ---
 
-*Shandong Shengshi Hecheng Machinery Co., Ltd. · Fabrication professionnelle · Service de qualité*
+<style>
+.video-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  margin: 1rem 0;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+  .video-container {
+    padding-bottom: 56.25%;
+    margin: 0.5rem 0;
+  }
+}
+</style>
+
+*Ces archives doivent être lues avec la liste de colisage, le devis et les conditions de transport signés.*

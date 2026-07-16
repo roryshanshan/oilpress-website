@@ -1,26 +1,23 @@
 ---
-title: Văn hóa doanh nghiệp - Công ty TNHH Shengshi Hecheng Sơn Đông
-description: "Văn hóa doanh nghiệp Shengshi Hecheng, tuân thủ triết lý Chất lượng hàng đầu, khách hàng là trên hết, giá trị cốt lõi: trung thực, đổi mới, xuất sắc"
+title: "Văn hóa doanh nghiệp Shengshi Hecheng"
+description: "Văn hóa Shengshi Hecheng đặt trọng tâm vào chất lượng, trách nhiệm với khách hàng, tính trung thực, đổi mới kỹ thuật và cải tiến sản xuất liên tục."
 keywords: Văn hóa doanh nghiệp, Văn hóa công ty, Sứ mệnh doanh nghiệp, Giá trị cốt lõi, Tinh thần doanh nghiệp, Triết lý phát triển, Shengshi Hecheng Sơn Đông, Nhà sản xuất máy ép dầu, Giới thiệu doanh nghiệp, Triết lý công ty, Giá trị doanh nghiệp, Tinh thần doanh nghiệp
 ---
 
-# Văn hóa doanh nghiệp
+# Phương pháp làm việc và cam kết theo dự án
 
-## Sứ mệnh của chúng tôi
+## Bắt đầu từ nguyên liệu thực tế
 
-Tuân thủ triết lý "Chất lượng hàng đầu, khách hàng là trên hết", cung cấp giải pháp thiết bị ép dầu thủy lực chất lượng tốt nhất cho khách hàng toàn cầu.
+Việc chọn máy bắt đầu từ tình trạng nguyên liệu, độ ẩm đã đo, tuyến tiền xử lý và yêu cầu thành phẩm. Với nguyên liệu chưa quen thuộc, thử mẫu đại diện và phương pháp thử bằng văn bản có giá trị hơn một lời hứa chung về công suất hoặc tỷ lệ thu dầu.
 
-## Giá trị cốt lõi
+## Làm rõ phạm vi báo giá
 
-- **Trung thực**: Lấy sự trung thực, giữ chữ tín làm nguyên tắc cơ bản
-- **Đổi mới**: Liên tục đổi mới công nghệ, dẫn đầu sự phát triển ngành
-- **Xuất sắc**: Theo đuổi chất lượng xuất sắc, xây dựng sản phẩm hàng đầu
-- **Trách nhiệm**: Có trách nhiệm với khách hàng, có trách nhiệm với xã hội
+Báo giá hữu ích phải tách riêng máy chính, thiết bị trước và sau ép, tùy chọn, phụ tùng, đóng gói, ranh giới vận chuyển, lắp đặt và dịch vụ sau bán hàng. Hạng mục bao gồm, loại trừ, trách nhiệm của người mua và tiêu chí nghiệm thu cần được xác nhận trước khi đặt hàng.
 
-## Tinh thần doanh nghiệp
+## Thiết kế cho vận hành hằng ngày
 
-Chuyên nghiệp, đổi mới, hiệu quả, cùng thắng
+Lối vệ sinh, che chắn an toàn, tiêu chuẩn điện, hạ tầng kỹ thuật, vật tư tiêu hao, đổi nguyên liệu, không gian bảo dưỡng và khả năng cung cấp phụ tùng phải được xem xét cùng quy trình. Cấu hình cuối cùng cần phù hợp với nhà xưởng và đội vận hành.
 
-## Triết lý phát triển
+## Duy trì trao đổi kỹ thuật có thể kiểm chứng
 
-Lấy Trung Quốc làm nền tảng, hướng ra thế giới, cung cấp giải pháp toàn diện cho ngành chế biến dầu.
+Bản vẽ, danh mục linh kiện, thử nguyên liệu, video, hướng dẫn và biên bản nghiệm thu tại nhà máy hoặc công trường giúp hai bên xác nhận cùng một phạm vi. Xem [danh mục máy](/vi/products/), [giải pháp theo nguyên liệu](/vi/solutions/) hoặc [gửi dữ liệu dự án để nhận báo giá](/vi/contact/).

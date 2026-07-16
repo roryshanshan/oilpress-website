@@ -1,54 +1,15 @@
 ---
-title: "Case study | Dự án máy ép dầu thủy lực"
-description: "Xem case nhà máy dầu và dự án xuất khẩu với máy ép thủy lực, tăng công suất và dây chuyền trọn gói."
-keywords: thành công, trường hợp khách hàng, dự án nhà máy dầu, ví dụ máy ép dầu, nhà máy lớn, doanh nghiệp vừa và nhỏ, thị trường nước ngoài, đổi mới công nghệ, nâng cao hiệu suất, tăng tỷ lệ thu dầu, Shengshi Hecheng
+title: "Video ép hạnh nhân | Thử mẫu và kiểm tra máy ép dầu"
+description: "Xem video ép hạnh nhân và quy trình xác minh trước khi mua: thử nguyên liệu, kiểm tra máy, nghiệm thu và báo giá theo cấu hình."
+keywords: video ép hạnh nhân, thử mẫu ép dầu, kiểm tra máy ép dầu, nghiệm thu thiết bị, xác minh máy ép dầu, báo giá máy ép dầu thủy lực
 ---
 
-# Hồ sơ thành công
+# Video và quy trình xác minh trước khi mua
 
-## Dự án nhà máy dầu quy mô lớn
+Trang này tập trung vào bằng chứng có thể kiểm tra trực tiếp trước khi đặt hàng. Video giúp quan sát máy và quy trình, còn model, năng suất, tỷ lệ thu dầu, mức tiêu thụ năng lượng và tiêu chí chất lượng phải được xác nhận bằng thử mẫu, hồ sơ kỹ thuật và điều khoản nghiệm thu bằng văn bản.
 
-### Nhà máy dầu lớn tại Tân Cương
+## Video ép hạnh nhân
 
-**Quy mô dự án**: sản lượng dầu 20 tấn/ngày
-**Model thiết bị**: Máy ép dầu công nghiệp dòng 425
-**Kết quả dự án**:
-- Tăng tỷ lệ thu dầu 15%
-- Tăng doanh thu hàng năm khoảng 2 triệu CNY
-- Nâng cao hiệu suất sản xuất 30%
-
-### Nhà máy dầu lớn tại Sơn Đông
-
-**Quy mô dự án**: sản lượng dầu 50 tấn/ngày
-**Model thiết bị**: Máy ép dầu công nghiệp cỡ lớn dòng 500
-**Kết quả dự án**:
-- Mức tự động hóa đạt 95%
-- Giảm chi phí vận hành 25%
-- Chất lượng sản phẩm cải thiện rõ rệt
-
-## Trường hợp doanh nghiệp vừa và nhỏ
-
-### Chuyển đổi xưởng gia đình
-
-**Bối cảnh khách hàng**: Xưởng ép dầu thủ công truyền thống
-**Giải pháp**: Máy ép dầu đơn thùng tiêu chuẩn dòng 325
-**Kết quả dự án**:
-- Sản lượng hàng ngày tăng từ 0.5 tấn lên 1.5 tấn
-- Chất lượng sản phẩm cải thiện đáng kể
-- Thực hiện cơ giới hóa sản xuất
-
-### Nâng cấp nhà máy cỡ vừa
-
-**Bối cảnh khách hàng**: Thiết bị nhà máy cũ kỹ, hiệu suất thấp
-**Giải pháp**: Máy ép dầu công nghiệp dòng 400
-**Kết quả dự án**:
-- Năng lực sản xuất tăng gấp đôi
-- Tiêu thụ năng lượng giảm 40%
-- Đạt được chứng nhận sản xuất xanh
-
-## Dự án thị trường nước ngoài
-
-## Khách hàng Pakistan — ép hạnh nhân
 <div class="video-container">
   <iframe width="700" height="330" src="https://www.youtube.com/embed/rM4hgCIApAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -56,30 +17,35 @@ keywords: thành công, trường hợp khách hàng, dự án nhà máy dầu, 
   <iframe width="700" height="330" src="https://www.youtube.com/embed/kSeQ570mtvo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Khách hàng Đông Nam Á
+Hai video trên có thể dùng để quan sát cách nạp nguyên liệu, chu kỳ ép, đường thoát dầu và cách lấy bã. Chỉ riêng video không xác nhận địa điểm khách hàng, công suất, tỷ lệ thu dầu, mức tiết kiệm năng lượng, chứng nhận hay kết quả thương mại.
 
-**Địa điểm dự án**: Indonesia
-**Model thiết bị**: Máy ép dầu mở rộng đôi thùng dòng 355
-**Kết quả dự án**:
-- Chuyển đổi từ xưởng thủ công sang nhà máy hiện đại
-- Năng lực tăng gấp 5 lần
-- Trở thành doanh nghiệp tiêu biểu tại địa phương
+## Cách dùng video làm bằng chứng
 
-### Khách hàng Châu Phi
+- Yêu cầu video liên tục từ lúc cân nguyên liệu đến khi thu dầu và lấy bã nếu video được dùng cho nghiệm thu.
+- Đối chiếu model, cấu hình thùng ép, hệ thống thủy lực và tủ điều khiển với báo giá hoặc bản vẽ.
+- Ghi rõ tên nguyên liệu, tình trạng mẫu, độ ẩm và phương pháp tiền xử lý.
+- Chỉ so sánh kết quả khi điều kiện thử, phương pháp cân và thời gian chu kỳ giống nhau.
 
-**Địa điểm dự án**: Nigeria
-**Model thiết bị**: Máy ép nước dừa dòng 300
-**Kết quả dự án**:
-- Sản lượng dầu dừa tăng gấp 3 lần
-- Chất lượng sản phẩm đạt tiêu chuẩn quốc tế
-- Thúc đẩy phát triển kinh tế địa phương
+## Quy trình thử mẫu
 
-## Dự án đổi mới công nghệ
+1. Gửi tên nguyên liệu, ảnh hoặc mẫu đại diện, mục tiêu sản phẩm và sản lượng dự kiến.
+2. Thống nhất trước điều kiện thử: độ ẩm, kích thước nghiền, gia nhiệt hay ép lạnh, khối lượng mỗi mẻ và phương pháp lọc.
+3. Ghi lại model máy, cấu hình, khối lượng đầu vào, thời gian chu kỳ, lượng dầu, lượng bã và các hiện tượng bất thường.
+4. Đánh giá kết quả theo tiêu chí đã thống nhất; nếu cần đo dầu còn lại trong bã hoặc chỉ tiêu chất lượng, sử dụng phương pháp phòng thử nghiệm được hai bên chấp nhận.
 
-### Dự án nâng cấp thông minh
+Kết quả thử chỉ áp dụng cho mẫu và điều kiện đã ghi. Khi thay đổi giống nguyên liệu, độ ẩm, cách bảo quản hoặc tiền xử lý, cần xác minh lại.
 
-Cung cấp dịch vụ nâng cấp thông minh cho một nhà máy lớn, ứng dụng công nghệ IoT để giám sát và quản lý từ xa.
+## Kiểm tra máy trước khi giao
 
-### Dự án cải tạo tiết kiệm năng lượng
+- Kiểm tra nhãn máy, model, cấu hình và phạm vi cung cấp theo hợp đồng.
+- Kiểm tra bơm, van, xi lanh, đường ống, điểm rò rỉ và chức năng dừng khẩn cấp.
+- Chạy không tải và chạy có tải bằng nguyên liệu đã thống nhất.
+- Xác nhận tài liệu vận hành, danh mục phụ tùng, yêu cầu lắp đặt và trách nhiệm hiệu chỉnh.
+- Lập biên bản nghiệm thu, ghi rõ hạng mục đạt, hạng mục cần sửa và điều kiện thử lại.
 
-Hỗ trợ khách hàng thực hiện cải tạo tiết kiệm năng lượng, giảm tổng mức tiêu thụ năng lượng 35% và nhận được trợ cấp tiết kiệm năng lượng từ chính phủ.
+## Yêu cầu thử mẫu, nghiệm thu và báo giá
+
+- [Gửi yêu cầu thử mẫu hoặc đặt lịch kiểm tra máy](/vi/contact/)
+- [Xem các tùy chọn máy ép dầu thủy lực tùy chỉnh](/vi/products/customized-hydraulic-oil-press)
+
+Khi mua hàng, hãy đưa model, cấu hình, phạm vi giao hàng, tiêu chí nghiệm thu, bảo hành và hỗ trợ sau bán hàng vào báo giá hoặc hợp đồng. Không dùng video hoặc mô tả tiếp thị thay cho điều kiện nghiệm thu bằng văn bản.

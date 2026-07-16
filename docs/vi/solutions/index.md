@@ -1,6 +1,6 @@
 ---
-title: "Oil Processing Solutions | Equipment List & Factory Quote"
-description: "Explore turnkey oil processing solutions by oilseed and process, including press selection, filtration, packaging, and factory quotes."
+title: "Giải pháp chế biến dầu | Quy trình, thiết bị và báo giá"
+description: "Chọn quy trình theo từng nguyên liệu: làm sạch, sấy/rang, ép nóng hoặc lạnh, lọc, tinh luyện và đóng gói; đối chiếu công suất, thử mẫu và báo giá."
 keywords: dây chuyền ép dầu, giải pháp, báo giá, giá nhà máy, sau bán
 ---
 
@@ -8,16 +8,16 @@ keywords: dây chuyền ép dầu, giải pháp, báo giá, giá nhà máy, sau 
 
 ## Hạng mục theo loại nguyên liệu
 
-### 🌾 [Giải pháp hạt dầu](./seed-oils)
+### 🌾 [Giải pháp hạt dầu](/vi/solutions/seed-oils)
 Bao gồm đậu nành, đậu phộng, mè, hạt cải... cung cấp giải pháp xử lý toàn diện từ cơ sở nhỏ đến nhà máy lớn.
 
-### 🥜 [Giải pháp dầu từ hạt và nhân](./nuts)
+### 🥜 [Giải pháp dầu từ hạt và nhân](/vi/solutions/nuts)
 Tập trung vào dừa, óc chó, hạnh nhân, hồ trăn... đáp ứng nhu cầu dầu ăn cao cấp và nguyên liệu mỹ phẩm.
 
-### 🥑 [Giải pháp dầu từ quả](./fruits)
+### 🥑 [Giải pháp dầu từ quả](/vi/solutions/fruits)
 Dành cho bơ, hạt nho, hạt bí... cung cấp giải pháp chế biến dầu dinh dưỡng chuyên nghiệp.
 
-### ⚙️ [Giải pháp dầu đặc sản](./special-oils)
+### ⚙️ [Giải pháp dầu đặc sản](/vi/solutions/special-oils)
 Bao gồm cám gạo, mầm ngô, hạt thầu dầu và các nguyên liệu đặc thù khác, phù hợp cho nhiều ứng dụng thị trường.
 
 ## Báo giá dây chuyền thường bao gồm gì
@@ -33,7 +33,7 @@ Giá dây chuyền ép dầu không chỉ là giá một máy. Báo giá thườ
 
 ## Lợi thế công nghệ chính
 
-### 🥤 [Tổng quan giải pháp chiết rót](./filling-packages)
+### 🥤 [Tổng quan giải pháp chiết rót](/vi/solutions/filling-packages)
 Giải pháp chiết rót cho chai, túi và can, bao gồm chọn thiết bị, cấu hình công suất, quy trình và hỗ trợ sau bán cho dầu ăn và dầu đặc sản.
 
 ### 🎯 Điều khiển thông minh

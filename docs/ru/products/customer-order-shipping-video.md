@@ -1,91 +1,65 @@
 ---
-title: Видео заказа и отгрузки клиента - Shengshi Hecheng
-description: Shandong Shengshi Hecheng видео заказа и отгрузки клиента, включая упаковку оборудования, погрузку и транспортировку, приемку клиента и другие процессы
-keywords: Видео заказа и отгрузки клиента цена, купить Видео заказа и отгрузки клиента, коммерческое предложение, завод-производитель, поставка из Китая, сервис и запчасти
+title: "Видео упаковки и отгрузки маслопрессов | Цена и КП"
+description: "Изучите архивы упаковки и погрузки, затем проверьте в КП способ упаковки, комплектность, экспортные документы, страхование и условия поставки."
+keywords: видео отгрузки маслопресса, упаковка оборудования экспорт, упаковочный лист, доставка гидравлического пресса, КП производителя, приемка груза
 ---
-#  <center> Видео заказа и отгрузки клиента</center>
+# <center>Видео упаковки и отгрузки заказов</center>
 
-## Обзор услуги отгрузки
+Это записи отдельных отгрузок, а не обещание одинаковой упаковки, перевозчика или срока для каждого заказа. Подписанные КП и упаковочный лист должны определять состав оборудования, разборку для перевозки, раму или ящик, защиту от влаги и коррозии, план контейнера, документы, страхование и Incoterm.
 
-Shandong Shengshi Hecheng Machinery Co., Ltd. предоставляет профессиональные услуги по отгрузке оборудования, от подтверждения заказа до приемки клиента, полный сервис отслеживания для обеспечения безопасности и своевременной доставки оборудования.
+## Упаковка и погрузка
 
-Наша команда отгрузки имеет богатый опыт и может предоставлять персонализированные решения по упаковке и транспортировке в соответствии с характеристиками различного оборудования и потребностями клиентов.
-
-## Обзор отечественного сайта отгрузки
-
-### Процесс упаковки и отгрузки гидравлического маслопресса
- <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/rrY56IsqT24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### Погрузка и транспортировка оборудования
- <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/example1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-## Международная услуга отгрузки
-
-### Приемка оборудования зарубежного клиента
- <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/example2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### Процесс погрузки контейнера
- <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/example3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+### Упаковка гидравлического маслопресса
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/mjzmVves1SU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Запись упаковки гидравлического маслопресса" loading="lazy" src="https://www.youtube.com/embed/rrY56IsqT24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### Погрузка оборудования
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/--mJg9RNZwA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Запись погрузки оборудования для прессования масла" loading="lazy" src="https://www.youtube.com/embed/mjzmVves1SU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### Дополнительная запись подготовки к отправке
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/jjbll8mzB70" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Дополнительная запись подготовки оборудования к отправке" loading="lazy" src="https://www.youtube.com/embed/--mJg9RNZwA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+## Экспортные отгрузки
+
+### Модель 426-390AC для проекта холодного отжима миндаля
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/qbhvJQ6amLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Экспортная отгрузка гидравлического пресса модели 426" loading="lazy" src="https://www.youtube.com/embed/jjbll8mzB70" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### Дополнительная запись международной отгрузки
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/U077XRSuR-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Дополнительная запись международной отгрузки оборудования" loading="lazy" src="https://www.youtube.com/embed/qbhvJQ6amLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Особенности услуги отгрузки
+### Несколько гидравлических прессов перед отправкой
+<div class="video-container">
+  <iframe title="Несколько гидравлических маслопрессов подготовлены к отправке" loading="lazy" src="https://www.youtube.com/embed/U077XRSuR-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-### Профессиональная упаковка
-- **Ударопрочная упаковка**: Использование профессиональных упаковочных материалов для предотвращения повреждений от вибрации во время транспортировки
-- **Защита от влаги**: Обработка поверхности оборудования от влаги для предотвращения ржавчины и коррозии
-- **Фиксация усиления**: Оборудование надежно фиксируется во время транспортировки для обеспечения безопасности
+## Что согласовать по упаковке до заказа
 
-### Логистическое отслеживание
-- **Отслеживание в реальном времени**: Предоставление запроса информации о логистике, всегда знать местоположение товаров
-- **Услуга страхования**: Предоставление страховки на транспортировку оборудования для защиты интересов клиентов
-- **Своевременное уведомление**: Своевременное уведомление о ключевых этапах, таких как отгрузка и прибытие
+1. Модель, количество, отдельные принадлежности и узлы, снимаемые для перевозки.
+2. Открытая рама, стальной поддон, деревянный ящик или крепление в контейнере, включая защиту от влаги и коррозии.
+3. Точки подъема, центр тяжести, размеры мест, масса брутто/нетто и очередность загрузки.
+4. Коммерческий инвойс, упаковочный лист, руководства, сертификаты, таможенные данные и документы страны назначения.
+5. Incoterm, порт или адрес, граница перевозчика, сторона страхования и ориентировочный график.
 
-### Услуга приемки
-- **Приемка на месте**: Приемка оборудования перед отгрузкой для обеспечения целостности оборудования
-- **Приемка по прибытии**: Руководство клиентов по проведению приемки по прибытии и предоставление технической поддержки
-- **Послепродажное отслеживание**: Сервис отслеживания после установки и наладки оборудования
+## Контроль при отгрузке и приемке
 
-## Отзывы клиентов
+- До погрузки сопоставьте упаковочный лист с шильдиками, принадлежностями, инструментом, запасными частями и документами.
+- Если это включено в договор, зафиксируйте упаковку и контейнер датированными фотографиями или видео.
+- При получении до распаковки осмотрите контейнер, места, видимые следы удара или коррозии и незакрепленные детали; оформите замечания.
+- Монтаж, пусконаладка, обучение, командировочные расходы и удаленная поддержка определяются КП и договором и не следуют автоматически из видео.
 
-*"Услуга отгрузки Shengshi Hecheng очень профессиональна, упаковка оборудования прочная, транспортировка безопасная, оборудование целое по прибытии."*
-—— Г-н Ли, Клиент из Шаньдуна
-
-*"Международная услуга отгрузки внимательна, отслеживание логистики своевременное, что нас очень успокаивает."*
-—— Г-н Ahmed, Пакистанский клиент
-
-## Свяжитесь с нами
-
-Если вам нужно узнать больше информации об услугах отгрузки, или у вас есть особые потребности в отгрузке, пожалуйста, свяжитесь с нами:
-
-- **Горячая линия консультаций по отгрузке**: +8619906365856
-- **Email логистической службы**: shipping@shengshihecheng.com
-- **Техническая поддержка**: Круглосуточно онлайн
+[Запросить способ упаковки, границу фрахта и цену производителя](/ru/contact/)
 
 ---
 
-*Shandong Shengshi Hecheng Machinery Co., Ltd. · Профессиональное производство · Качественный сервис*
 <style>
 .video-container {
   position: relative;
@@ -113,4 +87,4 @@ Shandong Shengshi Hecheng Machinery Co., Ltd. предоставляет про�
 }
 </style>
 
-*Shandong Shengshi Hecheng Machinery Co., Ltd. · Профессиональное производство · Качественный сервис*
+*Записи отгрузки следует проверять вместе с подписанными упаковочным листом, КП и условиями перевозки.*

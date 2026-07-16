@@ -1,6 +1,6 @@
 ---
 title: "How to Choose a Hydraulic Oil Press Model | 300 to 500 Series"
-description: Learn how to choose the right hydraulic oil press model by comparing raw material load, batch size, cold press demand, and 300 to 500 series differences.
+description: Learn how to choose a hydraulic oil press by separating 300/325 hot-press projects from 355-500 direct cold-press projects and verifying each quote by trial.
 keywords: choose hydraulic oil press model, oil press model selection, 300 325 500 oil press, hydraulic oil press buying guide
 date: "2026-03-15"
 ---
@@ -18,11 +18,11 @@ Check batch size, cycle time, hot or cold press, raw material hardness, and plan
 
 ## Quick guidance by series
 
-300 and 325 series are practical for hot pressing and small-batch cold pressing.
+300 and 325 series are positioned primarily for hot pressing after cleaning, crushing, and roasting or heated conditioning. Do not select them as the default cold-press route.
 
-355, 400, and 426 series are more stable for long working hours and premium cold pressing.
+355, 400, 426, 480, and 500 series are the direct hydraulic cold-press range: clean the material, use low-temperature drying only when necessary, crush it, and press it directly without default high-temperature conditioning between crushing and pressing.
 
-480 and 500 series are better for larger projects, harder materials, and higher structural demand.
+Within the 355-500 range, compare barrel configuration, actual load, complete cycle, material behavior, and required product quality rather than assuming a result from model number alone.
 
 ## Questions to answer before buying
 
@@ -31,6 +31,10 @@ Which oilseed will be your main product? Is the project retail or bulk? How many
 ## Do not forget supporting equipment
 
 Pretreatment, filtration, filling, spare parts, and operator training affect results just as much as the press model.
+
+## Quote, purchase, and FAT/SAT boundaries
+
+Before issuing a purchase order, define the raw material, process route, barrel, utilities, exclusions, buyer responsibilities, trial method, and acceptance criteria in the quotation and contract. FAT confirms the agreed factory configuration and witnessed protocol; it does not prove site output under different material or utilities. SAT is separate and starts only after the buyer provides the agreed site, utilities, operators, and representative material. No capacity, oil recovery, service, or commissioning result is fixed unless it is expressly written and verified under the agreed conditions.
 
 ## Conclusion
 

@@ -1,62 +1,71 @@
 ---
-title: "Stoppering machine series | Specs, Models & Factory Quote"
-description: "Browse stoppering machine series for edible oil and liquid packaging lines. Compare models, capacity ranges, and request factory pricing with process guidance."
-keywords: Corking machine series, corking machine, cork pressing machine, wine corking equipment, glass bottle corking machine, gift box oil packaging equipment
+title: "Corking Machines | Price, Models & Factory Quote"
+description: "Compare manual, semi-automatic and automatic corking machines for glass bottles. Confirm cork and neck samples, line speed and service scope for pricing."
+keywords: corking machine price, corking machine manufacturer, wine bottle corker quote, automatic corking equipment, semi automatic corker, bottling line procurement
 image: "/images/filling-solutions/corking.webp"
 ---
 
-# Stoppering machine series
+# Corking machines for glass bottle lines
 
-![Real shots of fully automatic corking machine](/images/filling-solutions/corking.webp)
+![Automatic corking machine](/images/filling-solutions/corking.webp)
 
-The corking machine is mainly used for the pressing process of cork stoppers, synthetic stoppers and other stoppers. It is commonly used in the packaging lines of wine, fruit wine, spirits and some high-end glass bottle specialty oil products. For projects that pursue a gift box feel, a collection feel and a high-end packaging experience, the stoppering process can significantly enhance the product image.
+Corking follows filling and creates the primary closure for wine, fruit wine and other products packaged with an approved cork system. Reliable selection depends on the interaction between bottle neck, cork material, cork dimensions and insertion method. The same machine should not be assumed to handle every cork and bottle combination.
 
-## Applicable products
+## Position in the production line
 
-- Wine, fruit wine, rice wine and other alcoholic products
-- Walnut oil, grape seed oil, olive oil and other high-end glass bottle gift box oils
-- Specialty packaging items that require the use of cork or decorative stoppers
+**Filling -> cork preparation and feeding -> cork insertion -> closure inspection -> capsule shrinking if required -> labeling -> packing**
 
-## Common configuration ideas
+For an integrated project, the corker must be synchronized with the filler and downstream conveyor. For a stand-alone purchase, bottle presentation and operator handling need to be defined separately.
 
-- Single machine plugging: suitable for small batch, medium and low speed production
-- Connected plugging: suitable for forming a continuous packaging line with filling, cap shrinking and labeling
-- Adjustable structure: adapts to different bottle heights, bottle mouth and plug body specifications
+## Cork and bottle compatibility
 
-## Selection concerns
+The technical review should cover:
 
-- Is the concentricity between the size of the bottle mouth and the bottle body stable?
-- Is the material of the plug body natural cork, synthetic plug or decorative plug?
-- Whether it matches the front-end filling rhythm and the back-end cap shrinking station
-- Is it necessary to reduce stopper breakage and bottle mouth scratches?
+- Glass bottle drawing, neck tolerance and bottle stability
+- Natural cork, synthetic cork or other approved stopper material
+- Cork dimensions, storage and any customer-specified preparation
+- Required insertion position and acceptable bottle-surface marks
+- Manual loading, assisted feeding or automatic cork supply
+- Product leakage test and downstream capsule requirement
 
-## Typical matching relationship
+## Available corking machines
 
-1. [Filling machine series](/en/solutions/filling/)
-2. Stopping machine series
-3. [Cap heat shrinking machine series](/en/solutions/cap-shrinking/)
-4. [Labeling machine series](/en/solutions/labeling/)
+| Model | Procurement focus |
+| --- | --- |
+| [Automatic corking machine](/en/products/filling/automatic-corking-machine) | Automatic bottle flow, cork feeding and line integration |
+| [Semi-automatic corking machine](/en/products/filling/semi-automatic-corking-machine) | Operator cycle, bottle positioning and format flexibility |
+| [Manual corking machine](/en/products/filling/manual-corking-machine) | Low-complexity operation and operator-controlled loading |
 
-## Benchmark reference model
+Published model data is available on the linked product pages. The final machine and tooling must be confirmed with approved bottle and cork samples.
 
-Corking machines pay more attention to the adaptability of the cork body and the connection speed in wine and high-end gift box oil projects. The model name can directly enter the corresponding product page.
+## Purchase decisions that affect price
 
-| Model | Excerpt of public parameters | Applicable instructions |
-| --- | --- | --- |
-| [Fully automatic corking machine DS-1 / DS-4 / DS-6](/en/solutions/corking/automatic-corking-machine) | 2500 / 4500 / 6000 bottles/hour; 1 / 4 / 6 corking heads; 1.5 / 3 / 3 kW | Suitable for continuous wine packaging lines |
-| [Semi-automatic corking machine DS series](/en/solutions/corking/semi-automatic-corking-machine) | The public page follows the DS-1 / DS-4 / DS-6 production capacity range; suitable for small and medium-sized batches of cork stoppers | Suitable for start-up wine or gift box oil projects |
-| [Manual corking machine](/en/solutions/corking/manual-corking-machine) | Suitable for corked glass bottles; as a low investment solution or experimental small batch packaging | Suitable for low-speed sample lines and trial production |
+- Manual, semi-automatic or automatic operating mode
+- Cork feeding, sorting and missing-cork detection scope
+- Number of bottle and cork formats included
+- Conveyor, bottle spacing, guarding and control interface
+- Integration with a filler or purchase as a stand-alone unit
+- Factory testing, export packing, delivery, installation and training scope
 
-## Direct access to specific models
+## Quote request checklist
 
-- [Fully automatic corking machine](/en/solutions/corking/automatic-corking-machine)
-- [Semi-automatic corking machine](/en/solutions/corking/semi-automatic-corking-machine)
-- [Manual corking machine](/en/solutions/corking/manual-corking-machine)
-- [Filling and packaging equipment parameter library overview](/en/products/filling-equipment)
+Send bottle drawings and samples, cork specification and samples, target output, operating schedule, upstream filler information, downstream capsule or labeling process, utilities, layout and destination. State the required finished insertion condition and the proposed acceptance test.
 
-## Related pages
+## FAT, installation and after-sales
 
-- [Cap heat shrinking machine series](/en/solutions/cap-shrinking/)
-- [Brewing equipment series](/en/solutions/brewing/)
-- [Sealing machine series](/en/solutions/sealing/)
-- [Contact us for wine packaging line solutions](/en/contact/)
+FAT should verify bottle transfer, cork feeding, insertion consistency, bottle damage, jams, changeover and interlocks using the agreed samples. The quote must state who supplies test consumables, conveyors, installation labor, travel, local lifting, commissioning, operator training and recommended spare parts. Warranty terms and support response follow the signed commercial documents, not an assumed standard package.
+
+## Related line modules
+
+- [Wine bottling equipment](/en/solutions/brewing/)
+- [Capsule shrinking machines](/en/solutions/cap-shrinking/)
+- [Labeling machines](/en/solutions/labeling/)
+- [Packing and palletizing](/en/solutions/packing-palletizing/)
+
+## Request corking machine pricing
+
+Provide the bottle and cork combination to receive the suitable configuration, supply boundary and manufacturer quote.
+
+- [Request a corking machine quote](/en/contact/)
+
+<!-- quote-cta -->

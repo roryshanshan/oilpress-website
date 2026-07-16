@@ -1,6 +1,6 @@
 ---
-title: "Guide de coût d'une ligne de production d'huile alimentaire : ..."
-description: Voyez ce qui influence le coût d'une ligne de production d'huile alimentaire, de la taille de la presse hydraulique et du prétraitement à la filtration
+title: "Coût d'une ligne d'huile alimentaire : guide et devis"
+description: "Identifiez les postes qui déterminent le coût d'une ligne d'huile alimentaire : presse, prétraitement, filtration, remplissage, extension et devis fabricant."
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-05"
 ---

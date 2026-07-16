@@ -1,26 +1,27 @@
 ---
-title: Liquor filling two-line machine Price | Manufacturer & Quote
-description: "Get factory pricing for Liquor filling two-line machine. Suitable for edible oil projects with model selection, procurement support, and after-sales…"
-keywords: Liquor filling two-line machine price, Liquor filling two-line machine quote, Liquor filling two-line machine manufacturer, Liquor filling two-line machine supplier, procurement, after-sales
+title: "GF Liquor Filling and Capping Monoblock | Price Quote"
+description: "Compare GF24-6 to GF60-15 liquor filling and capping monoblocks for 6,000-20,000 bottles/hour, with factory pricing and line service."
+keywords: "GF liquor filling and capping monoblock price, GF liquor filling and capping monoblock manufacturer quote, liquor bottling monoblock, GF24-6 GF60-15, 6000-20000 bottles per hour, complete line integration, export packing, commissioning, after-sales service"
 image: "/images/filling-products/baijiu-filling-capping-monoblock.webp"
 ---
-# Liquor filling two-line
 
-![Liquor filling two-line](/images/filling-products/baijiu-filling-capping-monoblock.webp)
+# Liquor Filling and Capping Monoblock
 
-The two-line liquor filling machine can be used as a reference for specific models in the combined machine and filling supporting bus. This page organizes model positioning, parameter information and supporting suggestions based on public product information to facilitate preliminary selection and page jumps.
+![Liquor Filling and Capping Monoblock](/images/filling-products/baijiu-filling-capping-monoblock.webp)
 
-## Model positioning
+The GF liquor monoblock combines measured filling and cap closing for non-carbonated spirits and similar free-flowing liquids. It is intended to reduce transfers between two process stations, but the correct GF model still depends on the liquid, bottle, closure and required line rate.
 
-- Series: [Combined machine and filling supporting bus](/en/solutions/filling-packages)
-- Parameter overview entrance: [Filling and packaging equipment parameter library](/en/products/filling-equipment#fp-baijiu-dual)
-- Applicable scenarios: More suitable for filling and capping continuous stations for non-gas liquids.
+## Application and purchasing fit
 
-## Summary of public information
+- Product family: [Filling and packaging line overview](/en/solutions/filling-packages)
+- Parameter reference: [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+- Select the number of filling and capping heads against the agreed bottle format and sustained line requirement, not the headline output alone.
+- Confirm that the proposed metering method suits the product and fill-volume range.
+- Plan bottle infeed, cap supply, discharge accumulation and interfaces with rinsing, labeling and packing equipment.
 
-This machine is used for quantitative filling and sealing of non-gas liquids.
+## Published reference parameters
 
-## Public parameter table
+The following table is retained as the published model reference. Final performance and compatibility must be confirmed in the written quotation and acceptance specification.
 
 <table>
   <tbody>
@@ -83,14 +84,23 @@ This machine is used for quantitative filling and sealing of non-gas liquids.
   </tbody>
 </table>
 
-## Supporting suggestions
+## What to provide for a manufacturer quotation
 
-- First look at the series page: [Combined machine and filling supporting bus](/en/solutions/filling-packages)
-- Let’s look at the parameter overview again: [The position of the two-line liquor filling line in the parameter library](/en/products/filling-equipment#fp-baijiu-dual)
-- If it is a complete line project, you can continue to view [Filling Package Overview](/en/solutions/filling-packages) and [Production Line Overview](/en/solutions/production-lines).
+- Liquid name, viscosity range, alcohol content where relevant, foaming behavior and required contact materials.
+- Bottle and cap samples, target fill volumes, permitted fill tolerance and all planned format changes.
+- Required output at each format, available floor plan, conveyor height and utility conditions.
+- Requested FAT method, line interfaces, export packing and on-site commissioning scope.
 
-## Related pages
+Use representative samples for the factory acceptance test whenever practical. The agreed test material, run duration, sampling method and pass limits should be written into the purchase specification.
 
+## Price, delivery, and written service scope
+
+Manufacturer pricing depends on the confirmed machine configuration, format parts, controls, guarding, line interfaces, utilities and destination. Delivery schedule, export packing, installation, commissioning, training, spare parts and after-sales support apply only as stated in the written quotation and contract.
+
+## Related equipment and next step
+
+- [Filling and packaging line overview](/en/solutions/filling-packages)
 - [Filling and packaging equipment parameter library](/en/products/filling-equipment)
-- [Combined machine and filling supporting bus](/en/solutions/filling-packages)
-- [Contact us for complete line advice](/en/contact/)
+- [Production line planning](/en/solutions/production-lines)
+- [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+- [Request a configuration-based manufacturer quotation](/en/contact/)

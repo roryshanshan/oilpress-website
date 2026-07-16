@@ -1,143 +1,34 @@
 ---
-title: Solution de graines de périlla (huile de périlla) devis
-description: "Solution clé en main Solution de graines de périlla (huile de périlla) : process, presse hydraulique, filtration, liste d’équipements et devis usine."
-keywords: Solution de graines de périlla (huile de périlla) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
-image: "/images/an-overview-of-the-hot-pressing-process-of-perilla-a2e7edd577.webp"
+title: "Presse à froid pour huile de périlla | Prix et devis"
+description: "Huile de périlla à froid : nettoyage, séchage doux, broyage, presse hydraulique et filtration. Validez l'essai sur matière, le prix fabricant et le devis."
+keywords: presse huile périlla prix, ligne graines périlla, pressage à froid, devis fabricant, achat usine, filtration, SAV
+image: "/images/an-overview-of-the-cold-pressing-process-of-perill-76371f15c4.webp"
 ---
-# Solution de graines de périlla (huile de périlla)
+# Ligne d'huile de périlla pressée à froid
 
-## Aperçu
+Pour une huile de périlla à faible traitement thermique, la ligne doit limiter le délai entre broyage et pressage. Les séries 355 à 500 sont à étudier lorsque la matière est propre, sèche et suffisamment broyée pour être chargée directement dans la cuve hydraulique.
 
-Les graines de périlla sont une importante culture oléagineuse, l'huile de périlla a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de périlla, des petits ateliers aux grandes usines avec un équipement et des services complets.
+![Pressage à froid des graines de périlla](/images/an-overview-of-the-cold-pressing-process-of-perill-76371f15c4.webp)
 
-## Caractéristiques de graines de périlla
+## Procédé principal à froid
 
-### 📊 Paramètres de base
-- **Teneur en huile** : 40-50%
-- **Teneur en protéines** : 15-20%
-- **Acides gras principaux** : Acide α-linolénique (50-60%), Acide linoléique (15-20%), Acide oléique (15-20%)
-- **Température appropriée** : Température de pressage contrôlée à 60-80℃
+Criblage -> aspiration des poussières -> séchage basse température si nécessaire -> broyage à haute vitesse -> pressage hydraulique direct -> décantation et filtration -> stockage protégé de l'oxydation.
 
-### 🌱 Caractéristiques de croissance
-- **Cycle de croissance** : 100-120 jours
-- **Climat approprié** : Zones chaudes et humides
-- **Exigences du sol** : Sol fertile et bien drainé
-- **Production annuelle** : Production annuelle asiatique dépasse 100 000 tonnes
+Une voie avec conditionnement thermique peut être étudiée pour un profil aromatique différent, mais elle doit rester séparée de la spécification « pressé à froid ».
 
-## Technologie de Transformation
+![Référence de conditionnement thermique de la périlla](/images/an-overview-of-the-hot-pressing-process-of-perilla-a2e7edd577.webp)
 
-### Hot Pressing Process
-- Les graines de périlla passent par le criblage, cleaning, frying, crushing, and then steaming before finally being fed into the hydraulic oil press bucket for pressing.
-- ![Perilla Seeds](/images/an-overview-of-the-hot-pressing-process-of-perilla-a2e7edd577.webp)
+## Presse et équipements complémentaires
 
-### Cold Pressing Process
-- Les graines de périlla passent par le criblage, cleaning, and crushing before being directly fed into the hydraulic oil press bucket for pressing.
-- ![Perilla Seeds](/images/an-overview-of-the-cold-pressing-process-of-perill-76371f15c4.webp)
+- [Prétraitement des graines](/fr/products/pre-treatment)
+- [Broyeur haute vitesse 11 kW](/fr/products/11kw-high-speed-pulverizer)
+- Presses [355](/fr/products/355), [400](/fr/products/400), [426](/fr/products/426), [480](/fr/products/480) ou [500](/fr/products/500)
+- [Filtration après pressage](/fr/products/pneumatic-filter-press)
 
-## Référence vidéo de pressage à chaud des graines de périlla
+## Prix fabricant, test et service après-vente
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/mPu9Fmnkg4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Envoyez un échantillon, l'humidité, la propreté, la quantité quotidienne, la limite de température, la tension et la destination. L'essai doit confirmer la granulométrie et le cycle avant le choix final. Le devis précisera cuves, consommables, pièces, assistance à l'installation et conditions de SAV.
 
-## Equipment Recommendations
-
-### Recommended Equipment
-- **Perilla Seed**: 300AC-390/325AC-390/355AC-390/400AC-390
-
-## Avantages Techniques
-
-### 🎯 Precise Control
-- Temperature control: ±2℃ precision
-- Pressure control: Intelligent adjustment
-- Humidity control: Optimal moisture content
-
-### 💧 Oil Quality Guarantee
-- Low-temperature process preserves nutrition
-- Physical pressing without chemical residues
-- Oil yield up to 42-46%
-
-### 🔄 Production Continue
-- Fonctionnement ininterrompu 24 heures
-- Alimentation et déchargement automatisés
-- Alarme de panne intelligente
-
-## Applications des Produits
-
-### 🍳 Edible Oil
-- Perilla oil: Main edible oil variety
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
-
-### 💊 Health Products
-- Perilla oil: Nutritional supplement
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
-
-### 💊 Medicinal
-- Perilla oil: Traditional Chinese medicine
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
-
-## Market Analysis
-
-### 📈 Development Trends
-- Growing demand for Ω-3 health oils and traditional medicine
-- Expanding high-end perilla oil market
-- Increasing export trade opportunities
-
-### 🎯 Target Markets
-- Edible oil processing enterprises
-- Food processing enterprises
-- Health product enterprises
-- Export trade enterprises
-
-## Normes de Qualité
-
-### 🏆 Normes de Qualité des Produits
-- Complies with national perilla oil standards
-- Complies with food safety standards
-- Complies with export food standards
-- Complies with organic food certification
-
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color and transparency testing
-- Heavy metal content testing
-- Pesticide residue testing
-
-## Développement Durable
-
-### 🌱 Production Environnementale
-- Recyclage et utilisation des déchets
-- Processus d'économie d'énergie et de réduction d'émissions
-- Normes de production verte
-
-### 🔄 Utilisation des Ressources
-- Utilisation complète des sous-produits
-- Extension de la chaîne industrielle
-- Modèle d'économie circulaire
-
-### 🌍 Responsabilité Sociale
-- Soutien à l'augmentation des revenus des agriculteurs
-- Assurer la sécurité alimentaire
-- Protéger l'environnement écologique
-
-## Contactez-nous
-
-If you are interested in perilla seed pressing solutions, please contact our technical team:
-
-- 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
-
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable perilla seed pressing solution.
-
-## Obtenir prix & devis
-
-Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
-
-- [Obtenir prix & devis](/fr/contact/)
+- [Demander l'essai et le devis de la ligne périlla](/fr/contact/)
 
 <!-- quote-cta -->

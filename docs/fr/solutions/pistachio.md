@@ -1,80 +1,28 @@
 ---
-title: Solutions de pistache (huile de pistache) - Shengshi Hecheng d...
-description: "Demandez un devis pour Solutions de pistache (huile de pistache) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV."
-keywords: Solution de pistache (huile de pistache) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+title: "Huile de pistache à froid | Ligne, prix fabricant et devis"
+description: "Huile de pistache à froid : décorticage, tri, broyage, pressage et filtration. Validez l'essai sur matière, le prix fabricant, le devis et le SAV."
+keywords: presse huile pistache prix, ligne huile pistache, pressage à froid, devis fabricant, achat usine, essai matière, SAV
 ---
-# Solution de pistache (huile de pistache)
+# Ligne d'huile de pistache : procédé et achat fabricant
 
-## Aperçu
+La pistache destinée au pressage doit être séparée de sa coque et triée pour éliminer les amandes altérées. Le coût de la matière rend particulièrement important le réglage du broyage, de la charge et de la récupération d'huile avant l'achat d'une ligne.
 
-La pistache est une noix nutritive, riche en huile de haute qualité, et peut extraire une huile de pistache précieuse. L'huile de pistache a une saveur unique et des composants nutritionnels, largement utilisée dans l'huile alimentaire haut de gamme et la transformation alimentaire. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de pistache, répondant aux besoins de production d'échelles différentes.
+## Procédé recommandé
 
-## Caractéristiques de pistache
+Décorticage -> tri et nettoyage -> séchage doux si nécessaire -> broyage uniforme -> chargement direct dans la cuve -> pressage hydraulique à froid -> décantation -> filtration et stockage à l'abri de l'air et de la lumière.
 
-### 📊 Paramètres de base
-- **Teneur en huile** : 50-60%
-- **Teneur en protéines** : 15-20%
-- **Acides gras principaux** : Acide oléique (50-60%), Acide linoléique (25-35%)
-- **Température appropriée** : Température de pressage contrôlée à 75-95℃
+Un essai sur l'amande réelle est recommandé, car le calibre, la torréfaction éventuelle et l'humidité modifient le compactage. Aucun rendement ou débit ne doit être garanti sans ces données.
 
-### 🌱 Caractéristiques de croissance
-- **Cycle de croissance** : L'arbre a un long cycle de croissance, le fruit mûrit sur plusieurs années
-- **Climat approprié** : Climat aride et chaud
-- **Exigences du sol** : Sol bien drainé et alcalin
-- **Production annuelle** : Production mondiale de pistache d'environ 1 million de tonnes
+## Équipements à chiffrer
 
-## Technologie de Transformation
+- Décorticage et [prétraitement](/fr/products/pre-treatment)
+- [Broyeur haute vitesse](/fr/products/11kw-high-speed-pulverizer)
+- [Presse hydraulique à choisir selon le lot](/fr/products/)
+- [Filtre-presse pneumatique](/fr/products/pneumatic-filter-press)
+- [Conditionnement de l'huile](/fr/solutions/filling-packages/)
 
-### Traditional Process Flow
-To be supplemented
+Pour un devis usine, précisez pistache entière ou amande, humidité, quantité par lot, qualité d'huile, tension et pays de livraison. L'offre peut inclure pièces recommandées, documentation, mise en service à distance ou sur site selon contrat, et conditions de service après-vente.
 
-## Normes de Qualité
-
-### 🏆 Normes de Qualité des Produits
-- Complies with national edible oil standards
-- Complies with food safety standards
-- Complies with export food standards
-- Complies with organic food certification
-
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color and transparency testing
-- Heavy metal content testing
-- Aflatoxin testing
-- Pesticide residue testing
-
-## Développement Durable
-
-### 🌱 Production Environnementale
-- Recyclage et utilisation des déchets
-- Processus d'économie d'énergie et de réduction d'émissions
-- Normes de production verte
-
-### 🔄 Utilisation des Ressources
-- Utilisation complète des sous-produits
-- Extension de la chaîne industrielle
-- Modèle d'économie circulaire
-
-### 🌍 Responsabilité Sociale
-- Soutien à l'augmentation des revenus des agriculteurs
-- Assurer la sécurité alimentaire
-- Protéger l'environnement écologique
-
-## Contactez-nous
-
-If you are interested in pistachio pressing solutions, please contact our technical team:
-
-- 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
-
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable pistachio pressing solution.
-
-## Obtenir prix & devis
-
-Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
-
-- [Obtenir prix & devis](/fr/contact/)
+- [Demander un essai et un prix fabricant](/fr/contact/)
 
 <!-- quote-cta -->

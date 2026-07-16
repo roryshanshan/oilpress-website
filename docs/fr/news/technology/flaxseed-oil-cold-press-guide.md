@@ -1,6 +1,6 @@
 ---
-title: "Guide de pressage à froid de l'huile de lin : procédé, choix d..."
-description: Guide pratique sur l'huile de lin pressée à froid couvrant le traitement basse température, le choix d'une presse hydraulique
+title: "Huile de lin à froid : procédé et choix de presse"
+description: "Suivez le pressage à froid du lin, de la préparation à la filtration, et choisissez une presse hydraulique adaptée avant de demander prix, devis et SAV."
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-10"
 ---

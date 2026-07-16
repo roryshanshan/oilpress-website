@@ -1,6 +1,6 @@
 ---
-title: "Cách chọn bộ lọc dầu cho dây chuyền dầu ăn | Hydraulic Oil…"
-description: Tìm hiểu cách chọn bộ lọc dầu phù hợp cho dây chuyền dầu ăn dựa trên sản lượng mỗi ngày, mục tiêu độ trong, cặn nguyên liệu và kế hoạch mở rộng sau này.
+title: "Chọn bộ lọc cho dây chuyền dầu ăn"
+description: "Chọn lọc theo sản lượng ngày, loại cặn, độ trong, nhiệt độ dầu, diện tích lọc, vật liệu tiếp xúc, thời gian vệ sinh và công đoạn sau lọc."
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-02"
 ---

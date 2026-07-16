@@ -1,18 +1,12 @@
 ---
-title: "Get Price & Quote | Hydraulic Oil Press Manufacturer"
-description: "Contact Shengshi Hecheng for hydraulic oil press prices, production-line quotes, model selection, and after-sales support worldwide."
+title: "Hydraulic Oil Press Price & Quote | Contact Manufacturer"
+description: "Contact Shengshi Hecheng for oil press prices, production-line quotes, model selection, delivery, and destination-specific after-sales scope."
 keywords: oil press quote, oil press price, contact manufacturer, procurement support, after-sales service
 ---
 
 # Contact Us
 
 Talk with our sales team about hydraulic oil press model selection, pricing, delivery time, and complete line configuration.
-
-## Company Address
-
-**Shandong Shengshi Hecheng Machinery Co., Ltd**  
-Address: Qingzhou Economic Development Zone, Weifang City, Shandong Province, China  
-Postal Code: 262500
 
 ## Contact Information
 
@@ -36,6 +30,19 @@ Learn more about our hydraulic oil press solutions at [Hydraulic Oil Press](/en/
 **Shandong Shengshi Hecheng Machinery Co., Ltd**  
 Address: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China  
 Postal Code: 262500
+
+## Information for an Accurate Quote
+
+Please include the following details in your message. This lets the factory recommend the right machine instead of returning only a generic price range.
+
+- Raw material and whether you need hot pressing or cold pressing
+- Required output per batch, per hour or per day
+- New project, existing workshop expansion or replacement machine
+- Required modules: cleaning, crushing, roasting, filtering, refining or filling
+- Local voltage, frequency and phase
+- Destination country or nearest seaport
+
+You can review [hydraulic oil press models](/en/products/), [complete production lines](/en/solutions/production-lines) and [oilseed process solutions](/en/solutions/seed-oils) before submitting the inquiry.
 
 ## Online Message
 
@@ -71,59 +78,6 @@ If you have any questions or requirements, please fill out the form below and we
   </form>
 </div>
 
-<style>
-.contact-form {
-  max-width: 600px;
-  margin: 0 auto;
-}
-.form-group {
-  margin-bottom: 20px;
-}
-label {
-  display: block;
-  margin-bottom: 5px;
-  font-weight: bold;
-}
-input, textarea {
-  width: 100%;
-  padding: 10px;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  color: #333;
-}
-button {
-  background-color: #1e88e5;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  font-size: 16px;
-}
-button:hover {
-  background-color: #1565c0;
-}
-.contact-card {
-  background: #f8fafc;
-  border: 1px solid #e5e7eb;
-  border-radius: 10px;
-  padding: 16px 18px;
-  color: #111827;
-}
-.contact-title {
-  font-weight: 700;
-  margin-bottom: 8px;
-}
-.contact-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-.contact-list li {
-  margin: 6px 0;
-}
-</style>
-
 ## Transportation Guide
 
 ### Driving Directions
@@ -132,7 +86,7 @@ button:hover {
 
 ### Public Transportation
 - By Train: Get off at Qingzhou Station and take a taxi for about 15 minutes to reach the company.
-- By Air: Land at Jinan Yaoqiang International Airport or Qingdao Liuting International Airport, take the airport shuttle bus to Qingzhou, and then transfer to a taxi to the company.
+- By Air: International travelers can arrive through Jinan Yaoqiang International Airport or Qingdao Jiaodong International Airport. Airport pickup and onward travel depend on the confirmed itinerary; before departure, please have the arrival airport, flight number, date, time, passenger count, and pickup scope confirmed in writing.
 
 ::: tip Visit Appointment
 You are welcome to visit and inspect our facilities. For better reception, we recommend making an appointment 3 days in advance.

@@ -1,153 +1,78 @@
 ---
-title: Giải pháp hạt cải (Dầu cải) báo giá | giải pháp trọn gói
-description: "Giải pháp trọn gói Giải pháp hạt cải (Dầu cải): quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
-keywords: Giải pháp hạt cải (Dầu cải) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+title: "Sản xuất dầu hạt cải | Ép nóng, lọc và thiết bị"
+description: "Làm sạch, cán, điều hòa và rang hạt cải trước ép nóng; chọn máy rang, ép, lọc và bồn, có thể tinh luyện. Kiểm tra axit erucic, công suất và tỷ lệ dầu."
+keywords: "Hạt cải/canola (dầu cải) báo giá, máy ép dầu, quy trình sản xuất, mua từ nhà máy, thiết bị phụ trợ, hậu mãi"
 image: "/images/process-image-55d72f15da.webp"
 ---
-# Giải pháp hạt cải (Dầu cải)
+# Giải pháp Hạt cải/canola (dầu cải)
 
-## Tổng quan
+![Hạt cải/canola (dầu cải) - quy trình và thiết bị ép dầu](/images/process-image-55d72f15da.webp)
 
-油菜籽是重要的油料作物，菜籽油是全球主要食用油之一。山东盛世赫程机械有限公司提供专业的油菜籽压榨解决方案，从小型作坊到大型工厂的全套设备和服务。
+Hạt cải cần được làm sạch và tách đá/kim loại trước khi chọn một trong hai tuyến độc lập. Tuyến ép nóng dùng 300/325 sau nghiền, chưng sấy hoặc rang; tuyến ép lạnh dùng 355-500 sau sấy nhiệt thấp khi cần và nghiền trực tiếp, không hấp hoặc rang mặc định. Với công suất liên tục lớn, người mua cần so sánh máy trục vít hoặc tiền ép thay vì suy rộng kết quả của một máy thủy lực theo mẻ.
 
-## 油菜籽特性
+## Dữ liệu chọn quy trình
 
-### 📊 基本参数
-- **含油率**: 35-45%
-- **蛋白质含量**: 20-25%
-- **主要脂肪酸**: 油酸（55-70%）、亚油酸（15-25%）、亚麻酸（5-10%）
-- **适宜温度**: 压榨温度控制在60-80℃
+| Hạng mục | Khuyến nghị |
+| --- | --- |
+| Hàm lượng dầu tham khảo | Khoảng 35-45% |
+| Tuyến công nghệ ưu tiên | Ép nóng và ép lạnh được thử, báo giá và nghiệm thu riêng |
+| Model tuyến nóng | 300 / 325 sau chưng sấy hoặc rang |
+| Model tuyến lạnh | 355 / 400 / 426 / 480 / 500 sau nghiền trực tiếp |
+| Cách chốt công suất | Dựa trên thử mẫu, số mẻ, thời gian chu kỳ và chất lượng dầu |
 
-### 🌱 生长特性
-- **生长周期**: 90-120天
-- **适宜气候**: 凉爽、湿润地区
-- **土壤要求**: 肥沃、中性土壤
-- **年产量**: 全球年产量超过7000万吨
+> Dây chuyền quy mô lớn thường cần đánh giá máy ép trục vít hoặc tiền ép; không nên chỉ dựa vào một máy thủy lực đơn lẻ.
 
-## 加工工艺
+## Quy trình khuyến nghị
 
- + 菜籽(建议300AC-390/325AC-390/355AC-390/400AC-390)
-        + 菜籽油热榨工艺：菜籽经过清理、破碎、炒制蒸制工艺后再放入液压榨油机料桶压榨。
-        + 采用此工艺压榨的菜籽油，出油率高，色泽金黄，口感清香。
-        + ![Hạt cải quy trình ép nóng](/images/process-image-55d72f15da.webp)‘
-## 菜籽热榨工艺视频
+### Dầu ép nóng
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/lwE0mqSozlM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+1. Làm sạch và tách tạp chất.
+2. Nghiền/cán vỡ hạt.
+3. Chưng sấy hoặc rang theo hương và độ ẩm mục tiêu.
+4. Ép bằng dòng 300/325.
+5. Lọc và tinh luyện nếu sản phẩm yêu cầu.
 
-### 液压榨油机压榨后的枯饼效果
+### Dầu ép lạnh
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/Dwoq8gX_24E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+1. Làm sạch và đo độ ẩm.
+2. Chỉ sấy ở nhiệt độ thấp khi cần giảm ẩm.
+3. Nghiền rồi đưa trực tiếp vào dòng 355-500.
+4. Lắng/lọc và chuyển vào bồn kín; không dùng bước chưng sấy của tuyến nóng.
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/KEcZjEd7dV4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## Máy ép và thiết bị chính
 
+- [Dòng 300](/vi/products/300)
+- [Dòng 325](/vi/products/325)
+- [Dòng 355](/vi/products/355), [400](/vi/products/400), [426](/vi/products/426), [480](/vi/products/480) và [500](/vi/products/500) cho tuyến lạnh độc lập
+- [Thiết bị tiền xử lý](/vi/products/pre-treatment)
+- [Thiết bị lọc và hậu xử lý](/vi/products/post-treatment)
+- [Thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
 
-### 如下视频为菜籽螺旋榨油机生产工艺，日处理量 100 吨，仅供参考，非我司主营产品
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/X8jgHKbJsxQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## Dữ liệu cần cho báo giá
 
-## 技术优势
+- Mẫu hạt cải/canola đúng giống, độ ẩm, tạp chất, hàm lượng dầu và dữ liệu axit erucic nếu có
+- Công suất hạt đầu vào theo giờ/ngày, số ca và yêu cầu vận hành theo mẻ hay liên tục
+- Mục tiêu ép lạnh, chưng sấy/ép ấm hoặc tiền ép, cùng mục đích dùng dầu và bã
+- Dầu lọc thô hay dầu tinh luyện, cấp lọc, phạm vi khử gum và chỉ tiêu màu/cặn thành phẩm
+- Nguồn hơi/nhiệt, điện áp, mặt bằng kho - tiền xử lý - ép - lọc và địa điểm dự án
 
-### 🎯 精准控制
-- 温度控制：±2℃精度
-- 压力控制：智能调节
-- 湿度控制：最佳含水量
+Hiệu suất thực tế phụ thuộc giống, độ ẩm, mức nghiền, nhiệt độ và thời gian ép. Không nên dùng một con số sản lượng cố định thay cho thử nghiệm nguyên liệu.
 
-### 💧 油质保证
-- 冷榨工艺保留营养
-- 物理压榨无化学残留
-- 出油率行业领先（38-42%）
+## Kiểm tra nghiệm thu
 
-### 🔄 连续生产
-- 24小时不间断运行
-- 自动化进料出料
-- 智能故障报警
+FAT/SAT phải ghi rõ đang thử tuyến nóng hay lạnh. Tuyến nóng ghi độ ẩm/tạp chất đầu vào, cỡ cán, nhiệt độ và độ ẩm sau chưng sấy; tuyến lạnh ghi điều kiện sấy nhẹ nếu có, cỡ nghiền và xác nhận không hấp/rang. Cả hai tuyến đều ghi khối lượng mẻ, chu kỳ, nhiệt độ dầu, dầu thô, dầu sau lọc và bã. Chỉ tiêu như axit erucic phải do phòng thử nghiệm xác nhận, không suy ra từ hoạt động của máy ép.
 
-## 产品应用
+## Trang liên quan
 
-### 🍳 食用油
-- 菜籽油：主要食用油品种
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
+- [Tổng quan giải pháp](/vi/solutions/)
+- [Dây chuyền sản xuất dầu hoàn chỉnh](/vi/solutions/production-lines)
+- [Tất cả model máy ép dầu thủy lực](/vi/products/)
+- [Hướng dẫn mua hàng và kỹ thuật](/vi/news/technology/)
 
-### 🥛 副产品
-- 菜籽粕：优质蛋白饲料
-- 菜籽蛋白：食品添加剂
-- 菜籽磷脂：功能性成分
+## Nhận giá và cấu hình
 
-### 💊 功能性产品
-- 菜籽异黄酮
-- 菜籽多酚
-- 菜籽甾醇
+Gửi mẫu hạt cải, công suất, mục tiêu ép nóng hoặc ép lạnh, yêu cầu lọc/tinh luyện và điểm đến để nhận hai phạm vi cấu hình không trộn lẫn. Báo giá cần ghi model, thiết bị phụ, FAT/SAT, bảo hành, phụ tùng và điều kiện hỗ trợ tại hiện trường bằng văn bản.
 
-## 市场分析
-
-### 📈 发展趋势
-- 健康食用油需求增长
-- 有机菜籽种植扩大
-- 副产品综合利用提升
-
-### 🎯 目标市场
-- 食用油加工企业
-- 饲料加工企业
-- 食品加工企业
-- 出口贸易企业
-
-
-
-## 质量标准
-
-### 🏆 产品质量标准
-- 符合国家菜籽油标准（GB 1536）
-- 符合食品安全标准
-- 符合出口食品标准
-- 符合有机食品认证
-
-### 🔍 检测项目
-- 酸价检测
-- 过氧化值检测
-- 色泽透明度检测
-- 重金属含量检测
-- 芥酸含量检测
-- 农药残留检测
-
-## 可持续发展
-
-### 🌱 环保生产
-- 废弃物循环利用
-- 节能减排工艺
-- 绿色生产标准
-
-### 🔄 资源利用
-- 副产品综合利用
-- 产业链延伸
-- 循环经济模式
-
-### 🌍 社会责任
-- 支持本地种植
-- 提升农民收入
-- 保障食品安全
-
-## 联系我们
-
-如果您对油菜籽压榨解决方案感兴趣，请联系我们的技术团队：
-
-- 📞 **咨询热线**: +86 19906365856
-- 📧 **邮箱**: gavin@oil-pressing-machine.com
-- 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
-
-我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的油菜籽压榨解决方案。
-
-## Nhận giá & báo giá
-
-Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
-
-- [Nhận giá & báo giá](/vi/contact/)
+- [Yêu cầu báo giá](/vi/contact/)
 
 <!-- quote-cta -->

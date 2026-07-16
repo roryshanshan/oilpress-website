@@ -1,6 +1,6 @@
 ---
-title: Combien de lots une presse à huile hydraulique peut-elle produ...
-description: Découvrez ce qui détermine réellement le nombre de lots qu'une presse à huile hydraulique peut produire par jour, notamment le temps de cycle, le prétraitement
+title: "Presse hydraulique : combien de lots produire par jour ?"
+description: "Calculez les lots par jour selon le cycle, le prétraitement, le nettoyage, l'équipe et la maintenance avant de choisir une presse et demander un devis."
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-04"
 ---

@@ -1,31 +1,37 @@
 ---
-title: "Lịch sử công ty | Nhà sản xuất máy ép dầu thủy lực"
-description: Quá trình phát triển của Shengshi Hecheng, tập trung vào nghiên cứu và sản xuất máy ép dầu thủy lực, liên tục đổi mới, phục vụ khách hàng toàn cầu.
-keywords: Lịch sử công ty, Quá trình phát triển, Shengshi Hecheng Sơn Đông, Nhà sản xuất máy ép dầu, Phát triển doanh nghiệp, Đổi mới công nghệ, Máy ép dầu thủy lực, Thiết bị chế biến dầu, Giới thiệu doanh nghiệp
+title: "Hồ sơ nhà máy máy ép dầu | Xác minh trước khi mua"
+description: "Kiểm tra lịch sử pháp nhân, thay đổi nhà xưởng, hồ sơ dòng máy, năng lực sản xuất và dữ liệu xuất khẩu trước khi chọn nhà cung cấp máy ép dầu."
+keywords: hồ sơ nhà máy máy ép dầu, xác minh lịch sử công ty, đăng ký doanh nghiệp, hồ sơ model, kiểm tra nhà cung cấp
 ---
 
-# Lịch sử công ty
+# Hồ sơ phát triển và cách xác minh
 
-Công ty TNHH Shengshi Hecheng Sơn Đông được thành lập năm 2008, chuyên nghiên cứu và sản xuất máy ép dầu thủy lực. Sau hơn mười năm phát triển, công ty ngày càng lớn mạnh, sản phẩm được xuất khẩu trong và ngoài nước, nhận được sự tin tưởng và ủng hộ của đông đảo khách hàng.
+Mốc thành lập, mở rộng nhà xưởng, năng lực sản xuất hoặc phạm vi xuất khẩu chỉ nên dùng trong đánh giá nhà cung cấp khi có tài liệu ghi ngày và đúng pháp nhân. Trang này nêu các hồ sơ người mua có thể yêu cầu thay cho một dòng thời gian không kèm chứng cứ.
 
-Công ty luôn kiên trì đổi mới công nghệ, sở hữu nhiều bằng sáng chế và quyền sở hữu trí tuệ độc lập. Thông qua việc liên tục tối ưu hóa cấu trúc sản phẩm và nâng cao chất lượng dịch vụ, Shengshi Hecheng đã trở thành thương hiệu có ảnh hưởng trong ngành.
+## Hồ sơ pháp nhân và địa điểm
 
-Trong tương lai, công ty sẽ tiếp tục lấy nhu cầu khách hàng làm định hướng, thúc đẩy nâng cấp và đổi mới thiết bị chế biến dầu, phục vụ khách hàng toàn cầu.
+- Giấy đăng ký doanh nghiệp hoặc tài liệu pháp lý tương đương
+- Tên pháp nhân và địa chỉ khớp với báo giá, hợp đồng và tài khoản nhận tiền
+- Tài liệu về địa điểm sản xuất đang dùng cho đơn hàng
+- Ngày phát hành và cơ quan cấp để người mua tự kiểm tra khi có kênh tra cứu
 
-Đã phát triển thành công thế hệ đầu tiên của máy ép dầu thủy lực tự động, đánh dấu một bước đột phá kỹ thuật quan trọng của công ty.
+## Hồ sơ phát triển sản phẩm
 
-## 2015 — Mở rộng năng lực sản xuất
+- Bản vẽ hoặc tài liệu model có mã phiên bản và ngày cập nhật
+- Danh sách thay đổi kết cấu, hệ thống thủy lực hoặc điều khiển
+- Biên bản thử nghiệm dùng để chấp nhận thay đổi
+- Phạm vi model và linh kiện đang được cung cấp tại thời điểm báo giá
 
-Công ty chuyển đến cơ sở sản xuất hiện đại, năng lực sản xuất tăng lên 2000 thiết bị mỗi năm.
+## Hồ sơ sản xuất và giao hàng
 
-## 2020 — Quốc tế hóa
+- Lệnh sản xuất, checklist kiểm tra và biên bản chạy thử của đúng đơn hàng
+- Ảnh hoặc video có nhãn máy, ngày và cấu hình có thể đối chiếu
+- Danh sách đóng gói, vận đơn hoặc chứng từ xuất khẩu đã ẩn thông tin nhạy cảm nếu kinh nghiệm giao hàng là tiêu chí lựa chọn
+- Hồ sơ xử lý thay đổi, sai lệch và hành động khắc phục
 
-Sản phẩm bắt đầu xuất khẩu ra thị trường nước ngoài, mạng lưới dịch vụ phủ khắp Đông Nam Á, châu Phi, Trung Đông và các khu vực khác.
+## Kiểm tra tại nhà máy
 
-## 2023 — Dẫn dắt bằng đổi mới
+Trước khi tham quan, gửi model và nội dung cần kiểm tra. Tại xưởng, đối chiếu pháp nhân, địa chỉ, công đoạn gia công, lắp ráp, thử thủy lực, chạy máy và đóng gói. Sau chuyến thăm, đưa các điểm đã xác nhận vào báo giá hoặc phụ lục hợp đồng.
 
-Ra mắt dòng thiết bị ép dầu thông minh hoàn toàn mới, dẫn hướng phát triển công nghệ của ngành.
-
-## Triển vọng tương lai
-
-Chúng tôi sẽ tiếp tục giữ vững tinh thần đổi mới, cung cấp các giải pháp chế biến dầu chất lượng cao hơn cho khách hàng toàn cầu.
+- [Đặt lịch kiểm tra nhà máy](/vi/contact/)
+- [Xem checklist chất lượng](/vi/advantages/quality)

@@ -15,20 +15,9 @@
   }
 }
 
-/* 图片懒加载占位符 */
+/* Stable placeholder for lazy-loaded images. */
 img[loading="lazy"] {
-  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
-  background-size: 200% 100%;
-  animation: loading 1.5s infinite;
-}
-
-@keyframes loading {
-  0% {
-    background-position: 200% 0;
-  }
-  100% {
-    background-position: -200% 0;
-  }
+  background: #eef1ef;
 }
 
 /* 平滑滚动 */
@@ -56,6 +45,15 @@ html {
 }
 
 /* Hero button contrast fixes */
+.hero-buttons {
+  flex-wrap: wrap;
+}
+
+.hero-buttons a {
+  max-width: 100%;
+  text-align: center;
+}
+
 .hero-buttons .primary-button,
 .hero-buttons .contact-link-button {
   background-color: #e74c3c !important;
@@ -118,11 +116,67 @@ html {
 .contact-card {
   background: #f8fafc;
   border: 1px solid #e5e7eb;
-  border-radius: 10px;
+  border-radius: 6px;
   padding: 16px 18px;
 }
 .contact-card a {
   color: #1f2937 !important;
+}
+
+.contact-form {
+  max-width: 680px;
+  margin: 24px auto 36px;
+  padding: 24px;
+  border: 1px solid #d9e0da;
+  border-radius: 6px;
+  background: #f8faf8;
+}
+
+.contact-form .form-group {
+  margin-bottom: 18px;
+}
+
+.contact-form label {
+  display: block;
+  margin-bottom: 6px;
+  color: #24342a;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 11px 12px;
+  border: 1px solid #bdc8c0;
+  border-radius: 4px;
+  background: #fff;
+  color: #18231d;
+  font: inherit;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  border-color: #0d6547;
+  outline: 3px solid rgba(13, 101, 71, 0.14);
+}
+
+.contact-form button[type='submit'] {
+  min-height: 44px;
+  padding: 10px 18px;
+  border: 0;
+  border-radius: 5px;
+  background: #123f31 !important;
+  color: #fff !important;
+  -webkit-text-fill-color: #fff !important;
+  font-size: 15px;
+  font-weight: 750;
+  cursor: pointer;
+}
+
+.contact-form button[type='submit']:hover,
+.contact-form button[type='submit']:focus-visible {
+  background: #0d6547 !important;
 }
 
 /* Home contact section button visibility */
@@ -183,11 +237,36 @@ html {
   white-space: nowrap;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 1280px) and (max-width: 1599px) {
+  .VPNavBarSearch,
+  .VPNavBarAppearance,
+  .VPNavBarExtra,
+  .VPSocialLinks {
+    display: none !important;
+  }
+
+  .VPNavBarTitle {
+    min-width: 0;
+    max-width: 250px;
+  }
+
+  .VPNavBarTitle .title,
+  .VPNavBarTitle .title span {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+}
+
+@media (max-width: 1279px) {
   .VPNavBarSearch,
   .VPNavBarTranslations,
   .VPFlyout.VPNavBarTranslations,
-  .VPNavBarMenu {
+  .VPNavBarMenu,
+  .VPNavBarAppearance,
+  .VPNavBarExtra,
+  .VPSocialLinks {
     display: none !important;
   }
 
@@ -221,14 +300,28 @@ html {
   }
 }
 
+@media (max-width: 420px) {
+  .vp-doc .contact-form,
+  .contact-section .contact-info,
+  .contact-section .contact-form {
+    width: 100% !important;
+    min-width: 0 !important;
+  }
+
+  .contact-section {
+    gap: 1rem !important;
+  }
+}
+
 /* SEO video cards */
 .video-seo-card {
   margin: 28px 0;
   padding: 22px;
-  border: 1px solid rgba(139, 93, 43, 0.18);
-  border-radius: 18px;
-  background: linear-gradient(135deg, rgba(255, 248, 236, 0.92), rgba(246, 255, 241, 0.72));
-  box-shadow: 0 14px 38px rgba(72, 48, 24, 0.08);
+  border: 1px solid #dce4dd;
+  border-left: 3px solid #d89a2b;
+  border-radius: 6px;
+  background: #f7f9f7;
+  box-shadow: 0 8px 24px rgba(24, 43, 32, 0.06);
 }
 
 .video-seo-card h3 {
@@ -240,9 +333,9 @@ html {
   width: min(100%, 420px);
   max-height: 680px;
   margin: 16px auto;
-  border-radius: 16px;
-  background: #1f1a14;
-  box-shadow: 0 18px 45px rgba(31, 26, 20, 0.18);
+  border-radius: 4px;
+  background: #17251d;
+  box-shadow: 0 12px 32px rgba(23, 37, 29, 0.16);
 }
 
 .video-seo-card .video-seo-cta {
@@ -251,8 +344,8 @@ html {
   justify-content: center;
   min-height: 42px;
   padding: 10px 16px;
-  border-radius: 999px;
-  background: #b45309;
+  border-radius: 6px;
+  background: #123f31;
   color: #fff !important;
   -webkit-text-fill-color: #fff;
   font-weight: 700;
@@ -261,7 +354,7 @@ html {
 
 .video-seo-card .video-seo-cta:hover,
 .video-seo-card .video-seo-cta:focus {
-  background: #92400e;
+  background: #0d6547;
   color: #fff !important;
   -webkit-text-fill-color: #fff;
 }
@@ -274,4 +367,208 @@ html {
 
 .notice-text {
   color: var(--vp-c-text-2);
+}
+
+/* Global navigation chain */
+html.mobile-menu-open,
+html.mobile-menu-open body {
+  overflow: hidden;
+}
+
+.page-trail {
+  margin: 0 0 22px;
+  padding: 0 0 14px;
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.page-trail ol {
+  display: flex;
+  min-width: 0;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 7px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.page-trail li {
+  display: inline-flex;
+  min-width: 0;
+  align-items: center;
+  gap: 7px;
+  color: var(--vp-c-text-2);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.page-trail li:not(:last-child)::after {
+  content: '/';
+  color: #a1aaa3;
+}
+
+.page-trail a {
+  color: #0d6547;
+  font-weight: 650;
+  text-decoration: none;
+}
+
+.page-trail a:hover,
+.page-trail a:focus-visible {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.page-trail [aria-current='page'] {
+  display: block;
+  max-width: min(62vw, 620px);
+  overflow: hidden;
+  color: var(--vp-c-text-2);
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.context-pathway {
+  margin: 56px 0 12px;
+  padding: 32px;
+  border-top: 4px solid #d89a2b;
+  background: #f5f7f4;
+  color: #18231d;
+}
+
+.context-pathway__intro {
+  max-width: 790px;
+  margin-bottom: 24px;
+}
+
+.context-pathway__eyebrow {
+  margin: 0 0 8px !important;
+  color: #8a5b0d !important;
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.context-pathway h2 {
+  margin: 0 0 10px;
+  border: 0;
+  font-size: 30px;
+  line-height: 1.22;
+  letter-spacing: 0;
+}
+
+.context-pathway__intro > p:last-child {
+  margin: 0;
+  color: #526058;
+  line-height: 1.7;
+}
+
+.context-pathway__grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.context-pathway__card {
+  display: flex;
+  min-width: 0;
+  min-height: 188px;
+  flex-direction: column;
+  padding: 22px;
+  border: 1px solid #d7ded8;
+  border-radius: 6px;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(24, 35, 29, 0.06);
+}
+
+.context-pathway__card h3 {
+  margin: 0 0 9px;
+  font-size: 18px;
+  line-height: 1.35;
+  letter-spacing: 0;
+}
+
+.context-pathway__card p {
+  margin: 0 0 18px;
+  color: #526058;
+  font-size: 14px;
+  line-height: 1.65;
+}
+
+.context-pathway__card a {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  margin-top: auto;
+  color: #0d6547;
+  font-weight: 750;
+  text-decoration: none;
+}
+
+.context-pathway__card a:hover,
+.context-pathway__card a:focus-visible {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.context-pathway__card--primary {
+  border-color: #123f31;
+  background: #123f31;
+  color: #fff;
+}
+
+.context-pathway__card--primary p {
+  color: #dbe8e1;
+}
+
+.context-pathway__card--primary a {
+  color: #ffd47a;
+}
+
+/* The last desktop navigation item is the global quotation action. */
+.VPNavBarMenu > .VPNavBarMenuLink:last-child {
+  min-height: 38px;
+  padding: 0 14px;
+  border-radius: 6px;
+  background: #123f31;
+  color: #fff !important;
+}
+
+.VPNavBarMenu > .VPNavBarMenuLink:last-child:hover,
+.VPNavBarMenu > .VPNavBarMenuLink:last-child:focus-visible {
+  background: #0d6547;
+  color: #fff !important;
+}
+
+@media (max-width: 700px) {
+  .page-trail {
+    margin-bottom: 18px;
+  }
+
+  .page-trail [aria-current='page'] {
+    max-width: 64vw;
+  }
+
+  .context-pathway {
+    margin-top: 42px;
+    padding: 24px 18px;
+  }
+
+  .context-pathway h2 {
+    font-size: 25px;
+  }
+
+  .context-pathway__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .context-pathway__card {
+    min-height: 0;
+  }
+}
+/* The custom language switcher validates translated routes before navigation. */
+.VPNavBarTranslations,
+.VPNavScreenTranslations,
+.VPNavBarExtra .translations {
+  display: none !important;
 }

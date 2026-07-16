@@ -1,26 +1,27 @@
 ---
-title: Déballeuse automatique, formage de cartons, encartonneuse prix
-description: Demandez le prix et le devis pour Déballeuse automatique, formage de cartons, encartonneuse. Fabricant Shengshi Hecheng, livraison et SAV.
-keywords: Machines automatiques de déballage, de formage de cartons et d'encartonnage prix, acheter Machines automatiques de déballage, de formage de cartons et d'encartonnage, devis usine, fabricant chinois, exportation, service après-vente
+title: "Formeuse-encaisseuse de cartons | Prix fabricant et devis"
+description: "Formeuse-encaisseuse automatique de 12 à 60 cartons/min selon le format. Comparez le formage, l'encaissage, l'intégration, le prix, le devis et le SAV."
+keywords: "formeuse-encaisseuse automatique prix, devis formeuse-encaisseuse automatique, 12 à 60 cartons/min selon le format, avec formage et encaissage intégrés, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/case-erector-packing-machine.webp"
 ---
-# Machines automatiques de déballage, de formage de cartons et d'encartonnage
 
-![Déballage automatique, formage de cartons et machine d'emballage](/images/filling-products/case-erector-packing-machine.webp)
+# Formeuse de caisses et encaisseuse automatique
 
-Les machines automatiques de déballage, de formation de cartons et d'encartonnage peuvent être utilisées comme référence pour des modèles spécifiques d'encartonnage et de palettisation. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+![Formeuse de caisses et encaisseuse automatique](/images/filling-products/case-erector-packing-machine.webp)
 
-## Positionnement du modèle
+Cette famille d'équipements ouvre et forme des découpes de carton à plat avant l'étape d'encaissage. Une offre doit distinguer clairement la formeuse, la fermeture du fond, le chargement des produits et l'éventuelle cellule combinée afin de comparer des périmètres identiques.
 
-- Série : [Emballage, Palettisation](/fr/solutions/packing-palletizing/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#pack-case)
-- Scénarios applicables : adaptés à l'intégration du déballage et de l'emballage automatiques.
+## Domaine d'application et critères d'achat
 
-## Résumé des informations publiques
+- Famille : [Solutions d'encaissage et de palettisation](/fr/solutions/packing-palletizing/)
+- Repère technique : [Paramètres publiés de Formeuse de caisses et encaisseuse automatique](/fr/products/filling-equipment#pack-case)
+- Lister les fonctions incluses : magasin de découpes, ouverture, pliage du fond, adhésif ou colle, chargement et évacuation.
+- Contrôler la qualité des découpes, les rainages et les tolérances qui influencent la formation du carton.
+- Étudier ensemble le groupage des produits, la fermeture supérieure et la palettisation.
 
-Il déclenche automatiquement une alarme en cas de pénurie de rubans et de cartons et adopte un contrôle PLC + écran d'affichage, ce qui facilite grandement le fonctionnement et constitue un équipement indispensable pour la production automatisée à grande échelle ;
+## Paramètres de référence publiés
 
-## Table des paramètres publics
+Le tableau ci-dessous est conservé comme repère de gamme. Les performances et la compatibilité finales doivent être confirmées dans l'offre technique et le protocole de réception.
 
 <table>
   <tbody>
@@ -59,14 +60,24 @@ Il déclenche automatiquement une alarme en cas de pénurie de rubans et de cart
   </tbody>
 </table>
 
-## Suggestions complémentaires
+## Données nécessaires au devis fabricant
 
-- Premier coup d'oeil à la page de la série : [Emballage, Palettisation](/fr/solutions/packing-palletizing/)
-- Regardez à nouveau l'aperçu des paramètres : [L'emplacement des machines automatiques de déballage, de formation de cartons et d'emballage dans la bibliothèque de paramètres] (/fr/products/filling-equipment#pack-case)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/products/filling-equipment#pack-case) et [Vue d'ensemble de la ligne de production](/fr/solutions/filling-packages).
+- Plans et échantillons des découpes, qualité du carton, sens des rainages, plage de dimensions et fermeture du fond.
+- Dimensions, poids, orientation et schéma de groupage des produits à encaisser.
+- Cadence, autonomie du magasin, niveaux de convoyeurs et implantation disponible.
+- Spécification adhésif ou colle chaude, utilités, protections, protocole FAT et pièces de format incluses.
 
-## Pages connexes
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/solutions/production-lines)
-- [Emballage, palettisation](/fr/products/filling-equipment)
-- [Contactez-nous pour des conseils complets en ligne](/fr/solutions/packing-palletizing/)
+## Prix, livraison et périmètre SAV écrit
+
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
+
+## Équipements associés et prochaine étape
+
+- [Solutions d'encaissage et de palettisation](/fr/solutions/packing-palletizing/)
+- [Paramètres publiés de Formeuse de caisses et encaisseuse automatique](/fr/products/filling-equipment#pack-case)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Planification des lignes de production](/fr/solutions/production-lines)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

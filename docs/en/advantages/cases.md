@@ -1,54 +1,17 @@
 ---
-title: "Success Cases | Hydraulic Oil Press Projects"
-description: "See hydraulic oil press case studies for oil mills and export projects, including capacity upgrades, yield improvements, and turnkey line delivery."
-keywords: Success Cases, oil press manufacturer advantages, technology innovation, quality assurance, service support, Customer cases, Oil factory projects, Oil press cases
+title: "Project Verification & Trial Pressing | Hydraulic Oil Press"
+description: "Review almond trial footage, sample-press steps, factory inspection points, and contract checks before requesting a hydraulic oil press quote."
+keywords: hydraulic oil press trial, oil press factory inspection, sample pressing test, equipment acceptance, almond pressing video, oil press procurement
 ---
 
-# Success Cases
+# Project Verification and Trial Pressing
 
-## Large Oil Factory Projects
+Project results should be supported by records that allow a buyer to compare the raw material, machine configuration, test method, and measured outputs. Customer identities, locations, commercial gains, capacity multiples, energy savings, certifications, and outcome claims are not presented here without verifiable documentation and permission to publish.
 
-### Large Oil Factory in Xinjiang
+## Almond Pressing Video Reference
 
-**Project Scale**: Daily oil production 20 tons
-**Equipment Model**: 425 Series Large Industrial Oil Press
-**Project Results**:
-- Oil yield increased by 15%
-- Annual revenue increase of 2 million yuan
-- Production efficiency improved by 30%
+The following videos are retained as visual references for almond pressing and equipment operation. Video footage alone does not independently verify the customer identity, project location, oil yield, throughput, energy use, certification status, or commercial result.
 
-### Large Oil Factory in Shandong
-
-**Project Scale**: Daily oil production 50 tons
-**Equipment Model**: 500 Series Super Large Industrial Oil Press
-**Project Results**:
-- Automation level reached 95%
-- Operating costs reduced by 25%
-- Significant improvement in product quality
-
-## Small and Medium Enterprise Cases
-
-### Family Workshop Transformation
-
-**Customer Background**: Traditional manual oil pressing workshop
-**Solution**: 325 Series Standard Single Barrel Oil Press
-**Project Results**:
-- Daily output increased from 0.5 tons to 1.5 tons
-- Significant improvement in product quality
-- Achieved mechanized production
-
-### Medium Oil Factory Upgrade
-
-**Customer Background**: Traditional oil factory with aging equipment
-**Solution**: 400 Series Industrial Oil Press
-**Project Results**:
-- Production capacity doubled
-- Energy consumption reduced by 40%
-- Obtained green production certification
-
-## International Market Cases
-
-### Pakistani Customer Almond Pressing
 <div class="video-container">
   <iframe width="700" height="330" src="https://www.youtube.com/embed/rM4hgCIApAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -56,30 +19,43 @@ keywords: Success Cases, oil press manufacturer advantages, technology innovatio
   <iframe width="700" height="330" src="https://www.youtube.com/embed/kSeQ570mtvo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Southeast Asian Customer
+## Evidence to Request
 
-**Project Location**: Indonesia
-**Equipment Model**: 355 Series Extended Double Barrel Oil Press
-**Project Results**:
-- Transformed from manual workshop to modern factory
-- Production capacity increased 5-fold
-- Became a benchmark enterprise locally
+Before relying on any performance statement, request a test record that includes:
 
-### African Customer
+- Machine model, barrel dimensions, pressure configuration, installed power, heating method, filtration equipment, and software or automation options
+- Raw-material name and batch, moisture content, laboratory oil content where relevant, particle size, temperature, and all pretreatment steps
+- Actual batch load, pressure program, pressing time, number of repeated batches, operator actions, and ambient conditions
+- Weighed input, collected oil, press cake or discharged solids, losses, and sampling method
+- Laboratory method used for residual oil, moisture, or other quality measurements, including the laboratory name and report date
+- Unedited photos or video showing the nameplate, instruments, weighing process, material condition, and complete test sequence
 
-**Project Location**: Nigeria
-**Equipment Model**: 300 Series Coconut Oil Press
-**Project Results**:
-- Coconut oil production increased 3-fold
-- Product quality met international standards
-- Promoted local economic development
+Any percentage must define its denominator. Oil yield based on raw-material mass is not the same as oil recovery based on the material's laboratory oil content.
 
-## Technology Innovation Cases
+## Sample Trial Before Selection
 
-### Intelligent Upgrade Project
+1. Submit a representative sample and disclose composition, moisture range, contaminants, and safety information. Industrial residues and sludge should include an SDS or equivalent handling information.
+2. Agree in writing on the preparation method, machine configuration, batch size, measurement method, and acceptance criteria before testing.
+3. Record all inputs and outputs with calibrated weighing or laboratory methods.
+4. Repeat enough batches to show whether results are stable across normal material variation.
+5. Witness the test on site or by live video, and request the complete unedited test record.
+6. Use an independent laboratory or third-party inspection when a result is material to the purchase decision.
 
-Provided intelligent upgrade services for a large oil factory, achieving remote monitoring and management through IoT technology.
+## Factory Inspection and Trial Acceptance
 
-### Energy Saving Renovation Project
+- Confirm the machine nameplate and finalized configuration against the quotation and drawings.
+- Inspect frame, hydraulic system, barrel, seals, guards, electrical cabinet, emergency stop, and material-contact parts.
+- Run no-load checks, safety checks, and an agreed sample trial under recorded conditions.
+- Verify manuals, electrical drawings, hydraulic diagrams, spare-parts list, maintenance requirements, and packing list.
+- Record deviations, corrective actions, retest requirements, and sign-off responsibilities in the factory acceptance report.
 
-Helped customers achieve energy-saving renovation, reducing comprehensive energy consumption by 35% and obtaining government energy-saving subsidies.
+## Put the Purchase Scope in Writing
+
+The contract should identify the final model and options, feed-material assumptions, utilities, site interfaces, delivery scope, installation and commissioning responsibilities, training, acceptance criteria, documentation, warranty, spare parts, and change-control process. Ongoing technical support may be provided, while warranty, maintenance, site service, response times, and other after-sales obligations should follow the agreed contract scope.
+
+## Request a Verifiable Proposal
+
+Send the material name, representative sample, target product, planned daily operating hours, site utilities, and required acceptance tests. Ask for an itemized configuration, a documented trial plan, and written commercial terms before ordering.
+
+- [Request a sample trial and quotation](/en/contact/)
+- [Review customized hydraulic press configurations](/en/products/customized-hydraulic-oil-press)

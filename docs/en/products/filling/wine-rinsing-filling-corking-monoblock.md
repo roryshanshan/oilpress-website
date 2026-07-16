@@ -1,26 +1,27 @@
 ---
-title: Wine rinsing, filling and corking combined machine Price
-description: Get price, procurement, and after-sales support for Wine rinsing, filling and corking combined machine from Shengshi Hecheng manufacturer.
-keywords: Wine rinsing, filling and corking combined machine price, Wine rinsing, filling and corking combined machine quote, Wine rinsing, filling and corking combined machine manufacturer, Wine rinsing, filling and corking combined machine supplier, procurement, after-sales
+title: "GFP Wine Rinse-Fill-Cork Monoblock | Manufacturer Quote"
+description: "Compare GFP wine rinsing, filling, and corking monoblocks for 2,000-6,000 bottles/hour, with factory pricing and packaging-line support."
+keywords: "GFP wine rinsing, filling and corking monoblock price, GFP wine rinsing, filling and corking monoblock manufacturer quote, wine bottling monoblock, 2000-6000 bottles per hour, rinse fill cork line, complete line integration, export packing, commissioning, after-sales service"
 image: "/images/filling-products/wine-rinsing-filling-corking-monoblock.webp"
 ---
-# Wine rinsing, filling and corking combined machine
 
-![Wine rinsing, filling and corking combined machine](/images/filling-products/wine-rinsing-filling-corking-monoblock.webp)
+# Wine Rinsing, Filling and Corking Monoblock
 
-The wine rinsing, filling and corking combined machine can be used as a reference for specific models in the winemaking equipment series. This page organizes model positioning, parameter information and supporting suggestions based on public product information to facilitate preliminary selection and page jumps.
+![Wine Rinsing, Filling and Corking Monoblock](/images/filling-products/wine-rinsing-filling-corking-monoblock.webp)
 
-## Model positioning
+This wine monoblock combines bottle rinsing, low-vacuum filling and cork insertion on one coordinated platform. It can reduce intermediate handling, while the rinse process, bottle neck, cork and required fill level still need project-specific confirmation.
 
-- Series: [Brewing Equipment Series](/en/solutions/brewing/)
-- Parameter overview entrance: [Filling and packaging equipment parameter library](/en/products/filling-equipment#brew-triple)
-- Applicable scenarios: Suitable for the entire line of wine and fruit wine.
+## Application and purchasing fit
 
-## Summary of public information
+- Product family: [Brewing and wine bottling equipment](/en/solutions/brewing/)
+- Parameter reference: [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+- Define the rinse medium, contact time and drainage requirement before sizing the rinsing section.
+- Test low-vacuum filling with the actual wine or approved substitute and the intended glass bottle.
+- Match cork compression and insertion to the bottle finish, then plan capsule and labeling operations downstream.
 
-This triple machine is mainly designed for wine and fruit wine filling. This equipment organically combines a flipping rinser, a negative pressure filling machine and a corking machine into one. The equipment has a compact structure and saves installation space.
+## Published reference parameters
 
-## Public parameter table
+The following table is retained as the published model reference. Final performance and compatibility must be confirmed in the written quotation and acceptance specification.
 
 <table>
   <tbody>
@@ -83,14 +84,24 @@ This triple machine is mainly designed for wine and fruit wine filling. This equ
   </tbody>
 </table>
 
-## Supporting suggestions
+## What to provide for a manufacturer quotation
 
-- First look at the series page: [Brewing Equipment Series](/en/solutions/brewing/)
-- Let’s look at the parameter overview again: [The location of the wine rinsing, filling and corking combined machine in the parameter library](/en/products/filling-equipment#brew-triple)
-- If it is a complete line project, you can continue to view [Filling Package Overview](/en/solutions/filling-packages) and [Production Line Overview](/en/solutions/production-lines).
+- Product properties, bottle and cork samples, fill-level target and all package formats.
+- Rinse specification, drainage or recovery requirements and sanitation procedure.
+- Required output, line layout, utilities, bottle infeed and downstream capsule or label equipment.
+- FAT samples, fill and closure acceptance criteria, export packing and on-site service requested.
 
-## Related pages
+Use representative samples for the factory acceptance test whenever practical. The agreed test material, run duration, sampling method and pass limits should be written into the purchase specification.
 
+## Price, delivery, and written service scope
+
+Manufacturer pricing depends on the confirmed machine configuration, format parts, controls, guarding, line interfaces, utilities and destination. Delivery schedule, export packing, installation, commissioning, training, spare parts and after-sales support apply only as stated in the written quotation and contract.
+
+## Related equipment and next step
+
+- [Brewing and wine bottling equipment](/en/solutions/brewing/)
 - [Filling and packaging equipment parameter library](/en/products/filling-equipment)
-- [Brewing equipment series](/en/solutions/brewing/)
-- [Contact us for complete line advice](/en/contact/)
+- [Filling and packaging line overview](/en/solutions/filling-packages)
+- [Production line planning](/en/solutions/production-lines)
+- [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+- [Request a configuration-based manufacturer quotation](/en/contact/)

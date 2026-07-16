@@ -1,26 +1,27 @@
 ---
-title: "Machine laser CO2 | Prix usine et devis"
-description: "Demandez le prix usine pour Machine laser CO2. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
-keywords: Machine laser CO2 prix, acheter Machine laser CO2, devis usine, fabricant chinois, exportation, service après-vente
+title: "Marqueur laser CO2 | Prix fabricant et devis"
+description: "Marqueur laser CO2 CX10/CX30 de 10 ou 30 W, zone 110 x 110 mm et vitesse jusqu'à 7 000 mm/s. Vérifiez le support, l'intégration, le prix, le devis et le SAV."
+keywords: "marqueur laser CO2 CX10/CX30 prix, devis marqueur laser CO2 CX10/CX30, 10 ou 30 W, zone 110 x 110 mm et vitesse de marquage jusqu'à 7 000 mm/s, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/co2-laser-marking-machine.webp"
 ---
-# Machine laser CO2
 
-![Machine laser CO2](/images/filling-products/co2-laser-marking-machine.webp)
+# Codeur laser CO2
 
-La machine laser CO2 peut être utilisée comme référence pour des modèles spécifiques de la série de machines de codage laser. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+![Codeur laser CO2](/images/filling-products/co2-laser-marking-machine.webp)
 
-## Positionnement du modèle
+Un codeur laser CO2 réalise des marquages permanents de lot, de date ou de traçabilité sur des supports non métalliques compatibles. Le contraste dépend du matériau, du revêtement, de la vitesse et de l'optique ; l'essai sur échantillon est donc le point de départ du choix.
 
-- Série : [Série de machines de codage laser](/fr/solutions/laser-coding/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#laser-co2)
-- Scénarios applicables : convient pour coder les armoires arrière et les informations sur les étiquettes.
+## Domaine d'application et critères d'achat
 
-## Résumé des informations publiques
+- Famille : [Série de codeurs laser](/fr/solutions/laser-coding/)
+- Repère technique : [Paramètres publiés de Codeur laser CO2](/fr/products/filling-equipment#laser-co2)
+- Tester les étiquettes, films, cartons, revêtements ou contenants réellement utilisés.
+- Définir le champ de marquage, la taille des caractères, les contenus variables et le déclenchement sur produit en mouvement.
+- Inclure le capotage, les interverrouillages et l'extraction des fumées dans le périmètre de la station.
 
-Technologie de numérisation à grande vitesse, leader en Chine ;
+## Paramètres de référence publiés
 
-## Table des paramètres publics
+Le tableau ci-dessous est conservé comme repère de gamme. Les performances et la compatibilité finales doivent être confirmées dans l'offre technique et le protocole de réception.
 
 <table>
   <tbody>
@@ -113,14 +114,24 @@ Technologie de numérisation à grande vitesse, leader en Chine ;
   </tbody>
 </table>
 
-## Suggestions complémentaires
+## Données nécessaires au devis fabricant
 
-- Regardez d'abord la page de la série : [Laser Coding Machine Series](/fr/solutions/laser-coding/)
-- Regardez à nouveau l'aperçu des paramètres : [La position de la machine laser CO2 dans la bibliothèque de paramètres](/fr/products/filling-equipment#laser-co2)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+- Échantillons de chaque support et couleur, contenu du marquage et taille minimale lisible.
+- Vitesse de ligne, pas produit, position du code, distance de travail et détection.
+- Source laser proposée, refroidissement, alimentation, capotage et extraction.
+- Critères d'acceptation du marquage, contrôle du code, interface logicielle et mise en service.
 
-## Pages connexes
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Série de machines de codage laser](/fr/solutions/laser-coding/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+## Prix, livraison et périmètre SAV écrit
+
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
+
+## Équipements associés et prochaine étape
+
+- [Série de codeurs laser](/fr/solutions/laser-coding/)
+- [Paramètres publiés de Codeur laser CO2](/fr/products/filling-equipment#laser-co2)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Planification des lignes de production](/fr/solutions/production-lines)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

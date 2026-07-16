@@ -15,13 +15,25 @@ Cette machine est adaptée à divers gâteaux de soja, gâteaux d'arachide, gât
 | Paramètre     | Valeur           |
 | :------------ | :--------------- |
 | Modèle        | FBJ-500          |
-| Puissance     | 11Kw             |
+| Puissance     | 11 kW (valeur indicative ; à confirmer dans la documentation technique finale et le devis écrit) |
 | Dimensions    | 600*600*800      |
 | Poids total   | 292Kg            |
-| Capacité de traitement | 1-4Kg/h      |
+| Capacité de traitement | 1–4 kg/h (unité et conditions d'essai non vérifiées ; confirmation écrite requise) |
 | Diamètre des mailles du tamis | 20mm       |
 | Dimensions de l'ouverture d'entrée | 525*145mm |
 | Structure des lames de broyage | À marteaux |
+
+::: warning Vérification des paramètres
+Les valeurs du tableau sont uniquement indicatives. Aucune plaque signalétique lisible, fiche technique finale du fabricant ou rapport d'essai mesuré disponible ne permet actuellement de valider la puissance de `11 kW`, ni l'unité et les conditions correspondant à `1–4 kg/h`. Ces deux valeurs doivent être confirmées avant commande dans la documentation technique finale, le devis écrit et le contrat ; elles ne constituent ni une spécification validée ni un débit garanti.
+:::
+
+## Confirmation du devis et du FAT
+
+- Pour le devis, fournissez un échantillon représentatif et précisez la matière, le diamètre et l'épaisseur du tourteau, l'humidité, la taille des blocs, l'état en vrac et l'huile résiduelle. Le fournisseur doit indiquer par écrit la puissance moteur, l'unité de débit, la base d'essai, le mode d'alimentation, l'ouverture du tamis, la granulométrie cible, la tension, la fréquence et le nombre de phases.
+- Pour le test d'acceptation en usine (FAT), utilisez l'échantillon approuvé par l'acheteur et le tamis convenu. Après stabilisation, faites fonctionner la machine en continu pendant la durée convenue et consignez les heures de début et de fin, les arrêts, la masse alimentée, la masse conforme, les refus ou retours et les pertes de matière.
+- Pesez l'alimentation et le produit conforme avec la balance étalonnée convenue, puis calculez le débit selon la méthode écrite et le temps de marche effectif. Le contrat et le rapport FAT signé doivent préciser la valeur d'acceptation et la tolérance.
+
+Transmettez les conditions de l'échantillon et de réception lors de votre [demande de devis écrit au fabricant](/fr/contact/).
 
 ## Précautions d'utilisation
 

@@ -1,56 +1,73 @@
 ---
-title: "Rubber cap heat shrink machine series | Specs, Models &…"
-description: "Browse rubber cap heat shrink machine series for edible oil and liquid packaging lines. Compare models, capacity ranges, and request factory pricing with…"
-keywords: Rubber cap heat shrink machine series, heat shrink machine, PVC rubber cap heat shrink equipment, wine cap shrink machine, gift box oil shrink cap equipment, heat shrink sealing machine
+title: "Capsule Shrinking Machines | Price & Factory Quote"
+description: "Compare single-head, multi-head and rolling-shrinking machines for bottle capsules. Confirm cap samples, heat process and line interfaces for a quote."
+keywords: capsule shrinking machine price, bottle cap shrinker manufacturer, wine capsule shrinking equipment, PVC capsule shrink machine, cap rolling machine quote, packaging line procurement
 image: "/images/filling-solutions/cap-shrinking.webp"
 ---
 
-# Rubber cap heat shrink machine series
+# Capsule shrinking machines
 
-![Real shot of multi-head rubber cap heat shrinking machine](/images/filling-solutions/cap-shrinking.webp)
+![Multi-head capsule shrinking machine](/images/filling-solutions/cap-shrinking.webp)
 
-The plastic cap heat shrinking machine is mainly used for the heating and shrinking treatment of bottle mouth heat shrinkable plastic caps. It is commonly used in wine, fruit wine and high-end glass bottle gift box product packaging lines. For projects that require a more complete anti-counterfeiting structure and better terminal display effects, cap shrinking is an important extension process after plugging.
+Capsule shrinking gives a corked or capped bottle its finished neck appearance and can add a visible tamper-evidence layer when the approved package is designed for that purpose. It is a post-closure process, so the capsule material, bottle finish and heat sensitivity must be evaluated together.
 
-## Main function
+## Position in the packaging line
 
-- Form a more complete tamper-proof structure
-- Improve the appearance consistency of high-end glass bottle products
-- Make bottle packaging more fitting and more beautiful
-- Combined with plugging and labeling stations to form a gift box packaging line
+A typical sequence is:
 
-## Applicable scenarios
+**Filling -> corking or capping -> capsule placement -> shrinking or rolling -> labeling and coding -> case packing**
 
-- Glass bottle packaging for wine, fruit wine, spirits, etc.
-- High-end walnut oil, grape seed oil, gift oil and other quality packaging
-- Projects that need to improve the terminal display and gift box attributes
+The machine must receive bottles in a stable, correctly spaced condition. Existing labels, decorative coatings and product temperature can affect the acceptable heating method.
 
-## Selection suggestions
+## Package suitability
 
-- First confirm the material, size and shrinkage temperature range of the rubber cap
-- Reconfirm bottleneck size and target tempo
-- If the front end is a cork structure, it is usually matched with [corking machine series](/en/solutions/corking/)
-- If there are QR codes or date information later, it is recommended to link [laser coding machine series](/en/solutions/laser-coding/)
+Confirm the following before procurement:
 
-## Benchmark reference model
+- Bottle material, shoulder shape, neck dimensions and closure height
+- Capsule material, thickness, dimensions, perforation and decoration
+- Manual or automatic capsule placement
+- Whether rolling, shrinking or both operations are required
+- Product and package sensitivity to heat
+- Exhaust, guarding and operator access available at the installation point
 
-The following models are organized according to the public page and are suitable for comparison of bottle height, rubber cap length and production capacity in the cap reduction section. The model name can directly enter the corresponding product page.
+## Model comparison
 
-| Model | Excerpt of public parameters | Applicable instructions |
-| --- | --- | --- |
-| [Multi-head cap shrinking machine RS-1 / RS-6](/en/solutions/cap-shrinking/multi-head-cap-shrinking-machine) | 2000-6000 p/h; bottle height 180-350 mm; bottle diameter 60-100 mm; cap length 30-70 mm; cap diameter 30-35 mm | Suitable for medium and high speed cap shrinking stations |
-| [Single-head Cap Shrinking Machine](/en/solutions/cap-shrinking/single-head-cap-shrinking-machine) | The same bottle type range as the RS series; more suitable for stand-alone machines or medium and low-speed packaging lines | Suitable for single-station cap shrinking after corking |
-| [Cap rolling/shrinking dual-purpose machine](/en/solutions/cap-shrinking/cap-rolling-shrinking-machine) | Suitable for PVC heat shrinkable rubber caps; taking into account shrinkage and bottle mouth appearance treatment | Suitable for packaging forms with a stronger gift box feel |
+| Model | Selection focus |
+| --- | --- |
+| [RS multi-head capsule shrinker](/en/products/filling/multi-head-cap-shrinking-machine) | Multi-head layout, bottle spacing and line connection |
+| [Single-head capsule shrinker](/en/products/filling/single-head-cap-shrinking-machine) | Compact operation, format range and manual line support |
+| [Cap rolling and shrinking machine](/en/products/filling/cap-rolling-shrinking-machine) | Combined rolling/shrinking requirement and finished appearance |
 
-## Direct access to specific models
+Use each product page for published specifications. Final suitability should be confirmed with the actual bottle and capsule samples.
 
-- [Multi-head cap shrinking machine](/en/solutions/cap-shrinking/multi-head-cap-shrinking-machine)
-- [Single-head cap shrinking machine](/en/solutions/cap-shrinking/single-head-cap-shrinking-machine)
-- [Cap rolling/shrinking machine](/en/solutions/cap-shrinking/cap-rolling-shrinking-machine)
-- [Filling and packaging equipment parameter library overview](/en/products/filling-equipment)
+## What changes the manufacturer price
 
-## Related pages
+- Single-head, multi-head or combined rolling-shrinking configuration
+- Capsule feeding and placement scope
+- Bottle formats and supplied change parts
+- Heating, temperature control, extraction and guarding arrangement
+- Conveyor, spacing device and upstream/downstream controls
+- Destination power supply, packing, delivery and commissioning scope
 
-- [Corking machine series](/en/solutions/corking/)
-- [Labeling machine series](/en/solutions/labeling/)
-- [Laser coding machine series](/en/solutions/laser-coding/)
-- [Brewing equipment series](/en/solutions/brewing/)
+## Information needed for a quote
+
+Provide bottle and closure drawings, physical capsule samples, target line output, current upstream capper or corker, downstream labeler, available conveyor height, power supply, layout and destination. State any appearance standard, approved sample or heat-sensitive decoration that must be protected.
+
+## FAT and service boundary
+
+Acceptance should use the approved bottle, closure and capsule. Record the allowed wrinkles, skew, scorching, surface damage and changeover method in the test protocol. Installation, exhaust ducting, local electrical work, travel, training, spare heaters or consumables and after-sales response are included only when itemized in the quotation or contract.
+
+## Related equipment
+
+- [Corking machines](/en/solutions/corking/)
+- [Capping and sealing machines](/en/solutions/sealing/)
+- [Labeling machines](/en/solutions/labeling/)
+- [Filling and packaging line overview](/en/solutions/filling-packages)
+
+## Request capsule shrinker price
+
+Send bottle and capsule samples or drawings to obtain a model recommendation and itemized factory quote.
+
+- [Request a capsule shrinking machine quote](/en/contact/)
+
+<!-- quote-cta -->

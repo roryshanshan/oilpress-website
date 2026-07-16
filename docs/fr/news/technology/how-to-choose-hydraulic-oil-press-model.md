@@ -1,6 +1,6 @@
 ---
-title: "Comment choisir un modèle de presse à huile hydraulique : séri..."
-description: "Comment choisir un modèle de presse à huile hydraulique : séries 300, 325, 355 et 500: equipment overview, selection guidance, and factory quote support…"
+title: "Choisir une presse hydraulique : séries 300 à 500"
+description: "Comparez les séries 300 à 500 selon la matière, le procédé à chaud ou à froid, le poids par lot, la préparation et le budget de ligne."
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-15"
 ---
@@ -18,11 +18,15 @@ Il faut regarder la taille du lot, la durée d'un cycle, le pressage à chaud ou
 
 ## Repères rapides par série
 
-Les séries 300 et 325 conviennent au pressage à chaud et aux petits lots à froid. Les séries 355, 400 et 426 sont plus stables pour les longues heures et les huiles premium. Les séries 480 et 500 conviennent mieux aux projets plus grands.
+Les séries 300 et 325 sont destinées en priorité au pressage à chaud après nettoyage, broyage et torréfaction ou conditionnement thermique. Les séries 355, 400, 426, 480 et 500 correspondent au pressage hydraulique direct à froid: nettoyage, séchage à basse température seulement si nécessaire, broyage, puis pressage sans conditionnement à haute température par défaut entre broyage et presse.
 
 ## Ne pas oublier les équipements associés
 
 Prétraitement, filtration, remplissage, pièces de rechange et formation ont autant d'effet que la presse elle-même.
+
+## Devis, achat et FAT/SAT
+
+Le devis et le contrat doivent préciser matière, procédé, cuve, utilités, exclusions, responsabilités de l'acheteur et critères d'acceptation. Le FAT vérifie la configuration et le protocole convenus en usine; le SAT est distinct et commence après préparation du site, des utilités, des opérateurs et d'un lot représentatif de l'acheteur. Aucun débit, rendement, service ou délai non écrit et non vérifié ne constitue une promesse fixe.
 
 ## Conclusion
 

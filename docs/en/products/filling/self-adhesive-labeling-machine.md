@@ -1,26 +1,27 @@
 ---
-title: "Fully automatic self-adhesive labeling machine | Factory…"
-description: Get price, procurement, and after-sales support for Fully automatic self-adhesive labeling machine from Shengshi Hecheng manufacturer.
-keywords: Fully automatic self-adhesive labeling machine price, Fully automatic self-adhesive labeling machine quote, Fully automatic self-adhesive labeling machine manufacturer, Fully automatic self-adhesive labeling machine supplier, procurement, after-sales
+title: "TD-5/TD-6 Self-Adhesive Labeler | Manufacturer Quote"
+description: "Compare TD-5 and TD-6 self-adhesive labelers for 50-150 items/minute, with factory pricing and coding or cartoning integration."
+keywords: "TD-5/TD-6 automatic self-adhesive labeling machine price, TD-5/TD-6 automatic self-adhesive labeling machine manufacturer quote, automatic round bottle labeler, TD-5 TD-6, 50-150 labels per minute, complete line integration, export packing, commissioning, after-sales service"
 image: "/images/filling-products/self-adhesive-labeling-machine.webp"
 ---
-# Fully automatic self-adhesive labeling machine
 
-![Fully automatic self-adhesive labeling machine](/images/filling-products/self-adhesive-labeling-machine.webp)
+# Automatic Self-Adhesive Round Bottle Labeler
 
-The fully automatic self-adhesive labeling machine can be used as a reference for specific models in the labeling machine series. This page organizes model positioning, parameter information and supporting suggestions based on public product information to facilitate preliminary selection and page jumps.
+![Automatic Self-Adhesive Round Bottle Labeler](/images/filling-products/self-adhesive-labeling-machine.webp)
 
-## Model positioning
+This vertical labeler applies pressure-sensitive labels to compatible round bottles on a continuous conveyor. Bottle roundness, label-stock behavior and container spacing affect placement quality, so the complete bottle-and-label combination should be trialed.
 
-- Series: [Labeling Machine Series](/en/solutions/labeling/)
-- Parameter overview entrance: [Filling and packaging equipment parameter library](/en/products/filling-equipment#label-adhesive)
-- Applicable scenarios: Suitable for automatic self-adhesive labeling of round bottles.
+## Application and purchasing fit
 
-## Summary of public information
+- Product family: [Labeling machine series](/en/solutions/labeling/)
+- Parameter reference: [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+- Check the published size range against bottle diameter, height and the usable label panel.
+- Confirm whether partial-wrap or full-wrap labeling is required and whether orientation is needed.
+- Coordinate any date coder, label-presence check and reject device with the offered controls.
 
-The vertical round bottle labeling machine is suitable for round bottle labeling in daily cosmetics, beverages, medicine and other industries.
+## Published reference parameters
 
-## Public parameter table
+The following table is retained as the published model reference. Final performance and compatibility must be confirmed in the written quotation and acceptance specification.
 
 <table>
   <tbody>
@@ -54,14 +55,24 @@ The vertical round bottle labeling machine is suitable for round bottle labeling
   </tbody>
 </table>
 
-## Supporting suggestions
+## What to provide for a manufacturer quotation
 
-- First look at the series page: [Labeling machine series](/en/solutions/labeling/)
-- Look at the parameter overview again: [The position of the fully automatic self-adhesive labeling machine in the parameter library](/en/products/filling-equipment#label-adhesive)
-- If it is a complete line project, you can continue to view [Filling Package Overview](/en/solutions/filling-packages) and [Production Line Overview](/en/solutions/production-lines).
+- Bottle samples for every format, including diameter tolerance and surface condition.
+- Label rolls, liner, core, winding direction, dimensions, gap and registration marks.
+- Required speed, conveyor height and direction, upstream bottle spacing and downstream interfaces.
+- Placement, skew, overlap or gap criteria, sample-run plan and included change parts.
 
-## Related pages
+Use representative samples for the factory acceptance test whenever practical. The agreed test material, run duration, sampling method and pass limits should be written into the purchase specification.
 
-- [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+## Price, delivery, and written service scope
+
+Manufacturer pricing depends on the confirmed machine configuration, format parts, controls, guarding, line interfaces, utilities and destination. Delivery schedule, export packing, installation, commissioning, training, spare parts and after-sales support apply only as stated in the written quotation and contract.
+
+## Related equipment and next step
+
 - [Labeling machine series](/en/solutions/labeling/)
-- [Contact us for complete line advice](/en/contact/)
+- [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+- [Filling and packaging line overview](/en/solutions/filling-packages)
+- [Production line planning](/en/solutions/production-lines)
+- [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+- [Request a configuration-based manufacturer quotation](/en/contact/)

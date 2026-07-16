@@ -1,31 +1,47 @@
 ---
-title: "Development History | Hydraulic Oil Press Manufacturer"
-description: Development History — Shandong Shengshi Hecheng designs and builds hydraulic oil presses and edible oil lines with global project support.
-keywords: Development History, Shandong Shengshi Hecheng, hydraulic oil press manufacturer, oil press equipment factory, oilseed processing equipment, oil press R&D, Company history, Entrepreneurship beginning
+title: "Supplier Records | Verify Factory Before Buying"
+description: "Verify company registration, product revisions, manufacturing records, shipment evidence, sample trials, and contract milestones before ordering."
+keywords: supplier verification, factory records, oil press manufacturer, shipment records, product revision, procurement due diligence
 ---
 
-# Development History
+# Supplier Records and Procurement Verification
 
-## 2008 - The Beginning
+Company-age, production-capacity, export-coverage, and technology-leadership statements should not be used for procurement unless supported by current, checkable records. A buyer can verify the supplier and the ordered equipment through the following evidence path.
 
-Shandong Shengshi Hecheng Machinery Co., Ltd. was established in 2008, specializing in the research and development and manufacturing of hydraulic oil press equipment.
+## Legal Entity Records
 
-## 2010 - Technological Breakthrough
+- Current business license and registered company name
+- Registration number, registered address, legal representative, and permitted business scope
+- Contracting entity, invoice issuer, bank beneficiary, and export entity
+- Factory address and the relationship between the factory operator and contracting company
 
-Successfully developed the first generation of automated hydraulic oil press, marking an important technological breakthrough for the company.
+Use official registries or independent company checks where available. Do not infer a founding year or operating history from marketing copy alone.
 
-## 2015 - Production Expansion
+## Product and Engineering Revision Records
 
-The company moved to a modern production base, increasing production capacity to 2,000 units per year.
+- Model naming history and revision-controlled general arrangement drawings
+- Hydraulic and electrical diagram revisions
+- Bill-of-material changes, component substitutions, and software or recipe versions
+- Test procedures, calibration records, nonconformance reports, and corrective actions
+- Serial or order identifiers linking the delivered machine to its records
 
-## 2020 - International Development
+## Manufacturing and Delivery Evidence
 
-Products began to be exported to overseas markets, with service networks covering Southeast Asia, Africa, the Middle East and other regions.
+- Current production schedule and anonymized order-status records
+- Dated factory test reports, packing lists, commercial invoices, and shipment documents where disclosure is permitted
+- Photos or unedited video that show the machine nameplate, test instruments, test sequence, packing, and container loading
+- Buyer or third-party inspection reports with identifiable dates, models, and acceptance results
 
-## 2023 - Innovation Leadership
+Export destinations, shipment volume, or market coverage should only be stated when the underlying records and publication permission are available.
 
-Launched a new series of intelligent oil pressing equipment, leading the direction of industry technology development.
+## Procurement Milestones
 
-## Future Outlook
+1. Confirm the legal and commercial entities.
+2. Approve the model, scope, drawings, utilities, and destination requirements.
+3. Run a representative sample trial and agree on acceptance criteria.
+4. Review production and document milestones.
+5. Witness factory acceptance and close corrective actions.
+6. Confirm packing, shipment documents, spare parts, warranty, and support scope.
 
-We will continue to uphold the spirit of innovation and provide better oil processing solutions for customers worldwide.
+- [Review current equipment models](/en/products/)
+- [Request supplier documents and a quote](/en/contact/)

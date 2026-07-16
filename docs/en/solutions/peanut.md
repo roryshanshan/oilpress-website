@@ -1,165 +1,61 @@
 ---
-title: "Hydraulic Oil Press Machine for Peanut Oil Processing |…"
-description: "Get a peanut oil production line plan with process design, equipment list, factory quote, procurement, and after-sales service."
+title: "Peanut Oil Hydraulic Press Line | Equipment & Factory Quote"
+description: "Compare hydraulic and screw routes on the same peanut lot; verify cleaning, crushing, roasting, filtered oil, cake residue, equipment list, and quote scope."
 keywords: Hydraulic Oil Press Machine for Peanut Oil Processing quote, Hydraulic Oil Press Machine for Peanut Oil Processing production line, equipment list, turnkey solution, factory procurement, after-sales service
 image: "/images/300-325-series.webp"
 ---
-# <center>Hydraulic Oil Press Machine for Peanut Oil Processing</center>
+# Peanut Oil Pressing Line
 
-## <center>325 Hydraulic Oil Press <br> High Pressure Solution for Peanut & Groundnut</center>
-![325 Series hydraulic Oil Press](/images/300-325-series.webp)
+Peanut oil equipment must be sized on cleaned kernels, not in-shell peanuts. The line also needs a defined product route: cold-pressed oil, roasted aromatic oil, or crude oil for further refining. Aflatoxin control begins with raw-material segregation and laboratory testing, not with heating or pressing.
 
-## Why Choose a Hydraulic Oil Press for Peanut Oil?
+![Hydraulic peanut oil press equipment reference](/images/300-325-series.webp)
 
-The **hydraulic oil press machine uses a slow and uniform hydraulic pressing process**, which is superior to mechanical screw pressing in terms of oil yield, oil quality and machine lifespan.
+![Hydraulic press working reference](/images/325hydraulic.webp)
 
-Key advantages of hydraulic oil pressing:
-- Oil yield up to **55%**
-- Residual oil as low as **6–8%**
-- Stable hydraulic system ensures long-term reliability
-- No chemical solvents, 100% physical pressing
-- Suitable for both hot pressing and cold pressing
+## Raw Material Boundary
 
-## <center>**325 model hydraulic oil press machine** </center>
-## <center>**Factory direct hydraulic oil press manufacturer from China** </center>
-![325 Hydraulic Oil Press Machine](/images/325hydraulic.webp)
-As you can see from the picture above, the **hydraulic oil press model 325** which has **325 tons** down pressure ability is suitable for peanut/groundnut.The pressed cake can be very solid, which means the **residual oil rate is very low**.
+Declare in-shell peanuts or kernels, variety, shell ratio, moisture, impurities, damaged or moldy fraction, storage history, and available aflatoxin results. Reject suspect lots under the buyer's sampling plan. Pressing and roasting must not be represented as aflatoxin treatment.
 
-Compared with traditional screw oil presses and mechanical oil presses, the **hydraulic oil press machine** offers several advantages for peanut oil production:
-- **Higher and more stable pressing pressure**: The hydraulic system provides consistent pressure throughout the pressing process, ensuring optimal oil extraction from peanuts.
-- **Lower residual oil content in peanut cake**: The high pressure exerted by the hydraulic oil press results in a drier peanut cake with minimal oil content, maximizing oil yield.
-- **More suitable for high-value edible oil production**: The gentle pressing action of the hydraulic oil press helps maintain the nutritional integrity of the peanut oil, making it ideal for premium edible oil products.
+## Recommended Pretreatment
 
-## Video of Hydraulic Oil Press Working
+1. Shell the peanuts and separate shells, stones, metal, and foreign material.
+2. Sort out moldy, insect-damaged, discolored, or rancid kernels.
+3. Measure and equalize moisture.
+4. Crush, flake, or size the kernels consistently.
+5. For aromatic oil, roast or steam-condition with a recorded recipe; keep cold-press material separate.
 
-<div style="margin: 2rem 0;">
-  <iframe width="100%" height="500" src="https://www.youtube.com/embed/JvgvsfyJq0U?autoplay=1&mute=0"
-          frameborder="0"
-          loading="lazy"
-          title="Hydraulic Oil Press Working Video"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-          style="width: 100%; height: 500px; display: block;">
-  </iframe>
-</div>
+![Peanut oil process-flow reference](/images/Peanut-oil-process-flow.webp)
 
-<div style="margin: 2rem 0;">
-  <iframe width="100%" height="500" src="https://www.youtube.com/embed/3uE1lah9Dpw?autoplay=1&mute=0"
-          frameborder="0"
-          loading="lazy"
-          title="Hydraulic Oil Press Working Video"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-          style="width: 100%; height: 500px; display: block;">
-  </iframe>
-</div>
+## Pressing Route and Equipment
 
-## Technical Parameters of 325 Hydraulic Oil Press machine for Peanut Oil
-- Model: 325 hydraulic oil press
-- power supply: 3 phase, 380V, 50Hz 
-- Motor power: 2.2 KW
-- Oil cylinder outer diameter: 325 mm，Oil cylinder inner diameter: 260 mm
-- Total Pressing Force: 325 tons
-- Stroke 850 mm → Minimum single pressing amount: 5 kg  
-- Equipment weight uses original range, in tons (t):1.4ton
-- System pressure: 60 MPa
-- Oil cylinder material: 27 Silicon Manganese Steel
-- Frame material: H-type channel steel
-- Hook quantity: 4
-- Barrel material: Carbon steel with nickel plating
-- Barrel inner diameter: 390mm 
-- Barrel height: 800mm
-- Hydraulic oil model: No. 46 wear-resistant hydraulic oil press special hydraulic oil
-- Hydraulic oil capacity: 90kg
-- **Maximum feeding capacity**: 100 kg crushed peanut powder (one time)
+Hydraulic batch pressing suits defined roasted-oil and specialty batch products. A screw press or pre-press route should be compared for continuous commercial throughput. Compare routes on the same approved peanut lot and record clean-kernel input, oil, cake, filtration load, flavor, and operating time.
 
-| Item | Specification |
-|------|--------------|
-| Model | 325 Hydraulic Oil Press |
-| Pressing Force | 325 Tons (Hydraulic) |
-| Hydraulic Pressure | 60 MPa |
-| Motor Power | 2.2 kW |
-| Voltage | 380V / 50Hz / 3 Phase |
-| Barrel Size | Ø390 × 800 mm |
-| Max Feeding Capacity | 100 kg |
-| Equipment Weight | 1.4 tons |
+![Peanut pressing process reference](/images/process-image-48001f0b27.webp)
 
----
+### Equipment Entry Points
 
+- [Pre-press machine](/en/products/pre-press-machine)
+- [Thermal-oil roasting pan](/en/products/heat-conducting-oil-flat-bottom-frying-pan)
+- [325 Series hydraulic oil press](/en/products/325)
+- [Pneumatic filter press](/en/products/pneumatic-filter-press)
+- [Cake pulverizer](/en/products/cake-pulverizer)
+- [Filling equipment](/en/products/filling-equipment)
 
-## Recommended feeding volume for hydraulic oil press 325
+## Filtration and Finished-Oil Target
 
-- Suggested feeding amount per press: **60 kg**  
-  (to save feeding time)
+Specify settled or filtered oil, visible sediment, clarity, color, natural or roasted aroma, burnt notes, and whether refining is included. Define sampling time, tanks, package format, and laboratory tests separately from press operation.
 
-- If you need to feed **100 kg** at one time:  
-  **Pre-pressing action is required** before the main pressing.
+## Data Required for a Quotation
 
-## Processing Time for hydraulic oil press 325
-- Pre-pressing time: **5-10 minutes**  
-- Main pressing time: **30-40 minutes**
-- Total time: **35-50 minutes** for 100 kg peanut powder
-- 1.5 hours for 200 kg peanut powder
+- In-shell or kernel sample, shell ratio, moisture, impurities, damaged or moldy fraction, storage condition, and available aflatoxin report
+- Clean-kernel input per batch, hour, or day, shifts, seasonality, and storage plan
+- Cold-pressed, roasted aromatic, hydraulic batch, screw-press, or pre-press route
+- Settling, filtration, refining, tank, package, cake-handling, sampling, and test scope
+- Heat source, power, floor space, destination, and delivery terms
 
-## Peanut Oil Yield of hydraulic oil press 325
-- Oil yield: **45-55%** (related to raw material quality)
+## Acceptance Records
 
-## Overview of peanut pressing process using Hydraulic Oil Press
-- ![Peanut oil process flow](/images/Peanut-oil-process-flow.webp)
-- Crush peanuts into powder with a [crusher machine(pre-press machine)](/en/products/pre-press-machine)
-- Roast the peanut powder in a [flat-bottomed wok](/en/products/heat-conducting-oil-flat-bottom-frying-pan) to enhance aroma and oil yield 
-- Feed the roasted peanut powder into the [hydraulic oil press](/en/products/325) barrel
-- Press the oil out of the peanut powder
-- Collect the peanut oil and filter it using a [pneumatic filter press](/en/products/pneumatic-filter-press) for clarity and purity.
-- Collect the pressed peanut cake for further processing or use, such as pulverizing for additional oil extraction or as animal feed.
-  - The pressed cake can be further processed using a [Cake Pulverizer machine](/en/products/cake-pulverizer) to achieve higher oil extraction rates or can be used as animal feed directly.
-- Store the filtered peanut oil in clean, food-grade containers for distribution or further refining if necessary.
-- Configure suitable filling equipment according to the production demand, and fill the peanut oil into the bottle.
-- ![Peanut hot pressing process](/images/process-image-48001f0b27.webp)
-## If your working space is limited
-If your **working space** is limited, we can provide a crushing and stir-frying all-in-one machine, which integrates auto lift-feeding, crushing and roasting, with a small area and easy operation, suitable for small workshops and family workshops.
-auto lift-feeding, crushing and roasting video attached below:
-<div style="margin: 2rem 0;">
-  <iframe width="100%" height="500" src="https://www.youtube.com/embed/ggkjZM5n0vM?autoplay=1&mute=0"
-          frameborder="0"
-          loading="lazy"
-          title="Hydraulic Oil Press Working Video"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-          style="width: 100%; height: 500px; display: block;">
-  </iframe>
-</div>
-
-
-### ⚙️ Hydraulic Oil Press machine Core Features
-### ⚙️ Technical Highlights
-- **High Pressure Stability**: Imported hydraulic components, continuous pressure output;
-- **High Oil Yield**: Optimized barrel structure and pressing plate design;
-- **Quiet Operation**: Low noise hydraulic system;
-- **Energy Saving and Environmental Protection**: Low energy consumption, no waste water or gas emissions;
-- **Easy Operation and Maintenance**: Humanized design, convenient cleaning and disassembly.
-- **Efficient Oil Yield**: Adopts optimized piston structure and barrel design, oil yield increased to 48%-55%.
-- **Pure Physical Pressing**: No addition of any chemical solvents, ensuring pure and healthy oil quality.
-- **Multi-purpose Adaptability**: Not only suitable for peanuts, but also for sesame, walnuts, sunflowers and other oil crops.
-
-
-### Customer Service
-- ✅ Free sample testing (customers can send raw materials)
-- ✅ Technical consultation and project design
-- ✅ On-site installation, commissioning and training
-- ✅ One-year warranty, lifetime maintenance
-- ✅ Customized exclusive production lines and logo identification
-
-
-## Contact Us
-
-If you are interested in peanut pressing solutions, please contact our technical team:
-
-- 📞 **Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888, Yineng Street, Development Zone, Qingzhou City, Shandong Province, China
-
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable peanut pressing solutions.
+Identify the approved peanut lot and its aflatoxin report. Record shelling and sorting loss, kernel moisture, crush or flake condition, roast or steam-conditioning curve, feed or charge, cycle time, oil temperature, crude and filtered oil, and cake. Evaluate color, natural or roasted aroma, burnt notes, clarity, cake discharge, and cleaning, while keeping contaminant acceptance tied to laboratory results.
 
 ## Related Links
 
@@ -167,26 +63,13 @@ We provide free technical consultation, sample testing, and on-site inspection s
 - [Seed Oil Solutions](/en/solutions/seed-oils)
 - [Soybean Solutions](/en/solutions/soybean)
 - [Sesame Solutions](/en/solutions/sesame)
-- [325 Series Hydraulic Oil Press](/en/products/325)
 - [Contact Technical Team](/en/contact/)
-- [中文页面](/zh/solutions/peanut)
+- [Chinese page](/zh/solutions/peanut)
 
+## Request a Configuration and Quote
 
-## Other Notes
+Send the approved peanut sample and test data, clean-kernel throughput, product route, filtration and cake scope, utilities, layout, and destination for a line quotation based on the same-lot trial.
 
-Our factory specializes in the research, development and production of practical oil refining production line equipment, with scales ranging from small to large, daily production capacity of 1-100 tons can be designed and manufactured. We can provide overall design and professional design for customers, providing users with advanced technology and oil refining equipment at the domestic leading level. We can meet different levels and different requirements of process design and technical services according to user requirements. Our factory is a national key backbone enterprise for oil machinery, specializing in the research and development of oil refining technology.
-
----
-```yaml
-seo:
-  title: Hydraulic Oil Press Machine for Peanut Oil Processing | 325 Hydraulic Oil Press Manufacturer
-  description: High pressure hydraulic oil press machine for peanut and groundnut oil processing. 325 hydraulic oil press offers up to 55% oil yield, low residual oil, stable performance. Factory direct supply.
-  keywords: hydraulic oil press machine, hydraulic oil press for peanut, hydraulic oil press manufacturer, peanut hydraulic oil press, groundnut hydraulic oil press, high pressure oil press machine, industrial hydraulic oil press
-
-## Get Price & Quote
-
-Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
-
-- [Get Price & Quote](/en/contact/)
+- [Request a peanut oil line quote](/en/contact/)
 
 <!-- quote-cta -->

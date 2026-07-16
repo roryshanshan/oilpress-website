@@ -1,13 +1,19 @@
 {
-  "noFrontmatter": [
-    "zh/products/Sesame Cleaning Machine.md"
-  ],
+  "noFrontmatter": [],
   "missing": {
     "title": [],
     "description": [],
     "keywords": []
   },
+  "length": {
+    "titleTooLong": [],
+    "descriptionTooLong": []
+  },
   "duplicates": {
-    "byLang": {}
+    "byLang": {},
+    "descriptionsByLang": {}
+  },
+  "intent": {
+    "missingCommercialIntent": []
   }
 }

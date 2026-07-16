@@ -1,26 +1,27 @@
 ---
-title: Etiqueteuse semi-automatique pour bouteilles rondes DF-T200 prix
-description: Demandez le prix et le devis pour Etiqueteuse semi-automatique pour bouteilles rondes DF-T200. Fabricant Shengshi Hecheng, livraison et SAV.
-keywords: Etiqueteuse semi-automatique pour bouteilles rondes DF-T200 prix, acheter Etiqueteuse semi-automatique pour bouteilles rondes DF-T200, devis usine, fabricant chinois, exportation, service après-vente
+title: "Étiqueteuse ronde DF-T200 | Prix fabricant et devis"
+description: "Étiqueteuse semi-automatique DF-T200 de 15 à 35 flacons/min pour bouteilles rondes de 15-150 mm. Le devis précise les formats, le prix et le SAV."
+keywords: "étiqueteuse semi-automatique DF-T200 prix, devis étiqueteuse semi-automatique DF-T200, 15-35 flacons/min pour bouteilles rondes de diamètre 15-150 mm, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/df-t200-round-bottle-labeler.webp"
 ---
-# Etiqueteuse semi-automatique pour bouteilles rondes DF-T200
 
-![Étiqueteuse semi-automatique de bouteilles rondes DF-T200](/images/filling-products/df-t200-round-bottle-labeler.webp)
+# Étiqueteuse semi-automatique DF-T200 pour bouteilles rondes
 
-L'étiqueteuse semi-automatique de bouteilles rondes DF-T200 peut être utilisée comme référence pour des modèles spécifiques de la série d'étiqueteuses. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+![Étiqueteuse semi-automatique DF-T200 pour bouteilles rondes](/images/filling-products/df-t200-round-bottle-labeler.webp)
 
-## Positionnement du modèle
+La DF-T200 applique des étiquettes autocollantes sur des contenants ronds compatibles, avec chargement et retrait par l'opérateur. Elle convient aux petites séries et aux formats variés, à condition de valider le rouleau d'étiquettes, la surface de la bouteille et le geste opérateur.
 
-- Série : [Série de machines d'étiquetage](/fr/solutions/labeling/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#label-dft200)
-- Scénarios applicables : adaptés aux petits lots et à la commutation multi-spécifications.
+## Domaine d'application et critères d'achat
 
-## Résumé des informations publiques
+- Famille : [Série d'étiqueteuses](/fr/solutions/labeling/)
+- Repère technique : [Paramètres publiés de Étiqueteuse semi-automatique DF-T200 pour bouteilles rondes](/fr/products/filling-equipment#label-dft200)
+- Comparer le diamètre complet du contenant et la zone d'étiquetage avec les plages publiées.
+- Intégrer le chargement manuel dans l'estimation de la cadence pratique.
+- Préciser s'il faut une étiquette enveloppante, partielle ou un repérage particulier.
 
-L'étiqueteuse semi-automatique pour bouteilles rondes DF-T200 convient comme modèle représentatif dans la série d'étiqueteuses.
+## Paramètres de référence publiés
 
-## Table des paramètres publics
+Le tableau ci-dessous est conservé comme repère de gamme. Les performances et la compatibilité finales doivent être confirmées dans l'offre technique et le protocole de réception.
 
 <table>
   <tbody>
@@ -56,14 +57,24 @@ L'étiqueteuse semi-automatique pour bouteilles rondes DF-T200 convient comme mo
   </tbody>
 </table>
 
-## Suggestions complémentaires
+## Données nécessaires au devis fabricant
 
-- Premier coup d'oeil à la page de la série : [Série de machines d'étiquetage](/fr/solutions/labeling/)
-- Regardez à nouveau l'aperçu des paramètres : [La position de l'étiqueteuse semi-automatique de bouteilles rondes DF-T200 dans la bibliothèque de paramètres](/fr/products/filling-equipment#label-dft200)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+- Échantillons de contenants ronds, tolérance de diamètre, état de surface et éventuelles coutures.
+- Rouleau, support, mandrin, sens d'enroulement, dimensions et position demandée.
+- Taille des lots, fréquence des changements, organisation opérateur et alimentation électrique.
+- Tolérances d'inclinaison, chevauchement ou écart et protocole d'essai.
 
-## Pages connexes
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
+## Prix, livraison et périmètre SAV écrit
+
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
+
+## Équipements associés et prochaine étape
+
 - [Série d'étiqueteuses](/fr/solutions/labeling/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+- [Paramètres publiés de Étiqueteuse semi-automatique DF-T200 pour bouteilles rondes](/fr/products/filling-equipment#label-dft200)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Planification des lignes de production](/fr/solutions/production-lines)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

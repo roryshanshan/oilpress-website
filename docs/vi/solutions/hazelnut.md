@@ -1,132 +1,68 @@
 ---
-title: Giải pháp hồ trăn (Dầu hồ trăn) báo giá | giải pháp trọn gói
-description: "Giải pháp trọn gói Giải pháp hồ trăn (Dầu hồ trăn): quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
-keywords: Giải pháp hồ trăn (Dầu hồ trăn) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+title: "Ép lạnh dầu hạt phỉ | Thiết bị và báo giá"
+description: "Tách vỏ, sấy hoặc rang nhẹ rồi ép lạnh hạt phỉ; chọn máy nghiền, ép, lọc và bồn. Kiểm tra nhiệt độ, hương vị, công suất mẻ và vật liệu tiếp xúc."
+keywords: "Hạt phỉ (dầu hạt phỉ) báo giá, máy ép dầu, quy trình sản xuất, mua từ nhà máy, thiết bị phụ trợ, hậu mãi"
 image: "/images/an-overview-of-the-cold-pressing-process-of-hazeln-98e165898b.webp"
 ---
-# Giải pháp hồ trăn (Dầu hồ trăn)
+# Giải pháp Hạt phỉ (dầu hạt phỉ)
 
-## Tổng quan
+![Hạt phỉ (dầu hạt phỉ) - quy trình và thiết bị ép dầu](/images/an-overview-of-the-cold-pressing-process-of-hazeln-98e165898b.webp)
 
-Hạt hồ trăn là nguyên liệu dầu quan trọng; dầu hồ trăn có giá trị dinh dưỡng cao và ứng dụng rộng rãi trong dầu ăn cao cấp và thực phẩm bổ dưỡng. Công ty TNHH Shengshi Hecheng Sơn Đông cung cấp giải pháp ép hồ trăn toàn diện cho nhiều quy mô sản xuất。
+Hạt phỉ cần được tách sạch vỏ, loại nhân hỏng hoặc ôi, sấy/điều hòa độ ẩm và nghiền đều trước khi ép. Ép lạnh giữ hương nhẹ cho dầu thực phẩm hoặc mỹ phẩm cao cấp, còn rang nhẹ chỉ phù hợp khi sản phẩm cần mùi hạt rõ hơn và đã thử mẫu. Dầu nên lắng, lọc tinh rồi chứa trong bồn và bao bì hạn chế ánh sáng, oxy.
 
-## 榛子特性
+## Dữ liệu chọn quy trình
 
-### 📊 基本参数
-- **含油率**: 55-65%
-- **蛋白质含量**: 15-20%
-- **主要脂肪酸**: 油酸（75-85%）、亚油酸（10-15%）、棕榈酸（3-5%)
-- **适宜温度**: 压榨温度控制在60-80℃
+| Hạng mục | Khuyến nghị |
+| --- | --- |
+| Hàm lượng dầu tham khảo | Khoảng 55-65% |
+| Tuyến công nghệ ưu tiên | Ép lạnh sau nghiền |
+| Model hoặc hướng thiết bị | 355 / 400 / 426 |
+| Cách chốt công suất | Dựa trên thử mẫu, số mẻ, thời gian chu kỳ và chất lượng dầu |
 
-### 🌱 生长特性
-- **生长周期**: 4-6年
-- **适宜气候**: 温带、湿润地区
-- **土壤要求**: 肥沃、排水良好的土壤
-- **年产量**: 全球年产量超过80万吨
+> Ép lạnh phù hợp với dầu thực phẩm và mỹ phẩm cao cấp; nhiệt độ cao có thể làm thay đổi hương vị.
 
-## 加工工艺
-+ 榛子压榨工艺(建议426AC-390/480AC-390/500AC-390)
-     + 冷榨工艺：核桃经过筛选、清洗、高速粉碎后直接入液压榨油机料桶压榨。
-     + 采用此工艺压榨的核桃油，色泽金黄，入口回甘，压榨出的油不用水化处理，下锅不起泡。
-     + ![榛子压榨工艺](/images/an-overview-of-the-cold-pressing-process-of-hazeln-98e165898b.webp)
+## Quy trình khuyến nghị
 
+1. Tách vỏ và phân loại nhân
+2. Làm sạch, loại bỏ nhân hỏng
+3. Nghiền đồng đều
+4. Ép thủy lực ở nhiệt độ thấp
+5. Lọc và đóng chai chống oxy hóa
 
+## Máy ép và thiết bị chính
 
-## 技术优势
+- [Dòng 355](/vi/products/355)
+- [Dòng 400](/vi/products/400)
+- [Dòng 426](/vi/products/426)
+- [Thiết bị tiền xử lý](/vi/products/pre-treatment)
+- [Thiết bị lọc và hậu xử lý](/vi/products/post-treatment)
+- [Thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
 
-### 🎯 精准控制
-- 温度控制：±2℃精度
-- 压力控制：智能调节
-- 湿度控制：最佳含水量
+## Dữ liệu cần cho báo giá
 
-### 💧 油质保证
-- 低温工艺保留营养
-- 物理压榨无化学残留
-- 出油率高达56-62%
+- Mẫu hạt nguyên vỏ hay nhân, tỷ lệ nhân/vỏ, độ ẩm, nhân hỏng, mùi ôi và điều kiện bảo quản
+- Khối lượng nhân cần xử lý mỗi mẻ/ngày, số ca và cách cấp liệu vào máy nghiền, máy ép
+- Mục tiêu ép lạnh hay hương rang nhẹ, mục đích thực phẩm/mỹ phẩm và nhiệt độ cần theo dõi
+- Mức cặn, độ trong, màu, mùi sau lắng/lọc, vật liệu bồn và quy cách chai
+- Điện áp, diện tích cho tách vỏ - nghiền - ép - lọc, yêu cầu vệ sinh và điểm giao hàng
 
-### 🔄 连续生产
-- 24小时不间断运行
-- 自动化进料出料
-- 智能故障报警
+Hiệu suất thực tế phụ thuộc giống, độ ẩm, mức nghiền, nhiệt độ và thời gian ép. Không nên dùng một con số sản lượng cố định thay cho thử nghiệm nguyên liệu.
 
-## 产品应用
+## Kiểm tra nghiệm thu
 
-### 🍳 食用油
-- 榛子油：主要食用油品种
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
+Chạy đúng mẫu hạt phỉ đã duyệt và ghi tỷ lệ vỏ sót, độ ẩm, cỡ nghiền, khối lượng nạp, nhiệt độ dầu cùng chu kỳ ép. Sau lắng/lọc, kiểm tra độ trong, màu, hương hạt, dấu hiệu khét/ôi, khả năng tháo bã và vệ sinh; số liệu thu dầu được gắn với lô mẫu, không chuyển thành cam kết cố định.
 
-### 💊 保健品
-- 榛子油：营养补充剂
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
+## Trang liên quan
 
-### 💄 美容护肤
-- 榛子油：天然护肤油
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
+- [Tổng quan giải pháp](/vi/solutions/)
+- [Dây chuyền sản xuất dầu hoàn chỉnh](/vi/solutions/production-lines)
+- [Tất cả model máy ép dầu thủy lực](/vi/products/)
+- [Hướng dẫn mua hàng và kỹ thuật](/vi/news/technology/)
 
-## 市场分析
+## Nhận giá và cấu hình
 
-### 📈 发展趋势
-- 高端食用油、营养保健品需求增长
-- 高端榛子油市场扩大
-- 出口贸易机会增加
+Gửi nguyên liệu, công suất, chất lượng dầu mục tiêu và điểm đến để nhận cấu hình cùng báo giá nhà máy.
 
-### 🎯 目标市场
-- 食用油加工企业
-- 食品加工企业
-- 保健品企业
-- 出口贸易企业
-
-
-
-## 质量标准
-
-### 🏆 产品质量标准
-- 符合国家榛子油标准
-- 符合食品安全标准
-- 符合出口食品标准
-- 符合有机食品认证
-
-### 🔍 检测项目
-- 酸价检测
-- 过氧化值检测
-- 色泽透明度检测
-- 重金属含量检测
-- 农药残留检测
-
-## 可持续发展
-
-### 🌱 环保生产
-- 废弃物循环利用
-- 节能减排工艺
-- 绿色生产标准
-
-### 🔄 资源利用
-- 副产品综合利用
-- 产业链延伸
-- 循环经济模式
-
-### 🌍 社会责任
-- 支持农民增收
-- 保障食品安全
-- 保护生态环境
-
-## 联系我们
-
-如果您对榛子压榨解决方案感兴趣，请联系我们的技术团队：
-
-- 📞 **咨询热线**: +86 19906365856
-- 📧 **邮箱**: gavin@oil-pressing-machine.com
-- 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
-
-我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的榛子压榨解决方案。
-
-## Nhận giá & báo giá
-
-Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
-
-- [Nhận giá & báo giá](/vi/contact/)
+- [Yêu cầu báo giá](/vi/contact/)
 
 <!-- quote-cta -->

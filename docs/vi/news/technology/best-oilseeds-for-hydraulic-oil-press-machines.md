@@ -1,6 +1,6 @@
 ---
-title: "Nguyên liệu nào phù hợp nhất với máy ép dầu thủy lực: Hướng dẫ..."
-description: "Nguyên liệu nào phù hợp nhất với máy ép dầu thủy lực: Hướng dẫn chọn cho dự án dầu cao cấp: equipment overview, selection guidance, and factory quote…"
+title: "Nguyên liệu phù hợp với máy ép dầu thủy lực"
+description: "So sánh mè, óc chó, hạnh nhân, hạt lanh, tía tô và hạt bí theo hàm lượng dầu, tiền xử lý, ép nóng/lạnh, chất lượng và yêu cầu thử mẫu."
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-21"
 ---
@@ -18,15 +18,19 @@ Nguyên liệu thường phù hợp khi có hàm lượng dầu trung bình ho�
 
 ## Nhóm nguyên liệu phù hợp nhất
 
-Vừng rất phù hợp cho cả ép nóng dầu mè thơm truyền thống và ép lạnh dầu mè cao cấp. Lạc linh hoạt cho cả ép nóng và ép lạnh. Óc chó, hạnh nhân và các loại nhân cứng thích hợp cho dầu ép lạnh giá trị cao nhưng cần model mạnh hơn. Hạt lanh, tía tô, bí ngô và nho phù hợp với thị trường dầu sức khỏe. Cải dầu, đậu nành và trà籽 cũng có thể ép bằng máy thủy lực nếu tiền xử lý và lọc dầu được bố trí đúng.
+Với dòng 300/325, hãy đánh giá lạc, mè, hạt cải, hướng dương, hạt lanh và hạt trà theo quy trình ép nóng có hồ sơ: làm sạch, nghiền, rang hoặc điều hòa nhiệt, ép và lọc. Với dòng 355-500, quy trình ép lạnh mặc định là làm sạch, sấy nhiệt độ thấp chỉ khi cần, nghiền rồi ép thủy lực trực tiếp. Đậu nành, bùn dầu, đất tẩy đã qua sử dụng, bã mỡ động vật và vật liệu phi tiêu chuẩn không phải khuyến nghị mặc định.
 
 ## Gợi ý chọn model
 
-Dòng 300 và 325 phù hợp ép nóng và ép lạnh quy mô nhỏ. Dòng 355 đến 500 phù hợp ép lạnh dài hạn và nguyên liệu cứng hơn. Nếu bán lẻ trực tiếp, nên bổ sung lọc dầu ngay từ đầu.
+Dòng 300 và 325 dùng ở đây cho ép nóng sau xử lý nhiệt. Dòng 355-500 dùng cho ép lạnh trực tiếp sau làm sạch, sấy nhẹ khi cần và nghiền, không mặc định gia nhiệt mạnh trước máy ép. Chọn hệ thống lọc theo tiêu chuẩn dầu thành phẩm và thử nghiệm cùng lô.
+
+## Báo giá và nghiệm thu
+
+Báo giá phải nêu lô nguyên liệu, quy trình, thùng ép, tiện ích, lọc, hạng mục loại trừ và trách nhiệm hai bên. FAT xác nhận cấu hình và quy trình thử tại nhà máy; SAT kiểm tra riêng dây chuyền lắp đặt với nguyên liệu đại diện của bên mua. Kết quả mẫu không trở thành bảo đảm nếu hợp đồng không nêu phương pháp, sai số và tiêu chí đạt.
 
 ## Kết luận
 
-Vừng, lạc, óc chó, hạt lanh, bí ngô, trà籽 và nhiều nguyên liệu giá trị cao khác đều rất phù hợp với máy ép dầu thủy lực nếu chọn đúng quy trình và đúng model.
+Vừng, lạc, óc chó, hạt lanh, bí ngô, hạt trà và nhiều nguyên liệu giá trị cao khác đều rất phù hợp với máy ép dầu thủy lực nếu chọn đúng quy trình và đúng model.
 
 ## Tài nguyên liên quan
 

@@ -1,54 +1,72 @@
 ---
-title: "Dòng máy mã hóa laser | Model, thông số & báo giá nhà máy"
-description: Xem dòng máy mã hóa laser cho dây chuyền dầu ăn và đóng gói lỏng. So sánh model và yêu cầu báo giá nhà máy.
-keywords: Dòng máy mã hóa laser, máy mã hóa laser, mã hóa số lô ngày tháng, thiết bị mã hóa mã QR, mã hóa bao bì dầu ăn, thiết bị đánh dấu truy xuất nguồn gốc
+title: "Máy khắc mã laser | Giá và báo giá tích hợp"
+description: "So sánh laser CO2 và sợi quang cho ngày, lô và mã truy xuất; thử trên vật liệu thật trước khi nhận báo giá tích hợp dây chuyền."
+keywords: giá máy khắc mã laser, laser CO2 bao bì, laser sợi quang, mã lô truy xuất, báo giá nhà sản xuất, mua thiết bị đóng gói
 image: "/images/filling-solutions/laser-coding.webp"
 ---
 
-# Dòng máy mã hóa laser
+# Máy khắc mã và đánh dấu bằng laser
 
-![Ảnh chụp thực tế của máy khắc laser sợi quang](/images/filling-solutions/laser-coding.webp)
+![Máy khắc laser sợi quang](/images/filling-solutions/laser-coding.webp)
 
-Máy mã hóa laser được sử dụng để đánh dấu ngày sản xuất, lô hàng, mã truy xuất nguồn gốc, mã QR và thông tin chống hàng giả trong quá trình sau đóng gói. Chúng là thiết bị quan trọng cho dây chuyền đóng gói hiện đại để đạt được khả năng truy xuất nguồn gốc chất lượng và đánh dấu tuân thủ. So với mã hóa thủ công hoặc phương pháp truyền thống, mã hóa bằng laser phù hợp hơn cho sản xuất liên tục và quản lý tiêu chuẩn hóa.
+Laser có thể tạo ngày, số lô, số sê-ri hoặc mã truy xuất mà không dùng mực. Tuy nhiên, nguồn laser phải phù hợp với vật liệu và dấu khắc mong muốn. Chai, nắp, màng nhãn và thùng carton phản ứng khác nhau, nên kết quả thử trên mẫu thật có giá trị hơn việc chọn máy chỉ theo công suất nguồn.
 
-## Địa điểm áp dụng
+## Vị trí lắp đầu khắc
 
-- Mặt trên hoặc mặt bên của nắp chai
-- Bề mặt nhãn
-- Bao bì carton bên ngoài
-- Nắp co nhiệt, hộp bên ngoài, khu vực chống giả
+- Sau đóng nắp để khắc trên nắp hoặc thân chai
+- Sau dán nhãn khi mã nằm trên nhãn hoặc vùng đã chỉ định
+- Trước đóng thùng để đánh dấu từng đơn vị sản phẩm
+- Trên băng tải thùng nếu chỉ cần mã ở bao bì thứ cấp
 
-## Các ngành áp dụng
+Dây chuyền phải tạo khoảng cách ổn định, cửa sổ khắc xác định và khu vực che chắn phù hợp với yêu cầu an toàn tại nhà máy.
 
-- Dầu ăn, dầu chuyên dùng và dầu chức năng
-- Rượu vang, rượu hoa quả, nước tạo hương, nước giải khát
-- Dự án đóng gói yêu cầu truy xuất nguồn gốc lô hàng và quản lý chống hàng giả nhãn hiệu
+## Xác định vật liệu và nội dung mã
 
-## Gợi ý lựa chọn
+- Vật liệu, màu chính xác của chai, nắp, nhãn hoặc thùng
+- Văn bản, ngày, logic số lô, biểu trưng, mã vạch hoặc mã QR
+- Vị trí, kích thước vùng và hướng của dấu khắc
+- Chuyển động băng tải, cảm biến kích hoạt và tín hiệu tốc độ
+- Độ tương phản, khả năng đọc và mẫu được duyệt
+- Nguồn dữ liệu và ranh giới kết nối với hệ thống của bên mua
+- Che chắn, hút khói và quy định an toàn laser địa phương
 
-- Đầu tiên hãy xác nhận vị trí mã hóa và chất liệu, dù đó là nhựa, kim loại, nhãn hay thùng carton
-- Xác nhận lại độ dài nội dung tin nhắn, kích thước mã QR và tốc độ đường truyền
-- Nếu yêu cầu cao về hình thức thì nên ưu tiên xác minh liên kết với [dòng máy dán nhãn] (/vi/solutions/labeling/)
-- Nếu dự án yêu cầu kết nối logistics tự động back-end thì có thể tiếp tục liên kết [đóng gói và xếp pallet] (/vi/solutions/packing-palletizing/)
+## Hai loại nguồn để so sánh
 
-## Mô hình tham chiếu điểm chuẩn
+| Model | Nội dung cần thử |
+| --- | --- |
+| [Máy khắc laser sợi quang](/vi/products/filling/fiber-laser-marking-machine) | Phản ứng vật liệu, vùng khắc và đồng bộ tuyến |
+| [Máy khắc mã laser CO2](/vi/products/filling/co2-laser-marking-machine) | Mẫu phi kim, cửa sổ khắc và yêu cầu hút khói |
 
-Phần mã hóa tập trung vào khả năng thích ứng của vật liệu, sức mạnh và tốc độ đánh dấu. Tên model có thể nhập trực tiếp vào trang sản phẩm tương ứng.
+Thông số trên trang sản phẩm là dữ liệu tham khảo. Báo giá phải ghi nguồn, ống kính, điều khiển, che chắn và kết quả mẫu được chọn.
 
-| Người mẫu | Trích đoạn thông số công cộng | Hướng dẫn áp dụng |
-| --- | --- | --- |
-| [Máy khắc laser sợi quang 10W / 20W / 50W](/vi/solutions/labeling/) | 1064nm; tốc độ tuyến tính tối đa 8000 mm/s; phạm vi đánh dấu 110×110 mm; tần số 20-80 KHz | Thích hợp cho các dấu hiệu truy xuất nguồn gốc chi tiết trên kim loại, nắp chai, nhãn, v.v. |
-| [CO2 Máy laze CX10 / CX30](/vi/solutions/packing-palletizing/) | 10W / 30W; bước sóng 10,6 hoặc 10,2 μm; tốc độ tối đa 7000 mm/s; định vị lặp lại 0,003 mm | Thích hợp để mã hóa thùng carton, nhãn và một số bề mặt phi kim loại |
+## Yếu tố quyết định giá
 
-## Truy cập trực tiếp vào các mô hình cụ thể
+- Nguồn và cấu hình quang học sau thử mẫu
+- Trạm tĩnh hay tích hợp trên băng tải chuyển động
+- Bộ mã hóa tốc độ, cảm biến, giá đỡ, vỏ che và hút khói
+- Phần mềm tạo mã, truyền dữ liệu và quyền người vận hành
+- Số định dạng và vị trí khắc
+- Hồ sơ, yêu cầu tại nơi lắp, giao hàng và chạy thử
 
-- [Máy khắc laser sợi quang](/vi/solutions/laser-coding/fiber-laser-marking-machine)
-- [CO2 máy laze](/vi/solutions/laser-coding/co2-laser-marking-machine)
-- [Tổng quan về thư viện thông số thiết bị chiết rót và đóng gói](/vi/solutions/laser-coding/fiber-laser-marking-machine)
+## Nội dung yêu cầu báo giá
 
-## Các trang liên quan
+Gửi mẫu bao bì chưa khắc, tệp hoặc ví dụ mã, logic dữ liệu, công suất thuần, kích thước băng tải, vị trí khắc, môi trường sản xuất, tiện ích, mặt bằng và nơi giao hàng. Xác nhận nhà sản xuất có thực hiện thử mẫu hay không và bên nào chịu phí vận chuyển mẫu.
 
-- [Dòng máy dán nhãn](/vi/solutions/laser-coding/co2-laser-marking-machine)
-- [Đóng gói, xếp hàng](/vi/products/filling-equipment)
-- [Dòng máy co nhiệt nắp gel](/vi/solutions/labeling/)
-- [Tổng quan về các giải pháp hỗ trợ chiết rót](/vi/solutions/packing-palletizing/)
+## Nghiệm thu, an toàn và hậu mãi
+
+FAT dùng vật liệu và tệp mã đã phê duyệt. Quy trình xác định độ đọc được, tương phản, vị trí, thay đổi dữ liệu, độ tin cậy kích hoạt và thử ở tốc độ đã thỏa thuận. Che chắn laser, đường hút, chứng nhận địa phương, lắp đặt, đào tạo, phụ tùng và hỗ trợ phần mềm phải được ghi riêng. Không bảo đảm kết quả trên vật liệu chưa thử.
+
+## Công đoạn liên quan
+
+- [Máy dán nhãn](/vi/solutions/labeling/)
+- [Máy soi kiểm tra chai](/vi/solutions/light-inspection/)
+- [Đóng thùng và xếp pallet](/vi/solutions/packing-palletizing/)
+- [Tổng quan chiết rót và đóng gói](/vi/solutions/filling-packages)
+
+## Yêu cầu giá máy khắc mã laser
+
+Gửi vật liệu và nội dung mã để nhận kế hoạch thử, phạm vi tích hợp và báo giá nhà sản xuất.
+
+- [Yêu cầu báo giá máy khắc mã laser](/vi/contact/)
+
+<!-- quote-cta -->

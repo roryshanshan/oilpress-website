@@ -1,65 +1,57 @@
 ---
-title: "Série d'étiqueteuses | Modèles, specs et devis usine"
-description: "Découvrez série d'étiqueteuses pour lignes d’huile comestible et conditionnement liquide. Comparez les modèles et demandez un devis usine."
+title: "Étiqueteuses industrielles | Modèles, prix et devis"
+description: "Comparez les étiqueteuses semi-automatiques, autocollantes et double face. Le devis précise la cadence, les formats, le prix et le SAV."
 keywords: Série de machines d'étiquetage, machine d'étiquetage automatique, machine d'étiquetage de bouteilles rondes, machine d'étiquetage double face, équipement d'étiquetage d'huile comestible, système d'étiquetage de ligne d'emballage
 image: "/images/filling-solutions/labeling.webp"
 ---
+# Étiqueteuses industrielles
 
-# Série d'étiqueteuses
+![Étiqueteuse automatique recto-verso](/images/filling-solutions/labeling.webp)
 
-![Machine d'étiquetage entièrement automatique à double étiquette, photo réelle](/images/filling-solutions/labeling.webp)
+Une étiqueteuse doit être choisie à partir du contenant et du rouleau d'étiquettes réels. La forme de la bouteille, la zone d'application, le support, le sens d'enroulement, la cadence et l'état de surface déterminent le guidage, la pose et les pièces de format. Une vitesse publiée ne garantit pas la précision sur tous les emballages.
 
-L'étiqueteuse détermine l'effet d'affichage final et la reconnaissance de la marque du produit. C'est l'un des équipements de la partie arrière de la ligne de conditionnement qui affecte le plus directement la présentation du terminal. Pour les projets d’huiles comestibles, la position de l’étiquette, la précision de l’étiquetage, le contrôle des bulles et l’efficacité du changement des spécifications affecteront tous l’apparence et l’acceptation du produit fini par le marché.
+## Formes d'étiquetage
 
-## Formulaires d'étiquetage courants
+- Étiquette partielle ou enveloppante sur bouteille ronde.
+- Étiquettes recto-verso sur bouteille plate, ovale ou profilée.
+- Pose semi-automatique pour petites séries et changements fréquents.
+- Pose automatique avec codage, contrôle de présence ou rejet lorsque ces fonctions sont spécifiées.
 
-- Etiquetage simple ou étiquetage périphérique pour bouteilles rondes
-- Étiquetage recto-verso des bouteilles carrées et des bouteilles plates
-- Étiquetage supérieur et inférieur ou étiquetage combiné multiface
-- Étiquetage personnalisé pour les bouteilles en coffret cadeau spécial
+## Position dans la ligne
 
-## Scénarios applicables
+1. [Fermeture ou scellage](/fr/solutions/sealing/)
+2. [Inspection](/fr/solutions/light-inspection/) selon le procédé
+3. Séchage extérieur si nécessaire via la [série de sécheurs](/fr/solutions/drying/)
+4. Étiquetage
+5. [Marquage laser](/fr/solutions/laser-coding/) et [encaissage/palettisation](/fr/solutions/packing-palletizing/)
 
-- Huile d'arachide, huile de colza, huile de soja et autres huiles comestibles en bouteille au détail
-- Huile de noix de qualité supérieure, huile de pépins de raisin, huile de boîte cadeau de petite taille
-- Produits d'emballage de liquides tels que liquides aromatisants, boissons et boissons alcoolisées
-- Projets OEM nécessitant un changement par lots de types de bouteilles et de spécifications d'étiquettes
+## Critères d'achat
 
-## Points clés de la sélection
+- Plans et échantillons de chaque bouteille, avec tolérances et zone d'étiquetage.
+- Rouleaux complets : matière, support, mandrin, sens d'enroulement, dimensions, pas et repères.
+- Position demandée, inclinaison admissible, chevauchement ou écart et présence de plis ou bulles.
+- Cadence soutenue, convoyeur, espacement, orientation, changement de format et interfaces de contrôle.
 
-- Confirmez d'abord si le type de bouteille est une bouteille ronde, une bouteille carrée ou une bouteille de forme spéciale
-- Reconfirmez le matériau de l'étiquette, la méthode auto-adhésive et la vitesse cible
-- S'il y a de l'eau dans la bouteille après le rinçage lors de la première étape, elle doit être équipée d'une [Série Blow Dryer] (/fr/solutions/drying/)
-- Si vous devez imprimer la date, le numéro de lot et le code QR, il est recommandé de créer un lien avec [Laser Coding Machine Series] (/fr/solutions/laser-coding/)
+## Modèles de référence
 
-## Relation de soutien
-
-1. [Série de machines à sceller](/fr/solutions/drying/)
-2. [Série de machines d'inspection légère](/fr/solutions/laser-coding/)
-3. Série de machines à étiqueter
-4. [Série de machines de codage laser](/fr/solutions/sealing/)
-5. [Emballage, palettisation](/fr/solutions/light-inspection/)
-
-## Modèle de référence de référence
-
-La clé de la section d'étiquetage est la taille de l'étiquette, la gamme de types de bouteilles et la correspondance de la vitesse de ligne. Le nom du modèle peut entrer directement dans la page produit correspondante.
-
-| Modèle | Extrait des paramètres publics | Instructions applicables |
+| Modèle | Extrait des paramètres publics | Utilisation à vérifier |
 | --- | --- | --- |
-| [Étiqueteuse linéaire à double étiquette entièrement automatique](/fr/solutions/laser-coding/) | Diamètre de la bouteille 30-95 mm ; étiquette 50-280 × 40-150 mm ; 6000 bouteilles/heure ; moteur principal 0,75 kW | Convient pour l'étiquetage double ou multiface |
-| [DF-T200 Etiqueteuse semi-automatique pour bouteilles rondes](/fr/solutions/packing-palletizing/) | 15-35 pièces/minute ; bouteille ronde Φ15-150 mm ; étiquette 15-376 × 10-180 mm ; 220V | Convient à l'étiquetage de bouteilles rondes en petits lots |
-| [Étiqueteuse autocollante entièrement automatique TD-5 / TD-6](/fr/solutions/labeling/double-label-automatic-labeling-machine) | 50-150 p/min ; hauteur d'étiquette 15-200 mm ; diamètre de la bouteille Φ30-100 mm ; 220V | Convient pour l'étiquetage automatique autocollant de bouteilles rondes |
+| [Étiqueteuse automatique recto-verso](/fr/products/filling/double-label-automatic-labeling-machine) | Bouteille 30-95 mm ; étiquette 50-280 × 40-150 mm ; 6 000 bouteilles/h ; moteur principal 0,75 kW | Deux panneaux ou deux étiquettes |
+| [DF-T200 semi-automatique pour bouteilles rondes](/fr/products/filling/df-t200-round-bottle-labeler) | 15-35 pièces/min ; bouteille ronde Φ15-150 mm ; étiquette 15-376 × 10-180 mm ; 220 V | Petites séries et chargement opérateur |
+| [Étiqueteuse automatique TD-5 / TD-6 pour bouteilles rondes](/fr/products/filling/self-adhesive-labeling-machine) | 50-150 pièces/min ; hauteur d'étiquette 15-200 mm ; bouteille Φ30-100 mm ; 220 V | Pose autocollante en convoyage continu |
 
-## Accès direct à des modèles spécifiques
+- [Répertoire des équipements et paramètres](/fr/products/filling-equipment)
 
--[Etiqueteuse linéaire à double étiquette entièrement automatique](/fr/solutions/labeling/df-t200-round-bottle-labeler)
-- [Étiqueteuse semi-automatique de bouteilles rondes de type DF-T200](/fr/solutions/labeling/self-adhesive-labeling-machine)
-- [Étiqueteuse autocollante entièrement automatique](/fr/solutions/labeling/double-label-automatic-labeling-machine)
-- [Aperçu de la bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/solutions/labeling/df-t200-round-bottle-labeler)
+## Devis fabricant et essais
 
-## Pages connexes
+Envoyez bouteilles et rouleaux représentatifs, puis précisez la cadence, le plan de ligne, les commandes et les éventuels dateur, contrôle de présence ou rejet. Le devis doit lister les pièces de format, le convoyeur, les capteurs, les protections et le protocole FAT.
 
-- [Série de sèche-cheveux](/fr/solutions/labeling/self-adhesive-labeling-machine)
-- [Série de machines de codage laser](/fr/products/filling-equipment)
-- [Emballage, palettisation](/fr/solutions/drying/)
-- [Aperçu des solutions de support de remplissage](/fr/solutions/laser-coding/)
+La FAT doit mesurer la position, l'inclinaison, les plis, les bulles, le chevauchement ou l'écart sur une série convenue et vérifier les changements de format. Le prix dépend de la configuration et des interfaces ; livraison, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que selon l'offre écrite et le contrat.
+
+## Pages associées
+
+- [Sécheurs de bouteilles](/fr/solutions/drying/)
+- [Codeurs laser](/fr/solutions/laser-coding/)
+- [Encaisseuses et palettisation](/fr/solutions/packing-palletizing/)
+- [Vue d'ensemble du conditionnement](/fr/solutions/filling-packages)
+- [Demander un prix fabricant pour une étiqueteuse](/fr/contact/)

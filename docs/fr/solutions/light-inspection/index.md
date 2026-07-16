@@ -1,61 +1,71 @@
 ---
-title: "Série de machines d'inspection de lampes | Modèles, specs et…"
-description: "Découvrez série de machines d'inspection de lampes pour lignes d’huile comestible et conditionnement liquide. Comparez les modèles et demandez un devis usine."
-keywords: Série de machines d'inspection légère, machine d'inspection légère, équipement d'inspection en ligne, détection de niveau de liquide, détection de corps étrangers, inspection d'emballage d'huile en bouteille
+title: "Contrôle visuel des bouteilles | Prix et devis"
+description: "Définissez les défauts visibles, la position de contrôle et le rejet des bouteilles remplies avant de demander un devis fabricant."
+keywords: contrôle visuel bouteille prix, table inspection éclairée, niveau liquide, corps étranger, devis fabricant, achat ligne qualité
 image: "/images/filling-solutions/light-inspection.webp"
 ---
 
-# Série de machines d'inspection de lampes
+# Équipements de contrôle visuel éclairé des bouteilles
 
-![Plans réels d'équipements d'inspection légers](/images/filling-solutions/light-inspection.webp)
+![Poste de contrôle éclairé pour bouteilles remplies](/images/filling-solutions/light-inspection.webp)
 
-La machine d'inspection légère est située après le remplissage et le scellage et constitue un nœud de contrôle qualité très important dans la ligne de conditionnement. Pour les produits tels que l'huile comestible en bouteille, le vin de fruit et les liquides d'assaisonnement, un équipement d'inspection léger peut aider les entreprises à détecter rapidement des problèmes tels que des niveaux de liquide anormaux, des corps étrangers, des défauts de bouteille et une mauvaise étanchéité, et à réduire le flux de produits défectueux vers les stations d'étiquetage et d'emballage ultérieures.
+Un poste éclairé crée des conditions stables pour observer le produit et son emballage. Il peut aider à vérifier des corps étrangers visibles, le niveau, l'état du contenant ou l'aspect de la fermeture. Il ne faut cependant pas interpréter le mot « inspection » comme une détection et un rejet automatiques de tous les défauts : la liste des défauts, la méthode d'observation et la responsabilité de validation doivent être définies.
 
-## Contenu principal de la détection
+## Choisir le point de contrôle
 
-- Le niveau de liquide est-il aux normes ?
-- S'il y a des matières en suspension ou des corps étrangers visibles dans la bouteille
-- Si le scellement, le bouchage ou le bouchage est en place
-- Problèmes d'apparence tels qu'un corps de bouteille endommagé, un goulot de bouteille anormal, un bouchon de bouteille asymétrique, etc.
+- Après remplissage et avant fermeture, si le produit ouvert peut être observé sans risque
+- Après bouchage ou sertissage pour contrôler ensemble niveau et présentation
+- Avant étiquetage afin de conserver une zone de paroi visible
+- Avant encaissage comme dernier contrôle manuel ou automatisé
 
-## Scénarios applicables
+La position influence l'éclairage, la rotation de la bouteille, le zonage hygiénique et le dispositif d'éjection éventuel.
 
-- Produits pétroliers comestibles conditionnés en flacons transparents ou translucides
-- Projets de petites bouteilles d'huile à haute valeur ajoutée, d'huile de coffret cadeau et d'emballage d'exportation
-- Lignes de production qui doivent améliorer la stabilité du contrôle qualité et réduire le fardeau de l'inspection visuelle manuelle
-- Industries des boissons, du vin, de la sauce soja, du vinaigre et autres emballages de liquides
+## Décrire précisément la mission
 
-## Suggestions de sélection
+- Couleur, transparence et variations naturelles du produit
+- Matière, teinte, relief et zone visible de la bouteille
+- Défauts recherchés, avec échantillons conformes et non conformes
+- Contrôle visuel opérateur ou fonction assistée par capteur ou caméra
+- Rotation, espacement, fond et niveau d'éclairage nécessaires
+- Éjection, confirmation de rejet et zone de collecte, si demandées
+- Enregistrement des données ou signal d'arrêt à échanger avec la ligne
 
-- Les lignes à faible vitesse peuvent utiliser des plates-formes d'inspection légères manuelles ou des postes d'inspection simplifiés
-- Il est recommandé d'adopter des solutions d'inspection lumineuse automatique ou d'inspection visuelle pour les lignes à moyenne et grande vitesse
-- S'il existe de nombreux types de bouteilles, il est nécessaire de confirmer la plage de réglage de l'équipement et l'efficacité du changement de type
-- Si l'étiquetage et l'emballage sont requis à un stade ultérieur, il est recommandé de placer l'inspection lumineuse après [série de machines à sceller] (/fr/solutions/sealing/) et avant [série de machines à étiqueter] (/fr/solutions/labeling/).
+## Fiche équipement
 
-## Relation de soutien
+| Modèle | Points à confirmer |
+| --- | --- |
+| [Machine automatique d'inspection éclairée](/fr/products/filling/light-inspection-machine) | Présentation des bouteilles, éclairage, périmètre de contrôle et interface convoyeur |
 
-1. [Série de machines de remplissage](/fr/solutions/sealing/)
-2. [Série de machines à sceller](/fr/solutions/labeling/)
-3. Série de machines d'inspection légères
-4. [Série d'étiqueteuses](/fr/solutions/filling/)
-5. [Emballage, palettisation](/fr/solutions/sealing/)
+Les données de la fiche produit décrivent le modèle. Les performances de détection exigent un jeu de défauts approuvé et un protocole d'essai écrit.
 
-## Modèle de référence de référence
+## Ce qui modifie le prix d'achat
 
-Le site public affiche le programme d'inspection automatique des lampes de rotation des bouteilles sous la colonne de la machine d'inspection lumineuse, qui peut être utilisée comme référence pour le contrôle du niveau de liquide, des corps étrangers et de l'état d'étanchéité. Une entrée indépendante de la page produit est fournie directement ici.
+- Simple convoyeur d'observation, assistance opérateur ou détection automatisée
+- Rotation et stabilisation du contenant
+- Éclairage, capotage, fond de contraste et ergonomie du poste
+- Rejet, confirmation et collecte des bouteilles écartées
+- Automatisme et communication avec remplisseuse, boucheuse ou étiqueteuse
+- Nombre de formats, alimentation électrique, livraison et service
 
-| Modèle | Extrait des paramètres publics | Instructions applicables |
-| --- | --- | --- |
-| [Machine d'inspection légère](/fr/solutions/labeling/) | Entrée de bouteille entièrement automatique, serrage de la bouteille, retournement de la bouteille, retrait de la bouteille, décharge de la bouteille ; inspection inversée; source de lumière LED ; angle de vision supérieur à 100° | Inspection lumineuse en ligne adaptée aux flacons transparents ou aux projets d'emballage à forte valeur ajoutée |
+## Données à envoyer pour le devis
 
-## Accès direct à des modèles spécifiques
+Fournissez des bouteilles vides et remplies, des références conformes et défectueuses, la description du liquide, le débit net, la position envisagée, les machines voisines, la logique de rejet, les besoins de données, le plan, les utilités et la destination. Identifiez les défauts critiques et l'organisme ou l'équipe responsable de leur validation.
 
-- [Machine d'inspection légère](/fr/solutions/packing-palletizing/)
-- [Aperçu de la bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/solutions/light-inspection/light-inspection-machine)
+## Réception et responsabilité qualité
 
-## Pages connexes
+Le FAT utilise les bons échantillons et des défauts introduits selon une méthode convenue. Il précise visibilité ou taux de détection, faux rejets le cas échéant, transfert des bouteilles, changements et interverrouillages. La validation qualité locale, l'installation, les déplacements, la formation, les lampes ou capteurs de rechange et le support sont chiffrés dans le périmètre commercial.
 
-- [Aperçu des solutions de support de remplissage](/fr/solutions/light-inspection/light-inspection-machine)
-- [Série de machines de remplissage](/fr/products/filling-equipment)
-- [Série de machines à sceller](/fr/solutions/filling-packages)
-- [Série d'étiqueteuses](/fr/solutions/filling/)
+## Étapes voisines
+
+- [Remplissage des liquides](/fr/solutions/filling/)
+- [Bouchage et sertissage](/fr/solutions/sealing/)
+- [Étiquetage](/fr/solutions/labeling/)
+- [Encaissage et palettisation](/fr/solutions/packing-palletizing/)
+
+## Obtenir un devis d'inspection
+
+Envoyez le contenant et la liste des défauts pour recevoir une proposition de contrôle et un prix fabricant détaillé.
+
+- [Demander un devis de contrôle des bouteilles](/fr/contact/)
+
+<!-- quote-cta -->

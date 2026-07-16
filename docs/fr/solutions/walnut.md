@@ -1,135 +1,33 @@
 ---
-title: Solution de noix (huile de noix) - Shengshi Hecheng devis | so...
-description: "Solution clé en main Solution de noix (huile de noix) : process, presse hydraulique, filtration, liste d’équipements et devis usine."
-keywords: Solution de noix (huile de noix) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+title: "Presse à huile de noix | Ligne à froid, prix et devis"
+description: "Huile de noix à froid : tri, broyage, presse hydraulique et filtration. Validez l'essai sur matière, les équipements, le prix fabricant, le devis et le SAV."
+keywords: presse huile noix prix, ligne huile noix, pressage à froid, devis fabricant, achat usine, filtre huile, service après-vente
 image: "/images/process-image-647a0e9868.webp"
 ---
-# Solution de noix (huile de noix)
+# Presse à huile de noix et ligne de pressage à froid
 
-## Aperçu
+La noix décortiquée peut suivre une ligne courte : nettoyage, broyage puis pressage hydraulique direct. La maîtrise de l'humidité et la réduction du temps d'attente après broyage limitent l'oxydation et rendent le procédé plus régulier.
 
-La noix est une importante culture oléagineuse, l'huile de noix a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de noix, des petits ateliers aux grandes usines avec un équipement et des services complets.
+![Pressage à froid des cerneaux de noix](/images/process-image-647a0e9868.webp)
 
-## Caractéristiques de noix
+## Flux de production recommandé
 
-### 📊 Paramètres de base
-- **Teneur en huile** : 60-70%
-- **Teneur en protéines** : 15-20%
-- **Acides gras principaux** : Acide linoléique (55-65%), Acide oléique (15-25%), Acide linolénique (8-12%)
-- **Température appropriée** : Température de pressage contrôlée à 60-80℃
+Tri des cerneaux -> élimination des coques et matières altérées -> séchage doux si nécessaire -> broyage à haute vitesse -> chargement direct dans la cuve -> pressage à froid -> décantation -> filtration et stockage protégé.
 
-### 🌱 Caractéristiques de croissance
-- **Cycle de croissance** : 3-5 ans
-- **Climat approprié** : Zones tempérées et montagneuses
-- **Exigences du sol** : Sol fertile et bien drainé
-- **Production annuelle** : Production annuelle mondiale dépasse 3 millions de tonnes
+Les séries 355 à 500 sont destinées à être comparées selon le poids de charge, le nombre de lots et l'organisation de l'atelier. Le modèle final doit être confirmé sur un échantillon représentatif.
 
-## Technologie de Transformation
+## Configuration d'achat
 
-+ Walnut (Recommended 426AC-390/480AC-390/500AC-390)
-     + Cold pressing process: Walnuts go through screening, cleaning, and high-speed crushing before being directly fed into the hydraulic oil press bucket for pressing.
-     + The walnut oil produced by this process has golden color and a sweet aftertaste. The pressed oil does not require hydration treatment and does not foam when used in cooking.
-     + ![Noix processus de pressage à froid](/images/process-image-647a0e9868.webp)
+- [Équipements de nettoyage](/fr/products/pre-treatment)
+- [Broyeur haute vitesse 11 kW](/fr/products/11kw-high-speed-pulverizer)
+- Presses [355](/fr/products/355), [400](/fr/products/400), [426](/fr/products/426), [480](/fr/products/480) et [500](/fr/products/500)
+- [Filtre-presse pneumatique](/fr/products/pneumatic-filter-press)
+- [Conditionnement](/fr/solutions/filling-packages/) si la vente en bouteille fait partie du projet
 
-## Vidéo de référence de pressage à froid de noix, la machine de test dans la vidéo est de type 325, non recommandée pour une utilisation en production, uniquement à titre de référence.
+## Prix usine et service après-vente
 
-<div class="video-container">
- <iframe src="https://www.youtube.com/embed/2Y0HsdtzfWg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Indiquez cerneaux entiers ou brisures, humidité, quantité par lot et par jour, température maximale, niveau de filtration, tension et destination. Le devis fabricant peut détailler presse, cuves, broyeur, filtre, pièces, mise en service et modalités de SAV, sans annoncer un rendement avant essai.
 
-## Avantages Techniques
-
-### 🎯 Precise Control
-- Temperature control: ±2℃ precision
-- Pressure control: Intelligent adjustment
-- Humidity control: Optimal moisture content
-
-### 💧 Oil Quality Guarantee
-- Low-temperature process preserves nutrition
-- Physical pressing without chemical residues
-- Oil yield up to 62-68%
-
-### 🔄 Production Continue
-- Fonctionnement ininterrompu 24 heures
-- Alimentation et déchargement automatisés
-- Alarme de panne intelligente
-
-## Applications des Produits
-
-### 🍳 Edible Oil
-- Walnut oil: Main edible oil variety
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
-
-### 💊 Health Products
-- Walnut oil: Nutritional supplement
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
-
-### 💄 Beauty and Skincare
-- Walnut oil: Natural skincare oil
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
-
-## Market Analysis
-
-### 📈 Development Trends
-- Growing demand for high-end edible oils and nutritional health products
-- Expanding high-end walnut oil market
-- Increasing export trade opportunities
-
-### 🎯 Target Markets
-- Edible oil processing enterprises
-- Food processing enterprises
-- Health product enterprises
-- Export trade enterprises
-
-## Normes de Qualité
-
-### 🏆 Normes de Qualité des Produits
-- Complies with national walnut oil standards
-- Complies with food safety standards
-- Complies with export food standards
-- Complies with organic food certification
-
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color and transparency testing
-- Heavy metal content testing
-- Pesticide residue testing
-
-## Développement Durable
-
-### 🌱 Production Environnementale
-- Recyclage et utilisation des déchets
-- Processus d'économie d'énergie et de réduction d'émissions
-- Normes de production verte
-
-### 🔄 Utilisation des Ressources
-- Utilisation complète des sous-produits
-- Extension de la chaîne industrielle
-- Modèle d'économie circulaire
-
-### 🌍 Responsabilité Sociale
-- Soutien à l'augmentation des revenus des agriculteurs
-- Assurer la sécurité alimentaire
-- Protéger l'environnement écologique
-
-## Contactez-nous
-
-If you are interested in walnut pressing solutions, please contact our technical team:
-
-- 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
-
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable walnut pressing solution.
-
-## Obtenir prix & devis
-
-Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
-
-- [Obtenir prix & devis](/fr/contact/)
+- [Demander l'essai noix et le devis fabricant](/fr/contact/)
 
 <!-- quote-cta -->

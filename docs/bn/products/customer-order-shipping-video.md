@@ -1,96 +1,77 @@
 ---
-title: "গ্রাহক অর্ডার এবং শিপিং ভিডিও | কারখানা মূল্য ও কোট"
-description: শানডং শেংশি হেচেং গ্রাহক অর্ডার এবং শিপিং ভিডিও প্রদর্শনী, যার মধ্যে রয়েছে সরঞ্জাম প্যাকেজিং, পরিবহন, গ্রাহক স্বীকৃতি এবং সম্পূর্ণ প্রক্রিয়া
-keywords: গ্রাহক অর্ডার এবং শিপিং ভিডিও দাম, গ্রাহক অর্ডার এবং শিপিং ভিডিও কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
+title: "অয়েল প্রেস প্যাকিং ও শিপিং ভিডিও | কোটেশন ও অর্ডার যাচাই"
+description: "প্যাকিং ও লোডিং রেকর্ড দেখুন, তারপর কোটেশনে প্যাকেজিং পদ্ধতি, প্যাকিং লিস্ট, রপ্তানি নথি, বীমা ও ডেলিভারি শর্ত যাচাই করুন।"
+keywords: অয়েল প্রেস শিপিং ভিডিও, রপ্তানি মেশিন প্যাকিং, অয়েল প্রেস প্যাকিং লিস্ট, হাইড্রোলিক প্রেস পরিবহন, কারখানা কোটেশন, আগমন গ্রহণ
 ---
-#  <center>গ্রাহক অর্ডার এবং শিপিং ভিডিও</center>
+# <center>অর্ডার প্যাকিং ও শিপিং ভিডিও</center>
 
-## শিপিং পরিষেবার সংক্ষিপ্ত বিবরণ
+নিচের ভিডিওগুলো নির্দিষ্ট চালানের রেকর্ড। প্রতিটি অর্ডারে একই প্যাকিং, পরিবহনকারী বা ডেলিভারি সময় থাকবে এমন অর্থ নয়। স্বাক্ষরিত কোটেশন ও প্যাকিং লিস্টে যন্ত্রপাতি, পরিবহনের জন্য খোলা অংশ, বেস বা বাক্স, আর্দ্রতা ও মরিচা সুরক্ষা, কনটেইনার পরিকল্পনা, নথি, বীমা এবং Incoterm উল্লেখ থাকতে হবে।
 
-শানডং শেংশি হেচেং মেশিনারি কোং, লিমিটেড পেশাদার সরঞ্জাম শিপিং পরিষেবা প্রদান করে, অর্ডার নিশ্চিতকরণ থেকে গ্রাহক স্বীকৃতি পর্যন্ত সম্পূর্ণ ট্র্যাকিং পরিষেবা, যা সরঞ্জামের নিরাপদ এবং সময়মত ডেলিভারি নিশ্চিত করে।
+## প্যাকিং ও লোডিং রেকর্ড
 
-আমাদের শিপিং দল বিস্তৃত অভিজ্ঞতা রয়েছে, যারা বিভিন্ন সরঞ্জামের বৈশিষ্ট্য এবং গ্রাহকের চাহিদা অনুযায়ী কাস্টমাইজড প্যাকেজিং এবং পরিবহন সমাধান প্রদান করতে পারে।
-
-## দেশীয় শিপিং সাইটের সংক্ষিপ্ত বিবরণ
-
-### হাইড্রোলিক অয়েল প্রেস প্যাকেজিং এবং শিপিং প্রক্রিয়া
+### হাইড্রোলিক অয়েল প্রেস প্যাকিং
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/rrY56IsqT24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="হাইড্রোলিক অয়েল প্রেস প্যাকিং রেকর্ড" loading="lazy" src="https://www.youtube.com/embed/rrY56IsqT24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### সরঞ্জাম লোডিং এবং পরিবহন
+### যন্ত্রপাতি লোডিং
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/mjzmVves1SU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="অয়েল প্রেস যন্ত্রপাতি লোডিং রেকর্ড" loading="lazy" src="https://www.youtube.com/embed/mjzmVves1SU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### অতিরিক্ত লোডিং রেকর্ড
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/4kO6f5_iuYI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="অতিরিক্ত যন্ত্রপাতি লোডিং রেকর্ড" loading="lazy" src="https://www.youtube.com/embed/4kO6f5_iuYI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
-### দেশীয় গ্রাহক সরঞ্জাম স্বীকৃতি
+### শিপিংয়ের আগের পরিদর্শন রেকর্ড
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/--mJg9RNZwA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="শিপিংয়ের আগের যন্ত্রপাতি পরিদর্শন রেকর্ড" loading="lazy" src="https://www.youtube.com/embed/--mJg9RNZwA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### অতিরিক্ত শিপিং প্রস্তুতি রেকর্ড
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/1PWhcjq9UNQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="অতিরিক্ত শিপিং প্রস্তুতি রেকর্ড" loading="lazy" src="https://www.youtube.com/embed/1PWhcjq9UNQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## আন্তর্জাতিক শিপিং পরিষেবা
+## রপ্তানি চালানের রেকর্ড
 
-### বিদেশী গ্রাহক সরঞ্জাম শিপিং রেকর্ড
-+ পাকিস্তানের বাদাম কোল্ড প্রেসিং গ্রাহক, মডেল 426-390AC
+### বাদাম কোল্ড-প্রেস প্রকল্পের 426-390AC মডেল
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/jjbll8mzB70" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
- 
-+ মায়ানমার গ্রাহকের হাইড্রোলিক অয়েল প্রেস শিপিং
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/qbhvJQ6amLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="মডেল 426 হাইড্রোলিক অয়েল প্রেস রপ্তানি রেকর্ড" loading="lazy" src="https://www.youtube.com/embed/jjbll8mzB70" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-+ নাইজেরিয়ার গ্রাহকের ১০টি হাইড্রোলিক অয়েল প্রেস শিপিং
+### অতিরিক্ত আন্তর্জাতিক শিপিং রেকর্ড ১
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/3z6FzOGXqmA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="অতিরিক্ত আন্তর্জাতিক শিপিং রেকর্ড এক" loading="lazy" src="https://www.youtube.com/embed/qbhvJQ6amLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### গ্রাহকের বড় পরিমাণে হাইড্রোলিক অয়েল প্রেস অর্ডার, স্টক প্রস্তুতি
+### অতিরিক্ত আন্তর্জাতিক শিপিং রেকর্ড ২
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/U077XRSuR-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="অতিরিক্ত আন্তর্জাতিক শিপিং রেকর্ড দুই" loading="lazy" src="https://www.youtube.com/embed/3z6FzOGXqmA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### একাধিক হাইড্রোলিক অয়েল প্রেস শিপিংয়ের জন্য প্রস্তুত
+<div class="video-container">
+  <iframe title="একাধিক হাইড্রোলিক অয়েল প্রেস শিপিংয়ের জন্য প্রস্তুত" loading="lazy" src="https://www.youtube.com/embed/U077XRSuR-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-## শিপিং পরিষেবার বৈশিষ্ট্য
+## অর্ডারের আগে প্যাকিংয়ের পরিধি নিশ্চিত করুন
 
-### পেশাদার প্যাকেজিং
-- **শক-প্রুফ প্যাকেজিং**: পেশাদার প্যাকেজিং উপাদান ব্যবহার করে পরিবহনের সময় ক্ষতি থেকে রক্ষা করা হয়
-- **আর্দ্রতা প্রতিরোধ**: সরঞ্জামের পৃষ্ঠ আর্দ্রতা প্রতিরোধী প্রক্রিয়াকরণ করা হয়, মরিচা এবং ক্ষয় প্রতিরোধ করা হয়
-- **নিরাপদ ফিক্সিং**: পরিবহনের সময় সরঞ্জাম দৃঢ়ভাবে নিরাপদ করা হয়, নিরাপত্তা নিশ্চিত করা হয়
+1. মডেল, সংখ্যা, আলাদা আনুষঙ্গিক এবং পরিবহনের সময় কোন অ্যাসেম্বলি খোলা হবে।
+2. খোলা বেস, স্টিল ফ্রেম, কাঠের বাক্স বা কনটেইনার ফিক্সিং এবং আর্দ্রতা ও পৃষ্ঠ সুরক্ষা।
+3. লিফটিং পয়েন্ট, ভারকেন্দ্র, প্যাকেজের মাপ, মোট/নেট ওজন এবং লোডিং ক্রম।
+4. বাণিজ্যিক ইনভয়েস, প্যাকিং লিস্ট, ম্যানুয়াল, সার্টিফিকেট, কাস্টমস ডেটা এবং গন্তব্যের বিশেষ নথি।
+5. Incoterm, বন্দর বা ডেলিভারি ঠিকানা, পরিবহনকারীর দায়সীমা, বীমার দায়িত্ব এবং সম্ভাব্য সময়সূচি।
 
-### লজিস্টিক ট্র্যাকিং
-- **রিয়েল-টাইম ট্র্যাকিং**: লজিস্টিক তথ্য অনুসন্ধান প্রদান করে, যেকোন সময় পণ্যের অবস্থান জানা যায়
-- **বীমা পরিষেবা**: সরঞ্জামের জন্য পরিবহন বীমা প্রদান করে, গ্রাহকের স্বার্থ রক্ষা করে
-- **সময়মত বিজ্ঞপ্তি**: শিপিং, আগমন ইত্যাদি গুরুত্বপূর্ণ পয়েন্টে গ্রাহকদের সময়মত অবহিত করা হয়
+## শিপিং ও আগমন গ্রহণ
 
-### স্বীকৃতি পরিষেবা
-- **সাইট স্বীকৃতি**: শিপিংয়ের আগে সরঞ্জাম পরীক্ষা করা হয়, সরঞ্জামের সম্পূর্ণতা নিশ্চিত করা হয়
-- **আগমন স্বীকৃতি**: গ্রাহকদের আগমন স্বীকৃতিতে নির্দেশনা প্রদান করা হয়, কারিগরি সহায়তা প্রদান করা হয়
-- **বিক্রয়োত্তর ফলোআপ**: সরঞ্জাম ইনস্টলেশন এবং কমিশনিং পরে ফলোআপ পরিষেবা প্রদান করা হয়
+- লোডিংয়ের আগে প্যাকিং লিস্টের সঙ্গে নামপ্লেট, আনুষঙ্গিক, টুল, যন্ত্রাংশ ও নথি মিলিয়ে নিন।
+- চুক্তিতে থাকলে তারিখসহ ছবি বা ভিডিওতে প্যাকেজ ও কনটেইনারের অবস্থা রেকর্ড করুন।
+- পৌঁছানোর পর খোলার আগে কনটেইনার, প্যাকেজ, দৃশ্যমান আঘাত বা মরিচা এবং ঢিলা অংশ পরীক্ষা করে ব্যতিক্রম লিখুন।
+- ইনস্টলেশন, কমিশনিং, প্রশিক্ষণ, ভ্রমণ ব্যয় ও দূরবর্তী সহায়তা কোটেশন ও চুক্তি অনুযায়ী হবে; শিপিং ভিডিও থেকে এগুলো স্বয়ংক্রিয়ভাবে অন্তর্ভুক্ত ধরা যাবে না।
 
-## গ্রাহক প্রশংসা
-
-*"শেংশি হেচেং এর শিপিং পরিষেবা অত্যন্ত পেশাদার, সরঞ্জাম প্যাকেজিং দৃঢ়, পরিবহন নিরাপদ, আগমনের পর সরঞ্জাম নিখুঁত অবস্থায় থাকে।"*
-—— মি. লি, শানডং গ্রাহক
-
-*"আন্তর্জাতিক শিপিং পরিষেবা অত্যন্ত যত্নশীল, লজিস্টিক ট্র্যাকিং সময়মত, যা আমাদের খুব নিশ্চিন্ত করে।"*
-—— মি. আহমেদ, পাকিস্তানি গ্রাহক
-
-## যোগাযোগ করুন
-
-যদি আপনি আরও শিপিং পরিষেবা তথ্য জানতে চান, বা বিশেষ শিপিং প্রয়োজন থাকে, অনুগ্রহ করে আমাদের সাথে যোগাযোগ করুন:
-
-- **শিপিং পরামর্শ হটলাইন**: +86-19906365856
+[প্যাকিং পদ্ধতি, ফ্রেইট সীমা ও প্রস্তুতকারকের কোটেশন নিন](/bn/contact/)
 
 ---
 
@@ -121,4 +102,4 @@ keywords: গ্রাহক অর্ডার এবং শিপিং ভি
 }
 </style>
 
-*শানডং শেংশি হেচেং মেশিনারি কোং, লিমিটেড · পেশাদার উৎপাদন · উচ্চমানের পরিষেবা*
+*শিপিং রেকর্ড স্বাক্ষরিত প্যাকিং লিস্ট, কোটেশন ও পরিবহন শর্তের সঙ্গে মিলিয়ে পড়তে হবে।*

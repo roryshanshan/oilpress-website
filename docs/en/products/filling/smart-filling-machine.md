@@ -1,28 +1,27 @@
 ---
-title: Series intelligent filling machine Price | Manufacturer & Quote
-description: Get price, procurement, and after-sales support for Series intelligent filling machine from Shengshi Hecheng manufacturer.
-keywords: Series intelligent filling machine price, Series intelligent filling machine quote, Series intelligent filling machine manufacturer, Series intelligent filling machine supplier, procurement, after-sales
+title: "12-36 Head Intelligent Liquid Filler | Manufacturer Quote"
+description: "Compare 12-36 head intelligent fillers for 4,000-13,000 oil or seasoning bottles/hour, with factory pricing and packaging-line support."
+keywords: "12-36 head intelligent filling machine price, 12-36 head intelligent filling machine manufacturer quote, intelligent edible oil filler, 4000-13000 bottles per hour, seasoning liquid bottling, complete line integration, export packing, commissioning, after-sales service"
 image: "/images/filling-products/smart-filling-machine.webp"
 ---
-# Series Intelligent Filling Machine
 
-![Series smart filling machines](/images/filling-products/smart-filling-machine.webp)
+# Intelligent Bottle Filling Machine Series
 
-The series of intelligent filling machines are mainly designed for automatic retail bottled liquid lines, taking into account filling accuracy, speed and multi-bottle adaptability. They are suitable for medium-to-high-tempo production in normal pressure filling scenarios such as edible oils and seasoning liquids.
+![Intelligent Bottle Filling Machine Series](/images/filling-products/smart-filling-machine.webp)
 
-## Model positioning
+This multi-head filling series is used as the main dosing station on compatible retail-bottle lines. The published head counts help shortlist a model, but final selection must be based on the actual liquid, bottle, fill volume and sustained output requirement.
 
-- Series: [Filling Machine Series](/en/solutions/filling/)
-- Parameter overview entrance: [Filling and packaging equipment parameter library](/en/products/filling-equipment#fill-smart)
-- Applicable scenarios: Suitable as the main filling machine for retail bottled oil and seasoning liquid.
+## Application and purchasing fit
 
-## Summary of public information
+- Product family: [Filling machine series](/en/solutions/filling/)
+- Parameter reference: [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+- Compare models at the buyer’s fill volume and product conditions rather than extrapolating from one calibration point.
+- Confirm recipe control, adjustment and cleaning expectations for every planned product change.
+- Review cap handling, labeling and accumulation so the chosen filler does not exceed downstream capacity.
 
-- When the calibrated volume is `500 ml`, the reference accuracy is `±1 ml`
-- Public configuration covers `12/18/24/30/36` headers
-- Reference speed covers `4000-13000 bottles/hour`
+## Published reference parameters
 
-## Public parameter table
+The following table is retained as the published model reference. Final performance and compatibility must be confirmed in the written quotation and acceptance specification.
 
 | Number of heads | Reference speed (bottles/hour) | Calibration accuracy (500 ml) | Applicable bottle types | Power (kW) | Overall dimensions (mm) |
 | --- | --- | --- | --- | --- | --- |
@@ -32,20 +31,25 @@ The series of intelligent filling machines are mainly designed for automatic ret
 | 30 | 10000 | ±1 ml | Bottle height 100-320 mm; bottle diameter 50-100 mm | 2.2 | 1950×2020×2550 |
 | 36 | 13000 | ±1 ml | Bottle height 100-320 mm; bottle diameter 50-100 mm | 2.2 | 2140×2150×2550 |
 
-## How to choose
+## What to provide for a manufacturer quotation
 
-- `12-18 heads`: more suitable for start-up or medium-sized bottling projects
-- `24-30 heads`: suitable for common main production lines, taking into account both speed and space requirements
-- `36 Head`: Continuous automatic line suitable for higher tempo
+- Liquid density, viscosity, temperature and foaming behavior, plus required contact materials.
+- Bottle samples, fill-volume range, target tolerance and planned product or format changes.
+- Required sustained rate, shift pattern, cleaning procedure and line interfaces.
+- FAT measurement method, sample quantity, pass limits and written installation or service scope.
 
-## Supporting suggestions
+Use representative samples for the factory acceptance test whenever practical. The agreed test material, run duration, sampling method and pass limits should be written into the purchase specification.
 
-- If you want to see models with finer measurement accuracy, you can continue to view [High-precision quantitative filling machine](/en/products/filling/high-precision-filling-machine)
-- If you want to see the structure of linking cap lifting, cap sorting, cap buckling and cap sealing after filling, you can compare [Intelligent Quantitative Filling Machine](/en/products/filling/intelligent-quantitative-filling-machine)
-- For the whole line solution, you can continue to view [Filling supporting solution overview](/en/solutions/filling-packages)
+## Price, delivery, and written service scope
 
-## Related pages
+Manufacturer pricing depends on the confirmed machine configuration, format parts, controls, guarding, line interfaces, utilities and destination. Delivery schedule, export packing, installation, commissioning, training, spare parts and after-sales support apply only as stated in the written quotation and contract.
 
-- [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+## Related equipment and next step
+
 - [Filling machine series](/en/solutions/filling/)
-- [Contact us for complete line advice](/en/contact/)
+- [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+- [High-precision quantitative filling machine](/en/products/filling/high-precision-filling-machine)
+- [Intelligent quantitative filling and capping line](/en/products/filling/intelligent-quantitative-filling-machine)
+- [Filling and packaging line overview](/en/solutions/filling-packages)
+- [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+- [Request a configuration-based manufacturer quotation](/en/contact/)

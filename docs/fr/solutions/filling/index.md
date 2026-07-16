@@ -1,78 +1,76 @@
 ---
-title: "Série de machines de remplissage | Modèles, specs et devis usine"
-description: Découvrez série de machines de remplissage pour lignes d’huile comestible et conditionnement liquide. Comparez les modèles et demandez un devis usine.
-keywords: Série de machines de remplissage, machine de remplissage d'huile comestible, équipement de remplissage quantitatif, machine de remplissage d'huile en bouteille, équipement de remplissage de barils, ligne de production de remplissage de liquide
+title: "Remplisseuses de liquides | Prix et devis fabricant"
+description: "Comparez les remplisseuses pour bouteilles, bidons et fûts selon le produit, le dosage et la ligne. Demandez une configuration et un prix fabricant."
+keywords: remplisseuse liquide prix, remplisseuse huile fabricant, devis ligne remplissage, achat machine dosage, remplissage fûts, service après-vente
 image: "/images/filling-solutions/filling.webp"
 ---
 
-# Série de machines de remplissage
+# Remplisseuses industrielles pour liquides
 
-![Photo réelle d'une machine de remplissage intelligente](/images/filling-solutions/filling.webp)
+![Remplisseuse intelligente pour liquides](/images/filling-solutions/filling.webp)
 
-La machine de remplissage est le module central de toute la ligne de conditionnement, qui détermine directement la capacité de production, la précision des mesures, l'efficacité du changement de type et la cohérence du produit fini. Pour les projets d'huiles comestibles, le processus de remplissage doit non seulement garantir une quantification précise, mais également prendre en compte l'étanchéité aux gouttes, la lutte contre la pollution, la facilité de nettoyage et la commodité de basculer entre les différentes spécifications d'emballage.
+La remplisseuse est le point de dosage central de la ligne. Sa conception doit correspondre au liquide, au contenant, au débit net recherché et au nettoyage, tout en assurant un transfert stable vers la fermeture, le contrôle et l'étiquetage. Comparer seulement le nombre de becs ne suffit pas pour établir un prix d'achat fiable.
 
-## Méthodes de remplissage courantes
+## Emplacement et interfaces de ligne
 
-- Remplissage du débitmètre : adapté aux lignes d'embouteillage d'huiles alimentaires à moyenne et haute vitesse
-- Remplissage par pesée : adapté aux grands fûts, aux grands emballages ou aux scénarios de haute précision
-- Remplissage volumétrique : adapté à la production quantitative continue de spécifications conventionnelles
-- Remplissage semi-automatique : adapté aux marques en démarrage, aux petits lots et aux projets multi-spécifications
+**Cuve produit ou tampon → filtration finale → alimentation et remplissage → bouchage ou sertissage → contrôle → étiquetage et marquage → emballage**
 
-## Produits applicables et formulaires d'emballage
+Le devis doit identifier le fournisseur de la cuve, de la pompe, des tuyauteries, du contrôle de niveau, des convoyeurs et des signaux de communication. Ces interfaces déterminent souvent si une machine autonome peut réellement fonctionner avec l'installation existante.
 
-- Huile d'arachide, huile de colza, huile de soja, huile de sésame, huile de noix et autres huiles comestibles
-- Bouteilles en verre, bouteilles PET, fûts, fûts carrés, sacs d'emballage souples
-- Petites bouteilles d'huile cadeau à haute valeur ajoutée et huile commerciale d'emballage Zhongda
-- Boissons, liquides aromatisants, vins de fruits et autres produits liquides
+## Base produit-contenant
 
-## Points clés de la sélection
+- Huile alimentaire, boisson, vin, condiment ou autre liquide précisément identifié
+- Viscosité, température, moussage, particules et compatibilité de nettoyage
+- Bouteille en verre ou PET, bidon, boîte, fût ou autre contenant approuvé
+- Plage de volume et nombre de formats prévus
+- Principe de dosage et méthode de contrôle demandée par l'acheteur
+- Matériau au contact, récupération des égouttures et exigences d'hygiène
 
-- Choisissez des solutions en ligne à une tête, à deux têtes, à plusieurs têtes ou entièrement automatiques en fonction de la production quotidienne
-- Choisir la méthode de mesure appropriée en fonction de la viscosité et de la température de l'huile
-- Confirmer si un changement de format rapide, un tri automatique des bouteilles et un tri automatique des bouchons sont requis en fonction des spécifications de l'emballage.
-- Décider s'il faut lier [série de machines d'inspection légère] (/fr/solutions/light-inspection/) et [série de machines d'étiquetage] (/fr/solutions/labeling/) en fonction du positionnement commercial
+Les produits corrosifs demandent une étude distincte des matériaux et de la sécurité. Un usage alimentaire et un usage chimique ne doivent pas être combinés sans confirmation technique écrite.
 
-## Position typique d'une ligne entière
+## Gammes de remplisseuses
 
-1. Filtration frontale ou tampon de stockage d'huile
-2. Remplissage quantitatif
-3. [Série de machines à sceller](/fr/solutions/light-inspection/)
-4. [Série d'étiqueteuses](/fr/solutions/labeling/)
-5. [Emballage, palettisation](/fr/solutions/sealing/)
+| Modèle | Critère principal de sélection |
+| --- | --- |
+| [Remplisseuse intelligente 12 à 36 têtes](/fr/products/filling/smart-filling-machine) | Ligne multi-têtes et variété de formats de bouteilles |
+| [Remplisseuse quantitative haute précision](/fr/products/filling/high-precision-filling-machine) | Méthode de dosage, plage de contenants et contrôle |
+| [Remplisseuse quantitative intelligente DK](/fr/products/filling/intelligent-quantitative-filling-machine) | Architecture de dosage et compatibilité d'emballage |
+| [Remplisseuse linéaire ZGP pour grands contenants](/fr/products/filling/linear-filling-machine) | Manutention linéaire de bidons ou fûts |
+| [Remplisseuse rotative pour fûts](/fr/products/filling/rotary-drum-filling-machine) | Présentation des fûts et transfert rotatif |
+| [Remplisseuse LGF pour pesticides](/fr/products/filling/pesticide-filling-machine) | Application chimique dédiée et sécurité du poste |
+| [Remplisseuse résistante à la corrosion](/fr/products/filling/corrosion-resistant-filling-machine) | Compatibilité des matériaux avec le produit |
 
-## Scénarios applicables
+Les paramètres restent sur chaque fiche produit. Tout engagement de cadence ou de dosage dépend du liquide, du contenant, de la méthode d'essai et du protocole d'acceptation convenus.
 
-- Lignes d'embouteillage semi-automatiques pour petits ateliers
-- Ligne de remplissage d'huile alimentaire automatisée à vitesse moyenne pour les marques régionales
-- Projets de grands emballages de pétrole commercial en barils et de distribution
-- Réaliser des projets de ligne nécessitant un lien avec la filtration, l'étiquetage et l'emballage
+## Décisions qui font évoluer le prix
 
-## Modèle de référence de référence
+- Machine autonome, ligne reliée ou monobloc intégré
+- Principe de mesure, nombre de postes et système d'alimentation produit
+- Formats, pièces de changement et alimentation automatique des contenants
+- Dispositifs anti-goutte, récupération produit et nettoyage
+- Bouchage, inspection, étiquetage, codage et fin de ligne inclus ou non
+- Automatisme, documentation, emballage export et service à destination
 
-Les modèles suivants sont organisés en fonction des pages publiques et permettent d'évaluer rapidement la vitesse de remplissage, la précision et la gamme de conditionnement. Le nom du modèle peut entrer directement dans la page produit correspondante.
+## Préparer la consultation fabricant
 
-| Modèle | Extrait des paramètres publics | Instructions applicables |
-| --- | --- | --- |
-| [Machine de remplissage intelligente série 12-36 têtes](/fr/solutions/labeling/) | 4 000 à 13 000 b/h ; 500 ± 1 ml ; hauteur de la bouteille 100-320 mm ; diamètre de la bouteille ∅50-100 mm ; 1,1-2,2 kW | Convient à la ligne principale d'huile comestible en bouteille au détail |
-| [Machine de remplissage quantitative de haute précision GDP-12A~GDP-36H](/fr/solutions/packing-palletizing/) | 3 000 à 10 000 b/h ; 100-750 ml ; 500 ± 1,5 ml ; 0,37-1,5 kW | Convient au remplissage quantitatif de plusieurs spécifications de bouteilles |
-| [Machine de remplissage linéaire ZGP-4~ZGP-10](/fr/solutions/filling/smart-filling-machine) | 10-25 L ; 500-1400 sur la base de 10 L ; précision ≤0,2 % ; source d'air 0,5-0,7 MPa | Convient au remplissage linéaire de fûts moyens et grands |
-| [Machine de remplissage de cuve rotative](/fr/solutions/filling/high-precision-filling-machine) | Rationnement électronique des vannes ; PLC Pas de fût, pas de remplissage ; réglage global en continu du volume de remplissage ; convient à une variété de buses de sous-remplissage à bouche de baril | Convient aux cuves d'huile commerciale ou de liquides chimiques |
+Joignez la fiche technique du produit, un échantillon si un essai est requis, les plans ou échantillons de contenants et fermetures, la plage de volume, le débit net visé, les équipes de travail, le nettoyage, les utilités, le plan d'usine, les modules voisins et la destination. Indiquez clairement les machines existantes à raccorder.
 
-## Accès direct à des modèles spécifiques
+## FAT, SAT et service après-vente
 
-- [Machine de remplissage intelligente de série](/fr/solutions/filling/linear-filling-machine)
-- [Machine de remplissage quantitative de haute précision](/fr/solutions/filling/rotary-drum-filling-machine)
-- [Machine de remplissage quantitative intelligente](/fr/solutions/filling/smart-filling-machine)
-- [Machine de remplissage de cuve rotative](/fr/solutions/filling/high-precision-filling-machine)
-- [Machine de remplissage linéaire](/fr/solutions/filling/intelligent-quantitative-filling-machine)
-- [Machine de remplissage de pesticides](/fr/solutions/filling/rotary-drum-filling-machine)
--[Machine de remplissage résistante à la corrosion acide et alcaline](/fr/solutions/filling/linear-filling-machine)
-- [Aperçu de la bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/solutions/filling/pesticide-filling-machine)
+Le protocole définit le liquide d'essai ou son substitut, les formats, la durée de marche, le contrôle du dosage, le plan d'échantillonnage, les égouttures, les changements et les interverrouillages. La main-d'œuvre locale, la tuyauterie, le câblage, les déplacements, la mise en service, la formation, les pièces et la garantie suivent uniquement l'offre et le contrat signés.
 
-## Pages connexes
+## Équipements en amont et en aval
 
-- [Aperçu des solutions de support de remplissage](/fr/solutions/filling/corrosion-resistant-filling-machine)
-- [Série de filtres](/fr/products/filling-equipment)
-- [Série de machines à sceller](/fr/solutions/filling-packages)
-- [Série d'étiqueteuses](/fr/solutions/filtering/)
-- [Contactez-nous pour obtenir le plan de la ligne de production](/fr/solutions/sealing/)
+- [Filtration des liquides](/fr/solutions/filtering/)
+- [Bouchage et sertissage](/fr/solutions/sealing/)
+- [Contrôle visuel éclairé](/fr/solutions/light-inspection/)
+- [Étiquetage](/fr/solutions/labeling/)
+- [Encaissage et palettisation](/fr/solutions/packing-palletizing/)
+
+## Demander le prix d'une remplisseuse
+
+Envoyez les données du liquide et du contenant pour recevoir une comparaison de modèles, la liste de fourniture et un devis fabricant chiffré.
+
+- [Demander un devis de ligne de remplissage](/fr/contact/)
+
+<!-- quote-cta -->

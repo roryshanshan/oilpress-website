@@ -1,18 +1,12 @@
 ---
 title: "获取液压榨油机价格与报价｜采购对接"
-description: "联系盛世赫程获取液压榨油机价格、成套生产线报价、选型方案与售后支持，支持外贸出口、工程采购与多语言商务对接。"
+description: "联系盛世赫程获取液压榨油机价格、成套生产线报价、选型与售后方案，按原料、日产量、电压、目的港和自动化需求进行采购细节对接。"
 keywords: 榨油机报价, 榨油机价格, 联系厂家, 采购, 售后
 ---
 
 # 联系我们
 
 欢迎咨询液压榨油机价格、设备选型、交期安排与油料加工整线方案，我们会尽快与您对接。
-
-## 公司地址
-
-**山东盛世赫程机械有限公司**  
-地址：山东省潍坊市青州市经济开发区  
-邮编：262500
 
 ## 联系方式
 
@@ -36,6 +30,19 @@ keywords: 榨油机报价, 榨油机价格, 联系厂家, 采购, 售后
 **山东盛世赫程机械有限公司**  
 地址：山东省潍坊市青州市开发区益能街5888号  
 邮编：262500
+
+## 获取准确报价需要提供的信息
+
+建议在留言中填写以下信息，厂家才能直接给出匹配的机型和生产线配置，而不是只有宽泛的价格区间。
+
+- 原料名称，以及计划热榨还是冷榨
+- 每批、每小时或每天的目标产量
+- 新建项目、现有车间扩产，还是替换旧设备
+- 是否需要清理、粉碎、蒸炒、过滤、精炼或灌装模块
+- 当地电压、频率和相数
+- 交付国家或最近港口
+
+提交询价前可以先查看[液压榨油机型号](/zh/products/)、[完整生产线](/zh/solutions/production-lines)和[油料加工方案](/zh/solutions/seed-oils)。
 
 ## 在线留言
 
@@ -71,59 +78,6 @@ keywords: 榨油机报价, 榨油机价格, 联系厂家, 采购, 售后
   </form>
 </div>
 
-<style>
-.contact-form {
-  max-width: 600px;
-  margin: 0 auto;
-}
-.form-group {
-  margin-bottom: 20px;
-}
-label {
-  display: block;
-  margin-bottom: 5px;
-  font-weight: bold;
-}
-input, textarea {
-  width: 100%;
-  padding: 10px;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  color: #333;
-}
-button {
-  background-color: #1e88e5;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  font-size: 16px;
-}
-button:hover {
-  background-color: #1565c0;
-}
-.contact-card {
-  background: #f8fafc;
-  border: 1px solid #e5e7eb;
-  border-radius: 10px;
-  padding: 16px 18px;
-  color: #111827;
-}
-.contact-title {
-  font-weight: 700;
-  margin-bottom: 8px;
-}
-.contact-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-.contact-list li {
-  margin: 6px 0;
-}
-</style>
-
 ## 交通指南
 
 ### 自驾路线
@@ -132,7 +86,7 @@ button:hover {
 
 ### 公共交通
 - 火车：在青州站下车，乘坐出租车约15分钟可到达公司。
-- 飞机：在济南遥墙国际机场或青岛流亭国际机场下机，可乘坐机场大巴至青州，再转乘出租车前往公司。
+- 飞机：国际旅客可经济南遥墙国际机场或青岛胶东国际机场抵达。接机及后续交通按已确认行程安排，出发前请将抵达机场、航班号、日期、时间、人数和接送范围书面确认。
 
 ::: tip 参观预约
 欢迎您前来参观考察，为了更好地接待您，建议提前3天预约。

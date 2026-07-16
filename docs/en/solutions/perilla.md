@@ -1,138 +1,56 @@
 ---
-title: Perilla Seed (Perilla Oil) | Equipment List & Factory Quote
-description: "Get a perilla seed oil line plan with process design, equipment list, factory quote, procurement, and after-sales service."
+title: "Perilla Oil Hot/Cold Press Line | Equipment Quote"
+description: "Compare cleaned, crushed cold pressing with fried and steamed hot pressing for perilla; verify filtered oil, cake residue, equipment, and quote scope."
 keywords: Perilla Seed (Perilla Oil) Solution quote, Perilla Seed (Perilla Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
 image: "/images/an-overview-of-the-hot-pressing-process-of-perilla-a2e7edd577.webp"
 ---
-# Perilla Seed (Perilla Oil) Solution
+# Perilla Seed Oil Pressing Line
 
-## Overview
+Perilla seed oil is sensitive to unnecessary heat, air exposure, and long holding times. Cold-pressed and roasted perilla oils must be treated as separate product routes with separate trial records.
 
-Perilla seed is an important oil crop, perilla oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional perilla seed pressing solutions, from small workshops to large factories with complete equipment and services.
+![Perilla seed heat-conditioned route reference](/images/an-overview-of-the-hot-pressing-process-of-perilla-a2e7edd577.webp)
 
-## Perilla Seed Characteristics
+![Perilla seed low-temperature route reference](/images/an-overview-of-the-cold-pressing-process-of-perill-76371f15c4.webp)
 
-### 📊 Basic Parameters
-- **Oil Content**: 40-50%
-- **Protein Content**: 15-20%
-- **Main Fatty Acids**: α-Linolenic acid (50-60%), Linoleic acid (15-20%), Oleic acid (15-20%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+## Raw Material Boundary
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 100-120 days
-- **Suitable Climate**: Warm, humid areas
-- **Soil Requirements**: Fertile, well-drained soil
-- **Annual Production**: Asian annual production exceeds 100,000 tons
+Declare seed variety, origin, moisture, impurities, storage time, damaged or moldy fraction, and intended use. Quote capacity on cleaned seed. Old, rancid, or mixed herb residue is not equivalent to sound oilseed feed.
 
-## Processing Technology
+## Recommended Pretreatment
 
-### Hot Pressing Process
-- Perilla seeds go through screening, cleaning, frying, crushing, and then steaming before finally being fed into the hydraulic oil press bucket for pressing.
-- ![Perilla Seeds](/images/an-overview-of-the-hot-pressing-process-of-perilla-a2e7edd577.webp)
+1. Screen and clean the small seed.
+2. Remove stones, metal, dust, and damaged seed.
+3. Dry gently when moisture requires correction.
+4. Break the seed structure consistently without prolonged open-air storage.
+5. Keep cold-press and roasted trial lots separate.
 
-### Cold Pressing Process
-- Perilla seeds go through screening, cleaning, and crushing before being directly fed into the hydraulic oil press bucket for pressing.
-- ![Perilla Seeds](/images/an-overview-of-the-cold-pressing-process-of-perill-76371f15c4.webp)
+## Pressing Route and Equipment
 
-## Hot pressing perilla seed video reference
+Use a low-temperature hydraulic batch trial as the primary route when a light flavor and controlled oxidation are required. Roast or warm-condition a separate sample only when the intended product calls for a stronger aroma. For larger continuous duty, compare a screw press using the same finished-oil criteria.
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/mPu9Fmnkg4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+### Equipment Entry Points
 
-## Equipment Recommendations
+- [Pretreatment equipment](/en/products/pre-treatment)
+- [Hydraulic oil press range](/en/products/)
+- [426 Series hydraulic oil press](/en/products/426) as an existing model entry for trial sizing
+- [Pneumatic filter press](/en/products/pneumatic-filter-press)
+- [Filling equipment](/en/products/filling-equipment)
 
-### Recommended Equipment
-- **Perilla Seed**: 300AC-390/325AC-390/355AC-390/400AC-390
+## Filtration and Finished-Oil Target
 
-## Technical Advantages
+Set the settling or filtration period, visible sediment, clarity, color, aroma, oxidation test method, and time to closed storage. Specify tanks and light-protective packages that match the agreed finished-oil handling plan.
 
-### 🎯 Precise Control
-- Temperature control: ±2℃ precision
-- Pressure control: Intelligent adjustment
-- Humidity control: Optimal moisture content
+## Data Required for a Quotation
 
-### 💧 Oil Quality Guarantee
-- Low-temperature process preserves nutrition
-- Physical pressing without chemical residues
-- Oil yield up to 42-46%
+- Seed sample, variety, moisture, impurities, damaged fraction, storage time, and signs of oxidation
+- Dry-seed input per batch or day, operating hours, and required duty cycle
+- Cold-pressed or roasted aroma target and oil-temperature monitoring needs
+- Settling, filtration, tank, package, sampling, and oxidation-test requirements
+- Power, heat if used, floor space, storage conditions, destination, and delivery terms
 
-### 🔄 Continuous Production
-- 24-hour uninterrupted operation
-- Automated feeding and discharging
-- Intelligent fault alarm
+## Acceptance Records
 
-## Product Applications
-
-### 🍳 Edible Oil
-- Perilla oil: Main edible oil variety
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
-
-### 💊 Health Products
-- Perilla oil: Nutritional supplement
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
-
-### 💊 Medicinal
-- Perilla oil: Traditional Chinese medicine
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
-
-## Market Analysis
-
-### 📈 Development Trends
-- Growing demand for Ω-3 health oils and traditional medicine
-- Expanding high-end perilla oil market
-- Increasing export trade opportunities
-
-### 🎯 Target Markets
-- Edible oil processing enterprises
-- Food processing enterprises
-- Health product enterprises
-- Export trade enterprises
-
-## Quality Standards
-
-### 🏆 Product Quality Standards
-- Complies with national perilla oil standards
-- Complies with food safety standards
-- Complies with export food standards
-- Complies with organic food certification
-
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color and transparency testing
-- Heavy metal content testing
-- Pesticide residue testing
-
-## Sustainable Development
-
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
-
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
-
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
-
-## Contact Us
-
-If you are interested in perilla seed pressing solutions, please contact our technical team:
-
-- 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
-
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable perilla seed pressing solution.
+Record seed moisture, cleaning loss, crush condition, roast or conditioning settings where used, charge weight, cycle time, oil temperature, crude and filtered oil, cake, and elapsed open-air time. Check clarity, color, aroma, rancid notes, tank closure, package suitability, retained product, and cleaning under the agreed sample conditions.
 
 ## Related Links
 
@@ -142,12 +60,12 @@ We provide free technical consultation, sample testing, and on-site inspection s
 - [Tea Seed Solutions](/en/solutions/tea-seed)
 - [426 Series Hydraulic Oil Press](/en/products/426)
 - [Contact Technical Team](/en/contact/)
-- [中文页面](/zh/solutions/perilla)
+- [Chinese page](/zh/solutions/perilla)
 
-## Get Price & Quote
+## Request a Configuration and Quote
 
-Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+Send the perilla seed sample, dry throughput, cold or roasted product target, filtration and oxidation criteria, utilities, and destination for a trial-based line quotation.
 
-- [Get Price & Quote](/en/contact/)
+- [Request a perilla oil line quote](/en/contact/)
 
 <!-- quote-cta -->

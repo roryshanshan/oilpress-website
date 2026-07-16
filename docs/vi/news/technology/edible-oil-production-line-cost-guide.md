@@ -1,6 +1,6 @@
 ---
-title: "Hướng dẫn chi phí dây chuyền sản xuất dầu ăn: Những yếu tố làm..."
-description: Xem những yếu tố ảnh hưởng đến chi phí dây chuyền sản xuất dầu ăn, từ cỡ máy ép thủy lực và tiền xử lý đến lọc dầu, chiết rót, đóng gói và mở rộng sau này.
+title: "Chi phí dây chuyền dầu ăn | Các hạng mục cần dự toán"
+description: "Lập ngân sách cho tiền xử lý, máy ép, lọc, bồn, tinh luyện, chiết rót, điện, mặt bằng, vận chuyển, lắp đặt, phụ tùng và thử nguyên liệu."
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-05"
 ---

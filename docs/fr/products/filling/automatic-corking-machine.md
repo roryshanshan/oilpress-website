@@ -1,26 +1,35 @@
 ---
-title: Machine à boucher entièrement automatique prix | fabricant
-description: Demandez le prix et le devis pour Machine à boucher entièrement automatique. Fabricant Shengshi Hecheng, livraison et SAV.
-keywords: Machine à boucher entièrement automatique prix, acheter Machine à boucher entièrement automatique, devis usine, fabricant chinois, exportation, service après-vente
+title: "Boucheuse automatique à liège | Prix fabricant et devis"
+description: "Boucheuse automatique pour bouchons de liège, modèles DS-1, DS-4 et DS-6, de 2 500 à 6 000 bouteilles/h. Comparez l’intégration, le prix, le devis et le SAV."
+keywords: "boucheuse automatique à bouchons de liège prix, devis boucheuse automatique à bouchons de liège, modèles DS-1, DS-4 et DS-6 de 2 500 à 6 000 bouteilles/h pour bouteilles en verre, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/automatic-corking-machine.webp"
 ---
 # Machine à boucher entièrement automatique
 
 ![Machine de bouchage entièrement automatique](/images/filling-products/automatic-corking-machine.webp)
 
-La boucheuse entièrement automatique peut être utilisée comme référence pour des modèles spécifiques de la série de boucheuses. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+La boucheuse automatique est la solution de la série destinée à une ligne continue. Les bouteilles en verre remplies arrivent de l'amont, le bouchage s'inscrit dans un cycle machine, puis les bouteilles fermées repartent vers la rétraction de capsule ou l'étiquetage. Les données publiques présentent les modèles DS-1, DS-4 et DS-6 ; un achat doit donc porter sur le chemin complet des bouteilles et des bouchons, pas uniquement sur le nombre de têtes.
 
-## Positionnement du modèle
+## Périmètre d'une ligne automatique
 
-- Série : [Série de machines à boucher](/fr/solutions/corking/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#cork-auto)
-- Scénarios applicables : convient aux lignes continues de conditionnement de vin.
+Pour qu'une offre soit réellement qualifiée d'automatique, elle doit attribuer sans ambiguïté les quatre fonctions suivantes : arrivée des bouteilles, alimentation des bouchons, enfoncement et évacuation.
 
-## Résumé des informations publiques
+- **Arrivée des bouteilles :** en régime normal, l'opérateur ne pose pas chaque bouteille sous une tête. Le devis doit montrer le raccordement convoyeur, l'espacement, les guidages et l'accumulation compris dans la fourniture.
+- **Alimentation des bouchons :** préciser le stockage, l'orientation et l'amenée jusqu'au poste d'enfoncement. Une trémie, un élévateur ou un système d'orientation n'est inclus que s'il figure dans la liste de fourniture.
+- **Enfoncement et sortie :** le transfert de la bouteille et l'insertion du bouchon relèvent du cycle machine. Le point de sortie convenu peut être un convoyeur tampon ou l'interface de la machine suivante.
+- **Mission de l'opérateur :** réapprovisionner les bouchons, surveiller l'assise, commander les marches et arrêts et traiter les arrêts conformément aux instructions, sans manutention bouteille par bouteille en production stable.
 
-Cette machine est principalement adaptée au bouchage du vin et d’autres bouteilles en verre. Il est principalement connecté derrière la machine de remplissage et est utilisé pour le branchement après le remplissage.
+## Cadence de ligne et couverture opérateur
+
+La cadence utile dépend de l'opération connectée la plus lente. Sortie de la remplisseuse, réserve d'accumulation, continuité d'alimentation en bouchons, cycle de bouchage et entrée de la rétracteuse de capsules ou de l'étiqueteuse doivent être équilibrés. Demandez au fabricant les conditions associées à toute cadence annoncée ainsi que la réaction prévue en cas d'absence de bouteille, d'absence de bouchon, d'arrêt amont ou de saturation aval. Le mot « automatique » ne suffit pas à garantir ces fonctions de contrôle.
+
+## Échantillons et changement de format
+
+Fournissez des bouteilles et bouchons de production avant de figer la configuration. Les échantillons doivent couvrir la hauteur, la stabilité du fond, la finition et l'alésage du col, ainsi que le type, le diamètre et la longueur du bouchon. Pour plusieurs références, transmettez une matrice de formats et faites identifier les guides, pièces de transfert, éléments d'alimentation ou réglages de tête concernés. Les pièces de format incluses, la méthode de réglage et la démonstration de changement doivent apparaître dans le devis et le protocole de réception.
 
 ## Table des paramètres publics
+
+Le tableau public ci-dessous est conservé comme référence de la série DS. Il ne définit à lui seul ni la plage bouteille-bouchon acceptée, ni les alimentations et convoyeurs inclus, ni une cadence garantie après intégration.
 
 <table>
   <tbody>
@@ -51,14 +60,20 @@ Cette machine est principalement adaptée au bouchage du vin et d’autres boute
   </tbody>
 </table>
 
-## Suggestions complémentaires
+## Implantation, interfaces et utilités
 
-- Premier coup d'oeil à la page de la série : [Série de machines à boucher](/fr/solutions/corking/)
-- Regardez à nouveau l'aperçu des paramètres : [La position de la boucheuse entièrement automatique dans la bibliothèque de paramètres](/fr/products/filling-equipment#cork-auto)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+Exigez un plan d'ensemble indiquant sens et hauteur d'entrée-sortie, accès aux protecteurs et à l'armoire, zone de recharge des bouchons, dégagements de maintenance et tampons nécessaires. Entre remplisseuse et boucheuse, le partage doit couvrir le transfert mécanique et les éventuels signaux marche, prêt, arrêt ou défaut. En aval, la rétracteuse de capsules doit recevoir une bouteille stable avec un bouchon à la position convenue ; une synchronisation directe n'est comprise que si elle est chiffrée.
 
-## Pages connexes
+Validez la tension, le nombre de phases et la fréquence du site, puis l'air comprimé, le vide ou toute autre utilité uniquement si la conception proposée les exige. Le devis fabricant doit indiquer consommations et points de raccordement.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Série de boucheuses](/fr/solutions/corking/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+## Devis fabricant et réception FAT/SAT
+
+Pour comparer les prix, séparez la machine de base, la préparation et l'alimentation des bouchons, les convoyeurs et guidages, les pièces de format, les protections et commandes, les pièces de rechange initiales, la documentation, l'emballage export, la mise en service, la formation et le SAV. Les exclusions, la limite de livraison et les équipements fournis par le client doivent être explicites.
+
+Avant la FAT, convenez des échantillons, formats, durée d'essai, observations et critères d'acceptation. Contrôlez le transfert continu, la présentation des bouchons, leur position finale, les arrêts planifiés et le redémarrage sans transformer le tableau public en garantie sans conditions. La SAT reprend les contrôles sur le site avec les utilités réelles, la remplisseuse et l'équipement aval raccordés, puis consigne les actions d'interface restantes.
+
+## Prix, achat et pages utiles
+
+- Comparez la [série de machines à boucher](/fr/solutions/corking/) et la [bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment).
+- Pour une ligne complète, consultez la [vue d'ensemble du conditionnement](/fr/solutions/filling-packages) et la [vue d'ensemble des lignes de production](/fr/solutions/production-lines).
+- [Demandez au fabricant le prix, le périmètre du devis et les conditions de SAV](/fr/contact/).

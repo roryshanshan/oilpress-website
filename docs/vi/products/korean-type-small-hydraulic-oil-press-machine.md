@@ -1,6 +1,6 @@
 ---
-title: Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc giá | nhà sản xuất
-description: "Nhận giá nhà máy cho Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
+title: "Máy ép dầu thủy lực nhỏ kiểu Hàn Quốc | Báo giá nhà sản xuất"
+description: "Báo giá từ nhà sản xuất; kiểm tra khối lượng mẻ, thùng ép, áp suất, điện áp, kích thước và nguyên liệu thử trước khi mua."
 keywords: giá Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc, mua Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 image: "/images/korean-type-small-press/korean-type-overview.webp"
 ---

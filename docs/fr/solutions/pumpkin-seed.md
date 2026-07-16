@@ -1,128 +1,31 @@
 ---
-title: Solution de graines de citrouille (huile de graines de devis
-description: "Demandez un devis pour Solution de graines de citrouille (huile de graines de : plan de ligne, liste d’équipements et SAV."
-keywords: Solution de graines de citrouille (huile de graines de citrouille) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+title: "Presse à huile de graines de courge | Prix et devis"
+description: "Huile de graines de courge à froid : nettoyage, décorticage si nécessaire, broyage, presse hydraulique et filtration. Validez le prix, le devis et le SAV."
+keywords: presse graines courge prix, ligne huile courge, pressage à froid, devis fabricant, achat usine, essai matière, SAV
 image: "/images/an-overview-of-the-cold-pressing-process-of-pumpki-c206ee35aa.webp"
 ---
-# Solution de graines de citrouille (huile de graines de citrouille)
+# Ligne d'huile de graines de courge pressée à froid
 
-## Aperçu
+Les graines de courge peuvent être pressées décortiquées ou avec une fraction de coque selon la variété. L'essai sert à déterminer le besoin de décorticage, la granulométrie et la charge de la cuve.
 
-Les graines de citrouille sont une importante culture oléagineuse, l'huile de graines de citrouille a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de citrouille, des petits ateliers aux grandes usines avec un équipement et des services complets.
+![Pressage à froid des graines de courge](/images/an-overview-of-the-cold-pressing-process-of-pumpki-c206ee35aa.webp)
 
-## Caractéristiques de graines de citrouille
+## Procédé recommandé
 
-### 📊 Paramètres de base
-- **Teneur en huile** : 35-45%
-- **Teneur en protéines** : 25-30%
-- **Acides gras principaux** : Acide linoléique (45-55%), Acide oléique (25-35%), Acide palmitique (10-15%)
-- **Température appropriée** : Température de pressage contrôlée à 60-80℃
+Criblage -> nettoyage -> décorticage éventuel -> séchage basse température si nécessaire -> broyage à haute vitesse -> pressage hydraulique direct -> décantation et filtration -> stockage protégé.
 
-### 🌱 Caractéristiques de croissance
-- **Cycle de croissance** : 90-120 jours
-- **Climat approprié** : Zones tempérées et chaudes
-- **Exigences du sol** : Sol fertile et bien drainé
-- **Production annuelle** : Production annuelle mondiale dépasse 1 million de tonnes
+La route à froid doit être définie par une limite de température et une matière correctement séchée. Une graine très chargée en coque peut nécessiter une préparation différente.
 
-## Technologie de Transformation
+## Équipement à acheter
 
-+ Graines de citrouille (Recommandé 426AC-390)
-     + Processus de pressage à froid d'huile de graines de citrouille : Après triage, nettoyage et broyage à haute vitesse, alimenté directement dans le seau de presse hydraulique pour le pressage
-     + ![Graines de Citrouille](/images/an-overview-of-the-cold-pressing-process-of-pumpki-c206ee35aa.webp)
+- [Prétraitement et séparation](/fr/products/pre-treatment)
+- Décortiqueur selon la variété
+- [Broyeur haute vitesse](/fr/products/11kw-high-speed-pulverizer)
+- Presses [355](/fr/products/355), [400](/fr/products/400), [426](/fr/products/426), [480](/fr/products/480) ou [500](/fr/products/500)
+- [Filtre-presse](/fr/products/pneumatic-filter-press)
 
-## Avantages Techniques
+Pour le prix usine, précisez variété, graines décortiquées ou non, humidité, quantité par lot, température maximale, tension et destination. Le devis peut inclure essai, cuves, pièces, installation et service après-vente.
 
-### 🎯 Precise Control
-- Temperature control: ±2℃ precision
-- Pressure control: Intelligent adjustment
-- Humidity control: Optimal moisture content
-
-### 💧 Oil Quality Guarantee
-- Low-temperature process preserves nutrition
-- Physical pressing without chemical residues
-- Oil yield up to 36-42%
-
-### 🔄 Production Continue
-- Fonctionnement ininterrompu 24 heures
-- Alimentation et déchargement automatisés
-- Alarme de panne intelligente
-
-## Applications des Produits
-
-### 🍳 Huile Alimentaire
-- Huile de graines de citrouille : Principale variété d'huile alimentaire
-- Huile mélangée : Mélangée avec d'autres huiles
-- Huile spéciale : Huile nutritionnelle haut de gamme
-
-### 💊 Produits de Santé
-- Huile de graines de citrouille : Supplément nutritionnel
-- Huile mélangée : Mélangée avec d'autres huiles
-- Huile spéciale : Huile nutritionnelle haut de gamme
-
-### 💄 Beauté et Soins de la Peau
-- Huile de graines de citrouille : Huile naturelle pour les soins de la peau
-- Huile mélangée : Mélangée avec d'autres huiles
-- Huile spéciale : Huile nutritionnelle haut de gamme
-
-## Analyse de Marché
-
-### 📈 Tendances de Développement
-- Demande croissante pour les huiles alimentaires haut de gamme et les produits de santé nutritionnels
-- Expansion du marché de l'huile de graines de citrouille haut de gamme
-- Augmentation des opportunités de commerce d'exportation
-
-### 🎯 Marchés Cibles
-- Entreprises de transformation d'huile alimentaire
-- Entreprises de transformation alimentaire
-- Entreprises de produits de santé
-- Entreprises de commerce d'exportation
-
-## Normes de Qualité
-
-### 🏆 Normes de Qualité des Produits
-- Respecte les normes nationales d'huile de graines de citrouille
-- Respecte les normes de sécurité alimentaire
-- Respecte les normes d'exportation alimentaire
-- Respecte la certification alimentaire biologique
-
-### 🔍 Éléments de Test
-- Test de valeur acide
-- Test de valeur peroxyde
-- Test de couleur et transparence
-- Test de teneur en métaux lourds
-- Test de résidus de pesticides
-
-## Développement Durable
-
-### 🌱 Production Environnementale
-- Recyclage et utilisation des déchets
-- Processus d'économie d'énergie et de réduction d'émissions
-- Normes de production verte
-
-### 🔄 Utilisation des Ressources
-- Utilisation complète des sous-produits
-- Extension de la chaîne industrielle
-- Modèle d'économie circulaire
-
-### 🌍 Responsabilité Sociale
-- Soutien à l'augmentation des revenus des agriculteurs
-- Assurer la sécurité alimentaire
-- Protéger l'environnement écologique
-
-## Contactez-nous
-
-Si vous êtes intéressé par les solutions de pressage de graines de citrouille, veuillez contacter notre équipe technique :
-
-- 📞 **Ligne de Consultation** : +86 19906365856
-- 📧 **Email** : gavin@oil-pressing-machine.com
-- 📍 **Adresse** : No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
-
-Nous fournissons des consultations techniques gratuites, des tests d'échantillons et des services d'inspection sur site pour vous fournir la solution de pressage de graines de citrouille la plus appropriée.
-
-## Obtenir prix & devis
-
-Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
-
-- [Obtenir prix & devis](/fr/contact/)
+- [Demander un essai et un devis graines de courge](/fr/contact/)
 
 <!-- quote-cta -->

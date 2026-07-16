@@ -1,26 +1,37 @@
 ---
-title: "Boucheuse semi | Prix usine et devis"
-description: "Demandez le prix usine pour Boucheuse semi. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
-keywords: Boucheuse semi-automatique prix, acheter Boucheuse semi-automatique, devis usine, fabricant chinois, exportation, service après-vente
+title: "Boucheuse semi-automatique | Prix fabricant et devis"
+description: "Boucheuse semi-automatique pour bouchons de liège et bouteilles en verre. Comparez les modèles DS-1, DS-4 et DS-6, la cadence, le prix, le devis et le SAV."
+keywords: "boucheuse semi-automatique à bouchons de liège prix, devis boucheuse semi-automatique à bouchons de liège, modèles DS-1, DS-4 et DS-6 de 2 500 à 6 000 bouteilles/h pour bouteilles en verre, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/semi-automatic-corking-machine.webp"
 ---
 # Boucheuse semi-automatique
 
 ![Machine de bouchage semi-automatique](/images/filling-products/semi-automatic-corking-machine.webp)
 
-La boucheuse semi-automatique peut être utilisée comme référence pour des modèles spécifiques de la série de boucheuses. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+La boucheuse semi-automatique occupe l'espace entre un poste entièrement manuel et une ligne continue. Elle convient aux petites et moyennes séries lorsque l'acheteur souhaite un cycle d'enfoncement répétable tout en conservant un opérateur pour la manutention. L'appellation « semi-automatique » ne prouve ni l'alimentation des bouchons ni la présence de convoyeurs : le devis fournisseur doit attribuer chaque opération.
 
-## Positionnement du modèle
+## Début et fin de l'automatisation
 
-- Série : [Série de machines à boucher](/fr/solutions/corking/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#cork-semi)
-- Scénarios applicables : convient aux projets de démarrage de vin ou d'huile de coffret cadeau.
+À défaut d'une configuration différente démontrée par le constructeur, basez le chiffrage sur ce partage :
 
-## Résumé des informations publiques
+- **Chargement bouteille :** l'opérateur place chaque bouteille remplie. Une entrée automatique reste une option ou un lot d'intégration.
+- **Chargement bouchon :** l'opérateur peut poser chaque bouchon ou réapprovisionner un dispositif assisté. L'offre doit préciser le cas retenu et identifier tout système d'orientation.
+- **Enfoncement :** après déclenchement par l'opérateur, la machine accomplit un cycle d'insertion puis revient en attente de la bouteille suivante.
+- **Déchargement :** l'opérateur retire ou libère la bouteille et contrôle l'assise. Une sortie automatique n'est comprise que si elle est représentée et listée.
 
-Cette machine est principalement adaptée au bouchage du vin et d’autres bouteilles en verre. Il est principalement connecté derrière la machine de remplissage et est utilisé pour le branchement après le remplissage.
+## Organisation du cycle et effectif
+
+Le poste répète une boucle unitaire : prendre la bouteille dans le tampon de remplissage, la positionner, présenter le bouchon, lancer le cycle, retirer, contrôler et déposer pour l'opération suivante. Le rendement dépend de toute cette boucle et de la disponibilité de l'opérateur, pas seulement du mouvement de presse. Un essai avec les échantillons doit montrer si une seule personne peut aussi réapprovisionner et déplacer les bouteilles sans file instable ni geste dangereux.
+
+## Formats de bouteilles, bouchons et utilités
+
+Soumettez les bouteilles et bouchons réels. Contrôlez hauteur, fond, géométrie du col et alésage par rapport au type, diamètre et longueur du bouchon. Pour chaque référence, faites identifier support, centrage du col, réglage de profondeur et présentation du bouchon. Un changement de format doit être démontré au lieu d'être couvert par une simple mention « multiformat ».
+
+Le cycle étant assisté par la machine, confirmez tension, phases, fréquence et besoin éventuel en air comprimé ou autre utilité, avec consommation et points de raccordement de la version proposée.
 
 ## Table des paramètres publics
+
+Le tableau demeure la référence publique de la série DS. Il ne démontre pas que le poste semi-automatique possède ces têtes, puissances ou cadences ; chaque valeur retenue doit être rapprochée du devis signé.
 
 <table>
   <tbody>
@@ -51,14 +62,20 @@ Cette machine est principalement adaptée au bouchage du vin et d’autres boute
   </tbody>
 </table>
 
-## Suggestions complémentaires
+## Liaison avec remplissage et rétraction de capsule
 
-- Premier coup d'oeil à la page de la série : [Série de machines à boucher](/fr/solutions/corking/)
-- Regardez à nouveau l'aperçu des paramètres : [La position de la boucheuse semi-automatique dans la bibliothèque de paramètres](/fr/products/filling-equipment#cork-semi)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+La boucheuse peut être placée après une remplisseuse sans lui être synchronisée. Prévoyez en amont un tampon protégeant les bouteilles remplies et offrant une prise accessible ; en aval, une table, un casier ou un convoyeur chiffré avant la rétraction de capsule. Si des convoyeurs sont demandés, fixez sens, hauteur, espacement, capteurs et responsabilité de commande. Le passage en rétraction se fait après obtention de l'assise de bouchon convenue.
 
-## Pages connexes
+L'implantation indique aussi position de l'opérateur, gestes de chargement et retrait, stockage des bouchons, ouverture des protecteurs, accès de maintenance et arrivées d'utilités. Ces éléments permettent de chiffrer un poste exploitable plutôt qu'une machine nue.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Série de boucheuses](/fr/solutions/corking/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+## Devis et protocole FAT/SAT
+
+Dissociez le prix de base des options d'alimentation, supports et pièces de format, bâti ou convoyeurs, protections, commande, pièces de rechange, documentation, emballage export, mise en service, formation et SAV. Transport, travaux sur site et équipements amont-aval doivent apparaître en inclusions ou exclusions.
+
+Pendant la FAT, effectuez des cycles répétés avec chargement opérateur et échantillons convenus. Consignez mode de présentation du bouchon, position finale, déclenchement, fonctionnement des protections, réglage de format et reprise après arrêt normal. La SAT confirme utilités, chemin opérateur, tampon amont et remise à l'aval. Tout essai de cadence exige format, effectif, durée et règle d'acceptation communs ; le tableau public n'est pas un critère SAT suffisant.
+
+## Fournisseur, prix et demande de devis
+
+- Comparez la [série de machines à boucher](/fr/solutions/corking/) et la [bibliothèque des paramètres](/fr/products/filling-equipment).
+- Situez le poste avec la [vue d'ensemble du conditionnement](/fr/solutions/filling-packages) et celle des [lignes de production](/fr/solutions/production-lines).
+- [Demandez au fabricant un devis de boucheuse semi-automatique, une vérification d'implantation et le périmètre SAV](/fr/contact/).

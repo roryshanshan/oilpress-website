@@ -1,6 +1,6 @@
 ---
-title: "Wood-Fired Thermal Oil Wok | Factory Price & Quote"
-description: "Request a factory quote for the wood-fired thermal oil wok, including specs, delivery, procurement support, and after-sales service."
+title: "Wood-Fired Thermal-Oil Wok | Manufacturer Quote"
+description: "Review the wood-fired thermal-oil wok for uniform oilseed heating, with rock-wool insulation and scraper; verify batch size, fuel, motor, materials, and quote."
 keywords: Wood-Fired Thermal Oil Flat-Bottom Wok price, Wood-Fired Thermal Oil Flat-Bottom Wok quote, Wood-Fired Thermal Oil Flat-Bottom Wok manufacturer, factory procurement, production line matching, after-sales service
 image: "/images/external/products-wood-fired-thermal-oil-flat-bottom-wok-cc178b06.webp"
 ---
@@ -8,9 +8,12 @@ image: "/images/external/products-wood-fired-thermal-oil-flat-bottom-wok-cc178b0
 ![Wood-Fired Thermal Oil Flat-Bottom Wok](/images/external/products-wood-fired-thermal-oil-flat-bottom-wok-cc178b06.webp)
 ## Product Overview
 
-* This flat-bottom wok comes with its own furnace. The thermal oil model solves the problem of uneven heating at the bottom of the wood-fired pot. This model is suitable for rural areas and urban-rural fringe areas where wood and natural gas can be burned, which can greatly save processing costs.
-* A blower can be added independently to increase firepower, making combustion more complete and heating faster. The inner lining is rock wool insulation layer, and the outer package is made of stainless steel for a more beautiful appearance.
-* 1.1kw silent motor, upgraded adjustable tension scraper, completely solves the problem of sticking to the bottom of the pot.
+This wok combines a furnace, thermal-oil heat-transfer jacket, agitator and discharge structure for hot-process oilseed preparation. Thermal oil can distribute heat around the vessel, but batch uniformity still depends on fuel, firing control, oil level, agitation, loading and recipe.
+
+- Wood or natural gas must be confirmed against local fuel availability, emissions, ventilation and fire-safety requirements.
+- An optional blower changes combustion air and heating rate; the required arrangement should be confirmed with the furnace and site chimney.
+- Rock-wool insulation and stainless outer cladding are construction details to verify in the ordered drawing.
+- The adjustable scraper can reduce material buildup when correctly set. It does not guarantee that every material or recipe will avoid sticking or scorching.
 
 ## Specifications
 
@@ -27,3 +30,15 @@ image: "/images/external/products-wood-fired-thermal-oil-flat-bottom-wok-cc178b0
 | Discharge Port Clearance from Ground | 500mm |
 | Grounding Required | Yes |
 | Heat Transfer Medium | 350#*50Kg |
+
+Treat the table as a configuration reference. Confirm dimensions, usable batch load, thermal-fluid grade and charge, motor, fuel system, expansion/vent arrangement, grounding and supplied accessories in the signed quotation.
+
+## Information Required for a Quote
+
+Provide the oilseed, hot-press recipe, batch load, initial/final temperature, heating time, fuel, local voltage, chimney and ventilation conditions, workshop layout and downstream press. Include any requirement for temperature logging, automatic discharge or dust/fume collection.
+
+## Factory and Site Acceptance
+
+Use a representative batch to record heat-up curve, material-temperature spread, mixing and scraper clearance, discharge time, residual material, fuel use under the test condition, thermal-fluid leakage inspection and emergency shutdown. Operating cost must be calculated from the buyer's fuel price and measured project data.
+
+[Request the wok drawing, test scope and manufacturer quotation](/en/contact/)

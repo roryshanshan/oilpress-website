@@ -1,54 +1,72 @@
 ---
-title: "Fruit and vegetable pre-processing equipment | Specs, Models…"
-description: "Browse fruit and vegetable pre-processing equipment for edible oil and liquid packaging lines. Compare models, capacity ranges, and request factory…"
-keywords: Fruit and vegetable pre-processing equipment, fruit and vegetable cleaning and sorting, crushing and beating equipment, fruit and vegetable pre-processing line, fruit raw material processing, beverage front-end equipment
+title: "Fruit & Vegetable Pre-processing | Equipment Quote"
+description: "Plan receiving, washing, sorting, conveying and preparation before extraction or filling. Submit raw-material and seasonal data for a factory line quote."
+keywords: fruit vegetable processing line price, produce washing equipment manufacturer, fruit elevator quote, pre processing line procurement, beverage raw material preparation, fruit processing equipment
 image: "/images/filling-solutions/fruit-veg-processing.webp"
 ---
 
 # Fruit and vegetable pre-processing equipment
 
-![Fruit and vegetable processing and liquid packaging case picture](/images/filling-solutions/fruit-veg-processing.webp)
+![Fruit and vegetable pre-processing line](/images/filling-solutions/fruit-veg-processing.webp)
 
-Pre-processing equipment for fruits and vegetables is mainly used for cleaning, sorting, crushing, impurity removal and pre-treatment of fruit and vegetable raw materials before entering subsequent processing. Although this type of equipment is not a standard module of the main line of hydraulic oil pressing, this column has strong expansion value for avocado and grape fruit projects, or for factories that also operate beverages, sauces, and fruit wine products.
+Pre-processing converts incoming fruit or vegetables into a controlled feed for extraction, pulping, fermentation, heat treatment or another downstream process. The correct equipment list depends on the raw material arriving at the factory, not only on the finished drink or food product.
 
-## Common processing steps
+## Position in the production line
 
-- Raw material cleaning and impurity removal
-- Grading and sorting
-- Crushing and beating
-- Separation of pulp, peel and core
-- Temporary storage, transportation and front-end buffering
+A project-specific route may include:
 
-## Applicable scenarios
+**Receiving -> inspection and sorting -> washing -> trimming or size reduction -> conveying -> extraction or pulping -> product treatment -> filling**
 
-- Processing of fruit raw materials such as avocados and grapes
-- Pre-processing of juice, pulp and sauce
-- Preparation of front-end raw materials for fruit wine and fermented drinks
-- Comprehensive pretreatment area for multi-category food factories
+Only the stages required by the approved process should be quoted. Wastewater, rejected material, peel, stones, pomace and other by-products also need defined handling boundaries.
 
-## Selection suggestions
+## Raw-material conditions to document
 
-- First confirm the status of the raw materials, whether they are whole fruits, cut into pieces or materials with high residue content
-- Reconfirm whether peeling, pitting, beating or fine filtration is required
-- If the project is related to fruit wine, you can continue to view [Brewing Equipment Series](/en/solutions/brewing/)
-- If the project eventually enters the packaging line, it can be designed in conjunction with [Filling Machine Series](/en/solutions/filling/)
+- Fruit or vegetable type, variety, maturity and seasonal window
+- Delivery form, field contamination and foreign-material load
+- Whole-product dimensions, fragility and acceptable handling damage
+- Required sorting, washing, trimming, crushing or conveying stages
+- Water quality, recirculation and wastewater constraints
+- Downstream feed size, temperature and continuity requirement
+- Cleaning, food-contact and local hygiene requirements
 
-## Benchmark reference model
+## Relevant product pages
 
-Closer to this section on the public page of the reference station is the pre-treatment lifting and conveying equipment, which can be used as the entrance to the front section of juice, fruit wine and fruit and vegetable products. The entrance to the specific product page is directly provided here.
+| Equipment | Procurement focus |
+| --- | --- |
+| [Food-grade fruit elevator](/en/products/filling/fruit-elevator) | Controlled transfer between receiving or preparation stages |
+| [Tank pasteurization processing line](/en/products/filling/pasteurization-processing-line) | A downstream heat-treatment option when it matches the approved product process |
 
-| Model | Excerpt of public parameters | Applicable instructions |
-| --- | --- | --- |
-| [Elevator](/en/solutions/fruit-veg-processing/fruit-elevator) | Food-grade engineering plastic mesh belt; stainless steel frame; mechanical stepless speed regulation; suitable for lifting and conveying grapes, strawberries, apples, etc. | Suitable as pre-processing auxiliary equipment for fruit, vegetable juice and fruit wine projects |
+The linked pages provide model-level reference information. A complete fruit or vegetable line requires a process list and raw-material review before the manufacturer can confirm the configuration.
 
-## Direct access to specific models
+## Purchase decisions that affect the quote
 
-- [Elevator](/en/solutions/fruit-veg-processing/fruit-elevator)
-- [Filling and packaging equipment parameter library overview](/en/products/filling-equipment)
+- Seasonal peak input and the basis used to describe throughput
+- Manual inspection versus mechanized sorting and transfer
+- Number of wash or preparation stages
+- Product-contact materials and cleaning access
+- Water circuit, pumps, tanks, conveyors and controls
+- Waste and wastewater collection included in supply
+- Connection to extraction, fermentation, pasteurization or filling
 
-## Related pages
+## Quote request data
 
-- [Fruit oil solutions](/en/solutions/fruits)
-- [Brewing equipment series](/en/solutions/brewing/)
-- [Filling machine series](/en/solutions/filling/)
-- [Overview of filling packages](/en/solutions/filling-packages)
+Send raw-material photos and representative samples where practical, incoming condition, required finished feed, target processing basis, operating season and shifts, process flow, utilities, layout, waste plan and destination. Identify existing equipment and the required inlet/outlet elevations.
+
+## Acceptance, delivery and after-sales boundary
+
+FAT should use the agreed raw material or a documented substitute and define handling damage, transfer stability, cleaning access and interface checks. Seasonal product performance, final product quality and waste yield are not implied unless a specific test method is contracted. Delivery, installation, local water and drainage work, commissioning, training, spare parts and service terms must be itemized in the commercial offer.
+
+## Related process modules
+
+- [Dairy and liquid process equipment](/en/solutions/dairy-processing/)
+- [Liquid filtration systems](/en/solutions/filtering/)
+- [Liquid filling machines](/en/solutions/filling/)
+- [Filling and packaging line overview](/en/solutions/filling-packages)
+
+## Request a pre-processing line quote
+
+Provide the incoming raw material and required downstream feed condition to receive a process list and manufacturer price.
+
+- [Request fruit and vegetable equipment pricing](/en/contact/)
+
+<!-- quote-cta -->

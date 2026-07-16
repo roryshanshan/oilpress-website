@@ -1,49 +1,59 @@
 ---
-title: "Dịch vụ | Lắp đặt, đào tạo, hỗ trợ sau bán"
-description: "Tư vấn trước bán, hướng dẫn lắp đặt, đào tạo vận hành và hỗ trợ kỹ thuật sau bán cho dự án máy ép dầu thủy lực."
-keywords: máy ép dầu thủy lực, máy ép dầu, thiết bị ép dầu
+title: "Dịch vụ máy ép dầu | Lắp đặt, đào tạo và bảo hành"
+description: "Xác nhận bằng hợp đồng phạm vi thử mẫu, lắp đặt, chạy thử, đào tạo, thời hạn bảo hành, thời gian phản hồi, phụ tùng và hỗ trợ từ xa."
+keywords: dịch vụ máy ép dầu, lắp đặt máy ép dầu, đào tạo vận hành, hỗ trợ sau bán hàng, phạm vi bảo hành, dịch vụ theo hợp đồng
 ---
-# Hỗ trợ dịch vụ
 
-## Hệ thống dịch vụ toàn diện
+# Phạm vi dịch vụ và cách xác nhận
 
-### Dịch vụ trước bán hàng
+Dịch vụ cho một dự án máy ép dầu phụ thuộc vào model, địa điểm, điều kiện lắp đặt và hợp đồng. Trước khi đặt hàng, cần ghi rõ bên nào chịu trách nhiệm cho thử mẫu, lắp đặt, hiệu chỉnh, đào tạo, phụ tùng, đi lại và xử lý sự cố.
 
-- **Tư vấn kỹ thuật**: Kỹ sư chuyên nghiệp cung cấp tư vấn giải pháp kỹ thuật
-- **Lựa chọn thiết bị**: Đề xuất model thiết bị phù hợp dựa trên nhu cầu khách hàng
-- **Thiết kế giải pháp**: Cung cấp giải pháp chế biến dầu hoàn chỉnh
+## Trước khi đặt hàng
 
-### Dịch vụ trong khi bán hàng
+- **Thu thập yêu cầu:** Xác nhận nguyên liệu, khối lượng mẻ, mục tiêu sản xuất, điện áp, mặt bằng và công đoạn trước hoặc sau ép.
+- **Chọn cấu hình:** Cung cấp danh sách model, thùng ép, thiết bị phụ trợ và các hạng mục tùy chọn để người mua đối chiếu.
+- **Thử mẫu:** Với nguyên liệu chưa có dữ liệu ổn định, thống nhất điều kiện thử và tiêu chí đánh giá trước khi chốt model.
+- **Báo giá bằng văn bản:** Ghi phạm vi cung cấp, hạng mục không bao gồm, điều kiện giao hàng, nghiệm thu, bảo hành và hỗ trợ sau bán hàng.
 
-- **Ký hợp đồng**: Ký hợp đồng dịch vụ chi tiết
-- **Tiến độ sản xuất**: Theo dõi tiến độ sản xuất thiết bị theo thời gian thực
-- **Đảm bảo chất lượng**: Sản xuất nghiêm ngặt theo tiêu chuẩn chất lượng
+## Trong sản xuất và nghiệm thu
 
-### Dịch vụ sau bán hàng
+- Xác nhận các mốc sản xuất và loại tài liệu tiến độ được cung cấp.
+- Mọi thay đổi về model, vật liệu hoặc linh kiện cần được ghi lại và phê duyệt trước khi áp dụng.
+- Thống nhất nội dung kiểm tra xuất xưởng, chạy không tải, chạy có tải và hồ sơ nghiệm thu.
+- Kiểm tra danh sách đóng gói, phụ tùng, tài liệu vận hành và yêu cầu lắp đặt trước khi giao.
 
-- **Lắp đặt và hiệu chuẩn**: Kỹ thuật viên chuyên nghiệp đến lắp đặt và hiệu chuẩn
-- **Đào tạo vận hành**: Đào tạo toàn diện cho nhân viên vận hành của khách hàng
-- **Hỗ trợ kỹ thuật**: Đường dây hỗ trợ kỹ thuật 24/7
+## Lắp đặt, đào tạo và hỗ trợ sau bán hàng
 
-## Mạng lưới dịch vụ
+- **Lắp đặt và hiệu chỉnh:** Xác định dịch vụ từ xa hay tại chỗ, điều kiện mặt bằng, công cụ, nhân lực và trách nhiệm của mỗi bên.
+- **Đào tạo vận hành:** Thống nhất đối tượng, nội dung, ngôn ngữ, tài liệu và hình thức đào tạo.
+- **Bảo dưỡng:** Cung cấp lịch kiểm tra theo model và điều kiện vận hành; vật tư hao mòn cần được liệt kê riêng.
+- **Hỗ trợ kỹ thuật:** Duy trì hỗ trợ sau giao hàng theo phạm vi, kênh liên hệ, thời hạn và điều kiện ghi trong hợp đồng.
 
-### Mạng lưới dịch vụ trong nước
+## Kênh dịch vụ và điều kiện phản hồi
 
-Công ty đã thiết lập hơn 30 điểm dịch vụ trên toàn quốc, đảm bảo cung cấp dịch vụ kịp thời cho khách hàng.
+Không nên dùng số lượng điểm dịch vụ hoặc một thời gian phản hồi chung để thay cho điều khoản dự án. Trước khi ký hợp đồng, hãy xác nhận:
 
-### Dịch vụ quốc tế
+- Email, điện thoại hoặc nền tảng được dùng để mở yêu cầu hỗ trợ
+- Khung giờ làm việc, múi giờ, ngôn ngữ và thời gian phản hồi đã thỏa thuận
+- Trường hợp nào xử lý từ xa và trường hợp nào đủ điều kiện cử kỹ thuật viên đến hiện trường
+- Bên chịu chi phí đi lại, visa, lưu trú, vận chuyển phụ tùng và thuế
+- Thời gian dự kiến cho phụ tùng theo model và điểm đến
 
-Cung cấp hỗ trợ kỹ thuật từ xa và dịch vụ tại chỗ cho khách hàng nước ngoài; mạng lưới dịch vụ phủ khắp các thị trường chính trên toàn cầu.
+## Thông tin cần gửi khi yêu cầu hỗ trợ
 
-## Cam kết dịch vụ
+- Số đơn hàng, model và mã máy hoặc ảnh nhãn máy
+- Mô tả hiện tượng, thời điểm xảy ra và mã cảnh báo
+- Ảnh hoặc video liên tục thể hiện thao tác và lỗi
+- Loại nguyên liệu, độ ẩm, cách tiền xử lý và khối lượng mẻ
+- Các bước đã kiểm tra và linh kiện đã thay thế
 
-- **Thời gian phản hồi**: Phản hồi trong vòng 2 giờ sau khi nhận yêu cầu dịch vụ
-- **Thời gian tới nơi**: Trong tỉnh 24 giờ, ngoài tỉnh 48 giờ có mặt tại hiện trường
-- **Hiệu quả xử lý**: 90% sự cố được giải quyết trong vòng 24 giờ
+Thông tin đầy đủ giúp hai bên xác định lỗi vận hành, điều kiện nguyên liệu, linh kiện hao mòn hoặc sai lệch thiết bị trước khi chọn phương án xử lý.
 
-## Xu Ly Tra Hang Va Van De Don Hang
+## Trả hàng, hư hỏng vận chuyển và sai lệch đơn hàng
 
-- Thiết bị trên website được cung cấp theo báo giá nhà máy, xác nhận kỹ thuật và hợp đồng đã ký. Nhiều dự án được xác nhận trước sản xuất theo điện áp, công suất, cách đóng gói và yêu cầu quy trình.
-- Trước khi đặt hàng, vui lòng xác nhận với bộ phận kinh doanh về model, cấu hình, thời gian giao hàng, cách đóng gói và phạm vi dịch vụ.
-- Nếu bạn phát hiện hư hỏng trong vận chuyển, sai lệch số lượng hoặc thiết bị giao đến không khớp với hợp đồng hoặc đơn hàng đã xác nhận, vui lòng liên hệ sớm nhất với đội ngũ bán hàng và hỗ trợ sau bán hàng của chúng tôi.
-- Đối với các trường hợp sau bán hàng liên quan đến chất lượng, vui lòng tham khảo cam kết dịch vụ trên trang này và các cam kết chất lượng công khai của chúng tôi. Phạm vi bảo hành và cách thức thực hiện được áp dụng theo hợp đồng và thông tin công khai của dự án.
+- Thiết bị được cung cấp theo báo giá, xác nhận kỹ thuật và hợp đồng đã ký.
+- Khi nhận hàng, kiểm tra bao bì, số kiện, nhãn máy và danh sách đóng gói; lưu ảnh trước khi tháo kiện nếu có hư hỏng.
+- Nếu số lượng, cấu hình hoặc tình trạng giao hàng không phù hợp với hồ sơ đã xác nhận, gửi bằng chứng qua kênh ghi trong hợp đồng.
+- Việc sửa chữa, thay thế, hoàn trả, chi phí và thời hạn xử lý áp dụng theo trách nhiệm và điều kiện đã thỏa thuận.
+
+- [Xác nhận phạm vi lắp đặt, đào tạo và hỗ trợ sau bán hàng](/vi/contact/)

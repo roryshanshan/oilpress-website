@@ -252,7 +252,7 @@ graph TD
 - 投资成本：200-600万元
 
 ### 大型加工（日处理30吨以上）
-- **425/480系列压榨机**
+- **426/480系列压榨机**
 - 全自动生产线
 - 智能化管理系统
 - 投资成本：1000万元以上
@@ -421,7 +421,7 @@ graph TD
 - Investment Cost: 2,000,000-6,000,000 RMB
 
 ### Large Scale Processing (30+ tons/day)
-- **425/480 Series Oil Press**
+- **426/480 Series Oil Press**
 - Full automatic production line
 - Intelligent management system
 - Investment Cost: 10,000,000 RMB+

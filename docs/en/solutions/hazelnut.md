@@ -1,124 +1,54 @@
 ---
-title: Hazelnut (Hazelnut Oil) | Equipment List & Factory Quote
-description: Get a turnkey plan for Hazelnut (Hazelnut Oil) Solution, including process design, equipment list, factory quote, procurement support, and after-sales service.
+title: "Hazelnut Oil Cold-Press Line | Equipment & Factory Quote"
+description: "Screen, clean, and crush hazelnuts before hydraulic cold pressing; verify trial moisture, filtered oil, cake residue, press model, filtration, and quote scope."
 keywords: Hazelnut (Hazelnut Oil) Solution quote, Hazelnut (Hazelnut Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
 image: "/images/an-overview-of-the-cold-pressing-process-of-hazeln-98e165898b.webp"
 ---
-# Hazelnut (Hazelnut Oil) Solution
+# Hazelnut Oil Pressing Line
 
-## Overview
+Hazelnut oil line sizing starts with shelled kernels. In-shell nut weight cannot be used as press capacity because shell ratio, broken kernels, and rejected material change the usable feed. Product grade also determines whether the trial uses unroasted kernels or a separately controlled roast.
 
-Hazelnut is an important oil crop, hazelnut oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional hazelnut pressing solutions, from small workshops to large factories with complete equipment and services.
+![Hazelnut kernels prepared for cold pressing](/images/an-overview-of-the-cold-pressing-process-of-hazeln-98e165898b.webp)
 
-## Hazelnut Characteristics
+## Raw Material Boundary
 
-### 📊 Basic Parameters
-- **Oil Content**: 55-65%
-- **Protein Content**: 15-20%
-- **Main Fatty Acids**: Oleic acid (75-85%), Linoleic acid (10-15%), Palmitic acid (3-5%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+Declare whole nuts or kernels, variety, origin, shell fraction, moisture, and storage history. Remove moldy, insect-damaged, scorched, dark, or rancid kernels. Salted, flavored, or previously roasted snack material is a separate feed specification and requires a dedicated trial and cleaning review.
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 4-6 years
-- **Suitable Climate**: Temperate, humid areas
-- **Soil Requirements**: Fertile, well-drained soil
-- **Annual Production**: Global annual production exceeds 800,000 tons
+## Recommended Pretreatment
 
-## Processing Technology
+1. Crack and separate shells without carrying sharp fragments into the grinder.
+2. Sort and clean the kernels, including metal detection where required.
+3. Measure moisture and use gentle drying or tempering only when needed.
+4. Crush evenly immediately before the batch is loaded.
+5. Keep roasted and unroasted product trials separate.
 
-+ Hazelnut pressing process (Recommended 426AC-390/480AC-390/500AC-390)
-     + Cold pressing process: Hazelnuts go through screening, cleaning, and high-speed crushing before being directly fed into the hydraulic oil press bucket for pressing.
-     + The hazelnut oil produced by this process has golden color and a sweet aftertaste. The pressed oil does not require hydration treatment and does not foam when used in cooking.
-     + ![Hazelnut Pressing Process](/images/an-overview-of-the-cold-pressing-process-of-hazeln-98e165898b.webp)
+## Pressing Route and Equipment
 
-## Technical Advantages
+Hydraulic batch cold pressing is the first route to evaluate for a light-flavor food or cosmetic oil. A lightly roasted route can be trialed when a stronger nut aroma is the commercial target. Select the press from measured bulk density, charge weight, cycle time, cake release, and filtered-oil result.
 
-### 🎯 Precise Control
-- Temperature control: ±2℃ precision
-- Pressure control: Intelligent adjustment
-- Humidity control: Optimal moisture content
+### Equipment Entry Points
 
-### 💧 Oil Quality Guarantee
-- Low-temperature process preserves nutrition
-- Physical pressing without chemical residues
-- Oil yield up to 56-62%
+- [Pretreatment equipment](/en/products/pre-treatment)
+- [Hydraulic oil press range](/en/products/)
+- [426 Series hydraulic oil press](/en/products/426) as a model entry for trial sizing
+- [Pneumatic filter press](/en/products/pneumatic-filter-press)
+- [Filling equipment](/en/products/filling-equipment)
 
-### 🔄 Continuous Production
-- 24-hour uninterrupted operation
-- Automated feeding and discharging
-- Intelligent fault alarm
+## Filtration and Finished-Oil Target
 
-## Product Applications
+Agree on settling or fine filtration, sampling time, visible sediment, clarity, color, aroma, and any oxidation-related laboratory checks. Tanks and packages should match the required protection from light, air, and residual old oil between batches.
 
-### 🍳 Edible Oil
-- Hazelnut oil: Main edible oil variety
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+## Data Required for a Quotation
 
-### 💊 Health Products
-- Hazelnut oil: Nutritional supplement
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+- In-shell or kernel sample, shell ratio, moisture, rejected-kernel fraction, storage time, and signs of rancidity
+- Usable kernel input per batch or day, shifts, and shelling or sorting scope
+- Cold-pressed or roasted flavor target and intended food or cosmetic use
+- Filtration grade, tank and package requirements, and agreed oil tests
+- Power, floor space, sanitation requirements, destination, and delivery terms
 
-### 💄 Beauty and Skincare
-- Hazelnut oil: Natural skincare oil
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+## Acceptance Records
 
-## Market Analysis
-
-### 📈 Development Trends
-- Growing demand for high-end edible oils and nutritional health products
-- Expanding high-end hazelnut oil market
-- Increasing export trade opportunities
-
-### 🎯 Target Markets
-- Edible oil processing enterprises
-- Food processing enterprises
-- Health product enterprises
-- Export trade enterprises
-
-## Quality Standards
-
-### 🏆 Product Quality Standards
-- Complies with national hazelnut oil standards
-- Complies with food safety standards
-- Complies with export food standards
-- Complies with organic food certification
-
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color and transparency testing
-- Heavy metal content testing
-- Pesticide residue testing
-
-## Sustainable Development
-
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
-
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
-
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
-
-## Contact Us
-
-If you are interested in hazelnut pressing solutions, please contact our technical team:
-
-- 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
-
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable hazelnut pressing solution.
+Record the approved lot, shell removal and rejection weights, kernel moisture, crush size, charge weight, cycle time, oil temperature, crude and filtered oil, and cake weight. After the agreed settling or filtration interval, document clarity, color, nut aroma, burnt or rancid notes, cake discharge, retained product, and cleaning results.
 
 ## Related Links
 
@@ -128,12 +58,12 @@ We provide free technical consultation, sample testing, and on-site inspection s
 - [Walnut Solutions](/en/solutions/walnut)
 - [426 Series Hydraulic Oil Press](/en/products/426)
 - [Contact Technical Team](/en/contact/)
-- [中文页面](/zh/solutions/hazelnut)
+- [Chinese page](/zh/solutions/hazelnut)
 
-## Get Price & Quote
+## Request a Configuration and Quote
 
-Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+Send the hazelnut feed state, usable kernel volume, product profile, filtration target, utilities, and destination to receive a quotation tied to the agreed sample trial.
 
-- [Get Price & Quote](/en/contact/)
+- [Request a hazelnut oil line quote](/en/contact/)
 
 <!-- quote-cta -->

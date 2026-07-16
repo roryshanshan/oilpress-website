@@ -1,62 +1,69 @@
 ---
-title: "Dòng máy đóng nút | Model, thông số & báo giá nhà máy"
-description: Xem dòng máy đóng nút cho dây chuyền dầu ăn và đóng gói lỏng. So sánh model và yêu cầu báo giá nhà máy.
-keywords: Dòng máy đóng nút chai, máy đóng nút chai, máy ép nút chai, thiết bị đóng nút chai rượu vang, máy đóng nút chai thủy tinh, thiết bị đóng gói dầu hộp quà tặng
+title: "Máy đóng nút bần | Model, giá và báo giá nhà máy"
+description: "So sánh máy đóng nút bần thủ công, bán tự động và tự động theo chai, nút, công suất và mức tích hợp để nhận báo giá nhà sản xuất."
+keywords: giá máy đóng nút bần, máy đóng nút rượu, máy đóng nút tự động, báo giá nhà sản xuất, mua máy đóng chai, phụ tùng hậu mãi
 image: "/images/filling-solutions/corking.webp"
 ---
 
-# Dòng máy đóng nút
+# Máy đóng nút bần cho chai thủy tinh
 
-![Ảnh chụp thực tế máy đóng nút chai hoàn toàn tự động](/images/filling-solutions/corking.webp)
+![Máy đóng nút bần tự động](/images/filling-solutions/corking.webp)
 
-Máy đóng nút chai chủ yếu được sử dụng cho quá trình ép nút chai, nút tổng hợp và các nút chặn khác. Nó thường được sử dụng trong các dây chuyền đóng gói rượu vang, rượu hoa quả, rượu mạnh và một số sản phẩm dầu đặc sản chai thủy tinh cao cấp. Đối với các dự án theo đuổi cảm giác hộp quà tặng, cảm giác bộ sưu tập và trải nghiệm đóng gói cao cấp, quy trình đóng nắp có thể nâng cao đáng kể hình ảnh sản phẩm.
+Đóng nút bần là công đoạn tạo kín chính cho rượu vang, rượu trái cây và các sản phẩm dùng hệ nút đã được phê duyệt. Khả năng làm việc ổn định phụ thuộc vào sự kết hợp giữa cổ chai, vật liệu và kích thước nút, dung sai bao bì và cách ép đưa nút vào. Không nên giả định một bộ dụng cụ có thể chạy mọi loại chai và nút.
 
-## Sản phẩm áp dụng
+## Thứ tự công đoạn
 
-- Rượu vang, rượu hoa quả, rượu gạo và các sản phẩm có cồn khác
-- Dầu óc chó, dầu hạt nho, dầu olive và các loại dầu hộp quà chai thủy tinh cao cấp khác
-- Các mặt hàng đóng gói đặc biệt cần sử dụng nút chai hoặc nút trang trí
+**Chiết rót → chuẩn bị và cấp nút → ép nút → kiểm tra độ sâu → co nắp chụp nếu cần → dán nhãn → đóng thùng**
 
-## Ý tưởng cấu hình phổ biến
+Trong dây chuyền liên kết, máy đóng nút phải đồng bộ với máy chiết và băng tải phía sau. Với máy độc lập, cách đưa chai vào, thao tác của người vận hành và đầu ra phải được ghi riêng trong phạm vi cung cấp.
 
-- Cắm máy đơn: thích hợp cho sản xuất hàng loạt nhỏ, tốc độ trung bình và thấp
-- Cắm nối: thích hợp để hình thành dây chuyền đóng gói liên tục với chức năng chiết rót, co nắp và dán nhãn
-- Cấu trúc có thể điều chỉnh: thích ứng với các chiều cao chai khác nhau, thông số kỹ thuật của miệng chai và thân phích cắm
+## Tương thích chai và nút
 
-## Mối quan tâm lựa chọn
+- Bản vẽ chai thủy tinh, dung sai cổ và độ ổn định trên băng tải
+- Nút bần tự nhiên, nút tổng hợp hoặc loại nút đã được duyệt
+- Đường kính, chiều dài, điều kiện bảo quản và chuẩn bị nút
+- Độ sâu khi đóng và giới hạn vết trên bề mặt chai
+- Nạp thủ công, cấp hỗ trợ hay hệ thống cấp nút tự động
+- Kiểm tra rò rỉ và yêu cầu co nắp chụp sau đó
 
-- Độ đồng tâm giữa kích thước miệng chai và thân chai có ổn định không?
-- Chất liệu thân phích cắm là nút chai tự nhiên, phích cắm tổng hợp hay phích cắm trang trí?
-- Liệu nó có phù hợp với nhịp độ lấp đầy mặt trước và trạm thu nhỏ nắp phía sau không
-- Có cần thiết để hạn chế tình trạng gãy nút chai và trầy xước miệng chai không?
+## Chọn mức tự động hóa
 
-## Mối quan hệ phù hợp điển hình
+| Model | Nội dung cần đánh giá |
+| --- | --- |
+| [Máy đóng nút bần tự động](/vi/products/filling/automatic-corking-machine) | Cấp nút tự động, dòng chai và tích hợp dây chuyền |
+| [Máy đóng nút bán tự động](/vi/products/filling/semi-automatic-corking-machine) | Chu kỳ người vận hành, định vị chai và đổi cỡ |
+| [Máy đóng nút thủ công](/vi/products/filling/manual-corking-machine) | Nạp chai có kiểm soát và kết cấu đơn giản |
 
-1. [Dòng máy chiết rót](/vi/solutions/filling/)
-2. Dòng máy dừng
-3. [Dòng máy co nhiệt nắp gel](/vi/solutions/cap-shrinking/)
-4. [Dòng máy dán nhãn](/vi/solutions/labeling/)
+Dữ liệu model được công bố trên các trang sản phẩm. Máy và dụng cụ cuối cùng phải xác nhận bằng mẫu chai và nút được duyệt.
 
-## Mô hình tham chiếu điểm chuẩn
+## Yếu tố ảnh hưởng đến giá mua
 
-Máy đóng nút chai chú ý nhiều hơn đến khả năng thích ứng của thân nút chai và tốc độ kết nối trong các dự án dầu rượu và hộp quà tặng cao cấp. Tên model có thể nhập trực tiếp vào trang sản phẩm tương ứng.
+- Chế độ thủ công, bán tự động hay tự động
+- Phễu, phân loại, cấp nút và phát hiện thiếu nút
+- Số loại chai, nút và dụng cụ chuyển đổi
+- Băng tải, tách chai, dẫn hướng, che chắn và giao tiếp điều khiển
+- Máy độc lập hay nối cơ khí-điện với máy chiết
+- Thử máy, đóng gói xuất khẩu, vận chuyển, lắp đặt và đào tạo
 
-| Người mẫu | Trích đoạn thông số công cộng | Hướng dẫn áp dụng |
-| --- | --- | --- |
-| [Máy đóng nút chai hoàn toàn tự động DS-1 / DS-4 / DS-6](/vi/solutions/corking/automatic-corking-machine) | 2500/4500/6000 chai/giờ; 1/4/6 đầu nút chai; 1,5 / 3 / 3 kW | Thích hợp cho dây chuyền đóng gói rượu liên tục |
-| [Máy đóng nút chai bán tự động dòng DS](/vi/solutions/corking/semi-automatic-corking-machine) | Trang công khai tuân theo phạm vi năng lực sản xuất DS-1 / DS-4 / DS-6; thích hợp cho các loại nút chai cỡ vừa và nhỏ | Thích hợp cho các dự án khởi nghiệp rượu vang hoặc dầu hộp quà tặng |
-| [Máy đóng nút chai thủ công](/vi/solutions/corking/manual-corking-machine) | Thích hợp cho chai thủy tinh có nút chai; như một giải pháp đầu tư thấp hoặc thử nghiệm đóng gói lô nhỏ | Thích hợp cho dây chuyền lấy mẫu tốc độ thấp và sản xuất thử nghiệm |
+## Thông tin cần cho báo giá
 
-## Truy cập trực tiếp vào các mô hình cụ thể
+Gửi bản vẽ và mẫu chai, thông số và mẫu nút, công suất thuần, ca làm việc, máy chiết phía trước, công đoạn nắp chụp hoặc dán nhãn phía sau, tiện ích, mặt bằng và nơi giao. Nêu rõ độ sâu nút sau khi đóng và cách kiểm tra dự kiến.
 
-- [Máy đóng nút chai hoàn toàn tự động](/vi/solutions/corking/automatic-corking-machine)
-- [Máy đóng nút chai bán tự động](/vi/solutions/corking/semi-automatic-corking-machine)
-- [Máy đóng nút thủ công](/vi/solutions/corking/manual-corking-machine)
-- [Tổng quan về thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
+## FAT, lắp đặt và hậu mãi
 
-## Các trang liên quan
+Nghiệm thu tại xưởng kiểm tra cấp nút, độ sâu, hư hại chai, kẹt máy, đổi cỡ và liên động bằng mẫu đã thống nhất. Báo giá phải tách vật tư thử, băng tải, nâng hạ tại chỗ, đi lại, chạy thử, đào tạo và phụ tùng khuyến nghị. Bảo hành và thời gian phản hồi theo tài liệu thương mại đã ký.
 
-- [Dòng máy co nhiệt nắp gel](/vi/solutions/cap-shrinking/)
-- [Dòng thiết bị nấu rượu](/vi/solutions/brewing/)
-- [Dòng máy niêm phong](/vi/solutions/sealing/)
-- [Liên hệ với chúng tôi để biết giải pháp về dây chuyền đóng gói rượu](/vi/contact/)
+## Hoàn thiện dây chuyền
+
+- [Đóng chai rượu vang](/vi/solutions/brewing/)
+- [Co nắp chụp cổ chai](/vi/solutions/cap-shrinking/)
+- [Dán nhãn chai](/vi/solutions/labeling/)
+- [Đóng thùng và xếp pallet](/vi/solutions/packing-palletizing/)
+
+## Yêu cầu giá máy đóng nút
+
+Cung cấp bộ chai-nút để nhận cấu hình phù hợp, ranh giới cung cấp và báo giá nhà sản xuất.
+
+- [Yêu cầu báo giá máy đóng nút bần](/vi/contact/)
+
+<!-- quote-cta -->

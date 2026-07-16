@@ -1,58 +1,73 @@
 ---
-title: "Packing and palletizing | Specs, Models & Factory Quote"
-description: "Browse packing and palletizing for edible oil and liquid packaging lines. Compare models, capacity ranges, and request factory pricing with process guidance."
-keywords: Packing and palletizing equipment, automatic cartoning machine, automatic palletizing machine, carton sealing equipment, edible oil post-packaging line, terminal packaging equipment
+title: "Case Packing & Palletizing | Equipment Line Quote"
+description: "Plan case erecting, bottle packing, carton sealing and robotic palletizing. Submit case, pack pattern and pallet data for a manufacturer quote."
+keywords: packing palletizing line price, case packer manufacturer, carton sealer quote, robot palletizer price, end of line packaging procurement, edible oil case packing
 image: "/images/filling-solutions/packing-palletizing.webp"
 ---
 
-# Packing and palletizing
+# Case packing and palletizing equipment
 
-![Real shots of automatic unpacking and packing equipment](/images/filling-solutions/packing-palletizing.webp)
+![Automatic case packing equipment](/images/filling-solutions/packing-palletizing.webp)
 
-Packing and palletizing are the end links of the entire packaging line, which determines the efficiency of finished products leaving the warehouse, the neatness of storage and the stability of transportation. For medium and high-speed edible oil packaging projects, the higher the degree of automation in the back-end, the more it can reduce the cost of manual handling and carton sorting.
+End-of-line equipment converts saleable bottles into stable shipping units. Case dimensions, bottle arrangement, carton quality, pallet pattern and warehouse handling determine the required machinery. A quote based only on bottles per hour can miss the interfaces that control actual line performance.
 
-## Common modules
+## Position at the end of the line
 
-- Automatic cartoning machine
-- Carton sealing machine or tape sealing machine
-- Array and buffer conveyor unit
-- Automatic palletizer or robotic palletizing system
-- Pallet sorting and wrapping unit
+A typical route is:
 
-## Applicable scenarios
+**Final inspection -> case erecting -> product grouping and case packing -> carton closing and sealing -> check or identification step if required -> palletizing -> load transfer**
 
-- Delivery of bottled edible oil products from warehouse
-- Glass bottle gift box oil or high-end packaging products
-- Beverages, seasonings, fruit wine, etc. are shipped in boxes
-- Medium and large factories pursuing continuous shipping efficiency
+The project boundary should state whether empty cases, dividers, tape or adhesive, pallets, stretch wrapping and warehouse conveyors are included.
 
-## Key points in selection
+## Packaging data to define
 
-- First confirm the carton specifications, the number and arrangement of bottles in a single box
-- Reconfirm pallet size, number of palletizing layers and warehouse forklift conditions
-- If there are [labeling machine series](/en/solutions/labeling/) and [laser coding machine series](/en/solutions/laser-coding/) at the front end of the production line, buffer beats need to be reserved
-- For small projects, semi-automatic packing can be started first, and then gradually upgraded to automatic palletizing.
+- Bottle or container dimensions, weight and center of gravity
+- Units per case and required pack orientation
+- Carton style, board quality, closure method and supplied tolerances
+- Divider, tray, shrink bundle or other secondary package
+- Pallet dimensions, layer pattern, maximum load and transfer direction
+- Required label, code or traceability point
+- Available floor space, ceiling height and forklift access
 
-## Benchmark reference model
+## Available end-of-line equipment
 
-The back-end equipment is more suitable for preliminary screening based on box gauge, rhythm and pallet logic. The model name can directly enter the corresponding product page.
+| Model | Procurement focus |
+| --- | --- |
+| [Automatic case erector and packer](/en/products/filling/case-erector-packing-machine) | Case forming, product grouping and packing arrangement |
+| [Automatic carton sealer](/en/products/filling/carton-sealing-machine) | Carton closing method, tape or sealing consumable and conveyor fit |
+| [Robot palletizer](/en/products/filling/robot-palletizer) | Gripper, layer pattern, pallet handling and safety-cell scope |
 
-| Model | Excerpt of public parameters | Applicable instructions |
-| --- | --- | --- |
-| [Automatic unpacking, carton forming, and packing machine](/en/solutions/packing-palletizing/case-erector-packing-machine) | 12 boxes/minute or 20-60 boxes/minute; 220V 600W or 380V 2.5 kW; supports different box sizes | Suitable for automatic unpacking and packing integration |
-| [Automatic folding and sealing machine](/en/solutions/packing-palletizing/carton-sealing-machine) | 12-15 boxes/min; sealing size L200-550 × W150-480 × H127-480 mm; 400W | Suitable for continuous sealing of regular cartons |
-| [Robot Palletizer](/en/solutions/packing-palletizing/robot-palletizer) | Touch screen + PLC; supports multiple stacking methods; the pallet library can accommodate 12-15 empty pallets | Automatic palletizing suitable for medium and large shipping scenarios |
+Published specifications are available on the product pages. Final layout and cycle basis require the approved case, product and pallet pattern.
 
-## Direct access to specific models
+## Decisions that affect project price
 
-- [Automatic unpacking, carton forming, and packing machine](/en/solutions/packing-palletizing/case-erector-packing-machine)
-- [Automatic folding and sealing machine](/en/solutions/packing-palletizing/carton-sealing-machine)
-- [Robot Palletizer](/en/solutions/packing-palletizing/robot-palletizer)
-- [Filling and packaging equipment parameter library overview](/en/products/filling-equipment)
+- Single machine or linked case-to-pallet line
+- Number of bottle, case and pallet formats
+- Product grouping, divider insertion and case closing method
+- Robot gripper, pallet dispenser and layer-sheet scope
+- Safety fencing, access gates and controls integration
+- Reject, accumulation and warehouse conveyor boundary
+- Export packing, delivery, installation and operator training
 
-## Related pages
+## Quote request checklist
 
-- [Labeling machine series](/en/solutions/labeling/)
-- [Laser coding machine series](/en/solutions/laser-coding/)
-- [Filling machine series](/en/solutions/filling/)
-- [Overview of filling packages](/en/solutions/filling-packages)
+Send bottle, carton, divider and pallet drawings or samples, pack pattern, target output, upstream conveyor information, available layout and height, warehouse transfer method, utilities and destination. Include photos of existing equipment and identify retained conveyors or pallet-handling systems.
+
+## FAT, installation and service boundary
+
+FAT should use the agreed packaging materials and verify case forming, product orientation, closure quality, pallet pattern, load stability, changeover and linked controls. Packaging consumables, local foundations, fencing, lifting, installation labor, travel, commissioning, training, gripper spares and after-sales response must be itemized in the quotation and contract.
+
+## Related line modules
+
+- [Labeling machines](/en/solutions/labeling/)
+- [Laser coding machines](/en/solutions/laser-coding/)
+- [Light inspection machines](/en/solutions/light-inspection/)
+- [Filling and packaging line overview](/en/solutions/filling-packages)
+
+## Request end-of-line equipment pricing
+
+Provide the approved case and pallet pattern to receive a layout basis, equipment list and manufacturer quote.
+
+- [Request a packing and palletizing line quote](/en/contact/)
+
+<!-- quote-cta -->

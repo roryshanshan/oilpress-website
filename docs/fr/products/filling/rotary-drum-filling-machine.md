@@ -1,43 +1,43 @@
 ---
-title: Machine de remplissage de cuve rotative prix | fabricant
-description: Demandez le prix et le devis pour Machine de remplissage de cuve rotative. Fabricant Shengshi Hecheng, livraison et SAV.
-keywords: Machine de remplissage de cuve rotative prix, acheter Machine de remplissage de cuve rotative, devis usine, fabricant chinois, exportation, service après-vente
+title: "Remplisseuse rotative de fûts | Prix fabricant et devis"
+description: "Remplisseuse rotative pour fûts et bidons avec dosage électronique grand débit, buse adaptable et anti-goutte. Le devis fabricant précise le prix et le SAV."
+keywords: "remplisseuse rotative pour fûts et bidons prix, devis remplisseuse rotative pour fûts et bidons, dosage électronique grand débit, buse adaptable au col et fonction anti-goutte, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/rotary-drum-filling-machine.webp"
 ---
-# Machine de remplissage de cuve rotative
 
-![Machine de remplissage à tambour rotatif](/images/filling-products/rotary-drum-filling-machine.webp)
+# Remplisseuse rotative pour grands contenants
 
-La machine de remplissage de cuve rotative convient au remplissage quantitatif automatique de liquides de cuve. L'accent est mis sur le remplissage à haut débit, l'adaptation de l'embouchure du fût et la stabilité dans les grands scénarios d'emballage. Il est souvent utilisé dans les graisses, les liquides chimiques et d’autres projets d’emballage de grande capacité.
+![Remplisseuse rotative pour grands contenants](/images/filling-products/rotary-drum-filling-machine.webp)
 
-## Positionnement du modèle
+Cette remplisseuse rotative dose des liquides dans de grands contenants, pour lesquels le débit, le centrage du goulot et la manutention du poids plein deviennent essentiels. Le produit et l'ouverture du contenant doivent être confirmés avant de choisir le circuit et le bec.
 
-- Série : [Série de machines de remplissage](/fr/solutions/filling/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#fill-big-drum)
-- Scénarios applicables : convient aux grands barils de pétrole commercial et de produits chimiques liquides.
+## Domaine d'application et critères d'achat
 
-## Résumé des informations publiques
+- Famille : [Série de remplisseuses](/fr/solutions/filling/)
+- Repère technique : [Paramètres publiés de Remplisseuse rotative pour grands contenants](/fr/products/filling-equipment#fill-big-drum)
+- Évaluer le dosage et les vannes avec le liquide et la quantité réels.
+- Définir l'entrée, l'indexage et la sortie des contenants sans coincement ni instabilité.
+- Prévoir capsulage, contrôle de fuite et transfert du contenant plein.
 
-- Utilisez une vanne électronique pour le remplissage quantitatif, avec une vitesse de remplissage rapide et une précision quantitative élevée.
-- La structure de levage n'entre pas en contact dur avec l'embouchure du canon, réduisant ainsi le risque d'endommager le canon.
--Prend en charge le contrôle PLC, pas de remplissage sans seau, anti-goutte, alarme d'arrêt automatique
+## Données nécessaires au devis fabricant
 
-## Points de divulgation
+- Densité, viscosité, température, mousse et matériaux mouillés.
+- Plans ou échantillons, ouverture, plage de volume, poids et tolérance.
+- Cadence, alimentation et sortie, bec ou canne et antigoutte.
+- Nettoyage, produit FAT, méthode de réception, utilités et mise en service.
 
-- La buse de remplissage auxiliaire peut être remplacée en fonction de l'embouchure du baril et du type de baril pour s'adapter aux différentes exigences de débit
-- La capacité de remplissage peut être réglée en continu dans son ensemble ou individuellement et automatiquement enregistrée.
-- L'interrupteur de niveau à flotteur contrôle le niveau de liquide, rendant le positionnement plus stable
-- La molette pour entrer et sortir du canon est équipée d'une protection contre les surcharges et peut s'arrêter automatiquement et déclencher une alarme lorsque le canon est coincé.
-- Les pièces en contact avec le produit sont en acier inoxydable, adaptées aux exigences d'emballage de liquides alimentaires et industriels
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-## Suggestions complémentaires
+## Prix, livraison et périmètre SAV écrit
 
-- Solutions linéaires comparables pour fûts moyens et grands [machine de remplissage linéaire](/fr/products/filling/linear-filling-machine)
-- Pour les projets de matériaux corrosifs, vous pouvez continuer à consulter [Machine de remplissage résistante à la corrosion acide et alcaline](/fr/products/filling/corrosion-resistant-filling-machine)
-- Pour l'ensemble du projet de ligne, vous pouvez continuer à voir [Filling Package Overview](/fr/solutions/filling-packages)
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
 
-## Pages connexes
+## Équipements associés et prochaine étape
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Série de machines de remplissage](/fr/solutions/filling/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+- [Série de remplisseuses](/fr/solutions/filling/)
+- [Paramètres publiés de Remplisseuse rotative pour grands contenants](/fr/products/filling-equipment#fill-big-drum)
+- [Remplisseuse linéaire 10-25 L](/fr/products/filling/linear-filling-machine)
+- [Remplisseuse pour liquides corrosifs](/fr/products/filling/corrosion-resistant-filling-machine)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

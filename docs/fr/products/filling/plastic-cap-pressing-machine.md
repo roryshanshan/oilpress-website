@@ -1,26 +1,27 @@
 ---
-title: "Machine de capsulage anti | Prix usine et devis"
-description: "Demandez le prix usine pour Machine de capsulage anti. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
-keywords: Machine de capsulage anti-pression plastique prix, acheter Machine de capsulage anti-pression plastique, devis usine, fabricant chinois, exportation, service après-vente
+title: "Capsuleuse pour bouchons plastique | Prix fabricant et devis"
+description: "Capsuleuse par pression pour bouchons plastique, 6 000-9 000 bouteilles/h et diamètres 60-100 mm. Comparez l’intégration, le prix, le devis et le SAV."
+keywords: "capsuleuse par pression pour bouchons plastique prix, devis capsuleuse par pression pour bouchons plastique, 6 000-9 000 bouteilles/h, diamètres 60-100 mm et cols 20-50 mm, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/plastic-cap-pressing-machine.webp"
 ---
-# Machine de capsulage anti-pression plastique
 
-![Machine de pressage de bouchons en plastique](/images/filling-products/plastic-cap-pressing-machine.webp)
+# Capsuleuse pour bouchons plastiques à pression
 
-La machine anti-bouchage en plastique peut être utilisée comme référence pour des modèles spécifiques de la série de machines à sceller. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+![Capsuleuse pour bouchons plastiques à pression](/images/filling-products/plastic-cap-pressing-machine.webp)
 
-## Positionnement du modèle
+Cette capsuleuse guide puis enfonce des bouchons plastiques compatibles sur le goulot. La géométrie d'emboîtement, le support de la bouteille et l'effort de pressage déterminent le résultat ; le couple bouteille-bouchon doit donc être testé.
 
-- Série : [Série de machines à sceller](/fr/solutions/sealing/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#seal-plastic)
-- Scénarios applicables : convient aux bouchons en plastique et aux bouchons de bouteilles ordinaires.
+## Domaine d'application et critères d'achat
 
-## Résumé des informations publiques
+- Famille : [Série de machines de fermeture](/fr/solutions/sealing/)
+- Repère technique : [Paramètres publiés de Capsuleuse pour bouchons plastiques à pression](/fr/products/filling-equipment#seal-plastic)
+- Réserver la machine aux fermetures conçues pour être pressées, non vissées ni roulées.
+- Définir la présentation et l'orientation des bouchons avant la zone de pression.
+- Vérifier que les guides évitent déformation et marquage du contenant.
 
-Il adopte un bouchage de type plaque à chaîne synchrone, ne laissant aucune trace après le bouchage.
+## Paramètres de référence publiés
 
-## Table des paramètres publics
+Le tableau ci-dessous est conservé comme repère de gamme. Les performances et la compatibilité finales doivent être confirmées dans l'offre technique et le protocole de réception.
 
 <table>
   <tbody>
@@ -57,14 +58,24 @@ Il adopte un bouchage de type plaque à chaîne synchrone, ne laissant aucune tr
   </tbody>
 </table>
 
-## Suggestions complémentaires
+## Données nécessaires au devis fabricant
 
-- Regardez d'abord la page de la série : [Série de machines à sceller](/fr/solutions/sealing/)
-- Regardez à nouveau l'aperçu des paramètres : [La position de la machine de capsulage plastique dans la bibliothèque de paramètres](/fr/products/filling-equipment#seal-plastic)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+- Plans ou échantillons bouteille-bouchon avec tolérances et surfaces d'appui.
+- Position finale, effort ou course, aspect et essai d'étanchéité.
+- Cadence, espacement, alimentation des bouchons et convoyeur.
+- Pièces de format, quantité FAT, pièces d'usure et mise en service.
 
-## Pages connexes
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Série de machines à sceller](/fr/solutions/sealing/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+## Prix, livraison et périmètre SAV écrit
+
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
+
+## Équipements associés et prochaine étape
+
+- [Série de machines de fermeture](/fr/solutions/sealing/)
+- [Paramètres publiés de Capsuleuse pour bouchons plastiques à pression](/fr/products/filling-equipment#seal-plastic)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Planification des lignes de production](/fr/solutions/production-lines)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

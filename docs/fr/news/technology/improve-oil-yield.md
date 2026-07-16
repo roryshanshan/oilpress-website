@@ -1,6 +1,6 @@
 ---
-title: "Comment améliorer le rendement du pressage d'huile |…"
-description: "Maximiser le rendement en huile augmente la rentabilité, réduit le gaspillage de matières premières et améliore la qualité du produit. Ce guide résume…"
+title: "Améliorer le rendement d'une presse à huile : guide"
+description: "Mesurez rendement, humidité, huile résiduelle du tourteau, énergie et coûts locaux pour tester les réglages et évaluer le ROI de la ligne de pressage."
 keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
 ---
 # Comment améliorer le rendement du pressage d'huile
@@ -8,12 +8,16 @@ keywords: presse à huile, machine d'extraction d'huile, équipement de pressage
 *Publié : 12 avril 2023*
 *Catégorie : Connaissances techniques*
 
-Maximiser le rendement en huile augmente la rentabilité, réduit le gaspillage de matières premières et améliore la qualité du produit. Ce guide résume les techniques pratiques concernant les matières premières, l'équipement et les paramètres de processus pour vous aider à obtenir des rendements constamment plus élevés.
+L'évolution du rendement doit être mesurée par rapport à une matière, une méthode et un coût définis. Ce guide présente des variables d'essai concernant les matières premières, l'équipement et le procédé ; il ne promet ni hausse de rendement, ni qualité, ni rentabilité.
+
+::: warning Base de comparaison et réception
+Avant de comparer deux réglages, consigner l'espèce et le lot de matière, le prétraitement, la distribution granulométrique, l'humidité d'alimentation, la masse du lot, le cycle complet jusqu'au nettoyage et au redémarrage, ainsi que la durée d'essai continu et les arrêts admis. Définir le pesage étalonné, le prélèvement, la méthode de laboratoire, la base sèche ou humide, les tolérances, les utilités et les gestes opérateur. Seuls les critères écrits du contrat peuvent servir au FAT/SAT ou à une garantie.
+:::
 
 ## Pourquoi le rendement est important
-- Une production plus élevée par tonne de graines réduit le coût unitaire.
-- Un meilleur contrôle de la chaleur et de l'humidité réduit l'oxydation et préserve la saveur.
-- Un rendement stable indique la capacité du processus et l'état de l'équipement.
+- Le rendement mesuré par tonne peut être rapproché des coûts réels pour calculer le coût unitaire.
+- La température et l'humidité doivent être corrélées aux analyses d'oxydation et aux critères sensoriels.
+- La répétabilité sur une durée définie sert d'indicateur de diagnostic du procédé et de l'état de l'équipement.
 
 ## Facteurs clés affectant le rendement
 1) Matières premières : variété, maturité, propreté, teneur en coques, humidité initiale.
@@ -23,8 +27,8 @@ Maximiser le rendement en huile augmente la rentabilité, réduit le gaspillage 
 5) Stockage et manutention : éviter la réabsorption d'humidité ; prévenir l'oxydation.
 
 ## Conseils pratiques
-- Contrôle de l'humidité : cibler 6–9 % d'humidité du noyau avant le pressage ; ajuster finement selon la culture.
-- Écaillage uniforme : une épaisseur de 0,25–0,35 mm améliore le transfert de chaleur et la rupture cellulaire.
+- Contrôle de l'humidité : utiliser 6–9 % comme point de départ éventuel, puis ajuster selon la culture et l'essai.
+- Écaillage : utiliser 0,25–0,35 mm comme point de départ éventuel et mesurer la distribution réelle.
 - Conditionnement progressif : chauffer progressivement avec une humidité appropriée pour améliorer la plasticité.
 - Pression progressive : assurer une épaisseur et une dureté de tourte appropriées ; éviter le glissement.
 - Équilibre thermique : suffisamment de chaleur pour abaisser la viscosité, pas trop élevée pour éviter l'oxydation.
@@ -32,7 +36,7 @@ Maximiser le rendement en huile augmente la rentabilité, réduit le gaspillage 
 - Surveillance continue : enregistrer la puissance, le courant, les températures et l'huile résiduelle dans la tourte.
 
 ## Recommandations par culture
-- Arachide : pressage à chaud 110–130°C pour l'arôme et un rendement élevé ; pressage à froid <60°C pour un goût premium ; viser un résidu de tourte de 8–12 % (pressage chaud).
+- Arachide : 110–130°C à chaud et <60°C à froid sont des points de départ à confirmer. Fixer toute cible d'huile résiduelle du tourteau par essai représentatif, avec prélèvement, base sèche/humide, méthode de laboratoire et tolérance écrits.
 - Sésame : torréfaction légère à moyenne pour l'arôme ; pressage à chaud 120–150°C (huile parfumée) ou pressage à froid <60°C pour une couleur claire.
 - Colza : ramollir à 7–9 % d'humidité ; pressage à chaud 110–125°C ; contrôler les notes piquantes par le conditionnement.
 - Tournesol : décortiquer 85–90 % ; humidité 6–8 % ; pressage à chaud 100–120°C ; envisager un pressage en deux étapes.
@@ -53,6 +57,5 @@ Maximiser le rendement en huile augmente la rentabilité, réduit le gaspillage 
 - Maintenance : remplacer les vis/anneaux usés ; calibrer les capteurs ; garder les aimants propres.
 
 ::: info Synergie équipement-processus
-Shengshi Hecheng fournit des ensembles de paramètres et des recommandations d'équipement adaptés à chaque culture oléagineuse (pressage à chaud/froid, vis simple/double, pré-pressage et extraction), ainsi que la mise en service sur site et la formation des opérateurs pour vous aider à atteindre rapidement un rendement stable et élevé.
+Shengshi Hecheng peut établir un devis fabricant pour les essais matière et les voies à chaud/froid, vis simple/double ou pré-pressage plus extraction. Le devis et le contrat doivent définir la configuration, la base de capacité, le FAT/SAT, les pièces, la garantie et le périmètre SAV. Toute assistance à distance, mise en service ou formation sur site exige une confirmation écrite de la région, des déplacements, visas, hébergement, coûts, durée, contenu des travaux, utilités de l'acheteur et responsabilités de réception ; aucun résultat de rendement n'est garanti hors protocole signé.
 :::
-

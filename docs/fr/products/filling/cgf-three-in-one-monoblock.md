@@ -1,35 +1,27 @@
 ---
-title: Machine trois-en-un pour rincer, remplir et sceller prix
-description: Demandez le prix et le devis pour Machine trois-en-un pour rincer, remplir et sceller. Fabricant Shengshi Hecheng, livraison et SAV.
-keywords: Machine à trois lignes de rinçage, de remplissage et de scellage prix, acheter Machine à trois lignes de rinçage, de remplissage et de scellage, devis usine, fabricant chinois, exportation, service après-vente
+title: "Monobloc CGF 3-en-1 | Prix fabricant et devis"
+description: "Monobloc CGF de rinçage, remplissage et bouchage, 6 000-12 000 bouteilles/h à 500 ml. Comparez l’intégration, le prix, le devis et le SAV."
+keywords: "monobloc CGF de rinçage, remplissage et bouchage prix, devis monobloc CGF de rinçage, remplissage et bouchage, 6 000-12 000 bouteilles/h à 500 ml pour bouteilles rigides, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/cgf-three-in-one-monoblock.webp"
 ---
-# Machine à trois lignes de rinçage, de remplissage et de scellage
 
-![Machine de rinçage, de remplissage et de scellage trois en un](/images/filling-products/cgf-three-in-one-monoblock.webp)
+# Monobloc CGF de rinçage, remplissage et capsulage
 
-La machine de rinçage, de remplissage et de scellage à trois lignes est l'un des principaux modèles du bus combiné de support de machine et de remplissage. Il convient au rinçage, au remplissage et au bouchage sur une seule pièce d'équipement, réduisant ainsi les transferts intermédiaires, raccourcissant la surface au sol et améliorant l'efficacité de l'ensemble de la ligne.
+![Monobloc CGF de rinçage, remplissage et capsulage](/images/filling-products/cgf-three-in-one-monoblock.webp)
 
-## Positionnement du modèle
+Le monobloc CGF coordonne le rinçage des bouteilles, le remplissage quantitatif et le capsulage sur une même plate-forme rotative. Cette architecture limite les transferts, mais chaque projet doit être adapté au produit, à la bouteille rigide, à la fermeture et au mode de nettoyage.
 
-- Série : [Machine combinée et bus de support de remplissage](/fr/solutions/filling-packages)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#fp-cgf)
-- Scénarios applicables : Ligne d'emballage intégrée adaptée aux bouteilles en verre ou aux bouteilles rigides telles que l'huile en bouteille, l'alcool, le liquide d'assaisonnement, etc.
+## Domaine d'application et critères d'achat
 
-## Résumé des informations publiques
+- Famille : [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- Repère technique : [Paramètres publiés de Monobloc CGF de rinçage, remplissage et capsulage](/fr/products/filling-equipment#fp-cgf)
+- Déterminer la combinaison de têtes après validation de la cadence soutenue au volume et au format réels.
+- Définir le fluide de rinçage et son évacuation, la méthode de remplissage, puis l'alimentation et la fermeture des capsules.
+- Vérifier l'accès au nettoyage, au changement de format et à la maintenance dans l'implantation.
 
-- Un modèle très vendu qui intègre le rinçage, le remplissage et le bouchage.
-- Lorsque la capacité calibrée est de « 500 ml », la précision de remplissage de référence peut atteindre « ±1,5 ml ».
-- Il peut réaliser des actions continues telles que démarrer avec des bouteilles, s'arrêter sans bouteilles, rincer, remplir, sceller automatiquement, etc.
+## Paramètres de référence publiés
 
-## Présentation du modèle
-
-- `CGF30-24-8` : adapté aux lignes de production de taille moyenne, rendement de référence `6000 p/h`
-- 'CGF40-30-8' : la ligne standard adaptée à l'exploration continue de la capacité de production, production de référence '8000 p/h'
-- 'CGF48-36-8' : adapté à la production continue à rendement moyen à élevé, rendement de référence '10 000 p/h'
-- `CGF60-40-8` : adapté aux projets complets à tempo plus élevé, sortie de référence `12000 p/h`
-
-## Table des paramètres publics
+Le tableau ci-dessous est conservé comme repère de gamme. Les performances et la compatibilité finales doivent être confirmées dans l'offre technique et le protocole de réception.
 
 | Modèle | Production (h/h) | Consommation d'eau | Nombre de têtes de rinçage | Type de remplissage | Nombre de têtes de remplissage | Type d'étanchéité | Nombre de têtes de scellage | Puissance totale (kW) | Dimensions (mm) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -38,14 +30,25 @@ La machine de rinçage, de remplissage et de scellage à trois lignes est l'un d
 | CGF48-36-8 | 10000 | 3.5 | 48 | Tasse à mesurer remplissage quantitatif | 36 | Coiffage | 8 | 6.4 | 5000×3150×2700 |
 | CGF60-40-8 | 12000 | 4.4 | 60 | Tasse à mesurer remplissage quantitatif | 40 | Coiffage | 8 | 7.5 | 5500×3650×2700 |
 
-## Suggestions complémentaires
+## Données nécessaires au devis fabricant
 
-- Si vous souhaitez voir des structures de joints similaires, vous pouvez continuer à consulter [Machine de remplissage et de bouchage intelligente entièrement automatique GDP36DK-10-10](/fr/products/filling/gdp36dk-filling-capping-sealing-monoblock)
-- Si vous réalisez un projet viticole, vous pouvez comparer [Remplissage d'alcool à deux lignes](/fr/products/filling/baijiu-filling-capping-monoblock)
-- Si vous planifiez la ligne entière, vous pouvez continuer à consulter [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines)
+- Propriétés du produit, plage de volume, échantillons de bouteilles et capsules, matériaux de contact.
+- Spécification de rinçage, récupération éventuelle, nettoyage et conditions d'évacuation.
+- Cadence par format, alimentation amont, inspection et accumulation aval.
+- Utilités, plan d'atelier, échantillons FAT, limites de réception et mise en service demandée.
 
-## Pages connexes
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Machine combinée et bus de support de remplissage](/fr/solutions/filling-packages)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+## Prix, livraison et périmètre SAV écrit
+
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
+
+## Équipements associés et prochaine étape
+
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Paramètres publiés de Monobloc CGF de rinçage, remplissage et capsulage](/fr/products/filling-equipment#fp-cgf)
+- [Monobloc GDP36DK de remplissage, capsulage et scellage](/fr/products/filling/gdp36dk-filling-capping-sealing-monoblock)
+- [Monobloc de remplissage et capsulage pour spiritueux](/fr/products/filling/baijiu-filling-capping-monoblock)
+- [Planification des lignes de production](/fr/solutions/production-lines)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

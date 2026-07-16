@@ -1,78 +1,80 @@
 ---
-title: "Filling machine series | Specs, Models & Factory Quote"
-description: "Browse filling machine series for edible oil and liquid packaging lines. Compare models, capacity ranges, and request factory pricing with process guidance."
-keywords: Filling machine series, edible oil filling machine, quantitative filling equipment, bottled oil filling machine, barrel filling equipment, liquid filling production line
+title: "Liquid Filling Machines | Price & Factory Line Quote"
+description: "Compare liquid fillers for bottles, cans and drums. Match product properties, package samples and line scope, then request manufacturer price and configuration."
+keywords: liquid filling machine price, edible oil filler manufacturer, bottle filling line quote, drum filling machine procurement, quantitative filling equipment, filling machine after sales
 image: "/images/filling-solutions/filling.webp"
 ---
 
-# Filling machine series
+# Liquid filling machines
 
-![Smart filling machine real shot](/images/filling-solutions/filling.webp)
+![Intelligent liquid filling machine](/images/filling-solutions/filling.webp)
 
-The filling machine is the core module of the entire packaging line, which directly determines production capacity, measurement accuracy, type change efficiency and finished product consistency. For edible oil projects, the filling process must not only ensure accurate quantification, but also take into account drip-proof, anti-pollution, easy cleaning and convenience of switching between different packaging specifications.
+The filler is the metering center of a packaging line. Its configuration must match the liquid, container, target output and cleaning method while leaving stable interfaces for closure, inspection and labeling. Comparing head count alone is not enough to prepare a reliable purchase price.
 
-## Common filling methods
+## Position in the production line
 
-- Flow meter filling: suitable for medium and high speed edible oil bottling lines
-- Weighing filling: suitable for large barrels, large packaging or high-precision scenarios
-- Volumetric filling: suitable for continuous quantitative production of conventional specifications
-- Semi-automatic filling: suitable for start-up brands, small batches, and multi-specification projects
+A common route is:
 
-## Applicable products and packaging forms
+**Product storage or buffer -> final filtration -> product supply and filling -> capping or sealing -> inspection -> labeling and coding -> packing**
 
-- Peanut oil, rapeseed oil, soybean oil, sesame oil, walnut oil and other edible oils
-- Glass bottles, PET bottles, kegs, square barrels, flexible packaging bags
-- High value-added small bottles of gift oil and Zhongda packaging commercial oil
-- Beverages, flavoring liquids, fruit wine and other liquid products
+The quote should identify who supplies the product tank, pump, pipelines, level control, conveyors and communication signals. These interfaces often determine whether a stand-alone machine can operate as part of the complete line.
 
-## Key points in selection
+## Product and package basis
 
-- Choose single-head, double-head, multi-head or fully automatic online solutions based on daily output
-- Choose the appropriate measurement method according to the oil viscosity and temperature
-- Confirm whether quick format change, automatic bottle sorting and automatic cap sorting are required based on packaging specifications
-- Decide whether to link [light inspection machine series](/en/solutions/light-inspection/) and [labeling machine series](/en/solutions/labeling/) based on sales positioning
+Provide the actual operating range for:
 
-## Typical whole line position
+- Edible oil, beverage, wine, seasoning liquid or other specified product
+- Viscosity, temperature, foaming tendency, particles and cleaning compatibility
+- Glass or PET bottle, can, jerrycan, drum or another approved container
+- Fill volume range and number of package formats
+- Required metering principle and the buyer's acceptance method
+- Product-contact material and hygiene requirements
 
-1. Front-end filtration or oil storage buffer
-2. Quantitative filling
-3. [Sealing machine series](/en/solutions/sealing/)
-4. [Labeling machine series](/en/solutions/labeling/)
-5. [Packing and palletizing](/en/solutions/packing-palletizing/)
+Chemically aggressive products need a separate material and safety review. Food and chemical duties should not be combined without written engineering confirmation.
 
-## Applicable scenarios
+## Available filling machine pages
 
-- Semi-automatic bottling lines for small workshops
-- Medium speed automated edible oil filling line for regional brands
-- Barrel commercial oil and distribution large packaging projects
-- Complete line projects that require linkage with filtration, labeling, and packing
+| Model | Procurement focus |
+| --- | --- |
+| [12-36 head intelligent liquid filler](/en/products/filling/smart-filling-machine) | Multi-head bottle line configuration and format range |
+| [High-precision quantitative filler](/en/products/filling/high-precision-filling-machine) | Metering method, package range and line controls |
+| [DK intelligent quantitative filler](/en/products/filling/intelligent-quantitative-filling-machine) | Dosing arrangement and package compatibility |
+| [ZGP linear drum filler](/en/products/filling/linear-filling-machine) | Linear handling for larger containers |
+| [Rotary drum filling machine](/en/products/filling/rotary-drum-filling-machine) | Drum presentation and rotary filling arrangement |
+| [LGF pesticide filling machine](/en/products/filling/pesticide-filling-machine) | Dedicated chemical-product application review |
+| [Corrosion-resistant liquid filler](/en/products/filling/corrosion-resistant-filling-machine) | Material compatibility and corrosion-resistant scope |
 
-## Benchmark reference model
+Published parameters remain on the individual product pages. Final output and accuracy commitments require the agreed product, container, operating basis and acceptance protocol.
 
-The following models are organized according to public pages and are suitable for quickly judging filling speed, accuracy and packaging range. The model name can directly enter the corresponding product page.
+## Decisions that change the purchase price
 
-| Model | Excerpt of public parameters | Applicable instructions |
-| --- | --- | --- |
-| [Series smart filling machine 12-36 heads](/en/solutions/filling/smart-filling-machine) | 4000-13000 b/h; 500±1 ml; bottle height 100-320 mm; bottle diameter ∅50-100 mm; 1.1-2.2 kW | Suitable for retail bottled edible oil main line |
-| [High-precision quantitative filling machine GDP-12A~GDP-36H](/en/solutions/filling/high-precision-filling-machine) | 3000-10000 b/h; 100-750 ml; 500±1.5 ml; 0.37-1.5 kW | Suitable for quantitative filling of multiple specifications of bottles |
-| [Linear filling machine ZGP-4~ZGP-10](/en/solutions/filling/linear-filling-machine) | 10-25 L; 500-1400 based on 10 L; accuracy ≤0.2%; air source 0.5-0.7 MPa | Suitable for linear filling of medium and large barrels |
-| [Rotary drum filling machine](/en/solutions/filling/rotary-drum-filling-machine) | Electronic valve rationing; PLC No barrel, no filling; overall stepless adjustment of filling volume; suitable for a variety of barrel mouth sub-filling nozzles | Suitable for large barrels of commercial oil or chemical liquids |
+- Stand-alone filler, linked line or integrated monoblock
+- Metering method, number of filling positions and product supply system
+- Container formats, change parts and automatic bottle handling
+- Anti-drip, product recovery and cleaning arrangement
+- Capper, inspection, labeling, coding and end-of-line scope
+- Controls integration, documentation, export packing and destination service
 
-## Direct access to specific models
+## Quote request checklist
 
-- [Series smart filling machines](/en/solutions/filling/smart-filling-machine)
-- [High-precision quantitative filling machine](/en/solutions/filling/high-precision-filling-machine)
-- [Intelligent quantitative filling machine](/en/solutions/filling/intelligent-quantitative-filling-machine)
-- [Rotary drum filling machine](/en/solutions/filling/rotary-drum-filling-machine)
-- [Linear filling machine](/en/solutions/filling/linear-filling-machine)
-- [Pesticide filling machine](/en/solutions/filling/pesticide-filling-machine)
-- [Acid and alkali corrosion-resistant filling machine](/en/solutions/filling/corrosion-resistant-filling-machine)
-- [Filling and packaging equipment parameter library overview](/en/products/filling-equipment)
+Send the product data sheet, representative liquid if testing is needed, container and closure drawings or samples, fill range, target output, shift plan, cleaning method, utilities, plant layout, required upstream/downstream modules and destination. Identify any existing equipment that must exchange bottles or signals with the new filler.
 
-## Related pages
+## FAT, SAT and after-sales boundary
 
-- [Overview of filling packages](/en/solutions/filling-packages)
-- [Filter series](/en/solutions/filtering/)
-- [Sealing machine series](/en/solutions/sealing/)
-- [Labeling machine series](/en/solutions/labeling/)
-- [Contact us to obtain production line solutions](/en/contact/)
+The acceptance protocol should define the test product or substitute, container range, run duration, metering method, sample plan, spill or drip condition, changeover and line interlocks. Site installation, local labor, piping, cabling, travel, commissioning, training, spare parts and warranty terms are provided only as listed in the signed quotation and contract.
+
+## Related line modules
+
+- [Liquid filtration systems](/en/solutions/filtering/)
+- [Capping and sealing machines](/en/solutions/sealing/)
+- [Light inspection machines](/en/solutions/light-inspection/)
+- [Labeling machines](/en/solutions/labeling/)
+- [Packing and palletizing](/en/solutions/packing-palletizing/)
+
+## Request filling machine price and configuration
+
+Submit the liquid and container basis to receive a model comparison, supply list and itemized manufacturer quote.
+
+- [Request a liquid filling line quote](/en/contact/)
+
+<!-- quote-cta -->

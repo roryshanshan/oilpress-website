@@ -1,6 +1,6 @@
 ---
-title: "Petite presse à huile hydraulique de type coréen prix |…"
-description: Demandez le prix et le devis pour Petite presse à huile hydraulique de type coréen. Fabricant Shengshi Hecheng, livraison et SAV.
+title: "Petite presse hydraulique de type coréen | Prix et devis"
+description: "Petite presse hydraulique conçue pour les huiles à forte valeur ajoutée et les faibles capacités. Comparez l'usage, le prix fabricant, le devis et le SAV."
 keywords: Petite presse à huile hydraulique de type coréen prix, acheter Petite presse à huile hydraulique de type coréen, devis usine, fabricant chinois, exportation, service après-vente
 image: "/images/korean-type-small-press/korean-type-overview.webp"
 ---

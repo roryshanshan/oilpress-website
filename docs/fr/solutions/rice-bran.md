@@ -1,140 +1,33 @@
 ---
-title: Solution de son de riz (huile de son de riz) - Shengshi Hechen...
-description: "Demandez un devis pour Solution de son de riz (huile de son de riz) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV."
-keywords: Solution de son de riz (huile de son de riz) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+title: "Ligne d'huile de son de riz | Étude, prix et devis"
+description: "Huile de son de riz : stabilisation rapide, séchage, extraction adaptée et filtration. Validez l'essai sur matière, les équipements, le prix et le devis usine."
+keywords: ligne huile son riz prix, stabilisation son riz, presse son riz, extraction huile, devis fabricant, essai matière, SAV
 image: "/images/cold-pressing-process-of-glutinous-rice-77cef64384.webp"
 ---
-# Solution de son de riz (huile de son de riz)
+# Ligne d'huile de son de riz : stabilisation et choix du procédé
 
-## Aperçu
+Le son frais contient des enzymes qui dégradent rapidement l'huile après le décorticage du riz. Il faut donc stabiliser la matière sans délai. Une simple presse choisie sur catalogue ne suffit pas à définir une ligne fiable.
 
-Le son de riz est un sous-produit de la transformation du riz, riche en huile de haute qualité, et peut extraire une huile de son de riz nutritive. L'huile de son de riz a une saveur unique et une valeur nutritionnelle, largement utilisée dans l'huile alimentaire et la transformation alimentaire. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de son de riz, répondant aux besoins de production d'échelles différentes.
+![Essai de compactage d'une matière issue du riz](/images/cold-pressing-process-of-glutinous-rice-77cef64384.webp)
 
-## Caractéristiques de son de riz
+## Procédé à étudier
 
-### 📊 Paramètres de base
-- **Teneur en huile** : 15-25%
-- **Teneur en protéines** : 12-15%
-- **Acides gras principaux** : Acide oléique (40-50%), Acide linoléique (30-40%)
-- **Température appropriée** : Température de pressage contrôlée à 60-80℃
+Réception du son frais -> stabilisation thermique -> séchage et refroidissement -> tamisage -> préparation mécanique -> essai de pressage ou choix d'une autre méthode d'extraction -> séparation des solides -> traitement et stockage de l'huile.
 
-### 🌱 Source Characteristics
-- **Source**: Rice processing by-product
-- **Freshness Requirements**: Should be processed promptly to maintain oil quality
-- **Conditions de Stockage**: Low temperature, dry environment
-- **Annual Production**: Global rice production about 500 million tons, rice bran production about 150 million tons
+Selon la teneur en huile, la finesse et le volume industriel, le pressage hydraulique peut ne pas être la méthode la plus adaptée. **L'analyse et l'essai matière sont obligatoires** avant toute recommandation de presse ; une solution d'extraction différente peut être nécessaire.
 
-## Technologie de Transformation
-Glutinous rice oil pressing technology: (Recommended 426AC-390/480AC-390/500AC-390)
- + Glutinous rice cold pressing process: Direct pressing
- ++ ![Glutinous Rice](/images/cold-pressing-process-of-glutinous-rice-77cef64384.webp)
+## Informations nécessaires au fabricant
 
-## Vidéo de processus de presse à huile hydraulique non disponible pour le moment, veuillez d'abord vous référer à la vidéo de processus de presse à huile à vis
+- Délai entre mouture du riz et arrivée du son
+- Humidité, finesse, teneur en huile et analyse d'acidité disponible
+- Quantité par heure ou par jour et durée de campagne
+- Usage de l'huile brute et traitement aval prévu
+- Énergie, espace d'installation et pays de destination
 
-<div class="video-container">
- <iframe src="https://www.youtube.com/embed/AUK9h05fRZg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## Devis, achat d'équipements et SAV
 
-## Vidéo de pressage de millet, 107 jin de millet produit 1 jin d'huile de millet
+L'étude peut couvrir stabilisation, [prétraitement](/fr/products/pre-treatment), pressage si les essais le confirment, [filtration](/fr/products/pneumatic-filter-press) et [raffinage](/fr/products/edible-oil-refining-equipment). Le devis usine doit distinguer les modules, les pièces, les essais, la mise en service et le service après-vente.
 
-<div class="video-container">
- <iframe src="https://www.youtube.com/embed/aJ6codz9fao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-## Avantages Techniques
-
-### 🎯 Precise Control
-- Temperature control: ±2℃ precision
-- Pressure control: Intelligent adjustment
-- Moisture control: Optimal process parameters
-
-### 💧 Oil Quality Guarantee
-- Low temperature pressing preserves nutrition
-- Physical pressing ensures purity
-- Oil yield up to 20-22%
-
-### 🔄 Production Continue
-- Processus de production automatisé
-- Continuous pressing technology
-- Intelligent quality monitoring
-
-## Applications des Produits
-
-### 🍳 Edible Oil
-- Rice bran oil: High-quality edible oil
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
-
-### 🥛 Sous-produits
-- Rice bran meal: Aliment protéique de haute qualité
-- Rice bran fiber: Feed additives
-- Rice bran protein: Food additives
-
-### 💊 Functional Products
-- Rice bran polyphenols
-- Rice bran vitamin E
-- Rice bran phospholipids
-
-## Market Analysis
-
-### 📈 Development Trends
-- Growing demand for by-product utilization
-- Expanding healthy edible oil market
-- Increasing export trade opportunities
-
-### 🎯 Target Markets
-- Edible oil processing enterprises
-- Rice processing enterprises
-- Food processing enterprises
-- Feed processing enterprises
-
-## Normes de Qualité
-
-### 🏆 Normes de Qualité des Produits
-- Complies with national edible oil standards
-- Complies with food safety standards
-- Complies with export food standards
-- Complies with organic food certification
-
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color and transparency testing
-- Heavy metal content testing
-- Aflatoxin testing
-- Pesticide residue testing
-
-## Développement Durable
-
-### 🌱 Production Environnementale
-- Recyclage et utilisation des déchets
-- Processus d'économie d'énergie et de réduction d'émissions
-- Normes de production verte
-
-### 🔄 Utilisation des Ressources
-- Utilisation complète des sous-produits
-- Extension de la chaîne industrielle
-- Modèle d'économie circulaire
-
-### 🌍 Responsabilité Sociale
-- Soutien à l'augmentation des revenus des agriculteurs
-- Assurer la sécurité alimentaire
-- Protéger l'environnement écologique
-
-## Contactez-nous
-
-If you are interested in rice bran pressing solutions, please contact our technical team:
-
-- 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
-
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable rice bran pressing solution.
-
-## Obtenir prix & devis
-
-Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
-
-- [Obtenir prix & devis](/fr/contact/)
+- [Envoyer les données du son de riz et demander un devis](/fr/contact/)
 
 <!-- quote-cta -->

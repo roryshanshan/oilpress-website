@@ -1,6 +1,6 @@
 ---
-title: "Hướng dẫn ép lạnh dầu óc chó: Quy trình, chọn máy và mẹo đóng gói"
-description: Hướng dẫn thực tế về ép lạnh dầu óc chó, bao gồm chuẩn bị nguyên liệu, ép nhiệt độ thấp, chọn máy, lọc và đóng gói bảo vệ.
+title: "Dầu óc chó ép lạnh | Quy trình, lọc và đóng gói"
+description: "Tách vỏ, sấy nhẹ, nghiền, ép lạnh, lọc kín và đóng chai chống sáng; kiểm soát nhiệt độ, oxy, thời gian lưu, độ trong và hạn dùng."
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-17"
 ---

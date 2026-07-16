@@ -1,96 +1,52 @@
 ---
 title: 客户订货发货视频｜价格与厂家报价
-description: "客户订货发货视频：山东盛世赫程机械有限公司提供专业的设备发货服务，从订单确认到客户验收，全程跟踪服务，确保设备安全、及时送达。"
+description: "查看液压榨油机打包、装车和出口发货记录，并核对报价中的包装方式、装箱清单、出口文件、保险、贸易条款和到货验收范围。"
 keywords: 客户订货发货视频, 榨油机设备, 榨油机价格, 榨油机报价, 榨油机采购, 油料加工设备, 榨油机配套设备, 售后服务, 油料预处理设备, 设备打包发货
 ---
 #  <center> 客户订货发货视频</center>
 
-## 发货服务概述
+以下视频是具体发货记录，不代表每个订单采用相同包装、承运商或运输时间。正式报价和装箱清单应写明设备范围、拆分方式、底座或木箱、防锈防潮、装柜方案、出口文件、保险和贸易条款。
 
-山东盛世赫程机械有限公司提供专业的设备发货服务，从订单确认到客户验收，全程跟踪服务，确保设备安全、及时送达。
+## 打包与装车记录
 
-我们的发货团队拥有丰富的经验，能够根据不同设备的特点和客户需求，提供个性化的包装和运输方案。
-
-## 国内发货现场概览
-
-### 液压榨油机打包发货过程
+### 液压榨油机打包
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/rrY56IsqT24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="液压榨油机打包记录" loading="lazy" src="https://www.youtube.com/embed/rrY56IsqT24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### 设备装车运输
+### 设备装车
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/mjzmVves1SU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="榨油设备装车记录" loading="lazy" src="https://www.youtube.com/embed/mjzmVves1SU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## 出口发货记录
+
+### 杏仁冷榨项目 426-390AC 机型
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/4kO6f5_iuYI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="426 液压榨油机出口发货记录" loading="lazy" src="https://www.youtube.com/embed/jjbll8mzB70" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
-### 国内客户设备验收
+### 多台液压榨油机备货与发运
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/--mJg9RNZwA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="多台液压榨油机备货发运记录" loading="lazy" src="https://www.youtube.com/embed/U077XRSuR-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/1PWhcjq9UNQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## 订货前需要确认的包装范围
 
-## 国际发货服务
+1. 机型、数量、散件，以及运输时是否拆分总成。
+2. 裸装底座、钢架、木箱或集装箱固定方式，并写明防潮和表面保护。
+3. 吊点、重心、包装尺寸、毛重净重和装柜顺序。
+4. 商业发票、装箱单、说明书、证书、报关资料及目的地特殊文件。
+5. 贸易条款、港口或送货地址、承运边界、投保责任和预计计划。
 
-### 海外客户设备发货记录
-+ 巴基斯坦杏仁冷榨客户，机型 426-390AC
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/jjbll8mzB70" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
- 
-+ 缅甸客户液压榨油机发货
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/qbhvJQ6amLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## 发货与到货验收
 
-+ 尼日利亚客户 10 台液压榨油机发货
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/3z6FzOGXqmA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+- 装车前按装箱单核对铭牌、附件、工具、备件和文件。
+- 合同包含时，以带日期的照片或视频记录包装和装柜状态。
+- 到货后先检查集装箱、包装、可见锈蚀或碰撞及散件，再开箱并记录异常。
+- 安装、调试、培训、差旅和远程支持按报价及合同执行，不能由发货视频默认推定。
 
-### 客户大批量订购液压榨油机，备货中
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/U077XRSuR-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
-## 发货服务特点
-
-### 专业包装
-- **防震包装**：采用专业包装材料，防止运输过程中的震动损坏
-- **防潮保护**：设备表面进行防潮处理，防止生锈和腐蚀
-- **固定加固**：设备在运输过程中牢固固定，确保安全
-
-### 物流跟踪
-- **实时跟踪**：提供物流信息查询，随时了解货物位置
-- **保险服务**：为设备提供运输保险，保障客户利益
-- **及时通知**：发货、到货等关键节点及时通知客户
-
-### 验收服务
-- **现场验收**：发货前进行设备验收，确保设备完好
-- **到货验收**：指导客户进行到货验收，提供技术支持
-- **售后跟踪**：设备安装调试后进行跟踪服务
-
-## 客户评价
-
-*"盛世赫程的发货服务非常专业，设备包装牢固，运输安全，到货后设备完好无损。"*
-—— 李先生，山东客户
-
-*"国际发货服务周到，物流跟踪及时，让我们非常放心。"*
-—— Ahmed先生，巴基斯坦客户
-
-## 联系我们
-
-如果您需要了解更多发货服务信息，或有特殊发货需求，请联系我们：
-
-- **发货咨询热线**：+86-19906365856
+[获取包装方式、运费边界与厂家报价](/zh/contact/)
 
 ---
 
@@ -121,4 +77,4 @@ keywords: 客户订货发货视频, 榨油机设备, 榨油机价格, 榨油机�
 }
 </style>
 
-*山东盛世赫程机械有限公司 · 专业制造 · 优质服务*
+*发货记录应与签字装箱单、报价和运输条款一并核对。*

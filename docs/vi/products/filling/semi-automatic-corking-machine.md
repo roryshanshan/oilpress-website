@@ -1,26 +1,37 @@
 ---
-title: "Máy đóng nút chai bán tự động giá | Giá nhà máy & báo giá"
-description: "Nhận giá nhà máy cho Máy đóng nút chai bán tự động giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
-keywords: giá Máy đóng nút chai bán tự động, mua Máy đóng nút chai bán tự động, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+title: "Máy đóng nút bần bán tự động | Báo giá từ nhà sản xuất"
+description: "Báo giá máy đóng nút bần bán tự động từ nhà sản xuất; kiểm tra năng suất, đường kính cổ chai và nút bần; xác nhận khả năng ghép nối trước khi mua."
+keywords: "giá máy đóng nút chai bán tự động, báo giá máy đóng nút chai bán tự động, năng suất, chiều cao cổ chai và loại nút bần, tích hợp dây chuyền chiết rót, cấu hình xuất khẩu, phụ tùng, hỗ trợ sau bán"
 image: "/images/filling-products/semi-automatic-corking-machine.webp"
 ---
 # Máy đóng nút chai bán tự động
 
 ![Máy đóng nút chai bán tự động](/images/filling-products/semi-automatic-corking-machine.webp)
 
-Máy đóng nút chai bán tự động có thể được sử dụng làm tài liệu tham khảo cho các mẫu máy cụ thể trong dòng máy đóng nút chai. Trang này sắp xếp vị trí mô hình, thông tin tham số và đề xuất hỗ trợ dựa trên thông tin sản phẩm công khai để tạo điều kiện thuận lợi cho việc lựa chọn sơ bộ và chuyển trang.
+Máy đóng nút bần bán tự động nằm giữa trạm thủ công và dây chuyền liên tục. Máy phù hợp với lô nhỏ và vừa khi bên mua muốn chu kỳ ép nút bằng máy lặp lại ổn định nhưng vẫn bố trí người xử lý chai. Tên gọi “bán tự động” không chứng minh có cấp chai, sắp nút hay băng tải tự động, nên báo giá phải phân công từng thao tác.
 
-## Định vị mô hình
+## Tự động hóa bắt đầu và kết thúc ở đâu
 
-- Series: [Dòng máy đóng nút chai](/vi/solutions/corking/)
-- Lối vào tổng quan về thông số: [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment#cork-semi)
-- Kịch bản áp dụng: Thích hợp cho các dự án khởi nghiệp rượu vang hoặc dầu hộp quà tặng.
+Nếu cấu hình của nhà sản xuất không thể hiện khác, hãy định giá theo ranh giới sau:
 
-## Tóm tắt thông tin công khai
+- **Nạp chai:** người vận hành đặt từng chai đã chiết; đầu vào tự động là tùy chọn hoặc hạng mục tích hợp riêng.
+- **Nạp nút:** người vận hành có thể đặt từng nút hoặc bổ sung nút cho bộ cấp hỗ trợ. Báo giá phải nêu phương án nào được dùng và có bộ định hướng hay không.
+- **Ép nút:** sau tín hiệu khởi động của người vận hành, máy hoàn thành một chu kỳ đưa nút vào và trở về trạng thái sẵn sàng.
+- **Lấy chai:** người vận hành lấy hoặc thả chai ra và kiểm tra vị trí nút. Đầu ra tự động chỉ được tính khi có trên bản vẽ và danh mục.
 
-Máy này chủ yếu thích hợp để đóng nút chai rượu vang và các chai thủy tinh khác. Nó chủ yếu được kết nối phía sau máy chiết rót và được sử dụng để cắm sau khi đổ đầy.
+## Chu kỳ người-máy và bố trí nhân sự
+
+Trạm lặp lại chuỗi thao tác: lấy chai từ vùng đệm sau chiết, đặt chai, cấp nút, kích hoạt máy, lấy ra, kiểm tra và chuyển tiếp. Năng suất bị giới hạn bởi toàn bộ chuỗi và mức độ bận của người vận hành, không chỉ hành trình ép. Thử bằng mẫu cần xác nhận liệu một người có thể vừa bổ sung nút vừa chuyển chai mà không tạo hàng chờ thiếu ổn định hoặc thao tác không an toàn.
+
+## Quy cách chai, nút và tiện ích
+
+Cung cấp chai và nút thực tế. Đối chiếu chiều cao, đáy, hình học và lỗ cổ chai với loại, đường kính và chiều dài nút. Với từng SKU, xác định giá đỡ, căn tâm cổ, độ sâu đóng nút và cách trình nút. Việc đổi cỡ phải được trình diễn khi nghiệm thu thay vì chỉ ghi chung “dùng nhiều cỡ”.
+
+Vì chu kỳ ép có trợ lực máy, hãy xác nhận điện áp, số pha, tần số và nhu cầu khí nén hoặc tiện ích khác. Cấu hình cụ thể phải có mức tiêu thụ và điểm đấu nối.
 
 ## Bảng tham số công khai
+
+Bảng vẫn là tham chiếu công khai của dòng DS. Bảng không chứng minh trạm bán tự động có các số đầu, công suất hay năng suất theo giờ này; từng giá trị lựa chọn phải khớp với báo giá đã ký.
 
 <table>
   <tbody>
@@ -51,14 +62,20 @@ Máy này chủ yếu thích hợp để đóng nút chai rượu vang và các 
   </tbody>
 </table>
 
-## Đề xuất hỗ trợ
+## Ghép với chiết rót và co nhiệt nắp
 
-- Đầu tiên hãy xem trang loạt bài: [Dòng máy đóng nút chai](/vi/solutions/corking/)
-- Xem lại tổng quan thông số: [Vị trí máy đóng nút bán tự động trong thư viện thông số](/vi/products/filling-equipment#cork-semi)
-- Nếu đây là một dự án dây chuyền hoàn chỉnh, bạn có thể tiếp tục xem [Tổng quan về gói chiết rót](/vi/solutions/filling-packages) và [Tổng quan về dây chuyền sản xuất](/vi/solutions/production-lines).
+Trạm bán tự động có thể đặt sau máy chiết mà không đồng bộ cơ khí với máy đó. Cần vùng đệm phía trước để bảo vệ chai đã chiết và tạo điểm lấy thuận tiện; phía sau có thể là bàn, giá chứa hoặc băng tải đã báo giá trước khi co nhiệt nắp. Nếu cần băng tải, thống nhất hướng, cao độ, khoảng cách chai, cảm biến và bên chịu trách nhiệm điều khiển. Chai chỉ chuyển sang co nhiệt sau khi nút đạt trạng thái đã thống nhất.
 
-## Các trang liên quan
+Bố trí cũng phải thể hiện vị trí nạp/lấy chai, nơi chứa nút, khoảng mở che chắn, lối bảo trì và điểm tiện ích. Đây là cơ sở để nhà cung cấp báo giá một trạm dùng được thay vì chỉ máy trần.
 
-- [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
-- [Dòng máy đóng nút chai](/vi/solutions/corking/)
-- [Liên hệ với chúng tôi để được tư vấn đầy đủ về dòng sản phẩm](/vi/contact/)
+## Cấu phần báo giá và FAT/SAT
+
+Tách giá máy cơ sở khỏi tùy chọn cấp nút, giá đỡ chai và chi tiết đổi cỡ, chân máy hoặc băng tải, che chắn, điều khiển, phụ tùng, tài liệu, đóng gói xuất khẩu, chạy thử, đào tạo và hỗ trợ sau bán. Vận chuyển, công việc tại hiện trường và thiết bị trước-sau phải ghi rõ bao gồm hay loại trừ.
+
+Trong FAT, chạy lặp với người vận hành nạp các mẫu đã thống nhất và ghi cách cấp nút, vị trí nút, thao tác khởi động, hoạt động che chắn, điều chỉnh đổi cỡ và khôi phục sau dừng bình thường. SAT xác nhận tiện ích, đường thao tác, vùng đệm trước máy và giao chai phía sau. Thử năng suất cần cùng thống nhất quy cách, số người, thời lượng và quy tắc đạt; bảng công khai không đủ làm tiêu chí SAT.
+
+## Nhà cung cấp, giá và yêu cầu báo giá
+
+- So sánh [dòng máy đóng nút chai](/vi/solutions/corking/) với [thư viện thông số](/vi/products/filling-equipment).
+- Đặt trạm vào tổng thể bằng [gói chiết rót](/vi/solutions/filling-packages) và [tổng quan dây chuyền sản xuất](/vi/solutions/production-lines).
+- [Yêu cầu nhà sản xuất báo giá máy bán tự động, kiểm tra bố trí và phạm vi hỗ trợ sau bán](/vi/contact/).

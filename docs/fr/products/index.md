@@ -1,145 +1,91 @@
 ---
-title: "Hydraulic Oil Press Products | Models, Price & Quote"
-description: "Browse 300-500 series hydraulic oil presses plus filtration, refining, and filling equipment with factory pricing support."
+title: "Presses à huile hydrauliques | Modèles, prix et devis"
+description: "Comparez les séries 300 à 500, le prétraitement, la filtration, le raffinage et le remplissage avec sélection et devis fabricant."
 keywords: prix presse à huile, modèles 300 325 355 400 426 480 500, devis usine, achat
 image: "/images/external/products-index-bfb7fcaa.webp"
 ---
-# Séries de produits
+# Presses à huile hydrauliques et équipements de ligne
 
-## Aperçu des produits
+Shandong Shengshi Hecheng Machinery Co., Ltd. fabrique des presses à huile hydrauliques et fournit les équipements nécessaires à la préparation des graines, à la filtration et à la finition de l'huile. Le choix d'une configuration part de la matière première, du procédé recherché et du rythme de travail, et non d'une simple appellation de gamme.
 
-Shandong Shengshi Hecheng Machinery Co., Ltd. fournit une gamme complète de presses à huile hydrauliques, couvrant divers besoins allant des ateliers familiaux aux grandes lignes de production industrielle.
+## Pressage à froid ou à chaud
 
-### Série 300
-Notre série classique d'entrée de gamme, adaptée aux petites huileries et ateliers familiaux, avec une structure compacte, un fonctionnement simple et un excellent rapport qualité-prix.
+### Pressage à froid
 
-- Série 300
-  Adaptée aux petites huileries et ateliers familiaux, avec une structure compacte, un fonctionnement simple et un excellent rapport qualité-prix.
+Le pressage à froid vise à limiter l'échauffement de la matière et de l'huile. La température maximale admise et la définition attendue du produit « pressé à froid » doivent être précisées dans le cahier des charges. Le nettoyage, le décorticage éventuel, la granulométrie et l'humidité de la matière influencent directement le cycle de pressage et le résultat obtenu.
 
-[Voir l'introduction complète de la série 300](/fr/products/300)
+### Pressage à chaud
 
-### Série 325
-Modèle d'expansion de série classique, adapté aux petites et moyennes huileries, offrant davantage d'options de configuration et une efficacité de production plus élevée.
+Le pressage à chaud ajoute un conditionnement thermique ou une torréfaction avant le pressage. Cette configuration peut comprendre un équipement de nettoyage, de concassage, de cuisson ou de torréfaction, puis la presse et le système de filtration. Le mode de chauffage et le profil de préparation sont définis selon la matière et la qualité d'huile recherchée.
 
-[Voir l'introduction complète de la série 325](/fr/products/325)
+Dans les deux procédés, le rendement réel ne peut pas être déduit du seul numéro de modèle. Il dépend notamment du lot de matière, de sa teneur en huile et en eau, du prétraitement et des résultats d'un essai de pressage.
 
-### Série 355
-Série milieu de gamme, offrant une plus grande capacité de production pour les huileries moyennes, avec une structure en plaque d'acier intégrée et une capacité de support de pression plus forte.
+## Gamme de presses hydrauliques
 
-[Voir l'introduction complète de la série 355](/fr/products/355)
+### Séries 300 à 500
 
-### Série 400
-Série milieu et haut de gamme, offrant une plus grande capacité de production pour les huileries moyennes et grandes, avec des fonctions de contrôle de température intelligentes et d'automatisation.
+Les numéros de série désignent des familles de presses, pas une capacité journalière garantie. Les pages détaillées indiquent les variantes disponibles et leurs paramètres publiés. Pour comparer deux modèles, vérifiez le volume chargé par cycle, la configuration à un ou deux barils, la durée du cycle, la puissance installée et l'encombrement.
 
-[Voir l'introduction complète de la série 400](/fr/products/400)
+- [Presse à huile hydraulique série 300](/fr/products/300)
+- [Presse à huile hydraulique série 325](/fr/products/325)
+- [Presse à huile hydraulique série 355](/fr/products/355)
+- [Presse à huile hydraulique série 400](/fr/products/400)
+- [Presse à huile hydraulique série 426](/fr/products/426)
+- [Presse à huile hydraulique série 480](/fr/products/480)
+- [Presse à huile hydraulique série 500](/fr/products/500)
 
-### Série 426
-Série haut de gamme, spécialement conçue pour les grandes huileries modernes.
+Les presses hydrauliques fonctionnent par cycles. Pour dimensionner une ligne, il faut donc tenir compte du nombre de presses ou de barils, du temps de chargement et de déchargement ainsi que du débit des équipements placés en amont et en aval.
 
-[Voir l'introduction complète de la série 426](/fr/products/426)
+### Presses compactes de type coréen
 
-### Série 480
-Série ultra-grande, avec un design de capacité ultra-grande.
-
-[Voir l'introduction complète de la série 480](/fr/products/480)
-
-### Série 500
-Série phare, avec une capacité extra-large.
-
-[Voir l'introduction complète de la série 500](/fr/products/500)
-
-### Petite presse à huile hydraulique de type coréen
-Famille de petites presses hydrauliques orientée boutique, adaptée aux magasins d'huile de sésame, aux comptoirs d'huile fraîche et aux petites activités d'huile premium.
+Cette famille est destinée aux lots plus petits, notamment pour les boutiques d'huile de sésame, les comptoirs d'huile fraîche et les ateliers disposant de peu d'espace. Le modèle doit être choisi d'après la charge par lot, les dimensions disponibles et l'organisation du travail.
 
 - [Petite presse à huile hydraulique de type coréen](/fr/products/korean-type-small-hydraulic-oil-press-machine)
 - [Petite machine de pressage d'huile de sésame](/fr/products/small-sesame-oil-press-machine)
-- [KHOP-10KG petite presse à huile hydraulique](/fr/products/khop-10kg-small-hydraulic-oil-press-machine)
-- [KHOP-15KG petite presse à huile hydraulique](/fr/products/khop-15kg-small-hydraulic-oil-press-machine)
-- [KHOP-20KG petite presse à huile hydraulique](/fr/products/khop-20kg-small-hydraulic-oil-press-machine)
+- [Presse hydraulique KHOP-10KG](/fr/products/khop-10kg-small-hydraulic-oil-press-machine)
+- [Presse hydraulique KHOP-15KG](/fr/products/khop-15kg-small-hydraulic-oil-press-machine)
+- [Presse hydraulique KHOP-20KG](/fr/products/khop-20kg-small-hydraulic-oil-press-machine)
 
-## Version personnalisée
+## Composer une ligne complète
 
-Notre équipe de service de personnalisation peut fournir des solutions de presse hydraulique à huile personnalisées selon vos besoins spécifiques.
+### Prétraitement
 
-[Voir l'introduction complète de la version personnalisée](/fr/products/customized-hydraulic-oil-press)
+Le prétraitement peut comprendre le nettoyage, le décorticage, le concassage et le conditionnement de la matière. Sa composition dépend de l'oléagineux, de son état à la réception et du procédé à froid ou à chaud.
 
-## Vidéo d'expédition de commande client
+- [Équipements de prétraitement](/fr/products/pre-treatment)
 
-[Voir la vidéo d'expédition de commande client](/fr/products/customer-order-shipping-video)
+### Filtration, raffinage et remplissage
 
-## Équipements complémentaires
-- [Équipement de prétraitement](/fr/products/pre-treatment)
-- [Équipement de post-traitement](/fr/products/post-treatment)
-- [Liste complète des équipements](/fr/products/supporting)
+Après le pressage, la ligne peut intégrer la décantation ou la filtration. Le raffinage et le remplissage sont ajoutés uniquement si le produit fini et le marché visé l'exigent.
 
-## Détails des composants de la presse à huile hydraulique
+- [Équipements de post-traitement](/fr/products/post-treatment)
+- [Liste complète des équipements auxiliaires](/fr/products/supporting)
 
-### Composants principaux
-#### 1. Station de pompe
-+ La source d'alimentation est une station hydraulique combinée à très haute pression. La station hydraulique est équipée de pompes doubles combinées haute et basse pression, avec une pression de pompe de travail jusqu'à 80 MPa;
-+ La pression est à cinq pistons, haute pression de travail, atteignant facilement 60 MPa pendant l'opération;
-+ Équipée de vannes de décharge haute et basse pression, double décharge haute pression, pas de surpression, plus sûr;
-+ La vanne de direction adopte une vanne de direction à quatre cœurs à très haute pression, pas facile à fuir et perdre la pression, plus résistante à l'usure et durable.
-![Station de pompe](/images/external/products-index-bfb7fcaa.webp)
+### Configuration sur mesure
 
-### 2. Moteur en cuivre pur
-+ Adopte un moteur en cuivre pur, haute efficacité de travail et durabilité, qualité solide, pas facile à endommager.
-![Moteur en cuivre pur](/images/external/products-index-798d8557.webp)
+Pour une matière inhabituelle, un espace contraint ou une ligne existante à compléter, une configuration spécifique peut être étudiée à partir d'un échantillon, d'un plan d'implantation et d'un objectif de production clairement défini.
 
-### 3. Cylindre hydraulique
-+ Cylindre produit à Daye, Hubei (entreprise d'État), fabriqué en matériau de tube d'alliage 27 silicium-manganèse, le bloc cylindre est trempé par traitement thermique, performances matérielles plus stables, très haute pression pas facile à éclater, la pression peut atteindre 80 MPa;
-+ Le joint d'étanchéité est importé du Japon, adopte un joint d'étanchéité combiné Glyd à anneau de maintien Y-type, plus résistant à la très haute pression, doubles joints d'étanchéité moins susceptibles de fuir, utilisant des matériaux plusieurs fois supérieurs aux matériaux ordinaires, qualité excellente, performances d'étanchéité fortes, pas facile de fuir l'huile;
-+ Le piston adopte deux bandes de guidage avant et arrière, moins susceptible d'endommager la paroi intérieure du cylindre, ne se dérèglera pas et n'usera pas la paroi.
-![Cylindre hydraulique](/images/external/products-index-76efb8f6.webp)
-![Cylindre hydraulique](/images/external/products-index-aa229706.webp)
-![Cylindre hydraulique](/images/external/products-index-a0ce7064.webp)
-![Cylindre hydraulique](/images/external/products-index-6aa7869d.webp)
-![Cylindre hydraulique](/images/external/products-index-f582c751.webp)
-Vidéo de laminage en miroir du cylindre hydraulique :
-<div class="video-container">
-  <iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-Vidéo de démonstration du produit fini du cylindre hydraulique :
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/taGBjx0XnkA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+- [Presse hydraulique et configuration sur mesure](/fr/products/customized-hydraulic-oil-press)
+- [Vidéo de commande et d'expédition client](/fr/products/customer-order-shipping-video)
 
+## Informations nécessaires pour un devis
 
-Vidéo du processus de soudage du cylindre hydraulique à ultra-haute pression :
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/8TpO4JBcJ_A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Pour recevoir une sélection de modèle et un devis fabricant exploitables, indiquez :
 
-### 4. Boîte de commande
-+ Le système de contrôle utilise un système à micro-ordinateur, tous les programmes sont connectés par logiciel, le fonctionnement du système de contrôle est simple;
-+ Équipée de deux manomètres, de deux fusibles de contrôle électrique haute tension;
-+ Les composants électriques utilisent des produits de qualité de marques connues, qualité solide et longue durée de vie.
-![Boîte de commande](/images/external/products-index-3bdb9615.webp)
+- la matière première exacte, son origine et, si possible, des photos, une analyse ou un échantillon ;
+- son état à l'arrivée : nettoyée ou non, décortiquée ou non, granulométrie et humidité mesurée ;
+- le procédé souhaité : pressage à froid ou à chaud, température maximale et qualité d'huile visée ;
+- le débit d'alimentation attendu en kg par lot, kg/h ou tonnes par jour, ainsi que les heures de travail quotidiennes ;
+- le périmètre de fourniture : prétraitement, pressage, filtration, raffinage, stockage et remplissage ;
+- l'alimentation électrique disponible : tension, fréquence et nombre de phases, ainsi que la source d'énergie de chauffage ;
+- le pays et le port de destination, les contraintes du site et la date souhaitée de mise en service ;
+- les documents, normes ou inspections demandés pour l'importation et l'exploitation.
 
-### 5. Baril à matériaux
-+ Ce modèle est équipé d'un baril à matériaux de diamètre 390 mm;
-+ Le baril à matériaux est soudé avec des barres clés en rangées trapézoïdales uniformément disposées, les barres clés trapézoïdales sont grandes à l'extérieur et petites à l'intérieur, ne bloquent pas les canaux d'huile, pas d'ascension d'huile dans le baril, et grande surface de sortie d'huile pour une sortie d'huile plus rapide, 15 fois la surface de forage avec un rendement en huile jusqu'à 2-3%;
-+ L'anneau externe adopte un collier forgé, le matériau utilise l'acier Shangang Q690, haute résistance, haute traction, haute résistance à l'usure, pas de déformation.
-<div class="video-container">
-  <iframe width="700" height="330" src="https://www.youtube.com/embed/HWjvDznT95U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## Achat fabricant et service après-vente
 
-### 6. Tige de piston
-Vidéo de traitement de trempe de la tige de piston de presse à huile, le traitement de trempe de la tige de piston augmente la dureté de surface sans rayures, prolongeant la durée de vie du cylindre hydraulique
-<div class="video-container">
-  <iframe width="700" height="330" src="https://www.youtube.com/embed/twPxOI2VQIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Avant la commande, demandez une offre écrite qui distingue la machine principale, les options, les pièces de rechange, l'emballage, le transport, le délai, les conditions de garantie et le contenu de l'assistance technique. Les manuels, la mise en route, la formation à distance ou sur site et la disponibilité des pièces doivent être confirmés dans le devis selon le pays de destination.
 
-### Pièces d'usure
+Pour demander un prix usine, comparer plusieurs séries ou préparer un achat de ligne complète, transmettez les informations ci-dessus à l'équipe de Shandong Shengshi Hecheng Machinery Co., Ltd. :
 
-#### 1. Contrôleur
-#### 2. Manomètre
-#### 3. Tuyau d'huile haute pression (1 mètre)
-#### 4. Tuyau d'huile basse pression (0,8 mètre)
-#### 5. Joint d'étanchéité
-#### 6. Anneau d'étanchéité
-#### 7. Roulement
-#### 8. Vanne de direction
-#### 9. Bloc de vanne
-#### 10. Bille d'acier
-#### 11. Ressort
+- **Téléphone** : +86 19906365856
+- **E-mail** : gavin@oil-pressing-machine.com

@@ -1,6 +1,6 @@
 ---
-title: "Cách bắt đầu kinh doanh dầu ép lạnh quy mô nhỏ: Thiết bị, chi ..."
-description: Hướng dẫn thực tế cho dự án dầu ép lạnh quy mô nhỏ, bao gồm chọn sản phẩm, cấu hình máy, lọc dầu, đóng gói và kiểm soát chi phí giai đoạn đầu.
+title: "Kinh doanh dầu ép lạnh quy mô nhỏ | Thiết bị và chi phí"
+description: "Xác định sản phẩm, nguồn hạt, sản lượng, máy làm sạch/ép/lọc, bồn, chiết rót, bao bì, giấy phép, vốn lưu động và kênh bán trước khi đầu tư."
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-20"
 ---
@@ -10,15 +10,15 @@ date: "2026-03-20"
 *Ngày đăng: 20/03/2026*
 *Danh mục: Kiến thức kỹ thuật*
 
-Dầu ép lạnh phù hợp với dự án nhỏ vì khách hàng sẵn sàng trả giá cao hơn cho sản phẩm tự nhiên, sạch và có thể truy xuất. Một dự án nhỏ nên bắt đầu bằng một nguyên liệu chính và một dây chuyền theo mẻ đơn giản.
+Dầu ép lạnh chỉ có thể định vị cao cấp khi nhu cầu địa phương, quy định nhãn, chất lượng sản phẩm và báo giá hiện tại xác nhận điều đó. Dự án nhỏ nên bắt đầu bằng một nguyên liệu và dây chuyền theo mẻ đơn giản, không mặc định khách hàng sẽ trả giá cao hơn.
 
 ## Chọn một sản phẩm và một nhóm khách hàng
 
-Vừng, óc chó, hạt lanh, lạc hoặc trà籽 đều có thể là điểm khởi đầu tốt. Cửa hàng thực phẩm sức khỏe, thương hiệu nông sản, quà tặng và các thị trường ngách xuất khẩu thường quan tâm đến chất lượng hơn sản lượng lớn.
+Óc chó, hạt lanh, hạnh nhân, tía tô, gai dầu, hạt bí hoặc nguyên liệu cao cấp đã được kiểm chứng tại địa phương có thể là điểm khởi đầu. Cần xác minh nguồn cung, tên sản phẩm và nhãn hợp pháp, cùng giá thị trường hiện tại thay vì mặc định có giá bán cao hơn.
 
 ## Chọn bộ thiết bị thực tế
 
-Một dây chuyền nhỏ thường gồm làm sạch, nghiền nếu cần, ép thủy lực, lọc và chiết rót. Dòng 300 hoặc 325 phù hợp thử nghiệm và lô nhỏ. Dòng 355 đến 500 phù hợp hơn cho ép lạnh ổn định và nguyên liệu cứng.
+Dây chuyền ép lạnh nhỏ thường gồm làm sạch, sấy nhiệt độ thấp chỉ khi cần, nghiền, ép lạnh thủy lực trực tiếp, lọc, chứa và chiết rót. Hãy đánh giá dòng 355-500; không mặc định thêm điều hòa nhiệt độ cao giữa nghiền và ép. Dòng 300/325 thuộc dự án ép nóng sau rang hoặc điều hòa nhiệt.
 
 ## Kiểm soát chất lượng và chi phí
 
@@ -27,6 +27,10 @@ Cần quan tâm đến độ sạch của nguyên liệu, độ ẩm, bao bì th
 ## Sai lầm thường gặp
 
 Nhiều người mới làm quá nhiều loại dầu cùng lúc, chỉ nhìn vào tên model hoặc bỏ qua lọc dầu và dịch vụ sau bán hàng. Cách an toàn hơn là làm tốt một sản phẩm rồi mới mở rộng.
+
+## Ranh giới báo giá và nghiệm thu
+
+Báo giá cần liệt kê máy, thùng ép, tiện ích, lọc, bồn, đóng gói, hạng mục loại trừ, trách nhiệm hiện trường, phụ tùng, đào tạo và chi phí đi lại. FAT xác nhận cấu hình và thử nghiệm tại nhà máy; SAT là thử nghiệm riêng tại hiện trường. Năng suất, kết quả dầu, dịch vụ hoặc lịch triển khai chỉ là cam kết khi hợp đồng nêu phương pháp đo và tiêu chí đạt.
 
 ## Kết luận
 

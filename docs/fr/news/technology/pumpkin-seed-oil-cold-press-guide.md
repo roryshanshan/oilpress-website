@@ -1,6 +1,6 @@
 ---
-title: "Guide de pressage à froid de l'huile de graines de courge : pr..."
-description: Découvrez comment produire une huile de graines de courge premium par pressage hydraulique à froid, avec préparation matière, choix de machine
+title: "Huile de graines de courge à froid : guide de ligne"
+description: "Découvrez la préparation, le pressage hydraulique à froid, la filtration et le contrôle qualité pour choisir l'équipement et demander un devis de ligne."
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-08"
 ---

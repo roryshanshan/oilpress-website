@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Hydraulic Oil Press Manufacturer | Price & Quote Today"
-description: "Get price and procurement support for 300-500 series hydraulic oil press machines and turnkey edible oil production lines, with factory direct after-sales."
+title: "Hydraulic Oil Press Manufacturer | Models, Price & Quote"
+description: "Compare 300-500 series hydraulic oil presses and edible oil lines; request model selection, equipment pricing, installation scope, and service terms."
 keywords: hydraulic oil press price, hydraulic oil press manufacturer, oil press quote, oil press procurement, oil processing line supplier, factory direct, after-sales service, Shengshi Hecheng
 image: "/images/hero-oil-press.webp"
 ---
@@ -28,12 +28,12 @@ image: "/images/hero-oil-press.webp"
 
 <div class="hero-section">
   <div class="hero-content">
-    <h2>15 Years of Expertise in Hydraulic Oil Press Equipment</h2>
-    <p>300-500 series hydraulic oil press machines, custom oil processing lines, and global after-sales support for edible oil projects.</p>
+    <h2>Factory-Built Hydraulic Oil Presses and Complete Processing Lines</h2>
+    <p>Compare 300-500 series machines, confirm the process for your raw material, and request a factory quotation with export and after-sales support.</p>
     <div class="hero-buttons">
       <a href="/en/products/" class="primary-button">View Products</a>
       <a href="/en/contact/" class="contact-link-button">Get Price & Quote</a>
-      <a href="/en/" class="secondary-button">Back to Home</a>
+      <a href="https://hydraulic-oil-press.com/" class="secondary-button" target="_blank" rel="noopener noreferrer">Manufacturer Website</a>
     </div>
   </div>
   <div class="hero-image">
@@ -45,9 +45,9 @@ image: "/images/hero-oil-press.webp"
 
 <div class="company-intro">
   <div class="intro-content">
-    <p>Shandong Shengshi Hecheng Machinery Co., Ltd., established in 2008, is a national key oilseed pressing equipment manufacturer. We specialize in research, development, and manufacturing of modern automatic hydraulic oil press series and edible oil refining production line equipment.</p>
-    <p>The company is strategically located in Qingzhou City, Shandong Province, with convenient transportation access. We have a 20,000 square meter modern production facility equipped with advanced production equipment and testing instruments, producing over 2,000 hydraulic oil press machines annually.</p>
-    <p>Adhering to the business philosophy of "Quality First, Customer Priority", our products are exported to more than 30 countries and regions including Southeast Asia, Africa, and the Middle East.</p>
+    <p>Shandong Shengshi Hecheng Machinery Co., Ltd. designs and manufactures hydraulic oil press machines and supporting edible-oil processing equipment in Qingzhou, Shandong, China.</p>
+    <p>Equipment selection starts with the raw material, hot-press or cold-press route, target batch schedule, required filtration, power supply, workshop space, and destination country. We do not use one capacity figure or one process for every project.</p>
+    <p>Buyers can request a model comparison, process proposal, factory test video, export packing plan, installation documents, spare-parts list, and remote after-sales support before confirming an order.</p>
     <a href="/en/about/" class="learn-more">Learn More →</a>
   </div>
   <div class="intro-image">
@@ -107,23 +107,23 @@ image: "/images/hero-oil-press.webp"
 <div class="advantages-grid">
   <div class="advantage-item">
     <div class="advantage-icon">🔍</div>
-    <h3>High Efficiency Production</h3>
-    <p>30-50% higher pressing efficiency compared to traditional equipment, automated operating system reducing manual intervention, with strong continuous operation capability</p>
+    <h3>Process-Based Model Selection</h3>
+    <p>Model recommendations are based on the oilseed, preparation method, pressing temperature, batch target, and downstream filtration rather than a generic capacity claim.</p>
   </div>
   <div class="advantage-item">
     <div class="advantage-icon">💧</div>
-    <h3>Superior Oil Yield</h3>
-    <p>Precise pressure control with oil yield over 95%, low-temperature cold pressing process preserving nutrients, applicable to a wide variety of oil crops</p>
+    <h3>Controlled Batch Pressing</h3>
+    <p>Hydraulic pressure, pressing time, material moisture, particle size, and barrel configuration can be matched to the required hot-press or cold-press route.</p>
   </div>
   <div class="advantage-item">
     <div class="advantage-icon">🛠️</div>
-    <h3>Durable Construction</h3>
-    <p>Made of high-strength alloy steel, key components undergo special heat treatment, with a service life of 15-20 years, significantly reducing maintenance costs</p>
+    <h3>Serviceable Machine Structure</h3>
+    <p>Before purchase, buyers can confirm the hydraulic system, control cabinet, pressing barrel, wearing parts, maintenance points, and spare-parts requirements.</p>
   </div>
   <div class="advantage-item">
     <div class="advantage-icon">🌿</div>
-    <h3>Environmentally Friendly</h3>
-    <p>No chemical solvents required, physical pressing process, zero pollution during production, complying with modern food safety standards</p>
+    <h3>Single Machine or Complete Line</h3>
+    <p>Procurement can cover the main press only or a coordinated line with cleaning, crushing, roasting when required, filtration, refining, storage, filling, and packing.</p>
   </div>
 </div>
 
@@ -164,7 +164,7 @@ image: "/images/hero-oil-press.webp"
       <span>Cottonseed</span>
     </div>
   </div>
-  <p class="materials-more">And other vegetable oil crops and animal oilseeds</p>
+  <p class="materials-more">Other oil-bearing materials can be evaluated by process review or sample testing before model selection.</p>
 </div>
 
 ## Engineering Services
@@ -172,36 +172,36 @@ image: "/images/hero-oil-press.webp"
 <div class="services-section">
   <div class="service-item">
     <h3>Solution Design</h3>
-    <p>Professional design based on CAD system, customizing optimal oil pressing solutions according to customer requirements</p>
+    <p>Confirm the material, oil-quality target, hot or cold process, batch schedule, filtration standard, power supply, and workshop limits before equipment selection.</p>
   </div>
   <div class="service-item">
     <h3>Production Line Customization</h3>
-    <p>Customizable production line with 1-100 tons daily output, complete solutions from raw material pre-treatment to finished product packaging</p>
+    <p>Configure cleaning, crushing, roasting or low-temperature drying, pressing, filtration, refining, storage, filling, and packing according to verified project requirements.</p>
   </div>
   <div class="service-item">
     <h3>Installation & Commissioning</h3>
-    <p>Professional technical team providing on-site installation guidance and equipment commissioning to ensure normal operation</p>
+    <p>Review factory test records, wiring and foundation requirements, installation documents, commissioning steps, and remote guidance before shipment.</p>
   </div>
   <div class="service-item">
     <h3>After-sales Support</h3>
-    <p>Comprehensive technical support and after-sales service, 24-hour response mechanism, lifetime maintenance</p>
+    <p>Request the recommended spare-parts list, maintenance schedule, troubleshooting channel, and available remote or on-site service terms in the quotation.</p>
   </div>
 </div>
 
-## Customer Cases
+## Procurement and Project Planning
 
 <div class="case-studies">
   <div class="case-item">
-    <img src="/images/case1.svg" alt="Xinjiang Oil Factory Case" decoding="async" loading="lazy" width="200" height="200">
+    <img src="/images/case1.svg" alt="Hydraulic oil press machine quotation planning" decoding="async" loading="lazy" width="200" height="200">
     <div class="case-content">
-      <h3>Large Oil Factory in Xinjiang</h3>
-      <p>Using our 425 Series oil press, with a daily output of 20 tons, oil yield increased by 15%, resulting in an annual revenue increase of 2 million yuan</p>
+      <h3>Machine-Only Procurement</h3>
+      <p>Send the raw material, preparation method, target batches, voltage, and destination. The quotation can compare suitable models, barrel options, export packing, and after-sales scope.</p>
     </div>
   </div>
   <div class="case-item">
-    <img src="/images/case2.svg" alt="Southeast Asian Customer Case" decoding="async" loading="lazy" width="200" height="200">
-    <h3>Southeast Asian Customer</h3>
-    <p>Introduced our complete oil pressing production line, transforming from a manual workshop to a modern factory, with a 5-fold increase in production capacity</p>
+    <img src="/images/case2.svg" alt="Complete edible oil production line planning" decoding="async" loading="lazy" width="200" height="200">
+    <h3>Complete-Line Procurement</h3>
+    <p>Confirm the pretreatment, crushing or roasting route, hydraulic pressing, filtration or refining, storage, filling, layout, utilities, and installation responsibilities as one project.</p>
   </div>
 </div>
 
@@ -218,15 +218,15 @@ image: "/images/hero-oil-press.webp"
 - Company and factory: [About Us](/en/about/)
 - Latest updates: [News Center](/en/news/)
 - Inquiry and quotation: [Get Price & Quote](/en/contact/)
-- Chinese version: [中文首页](/zh/)
+- Chinese version: [Chinese homepage](/zh/)
 
 ## Frequently Asked Questions
 
 ### What oilseeds can your hydraulic presses process?
-Our equipment supports soybean, peanut, sesame, rapeseed, sunflower, flaxseed, tea seed, walnut, and many other oil-bearing materials. You can review complete raw material coverage on the [solutions pages](/en/solutions/).
+The 300/325 series are mainly positioned for prepared hot-press materials such as peanut and sesame. The 355-500 series focus on cold pressing after cleaning, low-temperature drying when required, and crushing for walnut, sea buckthorn, perilla, dried coconut or copra, tea seed, hemp seed, flaxseed, almond, pine nut, and pumpkin seed. New materials and industrial residues require sample evaluation. Review the [solutions pages](/en/solutions/) before requesting a quote.
 
 ### How do I choose between 300/325/355/400/426/480/500 series?
-Selection depends on raw material, hot or cold press route, pressure requirement, barrel configuration, batch cycle, and working hours. Start from the [product overview](/en/products/) and then contact us for a tailored recommendation.
+Selection depends on raw material, preparation route, pressure requirement, barrel configuration, batch cycle, working hours, and filtration target. Use 300/325 as the hot-press starting range and compare 355-500 for direct cold pressing after crushing. Start from the [product overview](/en/products/) and request a matched configuration.
 
 ### Do you provide full line support beyond the main press?
 Yes. We provide pre-treatment, filtration, refining, dewaxing, filling, and supporting equipment. See [supporting equipment](/en/products/supporting), [oil filtration equipment](/en/products/filtration-equipment), [refining and dewaxing equipment](/en/products/refining-and-dewaxing-equipment), and [filling solutions](/en/solutions/filling-packages).
@@ -257,7 +257,7 @@ Yes. We provide pre-treatment, filtration, refining, dewaxing, filling, and supp
 </div>
 
 ::: tip Note
-Your one-stop oil processing base - we are committed to providing you with the highest quality oil pressing equipment solutions.
+Send your raw material, target output, voltage, destination, and required processing steps to receive a practical equipment list and factory quotation.
 :::
 
 <style>

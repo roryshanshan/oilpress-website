@@ -1,6 +1,6 @@
 ---
-title: Nguyên lý hoạt động của xi lanh thủy lực giá | nhà sản xuất
-description: "Nhận giá nhà máy cho Nguyên lý hoạt động của xi lanh thủy lực giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
+title: "Nguyên lý xi lanh thủy lực | Cấu tạo và cách tính lực"
+description: "Tìm hiểu xi lanh, piston, phớt, đường dầu, công thức lực F=P×A, tốc độ và các điểm rò rỉ cần kiểm tra trong máy ép dầu thủy lực."
 keywords: giá Nguyên lý hoạt động của xi lanh thủy lực, mua Nguyên lý hoạt động của xi lanh thủy lực, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
 ---
 # Nguyên lý hoạt động của xi lanh thủy lực

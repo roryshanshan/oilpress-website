@@ -1,39 +1,50 @@
 ---
-title: "Chất lượng | ISO và kiểm soát nhà máy"
-description: "Hệ thống ISO, kiểm tra nguyên liệu đầu vào và test xuất xưởng cho mọi máy ép dầu thủy lực trước khi giao hàng."
-keywords: bảo đảm chất lượng, chứng nhận ISO9001, chất lượng máy ép dầu, hệ thống quản lý chất lượng, kiểm soát chất lượng thiết bị, bảo hành sản phẩm, truy xuất chất lượng, kiểm tra chất lượng thiết bị, tiêu chuẩn chất lượng
+title: "Kiểm tra chất lượng máy ép dầu | Hồ sơ và nghiệm thu nhà máy"
+description: "Cách xác minh vật liệu, cấu hình, kiểm tra sản xuất, chạy thử xuất xưởng, chứng từ và điều kiện bảo hành của máy ép dầu thủy lực."
+keywords: kiểm tra chất lượng máy ép dầu, kiểm tra xuất xưởng, nghiệm thu máy ép dầu, hồ sơ vật liệu, xác minh chứng nhận, bảo hành theo hợp đồng
 ---
 
-# Bảo đảm chất lượng
+# Kiểm tra chất lượng và hồ sơ xác minh
 
-## Hệ thống quản lý chất lượng
+Chất lượng thiết bị cần được đánh giá bằng cấu hình đã chốt, hồ sơ sản xuất, kiểm tra xuất xưởng và biên bản nghiệm thu. Tên gọi, hình ảnh hoặc tuyên bố chung không thay thế cho tài liệu áp dụng đúng pháp nhân, model và đơn hàng.
 
-Công ty đã được chứng nhận hệ thống quản lý chất lượng ISO9001 và thiết lập hệ thống kiểm soát chất lượng toàn diện.
+## Xác nhận trước khi sản xuất
 
-### Kiểm soát nguyên vật liệu
+- Ghi rõ model, số lượng thùng ép, hệ thống thủy lực, motor, điện áp và bộ điều khiển trong báo giá.
+- Xác nhận vật liệu của khung, thùng ép và các bộ phận tiếp xúc với dầu bằng bản vẽ, danh mục vật tư hoặc tài liệu phù hợp.
+- Thống nhất tiêu chuẩn áp dụng, phạm vi kiểm tra và tiêu chí nghiệm thu trước khi sản xuất.
+- Với nguyên liệu đặc thù, thực hiện thử mẫu để xác nhận cấu hình và điều kiện vận hành.
 
-- Lựa chọn vật liệu thép hợp kim cường độ cao
-- Các bộ phận quan trọng sử dụng vòng bi và phớt nhập khẩu
-- Tất cả vật liệu đều trải qua kiểm tra đầu vào nghiêm ngặt
+## Kiểm tra vật liệu và quá trình sản xuất
 
-### Kiểm soát quá trình sản xuất
+- Đối chiếu vật liệu và linh kiện thực tế với danh sách cấu hình đã duyệt.
+- Kiểm tra các mối hàn, bề mặt gia công, lắp ghép, đường ống và điểm làm kín theo checklist của model.
+- Ghi lại các thay đổi linh kiện hoặc vật liệu và chỉ áp dụng sau khi hai bên xác nhận.
+- Lưu ảnh, phiếu kiểm tra hoặc số lô khi các tài liệu này được đưa vào phạm vi hợp đồng.
 
-- Kiểm tra 100% các công đoạn quan trọng
-- Kiểm tra độ chính xác thiết bị đạt cấp micromet
-- Dây chuyền sản xuất tự động đảm bảo độ đồng nhất sản phẩm
+## Kiểm tra xuất xưởng
 
-### Kiểm tra thành phẩm
+- **Kiểm tra thủy lực:** Chạy hệ thống trong phạm vi áp lực của model, quan sát rò rỉ, giữ áp và hoạt động của van.
+- **Kiểm tra điều khiển:** Xác minh nút dừng khẩn cấp, cảm biến, cảnh báo và trình tự vận hành theo cấu hình.
+- **Chạy không tải:** Kiểm tra chuyển động, tiếng ồn bất thường và chức năng cơ bản.
+- **Chạy có tải:** Nếu có thử mẫu, ghi rõ nguyên liệu, độ ẩm, tiền xử lý, khối lượng mẻ và thời gian chu kỳ.
 
-- Kiểm tra áp lực: đảm bảo áp lực làm việc ổn định và đáng tin cậy
-- Kiểm tra hiệu năng: xác minh tỷ lệ thu dầu và hiệu suất sản xuất
-- Kiểm tra an toàn: đảm bảo thiết bị vận hành an toàn
+Tỷ lệ thu dầu, năng suất hoặc mức tiêu thụ chỉ có ý nghĩa khi điều kiện thử và phương pháp đo được ghi trong biên bản.
 
-## Cam kết chất lượng
+## Xác minh chứng nhận và tài liệu
 
-- **Thời gian bảo hành**: Bảo hành thiết bị 2 năm
-- **Bảo trì trọn đời**: Cung cấp hỗ trợ kỹ thuật suốt đời
-- **Truy xuất chất lượng**: Mỗi thiết bị có số serial duy nhất
+Nếu nhà cung cấp nêu một chứng nhận hoặc tiêu chuẩn, hãy yêu cầu bản tài liệu còn hiệu lực và kiểm tra:
 
-## Lời chứng thực từ khách hàng
+- Tên pháp nhân và địa chỉ trên tài liệu
+- Số chứng nhận, phạm vi áp dụng và model liên quan
+- Ngày cấp, ngày hết hạn và tổ chức phát hành
+- Kênh tra cứu của tổ chức phát hành, nếu có
 
-Chất lượng sản phẩm của chúng tôi được khách hàng trong và ngoài nước đánh giá cao; tỷ lệ sửa chữa lại < 0.5%.
+Không suy rộng chứng nhận của một pháp nhân, nhà máy hoặc model sang toàn bộ sản phẩm nếu tài liệu không thể hiện phạm vi đó.
+
+## Bảo hành, truy xuất và xử lý sai lệch
+
+- Yêu cầu số máy hoặc mã nhận diện trên nhãn và hồ sơ giao hàng.
+- Ghi thời hạn, bộ phận được bảo hành, vật tư hao mòn, chi phí vận chuyển và điều kiện loại trừ trong hợp đồng.
+- Duy trì hỗ trợ kỹ thuật sau giao hàng theo phạm vi, kênh và điều kiện đã thỏa thuận.
+- Khi có sai lệch, lưu ảnh, video, mã máy, điều kiện vận hành và biên bản để hai bên xác định phương án xử lý.

@@ -1,54 +1,73 @@
 ---
-title: "Blow dryer series | Specs, Models & Factory Quote"
-description: "Browse blow dryer series for edible oil and liquid packaging lines. Compare models, capacity ranges, and request factory pricing with process guidance."
-keywords: Blow drying machine series, bottle blow drying machine, air knife drying equipment, drying before labeling, edible oil packaging drying machine, filling line drying equipment
+title: "Bottle Drying Machines | Price & Factory Quote"
+description: "Compare air-knife and spider-arm bottle dryers before labeling and coding. Confirm bottle samples, water load and line interfaces for manufacturer pricing."
+keywords: bottle drying machine price, air knife bottle dryer manufacturer, filling line bottle dryer quote, bottle surface drying equipment, dryer before labeling, packaging line procurement
 image: "/images/filling-solutions/drying.webp"
 ---
 
-# Blow dryer series
+# Bottle drying machines for packaging lines
 
-![Real photos of air knife blow dryer](/images/filling-solutions/drying.webp)
+![Air-knife bottle drying machine](/images/filling-solutions/drying.webp)
 
-The blow dryer is mainly used to remove residual water, condensed water or attached liquid after cleaning on the outer surface of the bottle. It is an important buffer station between the bottle rinser and the labeling machine. For edible oil packaging lines, whether the bottle body is dry or not will directly affect the label adhesion effect, printing code clarity and finished product appearance.
+Bottle drying removes surface water before labeling, coding, inspection or case packing. It is different from product drying: the purchasing decision is driven by bottle geometry, the amount and location of retained water, line speed and the downstream surface condition required by the label or code.
 
-## Common application locations
+## Position in the production line
 
-1. After [bottle washing machine series](/en/solutions/bottle-washing/)
-2. [Filling machine series](/en/solutions/filling/) before and after
-3. Before [labeling machine series](/en/solutions/labeling/)
+Typical positions include:
 
-## Applicable scenarios
+- Bottle rinsing -> external drying if required -> filling
+- Filling or pasteurization -> cooling -> bottle drying -> labeling
+- Wet cleaning -> drying -> laser coding or visual inspection
+- Filled bottle transfer -> targeted neck or shoulder drying -> case packing
 
-- Glass bottles, PET bottles, kegs and other packaging containers
-- Product lines where bottles must be dry before labeling
-- High humidity workshops or continuous packaging lines after high speed rinsing
-- Edible oil, beverage, fruit wine, seasoning liquid and other liquid industries
+The preferred position depends on whether water is inside the bottle, on the outside surface or trapped around the closure.
 
-## Selection suggestions
+## Bottle and line conditions to confirm
 
-- Select the direction of the air knife and the length of the drying area according to the stability of the bottle shape
-- Select fan power and air volume configuration according to production line speed
-- If there is a lot of water in the bottle, priority should be given to optimizing front-end bottle flushing and drainage and rhythm matching.
-- If the follow-up is high-precision labeling, the blow-drying effect should be listed as a key acceptance point
+- Glass or PET bottle, shape, ribs, shoulder and base recesses
+- Bottle temperature and the expected amount of surface water
+- Required dryness at the label, code or inspection area
+- Available conveyor width, height and side access
+- Line speed basis and bottle spacing
+- Acceptable air consumption, noise-control and drainage arrangement
 
-## Benchmark reference model
+## Available bottle dryers
 
-The most critical thing in the blow-drying section is the bottle type adaptation range and air volume configuration. The model name can be directly entered into the corresponding product page.
+| Model | Selection focus |
+| --- | --- |
+| [HG-2/HG-3 air-knife bottle dryer](/en/products/filling/turbo-air-knife-dryer) | Air-knife layout, bottle coverage and conveyor integration |
+| [HG-A/HG-B spider-arm bottle dryer](/en/products/filling/spider-arm-bottle-dryer) | Directed air-contact arrangement and bottle-format fit |
 
-| Model | Excerpt of public parameters | Applicable instructions |
-| --- | --- | --- |
-| [Turbo air knife blow dryer HG-2 / HG-3](/en/solutions/drying/turbo-air-knife-dryer) | 5000-8000 bottles/hour; 2-3 sets of air knives; applicable bottle types Φ50-100 mm, H160-320 mm; bottle mouth φ22-32 mm | Suitable for blow drying before high speed labeling |
-| [Spider arm energy-saving blow dryer HG-A / HG-B](/en/solutions/drying/spider-arm-bottle-dryer) | 6000-9000 bottles/hour; 5.5-7.5 kW; applicable bottle type Φ40-100 mm, H100-380 mm | Suitable for special-shaped bottles or higher air volume requirements |
+Use the linked model pages for published specifications. Drying performance must be confirmed with the actual bottle, water load and downstream acceptance condition.
 
-## Direct access to specific models
+## Procurement decisions that affect price
 
-- [Turbo air knife blow dryer](/en/solutions/drying/turbo-air-knife-dryer)
-- [Spider arm energy-saving blow dryer](/en/solutions/drying/spider-arm-bottle-dryer)
-- [Filling and packaging equipment parameter library overview](/en/products/filling-equipment)
+- Stand-alone dryer or dryer integrated with a supplied conveyor
+- Number and position of air outlets required for the bottle geometry
+- Blower, filtration, enclosure, drainage and noise-control scope
+- Bottle guide and change parts for each format
+- Interface with washer, pasteurizer, labeler or coder
+- Destination power, packing, delivery, installation and commissioning
 
-## Related pages
+## Data needed for a manufacturer quote
 
-- [Bottle washing machine series](/en/solutions/bottle-washing/)
-- [Labeling machine series](/en/solutions/labeling/)
-- [Laser coding machine series](/en/solutions/laser-coding/)
-- [Overview of filling packages](/en/solutions/filling-packages)
+Send bottle drawings and samples, photos showing retained water, target output, upstream wet process, required downstream surface condition, conveyor dimensions, power supply, layout and destination. State whether the existing conveyor will be reused and who supplies drainage or acoustic treatment.
+
+## Acceptance and after-sales boundary
+
+FAT should use approved bottles under an agreed wetting method. Define where residual droplets are checked, how long the line runs, acceptable bottle instability and the changeover procedure. Installation labor, local ducting or drainage, travel, training, spare blower parts and support response are included only when written into the commercial offer or contract.
+
+## Related line modules
+
+- [Bottle rinsing machines](/en/solutions/bottle-washing/)
+- [Labeling machines](/en/solutions/labeling/)
+- [Laser coding machines](/en/solutions/laser-coding/)
+- [Filling and packaging line overview](/en/solutions/filling-packages)
+
+## Request bottle dryer pricing
+
+Provide the bottle and wet-process conditions to receive a dryer configuration and itemized factory quote.
+
+- [Request a bottle drying machine quote](/en/contact/)
+
+<!-- quote-cta -->

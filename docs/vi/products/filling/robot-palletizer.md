@@ -1,37 +1,51 @@
 ---
-title: "Robot xếp hàng giá | Giá nhà máy & báo giá"
-description: "Nhận giá nhà máy cho Robot xếp hàng giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
-keywords: giá Robot xếp hàng, mua Robot xếp hàng, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+title: "Robot xếp pallet | Báo giá từ nhà sản xuất"
+description: "Báo giá robot xếp pallet từ nhà sản xuất; kiểm tra năng suất, tải kiện, kích thước pallet và chiều cao xếp; xác nhận khả năng ghép nối trước khi mua."
+keywords: "giá robot xếp pallet, báo giá robot xếp pallet, năng suất xếp, kích thước kiện/thùng và quy cách pallet, tích hợp dây chuyền chiết rót, cấu hình xuất khẩu, phụ tùng, hỗ trợ sau bán"
 image: "/images/filling-products/robot-palletizer.webp"
 ---
 # Robot xếp hàng
 
 ![Robot xếp hàng](/images/filling-products/robot-palletizer.webp)
 
-Robot xếp hàng có thể được sử dụng làm tài liệu tham khảo cho các mô hình cụ thể trong việc đóng gói và xếp hàng. Trang này sắp xếp vị trí mô hình, thông tin tham số và đề xuất hỗ trợ dựa trên thông tin sản phẩm công khai để tạo điều kiện thuận lợi cho việc lựa chọn sơ bộ và chuyển trang.
+Robot xếp pallet nhận kiện thành phẩm và xếp theo sơ đồ đã lập trên pallet. Tải trọng, kích thước kiện, nhịp vào, kiểu gắp và hàng rào an toàn quyết định cấu hình; vì vậy báo giá phải dựa trên dữ liệu đóng gói thực tế.
 
-## Định vị mô hình
+## Phù hợp với dự án nào
 
-- Series: [Đóng gói, xếp pallet](/vi/solutions/packing-palletizing/)
-- Lối vào tổng quan về thông số: [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment#pack-robot)
-- Các tình huống áp dụng: Thích hợp cho việc xếp pallet tự động trong các tình huống vận chuyển vừa và lớn.
+- **Công đoạn:** Xếp thùng, bao, khay hoặc kiện đã được xác nhận lên pallet.
+- **Bao bì hoặc vật liệu:** Sản phẩm đầu vào có vị trí và hướng ổn định tại điểm gắp.
+- **Khi nên cân nhắc:** Nên cân nhắc khi cần nhiều mẫu xếp hoặc giảm thao tác nâng lặp lại.
 
-## Tóm tắt thông tin công khai
+## Tiêu chí mua và so sánh giá
 
-Máy này phù hợp để đóng gói và xếp pallet các sản phẩm thành phẩm có hình dạng đa dạng như thùng, túi, lon, hộp, chai,… trong các công ty sản xuất hóa chất, đồ uống, thực phẩm, rượu.
+- Tính tải theo kiện nặng nhất, kích thước lớn nhất và số lớp trên pallet.
+- Xác nhận kiểu đầu gắp cho thùng, bao hoặc chai đóng lốc và khả năng đổi sản phẩm.
+- Đánh giá hàng rào, cửa an toàn, cảm biến, vùng làm việc và lối xe nâng.
 
-## Điểm tiết lộ
+## Thông tin cần xác nhận trước khi đặt hàng
 
-- Máy này phù hợp cho các doanh nghiệp sản xuất hóa chất, đồ uống, thực phẩm, rượu và các doanh nghiệp sản xuất khác để đóng gói, xếp pallet thành phẩm có nhiều hình dạng khác nhau như thùng, túi, lon, hộp, chai, v.v. Cấu tạo rất đơn giản, dễ bảo trì, sửa chữa; có ít bộ phận và phụ kiện chính nên chi phí bảo trì rất thấp; máy xếp pallet bằng rô-bốt có thể được lắp đặt trong không gian hẹp và có thể được sử dụng hiệu quả; tất cả các điều khiển có thể được vận hành trên màn hình tủ điều khiển và thao tác rất đơn giản. Nó có thể hoạt động suốt ngày đêm và được trang bị robot có thể thay thế khối lượng công việc của nhiều công nhân. Điều này có thể tiết kiệm hàng trăm nghìn chi phí nhân sự mỗi năm, đồng thời giảm nhân sự và tăng hiệu quả. Thao tác trên màn hình cảm ứng được sử dụng để thực hiện đối thoại giữa người và máy, có thể hiển thị tốc độ sản xuất, nguyên nhân lỗi và vị trí, đồng thời có mức độ tự động hóa cao. Bằng cách sử dụng PLC có thể lập trình, việc phân loại và xếp chồng các lớp thùng carton, cung cấp và xả pallet đều có thể được lập trình để kiểm soát. Hệ thống cấp thùng carton được điều khiển bằng mô tơ hãm để đảm bảo thùng carton được vận chuyển theo đúng vị trí định sẵn. Kho pallet có sức chứa lớn, có thể chứa 12-15 pallet rỗng, cho phép cung cấp pallet tự động. Một số phương pháp xếp chồng có thể được hoàn thành mà không cần thay thế các bộ phận xếp chồng.
+- **Đối tượng xếp pallet:** Cung cấp mẫu thùng, túi, lon, hộp hoặc chai cùng kích thước, khối lượng, độ cứng, trạng thái bề mặt và phạm vi sai số. Loại tay gắp và khả năng dùng chung cho nhiều quy cách phải được xác nhận bằng bản vẽ hoặc thử nghiệm.
+- **Năng suất theo ca:** Tính năng suất từ nhịp cấp kiện thực tế, sơ đồ xếp, thời gian đổi quy cách, số ca, thời gian vệ sinh và bảo trì. Thời gian vận hành hữu ích phụ thuộc vào thiết bị trước/sau, lịch bảo dưỡng và cách xử lý sự cố, không mặc định là vận hành liên tục cả ngày.
+- **Nhân công và hoàn vốn:** So sánh số người và chi phí lao động hiện tại của từng ca với số người vẫn cần cho cấp pallet, cấp vật liệu, giám sát, đổi quy cách và bảo trì. Mức tiết kiệm và thời gian hoàn vốn phải được tính theo dữ liệu tại nhà máy, phạm vi cung cấp và điều kiện hợp đồng.
+- **Bố trí và an toàn:** Chốt bản vẽ mặt bằng, hướng vào/ra, chiều cao xếp, vị trí kho pallet, hàng rào, cửa liên động và khoảng bảo trì trước khi sản xuất. Khả năng lắp trong không gian hạn chế chỉ được xác nhận sau khi kiểm tra kích thước hiện trường.
+- **Điều khiển và cấu hình:** Màn hình cảm ứng và PLC có thể quản lý công thức xếp, cấp/xả pallet và hiển thị trạng thái hoặc cảnh báo tùy cấu hình. Kho pallet công khai có thể chứa 12-15 pallet rỗng; số lượng thực tế, mô tơ cấp kiện, giao tiếp dây chuyền và phụ kiện phải ghi trong báo giá.
+- **Nghiệm thu và hợp đồng:** FAT/SAT cần quy định loại kiện, sơ đồ pallet, tốc độ mục tiêu, thời gian chạy, tỷ lệ xếp đạt, điều kiện dừng, khôi phục lỗi và kiểm tra liên động an toàn. Tay gắp, băng tải, hàng rào, lắp đặt, chạy thử, đào tạo, phụ tùng và bảo hành chỉ được coi là thuộc phạm vi cung cấp khi đã ghi trong hợp đồng.
 
-## Đề xuất hỗ trợ
+## Thông tin cần gửi để nhận báo giá
 
-- Đầu tiên hãy xem trang loạt bài: [Đóng gói, xếp pallet](/vi/solutions/packing-palletizing/)
-- Xem lại phần tổng quan về thông số: [Vị trí của robot xếp pallet trong thư viện thông số](/vi/products/filling-equipment#pack-robot)
-- Nếu đây là một dự án dây chuyền hoàn chỉnh, bạn có thể tiếp tục xem [Tổng quan về gói chiết rót](/vi/solutions/filling-packages) và [Tổng quan về dây chuyền sản xuất](/vi/solutions/production-lines).
+- Kích thước, trọng lượng và hình ảnh từng loại kiện.
+- Kích thước pallet, sơ đồ xếp, số lớp và chiều cao pallet hoàn thiện.
+- Tốc độ kiện, cao độ/hướng băng tải vào và cách cấp pallet.
+- Mặt bằng, điện, khí nén và yêu cầu hàng rào an toàn.
 
-## Các trang liên quan
+## Giao hàng, lắp đặt và hậu mãi
 
-- [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
-- [Đóng gói, xếp pallet](/vi/solutions/packing-palletizing/)
-- [Liên hệ với chúng tôi để được tư vấn đầy đủ về dòng sản phẩm](/vi/contact/)
+Báo giá phải phân định máy chính, băng tải, cơ cấu dẫn hướng, hàng rào an toàn, chi tiết đổi cỡ và giao diện với công đoạn trước/sau. Điều kiện giao hàng, lắp đặt, chạy thử, đào tạo, phụ tùng và bảo hành cần được xác nhận trong tài liệu thương mại.
+
+## Liên kết cấu hình và yêu cầu báo giá
+
+- [Thiết bị đóng thùng và xếp pallet](/vi/solutions/packing-palletizing/)
+- [Đối chiếu thiết bị trong bảng thông số tổng hợp](/vi/products/filling-equipment)
+- [Giải pháp chiết rót và đóng gói liên hợp](/vi/solutions/filling-packages)
+- [Giải pháp dây chuyền sản xuất](/vi/solutions/production-lines)
+- [Yêu cầu nhà sản xuất báo giá và xác nhận cấu hình](/vi/contact/)

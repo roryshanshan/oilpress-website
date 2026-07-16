@@ -1,37 +1,51 @@
 ---
-title: Machine de capsulage pneumatique entièrement automatique prix
-description: Demandez le prix et le devis pour Machine de capsulage pneumatique entièrement automatique. Fabricant Shengshi Hecheng, livraison et SAV.
-keywords: Machine de capsulage pneumatique entièrement automatique prix, acheter Machine de capsulage pneumatique entièrement automatique, devis usine, fabricant chinois, exportation, service après-vente
+title: "Capsuleuse pneumatique automatique | Prix fabricant et devis"
+description: "Capsuleuse pneumatique automatique pour capsules aluminium inviolables sur lignes de vin, spiritueux et sauces. Le devis fabricant précise le prix et le SAV."
+keywords: "capsuleuse pneumatique automatique prix, devis capsuleuse pneumatique automatique, capsules aluminium inviolables sur lignes rapides de bouteilles de vin, spiritueux et sauces, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/pneumatic-capping-machine.webp"
 ---
-# Machine de capsulage pneumatique entièrement automatique
+# Capsuleuse pneumatique automatique
 
-![Machine de capsulage pneumatique entièrement automatique](/images/filling-products/pneumatic-capping-machine.webp)
+![Capsuleuse pneumatique automatique](/images/filling-products/pneumatic-capping-machine.webp)
 
-La capsuleuse pneumatique entièrement automatique peut être utilisée comme référence pour des modèles spécifiques de la série de machines à sceller. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+Cette page présente un poste de capsulage dont la course de travail est actionnée par air comprimé. Le terme « pneumatique » décrit l'actionnement, pas la géométrie de la fermeture : la forme exacte de la tête de pressage et le type de capsule ou de bouchon compatible doivent être validés sur les échantillons réels avant configuration.
 
-## Positionnement du modèle
+## Domaine d'application et limites de sélection
 
-- Série : [Série de machines à sceller](/fr/solutions/sealing/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#seal-pneumatic)
-- Scénarios applicables : convient pour les lignes à grande vitesse avec couverture antivol.
+- Famille de produits : [Série de machines à sceller](/fr/solutions/sealing/)
+- Référence des paramètres publiés : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#seal-pneumatic)
+- L'emploi sur une ligne automatique dépend du type de fermeture, du support de la bouteille, du système d'alimentation des capsules et de la cadence requise.
+- La compatibilité avec une capsule aluminium à vis, une fermeture à enfoncer ou un autre bouchon ne peut pas être conclue à partir du nom de la machine ou du seul diamètre de capsule.
 
-## Résumé des informations publiques
+## Caractéristiques de l'air comprimé
 
-Cette machine est adaptée aux bouteilles fermées par des bouchons antivol twist-off en aluminium.
+Demander au fournisseur la plage de pression nécessaire à l'entrée de la machine pendant le cycle, le débit ou la consommation moyenne et de pointe à la cadence visée, ainsi que le raccordement. Confirmer aussi la filtration, la siccité et la teneur en huile exigées, puis préciser si le filtre-régulateur, le lubrificateur lorsqu'il est requis, le réservoir tampon ou la surveillance de basse pression font partie de la fourniture. La pression nominale du compresseur ne suffit pas si le réseau chute en charge.
 
-## Points de divulgation
+## Vérin, tête de pressage et positionnement
 
-- Cette machine est adaptée aux bouteilles fermées par des bouchons antivol twist-off en aluminium. Le couteau de scellage est fabriqué à partir de matériaux spéciaux et subit un processus de traitement thermique strict. Il présente une résistance élevée, une résistance à l'usure et une longue durée de vie. La tête roulante adopte un principe de fonctionnement équilibré à quatre roues, simple et pratique à régler. Le motif de roulement et la protection des bords sont automatiquement réalisés en une seule fois. La texture est uniforme, l'apparence est lisse et sans rides, l'effet d'étanchéité est bon et l'efficacité est élevée. La roue en étoile de numérotation de bouteille à structure rapide, la plaque de guidage de bouteille et la vis d'alimentation de bouteille peuvent être rapidement insérées et remplacées, ce qui est pratique et simple. Le goulot de la bouteille est équipé d'un dispositif de positionnement automatique pour éviter de nombreux effets indésirables tels que l'inversion de la bouteille, le blocage de la bouteille et un positionnement imprécis du goulot de la bouteille. L'entraxe de la tête roulante est parfait, ce qui réduit le phénomène de force centrifuge pendant le fonctionnement normal. La surface de la bague de guidage est renforcée et étroitement adaptée au roulement à rouleaux, ce qui réduit l'impulsion de travail, rendant l'équipement exempt de vibrations et d'impacts à grande vitesse, rendant le travail plus stable et fiable. Le système d'alimentation et le système à cadran sont équipés de dispositifs de protection contre les surcharges tampons, et des éléments élastiques sont installés pour absorber le démarrage, le rendant doux et doux. Lorsqu'un accident survient, le dispositif de surcharge coupe immédiatement l'alimentation électrique et l'équipement s'arrête automatiquement, garantissant ainsi la sécurité des personnes et des machines.
+- Le diamètre et la course du vérin, la force disponible, l'amortissement, le temps de maintien et le retour doivent être choisis à partir de l'emballage échantillon et du cycle demandé.
+- Valider par essai la géométrie exacte de la tête, son matériau de contact, le maintien ou le dégagement de la capsule et la zone de contact admissible. Ne pas présumer une tête plate, profilée ou à galets standard.
+- Le type de fermeture compatible doit être inscrit au devis après examen des échantillons ; une tête prévue pour un profil peut mal centrer ou charger un autre profil.
+- Confirmer le centrage de la bouteille, le support par le col ou le fond, le centrage de la capsule avant la descente, le réglage en hauteur et le périmètre de détection d'absence ou de mauvais positionnement.
 
-## Suggestions complémentaires
+## Cadence et changement de format
 
-- Regardez d'abord la page de la série : [Série de machines à sceller](/fr/solutions/sealing/)
-- Regardez à nouveau l'aperçu des paramètres : [La position de la capsuleuse pneumatique entièrement automatique dans la bibliothèque de paramètres](/fr/products/filling-equipment#seal-pneumatic)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+La cadence annoncée doit préciser le format bouteille-capsule, l'état d'alimentation des capsules, le temps de pressage et les conditions d'air comprimé retenues. Elle doit être validée sur une série continue, en tenant compte du retour du vérin et des transferts avec les machines amont et aval.
+
+Pour chaque format supplémentaire, lister la tête, les guides ou supports de bouteille, les réglages de hauteur et de pression, les capteurs et les pièces du système d'alimentation. Le temps de changement et les réglages nécessaires pour reproduire un résultat accepté doivent être convenus sans se limiter à la formule « changement rapide ».
+
+## Protection et réception
+
+- Définir les protecteurs autour de la tête descendante et du vérin, les accès interverrouillés lorsqu'ils sont requis, l'arrêt d'urgence et le moyen d'isoler puis d'évacuer l'air résiduel pendant le réglage ou la maintenance.
+- La réception doit contrôler la hauteur et l'horizontalité de pose, les dommages visibles sur la capsule ou la bouteille, l'effort de retenue ou d'ouverture selon le type de fermeture, l'étanchéité lorsqu'elle est concernée et la cadence continue avec l'air convenu.
+- Les fonctions de sécurité et les limites de performance doivent être vérifiées sur la configuration finale, sans promesse inconditionnelle.
+
+## Intégration de ligne et contenu du devis
+
+Pour un projet complet, consulter la [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et la [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines). Le devis doit préciser la limite de fourniture pneumatique, l'alimentation des capsules, le couple tête-fermeture validé, les pièces de format, les essais, les protections, la mise en service et les relevés de réception.
 
 ## Pages connexes
 
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
 - [Série de machines à sceller](/fr/solutions/sealing/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+- [Nous contacter pour examiner les échantillons bouteille-capsule](/fr/contact/)

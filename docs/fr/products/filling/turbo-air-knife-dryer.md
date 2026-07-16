@@ -1,24 +1,34 @@
 ---
-title: Sèche-cheveux à lame d'air turbocompressé prix | fabricant
-description: Demandez le prix et le devis pour Sèche-cheveux à lame d'air turbocompressé. Fabricant Shengshi Hecheng, livraison et SAV.
-keywords: Sèche-cheveux à lame d'air turbocompressé prix, acheter Sèche-cheveux à lame d'air turbocompressé, devis usine, fabricant chinois, exportation, service après-vente
+title: "Sécheur à lames d'air | Prix fabricant et devis"
+description: "Sécheur turbo à lames d'air, de 5 000 à 8 000 bouteilles/h, pour formes variées et diamètres 50-100 mm. Comparez l’intégration, le prix, le devis et le SAV."
+keywords: "sécheur turbo à couteaux d'air prix, devis sécheur turbo à couteaux d'air, 5 000-8 000 bouteilles/h pour formes variées de diamètre 50-100 mm et hauteur 160-320 mm, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/turbo-air-knife-dryer.webp"
 ---
-# Sèche-cheveux à lame d'air turbocompressé
+# Sécheur de bouteilles turbo à lames d'air
 
-![Sèche-cheveux turbo à lame d'air](/images/filling-products/turbo-air-knife-dryer.webp)
+![Sécheur de bouteilles turbo à lames d'air](/images/filling-products/turbo-air-knife-dryer.webp)
 
-Le Turbo Knife Blow Dryer sert de référence pour des modèles spécifiques de la gamme des sèche-cheveux. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+Le sécheur HG-2/HG-3 associe une soufflante à grande vitesse à des lames d'air fixes pour un flux de bouteilles stable et rectiligne. Le résultat dépend du débit et de la pression de la soufflante, de l'angle et de la distance des lames, de l'espacement des bouteilles et de la stabilité du convoyeur, notamment avant un étiquetage à cadence élevée.
 
 ## Positionnement du modèle
 
-- Série : [Série de sèche-cheveux](/fr/solutions/drying/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#dry-turbo)
-- Scénarios applicables : convient pour le séchage avant l'étiquetage à grande vitesse.
+- Gamme : [Solutions rectilignes de séchage à lames d'air](/fr/solutions/drying/)
+- Paramètres publiés : [Entrée HG-2/HG-3 de la bibliothèque des équipements de conditionnement](/fr/products/filling-equipment#dry-turbo)
+- Scénarios applicables : convoyage rectiligne et stable avant étiquetage ou marquage ; valider la soufflante, la disposition des lames, le bruit et la consommation au débit requis.
 
-## Résumé des informations publiques
+## Soufflante et réglage des lames d'air
 
-Il remplace le traditionnel appareil de déshydratation à brosse, qui ne nécessite pas de chauffage. Il utilise un vent fort (lame d'air) pour sécher l'eau de la bouteille. Le corps de la bouteille est sans pollution. Il n'est pas nécessaire de remplacer la brosse ou le tube chauffant électrique. Il permet d'économiser des coûts d'utilisation et offre des performances plus avancées et plus fiables.
+La soufflante alimente les lames fixes en air concentré afin de chasser l'eau de la surface pendant le passage rectiligne des bouteilles. L'angle d'attaque, la distance à la paroi et le recouvrement des jets déterminent les zones balayées ; un mauvais réglage peut simplement déplacer l'eau. Les épaules courbes, le fond et la zone d'étiquetage doivent donc être évalués avec les bouteilles réelles et des emplacements d'eau résiduelle repérés.
+
+L'étude d'achat doit comparer le débit et la pression utiles au point de fonctionnement prévu, la régulation de la soufflante, les pertes dans les conduits, le réglage des lames et l'éventuel capotage acoustique. Les conditions de mesure du bruit et la consommation électrique doivent être vérifiées avec le débit correspondant et la cadence annoncée ; la capacité publiée du modèle ne suffit pas à prouver le résultat attendu.
+
+## Débit d'air, devis et réception
+
+- Pour le devis du sécheur turbo, envoyer des échantillons de bouteilles représentant le fonctionnement normal et tout format susceptible de tourner ou d'osciller sur le convoyeur, ou des plans cotés. Préciser le matériau, l'état vide ou rempli, la cadence, l'espacement et les zones d'eau résiduelle à contrôler avant étiquetage, marquage ou emballage.
+- Confirmer le tronçon rectiligne, la hauteur, la largeur et le sens du convoyeur, les interfaces amont et aval, l'alimentation électrique et l'espace disponible. Le devis doit préciser la soufflante et sa commande, la base de débit et de pression, le nombre et la disposition des lames, le réglage angulaire, le traitement acoustique, la puissance raccordée, les pièces de rechange et les limites de mise en service.
+- Définir par écrit la réception en usine (FAT) et sur site (SAT) : faire fonctionner chaque bouteille convenue à la cadence et à l'espacement prévus, inspecter les zones marquées après une durée définie, enregistrer les réglages d'air, puis vérifier bruit, puissance, interfaces de ligne et fonctions de sécurité selon des conditions convenues. La réception doit appliquer un critère observable, sans promesse de séchage complet.
+
+Le prix fabricant dépend de la soufflante, du nombre et de la disposition des lames, du convoyeur, des protections et du traitement acoustique retenus. Livraison, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que selon l'offre écrite et le contrat.
 
 ## Table des paramètres publics
 
@@ -48,14 +58,14 @@ Il remplace le traditionnel appareil de déshydratation à brosse, qui ne néces
   </tbody>
 </table>
 
-## Suggestions complémentaires
+## Références de sélection
 
-- Jetez d'abord un œil à la page de la série : [Série de sèche-cheveux](/fr/solutions/drying/)
-- Regardez à nouveau l'aperçu des paramètres : [La position du sécheur à lames d'air turbocompressé dans la bibliothèque de paramètres](/fr/products/filling-equipment#dry-turbo)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+- Comparer la configuration rectiligne à lames d'air avec les autres [solutions de séchage de bouteilles](/fr/solutions/drying/).
+- Utiliser [l'entrée de paramètres HG-2/HG-3](/fr/products/filling-equipment#dry-turbo) comme premier filtre avant les essais de débit d'air et de bouteilles.
+- Pour une ligne intégrée, utiliser [l'aperçu des ensembles de conditionnement](/fr/solutions/filling-packages) et [l'aperçu des lignes de production](/fr/solutions/production-lines) pour coordonner la longueur droite du convoyeur, les utilités de la soufflante et les signaux de commande.
 
 ## Pages connexes
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Série de sèche-cheveux](/fr/solutions/drying/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+- [Paramètres de remplissage pour HG-2/HG-3](/fr/products/filling-equipment)
+- [Solutions de séchage rectiligne à lames d'air](/fr/solutions/drying/)
+- [Transmettre les bouteilles et le débit requis pour un devis](/fr/contact/)

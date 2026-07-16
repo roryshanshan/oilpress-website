@@ -1,6 +1,6 @@
 ---
-title: Quelles graines conviennent le mieux à une presse à huile hydr...
-description: Découvrez quelles graines sont les plus adaptées à une presse à huile hydraulique et comment associer sésame, arachide, noix
+title: "Graines pour presse hydraulique : guide de sélection"
+description: "Comparez sésame, arachide, noix, lin et autres graines pour choisir une presse hydraulique adaptée, puis demander un prix fabricant et un devis de ligne."
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-21"
 ---
@@ -18,11 +18,15 @@ C'est généralement un bon choix lorsque la graine a une teneur en huile moyenn
 
 ## Matières premières les plus adaptées
 
-Le sésame convient très bien au pressage à chaud traditionnel comme au pressage à froid haut de gamme. L'arachide reste une option très pratique pour de nombreux ateliers. Les noix, amandes et autres noyaux durs sont souvent choisis pour des huiles premium et demandent un modèle plus robuste. Le lin, le périlla, les graines de courge et de raisin sont appréciés dans les marchés santé. Le colza, le soja et les graines de thé peuvent aussi être traités avec un procédé bien réglé.
+Pour les séries 300/325, évaluez l'arachide, le sésame, le colza, le tournesol, le lin et la graine de thé sur une route à chaud documentée: nettoyage, broyage, torréfaction ou conditionnement thermique, pressage et filtration. Pour les séries 355-500, la route par défaut est le nettoyage, le séchage à basse température seulement si nécessaire, le broyage puis le pressage hydraulique direct à froid. Le soja, les boues huileuses, les terres décolorantes usagées, les résidus animaux et les matières non standard ne sont pas des recommandations par défaut.
 
 ## Comment choisir le bon modèle
 
-Les séries 300 et 325 conviennent au pressage à chaud et au petit pressage à froid. Les séries 355 à 500 sont plus adaptées au pressage à froid régulier et aux matières plus dures. Si l'huile est vendue directement au détail, la filtration doit être prévue dès le départ.
+Les séries 300 et 325 sont réservées ici au pressage à chaud après préparation thermique. Les séries 355 à 500 sont destinées au pressage direct à froid après nettoyage, séchage doux éventuel et broyage, sans chauffage intense par défaut avant la presse. Si l'huile est vendue au détail, définissez la filtration d'après la spécification du produit et l'essai du même lot.
+
+## Devis et réception
+
+Le devis doit identifier le lot, la route, la cuve, les utilités, la filtration, les exclusions et les responsabilités. Le FAT confirme la configuration et le protocole d'essai convenus; le SAT vérifie séparément la ligne installée avec la matière représentative de l'acheteur. Les résultats d'un échantillon ne deviennent pas une garantie sans méthode, tolérance et critère d'acceptation contractuels.
 
 ## Conclusion
 

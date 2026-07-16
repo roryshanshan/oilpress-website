@@ -1,39 +1,49 @@
 ---
-title: "Qualité | ISO et contrôle usine"
-description: "Contrôle qualité ISO, inspection des matières et tests usine pour chaque presse hydraulique livrée."
-keywords: Assurance qualité, Certification ISO9001, Qualité de l'équipement d'extraction d'huile, Système de management de la qualité, Contrôle de la qualité de l'équipement, Assurance de la qualité du produit, Qualité de l'équipement d'extraction, Garantie de l'équipement, Traçabilité de la qualité, Inspection de la qualité de l'équipement, Certification de la qualité du produit, Normes de qualité de l'équipement
+title: "Qualité | Contrôle usine et documents de preuve"
+description: "Préparez la réception d'une presse hydraulique avec plan d'inspection, rapports d'essai, documents matière et certificats vérifiables."
+keywords: contrôle qualité presse à huile, inspection usine, rapport d'essai, certificat matière, certificat ISO à vérifier, réception équipement, traçabilité machine
 ---
 
-# Assurance qualité
+# Contrôle qualité et documents de preuve
 
-## Système de management de la qualité
+La qualité d'une machine doit être reliée à une configuration commandée, à des points de contrôle définis et à des enregistrements consultables. Les certificats de système ne remplacent ni l'inspection de la machine ni les critères de réception du contrat.
 
-L'entreprise a obtenu la certification du système de management de la qualité ISO9001 et a établi un système de contrôle qualité complet.
+## Contrôle à la réception des composants
 
-### Contrôle des matières premières
+- Inscrire dans la nomenclature les nuances de matériaux, les joints, les roulements et les composants convenus
+- Demander les certificats matière ou fiches fournisseur lorsque le matériau est critique pour le produit ou le procédé
+- Enregistrer les contrôles dimensionnels ou visuels prévus et le traitement des non-conformités
 
-- Sélection de matériaux en acier allié de haute résistance
-- Les composants clés utilisent des roulements et joints importés
-- Tous les matériaux subissent une inspection stricte à la réception
+## Contrôle pendant la fabrication
 
-### Contrôle du processus de production
+- Définir un plan d'inspection avec les opérations à contrôler, la méthode, le responsable et l'enregistrement attendu
+- Vérifier le bâti, les soudures visibles, l'assemblage hydraulique, l'électricité, les protections et les fuites apparentes
+- Associer toute tolérance annoncée à un instrument identifié, à son étalonnage et à un rapport de mesure
+- Suivre la configuration par numéro de commande, révision de dessin et nomenclature approuvée
 
-- Inspection à 100 % des processus clés
-- Les tests de précision de l'équipement atteignent le niveau micron
-- Les lignes de production automatisées assurent la cohérence du produit
+## Contrôle du produit fini
 
-### Inspection des produits finis
+- **Identification** : modèle, plaque signalétique, tension, accessoires, pièces commandées et liste de colisage
+- **Essai fonctionnel** : fonctionnement à vide, commandes, alarmes, arrêts et mouvements prévus
+- **Circuit hydraulique** : pression selon la fiche du modèle, maintien pendant la durée convenue et absence de fuite visible
+- **Essai matière** : rendement, cadence ou état du tourteau uniquement avec un échantillon représentatif et un protocole écrit
+- **Sécurité** : dispositifs et vérifications définis par la configuration, la destination et les exigences du contrat
 
-- Test de pression : Assurer une pression de travail stable et fiable
-- Test de performance : Vérifier le rendement en huile et l'efficacité de production
-- Test de sécurité : Assurer l'exploitation sécurisée de l'équipement
+## Certificats à vérifier
 
-## Engagement qualité
+Si une certification ISO ou une certification produit est citée dans l'offre, demandez une copie lisible indiquant l'organisme émetteur, le numéro, le titulaire, le périmètre et les dates de validité. Vérifiez que le périmètre couvre bien l'entité et l'activité concernées ; une certification de système ne vaut pas automatiquement certification de chaque machine.
 
-- **Période de garantie** : La période de garantie de l'équipement est de 2 ans
-- **Maintenance à vie** : Fournir un support technique à vie
-- **Traçabilité de la qualité** : Chaque équipement a un numéro de série unique
+## Réception, garantie et traçabilité
 
-## Témoignages clients
+- Les critères d'acceptation et la procédure en cas d'écart doivent être inscrits dans le contrat ou le protocole de réception
+- La durée de garantie, les composants couverts, les exclusions, les frais et la fourniture des pièces sont définis dans l'offre et le contrat
+- L'assistance après-vente reste continue dans le périmètre prévu au contrat
+- Le numéro de série, lorsqu'il est attribué, doit correspondre au rapport d'inspection et aux documents d'expédition
 
-La qualité de nos produits a reçu des éloges unanimes de la part des clients nationaux et internationaux, avec un taux de réparation inférieur à 0,5 %.
+## Dossier à demander avant expédition
+
+- Rapport d'inspection daté et identification de la machine contrôlée
+- Photos ou vidéo des essais convenus
+- Valeurs mesurées avec conditions et méthode d'essai
+- Copies des certificats applicables et documents matière demandés
+- Liste de colisage, accessoires, pièces de rechange et documents d'utilisation inclus

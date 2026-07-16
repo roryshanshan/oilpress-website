@@ -1,31 +1,31 @@
 ---
 title: "Manuel d’instructions presse à huile | Téléchargement"
-description: "Download hydraulic oil press instruction manuals and operating guidance for safer installation, commissioning, and daily maintenance."
-keywords: Manuel d'Instructions de l'Équipement prix, acheter Manuel d'Instructions de l'Équipement, devis usine, fabricant chinois, exportation, service après-vente
+description: "Téléchargez les manuels de la presse hydraulique Qianlong pour préparer l'installation, la mise en service, l'utilisation et l'entretien."
+keywords: manuel presse hydraulique, notice Qianlong, installation presse à huile, entretien, mise en service, service après-vente
 ---
-# Manuel d'Instructions de l'Équipement
+# Manuel d'instructions de la presse à huile
 
 ::: tip Instructions de Téléchargement
 Vous trouverez ci-dessous les manuels d'instructions détaillés pour la Presse à Huile Hydraulique Qianlong. Veuillez sélectionner la version appropriée selon vos préférences linguistiques.
 :::
 
-## Version Chinoise
+## Version chinoise
 
 <div class="manual-download">
-  <a href="/images/钱隆牌液压榨油机使用说明书.pdf" target="_blank" class="download-btn">
-    📄 Télécharger le Manuel Chinois
+  <a href="/images/qianlong-hydraulic-oil-press-manual-zh.pdf" target="_blank" class="download-btn">
+    📄 Télécharger le manuel chinois
     <br>
-    <small>钱隆牌液压榨油机使用说明书.pdf</small>
+    <small>Manuel chinois de la presse hydraulique Qianlong.pdf</small>
   </a>
 </div>
 
-## Version Anglaise
+## Version anglaise
 
 <div class="manual-download">
-  <a href="/images/Instruction Manual for Qianlong Brand Hydraulic Oil Press.pdf" target="_blank" class="download-btn">
-    📄 Télécharger le Manuel Anglais
+  <a href="/images/qianlong-hydraulic-oil-press-manual-en.pdf" target="_blank" class="download-btn">
+    📄 Télécharger le manuel anglais
     <br>
-    <small>Instruction Manual for Qianlong Brand Hydraulic Oil Press.pdf</small>
+    <small>qianlong-hydraulic-oil-press-manual-en.pdf</small>
   </a>
 </div>
 

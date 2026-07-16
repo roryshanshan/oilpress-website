@@ -1,6 +1,6 @@
 ---
-title: "Hướng dẫn xử lý sự cố máy ép dầu thủy lực: Lỗi thường gặp và c..."
-description: Xử lý các lỗi thường gặp của máy ép dầu thủy lực như tỷ lệ thu dầu thấp, áp suất không ổn định, bã ướt, rò rỉ và quá nhiệt bằng các bước kiểm tra thực tế.
+title: "Xử lý sự cố máy ép dầu thủy lực | Chẩn đoán theo bước"
+description: "Khoanh vùng áp suất thấp, rò dầu, quá nhiệt, bã ướt và tỷ lệ thu dầu kém bằng kiểm tra nguyên liệu, van, bơm, phớt, nhiệt độ và thời gian ép."
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-19"
 ---

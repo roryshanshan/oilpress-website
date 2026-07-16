@@ -1,41 +1,48 @@
 ---
-title: "Băng tải nâng / Elevator | Giá nhà máy & báo giá"
-description: "Nhận giá nhà máy cho elevator/thang nâng dùng trên dây chuyền chiết rót dầu ăn và đóng gói lỏng, hỗ trợ chọn model và sau bán."
-keywords: giá Palăng, mua Palăng, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+title: "Băng tải nâng trái cây | Báo giá từ nhà sản xuất"
+description: "Báo giá băng tải nâng trái cây từ nhà sản xuất; kiểm tra năng suất, chiều cao nâng, bề rộng băng và vệ sinh; xác nhận khả năng ghép nối trước khi mua."
+keywords: "giá băng tải nâng chai và sản phẩm, báo giá băng tải nâng chai và sản phẩm, năng suất, chiều cao nâng và loại chai hoặc sản phẩm cần chuyển, tích hợp dây chuyền chiết rót, cấu hình xuất khẩu, phụ tùng, hỗ trợ sau bán"
 image: "/images/filling-products/fruit-elevator.webp"
 ---
 # Palăng
 
 ![Thang máy](/images/filling-products/fruit-elevator.webp)
 
-Thang máy có thể được sử dụng làm tài liệu tham khảo cho các mô hình cụ thể trong thiết bị sơ chế trái cây và rau quả. Trang này sắp xếp vị trí mô hình, thông tin tham số và đề xuất hỗ trợ dựa trên thông tin sản phẩm công khai để tạo điều kiện thuận lợi cho việc lựa chọn sơ bộ và chuyển trang.
+Thiết bị nâng trái cây đưa nguyên liệu từ cao độ nhận liệu lên công đoạn rửa, nghiền hoặc xử lý tiếp theo. Khi chọn máy cần ưu tiên mức độ làm dập nguyên liệu, khả năng vệ sinh, chiều cao nâng và cách phối hợp với lưu lượng của thiết bị phía sau.
 
-## Định vị mô hình
+## Phù hợp với dự án nào
 
-- Series: [Thiết bị sơ chế rau củ quả](/vi/solutions/fruit-veg-processing/)
-- Lối vào tổng quan về thông số: [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment#fruit-elevator)
-- Các tình huống áp dụng: Thích hợp để sơ chế, nâng và vận chuyển nho, dâu tây, táo và các loại trái cây và rau quả khác.
+- **Công đoạn:** Vận chuyển nho, táo, dâu hoặc rau quả đã được xác nhận theo mẫu.
+- **Bao bì hoặc vật liệu:** Nguyên liệu rời cần nâng liên tục giữa hai cao độ trong khu sơ chế.
+- **Khi nên cân nhắc:** Phù hợp khi cấp liệu thủ công trực tiếp không ổn định hoặc không thuận tiện.
 
-## Tóm tắt thông tin công khai
+## Tiêu chí mua và so sánh giá
 
-Thiết bị này được sử dụng để nâng cấp các loại trái cây và rau quả như nho, dâu tây và táo. Đây là một trong những thiết bị tiền xử lý cần thiết cho các nhà sản xuất các sản phẩm dạng lỏng như nước ép trái cây, rau quả và rượu hoa quả.
+- Đánh giá kích thước, độ mềm, độ ướt và tạp chất của nguyên liệu.
+- Xác nhận loại băng hoặc gầu, góc nâng và phương án vệ sinh sau ca.
+- Kiểm tra cao độ xả, hướng xả và khả năng điều chỉnh lưu lượng cho máy nhận liệu.
 
-## Điểm tiết lộ
+## Thông tin cấu hình hiện có
 
-- Thiết bị này dùng để nâng cấp các loại trái cây và rau quả như nho, dâu tây và táo. Đây là một trong những thiết bị tiền xử lý cần thiết cho các nhà sản xuất các sản phẩm dạng lỏng như nước ép trái cây, rau quả và rượu hoa quả. Thiết bị này bao gồm đai lưới nhựa kỹ thuật cấp thực phẩm, khung thép không gỉ, cơ cấu truyền động điều chỉnh tốc độ vô cấp cơ học và máng cấp liệu bằng thép không gỉ. Đai lưới bao gồm một mô-đun có tấm xích và cấu trúc cạp. Đặc điểm của nó như sau:
-- Đai lưới nhựa kỹ thuật có cấu trúc mô đun, không dễ làm hư hỏng vật liệu vận chuyển, dễ dàng vệ sinh và không có góc chết vệ sinh.
-- Điều chỉnh tốc độ vô cấp cơ học của tốc độ nâng (bộ giảm tốc có điều chỉnh tốc độ vô cấp cơ học), dễ kết hợp với các thiết bị khác.
-- Ngoại hình đẹp, cấu trúc nhỏ gọn, vận hành đơn giản và bảo trì dễ dàng.
-- Hầu như không thất thoát nguyên vật liệu và không gây ô nhiễm cho khu vực vận hành. Thiết bị này có thể được tùy chỉnh theo yêu cầu của khách hàng.
+- Tài liệu hiện có mô tả băng mô-đun có tấm chắn, khung và máng cấp liệu; vật liệu chế tạo cuối cùng phải được ghi trong báo giá.
+- Cơ cấu điều chỉnh tốc độ cần được chọn theo lưu lượng cấp và khả năng nhận liệu của máy phía sau.
+- Khả năng vệ sinh, mức giữ nguyên liệu trên băng và nguy cơ làm dập phải được đánh giá bằng bản vẽ hoặc thử mẫu; không mặc định mọi loại trái cây cho kết quả giống nhau.
 
-## Đề xuất hỗ trợ
+## Thông tin cần gửi để nhận báo giá
 
-- Trước tiên hãy xem trang loạt bài: [Thiết bị sơ chế rau quả](/vi/solutions/fruit-veg-processing/)
-- Xem lại tổng quan thông số: [Vị trí thang máy trong thư viện thông số](/vi/products/filling-equipment#fruit-elevator)
-- Nếu đây là một dự án dây chuyền hoàn chỉnh, bạn có thể tiếp tục xem [Tổng quan về gói chiết rót](/vi/solutions/filling-packages) và [Tổng quan về dây chuyền sản xuất](/vi/solutions/production-lines).
+- Loại nguyên liệu, kích thước, độ ẩm và lưu lượng mục tiêu.
+- Chiều cao nâng, khoảng cách ngang và vị trí cấp/xả.
+- Vật liệu tiếp xúc, yêu cầu vệ sinh và phương án thu nước.
+- Mặt bằng, nguồn điện và thiết bị cần ghép nối.
 
-## Các trang liên quan
+## Giao hàng, lắp đặt và hậu mãi
 
-- [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
+Báo giá cần nêu máy chính, kết cấu đỡ, băng tải, phễu, điểm cấp/xả và giao diện an toàn. Vận chuyển, lắp đặt, chạy thử, đào tạo, phụ tùng và bảo hành chỉ thuộc phạm vi cung cấp khi được ghi rõ trong báo giá hoặc hợp đồng.
+
+## Liên kết cấu hình và yêu cầu báo giá
+
 - [Thiết bị sơ chế rau quả](/vi/solutions/fruit-veg-processing/)
-- [Liên hệ với chúng tôi để được tư vấn đầy đủ về dòng sản phẩm](/vi/contact/)
+- [Đối chiếu thiết bị trong bảng thông số tổng hợp](/vi/products/filling-equipment)
+- [Giải pháp chiết rót và đóng gói liên hợp](/vi/solutions/filling-packages)
+- [Giải pháp dây chuyền sản xuất](/vi/solutions/production-lines)
+- [Yêu cầu nhà sản xuất báo giá và xác nhận cấu hình](/vi/contact/)

@@ -1,160 +1,67 @@
 ---
-title: Giải pháp mè (Dầu mè) - Công ty TNHH Shengshi Hecheng Sơn Đông...
-description: Nhận báo giá Giải pháp mè (Dầu mè) - Công ty TNHH Shengshi Hecheng Sơn Đông với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
-keywords: Giải pháp mè (Dầu mè) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+title: "Sản xuất dầu mè | Ép nóng, ép lạnh và thiết bị"
+description: "Làm sạch, rang hoặc sấy mè rồi ép nóng/lạnh; chọn máy sàng, rang, ép, lọc và bồn. Khi mua, kiểm tra hương, màu, nhiệt độ, năng suất và tỷ lệ thu dầu."
+keywords: "Mè/vừng (dầu mè) báo giá, máy ép dầu, quy trình sản xuất, mua từ nhà máy, thiết bị phụ trợ, hậu mãi"
 image: "/images/process-image-dfc1cdf2c9.webp"
 ---
-# Giải pháp mè (Dầu mè)
+# Giải pháp Mè/vừng (dầu mè)
 
-## Tổng quan
+![Mè/vừng (dầu mè) - quy trình và thiết bị ép dầu](/images/process-image-dfc1cdf2c9.webp)
 
-芝麻是重要的油料作物，芝麻油具有独特的香味和丰富的营养价值。山东盛世赫程机械有限公司提供专业的芝麻压榨解决方案，从小型作坊到大型工厂的全套设备和服务。
+Mè cần được sàng, tách đá, làm sạch và điều chỉnh độ ẩm đồng đều trước khi ép. Ép lạnh tạo dầu màu và hương nhẹ, còn rang có kiểm soát tạo dầu mè thơm; đường cong rang, làm nguội và thời điểm ép phải được thử trên đúng giống mè. Dầu sau ép có thể lắng tự nhiên hoặc lọc đến độ trong mục tiêu mà không làm mất kiểu hương sản phẩm đã chọn.
 
-## 芝麻特性
+## Dữ liệu chọn quy trình
 
-### 📊 基本参数
-- **含油率**: 50-60%
-- **蛋白质含量**: 18-25%
-- **主要脂肪酸**: 油酸（35-50%）、亚油酸（35-45%）、棕榈酸（8-12%）
-- **适宜温度**: 炒制温度控制在180-220℃
+| Hạng mục | Khuyến nghị |
+| --- | --- |
+| Hàm lượng dầu tham khảo | Khoảng 45-55% |
+| Tuyến công nghệ ưu tiên | Làm sạch, rang có kiểm soát rồi ép nóng |
+| Model hoặc hướng thiết bị | 300 / 325 |
+| Cách chốt công suất | Dựa trên thử mẫu, số mẻ, thời gian chu kỳ và chất lượng dầu |
 
-### 🌱 生长特性
-- **生长周期**: 90-120天
-- **适宜气候**: 温暖、干燥地区
-- **土壤要求**: 肥沃、排水良好的土壤
-- **年产量**: 全球年产量超过500万吨
+> Màu, mùi và độ ổn định phụ thuộc mạnh vào đường cong rang; cần thử mẫu trước khi chốt thông số.
 
-## 加工工艺
+## Quy trình khuyến nghị
 
-+ 芝麻(建议300AC-390/325AC-390/355AC-390/400AC-390)
- + 芝麻油热榨工艺：滚筒炒锅炒制芝麻后直接入液压榨油机料桶压榨。采用此工艺压榨的芝麻油，香味浓郁，入口回甘，压榨出的油不用水化处理，下锅不起泡。
- + 基本不需要过滤处理，沉淀装瓶即可。
- + ![Vừng quy trình ép nóng](/images/process-image-dfc1cdf2c9.webp)
+1. Sàng, làm sạch và loại đá
+2. Rửa hoặc điều chỉnh độ ẩm theo công thức
+3. Rang đến hương vị mục tiêu rồi làm nguội thích hợp
+4. Ép thủy lực theo mẻ
+5. Lắng và lọc dầu
 
-## 芝麻液压榨油机热榨工艺视频展示
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/TeSE53ywSw4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## Máy ép và thiết bị chính
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/4lPfRSG2xu8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+- [Dòng 300](/vi/products/300)
+- [Dòng 325](/vi/products/325)
+- [Thiết bị tiền xử lý](/vi/products/pre-treatment)
+- [Thiết bị lọc và hậu xử lý](/vi/products/post-treatment)
+- [Thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
 
-## 芝麻液压榨油机冷榨工艺视频展示
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/FJJ1DKef6cE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## Dữ liệu cần cho báo giá
 
-## 技术优势
+- Mẫu mè trắng/đen, còn vỏ hay đã tách vỏ, độ ẩm, cát đá, hạt lép và điều kiện bảo quản
+- Khối lượng mè cần xử lý mỗi mẻ/ngày, số ca và phương án rửa/sấy nếu áp dụng
+- Mục tiêu dầu ép lạnh hay dầu rang thơm, màu, cường độ hương và kiểu rang dự kiến
+- Dầu lắng truyền thống hay dầu lọc trong, mức cặn, thời gian lắng, vật liệu bồn và quy cách chai
+- Nguồn nhiệt cho rang, điện áp, diện tích làm sạch - rang - ép - lọc và điểm giao hàng
 
-### 🎯 精准控制
-- 炒制温度控制：±5℃精度
-- 炒制时间控制：最佳工艺参数
-- 压榨压力控制：智能调节
+Hiệu suất thực tế phụ thuộc giống, độ ẩm, mức nghiền, nhiệt độ và thời gian ép. Không nên dùng một con số sản lượng cố định thay cho thử nghiệm nguyên liệu.
 
-### 💧 油质保证
-- 热榨工艺突出香味
-- 物理压榨保证纯净
-- 出油率高达52-58%
+## Kiểm tra nghiệm thu
 
-### 🔄 连续生产
-- 自动化炒制系统
-- 连续压榨工艺
-- 智能质量监控
+Chạy nghiệm thu bằng đúng loại mè và ghi độ ẩm, tạp chất loại ra, đường cong rang/làm nguội, khối lượng nạp, nhiệt độ dầu và chu kỳ ép. Mẫu dầu được đối chiếu về màu, hương, vị khét, độ trong hoặc mức cặn sau thời gian lắng/lọc đã chọn; đồng thời kiểm tra tháo bã và vệ sinh máy rang, máy ép.
 
-## 产品应用
-
-### 🍳 食用油
-- 芝麻油：主要食用油品种
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
-
-### 🥛 副产品
-- 芝麻粕：优质蛋白饲料
-- 芝麻酱：食品加工原料
-- 芝麻蛋白：食品添加剂
-
-### 💊 功能性产品
-- 芝麻素
-- 芝麻多酚
-- 芝麻磷脂
-
-## 市场分析
-
-### 📈 发展趋势
-- 健康食用油需求增长
-- 高端芝麻油市场扩大
-- 出口贸易机会增加
-
-### 🎯 目标市场
-- 食用油加工企业
-- 食品加工企业
-- 餐饮连锁企业
-- 出口贸易企业
-
-
-
-## 质量标准
-
-### 🏆 产品质量标准
-- 符合国家芝麻油标准（GB 8233）
-- 符合食品安全标准
-- 符合出口食品标准
-- 符合有机食品认证
-
-### 🔍 检测项目
-- 酸价检测
-- 过氧化值检测
-- 色泽透明度检测
-- 重金属含量检测
-- 黄曲霉毒素检测
-- 农药残留检测
-
-## 可持续发展
-
-### 🌱 环保生产
-- 废弃物循环利用
-- 节能减排工艺
-- 绿色生产标准
-
-### 🔄 资源利用
-- 副产品综合利用
-- 产业链延伸
-- 循环经济模式
-
-### 🌍 社会责任
-- 支持农民增收
-- 保障食品安全
-- 保护生态环境
-
-## 联系我们
-
-如果您对芝麻压榨解决方案感兴趣，请联系我们的技术团队：
-
-- 📞 **咨询热线**: +86 19906365856
-- 📧 **邮箱**: gavin@oil-pressing-machine.com
-- 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
-
-我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的芝麻压榨解决方案。
-
-## Liên kết liên quan
+## Trang liên quan
 
 - [Tổng quan giải pháp](/vi/solutions/)
-- [Giải pháp theo loại dầu](/vi/solutions/seed-oils)
-- [Giải pháp đậu nành](/vi/solutions/soybean)
-- [Giải pháp lạc](/vi/solutions/peanut)
-- [Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc](/vi/products/korean-type-small-hydraulic-oil-press-machine)
-- [Máy ép dầu mè cỡ nhỏ](/vi/products/small-sesame-oil-press-machine)
-- [Máy ép dầu thủy lực nhỏ KHOP-10KG](/vi/products/khop-10kg-small-hydraulic-oil-press-machine)
-- [Máy ép dầu thủy lực nhỏ KHOP-15KG](/vi/products/khop-15kg-small-hydraulic-oil-press-machine)
-- [Máy ép dầu thủy lực nhỏ KHOP-20KG](/vi/products/khop-20kg-small-hydraulic-oil-press-machine)
-- [Dòng 300](/vi/products/300)
-- [Liên hệ đội kỹ thuật](/vi/contact/)
+- [Dây chuyền sản xuất dầu hoàn chỉnh](/vi/solutions/production-lines)
+- [Tất cả model máy ép dầu thủy lực](/vi/products/)
+- [Hướng dẫn mua hàng và kỹ thuật](/vi/news/technology/)
 
-## Nhận giá & báo giá
+## Nhận giá và cấu hình
 
-Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
+Gửi nguyên liệu, công suất, chất lượng dầu mục tiêu và điểm đến để nhận cấu hình cùng báo giá nhà máy.
 
-- [Nhận giá & báo giá](/vi/contact/)
+- [Yêu cầu báo giá](/vi/contact/)
 
 <!-- quote-cta -->

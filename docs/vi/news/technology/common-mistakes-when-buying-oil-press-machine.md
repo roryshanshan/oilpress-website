@@ -1,6 +1,6 @@
 ---
-title: "Những sai lầm phổ biến khi mua máy ép dầu: 5 lỗi người mua cần..."
-description: Tránh các sai lầm phổ biến khi mua máy ép dầu như chỉ nhìn giá, ước lượng sai công suất, lập kế hoạch dây chuyền chưa đủ và đánh giá thấp dịch vụ sau bán hàng.
+title: "5 sai lầm khi mua máy ép dầu và cách phòng tránh"
+description: "Tránh chỉ so giá, ước sai công suất, bỏ sót tiền xử lý/lọc, không thử nguyên liệu và không ghi rõ điện áp, phụ tùng, nghiệm thu trong hợp đồng."
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-13"
 ---

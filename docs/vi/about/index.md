@@ -1,53 +1,49 @@
 ---
-title: "Về chúng tôi | Nhà sản xuất máy ép dầu thủy lực"
-description: "Shengshi Hecheng từ 2008 chuyên R&D và sản xuất máy ép dầu thủy lực cùng dây chuyền dầu ăn, phục vụ 30+ quốc gia."
-keywords: Về chúng tôi, Giới thiệu doanh nghiệp, Shengshi Hecheng Sơn Đông, Nhà sản xuất máy ép dầu, Phát triển doanh nghiệp, Đổi mới công nghệ, Máy ép dầu thủy lực, Thiết bị chế biến dầu, Văn hóa doanh nghiệp, Tinh thần doanh nghiệp
+title: "Nhà sản xuất máy ép dầu | Kiểm tra nhà máy & báo giá"
+description: "Xem phạm vi chế tạo, video xưởng, hồ sơ cần kiểm tra và dữ liệu cần gửi để nhận cấu hình máy ép dầu cùng báo giá xuất khẩu."
+keywords: nhà sản xuất máy ép dầu, kiểm tra nhà máy máy ép dầu, video xưởng, báo giá máy ép dầu, nghiệm thu thiết bị, hồ sơ xuất khẩu
 ---
 
-# Về chúng tôi
+# Về nhà sản xuất máy ép dầu
 
-## Giới thiệu công ty
+Shandong Shengshi Hecheng Machinery Co., Ltd. cung cấp máy ép dầu thủy lực và thiết bị liên quan cho các dự án chế biến dầu. Phạm vi cụ thể của từng đơn hàng cần được xác nhận bằng danh sách thiết bị, bản vẽ, thông số model và hợp đồng.
 
-Công ty TNHH Shengshi Hecheng Sơn Đông được thành lập vào năm 2008, là doanh nghiệp công nghệ cao chuyên nghiên cứu và sản xuất thiết bị ép dầu. Trong hơn một thập kỷ, chúng tôi luôn kiên định triết lý kinh doanh "Chất lượng hàng đầu, đổi mới phát triển", cam kết cung cấp thiết bị và giải pháp ép dầu chất lượng cao cho khách hàng.
+## Phạm vi chế tạo và cấu hình
 
-## Năng lực doanh nghiệp
+- Máy ép dầu thủy lực theo mẻ với lựa chọn thùng ép và điều khiển theo model
+- Thiết bị làm sạch, nghiền, sấy hoặc gia nhiệt theo yêu cầu nguyên liệu
+- Thiết bị lắng, lọc, bồn chứa và các công đoạn sau ép
+- Thiết bị chiết rót, đóng gói hoặc phụ trợ khi được ghi trong phạm vi cung cấp
+- Cấu hình cho dầu ăn, nguyên liệu đặc thù hoặc tách nước sau khi thử mẫu và đánh giá điều kiện
 
-### R&D & Đổi mới
-- Đội ngũ R&D chuyên nghiệp
-- Nhiều bằng sáng chế công nghệ
-- Năng lực đổi mới liên tục
-- Công nghệ dẫn đầu ngành
+## Video sản phẩm tại xưởng
 
-### Năng lực sản xuất
-- Cơ sở sản xuất hiện đại
-- Quy trình sản xuất tiêu chuẩn hóa
-- Quản lý chất lượng nghiêm ngặt
-- Hệ thống kiểm tra hoàn chỉnh
-
-### Trưng bày sản phẩm tại xưởng
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/U077XRSuR-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Mạng lưới dịch vụ
-- Mạng lưới bán hàng toàn cầu
-- Dịch vụ tại chỗ theo vùng
-- Hỗ trợ kỹ thuật 24/7
-- Cơ chế phản hồi nhanh
+Video dùng để quan sát hình thức máy và cách bố trí trong xưởng. Để xác minh năng lực giao hàng, hãy đối chiếu model, nhãn máy, cấu hình, ngày quay và hồ sơ kiểm tra của đúng đơn hàng.
 
-## Văn hóa doanh nghiệp
+## Hồ sơ cần kiểm tra trước khi mua
 
-### Sứ mệnh
-Cung cấp thiết bị chế biến dầu chất lượng cho sức khỏe con người
+- Tên pháp nhân, địa chỉ sản xuất và thông tin nhận thanh toán trên hợp đồng
+- Bảng thông số, danh sách linh kiện chính và phạm vi cung cấp của model
+- Hạng mục kiểm tra thủy lực, điều khiển, an toàn và chạy thử xuất xưởng
+- Tài liệu vật liệu hoặc chứng nhận nếu dự án có yêu cầu cụ thể
+- Điều kiện bảo hành, phụ tùng, lắp đặt, đào tạo và hỗ trợ sau bán hàng
 
-### Tầm nhìn
-Trở thành nhà sản xuất thiết bị ép dầu hàng đầu thế giới
+## Thử mẫu và nghiệm thu
 
-### Giá trị cốt lõi
-- Trung thực, đổi mới, hướng đến xuất sắc và trách nhiệm
+Với nguyên liệu mới, hãy gửi mẫu đại diện và thống nhất độ ẩm, tiền xử lý, khối lượng mẻ, thời gian chu kỳ và phương pháp đo. Kết quả chỉ có giá trị cho điều kiện đã ghi và cần được đưa vào tiêu chí nghiệm thu nếu ảnh hưởng đến quyết định mua.
 
-## Chứng nhận & Danh hiệu
-Chúng tôi sở hữu các chứng nhận chất lượng và danh hiệu ngành khẳng định năng lực sản xuất và công nghệ.
+## Dữ liệu cho dự án xuất khẩu
 
+- Tên nguyên liệu và mục tiêu sản phẩm
+- Năng lực mục tiêu theo mẻ, ca hoặc ngày
+- Điện áp, tần số, diện tích và điều kiện lắp đặt
+- Cảng hoặc địa điểm giao hàng và yêu cầu đóng gói
+- Chứng từ nhập khẩu, tiêu chuẩn hoặc ngôn ngữ tài liệu cần thiết
 
-
+- [Xem model máy ép dầu](/vi/products/)
+- [Xem giải pháp theo nguyên liệu](/vi/solutions/)
+- [Yêu cầu thử mẫu, kiểm tra nhà máy và báo giá](/vi/contact/)

@@ -1,136 +1,67 @@
 ---
-title: "Giải pháp hạt thầu dầu (Dầu thầu dầu) | Danh mục thiết bị…"
-description: Nhận báo giá Giải pháp hạt thầu dầu (Dầu thầu dầu) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
-keywords: Giải pháp hạt thầu dầu (Dầu thầu dầu) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+title: "Sản xuất dầu thầu dầu | Thiết bị và báo giá"
+description: "Làm sạch, bóc vỏ, điều hòa nhiệt rồi ép nóng thầu dầu; cần máy bóc vỏ, ép, lọc và tinh luyện. Kiểm tra cách ly thực phẩm, xử lý bã độc và công suất."
+keywords: "Hạt thầu dầu (dầu thầu dầu) báo giá, máy ép dầu, quy trình sản xuất, mua từ nhà máy, thiết bị phụ trợ, hậu mãi"
 image: "/images/hot-pressing-process-of-castor-seeds-png-89a6227aab.webp"
 ---
-# Giải pháp hạt thầu dầu (Dầu thầu dầu)
+# Giải pháp Hạt thầu dầu (dầu thầu dầu)
 
-## Tổng quan
+![Hạt thầu dầu (dầu thầu dầu) - quy trình và thiết bị ép dầu](/images/hot-pressing-process-of-castor-seeds-png-89a6227aab.webp)
 
-Hạt thầu dầu là hạt của cây thầu dầu, giàu dầu đặc biệt có thể chiết xuất thành dầu thầu dầu. Dầu thầu dầu có tính chất lý-hóa đặc trưng, chủ yếu được ứng dụng trong ngành công nghiệp như dầu bôi trơn, sơn và dược phẩm. Công ty TNHH Shengshi Hecheng Sơn Đông cung cấp giải pháp ép hạt thầu dầu chuyên nghiệp, đáp ứng nhu cầu sản xuất ở nhiều quy mô khác nhau.
+Hạt thầu dầu phải được làm sạch, bóc vỏ hoặc nghiền và điều hòa nhiệt trong khu vực công nghiệp tách biệt với mọi tuyến thực phẩm. Đây không phải bài toán chọn ép lạnh hay ép nóng cho dầu ăn; mức gia nhiệt được chốt theo chỉ tiêu dầu thô công nghiệp và kết quả chạy mẫu. Dầu ép ra được lọc thô/tinh theo công đoạn sau, còn bã phải thu gom và xử lý bằng quy trình an toàn riêng.
 
-## Đặc tính hạt thầu dầu
+## Dữ liệu chọn quy trình
 
-### 📊 Thông số cơ bản
-- **Tỷ lệ dầu**: 45-55%
-- **Hàm lượng protein**: 18-22%
-- **Các thành phần chính**: Acid ricinoleic (80-90%)
-- **Nhiệt độ thích hợp**: Nhiệt độ ép kiểm soát ở 80-100℃
+| Hạng mục | Khuyến nghị |
+| --- | --- |
+| Hàm lượng dầu tham khảo | Khoảng 45-55% |
+| Tuyến công nghệ ưu tiên | Dây chuyền công nghiệp có kiểm soát an toàn |
+| Model hoặc hướng thiết bị | 355 / 400 |
+| Cách chốt công suất | Dựa trên thử mẫu, số mẻ, thời gian chu kỳ và chất lượng dầu |
 
-### 🌱 生长特性
-- **生长周期**: 150-180天
-- **适宜气候**: 温暖、湿润气候
-- **土壤要求**: 肥沃、排水良好土壤
-- **年产量**: 全球蓖麻产量约200万吨
+> Dầu thầu dầu không phải dầu ăn. Hạt và bã có rủi ro độc tính, cần thiết kế khu vực, bảo hộ và xử lý chất thải chuyên biệt.
 
-## Quy trình chế biến
-Quy trình ép hạt thầu dầu (gợi ý: 300AC-390/325AC-390/355AC-390/400AC-390)
-+ Quy trình ép nóng:
-+ Bước 1: Nghiền
-+ Bước 2: Rang
-+ Bước 3: Ép
-+ ![Quy trình ép nóng](/images/hot-pressing-process-of-castor-seeds-png-89a6227aab.webp)
+## Quy trình khuyến nghị
 
-## Hiện chưa có video quy trình công suất lớn của chúng tôi; tạm thời tham khảo video máy ép Hàn Quốc ép hạt thầu dầu dưới đây
+1. Làm sạch và bóc vỏ theo yêu cầu
+2. Nghiền và điều hòa nhiệt
+3. Ép trong khu vực công nghiệp riêng
+4. Lọc dầu thô
+5. Xử lý bã và vệ sinh theo quy trình an toàn
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/4AhVzopNoc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## Máy ép và thiết bị chính
 
-## 技术优势
+- [Dòng 355](/vi/products/355)
+- [Dòng 400](/vi/products/400)
+- [Thiết bị tiền xử lý](/vi/products/pre-treatment)
+- [Thiết bị lọc và hậu xử lý](/vi/products/post-treatment)
+- [Thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
 
-### 🎯 精准控制
-- 温度控制：±2℃精度
-- 压力控制：智能调节
-- 炒制时间：最佳工艺参数
+## Dữ liệu cần cho báo giá
 
-### 💧 油质保证
-- 热榨工艺突出特性
-- 物理压榨保证纯净
-- 出油率高达50-52%
+- Mẫu hạt nguyên hay đã bóc vỏ, độ ẩm, tạp chất, nguồn cung và hồ sơ an toàn nguyên liệu hiện có
+- Khối lượng cần xử lý theo mẻ/ngày, số giờ vận hành và cách tiếp nhận, lưu kho hạt
+- Mục đích công nghiệp của dầu, chỉ tiêu dầu thô cần đạt và phạm vi điều hòa nhiệt hoặc tinh chế tiếp theo
+- Cấp lọc, mức cặn, vật liệu bồn/đường ống và quy cách chứa dầu sau ép
+- Khu vực cách ly, hút bụi, bảo hộ, phương án chứa bã, điện áp, mặt bằng và điểm giao hàng
 
-### 🔄 连续生产
-- 自动化生产流程
-- 连续压榨工艺
-- 智能质量监控
+Hiệu suất thực tế phụ thuộc giống, độ ẩm, mức nghiền, nhiệt độ và thời gian ép. Không nên dùng một con số sản lượng cố định thay cho thử nghiệm nguyên liệu.
 
-## 产品应用
+## Kiểm tra nghiệm thu
 
-### 🏭 工业应用
-- 蓖麻油：优质工业油
-- 润滑油：机械润滑
-- 涂料原料：油漆生产
+Trước khi chạy tải phải xác nhận tuyến được cách ly, có che chắn, thu bụi, dụng cụ vệ sinh và khu chứa bã đúng phạm vi dự án. Khi chạy mẫu, ghi độ ẩm, mức bóc/nghiền, nhiệt độ điều hòa, khối lượng nạp, chu kỳ, lượng dầu thô và bã; nghiệm thu thêm điểm lấy mẫu dầu, độ sạch sau lọc và quy trình tháo bã mà không coi thiết bị ép là công đoạn khử độc.
 
-### 🥛 副产品
-- 蓖麻粕：优质蛋白饲料
-- 蓖麻壳：燃料或饲料
-- 蓖麻蛋白：工业添加剂
+## Trang liên quan
 
-### 💊 功能性产品
-- 蓖麻油酸
-- 蓖麻多酚
-- 蓖麻磷脂
+- [Tổng quan giải pháp](/vi/solutions/)
+- [Dây chuyền sản xuất dầu hoàn chỉnh](/vi/solutions/production-lines)
+- [Tất cả model máy ép dầu thủy lực](/vi/products/)
+- [Hướng dẫn mua hàng và kỹ thuật](/vi/news/technology/)
 
-## 市场分析
+## Nhận giá và cấu hình
 
-### 📈 发展趋势
-- 工业油需求增长
-- 绿色工业原料扩大
-- 出口贸易机会增加
+Gửi nguyên liệu, công suất, chất lượng dầu mục tiêu và điểm đến để nhận cấu hình cùng báo giá nhà máy.
 
-### 🎯 目标市场
-- 工业油加工企业
-- 涂料生产企业
-- 润滑油企业
-- 出口贸易企业
-
-
-## 质量标准
-
-### 🏆 产品质量标准
-- 符合工业油标准
-- 符合出口工业标准
-- 符合安全运输标准
-
-### 🔍 检测项目
-- 酸价检测
-- 粘度检测
-- 色泽透明度检测
-- 重金属含量检测
-- 杂质含量检测
-
-## Phát triển bền vững
-
-### 🌱 Sản xuất thân thiện môi trường
-- Tái sử dụng chất thải
-- Công nghệ tiết kiệm năng lượng và giảm phát thải
-- Tiêu chuẩn sản xuất xanh
-
-### 🔄 Tận dụng tài nguyên
-- Tận dụng phụ phẩm
-- Mở rộng chuỗi giá trị
-- Mô hình kinh tế tuần hoàn
-
-### 🌍 Trách nhiệm xã hội
-- Hỗ trợ nâng cao thu nhập nông dân
-- Bảo đảm an toàn sản xuất
-- Bảo vệ môi trường sinh thái
-
-## Liên hệ
-
-Nếu bạn quan tâm đến giải pháp ép hạt thầu dầu, hãy liên hệ đội ngũ kỹ thuật của chúng tôi:
-
-- 📞 **Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Địa chỉ**: Khu phát triển Yinen, số 5888, thành phố Qingzhou, tỉnh Sơn Đông
-
-Chúng tôi cung cấp tư vấn kỹ thuật miễn phí, thử nghiệm mẫu và khảo sát thực địa để giúp bạn chọn giải pháp ép hạt thầu dầu phù hợp nhất.
-
-## Nhận giá & báo giá
-
-Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
-
-- [Nhận giá & báo giá](/vi/contact/)
+- [Yêu cầu báo giá](/vi/contact/)
 
 <!-- quote-cta -->

@@ -1,6 +1,6 @@
 ---
-title: "Guide de pressage à froid de l'huile de noix : procédé, choix ..."
-description: Guide pratique sur l'huile de noix pressée à froid couvrant la préparation de la matière première, le pressage basse température, le choix de la machine
+title: "Huile de noix à froid : procédé et choix de presse"
+description: "Suivez préparation, pressage à basse température, filtration et emballage protecteur de l'huile de noix pour choisir une presse et demander un devis."
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-17"
 ---

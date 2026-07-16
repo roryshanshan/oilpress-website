@@ -1,41 +1,42 @@
 ---
-title: "Élévateur de fruits/bouteilles | Prix usine et devis"
-description: "Demandez le prix usine pour élévateurs de ligne de remplissage huile comestible et liquides, avec sélection de modèle et SAV."
-keywords: Palan prix, acheter Palan, devis usine, fabricant chinois, exportation, service après-vente
+title: "Élévateur de fruits et légumes | Prix fabricant et devis"
+description: "Élévateur hygiénique pour raisins, fraises, pommes et autres fruits ou légumes vers le prétraitement. Le devis précise les formats, le prix et le SAV."
+keywords: "élévateur pour fruits et légumes prix, devis élévateur pour fruits et légumes, convoyage hygiénique de raisins, fraises, pommes et autres matières vers le prétraitement, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/fruit-elevator.webp"
 ---
-# Palan
 
-![Ascenseur](/images/filling-products/fruit-elevator.webp)
+# Élévateur de fruits et légumes
 
-L'élévateur peut être utilisé comme référence pour des modèles spécifiques dans les équipements de pré-traitement des fruits et légumes. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+![Élévateur de fruits et légumes](/images/filling-products/fruit-elevator.webp)
 
-## Positionnement du modèle
+Cet élévateur incliné transfère les fruits ou légumes entre réception, lavage, tri et broyage. Le tapis, les tasseaux, la trémie et la hauteur de déversement doivent être choisis selon la matière première pour limiter les chutes et faciliter le nettoyage.
 
-- Série : [Équipement de pré-traitement de légumes et de fruits](/fr/solutions/fruit-veg-processing/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#fruit-elevator)
-- Scénarios applicables : convient pour le prétraitement, le levage et le transport de raisins, fraises, pommes et autres fruits et légumes.
+## Domaine d'application et critères d'achat
 
-## Résumé des informations publiques
+- Famille : [Prétraitement des fruits et légumes](/fr/solutions/fruit-veg-processing/)
+- Repère technique : [Paramètres publiés de Élévateur de fruits et légumes](/fr/products/filling-equipment#fruit-elevator)
+- Tester la matière réelle afin d'observer roulement, meurtrissure, retour de produit et drainage.
+- Raccorder la hauteur de prise et de décharge au plan des équipements amont et aval.
+- Définir la construction alimentaire et l'accès au nettoyage selon le procédé de l'acheteur.
 
-Cet équipement est utilisé pour valoriser les fruits et légumes tels que les raisins, les fraises et les pommes. C'est l'un des équipements de prétraitement nécessaires aux fabricants de produits liquides tels que les jus de fruits et de légumes et les vins de fruits.
+## Données nécessaires au devis fabricant
 
-## Points de divulgation
+- Type de matière, dimensions, état, densité apparente et débit de transfert.
+- Hauteurs d'alimentation et de décharge, longueur horizontale, pente et implantation.
+- Tapis, tasseaux, trémie, drainage et méthode de nettoyage souhaités.
+- Motorisation, réglage de vitesse, alimentation, protections et critères d'interface.
 
-- Cet équipement est utilisé pour valoriser les fruits et légumes tels que les raisins, les fraises et les pommes. C'est l'un des équipements de prétraitement nécessaires aux fabricants de produits liquides tels que les jus de fruits et de légumes et les vins de fruits. L'équipement est composé d'une ceinture à mailles en plastique technique de qualité alimentaire, d'un cadre en acier inoxydable, d'un mécanisme de transmission mécanique à régulation de vitesse en continu et d'une mangeoire en acier inoxydable. La bande maillée est composée d'un module avec une structure à cadène et racleur. Ses caractéristiques sont les suivantes :
-- La bande à mailles en plastique technique a une structure modulaire, qui n'endommage pas facilement les matériaux transportés, est facile à nettoyer et n'a pas de coins morts sanitaires.
-- Régulation mécanique continue de la vitesse de levage (réducteur avec régulation mécanique continue de la vitesse), facile à assortir avec d'autres équipements.
--Belle apparence, structure compacte, opération simple et entretien facile.
-- Il n’y a quasiment aucune perte de matériaux et aucune pollution sur le site d’exploitation. Cet équipement peut être personnalisé selon les exigences du client.
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-## Suggestions complémentaires
+## Prix, livraison et périmètre SAV écrit
 
-- Jetez d'abord un œil à la page de la série : [Équipement de pré-traitement des fruits et légumes](/fr/solutions/fruit-veg-processing/)
-- Regardez à nouveau l'aperçu des paramètres : [La position de l'élévateur dans la bibliothèque de paramètres](/fr/products/filling-equipment#fruit-elevator)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
 
-## Pages connexes
+## Équipements associés et prochaine étape
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Équipement de pré-traitement des fruits et légumes](/fr/solutions/fruit-veg-processing/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+- [Prétraitement des fruits et légumes](/fr/solutions/fruit-veg-processing/)
+- [Paramètres publiés de Élévateur de fruits et légumes](/fr/products/filling-equipment#fruit-elevator)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Planification des lignes de production](/fr/solutions/production-lines)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

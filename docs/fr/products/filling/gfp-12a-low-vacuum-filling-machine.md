@@ -1,16 +1,20 @@
 ---
-title: Machine de remplissage sous vide faible GFP-12A prix | fabricant
-description: Demandez le prix et le devis pour Machine de remplissage sous vide faible GFP-12A. Fabricant Shengshi Hecheng, livraison et SAV.
-keywords: Machine de remplissage sous vide faible GFP-12A prix, acheter Machine de remplissage sous vide faible GFP-12A, devis usine, fabricant chinois, exportation, service après-vente
+title: "Remplisseuse GFP-12A à faible vide | Prix fabricant et devis"
+description: "Remplisseuse GFP-12A à 12 têtes, 3 000 bouteilles/h, pour vin, sauce soja, vinaigre et liquides moussants. Comparez l’intégration, le prix, le devis et le SAV."
+keywords: "remplisseuse à faible vide GFP-12A prix, devis remplisseuse à faible vide GFP-12A, 12 têtes et 3 000 bouteilles/h pour vin, sauce soja, vinaigre et liquides moussants, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/gfp-12a-low-vacuum-filling-machine.webp"
 ---
 # Machine de remplissage sous vide faible GFP-12A
 
 ![Machine de remplissage sous vide faible GFP-12A](/images/filling-products/gfp-12a-low-vacuum-filling-machine.webp)
 
-« GFP-12A » est un modèle à 12 têtes de la série de remplissage à faible vide et à niveau constant. Il est principalement utilisé pour remplir des bouteilles en verre de vin, de vin de riz, de sauce soja, de vinaigre et d'autres liquides facilement moussants. Il est plus adapté aux projets de capacité de production de petite et moyenne taille, aux lignes de production d'essais en cave et aux configurations autonomes qui nécessitent une cohérence stable du niveau de liquide.
+La GFP-12A est la variante A à 12 têtes de la gamme à faible vide et à niveau constant. Les valeurs publiées de 3 000 bouteilles/heure, 1,12 kW et 1045 x 1050 x 2200 mm servent à présélectionner la machine. L'achat doit toutefois être décidé à partir du liquide réel, de bouteilles rigides et d'un protocole d'essai.
 
-## Paramètres de base
+Le débit publié reste une condition de référence. La compatibilité finale et la cadence soutenue doivent être inscrites dans l'offre technique et le protocole de réception.
+
+## Configuration de référence publiée
+
+Le tableau ci-dessous est conservé sans modification :
 
 | Projet | Paramètres |
 | --- | --- |
@@ -22,34 +26,44 @@ image: "/images/filling-products/gfp-12a-low-vacuum-filling-machine.webp"
 | Méthode de remplissage | Remplissage sous vide/niveau constant |
 | Liquides applicables | Vin, vin de riz, sauce soja, vinaigre et autres liquides facilement moussants |
 
-## Que fait cet appareil ?
+## Essai bouteille-produit pour la GFP-12A
 
-La fonction principale du GFP-12A est de permettre au liquide de s'écouler doucement le long de la paroi interne du récipient, garantissant ainsi la cohérence du niveau de liquide tout en supprimant la formation de mousse. Correspondant à la logique produit de la station de référence, il s'agit essentiellement d'une remplisseuse sous vide faible de petite et moyenne capacité, apte à être placée après rinçage et filtration, et combinée au bouchage, à la rétraction des bouchons et à l'étiquetage pour former une ligne de conditionnement du vin.
+La finition du col doit se positionner et assurer le contact prévu avec la soupape. Le produit doit être non gazeux et suffisamment fluide à sa température de remplissage. Vin tranquille, vin de riz, vinaigre ou sauce soja peuvent être testés lorsqu'ils moussent, mais leur nom ne garantit pas la compatibilité.
 
-## Fonctionnalités publiques
+Prévoir une autre technologie pour les boissons gazeuses, les produits avec pulpe ou particules, les viscosités très élevées, les emballages souples ou un dosage contractuel au poids.
 
-- Le remplissage du niveau de liquide utilise le remplissage par différence de pression du liquide pour éviter efficacement les problèmes de mousse lors du remplissage de liquides sujets à la mousse.
-- Pulvérisez le remplissage de vin, le liquide s'écoule le long de la paroi intérieure du récipient, réduisant ainsi la mousse provoquée par le liquide impactant le fond de la bouteille.
-- La valve de remplissage a une structure précise et peu de joints. L'ensemble de la machine est fiable et durable et convient à une production continue.
-- La structure élastique de support des bouteilles est plus douce pendant la phase de levage des bouteilles, ce qui peut réduire la perte de bouteilles en verre.
-- Pas de remplissage s'il n'y a pas de bouteille, et les bouteilles dont le goulot est défectueux ne participeront pas au remplissage, ce qui permet de contrôler la consistance du produit fini.
-- La valve de remplissage a une structure relativement simple, ce qui la rend plus facile à démonter, à nettoyer et à entretenir.
+## Points d'achat propres au modèle
 
-## À quels projets conviennent-ils
+- Utiliser l'encombrement publié pour une première implantation, puis ajouter les zones d'ouverture, d'entretien et de rangement des pièces de format.
+- Faire confirmer diamètre, hauteur, bague, stabilité du fond et niveau cible avant la définition des guides et éléments de levage.
+- Les GFP-12A et GFP-12B affichent les mêmes données publiques. Comparer les plans, la nomenclature, les automatismes et le périmètre fourni plutôt que de déduire une différence du suffixe.
 
-- Projets de vins, vins de fruits et vins de riz d'une capacité d'environ 3 000 bouteilles/heure.
-- Conditionnement de liquides dans des bouteilles en verre qui nécessitent un niveau et une apparence de liquide constants.
-- Scénarios de remplissage dans lesquels la sauce soja, le vinaigre, etc. sont également sujets à la formation de mousse et le niveau de liquide doit être stable.
+Douze têtes ne démontrent ni la cadence acceptée, ni la casse, ni la précision de niveau, ni le temps de nettoyage. Ces points doivent être mesurés avec une méthode convenue.
 
-## Plus de modèles dans la même série
+## Interfaces de ligne et changement de format
 
-- Aperçu de la même série : [Machine de remplissage sous vide](/fr/products/filling/low-vacuum-filling-machine)
-- Pour une capacité de production de niveau supérieur, veuillez consulter : [Machine de remplissage sous vide faible GFP-18A](/fr/products/filling/gfp-18a-low-vacuum-filling-machine)
-- Pour comparer les versions avec le même nombre de têtes, vous pouvez également consulter : [Machine de remplissage sous vide faible GFP-12B](/fr/products/filling/gfp-12b-low-vacuum-filling-machine)
+Le plan de ligne doit attribuer la cuve produit, l'alimentation, le retour, le vide et la vidange. Il doit aussi montrer la sortie de la rinceuse, la hauteur du convoyeur, les guides et le transfert vers la boucheuse ou la capsuleuse. Tension, fréquence, signaux, protections et raccordements d'usine font partie du même document.
 
-## Pages connexes
+Pour chaque bouteille, lister les pièces remplacées et les réglages. Le plan de nettoyage précisera matériaux en contact, joints, points bas, démontage et limite entre lavage manuel et éventuel circuit NEP.
 
-- [Série d'équipements de brassage](/fr/solutions/brewing/)
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment#brew-vacuum)
-- [Présentation du remplissage des packages](/fr/solutions/filling-packages)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+## Données nécessaires au devis fabricant
+
+Pour obtenir un prix fabricant comparable, transmettre la fiche liquide, la viscosité, les températures, le comportement de mousse, des bouteilles vides et remplies, les plans de col, la cadence acceptée recherchée, les changements de format, l'espace disponible, les utilités, la destination et le niveau d'aide attendu pour l'installation.
+
+## FAT, SAT et critères de réception
+
+La FAT doit couvrir les plus petits et les plus grands formats contractuels avec un liquide représentatif. Fixer durée, cadence normale, méthode de contrôle du niveau, mousse ou débordement admissible, comptage des rejets et arrêt aval provoqué. La SAT vérifiera ensuite les interfaces du site et les cas restés ouverts par écrit.
+
+## Prix, livraison et périmètre SAV écrit
+
+Le montant dépend des formats, du circuit produit, des protections, des commandes, des convoyeurs et de la destination. Emballage export, délai, montage, mise en service, formation, garantie, pièces de rechange et SAV ne sont compris que si l'offre et le contrat les détaillent.
+
+## Comparer la gamme et demander un devis
+
+- [Gamme GFP de remplisseuses à faible vide](/fr/products/filling/low-vacuum-filling-machine)
+- Modèle publié suivant : [GFP-12B à faible vide](/fr/products/filling/gfp-12b-low-vacuum-filling-machine)
+- [Équipements d'embouteillage du vin](/fr/solutions/brewing/)
+- [Paramètres publiés de la gamme GFP](/fr/products/filling-equipment#brew-vacuum)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+
+> **Chiffrer la GFP-12A avec vos bouteilles réelles :** envoyer échantillons, données produit et cadence acceptée via [la demande de devis projet](/fr/contact/).

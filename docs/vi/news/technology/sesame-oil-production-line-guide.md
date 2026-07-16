@@ -1,6 +1,6 @@
 ---
-title: "Hướng dẫn dây chuyền sản xuất dầu mè: Ép nóng, ép lạnh và cấu ..."
-description: Tìm hiểu quy trình ép nóng và ép lạnh dầu mè, các thiết bị chính, điểm kiểm soát hương thơm và cách cấu hình một dây chuyền dầu thủy lực thực tế.
+title: "Dây chuyền dầu mè | Ép nóng, ép lạnh và thiết bị"
+description: "Làm sạch, rang/sấy, ép và lọc mè; chọn ép nóng/lạnh theo hương, màu, dinh dưỡng, tỷ lệ thu dầu, công suất và yêu cầu đóng gói."
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-18"
 ---

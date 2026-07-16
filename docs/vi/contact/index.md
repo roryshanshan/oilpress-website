@@ -1,6 +1,6 @@
 ---
-title: "Nhận giá & báo giá | Máy ép dầu thủy lực"
-description: "Liên hệ Shengshi Hecheng để nhận giá máy ép dầu thủy lực, báo giá dây chuyền và hỗ trợ sau bán."
+title: "Nhận báo giá máy ép dầu thủy lực | Gửi yêu cầu"
+description: "Gửi loại nguyên liệu, kg/mẻ, sản lượng ngày, ép nóng/lạnh, điện áp, mặt bằng và điểm đến để nhận cấu hình, giá máy và chi phí vận chuyển."
 keywords: nhận báo giá, giá máy ép dầu, liên hệ, mua hàng, sau bán
 ---
 
@@ -19,6 +19,19 @@ Mã bưu chính: 262500
 - 📱 WhatsApp: +8619906365856
 - 📧 Email cá nhân: roryshanshan@gmail.com
 - 📧 Email kinh doanh: gavin@oil-pressing-machine.com
+
+## Thông tin cần có để báo giá chính xác
+
+Vui lòng cung cấp các dữ liệu sau để nhà máy chọn đúng máy và cấu hình dây chuyền, thay vì chỉ đưa ra khoảng giá chung.
+
+- Nguyên liệu và yêu cầu ép nóng hay ép lạnh
+- Sản lượng mục tiêu theo mẻ, giờ hoặc ngày
+- Dự án mới, mở rộng xưởng hoặc thay máy cũ
+- Hạng mục cần dùng: làm sạch, nghiền, rang, lọc, tinh luyện hoặc chiết rót
+- Điện áp, tần số và số pha tại địa phương
+- Quốc gia giao hàng hoặc cảng biển gần nhất
+
+Bạn có thể xem trước [các model máy ép thủy lực](/vi/products/), [dây chuyền sản xuất hoàn chỉnh](/vi/solutions/production-lines) và [giải pháp theo nguyên liệu](/vi/solutions/seed-oils).
 
 ## Gửi tin nhắn trực tuyến
 
@@ -54,40 +67,6 @@ Nếu bạn có câu hỏi hoặc nhu cầu, vui lòng điền vào mẫu dướ
   </form>
 </div>
 
-<style>
-.contact-form {
-  max-width: 600px;
-  margin: 0 auto;
-}
-.form-group {
-  margin-bottom: 20px;
-}
-label {
-  display: block;
-  margin-bottom: 5px;
-  font-weight: bold;
-}
-input, textarea {
-  width: 100%;
-  padding: 10px;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  color: #333;
-}
-button {
-  background-color: #1e88e5;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  font-size: 16px;
-}
-button:hover {
-  background-color: #1565c0;
-}
-</style>
-
 ## Hướng dẫn đi lại
 
 ### Lộ trình tự lái
@@ -96,7 +75,7 @@ button:hover {
 
 ### Vận chuyển công cộng
 - Tàu hỏa: Xuống tại ga Qingzhou, đi taxi khoảng 15 phút đến công ty.
-- Máy bay: Hạ cánh tại Sân bay Quốc tế Yaoqiang (Jinan) hoặc Sân bay Liuting (Qingdao), có thể đi xe buýt sân bay đến Qingzhou rồi đi taxi đến công ty.
+- Máy bay: Khách quốc tế có thể đến qua Sân bay Quốc tế Tế Nam Diêu Tường (Jinan Yaoqiang) hoặc Sân bay Quốc tế Thanh Đảo Giao Đông (Qingdao Jiaodong). Việc đón sân bay và chặng đi tiếp phụ thuộc vào lịch trình đã xác nhận; trước khi khởi hành, vui lòng xác nhận bằng văn bản sân bay đến, số hiệu chuyến bay, ngày giờ, số hành khách và phạm vi đưa đón.
 
 ::: tip Đặt lịch tham quan
 Chúng tôi hoan nghênh quý khách đến tham quan và khảo sát. Để phục vụ tốt hơn, vui lòng đặt lịch trước ít nhất 3 ngày.

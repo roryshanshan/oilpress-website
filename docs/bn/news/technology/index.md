@@ -1,6 +1,6 @@
 ---
-title: "প্রযুক্তি জ্ঞান | অয়েল প্রেস কেনার গাইড"
-description: "প্র্যাকটিক্যাল গাইড: মডেল বাছাই, হট/কোল্ড প্রেস, ইয়েল্ড উন্নতি, ফিল্টারেশন ও প্রোডাকশন লাইন লেআউট।"
+title: "অয়েল প্রেস জ্ঞানভান্ডার | নির্বাচন, প্রক্রিয়া ও রক্ষণাবেক্ষণ"
+description: "মডেল নির্বাচন, হট/কোল্ড প্রেস, প্রি-ট্রিটমেন্ট, ফলন, ফিল্টার, লাইন বিন্যাস, খরচ, সমস্যা সমাধান ও রক্ষণাবেক্ষণের গাইড দেখুন।"
 keywords: হাইড্রোলিক অয়েল প্রেস, প্রযুক্তিগত জ্ঞান, কোল্ড প্রেস, ভোজ্য তেল উৎপাদন লাইন
 ---
 
@@ -11,56 +11,56 @@ keywords: হাইড্রোলিক অয়েল প্রেস, প্
 ### হাইড্রোলিক অয়েল প্রেসের জন্য কোন তেলবীজ সবচেয়ে উপযুক্ত
 জানুন কোন তেলবীজ হাইড্রোলিক অয়েল প্রেসের জন্য সবচেয়ে উপযুক্ত এবং কীভাবে তিল, চিনাবাদাম, আখরোট, তিসি ও অন্যান্য কাঁচামালকে সঠিক হট প্রেস বা কোল্ড প্রেস সেটআপের সঙ্গে মেলাবেন।
 
-[আরও পড়ুন](./best-oilseeds-for-hydraulic-oil-press-machines)
+[আরও পড়ুন](/bn/news/technology/best-oilseeds-for-hydraulic-oil-press-machines)
 
 ### কীভাবে ছোট কোল্ড-প্রেসড তেল ব্যবসা শুরু করবেন
 ছোট কোল্ড-প্রেসড তেল ব্যবসার জন্য ব্যবহারিক গাইড, যেখানে পণ্য নির্বাচন, মেশিন কনফিগারেশন, ফিল্টারেশন, প্যাকেজিং এবং প্রাথমিক খরচ নিয়ন্ত্রণ তুলে ধরা হয়েছে।
 
-[আরও পড়ুন](./how-to-start-small-cold-pressed-oil-business)
+[আরও পড়ুন](/bn/news/technology/how-to-start-small-cold-pressed-oil-business)
 
 ### কীভাবে হাইড্রোলিক অয়েল প্রেস মডেল নির্বাচন করবেন
 কাঁচামালের লোড, ব্যাচ সাইজ, কোল্ড প্রেসের চাহিদা এবং 300 থেকে 500 সিরিজের পার্থক্য তুলনা করে সঠিক হাইড্রোলিক অয়েল প্রেস মডেল কীভাবে নির্বাচন করবেন তা জানুন।
 
-[আরও পড়ুন](./how-to-choose-hydraulic-oil-press-model)
+[আরও পড়ুন](/bn/news/technology/how-to-choose-hydraulic-oil-press-model)
 
 ### হাইড্রোলিক অয়েল প্রেস ROI গাইড
 পণ্যের মূল্য, ব্যাচ আউটপুট, শ্রম, ফিল্টারেশন, প্যাকেজিং এবং পেব্যাক পিরিয়ড দেখে হাইড্রোলিক অয়েল প্রেস ROI কীভাবে হিসাব করবেন তা জানুন।
 
-[আরও পড়ুন](./hydraulic-oil-press-roi-guide)
+[আরও পড়ুন](/bn/news/technology/hydraulic-oil-press-roi-guide)
 
 ### বিভিন্ন তেলবীজের জন্য হট প্রেস না কোল্ড প্রেস কীভাবে নির্বাচন করবেন
 কোন তেলবীজ হট প্রেস বা কোল্ড প্রেসের জন্য বেশি উপযুক্ত এবং তিল, চিনাবাদাম, চা বীজ, আখরোট, তিসি ও কুমড়োর বীজ কীভাবে প্রসেস নির্বাচনে আলাদা হয় তা দেখুন।
 
-[আরও পড়ুন](./how-to-choose-hot-press-or-cold-press-for-different-oilseeds)
+[আরও পড়ুন](/bn/news/technology/how-to-choose-hot-press-or-cold-press-for-different-oilseeds)
 
 ### ভোজ্য তেল লাইনের জন্য অয়েল ফিল্টার কীভাবে নির্বাচন করবেন
 দৈনিক ভলিউম, স্বচ্ছতার লক্ষ্য, কাঁচামালের অবশিষ্টাংশ এবং ভবিষ্যৎ এক্সপ্যানশন পরিকল্পনার ভিত্তিতে ভোজ্য তেল লাইনের জন্য সঠিক অয়েল ফিল্টার কীভাবে বেছে নেবেন তা জানুন।
 
-[আরও পড়ুন](./how-to-choose-oil-filter-for-edible-oil-line)
+[আরও পড়ুন](/bn/news/technology/how-to-choose-oil-filter-for-edible-oil-line)
 
 ## সব প্রযুক্তিগত প্রবন্ধ
 
-- [হাইড্রোলিক অয়েল প্রেসের জন্য কোন তেলবীজ সবচেয়ে উপযুক্ত: প্রিমিয়াম তেল প্রকল্পের নির্বাচন গাইড](./best-oilseeds-for-hydraulic-oil-press-machines)
-- [কীভাবে ছোট কোল্ড-প্রেসড তেল ব্যবসা শুরু করবেন: যন্ত্রপাতি, খরচ ও পণ্য পরিকল্পনা](./how-to-start-small-cold-pressed-oil-business)
-- [কীভাবে হাইড্রোলিক অয়েল প্রেস মডেল নির্বাচন করবেন: 300, 325, 355 ও 500 সিরিজ](./how-to-choose-hydraulic-oil-press-model)
-- [হাইড্রোলিক অয়েল প্রেস ROI গাইড: কীভাবে পেব্যাক ও লাভ হিসাব করবেন](./hydraulic-oil-press-roi-guide)
-- [ভোজ্য তেল উৎপাদন লাইন খরচ গাইড: কোন বিষয়গুলো যন্ত্রপাতির বাজেট পরিবর্তন করে?](./edible-oil-production-line-cost-guide)
-- [একটি হাইড্রোলিক অয়েল প্রেস দিনে কত ব্যাচ চালাতে পারে?](./how-many-batches-can-hydraulic-oil-press-run-per-day)
-- [বিভিন্ন তেলবীজের জন্য হট প্রেস না কোল্ড প্রেস কীভাবে নির্বাচন করবেন](./how-to-choose-hot-press-or-cold-press-for-different-oilseeds)
-- [ভোজ্য তেল লাইনের জন্য অয়েল ফিল্টার কীভাবে নির্বাচন করবেন](./how-to-choose-oil-filter-for-edible-oil-line)
-- [হাইড্রোলিক অয়েল প্রেস ট্রাবলশুটিং গাইড: সাধারণ সমস্যা ও বাস্তব পরীক্ষা](./hydraulic-oil-press-troubleshooting-guide)
-- [হাইড্রোলিক অয়েল প্রেস মেইনটেন্যান্স চেকলিস্ট: দৈনিক, সাপ্তাহিক ও মাসিক পরীক্ষা](./hydraulic-oil-press-maintenance-checklist)
-- [অয়েল প্রেস মেশিন কেনার সময় সাধারণ ভুল: এড়াতে হবে যে 5টি ক্রেতা ভুল](./common-mistakes-when-buying-oil-press-machine)
-- [প্রেসের পর ভোজ্য তেল কীভাবে ফিল্টার ও প্যাকেজ করবেন: বাস্তব পোস্ট-প্রসেসিং গাইড](./how-to-filter-and-package-edible-oil-after-pressing)
-- [তিলের তেল উৎপাদন লাইন গাইড: হট প্রেস, কোল্ড প্রেস ও যন্ত্রপাতি কনফিগারেশন](./sesame-oil-production-line-guide)
-- [আখরোট তেলের কোল্ড প্রেস গাইড: প্রক্রিয়া, মেশিন নির্বাচন ও প্যাকেজিং টিপস](./walnut-oil-cold-press-guide)
-- [চিনাবাদাম তেল প্রসেসিং লাইন গাইড: হট প্রেস, কোল্ড প্রেস ও লাইন কনফিগারেশন](./peanut-oil-processing-line-guide)
-- [চা বীজ তেল প্রক্রিয়াকরণ গাইড: হট প্রেস, কোল্ড প্রেস ও যন্ত্রপাতি কনফিগারেশন](./tea-seed-oil-processing-guide)
-- [তিসি তেলের কোল্ড প্রেস গাইড: প্রক্রিয়া, মেশিন নির্বাচন ও মান নিয়ন্ত্রণ](./flaxseed-oil-cold-press-guide)
-- [রেপসিড তেল প্রক্রিয়াকরণ গাইড: প্রেসিং প্রক্রিয়া, ইয়েল্ড ও লাইন কনফিগারেশন](./rapeseed-oil-processing-guide)
-- [কুমড়োর বীজ তেলের কোল্ড প্রেস গাইড: প্রিমিয়াম তেল প্রক্রিয়া ও উপযুক্ত যন্ত্রপাতি](./pumpkin-seed-oil-cold-press-guide)
-- [আঙুর বীজ তেল প্রক্রিয়াকরণ গাইড: কোল্ড প্রেস প্রক্রিয়া ও উৎপাদন টিপস](./grape-seed-oil-processing-guide)
-- [হাইড্রোলিক অয়েল প্রেস বনাম স্ক্রু প্রেস](./hydraulic-vs-screw-press)
-- [কোল্ড প্রেস বনাম হট প্রেস গাইড](./cold-press-vs-hot-press)
-- [কীভাবে অয়েল ইয়েল্ড বাড়ানো যায়](./improve-oil-yield)
-- [বিভিন্ন অয়েল ক্রপের সর্বোত্তম অয়েল প্রেস প্রক্রিয়া](./oil-crops-process)
+- [হাইড্রোলিক অয়েল প্রেসের জন্য কোন তেলবীজ সবচেয়ে উপযুক্ত: প্রিমিয়াম তেল প্রকল্পের নির্বাচন গাইড](/bn/news/technology/best-oilseeds-for-hydraulic-oil-press-machines)
+- [কীভাবে ছোট কোল্ড-প্রেসড তেল ব্যবসা শুরু করবেন: যন্ত্রপাতি, খরচ ও পণ্য পরিকল্পনা](/bn/news/technology/how-to-start-small-cold-pressed-oil-business)
+- [কীভাবে হাইড্রোলিক অয়েল প্রেস মডেল নির্বাচন করবেন: 300, 325, 355 ও 500 সিরিজ](/bn/news/technology/how-to-choose-hydraulic-oil-press-model)
+- [হাইড্রোলিক অয়েল প্রেস ROI গাইড: কীভাবে পেব্যাক ও লাভ হিসাব করবেন](/bn/news/technology/hydraulic-oil-press-roi-guide)
+- [ভোজ্য তেল উৎপাদন লাইন খরচ গাইড: কোন বিষয়গুলো যন্ত্রপাতির বাজেট পরিবর্তন করে?](/bn/news/technology/edible-oil-production-line-cost-guide)
+- [একটি হাইড্রোলিক অয়েল প্রেস দিনে কত ব্যাচ চালাতে পারে?](/bn/news/technology/how-many-batches-can-hydraulic-oil-press-run-per-day)
+- [বিভিন্ন তেলবীজের জন্য হট প্রেস না কোল্ড প্রেস কীভাবে নির্বাচন করবেন](/bn/news/technology/how-to-choose-hot-press-or-cold-press-for-different-oilseeds)
+- [ভোজ্য তেল লাইনের জন্য অয়েল ফিল্টার কীভাবে নির্বাচন করবেন](/bn/news/technology/how-to-choose-oil-filter-for-edible-oil-line)
+- [হাইড্রোলিক অয়েল প্রেস ট্রাবলশুটিং গাইড: সাধারণ সমস্যা ও বাস্তব পরীক্ষা](/bn/news/technology/hydraulic-oil-press-troubleshooting-guide)
+- [হাইড্রোলিক অয়েল প্রেস মেইনটেন্যান্স চেকলিস্ট: দৈনিক, সাপ্তাহিক ও মাসিক পরীক্ষা](/bn/news/technology/hydraulic-oil-press-maintenance-checklist)
+- [অয়েল প্রেস মেশিন কেনার সময় সাধারণ ভুল: এড়াতে হবে যে 5টি ক্রেতা ভুল](/bn/news/technology/common-mistakes-when-buying-oil-press-machine)
+- [প্রেসের পর ভোজ্য তেল কীভাবে ফিল্টার ও প্যাকেজ করবেন: বাস্তব পোস্ট-প্রসেসিং গাইড](/bn/news/technology/how-to-filter-and-package-edible-oil-after-pressing)
+- [তিলের তেল উৎপাদন লাইন গাইড: হট প্রেস, কোল্ড প্রেস ও যন্ত্রপাতি কনফিগারেশন](/bn/news/technology/sesame-oil-production-line-guide)
+- [আখরোট তেলের কোল্ড প্রেস গাইড: প্রক্রিয়া, মেশিন নির্বাচন ও প্যাকেজিং টিপস](/bn/news/technology/walnut-oil-cold-press-guide)
+- [চিনাবাদাম তেল প্রসেসিং লাইন গাইড: হট প্রেস, কোল্ড প্রেস ও লাইন কনফিগারেশন](/bn/news/technology/peanut-oil-processing-line-guide)
+- [চা বীজ তেল প্রক্রিয়াকরণ গাইড: হট প্রেস, কোল্ড প্রেস ও যন্ত্রপাতি কনফিগারেশন](/bn/news/technology/tea-seed-oil-processing-guide)
+- [তিসি তেলের কোল্ড প্রেস গাইড: প্রক্রিয়া, মেশিন নির্বাচন ও মান নিয়ন্ত্রণ](/bn/news/technology/flaxseed-oil-cold-press-guide)
+- [রেপসিড তেল প্রক্রিয়াকরণ গাইড: প্রেসিং প্রক্রিয়া, ইয়েল্ড ও লাইন কনফিগারেশন](/bn/news/technology/rapeseed-oil-processing-guide)
+- [কুমড়োর বীজ তেলের কোল্ড প্রেস গাইড: প্রিমিয়াম তেল প্রক্রিয়া ও উপযুক্ত যন্ত্রপাতি](/bn/news/technology/pumpkin-seed-oil-cold-press-guide)
+- [আঙুর বীজ তেল প্রক্রিয়াকরণ গাইড: কোল্ড প্রেস প্রক্রিয়া ও উৎপাদন টিপস](/bn/news/technology/grape-seed-oil-processing-guide)
+- [হাইড্রোলিক অয়েল প্রেস বনাম স্ক্রু প্রেস](/bn/news/technology/hydraulic-vs-screw-press)
+- [কোল্ড প্রেস বনাম হট প্রেস গাইড](/bn/news/technology/cold-press-vs-hot-press)
+- [কীভাবে অয়েল ইয়েল্ড বাড়ানো যায়](/bn/news/technology/improve-oil-yield)
+- [বিভিন্ন অয়েল ক্রপের সর্বোত্তম অয়েল প্রেস প্রক্রিয়া](/bn/news/technology/oil-crops-process)

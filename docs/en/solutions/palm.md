@@ -1,134 +1,73 @@
 ---
-title: "Palm (Palm Oil) Solution | Equipment List & Factory Quote"
-description: Get a turnkey plan for Palm (Palm Oil) Solution, including process design, equipment list, factory quote, procurement support, and after-sales service.
+title: "Palm Pulp and Kernel Oil Line | Equipment Quote"
+description: "Crush and steam-condition palm pulp or kernels before pressing; verify feed type, moisture, filtered oil, cake handling, equipment list, and quote scope."
 keywords: Palm (Palm Oil) Solution quote, Palm (Palm Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
 image: "/images/hot-pressing-process-of-palm-pulp-palm-kernel-7153ac8a85.webp"
 ---
-# Palm (Palm Oil) Solution
+# Palm Fruit and Palm Kernel Oil Lines
 
-## Overview
+Palm oil from fresh fruit pulp and palm kernel oil from the kernel inside the nut are produced on separate lines. A quotation must identify fresh fruit bunches, loose fruit, recovered palm nuts, or clean palm kernels before any equipment is selected.
 
-Palm is an important oil crop, palm oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional palm pressing solutions, from small workshops to large factories with complete equipment and services.
+![Palm pulp and palm kernel material reference](/images/hot-pressing-process-of-palm-pulp-palm-kernel-7153ac8a85.webp)
 
-## Palm Characteristics
+## Raw Material Boundary
 
-### 📊 Basic Parameters
-- **Oil Content**: 45-55%
-- **Protein Content**: 2-3%
-- **Main Fatty Acids**: Palmitic acid (40-45%), Oleic acid (35-40%), Linoleic acid (8-12%)
-- **Suitable Temperature**: Pressing temperature controlled at 80-100℃
+**Fresh fruit route:** fresh fruit bunches or loose fruits, with harvest-to-mill time, ripeness, contamination, and daily arrival profile recorded.
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 2-3 years
-- **Suitable Climate**: Tropical, rainforest areas
-- **Soil Requirements**: Fertile, humid soil
-- **Annual Production**: Global annual production exceeds 70 million tons
+**Palm kernel route:** recovered nuts or separated kernels, with shell fraction, moisture, broken-kernel fraction, and storage condition recorded.
 
-## Processing Technology
+Fresh palm fruit is not dry oilseed feed. Palm kernels are not the same as palm pulp and must not be included in the fresh-fruit press balance.
 
-Palm pulp + Palm kernel (Palm oil) processing technology (Recommended 300AC-390/325AC-390/355AC-390/400AC-390)
- + Step 1: High-speed crushing
- + Step 2: Steaming
- + Step 3: Pressing
-![Palm Oil](/images/hot-pressing-process-of-palm-pulp-palm-kernel-7153ac8a85.webp)
+## Correct Pretreatment
 
-Note:
- + Palm fruit - Red oil   
- + Palm kernel - Black oil
+### Fresh Palm Fruit
 
-## Technical Advantages
+1. Receive and weigh fresh fruit bunches promptly.
+2. Sterilize the bunches with a controlled steam cycle.
+3. Thresh or strip the fruits from the bunches.
+4. Digest and mash the fruit pulp.
+5. Feed the prepared pulp to a dedicated palm-oil screw press.
 
-### 🎯 Precise Control
-- Temperature control: ±2℃ precision
-- Pressure control: Intelligent adjustment
-- Humidity control: Optimal moisture content
+### Palm Kernels
 
-### 💧 Oil Quality Guarantee
-- Low-temperature process preserves nutrition
-- Physical pressing without chemical residues
-- Oil yield up to 48-52%
+1. Recover and dry the nuts.
+2. Crack the nuts and separate shells from kernels.
+3. Clean, dry, and size the kernels.
+4. Condition the kernels for the selected pressing route.
 
-### 🔄 Continuous Production
-- 24-hour uninterrupted operation
-- Automated feeding and discharging
-- Intelligent fault alarm
+## Dedicated Pressing Route
 
-## Product Applications
+The fresh-fruit route is:
 
-### 🍳 Edible Oil
-- Palm oil: Main edible oil variety
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+**sterilization -> threshing -> digestion -> dedicated screw pressing -> screening and clarification -> oil purification and drying -> crude palm oil storage**
 
-### 🏭 Industrial Oil
-- Palm oil: Base oil raw material
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+A standard 300-500 Series hydraulic oil press is not used for fresh palm fruit. The line also needs separate handling for empty bunches, fiber, nuts, condensate, sludge, and effluent.
 
-### 🏭 Biodiesel
-- Palm oil: Biodiesel raw material
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+Palm kernels use a separate kernel-crushing line with shell separation, conditioning, mechanical pressing, and filtration. Kernel equipment is selected from a representative kernel trial and the required continuous capacity.
 
-### 🏭 Chemical Raw Materials
-- Palm oil: Chemical raw material
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+### Equipment Entry Points
 
-## Market Analysis
+- [Complete oil production lines](/en/solutions/production-lines)
+- [Pretreatment equipment](/en/products/pre-treatment)
+- [Post-treatment equipment](/en/products/post-treatment)
+- [Refining and dewaxing equipment](/en/products/refining-and-dewaxing-equipment)
+- [Filling equipment](/en/products/filling-equipment)
 
-### 📈 Development Trends
-- Growing demand for food processing, biofuels, and chemical raw materials
-- Expanding high-end palm oil market
-- Increasing export trade opportunities
+## Clarification, Filtration, and Finished-Oil Target
 
-### 🎯 Target Markets
-- Edible oil processing enterprises
-- Food processing enterprises
-- Biodiesel production enterprises
-- Chemical raw material enterprises
+For crude palm oil, define the sampling point after clarification and drying, visible solids, water and moisture criteria, storage temperature control, tank scope, and whether refining is included. For palm kernel oil, define crude solids removal, filtration grade, moisture, storage, and downstream refining separately.
 
-## Quality Standards
+## Data Required for a Quotation
 
-### 🏆 Product Quality Standards
-- Complies with national palm oil standards
-- Complies with food safety standards
-- Complies with export food standards
-- Complies with organic food certification
+- Fresh fruit bunches, loose fruit, palm nuts, or kernels; photos, representative sample where practical, and available quality data
+- Fresh-fruit throughput by hour or day, arrival pattern, season, and harvest-to-mill time; or dry-kernel throughput and shell fraction
+- Crude palm oil or refined oil target, kernel recovery scope, and all by-product boundaries
+- Steam, water, power, fuel, tanks, wastewater and sludge plan, and available factory area
+- Destination, local installation conditions, requested automation, and delivery terms
 
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color and transparency testing
-- Heavy metal content testing
-- Pesticide residue testing
+## Acceptance Records
 
-## Sustainable Development
-
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
-
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
-
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
-
-## Contact Us
-
-If you are interested in palm pressing solutions, please contact our technical team:
-
-- 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
-
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable palm pressing solution.
+For fresh fruit, record receiving time and weight, sterilization cycle, threshing result, digester and screw-press load, and the agreed mass balance for oil, fiber, nuts, empty bunches, condensate, sludge, and effluent. At clarification and drying, sample and record solids, water, and moisture using the agreed method. For a kernel line, record shell separation, kernel moisture, feed rate, oil, cake, filtration result, and product sampling independently.
 
 ## Related Links
 
@@ -136,14 +75,14 @@ We provide free technical consultation, sample testing, and on-site inspection s
 - [Special Oil Solutions](/en/solutions/special-oils)
 - [Corn Germ Solutions](/en/solutions/corn-germ)
 - [Rapeseed Solutions](/en/solutions/rapeseed)
-- [500 Series Hydraulic Oil Press](/en/products/500)
+- [500 Series Hydraulic Oil Press - not for fresh palm fruit](/en/products/500)
 - [Contact Technical Team](/en/contact/)
-- [中文页面](/zh/solutions/palm)
+- [Chinese page](/zh/solutions/palm)
 
-## Get Price & Quote
+## Request a Configuration and Quote
 
-Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+Send the exact palm feed type, fresh-fruit or kernel capacity basis, product scope, steam and water conditions, by-product plan, factory layout, and destination. The quotation will separate the fresh-fruit and palm-kernel lines.
 
-- [Get Price & Quote](/en/contact/)
+- [Request a dedicated palm oil line quote](/en/contact/)
 
 <!-- quote-cta -->

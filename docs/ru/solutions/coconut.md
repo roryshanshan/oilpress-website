@@ -1,142 +1,77 @@
 ---
-title: Coconut (Coconut Oil) Solution - Shengshi Hecheng цена | компл...
-description: "Запросите стоимость решения Coconut (Coconut Oil) Solution - Shengshi Hecheng: проект линии, список оборудования и сервис."
-keywords: Coconut (Coconut Oil) Solution цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
+title: "Кокосовое масло: линия отжима, цена и КП"
+description: "Линия кокосового масла для копры или подготовленной мякоти: сушка, дробление, холодный отжим и фильтрация. Сверьте оборудование, цену, КП и сервис."
+keywords: пресс для кокосового масла, оборудование для копры, линия переработки кокоса, холодный отжим, цена, купить, производитель, сервис
 image: "/images/coconut-puree-e2083a9300.webp"
 ---
-# Coconut (Coconut Oil) Solution
 
-## Overview
+# Линия производства кокосового масла
 
-Coconut is an important oil crop, coconut oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional coconut pressing solutions, from small workshops to large factories with complete equipment and services.
+Сухая копра, контролируемо высушенная мякоть, свежая мякоть, кокосовое молоко и вода требуют разного оборудования. В запросе на гидравлическое прессование указывают подготовленное твёрдое сырьё: молоко, сок и высоковлажное пюре не загружают непосредственно в стандартную корзину пресса.
 
-## Coconut Characteristics
+![Кокосовое сырьё для выбора маршрута](/images/coconut-puree-e2083a9300.webp)
 
-### 📊 Basic Parameters
-- **Oil Content**: 60-70%
-- **Protein Content**: 3-4%
-- **Main Fatty Acids**: Lauric acid (45-50%), Myristic acid (15-20%), Palmitic acid (8-10%)
-- **Suitable Temperature**: Room temperature pressing
+## Граница сырья
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 5-6 years
-- **Suitable Climate**: Tropical, coastal areas
-- **Soil Requirements**: Sandy, well-drained soil
-- **Annual Production**: Global annual production exceeds 6,000 million tons
+Для прессовой линии определите чистую копру или мякоть, которую будут сушить до устойчивого состояния. Нужны влажность, доля плесени или подгоревших кусков, история хранения и доступные данные по свободным жирным кислотам. Для влажного способа получения virgin coconut oil отдельно задают извлечение молока и разделение масла с водой.
 
-## Processing Technology
+## Рекомендуемая подготовка
 
-+  Coconut Oil (Recommended 300AC-390/325AC-390/355AC-390/400AC-390)
-     + Cold pressing process: The crushed coconut pulp is directly fed into the hydraulic oil press bucket for pressing
-     +  ![Coconut Oil](/images/coconut-puree-e2083a9300.webp)
-## Coconut juice/coconut milk/coconut puree hydraulic oil press video reference
+### Копра или контролируемо высушенная мякоть
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/O17xVfT6-Sg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+1. Удалить заплесневелые, подгоревшие и загрязнённые куски.
+2. Измерить влажность и нарезать сырьё до равномерного размера.
+3. Измельчить или расплющить материал для повторяемой загрузки.
+4. При необходимости сравнить низкотемпературную и мягко кондиционированную пробу.
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/D8R1iUMUihk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+### Свежая мякоть или мокрый маршрут
 
-## Customized Coconut Meat/Coconut Puree/Coconut Milk/Coconut Juice Hydraulic Oil Press
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/8ZQjPdvZ6DE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+1. Снять скорлупу и коричневую кожицу согласно спецификации продукта.
+2. Вымыть и измельчить мякоть в санитарных условиях.
+3. Либо обезводить и высушить её при контролируемой низкой температуре, либо извлечь молоко для специализированной сепарации.
+4. Не подавать кокосовую воду, молоко или очень влажное пюре в стандартный гидравлический пресс.
 
-## Technical Advantages
+## Прессование или мокрое разделение
 
-### 🎯 Precise Control
-- Temperature control: ±2℃ precision
-- Pressure control: Intelligent adjustment
-- Humidity control: Optimal moisture content
+Подготовленную копру и сухую мякоть испытывают в пакетном прессе. Мокрый способ включает получение пульпы или молока и последующее разделение сливок, воды и твёрдой фазы. Эти маршруты имеют разные ёмкости, мойку, материальный баланс и критерии готового масла.
 
-### 💧 Oil Quality Guarantee
-- Low-temperature process preserves nutrition
-- Physical pressing without chemical residues
-- Oil yield up to 62-68%
+### Оборудование для комплектации
 
-### 🔄 Continuous Production
-- 24-hour uninterrupted operation
-- Automated feeding and discharging
-- Intelligent fault alarm
+- [Оборудование предварительной подготовки](/ru/products/pre-treatment)
+- [Раздел фильтрации](/ru/solutions/filtering/)
+- Модели для испытаний сухого сырья: [355](/ru/products/355), [400](/ru/products/400), [426](/ru/products/426), [480](/ru/products/480) и [500](/ru/products/500)
+- [Комплектные линии производства масла](/ru/solutions/production-lines)
 
-## Product Applications
+## Фильтрация и требования к маслу
 
-### 🍳 Edible Oil
-- Coconut oil: Main edible oil variety
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+Для прессованного масла задают видимую воду, осадок, прозрачность, аромат и дальнейшую рафинацию. Температура фильтрации и резервуаров должна учитывать затвердевание кокосового масла в местных условиях. Для мокрого продукта определяют конечную точку разделения масла и воды и проверку свободной воды до хранения.
 
-### 💄 Beauty and Skincare
-- Coconut oil: Natural skincare oil
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+## Данные для расчёта и коммерческого предложения
 
-### 🏭 Industrial Oil
-- Coconut oil: Base oil raw material
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
+- Образец копры, свежей мякоти, пюре или молока; влажность, плесень или подгоревшая фракция, срок хранения и анализ качества
+- База производительности: целые кокосы, свежая мякоть, сухая копра или молоко; рабочие часы
+- Прессование сухого сырья или мокрое разделение и требуемый кокосовый аромат
+- Сушка, измельчение, сепарация, фильтрация, обогреваемые ёмкости или трубопроводы и упаковка
+- Тепло, электричество, вода, стоки, температура помещения, площадь, пункт назначения и условия поставки
 
-## Market Analysis
+## Протокол испытания и приёмки
 
-### 📈 Development Trends
-- Growing demand for healthy edible oils, beauty products, and food processing
-- Expanding high-end coconut oil market
-- Increasing export trade opportunities
+В протоколе указывают базу входа, отбракованную массу, влажность перед прессованием или разделением молока, размер нарезки или помола, загрузку либо настройки сепаратора, температуру, сырое масло, отделённую воду и твёрдые частицы, фильтрованное масло и жмых. Проверяют воду, осадок, прозрачность, аромат, прохождение фильтра при согласованной температуре, остаток продукта и очистку всех контактных поверхностей.
 
-### 🎯 Target Markets
-- Edible oil processing enterprises
-- Food processing enterprises
-- Beauty and skincare enterprises
-- Export trade enterprises
+## Связанные страницы
 
-## Quality Standards
+- [Обзор решений](/ru/solutions/)
+- [Решения для орехового сырья](/ru/solutions/nuts)
+- [Масло грецкого ореха](/ru/solutions/walnut)
+- [Масло семян камелии](/ru/solutions/tea-seed)
+- [Пресс серии 426](/ru/products/426)
+- [Связаться с техническим отделом](/ru/contact/)
+- [Страница на китайском языке](/zh/solutions/coconut)
 
-### 🏆 Product Quality Standards
-- Complies with national coconut oil standards
-- Complies with food safety standards
-- Complies with export food standards
-- Complies with organic food certification
+## Запросить конфигурацию и цену
 
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color and transparency testing
-- Heavy metal content testing
-- Pesticide residue testing
+Отправьте точное состояние кокосового сырья, базу объёма, сухой или мокрый маршрут, требования к маслу, коммуникации, температуру площадки и пункт назначения.
 
-## Sustainable Development
-
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
-
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
-
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
-
-## Contact Us
-
-If you are interested in coconut pressing solutions, please contact our technical team:
-
-- 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
-
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable coconut pressing solution.
-
-## Запросить цену и расчёт
-
-Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
-
-- [Запросить цену и расчёт](/ru/contact/)
+- [Запросить расчёт линии кокосового масла](/ru/contact/)
 
 <!-- quote-cta -->

@@ -1,80 +1,64 @@
 ---
-title: Giải pháp hồ đào (Dầu hồ đào) báo giá | giải pháp trọn gói
-description: "Giải pháp trọn gói Giải pháp hồ đào (Dầu hồ đào): quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
-keywords: Giải pháp hồ đào (Dầu hồ đào) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+title: "Ép lạnh dầu hạt dẻ cười | Thiết bị và báo giá"
+description: "Tách vỏ, sấy và nghiền hạt dẻ cười trước ép lạnh; chọn máy nghiền, ép, lọc và bồn. Kiểm tra nhiệt độ, hương, công suất mẻ và vật liệu tiếp xúc."
+keywords: "Hạt dẻ cười (dầu pistachio) báo giá, máy ép dầu, quy trình sản xuất, mua từ nhà máy, thiết bị phụ trợ, hậu mãi"
 ---
-# Giải pháp hồ đào (Dầu hồ đào)
+# Giải pháp Hạt dẻ cười (dầu pistachio)
 
-## Tổng quan
+Hạt dẻ cười phải được tách vỏ, phân loại nhân sống, loại phần hỏng và cân bằng độ ẩm trước khi nghiền. Ép lạnh phù hợp với dầu thực phẩm hoặc mỹ phẩm giá trị cao; rang nhẹ chỉ nên dùng khi thị trường yêu cầu hương rõ và mẫu thử vẫn đạt màu, mùi mục tiêu. Dầu sau ép cần lắng, lọc tinh và đóng trong bao bì hạn chế ánh sáng, oxy để bảo vệ giá trị nguyên liệu.
 
-Hạt hồ đào là một loại hạt dinh dưỡng, giàu dầu chất lượng cao có thể chiết xuất thành dầu giá trị cao. Dầu hồ đào có hương vị đặc trưng và giá trị dinh dưỡng, được ứng dụng trong dầu ăn cao cấp và chế biến thực phẩm. Công ty TNHH Shengshi Hecheng Sơn Đông cung cấp giải pháp ép hồ đào chuyên nghiệp, đáp ứng nhu cầu sản xuất ở nhiều quy mô。
+## Dữ liệu chọn quy trình
 
-## 开心果特性
+| Hạng mục | Khuyến nghị |
+| --- | --- |
+| Hàm lượng dầu tham khảo | Khoảng 45-55% |
+| Tuyến công nghệ ưu tiên | Ép lạnh cho sản phẩm cao cấp |
+| Model hoặc hướng thiết bị | 355 / 400 |
+| Cách chốt công suất | Dựa trên thử mẫu, số mẻ, thời gian chu kỳ và chất lượng dầu |
 
-### 📊 基本参数
-- **含油率**: 50-60%
-- **蛋白质含量**: 15-20%
-- **主要脂肪酸**: 油酸（50-60%）、亚油酸（25-35%）
-- **适宜温度**: 压榨温度控制在75-95℃
+> Giá nguyên liệu cao nên cần xác định thị trường dầu thực phẩm hoặc mỹ phẩm trước khi tính công suất.
 
-### 🌱 生长特性
-- **生长周期**: 树木生长周期长，果实成熟需多年
-- **适宜气候**: 干旱、温暖气候
-- **土壤要求**: 排水良好、碱性土壤
-- **年产量**: 全球开心果产量约100万吨
+## Quy trình khuyến nghị
 
-## 加工工艺
+1. Tách vỏ và phân loại nhân
+2. Làm sạch và kiểm soát độ ẩm
+3. Nghiền nhỏ
+4. Ép thủy lực ở nhiệt độ thấp
+5. Lọc tinh và đóng chai
 
-### 传统工艺流程
-待补
+## Máy ép và thiết bị chính
 
-## Tiêu chuẩn chất lượng
+- [Dòng 355](/vi/products/355)
+- [Dòng 400](/vi/products/400)
+- [Thiết bị tiền xử lý](/vi/products/pre-treatment)
+- [Thiết bị lọc và hậu xử lý](/vi/products/post-treatment)
+- [Thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
 
-### 🏆 产品质量标准
-- 符合国家食用油标准
-- 符合食品安全标准
-- 符合出口食品标准
-- 符合有机食品认证
+## Dữ liệu cần cho báo giá
 
-### 🔍 Các hạng mục kiểm tra
-- 酸价检测
-- 过氧化值检测
-- 色泽透明度检测
-- 重金属含量检测
-- 黄曲霉毒素检测
-- 农药残留检测
+- Mẫu hạt nguyên vỏ hay nhân sống, tỷ lệ nhân/vỏ, độ ẩm, nhân vỡ/hỏng, mùi ôi và cách bảo quản
+- Khối lượng nhân cần ép mỗi mẻ/ngày, số ca và giá trị/lô nguyên liệu cần truy xuất
+- Mục tiêu ép lạnh hay rang nhẹ, mục đích thực phẩm/mỹ phẩm và nhiệt độ dầu cần theo dõi
+- Mức cặn, độ trong, màu, hương, vật liệu bồn và kích thước bao bì bán lẻ
+- Điện áp, diện tích tách vỏ - nghiền - ép - lọc, yêu cầu vệ sinh và điểm giao hàng
 
-## 可持续发展
+Hiệu suất thực tế phụ thuộc giống, độ ẩm, mức nghiền, nhiệt độ và thời gian ép. Không nên dùng một con số sản lượng cố định thay cho thử nghiệm nguyên liệu.
 
-### 🌱 环保生产
-- 废弃物循环利用
-- 节能减排工艺
-- 绿色生产标准
+## Kiểm tra nghiệm thu
 
-### 🔄 资源利用
-- 副产品综合利用
-- 产业链延伸
-- 循环经济模式
+Nghiệm thu bằng lô nhân dẻ cười đã nhận diện, ghi tỷ lệ vỏ sót, độ ẩm, cỡ nghiền, khối lượng nạp, nhiệt độ dầu và thời gian mỗi mẻ. Sau lắng/lọc, đối chiếu màu, hương, độ trong, dấu hiệu khét/ôi, lượng nguyên liệu giữ lại trong máy, khả năng thu hồi nguyên liệu và vệ sinh giữa các lô giá trị cao.
 
-### 🌍 社会责任
-- 支持农民增收
-- 保障食品安全
-- 保护生态环境
+## Trang liên quan
 
-## 联系我们
+- [Tổng quan giải pháp](/vi/solutions/)
+- [Dây chuyền sản xuất dầu hoàn chỉnh](/vi/solutions/production-lines)
+- [Tất cả model máy ép dầu thủy lực](/vi/products/)
+- [Hướng dẫn mua hàng và kỹ thuật](/vi/news/technology/)
 
-如果您对开心果压榨解决方案感兴趣，请联系我们的技术团队：
+## Nhận giá và cấu hình
 
-- 📞 **咨询热线**: +86 19906365856
-- 📧 **邮箱**: gavin@oil-pressing-machine.com
-- 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
+Gửi nguyên liệu, công suất, chất lượng dầu mục tiêu và điểm đến để nhận cấu hình cùng báo giá nhà máy.
 
-我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的开心果压榨解决方案。
-
-## Nhận giá & báo giá
-
-Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
-
-- [Nhận giá & báo giá](/vi/contact/)
+- [Yêu cầu báo giá](/vi/contact/)
 
 <!-- quote-cta -->

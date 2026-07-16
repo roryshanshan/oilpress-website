@@ -1,162 +1,48 @@
 ---
-title: "Équipements auxiliaires | Prix usine et devis"
-description: "Demandez le prix usine pour Équipements auxiliaires. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
-keywords: Équipements auxiliaires prix, acheter Équipements auxiliaires, devis usine, fabricant chinois, exportation, service après-vente
+title: "Équipements auxiliaires pour huilerie | Prix usine et devis"
+description: "Comparez préparation, tourteau, filtration, raffinage et remplissage pour un devis usine avec capacités, fourniture, SAV et réception FAT/SAT."
+keywords: équipements auxiliaires huilerie prix, équipement presse à huile devis, ligne huile alimentaire fabricant, machines prétraitement, filtration huile, service après-vente
 ---
-# Équipements auxiliaires
+# Équipements auxiliaires pour presses à huile
 
-## Équipements de prétraitement
+Cette page sert de carte d'achat, pas de lot standard. Les équipements doivent être associés à la matière première, au modèle de presse, au cycle complet, au stade d'huile fini, aux utilités et au plan de l'atelier.
 
-### Machine de tamisage du sésame
-- Matières : sésame, colza, lin, périlla, millet et autres petites graines
-- Fonction : tamisage à sec, aspiration des poussières et sorties séparées par fraction
-- Structures : fermée, ouverte à tamis fixe et ouverte à tamis amovible
-- Tension : certaines configurations des modèles 60/80 sont disponibles en 220 ou 380 V
+## 1. Préparation de la matière première
 
-[Voir les spécifications détaillées](/fr/products/sesame-screening-machine)
+- [Machine de tamisage du sésame](/fr/products/sesame-screening-machine) : tamisage à sec et aspiration pour le sésame et d'autres petites graines; valider les mailles et les fractions de sortie sur un échantillon.
+- [Broyeur rapide de 11 kW](/fr/products/11kw-high-speed-pulverizer) : préparation granulométrique de matières dures compatibles; vérifier dureté, fraction cible, échauffement et nettoyage.
+- [Cuiseur électrique de 27 kW](/fr/products/27kw-electric-steamer) et [cuiseur à bois](/fr/products/wood-fired-steamer) : conditionnement thermique selon une recette de pressage à chaud définie; confirmer charge, énergie et mesure de température.
+- [Torréfacteur automatique à tambour](/fr/products/automatic-drum-roaster), [poêle électrique à fond plat](/fr/products/heat-conducting-oil-flat-bottom-frying-pan) et [poêle à bois à huile thermique](/fr/products/wood-fired-thermal-oil-flat-bottom-wok) : comparer transfert thermique, agitation, vidange et réglages avec la matière de l'acheteur.
+- [Machine intégrée d'alimentation, broyage et cuisson](/fr/products/feeding-crushing-frying-integrated-machine) et [unité intégrée pour chanvre et lin](/fr/products/Hemp-and-flaxseed-grinding-and-stirring-integrated-machine) : les retenir seulement si l'implantation, le nettoyage et les changements de matière conviennent au projet.
+- [Machine de pré-pressage](/fr/products/pre-press-machine) : module distinct pour certaines matières et certains procédés, et non accessoire obligatoire de chaque presse hydraulique.
 
-### Broyeur à haute vitesse 11Kw
-- Puissance : 11KW
-- Vitesse : 1460tr/min
-- Capacité de traitement : 750kg/h
-- Maille tamis : 60-120 mesh optionnel
-- Structure avec volant
-- Peut broyer des matériaux durs comme les graines de camélia, les fruits de vitex, l'avocat
+Pour définir le procédé, consultez le [guide d'achat du prétraitement](/fr/products/pre-treatment).
 
-[Voir les spécifications détaillées](/fr/products/11kw-high-speed-pulverizer)
+## 2. Pressage et manutention
 
-### Cuiseur électrique 27kW (modèle amélioré)
-- Puissance totale : 27kW
-- Puissance de chauffage : 9/18/27kW
-- Capacité maximale : 100Kg
-- Design de séparation eau-électricité
-- Matériau : acier inoxydable 304
-- Peut cuire le matériau en 7-10 minutes
+Choisissez le [modèle de presse hydraulique](/fr/products/) après avoir défini préparation, charge par lot, durée du cycle complet et configuration du cylindre. Convoyeurs, élévateurs et trémies tampons doivent être dimensionnés sur l'opération la plus lente et rester accessibles pour inspection, nettoyage et changement de produit.
 
-[Voir les spécifications détaillées](/fr/products/27kw-electric-steamer)
+Le traitement du tourteau peut inclure le [broyeur de tourteau](/fr/products/cake-pulverizer) ou la [machine d'enveloppement du tourteau](/fr/products/cake-wrapping-machine). Avant le devis, préciser dimensions, température, usage prévu, maîtrise des poussières et conditionnement aval.
 
-### Cuiseur à bois
-- Carburant : charbon/bois/gaz
-- Matériau de casserole : acier inoxydable 304
-- Capacité de casserole : environ 100KG/100L
-- Matériau de four : acier au carbone Q355B
-- Design de réservoir intégré
+## 3. Clarification, raffinage et stockage
 
-### Poêle plate électrique à huile thermique
-- Puissance totale : 27+1.1kW
-- Diamètre intérieur de casserole : 1000mm
-- Profondeur de casserole : 360-380mm
-- Puissance moteur : 1.1kW
-- Méthode de chauffage : huile thermique
-- Couche d'isolation en laine de roche
+- [Filtre-presse pneumatique](/fr/products/pneumatic-filter-press) : choisir surface et plateaux selon les solides, la viscosité, la température et le volume par lot.
+- [Équipements de filtration](/fr/products/filtration-equipment) : distinguer décantation, filtration grossière et clarification fine.
+- [Équipements de raffinage d'huile alimentaire](/fr/products/edible-oil-refining-equipment) : définir les modules à partir des analyses d'huile brute et du cahier des charges du produit.
+- [Raffinage et déparaffinage](/fr/products/refining-and-dewaxing-equipment) : confirmer puissance frigorifique, temps de maturation, filtration et limpidité à basse température.
 
-### Poêle plate à bois à huile thermique
-- Carburant : bois/gaz naturel
-- Puissance moteur : 1.1Kw
-- Diamètre extérieur de casserole : 1200mm
-- Diamètre intérieur de poêle : 1000mm
-- Capacité : 100-125Kg
-- Design de four intégré
+Cuves, pompes et tuyauteries sont à spécifier selon le stade de l'huile, les matériaux, la nettoyabilité, la température et la distance de transfert. Voir le [guide du post-traitement](/fr/products/post-treatment).
 
-### Torréfacteur automatique à tambour
-- Méthode de chauffage : électromagnétique
-- Puissance réglable par paliers
-- Matériaux applicables : sésame, graines de sésame, arachides, soja, etc.
-- Contrôle entièrement automatique
-- Chauffage rapide, sûr et fiable
+## 4. Remplissage et emballage
 
-### Machine intégrée d'alimentation/broyage/friture
-- Trois processus intégrés : alimentation, broyage, friture
-- Économise l'espace et les coûts de conversion entre processus
-- Services personnalisés
-- Personnalisé selon les exigences du client
+Le [catalogue de remplissage et d'emballage](/fr/products/filling-equipment) couvre lavage des bouteilles, remplissage, inspection, fermeture, séchage, étiquetage, marquage, mise en carton et palettisation. Pour chiffrer, fournir propriétés du liquide, échantillons de contenants et bouchons, plage de dosage, cadence cible, étiquette, code, utilités et limite d'automatisation demandée.
 
-### Machine de broyage et mélange intégrée de graines de chanvre et de lin
-- Puissance : 15Kw
-- Capacité : 750Kg/h
-- Moteur en cuivre pur
-- Broyage uniforme, faible consommation d'énergie
-- Petite surface occupée
+## 5. Liste d'achat et réception
 
-### Machine de pré-pressage
-- Puissance moteur : 7.5Kw (11Kw optionnel)
-- Capacité : 300-350Kg/h (750Kg/h optionnel)
-- Principe de broyage à vis
-- Bruit faible, coûts d'entretien faibles
-- Matériaux applicables : graines de colza, soja, graines de lin, etc.
+1. Transmettre exigences matière et produit fini, échantillons représentatifs et schéma de procédé prévu.
+2. Indiquer objectif par lot, par heure ou par jour avec temps de nettoyage et fréquence de changement.
+3. Confirmer tension, source de chaleur, air comprimé, eau, ventilation, drainage et surface disponible.
+4. Séparer dans le devis machine de base, options, commandes, tuyauteries, installation, mise en service, formation, pièces et transport.
+5. Définir les relevés FAT/SAT : débit, cycle, température, pression, transfert, nettoyage, sécurités et indicateurs produit convenus.
 
-## Équipements de post-traitement
-
-### Filtre à huile multicouche pneumatique
-- Spécifications : 10m²/15m²/20m²
-- Pression de calcul : 0.8/0.2MPa
-- Matériau : acier inoxydable 304
-- Design intégré
-- Design d'ouverture rapide
-- Double protection de sécurité
-
-[Voir les spécifications détaillées](/fr/products/pneumatic-filter-press)
-
-### Broyeur de gâteau
-- Modèle : FBJ-500
-- Puissance : 11Kw
-- Capacité de traitement : 1-4Kg/h
-- Diamètre des trous de tamis : 20mm
-- Lame de broyage à marteau
-- Convient pour gâteau de soja, gâteau d'arachide, gâteau de coton, etc.
-
-[Voir les spécifications détaillées](/fr/products/cake-pulverizer)
-
-### Emballeur de gâteau
-- Puissance totale : 1.1KW
-- Diamètre intérieur du moule : 240-480mm (sur mesure)
-- Type d'huile hydraulique : 46# anti-usure
-- Convient pour presse hydraulique horizontale
-- Taille du moule de gâteau sur mesure
-
-[Voir les spécifications détaillées](/fr/products/cake-wrapping-machine)
-
-### Équipement de raffinage d'huile alimentaire
-- Méthodes de raffinage : méthodes mécaniques, chimiques, physico-chimiques
-- Élimination des impuretés : sédimentation, filtration, raffinage alcalin, etc.
-- Amélioration de la qualité et de la stabilité de l'huile
-- Convient pour le raffinage de l'huile brute
-
-[Voir les spécifications détaillées](/fr/products/edible-oil-refining-equipment)
-
-### Équipements de post-traitement (général)
-- Équipements de filtration : filtre à cadre, filtre centrifuge, filtre fin
-- Équipements de raffinage : dégommage, déacidification, décoloration, déodorisation
-- Équipements d'emballage : machine de remplissage automatique, machine de scellement, machine d'étiquetage
-
-## Autres équipements auxiliaires
-
-### Équipements de transport
-- Convoyeur à vis
-- Élévateur à godets
-- Convoyeur à bande
-- Système de transport pneumatique
-
-### Équipements de stockage
-- Réservoir de stockage de graines oléagineuses
-- Réservoir de stockage d'huile finie
-- Équipement de stockage de gâteau
-- Système de stockage automatisé
-
-### Équipements d'emballage
-- Machine de remplissage automatique
-- Machine de scellement
-- Machine d'étiquetage
-- Ligne de production d'emballage
-
-### Équipements de test
-- Instrument de test de qualité d'huile
-- Instrument de test d'humidité
-- Instrument de test de température
-- Système de test automatisé
-
-### Équipements auxiliaires
-- Équipements d'élimination de poussière
-- Système de ventilation
-- Équipements d'éclairage
-- Équipements de sécurité
+[Demander une liste assortie, un prix usine et le périmètre de livraison](/fr/contact/)

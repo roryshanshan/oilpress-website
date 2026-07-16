@@ -1,64 +1,73 @@
 ---
-title: 贴标机系列｜型号参数与厂家报价
-description: "贴标机决定了产品最终展示效果和品牌识别度，是包装线后段最直接影响终端卖相的设备之一。对于食用油项目来说，标签位置、贴标精度、气泡控制和换规格效率，都会影响成品外观和市场接受度。"
-keywords: 贴标机系列, 自动贴标机, 圆瓶贴标机, 双侧面贴标机, 食用油贴标设备, 包装线贴标系统
+title: 贴标机系列｜厂家价格、选型与产线报价
+description: "对比圆瓶、不干胶和双标签贴标机，按瓶样、标签卷、贴标位置及联线接口获取厂家配置与价格。"
+keywords: 贴标机价格, 瓶装贴标机厂家, 不干胶贴标机报价, 双面贴标机, 圆瓶贴标设备, 包装线采购
 image: "/images/filling-solutions/labeling.webp"
 ---
-# 贴标机系列
 
-![双标签全自动贴标机实拍](/images/filling-solutions/labeling.webp)
+# 瓶装产品贴标机系列
 
-贴标机决定了产品最终展示效果和品牌识别度，是包装线后段最直接影响终端卖相的设备之一。对于食用油项目来说，标签位置、贴标精度、气泡控制和换规格效率，都会影响成品外观和市场接受度。
+![直线式双标签全自动贴标机实拍](/images/filling-solutions/labeling.webp)
 
-## 常见贴标形式
+贴标机需要同时控制容器和标签卷。瓶型、表面干燥程度、标签材质、胶黏剂和贴标位置共同决定成品效果。条件允许时，厂家报价应建立在实际瓶样、标签卷和确认成品样之上。
 
-- 圆瓶单标或环绕贴标
-- 方瓶、扁瓶双侧面贴标
-- 上下面贴标或多面组合贴标
-- 特殊礼盒瓶型的定制贴标
+## 在包装线中的位置
 
-## 适用场景
+常见流程为：
 
-- 花生油、菜籽油、大豆油等零售瓶装食用油
-- 精品核桃油、葡萄籽油、小规格礼盒油
-- 调味液、饮料、酒类等液体包装产品
-- 需要批量切换瓶型和标签规格的代工项目
+**灌装封口 → 泄漏或外观检查 → 瓶身吹干 → 贴标 → 日期批次打码 → 装箱**
 
-## 选型重点
+打码可以位于贴标前或贴标后，取决于标记是在瓶体、瓶盖、标签还是纸箱上。布局还应为换卷、调整和不合格品处理预留空间。
 
-- 先确认瓶型是圆瓶、方瓶还是异形瓶
-- 再确认标签材质、自粘方式和目标速度
-- 若前段冲瓶后瓶身带水，需搭配[吹干机系列](/zh/solutions/drying/)
-- 若需喷印日期、批号和二维码，建议联动[激光打码机系列](/zh/solutions/laser-coding/)
+## 需要确认的瓶与标签
 
-## 配套关系
+- 圆瓶、扁瓶、方瓶或异形容器
+- 玻璃、PET、金属或其他确认表面
+- 单张环贴、前后双标或其他标签组合
+- 标签出卷方向、底纸、面材和胶黏剂
+- 是否需要相对瓶身特征或已有印刷定位
+- 容器温度、冷凝水和表面洁净状态
+- 包装规格数量及换型方式
 
-1. [封口机系列](/zh/solutions/sealing/)
-2. [灯检机系列](/zh/solutions/light-inspection/)
-3. 贴标机系列
-4. [激光打码机系列](/zh/solutions/laser-coding/)
-5. [装箱、码垛](/zh/solutions/packing-palletizing/)
+## 具体贴标机入口
 
-## 对标参考机型
+| 机型 | 选型重点 |
+| --- | --- |
+| [直线式双标签全自动贴标机](/zh/products/filling/double-label-automatic-labeling-machine) | 前后标签粘贴和瓶体导向 |
+| [DF-T200半自动圆瓶贴标机](/zh/products/filling/df-t200-round-bottle-labeler) | 圆瓶定位与半自动作业方式 |
+| [TD-5/TD-6全自动不干胶贴标机](/zh/products/filling/self-adhesive-labeling-machine) | 不干胶标签规格和自动联线 |
 
-贴标段的关键是标签尺寸、瓶型范围和线速匹配。机型名称可直接进入对应产品页。
+公开机型数据见产品页，最终贴标位置和运行结果取决于确认后的瓶样与标签样品。
 
-| 机型 | 公开参数摘录 | 适用说明 |
-| --- | --- | --- |
-| [直线式双标签全自动贴标机](/zh/solutions/labeling/double-label-automatic-labeling-machine) | 瓶径 30-95 mm；标签 50-280 × 40-150 mm；6000 瓶/小时；主电机 0.75 kW | 适合双标或多面贴标 |
-| [DF-T200 半自动圆瓶贴标机](/zh/solutions/labeling/df-t200-round-bottle-labeler) | 15-35 件/分钟；圆瓶 Φ15-150 mm；标签 15-376 × 10-180 mm；220V | 适合小批量圆瓶贴标 |
-| [全自动不干胶贴标机 TD-5 / TD-6](/zh/solutions/labeling/self-adhesive-labeling-machine) | 50-150 p/min；标签高 15-200 mm；瓶径 Φ30-100 mm；220V | 适合圆瓶不干胶自动贴标 |
+## 影响设备价格的采购配置
 
-## 具体机型直达
+- 半自动或全自动运行
+- 单标、双标或环绕贴标
+- 瓶体定向、分距和稳定装置
+- 标签传感器及打印或打码接口
+- 瓶型、标签规格和随机换型件数量
+- 输送、剔除、防护和前后控制
+- 项目电制、交付、调试和培训范围
 
-- [直线式双标签全自动贴标机](/zh/solutions/labeling/double-label-automatic-labeling-machine)
-- [DF-T200 型半自动圆瓶贴标机](/zh/solutions/labeling/df-t200-round-bottle-labeler)
-- [全自动不干胶贴标机](/zh/solutions/labeling/self-adhesive-labeling-machine)
-- [灌装包装设备参数库总览](/zh/products/filling-equipment)
+## 获取报价需要提交
 
-## 相关页面
+请提供瓶型图和样瓶、标签图和标签卷样品、贴标位置、目标产量、前端吹干或检测设备、后端打码或装箱设备、输送高度、公用工程、布局和目的地。已有确认成品样时应一并提交。
 
-- [吹干机系列](/zh/solutions/drying/)
+## FAT与售后边界
+
+FAT应使用约定容器和标签卷，并在验收文件中写明位置公差、歪斜、褶皱、气泡、漏标、换型和联锁测试。试机标签、当地安装、差旅、培训、滚轮或传感器备件及售后响应，仅按报价和合同列明范围执行。
+
+## 相关生产线环节
+
+- [瓶身吹干机系列](/zh/solutions/drying/)
+- [灯检机系列](/zh/solutions/light-inspection/)
 - [激光打码机系列](/zh/solutions/laser-coding/)
-- [装箱、码垛](/zh/solutions/packing-palletizing/)
-- [灌装配套方案概览](/zh/solutions/filling-packages)
+- [装箱码垛设备](/zh/solutions/packing-palletizing/)
+
+## 获取贴标机厂家报价
+
+提交瓶样和标签样品或图纸，可获得配置方案与厂家分项价格。
+
+- [咨询贴标机价格与选型](/zh/contact/)
+
+<!-- quote-cta -->

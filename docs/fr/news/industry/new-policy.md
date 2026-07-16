@@ -1,198 +1,132 @@
 ---
-title: "La nouvelle politique nationale stimule le développement"
-description: "Le 1er août 2023, le ministère chinois de l'Agriculture et des Affaires rurales, conjointement avec six autres ministères, a publié les « Lignes…"
+title: "Politique chinoise des céréales et huiles : enjeux industriels"
+description: "Comprenez la politique chinoise 2023-2025 pour les céréales et huiles, ses priorités industrielles et ses effets possibles sur les projets d'équipement."
 keywords: presse à huile, machine d'extraction d'huile, équipement de pressage d'huile
 ---
-# La nouvelle politique nationale stimule le développement de l'industrie de transformation des céréales et huiles
+# Politique des céréales et huiles : guide de vérification et d'achat
 
 *Publié : 8 août 2023*
 *Catégorie : Analyse de politique*
 
-## Contexte de la politique
+::: warning Vérifier le texte officiel
+Cette page ne fournit ni numéro officiel, ni lien source, ni règles d'application complètes pour une mesure nommée. Elle n'affirme donc aucun acte précis d'un ministère, montant, taux de subvention, avantage fiscal, condition de prêt, objectif ou éligibilité d'entreprise. Vérifiez le texte en vigueur et sa mise en œuvre locale avant d'intégrer une hypothèse politique au projet.
+:::
 
-Le 1er août 2023, le ministère chinois de l'Agriculture et des Affaires rurales, conjointement avec six autres ministères, a publié les « Lignes directrices pour le développement de haute qualité de l'industrie de transformation des céréales et huiles (2023-2025) ». Ce cadre politique complet représente le soutien gouvernemental le plus important pour le secteur de la dernière décennie, avec un investissement total de 45 milliards de yuans (6,5 milliards de dollars) alloué sur trois ans.
+## Vérifier la politique avant de choisir l'équipement
 
-La politique aborde les défis critiques auxquels l'industrie est confrontée, notamment les capacités de transformation obsolètes, les problèmes de contrôle de la qualité, les préoccupations environnementales et la compétitivité internationale. Elle vise à transformer la Chine d'un grand producteur de céréales et huiles en une puissance de transformation de haute qualité d'ici 2025.
+Un texte peut promouvoir qualité, efficacité, numérisation, environnement, sécurité alimentaire ou transformation locale sans créer automatiquement un droit pour une entreprise ou un achat. Orientations nationales, règles provinciales ou municipales, appels à projets, normes techniques et autorisations peuvent avoir des périmètres et dates différents.
 
-## Objectifs de la politique
+Séparez deux questions :
 
-### Objectifs à court terme (2023-2024)
-- **Modernisation des capacités** : Moderniser 30 % des capacités de transformation existantes
-- **Amélioration de la qualité** : Réduire les pertes de transformation de 15 %
-- **Adoption technologique** : Installer des équipements de transformation avancés dans 500 installations
-- **Conformité environnementale** : Atteindre 90 % de conformité avec les nouvelles normes environnementales
+- **Conformité** : que doivent respecter l'usine et les équipements pour fonctionner légalement ?
+- **Aide** : l'entreprise, le projet, la dépense, la méthode d'achat et la date sont-ils éligibles à un programme documenté ?
 
-### Objectifs à moyen terme (2024-2025)
-- **Consolidation de l'industrie** : Réduire le nombre de transformateurs de petite taille de 25 %
-- **Ajout de valeur** : Augmenter les produits à valeur ajoutée de 35 %
-- **Croissance des exportations** : Doubler la valeur des exportations de produits transformés
-- **Leadership technologique** : Établir 10 entreprises compétitives au niveau international
+## Liste des preuves politiques
 
-### Vision à long terme (2025+)
-- **Leadership mondial** : Devenir parmi les 3 premiers mondialement en technologie de transformation
-- **Normes de qualité** : Établir un leadership dans les normes de qualité internationales
-- **Durabilité** : Atteindre la neutralité carbone dans les opérations de transformation
-- **Centre d'innovation** : Créer un centre d'innovation mondial pour la transformation des céréales et huiles
+| Élément | Points à confirmer |
+| --- | --- |
+| Identité officielle | Titre complet, numéro, autorité, canal de publication, date d'émission, entrée en vigueur et statut actuel |
+| Périmètre géographique | Niveau national, provincial, municipal, parc industriel ou autre |
+| Demandeur | Forme juridique, classement sectoriel, taille, propriété, fiscalité, crédit et ancienneté exigée |
+| Projet | Usine neuve, extension, rénovation, énergie, numérique, qualité, recherche ou autre catégorie définie |
+| Coût éligible | Équipements, logiciels, travaux, essais, conseil, financement ou fiscalité inclus ou exclus |
+| Calendrier | Ordre et dates de demande, approbation, contrat, achat, facture, installation et réception |
+| Achat | Devis, appel d'offres, contenu local, parties liées, paiement, facture, audit et conservation |
+| Approbation | Organisme, budget, notation, décision écrite, inspection, versement et risque de reversement |
 
-## Domaines d'intervention clés
+Utilisez le portail officiel et l'autorité locale compétente. Une brochure fournisseur, une publication sociale, une promesse orale ou l'accord obtenu par une autre entreprise ne prouvent pas l'éligibilité.
 
-### Innovation technologique
-- **Fabrication intelligente** : Subventions pour l'intégration de l'IoT et de l'IA (30 % de l'investissement)
-- **Modernisation des équipements** : Subventions de 40 % pour les équipements de transformation avancés
-- **Soutien à la R&D** : Crédits d'impôt jusqu'à 200 % pour les dépenses de R&D éligibles
-- **Incitations aux brevets** : 50 000 yuans supplémentaires par brevet international
+## Domaines pouvant affecter le projet
 
-### Systèmes d'assurance qualité
-- **Systèmes de traçabilité** : Financement complet pour la traçabilité basée sur la blockchain
-- **Équipements de test** : Subventions de 50 % pour les équipements de test qualité avancés
-- **Soutien à la certification** : Remboursement complet pour les certifications ISO 22000, HACCP
-- **Développement de normes** : Participation au développement de normes internationales
+Les thèmes suivants servent de liste de vérification et ne signifient pas qu'une règle précise s'applique :
 
-### Protection de l'environnement
-- **Fabrication verte** : Subventions de 35 % pour les équipements économes en énergie
-- **Gestion des déchets** : Prêts à taux zéro pour les installations de traitement des déchets
-- **Économie circulaire** : Subventions de 40 % pour les systèmes d'utilisation des sous-produits
-- **Crédits carbone** : Plateforme d'échange pour la monétisation des crédits carbone
+| Domaine | Effet possible sur l'équipement ou le projet |
+| --- | --- |
+| Sécurité alimentaire et qualité | Matériaux en contact, hygiène, contamination, prélèvement, laboratoire, libération des lots et traçabilité |
+| Environnement | Poussière, odeur, bruit, eaux usées, déchets, médias filtrants, mesure des émissions et traitement |
+| Énergie et ressources | Comptage, récupération de chaleur, isolation, moteurs, chaudière, réutilisation de l'eau et données d'audit |
+| Sécurité au travail et des machines | Protections, arrêts d'urgence, consignation, électricité, pression, incendie, accès et formation |
+| Numérique et traçabilité | Instruments, dossiers de production, droits utilisateurs, conservation, interfaces, étalonnage et cybersécurité |
+| Terrain, construction et incendie | Usage du site, implantation, distances, charge au sol, drainage, ventilation, accès et évacuation |
+| Importation et conformité | Classement tarifaire, douane, certificats du pays, étiquetage, manuels, inspection et pièces |
+| Financement ou aides | Trésorerie, calendrier, périmètre éligible, mode d'achat, preuves d'audit et risque de remboursement |
 
-### Intégration industrielle
-- **Intégration verticale** : Subventions de 25 % pour les projets d'intégration de la chaîne d'approvisionnement
-- **Développement de clusters** : Soutien à l'infrastructure pour les clusters industriels
-- **Optimisation logistique** : Subventions de 30 % pour les systèmes de chaîne du froid et logistiques
-- **Plateformes e-commerce** : Soutien au développement de plateformes B2B
+Identifiez l'autorité responsable de chaque exigence. Un objectif politique ne remplace ni permis, ni norme, ni approbation, ni condition technique écrite.
 
-## Politiques de soutien
+## Traduire les exigences dans le cahier des charges
 
-### Soutien financier
-- **Prêts à faible taux** : Taux d'intérêt de 2 % pour les projets éligibles (contre 6 % commercial)
-- **Financement des équipements** : Financement à 100 % pour les équipements avancés importés
-- **Fonds de roulement** : Lignes de crédit améliorées pour l'achat de matières premières
-- **Financement à l'exportation** : Subventions de prime d'assurance crédit-export de 1,5 %
+### Produit et hygiène
 
-### Incitations fiscales
-- **Impôt sur les sociétés** : Réduit à 15 % pour les entreprises éligibles (contre 25 % standard)
-- **Droits de douane** : Tarifs nuls sur les équipements de transformation avancés
-- **Remboursements de TVA** : Remboursements de TVA améliorés pour les produits exportés
-- **Transfert de technologie** : Exonérations fiscales pour les revenus de transfert de technologie
+Définissez matériaux en contact, finition si nécessaire, vidange, nettoyabilité, changement d'allergène, maîtrise de la contamination, lubrification, points de prélèvement, filtration, stockage et méthodes de laboratoire de réception.
 
-### Terrain et infrastructure
-- **Allocation de terrain** : Allocation prioritaire de terrains industriels à des tarifs préférentiels
-- **Infrastructure** : Investissement gouvernemental dans les infrastructures de soutien
-- **Services publics** : Services publics subventionnés pour les entreprises éligibles
-- **Transport** : Couloirs logistiques dédiés pour les produits céréaliers et oléagineux
+### Environnement et utilités
 
-### Développement des talents
-- **Programmes de formation** : Formation financée par le gouvernement pour 50 000 techniciens
-- **Partenariats universitaires** : Programmes conjoints avec les universités de premier plan
-- **Recrutement d'experts** : Visas spéciaux et incitations pour les experts internationaux
-- **Équipes d'innovation** : Financement pour le développement d'équipes de recherche
+Documentez bilans matière et énergie, eau, drainage, dépoussiérage, odeur, bruit, résidus et caractéristiques des effluents. Attribuez clairement la fourniture et la responsabilité de chaque traitement.
 
-## Orientation du développement technologique
+### Sécurité et conformité
 
-### Technologies de transformation avancées
-- **Technologie de pressage à froid** : Soutien pour l'extraction d'huile premium
-- **Extraction supercritique** : Financement pour les méthodes d'extraction avancées
-- **Séparation par membrane** : Investissement dans les technologies de séparation de précision
-- **Transformation enzymatique** : Soutien pour les applications biotechnologiques
+Identifiez les règles machines, électriques, pression, incendie, bâtiment et travail. Exigez plans, listes de composants, informations de risque, manuels, certificats, essais et traductions nécessaires.
 
-### Transformation numérique
-- **Industrie 4.0** : Soutien complet à la transformation numérique
-- **Intelligence artificielle** : Applications d'IA dans le contrôle et l'optimisation de la qualité
-- **Blockchain** : Systèmes complets de traçabilité et de transparence
-- **Intégration IoT** : Capteurs intelligents et systèmes de surveillance
+### Mesure et dossiers
 
-### Systèmes de contrôle qualité
-- **Surveillance en temps réel** : Surveillance continue des paramètres de qualité
-- **Analyses prédictives** : Prédiction et contrôle de la qualité par IA
-- **Tests automatisés** : Systèmes de test qualité robotisés
-- **Réseaux de laboratoires** : Établissement d'un réseau national de test qualité
+Précisez les mesures obligatoires, l'étalonnage, la durée de conservation, la propriété des données, l'export des rapports et le fonctionnement sûr si le contrôle ou le réseau est indisponible.
 
-### Technologies durables
-- **Transformation zéro déchet** : Utilisation complète des matières premières
-- **Récupération d'énergie** : Systèmes avancés de récupération et de réutilisation de l'énergie
-- **Conservation de l'eau** : Systèmes de recyclage de l'eau en boucle fermée
-- **Emballages biodégradables** : Solutions d'emballage durables
+## Règle pour les subventions, impôts et financements préférentiels
 
-## Analyse de l'impact sur l'industrie
+Le scénario de base doit rester prudent :
 
-### Changements dans la structure du marché
-- **Accélération de la consolidation** : Les petits acteurs sortiront ou fusionneront
-- **Écart technologique** : Élargissement de l'écart entre leaders et suiveurs technologiques
-- **Compétitivité à l'exportation** : Amélioration significative de la compétitivité internationale
-- **Évolution de la chaîne de valeur** : Orientation vers des produits et services à plus forte valeur ajoutée
+- Ne compter aucune subvention, prime, remise, réduction fiscale, prêt préférentiel, terrain ou utilité à tarif réduit avant confirmation écrite de l'éligibilité et de l'approbation
+- Avant signature, commande, paiement, importation ou installation, vérifier si le programme interdit les engagements antérieurs
+- Relier chaque dépense revendiquée au catalogue officiel et au mode d'achat exigé
+- Aligner factures, paiements, contrats, numéros de série, preuves d'installation, réception et audit
+- Modéliser la trésorerie sans l'aide et traiter retard ou refus comme un risque
+- Consulter localement les professionnels qualifiés en fiscalité, droit, comptabilité, douane et environnement si nécessaire
 
-### Modèles d'investissement
-- **Investissement étranger** : Augmentation attendue des investissements directs étrangers
-- **Investissement privé** : Hausse des investissements du secteur privé
-- **Investissement public** : Participation stratégique des entreprises publiques
-- **Coentreprises** : Opportunités de coentreprises internationales en expansion
+L'existence d'un programme ne garantit ni un budget disponible ni l'approbation du dossier.
 
-### Effets sur l'emploi
-- **Emploi direct** : Création de 150 000 nouveaux emplois directs
-- **Emploi indirect** : Estimation de 500 000 emplois indirects dans la chaîne d'approvisionnement
-- **Amélioration des compétences** : Programmes massifs de développement des compétences
-- **Développement régional** : Développement régional équilibré par formation de clusters
+## Dossier à préparer
 
-### Débordements technologiques
-- **Effets en amont** : Transfert de technologie vers le secteur agricole
-- **Effets en aval** : Capacités améliorées de transformation alimentaire
-- **Inter-industries** : Applications technologiques dans d'autres industries de transformation
-- **Écosystème d'innovation** : Développement d'un écosystème d'innovation complet
+Selon le cas, la revue peut demander :
 
-## Stratégies de réponse des entreprises
+- Immatriculation, propriété, fiscalité, crédit et comptes de l'entreprise
+- Autorisations foncières, bâtiment, urbanisme, incendie, environnement, alimentation et travail
+- Étude de faisabilité, procédé, implantation, bilans matière et énergie, analyse des risques
+- Liste d'équipements, spécifications, offres comparables, contrats, factures et paiements
+- Preuves d'approvisionnement, exigences clients, essais et base de capacité
+- Dossiers énergie, émissions, déchets, eau, sécurité, qualité, traçabilité et réception
+- Pièces d'appel d'offres, parties liées, contenu local, importation, audit et conservation
 
-### Actions immédiates (2023)
-- **Demande de subventions** : Soumettre des demandes pour toutes les subventions applicables
-- **Audit technologique** : Évaluation complète des niveaux technologiques actuels
-- **Planification stratégique** : Développer un plan de réponse stratégique sur 3 ans
-- **Constitution d'équipes** : Établir des équipes dédiées de réponse aux politiques
+Demandez la liste actuelle à l'autorité compétente au lieu de reprendre une version ancienne ou celle d'une région voisine.
 
-### Investissements à moyen terme (2023-2024)
-- **Modernisation des équipements** : Prioriser les investissements en équipements à fort impact
-- **Intégration de systèmes** : Mettre en œuvre des systèmes complets de qualité et de traçabilité
-- **Certification** : Obtenir toutes les certifications qualité et environnementales pertinentes
-- **Partenariat** : Établir des partenariats stratégiques pour l'accès technologique et au marché
+## Liste pour la demande de prix
 
-### Positionnement à long terme (2024-2025)
-- **Leadership du marché** : Se positionner pour le leadership du marché dans les segments premium
-- **Expansion des exportations** : Développer des stratégies complètes de marché à l'exportation
-- **Focus sur l'innovation** : Établir des avantages concurrentiels durables par l'innovation
-- **Expansion globale** : Se préparer à l'expansion sur les marchés internationaux
+Demandez au fournisseur de préciser :
 
-## Plan de réponse de Shengshi Hecheng
+- Le périmètre complet du procédé et toutes les exclusions
+- Les hypothèses de performance liées à une matière représentative
+- Les matériaux en contact et la conception de nettoyage
+- Les charges d'utilités et environnementales de la ligne complète
+- La sécurité, les normes, certificats et écarts du pays de destination
+- L'instrumentation, les données, l'accès logiciel et le mode de secours
+- L'installation, la mise en service, la formation, les pièces, la garantie et le service local
+- Les documents fournis pour permis, douane, audit ou dossier d'aide, sans promettre l'approbation
 
-### Notre réponse stratégique
-En tant que fabricant leader d'équipements de presse à huile, Shengshi Hecheng a développé une stratégie de réponse complète alignée avec le nouveau cadre politique :
+## Jalons du projet
 
-#### Programme d'investissement technologique
-- **Expansion de la R&D** : Augmentation de 50 % de l'investissement en R&D sur 3 ans
-- **Fabrication intelligente** : Intégration complète de l'IoT et de l'IA dans les nouveaux équipements
-- **Systèmes de qualité** : Mise en œuvre de systèmes de traçabilité basés sur la blockchain
-- **Fabrication verte** : Développement d'équipements économes en énergie et respectueux de l'environnement
+Avant de signer, confirmez que :
 
-#### Initiative de soutien client
-- **Orientation politique** : Service de consultation gratuite pour la demande de subventions
-- **Financement des équipements** : Partenariat avec les banques pour le financement préférentiel des équipements
-- **Transfert de technologie** : Programmes de partage de connaissances et de transfert de technologie
-- **Programmes de formation** : Programmes de formation complets pour les équipes techniques des clients
+- Le texte officiel et ses règles d'application sont actuels et applicables
+- Les permis et normes obligatoires sont identifiés indépendamment de toute aide
+- Le procédé est testé sur une matière représentative
+- Le cahier des charges contient des critères de réception mesurables
+- Les utilités, l'environnement, la sécurité et l'implantation sont faisables
+- Le modèle financier fonctionne sans aide non approuvée
+- Les responsabilités de demande, permis, preuves et audit sont attribuées
 
-#### Stratégie de développement du marché
-- **Soutien aux exportations** : Programmes spéciaux pour le développement du marché international
-- **Participation aux clusters** : Participation active aux clusters industriels prévus par le gouvernement
-- **Partenariats d'innovation** : Programmes de développement conjoint avec les clients et les instituts de recherche
-- **Réseau de service** : Extension du réseau de service pour soutenir la mise en œuvre des politiques
+## Conclusion
 
-### Services de soutien disponibles
-- **Consultation politique** : Consultation initiale gratuite sur les opportunités politiques
-- **Assistance aux demandes** : Soutien complet pour les demandes de subventions
-- **Évaluation technique** : Évaluation technologique complète et planification de modernisation
-- **Arrangement de financement** : Partenariat avec les institutions financières pour des solutions de financement optimales
+La politique peut influencer l'investissement, mais seules les règles vérifiées doivent modifier le périmètre ou le modèle financier. Commencez par la conformité, obtenez le texte officiel et l'interprétation locale, documentez l'éligibilité et laissez toute aide non approuvée hors du scénario de base.
 
-::: tip Contact pour le soutien politique
-Pour des conseils détaillés sur l'exploitation de ces nouvelles opportunités politiques, veuillez contacter notre équipe de soutien politique :
-- **Téléphone** : +86 199 0636 5856
-- **Email** : policy@shengshihecheng.com
-- **Consultation** : Consultation initiale gratuite disponible
-- **Service complet** : Soutien complet de la demande à la mise en œuvre
-
-Nous avons établi une équipe dédiée de réponse aux politiques pour aider nos clients à maximiser les bénéfices de ces nouvelles opportunités.
+::: tip Principe d'achat
+Le fournisseur peut contribuer au dossier technique, mais ne doit pas garantir une décision politique. L'autorité compétente décide selon le demandeur, le lieu, le calendrier, la procédure d'achat et le dossier complet.
 :::

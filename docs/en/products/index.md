@@ -11,10 +11,14 @@ image: "/images/external/products-index-bfb7fcaa.webp"
 
 Shandong Shengshi Hecheng Machinery Co., Ltd. provides a complete hydraulic oil press product line covering small workshops, commercial oil mills, and integrated oil processing projects.
 
-## Official Website
+## Select by Procurement Requirement
 
-See the latest models and full line solutions:
-[Hydraulic Oil Press](/en/)
+| Procurement requirement | Recommended pages | Typical project | What to confirm in the quote |
+| --- | --- | --- | --- |
+| Small oil shop or trial production | [300 Series](/en/products/300), [325 Series](/en/products/325) | Small-batch production, retail shops and pilot projects | Machine price, barrel configuration, voltage and delivery time |
+| Premium cold-pressed oil | [355 Series](/en/products/355), [400 Series](/en/products/400), [426 Series](/en/products/426), [480 Series](/en/products/480), [500 Series](/en/products/500) | Walnut, tea seed, flaxseed, almond and other high-value materials | Pressure basis, batch repeatability, crushing and filtration scope |
+| Complete processing line | [Production Lines Overview](/en/solutions/production-lines) | New oil mills, expansion projects and export procurement | Pretreatment, pressing, filtration, refining and filling equipment list |
+| Spare parts or expansion | [Contact the Manufacturer](/en/contact/) | Existing equipment owners and repeat buyers | Part identification, service scope, maintenance plan and lead time |
 
 ## Product Category Hubs
 
@@ -32,41 +36,47 @@ Use the following hub pages to move from a single machine inquiry to a complete 
 - [Customized Hydraulic Oil Press](/en/products/customized-hydraulic-oil-press)
 - [Customer Order Shipping Video](/en/products/customer-order-shipping-video)
 
-### 300 Series
-Our classic entry-level series, suitable for small oil mills and family workshops, with compact structure, simple operation, and high cost performance.
+## Model Selection and Material Testing
 
-- 300 Series
-  Suitable for small oil mills and family workshops, with compact structure, simple operation, and high cost performance.
+A model number or structural specification does not establish a fixed output or oil yield. First confirm effective barrel dimensions, batch load, rated pressure, heating and temperature-control method, motor power, filtration equipment and planned working schedule. Then test the proposed process with the buyer's actual material.
+
+- **Use one material lot:** record moisture, impurities and, where available, laboratory oil content for both the baseline and candidate setup.
+- **Keep conditions comparable:** use the same preparation, batch load, pressure sequence or holding time, settling/filtration period and weighing method.
+- **Record the full cycle:** measure net oil, cake weight, residual cake oil where tested, batch time, energy use, cleaning time and stoppages.
+- **Judge repeatability:** compare the average and variation across repeated valid tests. Capacity, recovery and commercial assumptions should follow the agreed sample and acceptance method.
+
+### 300 Series
+An entry model family for comparing barrel size, loading method, voltage and basic auxiliary equipment in a small oil mill or workshop. Actual batch load and cycle time depend on the material and test record.
 
 [View Complete 300 Series Introduction](/en/products/300)
 
 ### 325 Series
-Classic series expansion model, suitable for small and medium-sized oil mills, providing more configuration options and higher production efficiency.
+Provides additional structure and configuration choices for small and medium oil mills. Compare batch load, complete cycle time and supporting equipment with the same raw-material lot.
 
 [View Complete 325 Series Introduction](/en/products/325)
 
 ### 355 Series
-Mid-range series, providing greater production capacity for medium-sized oil mills, featuring an integrated steel plate structure with stronger pressure bearing capacity.
+Suitable for cold-press projects that need to compare barrel specification, rated pressure and planned shifts. Structural differences should not be converted into a fixed production increase without testing.
 
 [View Complete 355 Series Introduction](/en/products/355)
 
 ### 400 Series
-Mid to high-end series, providing greater production capacity for medium and large oil mills, featuring intelligent temperature control and automation functions.
+Offers temperature-control and automation options for buyers evaluating workflow, batch consistency and auxiliary-equipment requirements. Confirm output and recovery with the buyer's material.
 
 [View Complete 400 Series Introduction](/en/products/400)
 
 ### 426 Series
-High-end series, specifically designed for modern large oil mills.
+For projects comparing larger configurations and automation options. Verify barrel dimensions, pressure values, batch load and planned cycle before ordering.
 
 [View Complete 426 Series Introduction](/en/products/426)
 
 ### 480 Series
-Ultra-large series, featuring ultra-large capacity design.
+A heavier configuration where the frame, cylinder, barrel and hydraulic-system values should be reviewed together. Use consecutive test records to evaluate batch stability.
 
 [View Complete 480 Series Introduction](/en/products/480)
 
 ### 500 Series
-Flagship series, featuring extra-large capacity.
+A larger hydraulic press configuration for projects with corresponding structure and operating requirements. Evaluate throughput, energy use and maintenance intervals under the intended conditions.
 
 [View Complete 500 Series Introduction](/en/products/500)
 
@@ -99,77 +109,45 @@ Match equipment by process stage:
 - [Company Advantages](/en/advantages/)
 - [About the Manufacturer](/en/about/)
 - [Get Price & Quote](/en/contact/)
-- [中文产品页](/zh/products/)
+- [Chinese products](/zh/products/)
 
+## Hydraulic Cylinder Working Principle
+
+Review cylinder components, pressure-area-force calculations and the procurement checks behind a hydraulic press specification.
+
+[Read the hydraulic cylinder principle guide](/en/products/hydraulic-cylinder-principle)
 
 ## Hydraulic Oil Press Component Details
 
-### Main Components
-#### 1. Pump Station
-+ The power source is an ultra-high pressure combined hydraulic station. The hydraulic station is equipped with high and low combined double pumps, with working pump pressure up to 80 MPa;
-+ Pressure is five-plunger, high working pressure, easily reaching 60 MPa during operation;
-+ Equipped with high and low pressure relief valves, double high pressure relief, no overpressure, safer;
-+ The directional valve adopts ultra-high pressure four-core steering valve, not easy to leak and lose pressure, more wear-resistant and durable.
-![Pump Station](/images/external/products-index-bfb7fcaa.webp)
+![Hydraulic oil press pump station and component assembly](/images/external/products-index-bfb7fcaa.webp)
 
-### 2. Pure Copper Motor
-+ Adopts pure copper motor, high working efficiency and long-lasting durability, hard quality, not easy to damage.
-![Pure Copper Motor](/images/external/products-index-798d8557.webp)
+The pictured pump station is a reference configuration. Final component brands, models and parameters should be recorded in the confirmed quotation or technical agreement.
 
-### 3. Hydraulic Cylinder
-+ Cylinder produced in Daye, Hubei (state-owned enterprise), made of 27 silicon-manganese alloy tube material, cylinder barrel is tempered through heat treatment, more stable material performance, ultra-high pressure not easy to burst, pressure can reach 80 MPa;
-+ Oil seal is imported from Japan, adopts high-pressure combined Glyd ring and retaining ring Y-type combined oil seal, more resistant to ultra-high pressure, double oil seals less likely to leak, using materials several times that of ordinary materials, excellent quality, strong sealing performance, not easy to leak oil;
-+ Piston adopts two front and rear guide bands, less likely to damage the inner wall of the cylinder, will not run off and grind the wall.
-![Hydraulic Cylinder](/images/external/products-index-76efb8f6.webp)
-![Hydraulic Cylinder](/images/external/products-index-aa229706.webp)
-![Hydraulic Cylinder](/images/external/products-index-a0ce7064.webp)
-![Hydraulic Cylinder](/images/external/products-index-6aa7869d.webp)
-![Hydraulic Cylinder](/images/external/products-index-f582c751.webp)
-Hydraulic cylinder mirror rolling video:
-<div class="video-container">
-  <iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-Hydraulic cylinder finished product display video:
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/taGBjx0XnkA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+### Procurement Checklist
 
+| Component | What to verify before ordering |
+| --- | --- |
+| Pump station | Pump model and type; rated pressure and flow; tank capacity; relief and directional valves; cooling method; gauge range; hydraulic diagram; agreed pressure-build and holding-test conditions. |
+| Hydraulic cylinder | Bore, stroke and rated pressure; cylinder-tube and piston-rod materials and surface treatment; seal model; mounting dimensions; drawing; agreed pressure-holding and leakage-check conditions. |
+| Control box | Supply voltage and frequency; controller or PLC model; electrical component part numbers; emergency stop, overload and pressure protection; interface language; wiring diagram. |
+| Material barrel | Effective diameter, height and batch volume; product-contact material; drainage-bar and gap specification; flange or reinforcement; cleaning and replacement method. |
+| Motor | Rated power, voltage, phase, frequency, speed, duty and protection class; nameplate; applicable certification; loaded-test basis. |
+| Wearing parts | Included item names, part numbers, dimensions, materials and quantities; compatibility with the selected model; recommended startup spares, unit price and lead time. |
 
-Ultra-high pressure hydraulic cylinder welding process video:
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/8TpO4JBcJ_A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+### Technical and Model References
 
-### 4. Control Box
-+ Control system uses microcomputer system, all programs are software connected, control system operation is simple;
-+ Equipped with dual pressure gauges, dual high-voltage electrical control fuses;
-+ Electrical components use well-known brand quality products, hard quality and long service life.
-![Control Box](/images/external/products-index-3bdb9615.webp)
+- [Hydraulic cylinder working principle](/en/products/hydraulic-cylinder-principle)
+- **Model specification pages:** [300](/en/products/300), [325](/en/products/325), [355](/en/products/355), [400](/en/products/400), [426](/en/products/426), [480](/en/products/480), [500](/en/products/500)
+- [Equipment instruction manual](/en/products/instruction-manual)
 
-### 5. Material Barrel
-+ This model is equipped with a 390mm diameter material barrel;
-+ The material barrel is welded with trapezoidal strip row key bars evenly arranged, trapezoidal key bars are large outside and small inside, not blocking oil channels, no oil climbing up in the barrel, and large oil output area for faster oil output, 15 times the drilling area with oil yield up to 2%-3%;
-+ The outer ring adopts forged flange, material uses Shangang Q690 steel, high strength, high tensile, high wear resistance, no deformation.
-<div class="video-container">
-  <iframe width="700" height="330" src="https://www.youtube.com/embed/HWjvDznT95U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+### Inputs Needed for Factory Configuration and Pricing
 
-### 6. Piston Rod
-Oil press piston rod quenching treatment video, piston rod quenching treatment increases surface hardness without scratches, extending hydraulic cylinder service life
-<div class="video-container">
-  <iframe width="700" height="330" src="https://www.youtube.com/embed/twPxOI2VQIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Send the manufacturer:
 
-### Wearing Parts
-
-#### 1. Controller
-#### 2. Pressure Gauge
-#### 3. High Pressure Oil Pipe (1 meter)
-#### 4. Low Pressure Oil Pipe (0.8 meter)
-#### 5. Oil Seal
-#### 6. Sealing Ring
-#### 7. Bearing
-#### 8. Directional Valve
-#### 9. Valve Block
-#### 10. Steel Ball
-#### 11. Spring
+- Raw material types, incoming condition, known moisture range and planned preparation method.
+- Target load per batch, required output per shift or day, and planned operating hours.
+- Required process scope: cleaning, crushing, cooking or roasting, pressing, filtration, refining and filling.
+- Local voltage, phase and frequency, plus the installation country and any required electrical standard.
+- Available floor space, doorway or lifting limits, and required automation, interface language or product-contact material.
+- Machine quantity, delivery destination, requested delivery date, trade term, and needs for startup spares, installation or training.
+- For replacement parts or upgrades, the existing machine model, serial number, nameplate photo and clear photos with measured dimensions of the required part.

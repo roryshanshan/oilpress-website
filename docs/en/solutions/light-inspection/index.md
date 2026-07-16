@@ -1,61 +1,75 @@
 ---
-title: "Lamp inspection machine series | Specs, Models & Factory Quote"
-description: "Browse lamp inspection machine series for edible oil and liquid packaging lines. Compare models, capacity ranges, and request factory pricing with…"
-keywords: Light inspection machine series, light inspection machine, online inspection equipment, liquid level detection, foreign matter detection, bottled oil packaging inspection
+title: "Light Inspection Machines | Price & Factory Quote"
+description: "Define visible defects, inspection position and rejection scope for filled bottles. Review the light inspection model and request a manufacturer line quote."
+keywords: light inspection machine price, bottle inspection equipment manufacturer, filled bottle inspection quote, liquid level inspection, foreign matter inspection, packaging quality control
 image: "/images/filling-solutions/light-inspection.webp"
 ---
 
-# Lamp inspection machine series
+# Light inspection machines for filled bottles
 
-![Real shots of light inspection equipment](/images/filling-solutions/light-inspection.webp)
+![Filled-bottle light inspection equipment](/images/filling-solutions/light-inspection.webp)
 
-The light inspection machine is located after filling and sealing and is a very important quality control node in the packaging line. For products such as bottled edible oil, fruit wine, and seasoning liquids, light inspection equipment can help companies promptly detect problems such as abnormal liquid levels, foreign objects, bottle defects, and poor sealing, and reduce the flow of defective products into the later labeling and packing stations.
+Light inspection provides a controlled viewing or detection point for filled containers. It can support checks for visible foreign matter, fill level, bottle condition or closure appearance, but the defect list and detection method must be agreed. The term inspection machine does not by itself mean that every defect is automatically detected or rejected.
 
-## Main detection content
+## Position in the packaging line
 
-- Is the liquid level up to standard?
-- Whether there are suspended solids or visible foreign matter in the bottle
-- Whether the sealing, capping or plugging is in place
-- Appearance problems such as damaged bottle body, abnormal bottle mouth, skewed bottle cap, etc.
+Possible locations include:
 
-## Applicable scenarios
+- After filling and before closure, when the open product can be inspected safely
+- After capping or sealing, for a combined liquid-level and package check
+- Before labeling, when the bottle wall needs to remain visible
+- Before case packing as a final operator or automated inspection point
 
-- Edible oil products packaged in transparent or translucent bottles
-- High value-added small bottles of oil, gift box oil and export packaging projects
-- Production lines that need to improve quality inspection stability and reduce the burden of manual visual inspection
-- Beverage, wine, soy sauce, vinegar and other liquid packaging industries
+The location affects lighting, bottle rotation, contamination control and the type of rejection system that may be required.
 
-## Selection suggestions
+## Define the inspection task
 
-- Low-speed lines can use manual light inspection platforms or simplified inspection stations
-- It is recommended to adopt automatic light inspection or visual inspection solutions for medium and high-speed lines
-- If there are many bottle types, it is necessary to confirm the equipment adjustment range and type change efficiency
-- If labeling and packing are required in the later stage, it is recommended to place the light inspection after [Sealing Machine Series](/en/solutions/sealing/) and before [Labeling Machine Series](/en/solutions/labeling/)
+A purchase specification should state:
 
-## Supporting relationship
+- Product color, clarity and expected natural variation
+- Bottle material, tint, wall pattern and label-free viewing area
+- Defects to be checked and representative defect samples
+- Manual visual inspection or sensor/camera-based function
+- Required bottle rotation, spacing and background
+- Reject confirmation and collection scope, if any
+- Data recording or line-stop signal requirements
 
-1. [Filling machine series](/en/solutions/filling/)
-2. [Sealing machine series](/en/solutions/sealing/)
-3. Light inspection machine series
-4. [Labeling machine series](/en/solutions/labeling/)
-5. [Packing and palletizing](/en/solutions/packing-palletizing/)
+## Product entry
 
-## Benchmark reference model
+| Model | What to verify |
+| --- | --- |
+| [Automatic light inspection machine](/en/products/filling/light-inspection-machine) | Lighting arrangement, bottle presentation, inspection scope and line interface |
 
-The public site displays the automatic bottle turning light inspection program under the light inspection machine column, which can be used as a reference for liquid level, foreign matter and sealing status screening. An independent product page entrance is provided directly here.
+Use the linked page for published model information. Detection performance requires an agreed defect set, approved containers and a documented test protocol.
 
-| Model | Excerpt of public parameters | Applicable instructions |
-| --- | --- | --- |
-| [Light inspection machine](/en/solutions/light-inspection/light-inspection-machine) | Fully automatic bottle entry-bottle clamping-bottle turning-bottle removal-bottle out; inverted inspection; LED light source; viewing angle greater than 100° | Suitable for online light inspection of transparent bottles or high value-added packaging projects |
+## Procurement decisions that affect price
 
-## Direct access to specific models
+- Viewing conveyor, assisted inspection or automated detection scope
+- Bottle rotation and stabilization method
+- Lighting, enclosure and operator workstation
+- Reject mechanism, reject confirmation and collection area
+- Controls and communication with filler, capper or labeler
+- Number of formats, destination power and service scope
 
-- [Light inspection machine](/en/solutions/light-inspection/light-inspection-machine)
-- [Filling and packaging equipment parameter library overview](/en/products/filling-equipment)
+## Quote request checklist
 
-## Related pages
+Send filled and empty bottle samples, good and defective reference samples, product description, target output, inspection position, upstream/downstream equipment, required reject logic, data needs, layout, utilities and destination. Identify defects that are safety-critical and the validation responsibility for each.
 
-- [Overview of filling packages](/en/solutions/filling-packages)
-- [Filling machine series](/en/solutions/filling/)
-- [Sealing machine series](/en/solutions/sealing/)
-- [Labeling machine series](/en/solutions/labeling/)
+## FAT and after-sales boundary
+
+FAT should use the agreed good and seeded-defect samples under a written challenge method. Record detection or operator-visibility criteria, false rejects where applicable, bottle transfer, changeover and interlocks. Validation, local quality approval, installation, travel, training, spare lights or sensors and support terms must be explicitly priced and contracted.
+
+## Related line modules
+
+- [Liquid filling machines](/en/solutions/filling/)
+- [Capping and sealing machines](/en/solutions/sealing/)
+- [Labeling machines](/en/solutions/labeling/)
+- [Packing and palletizing](/en/solutions/packing-palletizing/)
+
+## Request inspection equipment pricing
+
+Provide the package and defect definition to receive an inspection scope and itemized manufacturer quote.
+
+- [Request a light inspection machine quote](/en/contact/)
+
+<!-- quote-cta -->

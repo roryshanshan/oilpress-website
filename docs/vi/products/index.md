@@ -1,6 +1,6 @@
 ---
-title: "Hydraulic Oil Press Products | Models, Price & Quote"
-description: "Browse 300-500 series hydraulic oil presses plus filtration, refining, and filling equipment with factory pricing support."
+title: "Máy ép dầu thủy lực | Dòng máy, thiết bị và báo giá"
+description: "So sánh dòng 300-500, máy ép nhỏ, tiền xử lý, lọc, tinh luyện và chiết rót; chốt nguyên liệu, khối lượng mẻ, điện áp và báo giá."
 keywords: giá máy ép dầu, mẫu 300 325 355 400 426 480 500, báo giá, mua hàng
 image: "/images/external/products-index-bfb7fcaa.webp"
 ---
@@ -8,48 +8,71 @@ image: "/images/external/products-index-bfb7fcaa.webp"
 
 ## Tổng quan sản phẩm
 
-Công ty Cơ khí Shengshi Hecheng Sơn Đông cung cấp dòng sản phẩm máy ép dầu thủy lực hoàn chỉnh, bao gồm từ các nhu cầu của nhà xưởng nhỏ đến dây chuyền sản xuất công nghiệp lớn.
+Công ty TNHH Máy móc Shengshi Hecheng Sơn Đông cung cấp các dòng máy ép dầu thủy lực và thiết bị đồng bộ cho thử mẫu, xưởng nhỏ, nhà máy thương mại và dự án dây chuyền tích hợp.
+
+## Chọn theo nhu cầu mua hàng
+
+| Nhu cầu | Trang tham khảo | Phù hợp với | Nội dung cần xác nhận trong báo giá |
+| --- | --- | --- | --- |
+| Xưởng ép dầu quy mô nhỏ | [Dòng 300](/vi/products/300), [dòng 325](/vi/products/325) | thử sản phẩm, cửa hàng, xưởng gia đình | giá máy, kích thước thùng ép, điện áp, lọc dầu, thời gian giao hàng |
+| Dầu ép lạnh theo mẻ | [Dòng 355](/vi/products/355), [400](/vi/products/400), [426](/vi/products/426), [480](/vi/products/480), [500](/vi/products/500) | óc chó, hạt chè, hạt lanh, hạnh nhân và các loại dầu theo lô | cấp áp suất, nhịp mẻ, nghiền, kiểm soát nhiệt và lọc |
+| Dây chuyền hoàn chỉnh | [Tổng quan dây chuyền](/vi/solutions/production-lines) | nhà máy mới, mở rộng công suất, dự án xuất khẩu | danh sách tiền xử lý, ép, lọc, tinh luyện, chiết rót và phạm vi lắp đặt |
+| Phụ tùng và mở rộng | [Liên hệ](/vi/contact/) | khách hàng đã có máy hoặc cần bổ sung công đoạn | mã phụ tùng, ảnh nhãn máy, thời gian giao, hướng dẫn từ xa và điều kiện bảo hành |
+
+## Lối vào theo nhóm thiết bị
+
+- [Tổng quan máy ép dầu thủy lực](/vi/products/)
+- [Thiết bị lọc dầu](/vi/products/filtration-equipment)
+- [Thiết bị tinh luyện và khử sáp](/vi/products/refining-and-dewaxing-equipment)
+- [Thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
+- [Thiết bị phụ trợ](/vi/products/supporting)
+
+## Chọn model và nghiệm thu bằng nguyên liệu thực tế
+
+Tên dòng máy hoặc thông số kết cấu không trực tiếp tương đương với một mức sản lượng hay tỷ lệ thu dầu cố định. Trước khi đặt hàng, cần đối chiếu kích thước hữu dụng của thùng ép, lượng nạp mỗi mẻ, áp suất định mức, phương thức gia nhiệt, công suất điện, hệ thống lọc và số ca dự kiến.
+
+- **Lấy mẫu cùng lô:** dùng cùng một lô nguyên liệu cho phương án cơ sở và model đang so sánh; ghi độ ẩm, tạp chất và hàm lượng dầu phòng thí nghiệm nếu có.
+- **Giữ cùng điều kiện:** thống nhất tiền xử lý, lượng nạp, đường áp suất hoặc thời gian giữ áp, thời gian lắng/lọc và cách cân.
+- **Ghi đủ dữ liệu:** đo dầu thành phẩm, bánh ép, dầu còn trong bánh, thời gian mẻ, điện năng, chất lượng dầu và thời gian vệ sinh hoặc dừng máy.
+- **Tiêu chí chấp nhận:** dùng kết quả trung bình và độ dao động của nhiều mẻ hợp lệ; công suất và tỷ lệ thu dầu phải dựa trên mẫu cùng phương pháp nghiệm thu, không dùng hệ số tăng cố định.
 
 ### Dòng 300
-Dòng nhập môn cổ điển của chúng tôi, phù hợp với các nhà máy dầu nhỏ và nhà xưởng gia đình, có các đặc điểm như cấu trúc gọn gàng, hoạt động đơn giản, tỷ lệ giá thành cao.
-
-- Dòng 300
-  Phù hợp với các nhà máy dầu nhỏ và nhà xưởng gia đình, có các đặc điểm như cấu trúc gọn gàng, hoạt động đơn giản, tỷ lệ giá thành cao.
+Dòng khởi đầu để xưởng nhỏ so sánh thùng ép, cách nạp liệu, điện áp và thiết bị lọc cơ bản. Lượng xử lý mỗi mẻ và nhịp vận hành phải được xác nhận bằng nguyên liệu của người mua.
 
 [Xem giới thiệu đầy đủ dòng 300](/vi/products/300)
 
 ### Dòng 325
-Kiểu mở rộng của dòng cổ điển, phù hợp với các nhà máy dầu nhỏ và vừa, cung cấp nhiều lựa chọn cấu hình và hiệu suất sản xuất cao hơn.
+Cung cấp thêm lựa chọn về kết cấu và cấu hình cho xưởng nhỏ và vừa. Khi so giá, cần kiểm tra lượng nạp mỗi mẻ, thời gian chu kỳ, công suất điện và thiết bị đi kèm thay vì giả định năng suất cố định.
 
 [Xem giới thiệu đầy đủ dòng 325](/vi/products/325)
 
 ### Dòng 355
-Dòng tầm trung, cung cấp năng lực sản xuất mạnh hơn cho các nhà máy dầu vừa, sử dụng cấu trúc tấm thép đúc một khối, có khả năng chịu lực cao hơn.
+Phù hợp để nhà máy quy mô vừa đối chiếu kết cấu khung, thùng ép, áp suất định mức và kế hoạch theo ca. Khác biệt kết cấu không được tự động quy đổi thành tỷ lệ tăng sản lượng.
 
 [Xem giới thiệu đầy đủ dòng 355](/vi/products/355)
 
 ### Dòng 400
-Dòng tầm trung-cao, cung cấp năng lực sản xuất mạnh hơn cho các nhà máy dầu vừa đến lớn, được trang bị kiểm soát nhiệt độ thông minh và chức năng tự động hóa.
+Có các lựa chọn điều khiển nhiệt và tự động hóa cho dự án vừa và lớn hơn. Cần xác nhận quy trình thao tác, độ ổn định giữa các mẻ và khả năng kết nối với thiết bị tiền xử lý, lọc hoặc chiết rót.
 
 [Xem giới thiệu đầy đủ dòng 400](/vi/products/400)
 
 ### Dòng 426
-Dòng cao cấp, được thiết kế đặc biệt cho các nhà máy dầu lớn hiện đại.
+Hướng đến yêu cầu về thùng ép, áp suất và thiết bị đồng bộ ở quy mô lớn hơn. Cấu hình cụ thể phải được chốt theo nguyên liệu, lượng nạp mỗi mẻ và nhịp sản xuất dự kiến.
 
 [Xem giới thiệu đầy đủ dòng 426](/vi/products/426)
 
 ### Dòng 480
-Dòng siêu lớn, thiết kế công suất siêu lớn.
+Cấu hình tải nặng cần được kiểm tra theo khung, xi lanh, thùng ép và hệ thống thủy lực. Độ ổn định phải được đánh giá từ nhiều mẻ thử liên tiếp, không chỉ từ thông số tên máy.
 
 [Xem giới thiệu đầy đủ dòng 480](/vi/products/480)
 
 ### Dòng 500
-Dòng hàng đầu, công suất đặc biệt lớn.
+Cấu hình kích thước lớn cho dự án có yêu cầu tương ứng về kết cấu và vận hành. Lượng xử lý, điện năng, chu kỳ bảo trì và nhân công cần được tính theo điều kiện thực tế của nhà máy.
 
 [Xem giới thiệu đầy đủ dòng 500](/vi/products/500)
 
 ### Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc
-Dòng máy ép thủy lực cỡ nhỏ tập trung vào cửa hàng, phù hợp cho cửa hàng dầu mè, quầy dầu tươi trong siêu thị và các dự án dầu cao cấp quy mô nhỏ.
+Dòng máy cỡ nhỏ cho cửa hàng dầu mè, quầy ép dầu tại chỗ và dự án dầu theo mẻ nhỏ. Khi mua cần xác nhận lượng nạp, vật liệu tiếp xúc với dầu, phương thức gia nhiệt, vệ sinh và yêu cầu trưng bày tại điểm bán.
 
 - [Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc](/vi/products/korean-type-small-hydraulic-oil-press-machine)
 - [Máy ép dầu mè cỡ nhỏ](/vi/products/small-sesame-oil-press-machine)
@@ -57,19 +80,22 @@ Dòng máy ép thủy lực cỡ nhỏ tập trung vào cửa hàng, phù hợp 
 - [Máy ép dầu thủy lực nhỏ KHOP-15KG](/vi/products/khop-15kg-small-hydraulic-oil-press-machine)
 - [Máy ép dầu thủy lực nhỏ KHOP-20KG](/vi/products/khop-20kg-small-hydraulic-oil-press-machine)
 
-## Sản phẩm tùy chỉnh khách hàng
+## Thiết bị đồng bộ
 
-Đội ngũ dịch vụ tùy chỉnh của chúng tôi có thể cung cấp các giải pháp máy ép dầu thủy lực được cá nhân hóa dựa trên nhu cầu cụ thể của bạn.
+- [Thiết bị tiền xử lý](/vi/products/pre-treatment)
+- [Thiết bị lọc dầu](/vi/products/filtration-equipment)
+- [Thiết bị tinh luyện và khử sáp](/vi/products/refining-and-dewaxing-equipment)
+- [Thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
+- [Thiết bị xử lý sau ép](/vi/products/post-treatment)
+- [Tổng quan thiết bị phụ trợ](/vi/products/supporting)
 
-[Xem giới thiệu đầy đủ sản phẩm tùy chỉnh](/vi/products/customized-hydraulic-oil-press)
+## Tài liệu và hỗ trợ mua hàng
 
-## Video đơn hàng khách hàng & gửi hàng
-
-[Xem video đơn hàng khách hàng & gửi hàng](/vi/products/customer-order-shipping-video)
-
-## Thiết bị hỗ trợ
-
-[Xem thiết bị hỗ trợ](/vi/products/supporting)
+- [Hướng dẫn sử dụng thiết bị](/vi/products/instruction-manual)
+- [Máy ép dầu thủy lực tùy chỉnh](/vi/products/customized-hydraulic-oil-press)
+- [Video đơn hàng và giao hàng](/vi/products/customer-order-shipping-video)
+- [Giải pháp chế biến theo nguyên liệu](/vi/solutions/)
+- [Liên hệ để nhận cấu hình và báo giá](/vi/contact/)
 
 
 ## Nguyên lý hoạt động của xi lanh thủy lực
@@ -82,73 +108,33 @@ Tìm hiểu chi tiết về nguyên lý hoạt động, thành phần cơ bản 
 
 ## Giải thích chi tiết một số bộ phận của máy ép dầu thủy lực
 
-### Bộ phận chính
-#### 1.Trạm bơm
-+ Nguồn điện là một trạm thủy lực kết hợp siêu cao áp, trạm thủy lực được cấu hình với bơm kép kết hợp cao-thấp, áp suất bơm làm việc tối đa lên tới 80 MPa;
-+ Áp suất là năm piston, công suất cao, hoạt động dễ dàng đạt 60 MPa;
-+ Trang bị van xả áp suất cao-thấp, xả áp suất cao kép, sẽ không vượt quá áp suất an toàn hơn;
-+ Van chuyển hướng sử dụng van chuyển hướng bốn cốt siêu cao áp, không dễ bị rò rỉ áp suất, bền bỏ, bền lâu dài hơn.
-![Trạm bơm](/images/external/products-index-bfb7fcaa.webp)
+![Trạm bơm và cụm bộ phận máy ép dầu thủy lực](/images/external/products-index-bfb7fcaa.webp)
 
-### 2.Motor đồng nguyên chất
-+ Sử dụng motor đồng nguyên chất, hiệu suất hoạt động cao và bền bỏ, chất lượng cứng rắn, không dễ hỏng.
-![Motor đồng nguyên chất](/images/external/products-index-798d8557.webp)
-### 3.Xi lanh thủy lực
-+ Địa điểm sản xuất xi lanh là Đại Dã Sơn Đông (Công ty Nhà nước), sử dụng ống hợp kim silic-mangan 27, ống xi lanh được xử lý nhiệt và ủy quyền, hiệu suất vật liệu ổn định hơn, siêu cao áp không dễ bị nổ xi lanh, áp suất có thể đạt 80 MPa;
-+ Dầu của xi lanh được nhập khẩu từ Nhật Bản, sử dụng nhóm dầu cao áp Grayling kết hợp và vòng chắn nắp kép Y kết hợp, chịu siêu cao áp tốt hơn, hai lớp dầu không dễ bị rò rỉ, vật liệu được sử dụng gấp bội lần vật liệu thông thường, chất lượng cứng rắn, hiệu suất niêm phong mạnh, không dễ bị rò rỉ dầu;
-+ Piston sử dụng hai dây hướng phía trước và phía sau, không dễ hỏng hóc tường xi lanh, sẽ không chạy lệch mài tường.
-![Xi lanh thủy lực](/images/external/products-index-76efb8f6.webp)
+Ảnh trạm bơm chỉ dùng để tham khảo bố trí. Thương hiệu, model và thông số cuối cùng cần được ghi trong báo giá hoặc thỏa thuận kỹ thuật đã xác nhận.
 
-![Xi lanh thủy lực](/images/external/products-index-6aa7869d.webp)
-![Xi lanh thủy lực](/images/external/products-index-f582c751.webp)
+### Bảng kiểm tra khi mua hàng
 
-Video lăn gương xi lanh thủy lực:
-<div class="video-container">
-  <iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-Video trưng bày sản phẩm hoàn thành xi lanh thủy lực:
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/taGBjx0XnkA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+| Bộ phận | Nội dung cần đối chiếu trước khi đặt hàng |
+| --- | --- |
+| Trạm bơm | Model và loại bơm; áp suất và lưu lượng định mức; dung tích thùng dầu; van tràn và van đảo chiều; phương thức làm mát; dải đo đồng hồ; sơ đồ thủy lực; điều kiện thử tăng áp và giữ áp đã thống nhất. |
+| Xi lanh thủy lực | Đường kính trong, hành trình và áp suất định mức; vật liệu ống xi lanh và cần piston cùng xử lý bề mặt; mã phớt; kích thước lắp; bản vẽ; điều kiện thử giữ áp và kiểm tra rò rỉ. |
+| Tủ điều khiển | Điện áp và tần số cấp; model bộ điều khiển hoặc PLC; thương hiệu và mã linh kiện điện; dừng khẩn cấp, bảo vệ quá tải và áp suất; ngôn ngữ giao diện; sơ đồ điện. |
+| Thùng ép | Đường kính hữu dụng, chiều cao và thể tích mỗi mẻ; vật liệu tiếp xúc với nguyên liệu; quy cách thanh và khe thoát dầu; vành hoặc kết cấu gia cường; cách vệ sinh và thay thế. |
+| Động cơ | Công suất, điện áp, số pha, tần số, tốc độ, chế độ làm việc và cấp bảo vệ định mức; nhãn máy; chứng nhận áp dụng; điều kiện thử có tải. |
+| Phụ tùng hao mòn | Tên, mã, kích thước, vật liệu và số lượng phụ tùng đi kèm; khả năng tương thích với model đã chọn; bộ dự phòng ban đầu, đơn giá và thời gian giao. |
 
+### Tài liệu kỹ thuật và trang model
 
-Video kỹ thuật hàn siêu cao áp xi lanh thủy lực:
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/8TpO4JBcJ_A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+- [Nguyên lý hoạt động của xi lanh thủy lực](/vi/products/hydraulic-cylinder-principle)
+- **Trang thông số model:** [300](/vi/products/300), [325](/vi/products/325), [355](/vi/products/355), [400](/vi/products/400), [426](/vi/products/426), [480](/vi/products/480), [500](/vi/products/500)
+- [Hướng dẫn sử dụng thiết bị](/vi/products/instruction-manual)
 
-### 4.Hộp điều khiển
-+ Hệ thống điều khiển sử dụng hệ thống vi máy tính, tất cả các chương trình được kết nối phần mềm, hệ thống điều khiển dễ hoạt động;
-+ Được trang bị với hai đồng hồ đo áp suất, phanh điện cao áp kép;
-+ Các linh kiện điện sử dụng các sản phẩm chất lượng của các thương hiệu nổi tiếng, chất lượng cứng rắn có tuổi thọ lâu dài.
-![Hộp điều khiển](/images/external/products-index-3bdb9615.webp)
+### Thông tin cần gửi để nhà máy cấu hình và báo giá
 
-
-### 5.Bình chứa
-+ Mô hình máy này được trang bị với bình chứa đường kính 390mm;
-+ Bình chứa được tạo thành toàn bộ bằng các hàng chìa khóa hình thang xếp chồng lên nhau được sắp xếp đều đặn, các chìa khóa hình thang ngoài lớn trong nhỏ không bít dẫn dầu, bình không leo lên, diện tích lạnh gió lớn lạnh gió nhanh, gấp 15 lần diện tích khoan lạnh gió cao đạt 2%-3%;
-+ Vòng ngoài sử dụng bộ chế hình được rèn dập, vật liệu sử dụng thép Shansui Q690, kháng xoá cao, kéo cao, chống mài mòn cao, không biến dạng.
-<div class="video-container">
-  <iframe width="700" height="330" src="https://www.youtube.com/embed/HWjvDznT95U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### 6.Thanh piston
-![Thanh piston](/images/external/products-index-a0ce7064.webp)
-Video xử lý tắt các cửa hàng máy ép dầu, xử lý tắt các cửa hàng piston tăng độ cứng bề mặt không bị trầy xước, kéo dài tuổi thọ xi lanh thủy lực
-<div class="video-container">
-  <iframe width="700" height="330" src="https://www.youtube.com/embed/twPxOI2VQIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### Bộ phận dễ hỏng
-
-#### 1.Bộ điều khiển
-#### 2.Đồng hồ đo áp suất
-#### 3.Ống dầu cao áp （1 mét）
-#### 4.Ống dầu thấp áp （0.8mét）
-#### 5.Dầu của xi lanh
-#### 6.Vòng niêm phong
-#### 7.Ổ bi
-#### 8.Van chuyển hướng
-#### 9.Khối van
-#### 10.Thép cầu
-#### 11.Lò xo
+- Loại nguyên liệu, tình trạng đầu vào, khoảng độ ẩm nếu đã biết và phương pháp tiền xử lý dự kiến.
+- Khối lượng mục tiêu mỗi mẻ, sản lượng cần theo ca hoặc ngày và số giờ vận hành dự kiến.
+- Phạm vi công nghệ cần cung cấp: làm sạch, nghiền, hấp hoặc rang, ép, lọc, tinh luyện và chiết rót.
+- Điện áp, số pha, tần số tại nơi lắp đặt và tiêu chuẩn điện cần áp dụng.
+- Diện tích lắp đặt, giới hạn cửa ra vào hoặc nâng hạ, cùng yêu cầu về tự động hóa, ngôn ngữ giao diện và vật liệu tiếp xúc sản phẩm.
+- Số lượng máy, địa điểm giao hàng, thời hạn mong muốn, điều kiện thương mại và nhu cầu phụ tùng ban đầu, lắp đặt hoặc đào tạo.
+- Nếu mua phụ tùng thay thế hoặc nâng cấp, gửi model, số sê-ri, ảnh nhãn máy và ảnh rõ của chi tiết kèm kích thước đo được.

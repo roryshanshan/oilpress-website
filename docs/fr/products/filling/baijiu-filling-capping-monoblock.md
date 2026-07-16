@@ -1,26 +1,27 @@
 ---
-title: Machine à deux lignes de remplissage d'alcool prix | fabricant
-description: Demandez le prix et le devis pour Machine à deux lignes de remplissage d'alcool. Fabricant Shengshi Hecheng, livraison et SAV.
-keywords: Remplissage d'alcool à deux lignes prix, acheter Remplissage d'alcool à deux lignes, devis usine, fabricant chinois, exportation, service après-vente
+title: "Monobloc de remplissage pour spiritueux | Prix fabricant et devis"
+description: "Monobloc de remplissage et capsulage pour spiritueux non gazeux, de 6 000 à 20 000 bouteilles/h. Comparez le dosage, l'intégration, le prix, le devis et le SAV."
+keywords: "monobloc de remplissage et capsulage pour spiritueux prix, devis monobloc de remplissage et capsulage pour spiritueux, 6 000-20 000 bouteilles/h avec dosage quantitatif de liquides non gazeux, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/baijiu-filling-capping-monoblock.webp"
 ---
-# Remplissage d'alcool à deux lignes
 
-![Remplissage d'alcool à deux lignes](/images/filling-products/baijiu-filling-capping-monoblock.webp)
+# Monobloc de remplissage et capsulage pour spiritueux
 
-La machine de remplissage d'alcool à deux lignes peut être utilisée comme référence pour des modèles spécifiques dans la machine combinée et le bus de support de remplissage. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+![Monobloc de remplissage et capsulage pour spiritueux](/images/filling-products/baijiu-filling-capping-monoblock.webp)
 
-## Positionnement du modèle
+Le monobloc GF réunit le dosage et la fermeture des bouteilles pour les spiritueux non gazeux et d'autres liquides fluides compatibles. Il réduit les transferts entre deux postes, mais le choix du modèle dépend toujours du produit, de la bouteille, de la capsule et de la cadence réellement exigée.
 
-- Série : [Machine combinée et bus de support de remplissage](/fr/solutions/filling-packages)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#fp-baijiu-dual)
-- Scénarios applicables : Plus adaptés au remplissage et au bouchage des stations continues pour liquides non gazeux.
+## Domaine d'application et critères d'achat
 
-## Résumé des informations publiques
+- Famille : [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- Repère technique : [Paramètres publiés de Monobloc de remplissage et capsulage pour spiritueux](/fr/products/filling-equipment#fp-baijiu-dual)
+- Choisir le nombre de becs et de têtes de capsulage d'après la cadence soutenue au format réel, pas uniquement d'après la valeur maximale du tableau.
+- Vérifier que le principe de dosage proposé convient au produit et à la plage de volume.
+- Prévoir l'arrivée des bouteilles, l'alimentation des capsules, l'accumulation en sortie et les interfaces avec rinçage, étiquetage et encaissage.
 
-Cette machine est utilisée pour le remplissage quantitatif et le scellement de liquides non gazeux.
+## Paramètres de référence publiés
 
-## Table des paramètres publics
+Le tableau ci-dessous est conservé comme repère de gamme. Les performances et la compatibilité finales doivent être confirmées dans l'offre technique et le protocole de réception.
 
 <table>
   <tbody>
@@ -83,14 +84,23 @@ Cette machine est utilisée pour le remplissage quantitatif et le scellement de 
   </tbody>
 </table>
 
-## Suggestions complémentaires
+## Données nécessaires au devis fabricant
 
-- Regardez d'abord la page de la série : [Machine combinée et bus de support de remplissage](/fr/solutions/filling-packages)
-- Regardons à nouveau l'aperçu des paramètres : [La position de la ligne de remplissage d'alcool à deux lignes dans la bibliothèque de paramètres](/fr/products/filling-equipment#fp-baijiu-dual)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+- Nom du liquide, viscosité, teneur en alcool le cas échéant, tendance à mousser et matériaux de contact requis.
+- Échantillons de bouteilles et capsules, volumes de remplissage, tolérance et changements de format prévus.
+- Cadence par format, plan disponible, hauteur de convoyeur et utilités du site.
+- Méthode de FAT, interfaces de ligne, emballage export et périmètre de mise en service demandé.
 
-## Pages connexes
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Machine combinée et bus de support de remplissage](/fr/solutions/filling-packages)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+## Prix, livraison et périmètre SAV écrit
+
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
+
+## Équipements associés et prochaine étape
+
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Paramètres publiés de Monobloc de remplissage et capsulage pour spiritueux](/fr/products/filling-equipment#fp-baijiu-dual)
+- [Planification des lignes de production](/fr/solutions/production-lines)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

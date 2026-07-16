@@ -1,6 +1,6 @@
 ---
 title: 芝麻筛选机｜清理除杂设备价格与厂家报价
-description: 获取芝麻筛选机价格与厂家报价，适合芝麻、菜籽、亚麻籽、紫苏籽等小颗粒油料筛选除杂，支持220V/380V与整线采购。
+description: "芝麻筛选机适合芝麻、菜籽、亚麻籽和紫苏籽等小颗粒油料除杂，可按处理量、220V/380V电源及整线衔接咨询厂家报价与售后。"
 keywords: 芝麻筛选机价格, 芝麻清理机报价, 芝麻除杂设备厂家, 油料筛选机采购, 菜籽筛选机, 亚麻籽清理设备, 厂家直供, 售后支持
 image: "/images/sesame-screening-machine/sesame-screening-machine-green-main.jpg"
 ---

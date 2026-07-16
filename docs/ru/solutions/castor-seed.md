@@ -1,158 +1,69 @@
 ---
-title: Castor Seed (Castor Oil) Solutions - Shengshi Hecheng цена | к...
-description: "Запросите стоимость решения Castor Seed (Castor Oil) Solutions - Shengshi Hecheng: проект линии, список оборудования и сервис."
-keywords: Castor Seed (Castor Oil) Solution цена линии, коммерческое предложение, проект под ключ, подбор оборудования, поставка и сервис
+title: "Касторовое масло: линия отжима, цена и КП"
+description: "Линия касторового масла: очистка, кондиционирование, прессование и фильтрация. Сверьте безопасность жмыха, оборудование, цену производителя, КП и сервис."
+keywords: пресс для клещевины, оборудование для касторового масла, линия прессования клещевины, цена, купить, производитель, фильтрация, сервис
 image: "/images/hot-pressing-process-of-castor-seeds-png-89a6227aab.webp"
 ---
-# Castor Seed (Castor Oil) Solution
 
-## Overview
+# Промышленная линия производства касторового масла
 
-Castor seed is the seed of the castor plant, rich in special oil that can extract castor oil. Castor oil has unique physicochemical properties, mainly used in industrial fields such as lubricants, coatings, and medicine. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional castor seed pressing solutions, meeting production needs of different scales.
+Семена клещевины и касторовый жмых требуют отдельного промышленного обращения. Это не линия пищевого масла: пресс, фильтр, инструменты, хранение и очистка должны быть отделены от пищевого производства.
 
-## Castor Seed Characteristics
+![Подготовка и прессование семян клещевины](/images/hot-pressing-process-of-castor-seeds-png-89a6227aab.webp)
 
-### 📊 Basic Parameters
-- **Oil Content**: 45-55%
-- **Protein Content**: 18-22%
-- **Main Component**: Ricinoleic acid (80-90%)
-- **Suitable Temperature**: Pressing temperature controlled at 80-100℃
+## Граница сырья и безопасности
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 150-180 days
-- **Suitable Climate**: Warm, humid climate
-- **Soil Requirements**: Fertile, well-drained soil
-- **Annual Production**: Global castor production about 2 million tons
+Укажите цельные, частично обрушенные или уже подготовленные семена, их влажность, примеси, источник, хранение и имеющиеся данные безопасности. Семена и жмых клещевины токсичны; прессование не обезвреживает остаток и не делает его пригодным для кормления.
 
-## Processing Technology
-Castor seed oil pressing technology: (Recommended 300AC-390/325AC-390/355AC-390/400AC-390)
- + Hot pressing process for castor seed oil:
- + Step 1: Crushing
- + Step 2: Frying
- + Step 3: Pressing
- + ![Castor Seed Oil](/images/hot-pressing-process-of-castor-seeds-png-89a6227aab.webp)
+## Рекомендуемая подготовка
 
-## Видео обработки высокого давления большой емкости от нашей компании пока недоступно, пожалуйста, временно обратитесь к следующему корейскому прессу для масла, прессующему семена клещевины
+1. Принимать и хранить семена в контролируемой промышленной зоне.
+2. Удалять посторонние включения с локализацией пыли.
+3. Обрушивать, калибровать или дробить сырьё только по результату испытания.
+4. Кондиционировать тепло и влагу под согласованную спецификацию сырого масла.
+5. Предусмотреть отдельный сбор масла, закрытые ёмкости для жмыха и выделенный инвентарь для очистки.
 
-<div class="video-container">
- <iframe src="https://www.youtube.com/embed/4AhVzopNoc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## Специализированный маршрут прессования
 
-## Technical Advantages
+Линия должна иметь защищённую подачу, контролируемое кондиционирование, закрытый сбор масла и определённую процедуру выгрузки жмыха. Пакетный гидравлический и непрерывный механический варианты сравнивают после получения репрезентативной пробы, требований к производительности, плана защиты работников и объёма последующей обработки.
 
-### 🎯 Precise Control
-- Temperature control: ±2℃ precision
-- Pressure control: Intelligent adjustment
-- Frying time: Optimal process parameters
+### Оборудование для комплектации
 
-### 💧 Oil Quality Guarantee
-- Hot pressing process highlights characteristics
-- Physical pressing ensures purity
-- Oil yield up to 50-52%
+- [Оборудование предварительной подготовки](/ru/products/pre-treatment)
+- [Пневматический фильтр-пресс](/ru/products/pneumatic-filter-press)
+- Модели для промышленного испытания: [355](/ru/products/355), [400](/ru/products/400), [426](/ru/products/426), [480](/ru/products/480) и [500](/ru/products/500)
+- [Комплектные линии производства масла](/ru/solutions/production-lines)
 
-### 🔄 Continuous Production
-- Automated production process
-- Continuous pressing technology
-- Intelligent quality monitoring
+## Фильтрация и промышленная спецификация
 
-## Product Applications
+Задайте сырое или фильтрованное касторовое масло, содержание твёрдых частиц, видимую воду, точку отбора, материалы резервуаров и уплотнений, а также последующую рафинацию или химическую переработку. В закупочную спецификацию включают контейнеры для жмыха, маркированное хранение, вентиляцию, обращение с отходами и границы деконтаминации.
 
-### 🏭 Industrial Applications
-- Castor oil: High-quality industrial oil
-- Lubricants: Mechanical lubrication
-- Coating raw materials: Paint production
+## Данные для расчёта и коммерческого предложения
 
-### 🥛 By-products
-- Castor meal: High-quality protein feed
-- Castor shells: Fuel or feed
-- Castor protein: Industrial additives
+- Репрезентативные цельные или обрушенные семена, влажность, примеси, хранение и документы безопасности
+- Загрузка на партию или сутки, рабочие часы, способ подачи и требуемая автоматизация
+- Промышленное назначение, спецификация сырого масла, кондиционирование и последующая обработка
+- Степень фильтрации, трубопроводы, резервуары, ёмкости жмыха, пылеулавливание, вентиляция и очистка
+- Электричество, тепло, изолированная площадь, пункт назначения и условия поставки
 
-### 💊 Functional Products
-- Ricinoleic acid
-- Castor polyphenols
-- Castor phospholipids
+## Протокол испытания и приёмки
 
-## Market Analysis
+До нагрузочного запуска проверяют разделение зон, ограждения, удаление пыли, средства защиты, выделенный инвентарь и хранение жмыха. Во время испытания записывают влажность, состояние после обрушивания или дробления, режим кондиционирования, загрузку или подачу, цикл, температуру, сырое и фильтрованное масло и жмых. Отдельно фиксируют утечки, фильтрацию, удаление остатка, очистку и маркированную передачу проб.
 
-### 📈 Development Trends
-- Growing industrial oil demand
-- Expanding green industrial raw materials
-- Increasing export trade opportunities
+## Связанные страницы
 
-### 🎯 Target Markets
-- Industrial oil processing enterprises
-- Coating production enterprises
-- Lubricant enterprises
-- Export trading enterprises
+- [Обзор решений](/ru/solutions/)
+- [Специальные масличные решения](/ru/solutions/special-oils)
+- [Хлопковое масло](/ru/solutions/cottonseed)
+- [Пальмовое масло](/ru/solutions/palm)
+- [Пресс серии 500](/ru/products/500)
+- [Связаться с техническим отделом](/ru/contact/)
+- [Страница на китайском языке](/zh/solutions/castor-seed)
 
-## Success Cases
+## Запросить конфигурацию и цену
 
-### An Indian Castor Oil Processing Plant
-- **Equipment Configuration**: 400 Series Oil Press × 6 units
-- **Daily Processing Capacity**: 80 tons castor seeds
-- **Oil Yield**: 51%
-- **Annual Production**: 8,000 tons castor oil
-- **Market Coverage**: Multiple countries worldwide
+Отправьте образец и паспорт безопасности семян, промышленную спецификацию масла, объём, схему обращения со жмыхом, параметры изолированной площадки и пункт назначения.
 
-### A Chinese Castor Oil Enterprise
-- **Equipment Configuration**: 355 Series Special Press × 4 units
-- **Daily Processing Capacity**: 30 tons castor seeds
-- **Product Quality**: Industrial standards
-- **Brand Building**: Internationally renowned brand
-- **Annual Sales**: 60 million RMB
-
-### A Brazilian Premium Castor Oil Brand
-- **Equipment Configuration**: 325 Series Special Press × 8 units
-- **Daily Processing Capacity**: 20 tons premium castor seeds
-- **Product Quality**: International industrial standards
-- **Market Positioning**: Premium industrial oil
-- **Export Market**: Europe, Americas
-
-## Quality Standards
-
-### 🏆 Product Quality Standards
-- Complies with industrial oil standards
-- Complies with export industrial standards
-- Complies with safe transportation standards
-
-### 🔍 Testing Items
-- Acid value testing
-- Viscosity testing
-- Color and transparency testing
-- Heavy metal content testing
-- Impurity content testing
-
-## Sustainable Development
-
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
-
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
-
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure production safety
-- Protect ecological environment
-
-## Contact Us
-
-If you are interested in castor seed pressing solutions, please contact our technical team:
-
-- 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
-
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable castor seed pressing solution.
-
-## Запросить цену и расчёт
-
-Сообщите требуемую производительность, сырьё и бюджет — мы подготовим расчет и конфигурацию линии.
-
-- [Запросить цену и расчёт](/ru/contact/)
+- [Запросить расчёт промышленной линии касторового масла](/ru/contact/)
 
 <!-- quote-cta -->

@@ -1,66 +1,75 @@
 ---
-title: "Sealing machine series | Specs, Models & Factory Quote"
-description: "Browse sealing machine series for edible oil and liquid packaging lines. Compare models, capacity ranges, and request factory pricing with process guidance."
-keywords: Sealing machine series, edible oil sealing machine, aluminum foil sealing machine, capping sealing equipment, heat sealing machine, liquid packaging sealing line
+title: "Capping & Sealing Machines | Price & Factory Quote"
+description: "Compare cap pressing, pneumatic capping, aluminum and tamper-evident sealing machines. Confirm bottle and closure samples for a manufacturer quote."
+keywords: capping sealing machine price, bottle capper manufacturer, aluminum cap sealing machine quote, plastic cap press, tamper evident capper, filling line procurement
 image: "/images/filling-solutions/sealing.webp"
 ---
 
-# Sealing machine series
+# Capping and sealing machines
 
-![Real shot of fully automatic anti-theft cap sealing machine](/images/filling-solutions/sealing.webp)
+![Automatic tamper-evident cap sealing machine](/images/filling-solutions/sealing.webp)
 
-The sealing machine is the key equipment to ensure the sealing, leakage prevention and anti-counterfeiting integrity of the product after filling. Depending on the packaging form, the sealing module can have different solutions such as aluminum foil induction sealing, screw capping, bag heat sealing, etc. Its position in the entire line is usually immediately after the filling station.
+The closure section protects the filled product and prepares the package for inspection, labeling and transport. Cap geometry, bottle neck, liner or seal construction and required application force determine the correct machine. Closure names alone are not enough because visually similar caps can require different handling and tooling.
 
-## Common sealing forms
+## Position in the packaging line
 
-- Bottle mouth aluminum foil induction sealing
-- Plastic bottle screw caps or press caps
-- Barrel lid
-- Heat sealing or composite sealing for bagged products
+**Filling -> cap supply and placement -> pressing, tightening or sealing -> closure inspection or leak test -> labeling and coding -> case packing**
 
-## Applicable products
+The capper must match the filler discharge and downstream accumulation. For products that use corks or heat-shrink capsules, review the dedicated [corking](/en/solutions/corking/) and [capsule shrinking](/en/solutions/cap-shrinking/) series.
 
-- Bottled or barreled cooking oils such as peanut oil, rapeseed oil, soybean oil, etc.
-- Liquid packaging products such as flavoring liquid, fruit wine, and beverages
-- Terminal packaging items that need to be leak-proof, anti-oxidation, and anti-tampering
+## Closure and container basis
 
-## Selection suggestions
+Confirm:
 
-- First confirm the packaging form, whether it is bottled, bagged or barreled
-- Reconfirm the cap type, sealing material and whether an anti-theft structure is needed
-- If you need gift boxing or high-end appearance later, you can continue to add [plastic cap heat shrinking machine series](/en/solutions/cap-shrinking/)
-- If the project is wine glass bottle cork packaging, you should pay more attention to [corking machine series](/en/solutions/corking/)
+- Bottle material, neck finish and dimensional tolerances
+- Plastic press-on cap, threaded cap, aluminum cap or another approved closure
+- Cap liner, tamper-evident feature and required finished appearance
+- Cap feeding orientation and allowable surface marks
+- Customer-specified application force, torque or seal test
+- Product leakage, hygiene and cleaning requirements
+- Number of formats and changeover expectation
 
-## Typical whole line position
+## Available capping and sealing machines
 
-1. [Filling machine series](/en/solutions/filling/)
-2. Sealing machine series
-3. [Light inspection machine series](/en/solutions/light-inspection/)
-4. [Labeling machine series](/en/solutions/labeling/)
+| Model | Selection focus |
+| --- | --- |
+| [SY plastic cap press](/en/products/filling/plastic-cap-pressing-machine) | Press-on plastic closure and bottle support |
+| [Automatic pneumatic capper](/en/products/filling/pneumatic-capping-machine) | Pneumatic application method and line integration |
+| [Automatic single-head bottle sealer](/en/products/filling/single-head-sealing-machine) | Single-head operation, tooling and format handling |
+| [Aluminum cap sealer](/en/products/filling/aluminum-cap-sealing-machine) | Aluminum closure, neck fit and finished seal |
+| [Automatic tamper-evident cap sealer](/en/products/filling/anti-theft-cap-sealing-machine) | Tamper-evident closure handling and appearance |
 
-## Benchmark reference model
+Use linked product pages for published model specifications. Final tooling and performance must be confirmed with approved bottle and closure samples.
 
-The following models are suitable as a reference for the rhythm of the sealing section of bottled oil, liquor and seasoning liquid. The model name can directly enter the corresponding product page.
+## Procurement decisions that affect price
 
-| Model | Excerpt of public parameters | Applicable instructions |
-| --- | --- | --- |
-| [Plastic anti-pressure capping machine SY-60 / SY-90](/en/solutions/sealing/plastic-cap-pressing-machine) | 6000-9000 p/h; bottle diameter 60-100 mm; bottle mouth 20-50 mm; bottle height 160-320 mm; 0.37-0.75 kW | Suitable for plastic cover gland |
-| [Fully automatic pneumatic capping machine](/en/solutions/sealing/pneumatic-capping-machine) | Suitable for twist-off aluminum anti-theft caps; four-wheel balanced rolling head; quick changeover; with overload protection | Suitable for high-speed anti-theft cap lines |
-| [Automatic single-head sealing machine SY](/en/solutions/sealing/single-head-sealing-machine) | 6000 bottles/hour; applicable bottle diameter Φ50-100 mm; bottle height 120-320 mm; bottle mouth 22-32 mm; 0.37 kW | Suitable for medium and low speed single-head sealing |
-| [Aluminum cap sealing machine](/en/solutions/sealing/aluminum-cap-sealing-machine) | 1200-1400 b/h; bottle height 60-340 mm; bottle mouth φ20-32 mm; the whole machine is about 600×210×990 mm | Suitable for small batch sealing of aluminum caps |
+- Stand-alone capper or integration with a filler/monoblock
+- Automatic cap feeding, sorting and missing-cap detection
+- Closure application method and supplied tooling
+- Number of bottle and cap formats
+- Leak test, inspection and rejection scope
+- Conveyor, controls, guarding and cleanability
+- Destination power, delivery, commissioning and spare parts
 
-## Direct access to specific models
+## Quote request checklist
 
-- [Plastic cap pressing machine](/en/solutions/sealing/plastic-cap-pressing-machine)
-- [Fully automatic pneumatic capping machine](/en/solutions/sealing/pneumatic-capping-machine)
-- [Fully automatic anti-theft cap sealing machine](/en/solutions/sealing/anti-theft-cap-sealing-machine)
-- [Automatic single-head sealing machine](/en/solutions/sealing/single-head-sealing-machine)
-- [Aluminum cap sealing machine](/en/solutions/sealing/aluminum-cap-sealing-machine)
-- [Filling and packaging equipment parameter library overview](/en/products/filling-equipment)
+Send bottle and cap drawings plus physical samples, product description, target output, required closure test, upstream filler, downstream inspection or labeler, conveyor dimensions, utilities, layout and destination. State whether caps arrive loose, oriented or pre-applied.
 
-## Related pages
+## FAT and after-sales boundary
 
-- [Filling machine series](/en/solutions/filling/)
-- [Corking machine series](/en/solutions/corking/)
-- [Cap heat shrinking machine series](/en/solutions/cap-shrinking/)
-- [Overview of filling packages](/en/solutions/filling-packages)
+FAT should use the agreed bottle, cap and product or substitute. Define cap presence, finished position, application force or torque method, leakage test, cosmetic damage, jams, changeover and line interlocks. Test consumables, local installation, travel, training, tooling spares, warranty and support response are supplied only as stated in the signed commercial documents.
+
+## Related line modules
+
+- [Liquid filling machines](/en/solutions/filling/)
+- [Light inspection machines](/en/solutions/light-inspection/)
+- [Labeling machines](/en/solutions/labeling/)
+- [Packing and palletizing](/en/solutions/packing-palletizing/)
+
+## Request capping machine pricing
+
+Provide the approved bottle and closure combination to receive a tooling plan, supply scope and manufacturer quote.
+
+- [Request a capping and sealing machine quote](/en/contact/)
+
+<!-- quote-cta -->

@@ -1,6 +1,6 @@
 ---
-title: "Hướng dẫn chế biến dầu hạt trà: Ép nóng, ép lạnh và cấu hình t..."
-description: Tìm hiểu cách chế biến dầu hạt trà với máy ép dầu thủy lực, bao gồm lựa chọn ép nóng hoặc ép lạnh, tiền xử lý và cấu hình dây chuyền.
+title: "Dầu hạt trà | Tiền xử lý, ép nóng và ép lạnh"
+description: "Làm sạch, bóc vỏ, nghiền, rang nhẹ, ép và lọc hạt trà; chọn ép nóng/lạnh theo độ ẩm, hương, màu, tỷ lệ thu dầu và mục tiêu sản phẩm."
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-11"
 ---

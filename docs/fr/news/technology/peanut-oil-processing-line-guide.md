@@ -1,6 +1,6 @@
 ---
-title: "Guide de ligne de production d'huile d'arachide : pressage à c..."
-description: "Guide de ligne de production d'huile d'arachide : pressage à chaud, à froid et configuration de ligne: equipment overview, selection guidance, and…"
+title: "Ligne d'huile d'arachide : procédé et équipements"
+description: "Guide d'achat d'une ligne d'huile d'arachide : nettoyage, broyage, torréfaction, presse hydraulique, filtration et données nécessaires au devis."
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-16"
 ---

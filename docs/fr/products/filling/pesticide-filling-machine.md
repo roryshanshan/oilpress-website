@@ -1,28 +1,27 @@
 ---
-title: "Machine de remplissage de pesticides | Prix usine et devis"
-description: "Demandez le prix usine pour Machine de remplissage de pesticides. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
-keywords: Machine de remplissage de pesticides prix, acheter Machine de remplissage de pesticides, devis usine, fabricant chinois, exportation, service après-vente
+title: "Remplisseuse pour pesticides | Prix fabricant et devis"
+description: "Remplisseuse pour pesticides et produits chimiques, de 2 000 à 7 000 contenants/h avec 10 à 24 têtes. Le devis précise les formats, le prix et le SAV."
+keywords: "remplisseuse pour pesticides et produits chimiques prix, devis remplisseuse pour pesticides et produits chimiques, 2 000-7 000 contenants/h avec 10-24 têtes pour agrochimie et détergents, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/pesticide-filling-machine.webp"
 ---
-# Machine de remplissage de pesticides
 
-![Machine de remplissage de pesticides](/images/filling-products/pesticide-filling-machine.webp)
+# Remplisseuse pour produits phytosanitaires et agrochimiques
 
-La machine de remplissage de pesticides convient aux projets de liquides en bouteille tels que les produits agrochimiques et les produits chimiques quotidiens. La section avant est équipée d'un mécanisme de déballage des bouteilles et la section arrière est reliée à un bouchage. Il peut couvrir les besoins des lignes automatiques de rendement moyen à faible à moyen à élevé.
+![Remplisseuse pour produits phytosanitaires et agrochimiques](/images/filling-products/pesticide-filling-machine.webp)
 
-## Positionnement du modèle
+Cette catégorie regroupe la mise en ordre des bouteilles, le dosage et la fermeture prévue pour des emballages agrochimiques, d'engrais liquides ou de produits d'entretien. La compatibilité et les risques doivent être étudiés sur la formulation réelle ; le nom de la machine ne couvre pas tous les pesticides ni solvants.
 
-- Série : [Série de machines de remplissage](/fr/solutions/filling/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#fill-pesticide)
-- Scénarios applicables : convient aux scénarios de remplissage automatique de pesticides, d'engrais liquides, de nettoyants chimiques quotidiens, etc.
+## Domaine d'application et critères d'achat
 
-## Résumé des informations publiques
+- Famille : [Série de remplisseuses](/fr/solutions/filling/)
+- Repère technique : [Paramètres publiés de Remplisseuse pour produits phytosanitaires et agrochimiques](/fr/products/filling-equipment#fill-pesticide)
+- Distinguer dans l'offre le démêlage des bouteilles, le remplissage, le capsulage et le scellage.
+- Vérifier matériaux et joints avec la fiche de données de sécurité et les produits de nettoyage.
+- Intégrer rétention, ventilation et protection opérateur au cahier des charges.
 
-- L'équipement adopte une structure en acier inoxydable et des composants de marque, en tenant compte de la résistance à la corrosion et de la résistance à l'usure.
-- La section avant est un redresseur de bouteilles de type disque et la section arrière peut être connectée au bouchage ou au scellage par micro-ondes.
-- Les modèles publics couvrent « LGF-10-1 » à « LGF-24-1 »
+## Paramètres de référence publiés
 
-## Table des paramètres publics
+Le tableau ci-dessous est conservé comme repère de gamme. Les performances et la compatibilité finales doivent être confirmées dans l'offre technique et le protocole de réception.
 
 | Modèle | Capacité | Pièce de déballage des bouteilles | Pièce de remplissage | Nombre de têtes de remplissage | Méthode de plafonnement | Puissance totale (kW) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -31,20 +30,25 @@ La machine de remplissage de pesticides convient aux projets de liquides en bout
 | LGF-20-1 | 5000 | Démêleur de bouteilles à disque | Remplissage rotatif | 20 | Bouchage / Micro-ondes | 3.2 |
 | LGF-24-1 | 7000 | Démêleur de bouteilles à disque | Remplissage rotatif | 24 | Bouchage/Micro-ondes | 3.2 |
 
-## Comment choisir
+## Données nécessaires au devis fabricant
 
-- `LGF-10-1 / 16-1` : plus adapté au démarrage de lignes automatiques
-- `LGF-20-1` : Une mise à niveau de tempo adaptée aux projets de taille moyenne
-- `LGF-24-1` : Convient à une production continue de plus grande capacité
+- Fiche de sécurité, compatibilité, viscosité, mousse et température.
+- Bouteilles et capsules, plage de volume, tolérance et type de fermeture.
+- Cadence, changements de format, nettoyage et séparation des produits.
+- Conditions de sécurité, liquide FAT ou substitut, critères et périmètre SAV écrit.
 
-## Suggestions complémentaires
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-- Pour les matériaux hautement corrosifs ou très moussants, veuillez comparer [machine de remplissage résistante à la corrosion acide et alcaline](/fr/products/filling/corrosion-resistant-filling-machine)
-- Grand projet d'emballage de barils, vous pouvez continuer à voir [Machine de remplissage linéaire](/fr/products/filling/linear-filling-machine)
-- Pour la solution complète, vous pouvez continuer à consulter [Présentation de la solution de support de remplissage](/fr/solutions/filling-packages)
+## Prix, livraison et périmètre SAV écrit
 
-## Pages connexes
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Série de machines de remplissage](/fr/solutions/filling/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+## Équipements associés et prochaine étape
+
+- [Série de remplisseuses](/fr/solutions/filling/)
+- [Paramètres publiés de Remplisseuse pour produits phytosanitaires et agrochimiques](/fr/products/filling-equipment#fill-pesticide)
+- [Remplisseuse pour liquides corrosifs](/fr/products/filling/corrosion-resistant-filling-machine)
+- [Remplisseuse linéaire 10-25 L](/fr/products/filling/linear-filling-machine)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

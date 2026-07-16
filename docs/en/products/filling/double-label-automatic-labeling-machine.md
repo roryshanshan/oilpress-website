@@ -1,26 +1,27 @@
 ---
-title: Linear double label fully automatic labeling machine Price
-description: Get price, procurement, and after-sales support for Linear double label fully automatic labeling machine from Shengshi Hecheng manufacturer.
-keywords: Linear double label fully automatic labeling machine price, Linear double label fully automatic labeling machine quote, Linear double label fully automatic labeling machine manufacturer, Linear double label fully automatic labeling machine supplier, procurement, after-sales
+title: "Automatic Double-Side Labeler | Manufacturer Quote"
+description: "Compare automatic double-label machines for front, back, or multi-side labeling at 6,000 bottles/hour, with factory pricing and line support."
+keywords: "linear double-label automatic labeling machine price, linear double-label automatic labeling machine manufacturer quote, double side bottle labeler, 6000 bottles per hour, bottled oil labeling, complete line integration, export packing, commissioning, after-sales service"
 image: "/images/filling-products/double-label-automatic-labeling-machine.webp"
 ---
-# Linear double label fully automatic labeling machine
 
-![Linear double label automatic labeling machine](/images/filling-products/double-label-automatic-labeling-machine.webp)
+# Automatic Front-and-Back Labeling Machine
 
-The linear double-label fully automatic labeling machine can be used as a reference for specific models in the labeling machine series. This page organizes model positioning, parameter information and supporting suggestions based on public product information to facilitate preliminary selection and page jumps.
+![Automatic Front-and-Back Labeling Machine](/images/filling-products/double-label-automatic-labeling-machine.webp)
 
-## Model positioning
+This linear labeler applies two pressure-sensitive labels to the front and back, or two defined panels, of compatible bottles. Stable container guidance and accurate label registration are more important than a generic “double-label” description when selecting the machine.
 
-- Series: [Labeling Machine Series](/en/solutions/labeling/)
-- Parameter overview entrance: [Filling and packaging equipment parameter library](/en/products/filling-equipment#label-double)
-- Applicable scenarios: Suitable for retail bottled oil and multi-sided label projects.
+## Application and purchasing fit
 
-## Summary of public information
+- Product family: [Labeling machine series](/en/solutions/labeling/)
+- Parameter reference: [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+- Confirm the bottle cross-section and the two label panels, especially for flat, oval or shaped containers.
+- Check whether bottle spacing, orientation or a positioning device is required before label application.
+- Coordinate coding, inspection and reject functions with the labeling station in the line layout.
 
-This machine is carefully manufactured by our company by introducing advanced technology.
+## Published reference parameters
 
-## Public parameter table
+The following table is retained as the published model reference. Final performance and compatibility must be confirmed in the written quotation and acceptance specification.
 
 <table>
   <tbody>
@@ -51,14 +52,24 @@ This machine is carefully manufactured by our company by introducing advanced te
   </tbody>
 </table>
 
-## Supporting suggestions
+## What to provide for a manufacturer quotation
 
-- First look at the series page: [Labeling machine series](/en/solutions/labeling/)
-- Look at the parameter overview again: [The position of the linear double-label automatic labeling machine in the parameter library](/en/products/filling-equipment#label-double)
-- If it is a complete line project, you can continue to view [Filling Package Overview](/en/solutions/filling-packages) and [Production Line Overview](/en/solutions/production-lines).
+- Bottle drawings and samples covering all formats, including panel dimensions and surface condition.
+- Both label rolls with liner, core, winding direction, dimensions, gap and registration marks.
+- Required line speed, bottle pitch, conveyor dimensions and upstream or downstream interfaces.
+- Placement tolerances, wrinkle and bubble limits, sample-run method and included format parts.
 
-## Related pages
+Use representative samples for the factory acceptance test whenever practical. The agreed test material, run duration, sampling method and pass limits should be written into the purchase specification.
 
-- [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+## Price, delivery, and written service scope
+
+Manufacturer pricing depends on the confirmed machine configuration, format parts, controls, guarding, line interfaces, utilities and destination. Delivery schedule, export packing, installation, commissioning, training, spare parts and after-sales support apply only as stated in the written quotation and contract.
+
+## Related equipment and next step
+
 - [Labeling machine series](/en/solutions/labeling/)
-- [Contact us for complete line advice](/en/contact/)
+- [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+- [Filling and packaging line overview](/en/solutions/filling-packages)
+- [Production line planning](/en/solutions/production-lines)
+- [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+- [Request a configuration-based manufacturer quotation](/en/contact/)

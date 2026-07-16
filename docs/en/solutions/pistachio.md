@@ -1,75 +1,51 @@
 ---
-title: Pistachio (Pistachio Oil) | Equipment List & Factory Quote
-description: "Turnkey Pistachio (Pistachio Oil) Solution with process design, hydraulic press selection, filtration options, equipment list, and factory quote support."
+title: "Pistachio Oil Processing Line | Equipment & Factory Quote"
+description: "Define shelling, cleaning, crushing, pressing, and filtration through pistachio trials; verify food-contact parts, filtered oil, equipment, and quote scope."
 keywords: Pistachio (Pistachio Oil) Solution quote, Pistachio (Pistachio Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
 ---
-# Pistachio (Pistachio Oil) Solution
+# Pistachio Oil Pressing Line
 
-## Overview
+Pistachio oil procurement must be based on raw shelled kernels or a clearly defined in-shell feed. Roasted, salted, seasoned, or mixed snack product is not equivalent to raw kernel feed and needs a separate contamination and cleaning review.
 
-Pistachio is a nutritious nut, rich in high-quality oil, and can extract valuable pistachio oil. Pistachio oil has unique flavor and nutritional components, widely used in premium edible oil and food processing. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional pistachio pressing solutions, meeting production needs of different scales.
+## Raw Material Boundary
 
-## Pistachio Characteristics
+State the variety, origin, shell ratio, moisture, storage history, and intended food or cosmetic use. Remove moldy, insect-damaged, discolored, scorched, or rancid kernels. Where the product standard requires contaminant testing, pressing is not a substitute for representative sampling and laboratory analysis.
 
-### 📊 Basic Parameters
-- **Oil Content**: 50-60%
-- **Protein Content**: 15-20%
-- **Main Fatty Acids**: Oleic acid (50-60%), Linoleic acid (25-35%)
-- **Suitable Temperature**: Pressing temperature controlled at 75-95℃
+## Recommended Pretreatment
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: Tree has long growth cycle, fruit matures over many years
-- **Suitable Climate**: Arid, warm climate
-- **Soil Requirements**: Well-drained, alkaline soil
-- **Annual Production**: Global pistachio production about 1 million tons
+1. Shell the nuts and separate hard shell pieces.
+2. Sort raw kernels and remove defective material.
+3. Measure moisture and dry or temper gently only when necessary.
+4. Crush uniformly while limiting unnecessary air exposure.
+5. Isolate roasted trials from the cold-pressed product route.
 
-## Processing Technology
+## Pressing Route and Equipment
 
-### Traditional Process Flow
-To be supplemented
+Evaluate hydraulic batch cold pressing first for a high-value, light-aroma oil. If a roasted flavor is required, trial it as a separate pretreatment recipe and compare oil color, aroma, filtered clarity, and cake handling. Machine selection must use the valuable kernel input and measured batch record, not nominal in-shell tonnage.
 
-## Quality Standards
+### Equipment Entry Points
 
-### 🏆 Product Quality Standards
-- Complies with national edible oil standards
-- Complies with food safety standards
-- Complies with export food standards
-- Complies with organic food certification
+- [Pretreatment equipment](/en/products/pre-treatment)
+- [Hydraulic oil press range](/en/products/)
+- [480 Series hydraulic oil press](/en/products/480) as a model entry for trial sizing
+- [Pneumatic filter press](/en/products/pneumatic-filter-press)
+- [Filling equipment](/en/products/filling-equipment)
 
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color and transparency testing
-- Heavy metal content testing
-- Aflatoxin testing
-- Pesticide residue testing
+## Filtration and Finished-Oil Target
 
-## Sustainable Development
+Specify settled or fine-filtered oil, visible sediment, clarity, color, aroma, sampling time, and the package used to limit light and oxygen. Include food-contact materials, product recovery from the line, and cleanability in the purchase specification.
 
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
+## Data Required for a Quotation
 
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
+- In-shell or raw-kernel sample, shell ratio, moisture, defective-kernel fraction, storage history, and available test reports
+- Usable kernel input per batch or day, shifts, traceability needs, and shelling scope
+- Cold-pressed or roasted profile and intended food or cosmetic use
+- Settling, filtration, tank, package, and oil-test requirements
+- Utilities, floor space, sanitation and allergen-control requirements, destination, and delivery terms
 
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
+## Acceptance Records
 
-## Contact Us
-
-If you are interested in pistachio pressing solutions, please contact our technical team:
-
-- 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
-
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable pistachio pressing solution.
+Record shell and rejection weights, kernel moisture, crush size, batch charge, cycle time, oil temperature, crude and filtered oil, cake, and material retained in the machine. Check color, aroma, burnt or rancid notes, clarity after the agreed period, product recovery, and cleaning between valuable lots.
 
 ## Related Links
 
@@ -79,12 +55,12 @@ We provide free technical consultation, sample testing, and on-site inspection s
 - [Almond Solutions](/en/solutions/almond)
 - [480 Series Hydraulic Oil Press](/en/products/480)
 - [Contact Technical Team](/en/contact/)
-- [中文页面](/zh/solutions/pistachio)
+- [Chinese page](/zh/solutions/pistachio)
 
-## Get Price & Quote
+## Request a Configuration and Quote
 
-Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+Send the actual pistachio feed state, usable kernel volume, target oil profile, filtration and hygiene scope, utilities, and destination for a trial-based quotation.
 
-- [Get Price & Quote](/en/contact/)
+- [Request a pistachio oil line quote](/en/contact/)
 
 <!-- quote-cta -->

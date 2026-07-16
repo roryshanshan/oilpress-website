@@ -1,142 +1,69 @@
 ---
-title: "Giải pháp hạt óc chó (Dầu hạt óc chó) | Danh mục thiết bị…"
-description: Nhận báo giá Giải pháp hạt óc chó (Dầu hạt óc chó) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
-keywords: Giải pháp hạt óc chó (Dầu hạt óc chó) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+title: "Ép lạnh dầu óc chó | Thiết bị và báo giá"
+description: "Tách vỏ, sấy nhẹ và nghiền óc chó trước ép lạnh; chọn máy nghiền, ép thủy lực, lọc và bồn kín. Kiểm tra nhiệt độ, oxy hóa, năng suất và bao bì."
+keywords: "Óc chó (dầu óc chó) báo giá, máy ép dầu, quy trình sản xuất, mua từ nhà máy, thiết bị phụ trợ, hậu mãi"
 image: "/images/process-image-647a0e9868.webp"
 ---
-# Giải pháp hạt óc chó (Dầu hạt óc chó)
+# Giải pháp Óc chó (dầu óc chó)
 
-## Tổng quan
+![Óc chó (dầu óc chó) - quy trình và thiết bị ép dầu](/images/process-image-647a0e9868.webp)
 
-核桃是重要的油料作物，核桃油具有独特的营养价值和应用价值。山东盛世赫程机械有限公司提供专业的核桃压榨解决方案，从小型作坊到大型工厂的全套设备和服务。
+Óc chó cần được tách sạch vỏ, loại nhân thâm, mốc hoặc ôi, kiểm soát độ ẩm rồi nghiền đồng đều. Ép lạnh là tuyến ưu tiên cho dầu dinh dưỡng; rang nhẹ chỉ phù hợp khi cần hương hạt rõ và kết quả thử không xuất hiện mùi khét. Dầu sau ép nên lắng, lọc tinh, chứa kín và đóng chai chống sáng để hạn chế oxy hóa.
 
-## 核桃特性
+## Dữ liệu chọn quy trình
 
-### 📊 基本参数
-- **含油率**: 60-70%
-- **蛋白质含量**: 15-20%
-- **主要脂肪酸**: 亚油酸（55-65%）、油酸（15-25%）、亚麻酸（8-12%)
-- **适宜温度**: 压榨温度控制在60-80℃
+| Hạng mục | Khuyến nghị |
+| --- | --- |
+| Hàm lượng dầu tham khảo | Khoảng 55-65% trong nhân |
+| Tuyến công nghệ ưu tiên | Ép lạnh sau nghiền |
+| Model hoặc hướng thiết bị | 355 / 400 / 426 / 480 |
+| Cách chốt công suất | Dựa trên thử mẫu, số mẻ, thời gian chu kỳ và chất lượng dầu |
 
-### 🌱 生长特性
-- **生长周期**: 3-5年
-- **适宜气候**: 温带、山区地区
-- **土壤要求**: 肥沃、排水良好的土壤
-- **年产量**: 全球年产量超过300万吨
+> Dầu óc chó dễ oxy hóa; không rang mạnh nếu mục tiêu là dầu dinh dưỡng cao cấp.
 
-## 加工工艺
+## Quy trình khuyến nghị
 
-+ 核桃(建议426AC-390/480AC-390/500AC-390)
-     + 冷榨工艺：核桃经过筛选、清洗、高速粉碎后直接入液压榨油机料桶压榨。
-     + 采用此工艺压榨的核桃油，色泽金黄，入口回甘，压榨出的油不用水化处理，下锅不起泡。
-     + ![Óc chó quy trình ép lạnh](/images/process-image-647a0e9868.webp)
-## 核桃冷榨参考视频，视频中测试机为 325 型，不建议做为生产使用，仅供参考。
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/2Y0HsdtzfWg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+1. Tách vỏ và loại nhân hỏng
+2. Làm sạch, kiểm soát độ ẩm
+3. Nghiền nhân thành kích thước đồng đều
+4. Ép thủy lực trực tiếp ở nhiệt độ thấp
+5. Lọc và đóng chai chống oxy hóa
 
-## 核桃油出油视频参考
+## Máy ép và thiết bị chính
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/ocadE6hnkEQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+- [Dòng 355](/vi/products/355)
+- [Dòng 400](/vi/products/400)
+- [Dòng 426](/vi/products/426)
+- [Dòng 480](/vi/products/480)
+- [Thiết bị tiền xử lý](/vi/products/pre-treatment)
+- [Thiết bị lọc và hậu xử lý](/vi/products/post-treatment)
+- [Thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
 
+## Dữ liệu cần cho báo giá
 
+- Mẫu quả nguyên vỏ hay nhân, tỷ lệ nhân/vỏ, độ ẩm, nhân thâm/hỏng, mùi ôi và điều kiện bảo quản
+- Khối lượng nhân cần ép mỗi mẻ/ngày, số ca và cách lưu chuyển nguyên liệu đã bóc vỏ
+- Mục tiêu ép lạnh hay rang nhẹ, giới hạn nhiệt độ dầu và mục đích thực phẩm/mỹ phẩm
+- Mức cặn, độ trong, màu, mùi, thời gian lắng/lọc và loại bồn/chai chống sáng
+- Điện áp, diện tích tách vỏ - nghiền - ép - lọc, điều kiện kho thành phẩm và điểm giao hàng
 
-## 技术优势
+Hiệu suất thực tế phụ thuộc giống, độ ẩm, mức nghiền, nhiệt độ và thời gian ép. Không nên dùng một con số sản lượng cố định thay cho thử nghiệm nguyên liệu.
 
-### 🎯 精准控制
-- 温度控制：±2℃精度
-- 压力控制：智能调节
-- 湿度控制：最佳含水量
+## Kiểm tra nghiệm thu
 
-### 💧 油质保证
-- 低温工艺保留营养
-- 物理压榨无化学残留
-- 出油率高达62-68%
+Lô óc chó nghiệm thu được ghi tỷ lệ vỏ sót, độ ẩm, cỡ nghiền, khối lượng nạp, nhiệt độ dầu, thời gian ép và thời gian dầu chờ trước khi lọc. Sau lọc, kiểm tra độ trong, màu, mùi khét/ôi, độ kín của bồn/bao bì trong phạm vi cung cấp và khả năng vệ sinh để hạn chế dầu cũ oxy hóa lẫn sang mẻ sau.
 
-### 🔄 连续生产
-- 24小时不间断运行
-- 自动化进料出料
-- 智能故障报警
+## Trang liên quan
 
-## 产品应用
+- [Tổng quan giải pháp](/vi/solutions/)
+- [Dây chuyền sản xuất dầu hoàn chỉnh](/vi/solutions/production-lines)
+- [Tất cả model máy ép dầu thủy lực](/vi/products/)
+- [Hướng dẫn mua hàng và kỹ thuật](/vi/news/technology/)
 
-### 🍳 食用油
-- 核桃油：主要食用油品种
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
+## Nhận giá và cấu hình
 
-### 💊 保健品
-- 核桃油：营养补充剂
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
+Gửi nguyên liệu, công suất, chất lượng dầu mục tiêu và điểm đến để nhận cấu hình cùng báo giá nhà máy.
 
-### 💄 美容护肤
-- 核桃油：天然护肤油
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
-
-## 市场分析
-
-### 📈 发展趋势
-- 高端食用油、营养保健品需求增长
-- 高端核桃油市场扩大
-- 出口贸易机会增加
-
-### 🎯 目标市场
-- 食用油加工企业
-- 食品加工企业
-- 保健品企业
-- 出口贸易企业
-
-
-## 质量标准
-
-### 🏆 产品质量标准
-- 符合国家核桃油标准
-- 符合食品安全标准
-- 符合出口食品标准
-- 符合有机食品认证
-
-### 🔍 检测项目
-- 酸价检测
-- 过氧化值检测
-- 色泽透明度检测
-- 重金属含量检测
-- 农药残留检测
-
-## 可持续发展
-
-### 🌱 环保生产
-- 废弃物循环利用
-- 节能减排工艺
-- 绿色生产标准
-
-### 🔄 资源利用
-- 副产品综合利用
-- 产业链延伸
-- 循环经济模式
-
-### 🌍 社会责任
-- 支持农民增收
-- 保障食品安全
-- 保护生态环境
-
-## 联系我们
-
-如果您对核桃压榨解决方案感兴趣，请联系我们的技术团队：
-
-- 📞 **咨询热线**: +86 19906365856
-- 📧 **邮箱**: gavin@oil-pressing-machine.com
-- 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
-
-我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的核桃压榨解决方案。
-
-## Nhận giá & báo giá
-
-Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
-
-- [Nhận giá & báo giá](/vi/contact/)
+- [Yêu cầu báo giá](/vi/contact/)
 
 <!-- quote-cta -->

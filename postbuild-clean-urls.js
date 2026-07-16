@@ -21,6 +21,22 @@ function walkFiles(dir, files = []) {
   return files
 }
 
+function removeAppleDoubleFiles(dir) {
+  let removed = 0
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const fullPath = path.join(dir, entry.name)
+    if (entry.isDirectory()) {
+      removed += removeAppleDoubleFiles(fullPath)
+      continue
+    }
+    if (entry.isFile() && entry.name.startsWith('._')) {
+      fs.unlinkSync(fullPath)
+      removed += 1
+    }
+  }
+  return removed
+}
+
 function ensureSafeAssetAliases() {
   const aliasTargets = []
 
@@ -85,29 +101,17 @@ function ensureSafeAssetAliases() {
   return updatedFiles
 }
 
-function generateCleanUrlAliases() {
-  for (const fullPath of walkFiles(distDir)) {
-    if (!fullPath.endsWith('.html')) continue
-    const entry = path.basename(fullPath)
-    if (entry === 'index.html' || entry === '404.html') continue
-    if (entry.startsWith('._')) continue
-
-    const basename = entry.slice(0, -5)
-    const aliasDir = path.join(path.dirname(fullPath), basename)
-    const aliasFile = path.join(aliasDir, 'index.html')
-
-    fs.mkdirSync(aliasDir, { recursive: true })
-    fs.copyFileSync(fullPath, aliasFile)
-  }
-}
-
 if (fs.existsSync(distDir)) {
+  const removedBeforeBuildSteps = removeAppleDoubleFiles(distDir)
   const updatedFiles = ensureSafeAssetAliases()
-  generateCleanUrlAliases()
+  const removedFiles = removedBeforeBuildSteps + removeAppleDoubleFiles(distDir)
   if (updatedFiles > 0) {
     console.log(`Rewrote ${updatedFiles} built files to use safe asset aliases.`)
   }
-  console.log('Generated clean-url directory aliases in dist.')
+  if (removedFiles > 0) {
+    console.log(`Removed ${removedFiles} AppleDouble metadata files from dist.`)
+  }
+  console.log('Prepared Vercel clean-url build output without duplicate HTML aliases.')
 } else {
   console.error(`Dist directory not found: ${distDir}`)
   process.exit(1)

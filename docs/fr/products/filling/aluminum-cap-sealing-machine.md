@@ -1,26 +1,27 @@
 ---
-title: Machine à sceller les bouchons en aluminium prix | fabricant
-description: Demandez le prix et le devis pour Machine à sceller les bouchons en aluminium. Fabricant Shengshi Hecheng, livraison et SAV.
-keywords: Machine à sceller les bouchons en aluminium prix, acheter Machine à sceller les bouchons en aluminium, devis usine, fabricant chinois, exportation, service après-vente
+title: "Sertisseuse de capsules aluminium | Prix fabricant et devis"
+description: "Sertisseuse de capsules aluminium de 1 200 à 1 400 bouteilles/h pour flacons de 60-340 mm. Le devis précise les formats, le prix et le SAV."
+keywords: "sertisseuse de capsules aluminium prix, devis sertisseuse de capsules aluminium, 1 200-1 400 bouteilles/h, flacons de 60-340 mm et cols de 20-32 mm, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/aluminum-cap-sealing-machine.webp"
 ---
-# Machine à sceller les bouchons en aluminium
 
-![Machine à sceller les bouchons en aluminium](/images/filling-products/aluminum-cap-sealing-machine.webp)
+# Machine de sertissage de capsules en aluminium
 
-La machine à sceller les bouchons en aluminium peut être utilisée comme référence pour des modèles spécifiques de la série de machines à sceller. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+![Machine de sertissage de capsules en aluminium](/images/filling-products/aluminum-cap-sealing-machine.webp)
 
-## Positionnement du modèle
+Cette machine constitue un poste compact pour fermer des bouteilles munies d'une capsule en aluminium compatible. La finition du goulot, la construction de la capsule et le résultat de fermeture doivent être étudiés ensemble : le seul diamètre nominal ne suffit pas pour valider l'outillage.
 
-- Série : [Série de machines à sceller](/fr/solutions/sealing/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#seal-aluminum)
-- Scénarios applicables : convient pour le scellage de petits lots de couvercles en aluminium.
+## Domaine d'application et critères d'achat
 
-## Résumé des informations publiques
+- Famille : [Série de machines de fermeture](/fr/solutions/sealing/)
+- Repère technique : [Paramètres publiés de Machine de sertissage de capsules en aluminium](/fr/products/filling-equipment#seal-aluminum)
+- À retenir lorsque la capsule est déjà présentée sur la bouteille et que les dimensions réelles entrent dans la plage publiée.
+- Préciser si le poste fonctionne seul ou sur un convoyeur existant, ainsi que le mode d'alimentation des capsules.
+- Valider le guidage et la fermeture sur des échantillons de production avant de figer la configuration.
 
-La machine à sceller les bouchons en aluminium convient comme modèle représentatif dans la série des machines à sceller.
+## Paramètres de référence publiés
 
-## Table des paramètres publics
+Le tableau ci-dessous est conservé comme repère de gamme. Les performances et la compatibilité finales doivent être confirmées dans l'offre technique et le protocole de réception.
 
 | Paramètre | Valeur |
 | --- | --- |
@@ -30,14 +31,24 @@ La machine à sceller les bouchons en aluminium convient comme modèle représen
 | Dimensions | 600 × 210 × 990 mm |
 | Poids | 100 kg |
 
-## Suggestions complémentaires
+## Données nécessaires au devis fabricant
 
-- Regardez d'abord la page de la série : [Série de machines à sceller](/fr/solutions/sealing/)
-- Regardez à nouveau l'aperçu des paramètres : [La position de la machine à sceller les bouchons en aluminium dans la bibliothèque de paramètres](/fr/products/filling-equipment#seal-aluminum)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+- Plans ou échantillons des bouteilles avec hauteur, diamètre, finition du goulot et surfaces d'appui.
+- Plans ou échantillons des capsules avec matière, diamètre, hauteur, joint et procédé de fermeture attendu.
+- Cadence demandée, hauteur et sens du convoyeur, alimentation amont et contrôle aval.
+- Critères de réception : position, aspect, méthode d'essai d'étanchéité et effort d'ouverture éventuel.
 
-## Pages connexes
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Série de machines à sceller](/fr/solutions/sealing/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+## Prix, livraison et périmètre SAV écrit
+
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
+
+## Équipements associés et prochaine étape
+
+- [Série de machines de fermeture](/fr/solutions/sealing/)
+- [Paramètres publiés de Machine de sertissage de capsules en aluminium](/fr/products/filling-equipment#seal-aluminum)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Planification des lignes de production](/fr/solutions/production-lines)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

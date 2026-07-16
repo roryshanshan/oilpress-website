@@ -1,14 +1,14 @@
 ---
 layout: home
-title: "Nhà sản xuất máy ép dầu thủy lực | Giá & báo giá"
-description: "Nhận giá nhà máy máy ép dầu thủy lực series 300-500 và dây chuyền dầu ăn trọn gói, hỗ trợ chọn model và sau bán."
-keywords: giá máy ép dầu, nhà sản xuất, báo giá, mua hàng, dây chuyền ép dầu, hậu mãi
+title: "Máy ép dầu thủy lực | Dòng 300-500 và báo giá"
+description: "So sánh máy ép dầu thủy lực 300-500 theo nguyên liệu, khối lượng mẻ và ép nóng/lạnh; nhận cấu hình tiền xử lý, lọc, đóng gói và giá xuất khẩu."
+keywords: báo giá máy ép dầu thủy lực, giá máy ép dầu, mua máy ép dầu, nhà sản xuất máy ép dầu, dây chuyền ép dầu, máy ép nóng, máy ép lạnh, phụ tùng, hậu mãi
 image: "/images/hero-oil-press.webp"
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
   <h1 style="font-size: 2rem; font-weight: bold; color: var(--vp-c-brand); margin-bottom: 0.5rem;">
-  Nhà sản xuất máy ép dầu thủy lực chuyên nghiệp
+  Nhà sản xuất máy ép dầu thủy lực: chọn model và nhận báo giá
   </h1>
   <h2 style="font-size: 1.5rem; font-weight: 500; color: var(--vp-c-text-2);">
   Công ty TNHH Shengshi Hecheng Sơn Đông
@@ -19,7 +19,7 @@ image: "/images/hero-oil-press.webp"
   <iframe width="100%" height="500" src="https://www.youtube.com/embed/3uE1lah9Dpw?autoplay=1&mute=0"
           frameborder="0"
           loading="lazy"
-          title="Hydraulic Oil Press Working Video"
+          title="Video vận hành máy ép dầu thủy lực"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
           style="width: 100%; height: 500px; display: block;">
@@ -28,11 +28,12 @@ image: "/images/hero-oil-press.webp"
 
 <div class="hero-section">
   <div class="hero-content">
-  <h2>15 năm chuyên về thiết bị ép dầu thủy lực</h2>
-  <p>Doanh nghiệp sản xuất thiết bị ép dầu trọng điểm quốc gia, cung cấp giải pháp chế biến dầu một cửa cho bạn</p>
+  <h2>Từ máy đơn đến dây chuyền ép dầu theo nguyên liệu</h2>
+  <p>Gửi loại nguyên liệu, mục tiêu ép nóng hoặc ép lạnh và điểm đến giao hàng để nhận đề xuất model, danh mục thiết bị, phương án đóng gói xuất khẩu và báo giá từ nhà sản xuất.</p>
     <div class="hero-buttons">
   <a href="/vi/products/" class="primary-button">Xem các dòng sản phẩm</a>
   <a href="/vi/contact/" class="contact-link-button">Nhận giá & báo giá</a>
+  <a href="https://hydraulic-oil-press.com/" class="secondary-button" target="_blank" rel="noopener noreferrer">Website nhà sản xuất</a>
     </div>
   </div>
   <div class="hero-image">
@@ -44,10 +45,10 @@ image: "/images/hero-oil-press.webp"
 
 <div class="company-intro">
   <div class="intro-content">
-  <p>Công ty TNHH Shengshi Hecheng Sơn Đông được thành lập năm 2008, là doanh nghiệp sản xuất thiết bị ép dầu trọng điểm quốc gia, chuyên về nghiên cứu và sản xuất máy ép dầu thủy lực hiện đại và dây chuyền tinh luyện dầu ăn.</p>
-  <p>Công ty tọa lạc tại thành phố Thanh Châu, tỉnh Sơn Đông, vị trí địa lý thuận lợi, giao thông tiện lợi. Sở hữu nhà máy hiện đại 20.000 mét vuông, trang bị thiết bị sản xuất và kiểm tra tiên tiến, sản lượng hàng năm hơn 2.000 bộ thiết bị ép dầu thủy lực các loại.</p>
-  <p>Chúng tôi tuân thủ triết lý kinh doanh "Chất lượng hàng đầu, khách hàng là trên hết", sản phẩm được xuất khẩu khắp cả nước và hơn 30 quốc gia, khu vực như Đông Nam Á, Châu Phi, Trung Đông.</p>
-  <a href="/vi/about/" class="learn-more">Tìm hiểu thêm →</a>
+  <p>Công ty TNHH Shengshi Hecheng Sơn Đông là nhà sản xuất tại thành phố Thanh Châu, tỉnh Sơn Đông, tập trung vào máy ép dầu thủy lực và thiết bị hỗ trợ cho khâu chuẩn bị nguyên liệu, lọc dầu và đóng gói.</p>
+  <p>Việc chọn máy không chỉ dựa vào số model. Đội ngũ kỹ thuật sẽ đối chiếu loại nguyên liệu, trạng thái độ ẩm, quy trình ép, quy mô từng mẻ, nguồn điện, mặt bằng và yêu cầu thành phẩm trước khi đề xuất cấu hình.</p>
+  <p>Đối với đơn hàng xuất khẩu, báo giá có thể nêu rõ phạm vi máy chính, thiết bị tùy chọn, danh mục đóng gói, tài liệu vận hành, hướng dẫn lắp đặt và phụ tùng đề xuất. Năng suất và tỷ lệ thu dầu cần được xác nhận theo nguyên liệu thực tế và cấu hình đã chọn.</p>
+  <a href="/vi/about/" class="learn-more">Tìm hiểu về nhà sản xuất →</a>
   </div>
   <div class="intro-image">
   <img src="/images/hero-oil-press.webp" alt="Nhà máy Shengshi Hecheng" decoding="async" fetchpriority="high" loading="eager" width="1200" height="800">
@@ -60,75 +61,75 @@ image: "/images/hero-oil-press.webp"
   <div class="product-card">
     <img src="/images/300-325-series.webp" alt="Máy ép dầu thủy lực dòng 300" decoding="async" loading="lazy" width="1200" height="1600">
   <h3>Dòng 300</h3>
-  <p>Phù hợp xưởng nhỏ, sản lượng dầu 0.3-0.8 tấn/ngày</p>
-  <a href="/vi/products/300" class="learn-more">Tìm hiểu thêm</a>
+  <p>Model cho phương án ép nóng; hệ thống làm sạch, rang hoặc gia nhiệt và lọc được chọn theo nguyên liệu và yêu cầu dầu thành phẩm.</p>
+  <a href="/vi/products/300" class="learn-more">Xem model & yêu cầu báo giá</a>
   </div>
   <div class="product-card">
     <img src="/images/300-325-series.webp" alt="Máy ép dầu thủy lực dòng 325" decoding="async" loading="lazy" width="1200" height="1600">
   <h3>Dòng 325</h3>
-  <p>Phù hợp xưởng nhỏ, sản lượng dầu 0.5-1 tấn/ngày</p>
-  <a href="/vi/products/325" class="learn-more">Tìm hiểu thêm</a>
+  <p>Model cho quy trình ép nóng 300/325; phù hợp khi cần phối hợp tiền xử lý nguyên liệu, tạo bánh và ép thủy lực theo mẻ.</p>
+  <a href="/vi/products/325" class="learn-more">Xem model & yêu cầu báo giá</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 355" decoding="async" loading="lazy" width="1200" height="1200">
   <h3>Dòng 355</h3>
-  <p>Phù hợp doanh nghiệp vừa và nhỏ, sản lượng dầu 1-2 tấn/ngày</p>
-  <a href="/vi/products/355" class="learn-more">Tìm hiểu thêm</a>
+  <p>Model ép lạnh: làm sạch, sấy nhẹ khi cần, nghiền nguyên liệu rồi đưa trực tiếp vào máy ép thủy lực và lọc dầu.</p>
+  <a href="/vi/products/355" class="learn-more">Xem cấu hình ép lạnh</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 400" decoding="async" loading="lazy" width="1200" height="1200">
   <h3>Dòng 400</h3>
-  <p>Phù hợp doanh nghiệp vừa, sản lượng dầu 2-3 tấn/ngày</p>
-  <a href="/vi/products/400" class="learn-more">Tìm hiểu thêm</a>
+  <p>Lựa chọn trong nhóm 355-500 cho quy trình nghiền rồi ép lạnh trực tiếp; model cuối cùng được xác định theo nguyên liệu và cỡ mẻ.</p>
+  <a href="/vi/products/400" class="learn-more">Xem cấu hình ép lạnh</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 426" decoding="async" loading="lazy" width="1200" height="1200">
   <h3>Dòng 426</h3>
-  <p>Phù hợp doanh nghiệp vừa và lớn, sản lượng dầu 3-5 tấn/ngày</p>
-  <a href="/vi/products/426" class="learn-more">Tìm hiểu thêm</a>
+  <p>Dùng cho phương án ép lạnh sau nghiền, có thể ghép với thiết bị làm sạch, sấy nhiệt độ thấp, lọc và chứa dầu.</p>
+  <a href="/vi/products/426" class="learn-more">Xem cấu hình ép lạnh</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 480" decoding="async" loading="lazy" width="1200" height="1200">
   <h3>Dòng 480</h3>
-  <p>Phù hợp doanh nghiệp lớn, sản lượng dầu 5-8 tấn/ngày</p>
-  <a href="/vi/products/480" class="learn-more">Tìm hiểu thêm</a>
+  <p>Model ép lạnh cho dự án cần buồng ép và thiết bị phụ trợ phù hợp hơn; cần xác nhận bằng mẫu nguyên liệu và mục tiêu quy trình.</p>
+  <a href="/vi/products/480" class="learn-more">So sánh model & nhận báo giá</a>
   </div>
   <div class="product-card">
     <img src="/images/355-500-series.webp" alt="Máy ép dầu thủy lực dòng 500" decoding="async" loading="lazy" width="1200" height="1200">
   <h3>Dòng 500</h3>
-  <p>Phù hợp doanh nghiệp siêu lớn, sản lượng dầu 8-15 tấn/ngày</p>
-  <a href="/vi/products/500" class="learn-more">Tìm hiểu thêm</a>
+  <p>Model trong nhóm ép lạnh sau nghiền; báo giá được lập theo máy chính, tiền xử lý, lọc, đóng gói và yêu cầu giao hàng.</p>
+  <a href="/vi/products/500" class="learn-more">So sánh model & nhận báo giá</a>
   </div>
   <div class="product-card">
     <img src="/images/korean-type-small-press/korean-type-overview.webp" alt="Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc" decoding="async" loading="lazy" width="1200" height="1600">
   <h3>Máy ép dầu thủy lực cỡ nhỏ kiểu Hàn Quốc</h3>
-  <p>Dòng model cho cửa hàng dầu mè, quầy dầu tươi và kinh doanh nhỏ, gồm KHOP-10KG, 15KG và 20KG</p>
-  <a href="/vi/products/korean-type-small-hydraulic-oil-press-machine" class="learn-more">Tìm hiểu thêm</a>
+  <p>Dòng máy gọn cho ép theo mẻ; hãy xác nhận nguyên liệu, cách tiền xử lý, kích thước bánh dầu, nguồn điện và không gian lắp đặt trước khi mua.</p>
+  <a href="/vi/products/korean-type-small-hydraulic-oil-press-machine" class="learn-more">Xem lựa chọn & nhận báo giá</a>
   </div>
 </div>
 
-## Ưu điểm sản phẩm
+## Cách chọn cấu hình trước khi mua
 
 <div class="advantages-grid">
   <div class="advantage-item">
     <div class="advantage-icon">🔍</div>
-  <h3>Sản xuất hiệu quả cao</h3>
-  <p>Hiệu suất ép cao hơn 30-50% so với thiết bị truyền thống, hệ thống tự động hóa giảm can thiệp thủ công, khả năng vận hành liên tục mạnh mẽ</p>
+  <h3>Chọn model theo nguyên liệu</h3>
+  <p>Không dùng một mức năng suất hoặc tỷ lệ thu dầu cố định cho mọi nguyên liệu. Cần đối chiếu giống hạt, độ ẩm, tiền xử lý, cỡ mẻ và chất lượng dầu mong muốn.</p>
   </div>
   <div class="advantage-item">
     <div class="advantage-icon">💧</div>
-  <h3>Tỷ lệ dầu chất lượng cao</h3>
-  <p>Kiểm soát áp suất chính xác, tỷ lệ dầu thu được trên 95%, công nghệ ép lạnh giữ nguyên dưỡng chất, phù hợp nhiều loại nguyên liệu</p>
+  <h3>Phân biệt ép nóng và ép lạnh</h3>
+  <p>Dòng 300/325 tập trung vào ép nóng. Dòng 355-500 tập trung vào làm sạch, sấy nhẹ khi cần, nghiền rồi ép lạnh trực tiếp đối với nguyên liệu phù hợp.</p>
   </div>
   <div class="advantage-item">
     <div class="advantage-icon">🛠️</div>
-  <h3>Bền bỉ và chắc chắn</h3>
-  <p>Sử dụng thép hợp kim cường độ cao, các bộ phận chính được xử lý nhiệt đặc biệt, tuổi thọ lên tới 15-20 năm, giảm chi phí bảo trì</p>
+  <h3>Danh mục mua hàng rõ ràng</h3>
+  <p>Yêu cầu báo giá tách rõ máy chính, thiết bị tiền xử lý, bộ lọc, bồn chứa, chiết rót, phần điện, phụ tùng và đóng gói để dễ so sánh phương án.</p>
   </div>
   <div class="advantage-item">
     <div class="advantage-icon">🌿</div>
-  <h3>Thân thiện môi trường</h3>
-  <p>Không cần thêm hóa chất, công nghệ ép vật lý, quy trình sản xuất không gây ô nhiễm, đáp ứng tiêu chuẩn an toàn thực phẩm hiện đại</p>
+  <h3>Thuận tiện bảo trì và hậu mãi</h3>
+  <p>Xác nhận trước tài liệu vận hành, hướng dẫn lắp đặt, danh sách vật tư hao mòn, phụ tùng dự phòng và kênh hỗ trợ kỹ thuật sau khi giao máy.</p>
   </div>
 </div>
 
@@ -169,44 +170,44 @@ image: "/images/hero-oil-press.webp"
   <span>Hạt bông</span>
     </div>
   </div>
-  <p class="materials-more">Và các loại nguyên liệu thực vật, động vật khác</p>
+  <p class="materials-more">300/325 ưu tiên quy trình ép nóng cho nguyên liệu cần rang hoặc gia nhiệt. 355-500 ưu tiên nghiền rồi ép lạnh trực tiếp cho quả óc chó, hắc mai biển, hạt tía tô, dừa, hạt trà, hạt gai dầu, hạt lanh, hạnh nhân, hạt thông và hạt bí. Khả năng áp dụng cần được xác nhận theo mẫu nguyên liệu.</p>
 </div>
 
-## Dịch vụ kỹ thuật
+## Hỗ trợ mua máy và dây chuyền
 
 <div class="services-section">
   <div class="service-item">
-  <h3>Thiết kế giải pháp</h3>
-  <p>Cung cấp thiết kế chuyên nghiệp dựa trên hệ thống CAD, tùy chỉnh giải pháp ép dầu tối ưu theo nhu cầu khách hàng</p>
+  <h3>Chọn model và lập báo giá</h3>
+  <p>Đề xuất model dựa trên nguyên liệu, quy trình, cỡ mẻ, nguồn điện và mục tiêu thành phẩm; báo giá nêu rõ phạm vi cung cấp và hạng mục tùy chọn.</p>
   </div>
   <div class="service-item">
-  <h3>Tùy chỉnh dây chuyền sản xuất</h3>
-  <p>Có thể tùy chỉnh dây chuyền sản xuất 1-100 tấn/ngày, giải pháp trọn gói từ xử lý nguyên liệu đến đóng gói thành phẩm</p>
+  <h3>Mua dây chuyền và đóng gói xuất khẩu</h3>
+  <p>Phối hợp thiết bị từ làm sạch, sấy, nghiền, ép và lọc đến chứa hoặc chiết rót; xác nhận danh mục kiện hàng, ký mã hiệu và yêu cầu vận chuyển.</p>
   </div>
   <div class="service-item">
-  <h3>Lắp đặt & vận hành</h3>
-  <p>Đội ngũ kỹ thuật chuyên nghiệp hướng dẫn lắp đặt và vận hành tại chỗ, đảm bảo thiết bị hoạt động ổn định</p>
+  <h3>Hướng dẫn lắp đặt và vận hành</h3>
+  <p>Cung cấp tài liệu bố trí, yêu cầu nền móng và đấu nối, hướng dẫn lắp đặt, kiểm tra trước khi chạy máy và đào tạo vận hành theo phạm vi đơn hàng.</p>
   </div>
   <div class="service-item">
-  <h3>Bảo hành & hỗ trợ</h3>
-  <p>Cung cấp hỗ trợ kỹ thuật toàn diện và dịch vụ hậu mãi, cơ chế phản hồi 24/7, bảo trì trọn đời</p>
+  <h3>Phụ tùng và hậu mãi</h3>
+  <p>Thống nhất danh sách phụ tùng khởi động, vật tư hao mòn, cách đặt bổ sung và kênh xử lý sự cố kỹ thuật trước khi xác nhận đơn hàng.</p>
   </div>
 </div>
 
-## Trường hợp khách hàng
+## Thông tin cần gửi để nhận báo giá
 
 <div class="case-studies">
   <div class="case-item">
-    <img src="/images/case1.svg" alt="Trường hợp nhà máy dầu lớn ở Tân Cương" decoding="async" loading="lazy" width="200" height="200">
+    <img src="/images/case1.svg" alt="Thông tin mua máy ép nóng 300 và 325" decoding="async" loading="lazy" width="200" height="200">
     <div class="case-content">
-      <h3>Nhà máy dầu lớn ở Tân Cương</h3>
-      <p>Sử dụng máy ép dầu dòng 425 của công ty chúng tôi, sản lượng dầu 20 tấn/ngày, tỷ lệ dầu tăng 15%, doanh thu tăng 2 triệu NDT/năm</p>
+      <h3>Mua máy ép nóng 300/325</h3>
+      <p>Hãy gửi tên nguyên liệu, tình trạng làm sạch, phương pháp rang hoặc gia nhiệt, cỡ mẻ dự kiến, điện áp, diện tích lắp đặt và cảng hoặc địa chỉ nhận hàng.</p>
     </div>
   </div>
   <div class="case-item">
-  <img src="/images/case2.svg" alt="Trường hợp khách hàng Đông Nam Á" decoding="async" loading="lazy" width="200" height="200">
-  <h3>Khách hàng Đông Nam Á</h3>
-  <p>Áp dụng dây chuyền ép dầu hoàn chỉnh của công ty chúng tôi, chuyển đổi từ xưởng thủ công sang nhà máy hiện đại, năng suất tăng gấp 5 lần</p>
+  <img src="/images/case2.svg" alt="Thông tin mua máy ép lạnh và dây chuyền ép dầu" decoding="async" loading="lazy" width="200" height="200">
+  <h3>Mua máy ép lạnh 355-500 hoặc dây chuyền</h3>
+  <p>Hãy nêu độ mịn sau nghiền, nhu cầu sấy nhiệt độ thấp, phương án lọc, chứa hoặc chiết rót, yêu cầu đóng gói xuất khẩu, lắp đặt và phụ tùng.</p>
   </div>
 </div>
 
@@ -214,13 +215,13 @@ image: "/images/hero-oil-press.webp"
 
 <div class="contact-section">
   <div class="contact-info">
-    <h3>Gavin Lee - Giám đốc kinh doanh chuyên nghiệp phục vụ bạn</h3>
+    <h3>Gavin Lee - tư vấn chọn model, cấu hình và báo giá</h3>
     <p><strong>📱 WeChat:</strong> +8619906365856</p>
     <p><strong>📱 WhatsApp:</strong> +8619906365856</p>
     <p><strong>📧 Email:</strong> roryshanshan@gmail.com</p>
     <p><strong>📧 Kinh doanh:</strong> gavin@oil-pressing-machine.com</p>
     <p><strong>🏭 Địa chỉ:</strong> Số 5888, đường Yineng, Khu phát triển, thành phố Thanh Châu, Weifang, Sơn Đông, Trung Quốc</p>
-    <a href="/vi/contact/" class="contact-button">Nhận giá & báo giá</a>
+    <a href="/vi/contact/" class="contact-button">Yêu cầu báo giá từ nhà sản xuất</a>
   </div>
   <div class="contact-form">
     <form action="https://formspree.io/f/xblaoewy" method="POST">
@@ -229,14 +230,14 @@ image: "/images/hero-oil-press.webp"
       <input type="tel" id="phone" name="phone" placeholder="Số điện thoại" required />
       <input type="hidden" name="_subject" value="Biểu mẫu liên hệ - Trang chủ" />
       <input type="hidden" name="_next" value="/vi/contact/" />
-      <textarea id="message" name="message" rows="5" placeholder="Nội dung liên hệ" required></textarea>
-      <button type="submit">Gửi yêu cầu</button>
+      <textarea id="message" name="message" rows="5" placeholder="Nguyên liệu, quy trình, model quan tâm, nguồn điện và điểm đến giao hàng" required></textarea>
+      <button type="submit">Gửi yêu cầu báo giá</button>
     </form>
   </div>
 </div>
 
-::: tip Lời nhắc thân thiện
-Trung tâm chế biến dầu một cửa của bạn, chúng tôi cam kết cung cấp giải pháp thiết bị ép dầu chất lượng tốt nhất cho bạn.
+::: tip Để báo giá sát nhu cầu hơn
+Vui lòng gửi nguyên liệu, trạng thái độ ẩm, mục tiêu ép nóng hoặc ép lạnh, cỡ mẻ, nguồn điện, thiết bị phụ trợ cần mua và điểm đến giao hàng. Cấu hình, năng suất dự kiến và phạm vi hậu mãi sẽ được xác nhận theo thông tin dự án thay vì dùng một con số chung cho mọi trường hợp.
 :::
 
 <style>
@@ -413,7 +414,7 @@ Trung tâm chế biến dầu một cửa của bạn, chúng tôi cam kết cun
   color: var(--vp-c-brand);
 }
 
-/* Phong cách phần trường hợp khách hàng */
+/* Phong cách phần thông tin báo giá */
 .case-studies {
   display: flex;
   flex-direction: column;

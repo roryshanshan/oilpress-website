@@ -1,62 +1,69 @@
 ---
-title: "Série de machines à boucher | Modèles, specs et devis usine"
-description: Découvrez série de machines à boucher pour lignes d’huile comestible et conditionnement liquide. Comparez les modèles et demandez un devis usine.
-keywords: Série de machines de bouchage, machine de bouchage, machine de pressage du liège, équipement de bouchage de vin, machine de bouchage de bouteilles en verre, équipement d'emballage d'huile de boîte-cadeau
+title: "Boucheuses à liège | Modèles, prix et devis fabricant"
+description: "Comparez boucheuses manuelles, semi-automatiques et automatiques. Validez col, bouchon, cadence et intégration avant le devis fabricant."
+keywords: boucheuse liège prix, machine bouchage vin, boucheuse automatique, devis fabricant, achat ligne embouteillage, pièces et service après-vente
 image: "/images/filling-solutions/corking.webp"
 ---
 
-# Série de machines à boucher
+# Boucheuses pour bouteilles en verre et bouchons en liège
 
-![Plans réels d'une machine à boucher entièrement automatique](/images/filling-solutions/corking.webp)
+![Boucheuse automatique pour bouteilles en verre](/images/filling-solutions/corking.webp)
 
-La boucheuse est principalement utilisée pour le processus de pressage des bouchons en liège, des bouchons synthétiques et autres bouchons. Il est couramment utilisé dans les lignes de conditionnement de vins, de vins de fruits, de spiritueux et de certains produits pétroliers spécialisés en bouteilles de verre haut de gamme. Pour les projets qui recherchent une sensation de coffret cadeau, une sensation de collection et une expérience d'emballage haut de gamme, le processus de bouchage peut améliorer considérablement l'image du produit.
+Le bouchage au liège réalise la fermeture principale de nombreuses bouteilles de vin et de boissons fermentées. Sa régularité dépend de l'association entre le profil intérieur du col, les tolérances de la bouteille, la matière et les dimensions du bouchon, ainsi que la méthode de compression et d'insertion. Un même outillage ne doit pas être supposé compatible avec tous les formats.
 
-## Produits applicables
+## Étape de la ligne
 
-- Vins, vins de fruits, vins de riz et autres produits alcoolisés
-- Huile de noix, huile de pépins de raisin, huile d'olive et autres huiles de coffret cadeau en bouteille en verre haut de gamme
-- Articles d'emballage spécialisés nécessitant l'utilisation de bouchons en liège ou décoratifs
+**Remplissage → préparation et alimentation des bouchons → insertion → contrôle de fermeture → capsule de col si prévue → étiquetage → encaissage**
 
-## Idées de configuration courantes
+Dans une ligne intégrée, la boucheuse doit suivre le débit réel de la remplisseuse et transmettre les états de marche ou d'arrêt. Pour une machine autonome, le chargement des bouteilles, la manutention et l'évacuation doivent être définis séparément.
 
-- Branchement sur une seule machine : adapté à la production en petits lots, à moyenne et basse vitesse
-- Bouchage connecté : adapté pour former une ligne de conditionnement continue avec remplissage, thermorétraction et étiquetage
-- Structure réglable : s'adapte à différentes hauteurs de bouteille, spécifications du goulot de la bouteille et du corps du bouchon.
+## Compatibilité à confirmer
 
-## Problèmes de sélection
+- Plan de la bouteille en verre, tolérances du col et stabilité sur convoyeur
+- Bouchon naturel, synthétique ou autre modèle approuvé
+- Diamètre, longueur, stockage et préparation éventuelle du bouchon
+- Profondeur d'insertion et aspect final demandé
+- Chargement manuel, alimentation assistée ou distribution automatique
+- Contrôle de fuite, détection d'absence et étape de capsule en aval
 
-- La concentricité entre la taille du goulot de la bouteille et le corps de la bouteille est-elle stable ?
-- Le matériau du corps du bouchon est-il du liège naturel, du bouchon synthétique ou du bouchon décoratif ?
-- Qu'il corresponde au rythme de remplissage frontal et à la station de rétraction des bouchons arrière
-- Est-il nécessaire de réduire les bris de bouchons et les rayures sur le goulot des bouteilles ?
+## Comparer les niveaux d'automatisation
 
-## Relation de correspondance typique
+| Machine | Usage de comparaison |
+| --- | --- |
+| [Boucheuse automatique](/fr/products/filling/automatic-corking-machine) | Alimentation des bouchons, flux continu et intégration à la ligne |
+| [Boucheuse semi-automatique](/fr/products/filling/semi-automatic-corking-machine) | Cycle opérateur, positionnement et souplesse de changement |
+| [Boucheuse manuelle](/fr/products/filling/manual-corking-machine) | Chargement contrôlé par l'opérateur et installation simple |
 
-1. [Série de machines de remplissage](/fr/solutions/filling/)
-2. Arrêt des séries de machines
-3. [Série de machines thermorétractables pour capsules de gel](/fr/solutions/cap-shrinking/)
-4. [Série d'étiqueteuses](/fr/solutions/labeling/)
+Les données publiées sur les pages produit servent à comparer les modèles. La machine et son outillage définitifs sont confirmés à partir des bouteilles et bouchons approuvés.
 
-## Modèle de référence de référence
+## Choix qui modifient le prix d'achat
 
-Les machines à boucher accordent plus d'attention à l'adaptabilité du corps en liège et à la vitesse de connexion dans les projets de vin et d'huile de coffrets cadeaux haut de gamme. Le nom du modèle peut entrer directement dans la page produit correspondante.
+- Fonctionnement manuel, semi-automatique ou automatique
+- Trémie, tri, alimentation et détection d'absence de bouchon
+- Nombre de formats et outillages fournis
+- Convoyeur, vis d'espacement, guidages, protections et interface de commande
+- Machine autonome ou intégration mécanique et électrique à la remplisseuse
+- Essais, emballage export, transport, installation, formation et pièces de rechange
 
-| Modèle | Extrait des paramètres publics | Instructions applicables |
-| --- | --- | --- |
-| [Machine de bouchage entièrement automatique DS-1 / DS-4 / DS-6](/fr/solutions/corking/automatic-corking-machine) | 2500 / 4500 / 6000 bouteilles/heure ; 1/4/6 têtes de bouchage ; 1,5 / 3 / 3 kW | Convient aux lignes de conditionnement de vin en continu |
-| [Boucheuse semi-automatique série DS](/fr/solutions/corking/semi-automatic-corking-machine) | La page publique suit la plage de capacité de production de DS-1 / DS-4 / DS-6 ; adapté aux petits et moyens lots de bouchons en liège | Convient aux projets de démarrage de vins ou d'huiles de coffrets cadeaux |
-| [Machine à boucher manuelle](/fr/solutions/corking/manual-corking-machine) | Convient aux bouteilles en verre bouchées ; comme solution à faible investissement ou emballage expérimental en petits lots | Convient aux lignes d'échantillonnage à basse vitesse et à la production d'essais |
+## Préparer une demande de devis exploitable
 
-## Accès direct à des modèles spécifiques
+Fournissez les plans et échantillons de bouteilles, la fiche et les échantillons de bouchons, la cadence nette, les horaires de travail, les informations de la remplisseuse en amont, la finition en aval, les utilités, le plan d'implantation et la destination. Précisez la position finale du bouchon et la méthode d'acceptation souhaitée.
 
-- [Machine de bouchage entièrement automatique](/fr/solutions/corking/automatic-corking-machine)
-- [Boucheuse semi-automatique](/fr/solutions/corking/semi-automatic-corking-machine)
-- [Boucheuse manuelle](/fr/solutions/corking/manual-corking-machine)
-- [Aperçu de la bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment)
+## FAT, installation et après-vente
 
-## Pages connexes
+Le protocole de réception usine contrôle l'alimentation, l'insertion, les dommages de bouteille, les blocages, le changement de format et les interverrouillages avec les machines voisines. L'offre doit distinguer les consommables d'essai, les convoyeurs, la manutention locale, les déplacements, la mise en route, la formation et les pièces recommandées. La garantie et les délais d'assistance suivent les documents commerciaux signés.
 
--[Série de machines thermorétractables pour capsules de gel](/fr/solutions/cap-shrinking/)
-- [Série d'équipements de brassage du vin](/fr/solutions/brewing/)
-- [Série de machines à sceller](/fr/solutions/sealing/)
--[Contactez-nous pour des solutions de lignes de conditionnement de vin](/fr/contact/)
+## Compléter la ligne
+
+- [Équipements d'embouteillage du vin](/fr/solutions/brewing/)
+- [Thermorétraction des capsules](/fr/solutions/cap-shrinking/)
+- [Étiqueteuses](/fr/solutions/labeling/)
+- [Encaissage et palettisation](/fr/solutions/packing-palletizing/)
+
+## Obtenir un devis de boucheuse
+
+Transmettez votre combinaison bouteille-bouchon pour recevoir le choix de machine, la limite de fourniture et le prix fabricant.
+
+- [Demander le prix d'une boucheuse](/fr/contact/)
+
+<!-- quote-cta -->

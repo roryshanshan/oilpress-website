@@ -35,7 +35,7 @@ This guide provides a visual, side-by-side comparison to help you choose the rig
 
 ## What Is a Hydraulic Oil Press?
 
-A hydraulic oil press uses **hydraulic cylinder pressure** to squeeze oil from oilseeds placed inside a barrel. The pressing action is slow, uniform, and highly controlled, making it ideal for preserving oil quality and achieving a high extraction rate.
+A hydraulic oil press uses **hydraulic cylinder pressure** to squeeze oil from prepared oilseeds placed inside a barrel. It works in batches and can provide controlled pressure, but oil quality and recovery still depend on the raw material, process route, barrel, cycle, and measurement method.
 
 **Key principle:** Hydraulic fluid transmits force → piston compresses oilseed → oil flows out through drainage slots.
 
@@ -89,17 +89,17 @@ The biggest practical difference is not only the machine shape. It is the produc
 
 | Feature | Hydraulic Oil Press | Screw Press |
 |---|---|---|
-| **Oil Yield** | ⭐⭐⭐⭐⭐ Higher (95%+) | ⭐⭐⭐ Moderate (85–92%) |
-| **Oil Quality / Clarity** | ⭐⭐⭐⭐⭐ Excellent (less heat, less oxidation) | ⭐⭐⭐ Good (more heat generated) |
-| **Pressing Speed** | Slower (batch process) | Faster (continuous operation) |
+| **Oil Recovery** | Must be measured in a controlled trial for the actual material and process | Must be measured under the same controlled conditions for a valid comparison |
+| **Oil Quality / Clarity** | Measure oil temperature, clarity, oxidation indicators, and filtration endpoint on the actual route | Measure the same indicators under the comparison route |
+| **Production Rhythm** | Batch cycle; record loading through cleaning | Continuous line rate; record starts, stops, and downstream constraints |
 | **Daily Capacity** | Calculated by barrel size, batch load, cycle time, raw material, and working hours | Easier to scale by continuous feeding and line speed |
-| **Machine Cost** | Medium | Medium–High |
-| **Operating Cost** | Low (low power, minimal wear) | Medium (higher energy, more wear parts) |
-| **Maintenance** | Simple, fewer wear parts | More frequent maintenance needed |
-| **Noise & Heat** | Low noise, low temperature | More noise, higher temperature |
-| **Best For** | Premium oil, specialty oils, small–medium mills | Large-scale continuous production |
-| **Raw Material Flexibility** | Very high (all oilseeds, residues) | High (standard oilseeds) |
-| **Cold Pressing Capability** | ⭐⭐⭐⭐⭐ Excellent | ⭐⭐ Limited |
+| **Machine Cost** | Compare the signed installed-scope quotation | Compare the signed installed-scope quotation |
+| **Operating Cost** | Calculate from measured energy, labor, consumables, cleaning, and downtime | Calculate on the same basis |
+| **Maintenance** | Confirm tasks, intervals, wear parts, labor, and lead times | Confirm on the same basis |
+| **Noise & Heat** | Measure at the agreed operating point | Measure at the agreed operating point |
+| **Typical Project Fit** | Batch hot-press or direct cold-press projects using the correct series | Continuous production projects after line validation |
+| **Raw Material Flexibility** | Project-specific; verify the oilseed, preparation route, barrel, and trial result | Project-specific; often selected for standard continuous oilseed lines |
+| **Cold Pressing Route** | Use 355-500 and verify the direct cold-press trial | Depends on screw configuration, temperature history, and product specification |
 
 ---
 
@@ -109,7 +109,7 @@ The biggest practical difference is not only the machine shape. It is the produc
   <div>
     <span class="matrix-label">Premium cold pressed oil</span>
     <strong>Hydraulic press</strong>
-    <p>Best for walnut, flaxseed, pumpkin seed, grape seed, avocado, sesame, and boutique bottled oils.</p>
+    <p>Evaluate 355-500 for walnut, flaxseed, pumpkin seed, grape seed, avocado, and other direct cold-press projects.</p>
   </div>
   <div>
     <span class="matrix-label">Large commodity output</span>
@@ -128,16 +128,13 @@ The biggest practical difference is not only the machine shape. It is the produc
   </div>
 </div>
 
-## Oil Yield: Why Hydraulic Wins
+## Oil Recovery: Compare Controlled Trials
 
-Hydraulic presses achieve **oil extraction rates of 95% or higher** because:
-- Pressure is applied uniformly across the entire pressing surface
-- Longer pressing time allows more oil to drain
-- No mechanical friction heat that degrades oil
+There is no universal oil-recovery percentage for either press type. Results vary with the raw-material batch, laboratory oil content, moisture, particle size, pretreatment, temperature, machine configuration, pressure or screw settings, cycle time, and measurement method.
 
-Screw presses typically achieve 85–92% extraction, with some residual oil remaining in the cake.
+A valid comparison should use the same representative material and report weighed inputs, collected oil, cake residual oil, losses, repeated runs, and the laboratory method. It should also distinguish raw-material oil yield from recovery relative to the material's measured oil content.
 
-**For premium oils like cold-pressed walnut, avocado, pumpkin seed, and grape seed oil**, hydraulic pressing is the industry standard.
+Hydraulic pressing can provide controlled pressure and longer drainage time, while screw pressing provides continuous compression. Select the process for specialty oils only after a witnessed sample trial confirms the required oil quality, recovery, throughput, and operating conditions.
 
 ---
 
@@ -173,7 +170,7 @@ A simple planning formula is:
 
 **Daily processing capacity = usable batch load × batches per hour × working hours per day**
 
-For large edible oil factories requiring very high continuous throughput, screw presses are usually more practical. For premium batch oil, hydraulic presses are often the better fit because they give more control over pressure, temperature, oil clarity, and cake dryness.
+For large edible oil factories requiring high continuous throughput, screw presses are usually more practical. For hydraulic projects, use 300/325 for hot pressing after cleaning, crushing, and roasting or heated conditioning; use 355-500 for direct cold pressing after cleaning, optional low-temperature drying, and crushing.
 
 ---
 
@@ -185,10 +182,10 @@ For large edible oil factories requiring very high continuous throughput, screw 
 ## Which Should You Choose?
 
 **Choose a Hydraulic Oil Press if:**
-- You produce premium, cold-pressed specialty oils (walnut, avocado, grape seed, pumpkin seed)
+- You use 355-500 for a validated direct cold-press specialty-oil route, or 300/325 for a validated hot-press batch route
 - You require high oil yield with minimal residue
 - You operate a batch oil workshop or premium oil line where output can be planned by barrel size and batches per day
-- You want simple operation and low maintenance costs
+- You can staff and maintain the batch line based on the quoted tasks, wear parts, and measured duty cycle
 - Oil quality and aroma preservation are critical (artisan oils, high-end retail)
 
 **Choose a Screw Press if:**
@@ -216,7 +213,7 @@ Our engineering team can design a hybrid solution tailored to your production go
     <img src="/images/325hydraulic.webp" alt="325 hydraulic oil press machine for peanut and sesame oil" decoding="async" loading="lazy" width="3020" height="1708">
     <figcaption>
       <strong>Small commercial oil mill</strong>
-      300 or 325 series hydraulic press, pretreatment, filtration, and basic filling.
+      300 or 325 series hydraulic press with cleaning, crushing, roasting or heated conditioning, filtration, and basic filling.
     </figcaption>
   </figure>
   <figure>
@@ -237,14 +234,17 @@ Our engineering team can design a hybrid solution tailored to your production go
 
 ## Frequently Asked Questions
 
-### Can a hydraulic press handle all oilseeds?
-Yes. Our hydraulic oil press series supports sesame, peanut, rapeseed, sunflower, soybean, flaxseed, tea seed, walnut, coconut, avocado, grape seed, and dozens of other oil-bearing materials.
+### Can a hydraulic press be assumed to handle every oilseed or residue?
+No. For 300/325, start from an edible-oil hot-press route such as peanut, sesame, rapeseed, sunflower seed, flaxseed, or tea seed and verify it by representative trial. For 355-500, start from a direct cold-press route. Soybean, oil sludge, waste bleaching earth, animal oil residues, and other non-standard materials require separate process, safety, legal, and commercial review.
 
 ### Is hydraulic pressing the same as cold pressing?
-Cold pressing is a *process temperature* classification, while hydraulic pressing refers to the *mechanism*. Hydraulic presses can do both cold pressing (below 40°C) and hot pressing (after steaming/roasting pretreatment).
+No. Hydraulic describes the mechanism; cold or hot describes the process route. This product range positions 300/325 primarily for hot pressing and 355-500 for direct cold pressing. Do not assume that changing pretreatment makes every series interchangeable.
 
 ### What is the typical ROI timeline for a hydraulic oil press?
-For small to medium operations (1–5 tons/day), most customers recover their investment within 12–24 months, depending on raw material costs and oil selling price.
+There is no fixed payback period. Build the model from the project's own raw-material cost and oil content, selling price, shift pattern, verified throughput, energy, labor, filtration, packaging, maintenance, taxes, working capital, financing, and downtime assumptions. Run sensitivity cases and update them with witnessed trial and operating data instead of using an anonymous customer average.
+
+### What should the quotation and acceptance documents define?
+They should define the machine and barrel, process route, utilities, exclusions, buyer responsibilities, representative test material, instruments, tolerances, pass criteria, corrective responsibility, witnesses, and signatures. FAT confirms the agreed factory configuration and protocol. SAT is separate and begins after site utilities, operators, and representative buyer material are ready; neither test creates an unstated capacity, recovery, service, or schedule guarantee.
 
 ---
 

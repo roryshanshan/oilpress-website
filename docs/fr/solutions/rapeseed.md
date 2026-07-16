@@ -1,156 +1,37 @@
 ---
-title: Solution de colza (huile de colza) - Shengshi Hecheng devis | ...
-description: "Demandez un devis pour Solution de colza (huile de colza) - Shengshi Hecheng : plan de ligne, liste d’équipements et SAV."
-keywords: Solution de colza (huile de colza) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+title: "Ligne d'huile de colza | Presse, prix et devis usine"
+description: "Huile de colza : comparez le pressage à froid et le conditionnement avec nettoyage, broyage, presse hydraulique et filtration. Demandez un devis usine."
+keywords: ligne huile colza prix, presse graines colza, pressage à froid, pressage à chaud, devis usine, achat fabricant, SAV
 image: "/images/process-image-55d72f15da.webp"
 ---
-# Solution de colza (huile de colza)
+# Ligne d'huile de colza : procédé, équipement et devis
 
-## Aperçu
+Le colza peut suivre une voie à froid ou une préparation thermique, selon le profil d'huile et le rendement recherchés. La variété, l'humidité et le niveau d'impuretés doivent être connus avant de dimensionner le nettoyage, le broyage et la presse.
 
-Le colza est une importante culture oléagineuse, l'huile de colza est l'une des principales huiles alimentaires au niveau mondial. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de colza, des petits ateliers aux grandes usines avec un équipement et des services complets.
+![Préparation du colza avant pressage](/images/process-image-55d72f15da.webp)
 
-## Caractéristiques de colza
+## Deux itinéraires possibles
 
-### 📊 Paramètres de base
-- **Teneur en huile** : 35-45%
-- **Teneur en protéines** : 20-25%
-- **Acides gras principaux** : Acide oléique (55-70%), Acide linoléique (15-25%), Acide linolénique (5-10%)
-- **Température appropriée** : Température de pressage contrôlée à 60-80℃
+### Pressage à froid
 
-### 🌱 Caractéristiques de croissance
-- **Cycle de croissance** : 90-120 jours
-- **Climat approprié** : Zones fraîches et humides
-- **Exigences du sol** : Sol fertile et neutre
-- **Production annuelle** : Production annuelle mondiale dépasse 70 millions de tonnes
+Criblage -> nettoyage -> séchage doux si nécessaire -> broyage -> pressage direct à température maîtrisée -> filtration. Cette voie demande une spécification claire de la température et un stockage protégeant l'huile de l'oxydation.
 
-## Technologie de Transformation
+### Conditionnement avant pressage
 
-### Procédé de pressage à chaud de l'huile de colza
-- Le colza subit des processus de nettoyage, de concassage, de friture et de cuisson à la vapeur avant d'être introduit dans le seau de presse à huile hydraulique pour le pressage.
-- L'huile de colza produite par ce processus a un rendement en huile élevé, une couleur dorée et une saveur fraîche.
-- ![Colza processus de pressage à chaud](/images/process-image-55d72f15da.webp)
+Nettoyage -> broyage ou floconnage -> cuisson ou conditionnement contrôlé -> pressage -> filtration, puis raffinage si l'usage final l'exige.
 
-## Vidéo du processus de pressage à chaud du colza
+## Sélection des équipements
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/lwE0mqSozlM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+- [Nettoyage et prétraitement](/fr/products/pre-treatment)
+- Broyage et conditionnement selon l'itinéraire
+- [Presses hydrauliques 300 à 500](/fr/products/)
+- [Filtre-presse pneumatique](/fr/products/pneumatic-filter-press)
+- [Raffinage éventuel](/fr/products/edible-oil-refining-equipment)
 
-### Effet du gâteau pressé de la presse à huile hydraulique
+## Prix fabricant et données d'achat
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/Dwoq8gX_24E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Pour un devis précis, indiquez variété, humidité, impuretés, quantité par jour, pressage à froid ou conditionné, qualité de l'huile, tension et destination. Un test est conseillé pour arrêter le modèle, le diamètre de cuve et le cycle. L'offre peut détailler installation, pièces, consommables et SAV.
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/KEcZjEd7dV4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### La vidéo suivante montre le processus de production de presse à huile à vis de colza, capacité de traitement quotidienne de 100 tonnes, à titre de référence uniquement, pas notre produit principal
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/X8jgHKbJsxQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-## Equipment Recommendations
-
-### Recommended Equipment
-- **Rapeseed**: 300AC-390/325AC-390/355AC-390/400AC-390
-
-## Avantages Techniques
-
-### 🎯 Precise Control
-- Temperature control: ±2℃ precision
-- Pressure control: Intelligent adjustment
-- Humidity control: Optimal moisture content
-
-### 💧 Oil Quality Guarantee
-- Cold pressing process preserves nutrition
-- Physical pressing without chemical residues
-- Oil yield industry-leading (38-42%)
-
-### 🔄 Production Continue
-- Fonctionnement ininterrompu 24 heures
-- Alimentation et déchargement automatisés
-- Alarme de panne intelligente
-
-## Applications des Produits
-
-### 🍳 Edible Oil
-- Rapeseed oil: Main edible oil variety
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
-
-### 🥛 Sous-produits
-- Rapeseed meal: Aliment protéique de haute qualité
-- Rapeseed protein: Food additives
-- Rapeseed phospholipids: Functional ingredients
-
-### 💊 Functional Products
-- Rapeseed isoflavones
-- Rapeseed polyphenols
-- Rapeseed sterols
-
-## Market Analysis
-
-### 📈 Development Trends
-- Growing demand for healthy edible oils
-- Organic rapeseed planting expansion
-- Utilisation complète des sous-produits improvement
-
-### 🎯 Target Markets
-- Edible oil processing enterprises
-- Feed processing enterprises
-- Food processing enterprises
-- Export trade enterprises
-
-## Normes de Qualité
-
-### 🏆 Normes de Qualité des Produits
-- Complies with national rapeseed oil standards (GB 1536)
-- Complies with food safety standards
-- Complies with export food standards
-- Complies with organic food certification
-
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color and transparency testing
-- Heavy metal content testing
-- Erucic acid content testing
-- Pesticide residue testing
-
-## Développement Durable
-
-### 🌱 Production Environnementale
-- Recyclage et utilisation des déchets
-- Processus d'économie d'énergie et de réduction d'émissions
-- Normes de production verte
-
-### 🔄 Utilisation des Ressources
-- Utilisation complète des sous-produits
-- Extension de la chaîne industrielle
-- Modèle d'économie circulaire
-
-### 🌍 Responsabilité Sociale
-- Support local planting
-- Increase farmer income
-- Assurer la sécurité alimentaire
-
-## Contactez-nous
-
-If you are interested in rapeseed pressing solutions, please contact our technical team:
-
-- 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
-
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable rapeseed pressing solution.
-
-## Obtenir prix & devis
-
-Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
-
-- [Obtenir prix & devis](/fr/contact/)
+- [Demander la configuration et le devis colza](/fr/contact/)
 
 <!-- quote-cta -->

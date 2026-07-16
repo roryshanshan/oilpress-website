@@ -1,29 +1,27 @@
 ---
-title: Machine de remplissage intelligente série prix | fabricant
-description: Demandez le prix et le devis pour Machine de remplissage intelligente série. Fabricant Shengshi Hecheng, livraison et SAV.
-keywords: Positionnement du modèle prix, acheter Positionnement du modèle, devis usine, fabricant chinois, exportation, service après-vente
+title: "Remplisseuses intelligentes | Prix fabricant et devis"
+description: "Gamme de remplisseuses intelligentes de 4 000 à 13 000 bouteilles/h pour plusieurs formats. Comparez la précision, l'intégration, le prix, le devis et le SAV."
+keywords: "gamme de remplisseuses intelligentes prix, devis gamme de remplisseuses intelligentes, 4 000-13 000 bouteilles/h pour contenants de diamètre 50-100 mm et hauteur 100-320 mm, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/smart-filling-machine.webp"
 ---
-# Machine de remplissage intelligente série
 
-![Série de machines de remplissage intelligentes](/images/filling-products/smart-filling-machine.webp)
+# Gamme de remplisseuses intelligentes
 
-La série de machines de remplissage intelligentes est principalement conçue pour les lignes automatiques de liquides en bouteille au détail, en tenant compte de la précision de remplissage, de la vitesse et de l'adaptabilité à plusieurs bouteilles. Ils conviennent à la production à cadence moyenne à élevée dans des scénarios de remplissage à pression normale, tels que les huiles comestibles et les liquides d'assaisonnement.
+![Gamme de remplisseuses intelligentes](/images/filling-products/smart-filling-machine.webp)
 
----
-## Positionnement du modèle
+Cette gamme multi-têtes sert de poste principal de dosage pour des lignes de bouteilles de détail compatibles. Les nombres de têtes permettent une présélection, mais le choix final dépend du liquide, de la bouteille, du volume et de la cadence soutenue.
 
-- Série : [Série de machines de remplissage](/fr/solutions/filling/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#fill-smart)
-- Scénarios applicables : convient comme machine de remplissage principale pour l'huile en bouteille et le liquide d'assaisonnement au détail.
+## Domaine d'application et critères d'achat
 
-## Résumé des informations publiques
+- Famille : [Série de remplisseuses](/fr/solutions/filling/)
+- Repère technique : [Paramètres publiés de Gamme de remplisseuses intelligentes](/fr/products/filling-equipment#fill-smart)
+- Comparer les modèles au volume et aux conditions réelles, sans extrapoler un seul point de calibrage.
+- Définir recettes, réglages et nettoyage pour chaque changement de produit.
+- Vérifier que capsulage, étiquetage et accumulation acceptent la cadence choisie.
 
-- Lorsque le volume calibré est de « 500 ml », la précision de référence est de « ±1 ml »
-- La configuration publique couvre les en-têtes « 12/18/24/30/36 »
-- La vitesse de référence couvre « 4 000 à 13 000 bouteilles/heure »
+## Paramètres de référence publiés
 
-## Table des paramètres publics
+Le tableau ci-dessous est conservé comme repère de gamme. Les performances et la compatibilité finales doivent être confirmées dans l'offre technique et le protocole de réception.
 
 | Nombre de têtes | Vitesse de référence (bouteilles/heure) | Précision d'étalonnage (500 ml) | Types de bouteilles applicables | Puissance (kW) | Dimensions hors tout (mm) |
 | --- | --- | --- | --- | --- | --- |
@@ -33,20 +31,25 @@ La série de machines de remplissage intelligentes est principalement conçue po
 | 30 | 10000 | ±1 ml | Hauteur de la bouteille 100-320 mm ; diamètre de la bouteille 50-100 mm | 2.2 | 1950 × 2020 × 2550 |
 | 36 | 13000 | ±1 ml | Hauteur de la bouteille 100-320 mm ; diamètre de la bouteille 50-100 mm | 2.2 | 2140×2150×2550 |
 
-## Comment choisir
+## Données nécessaires au devis fabricant
 
-- « 12-18 têtes » : plus adapté aux projets d'embouteillage en démarrage ou de taille moyenne
-- « 24-30 têtes » : convient aux lignes de production principales communes, en tenant compte à la fois des exigences de vitesse et d'espace
-- '36 Head' : Ligne automatique continue adaptée aux tempos plus élevés
+- Densité, viscosité, température, mousse et matériaux de contact.
+- Bouteilles, plage de volume, tolérance et changements prévus.
+- Cadence soutenue, organisation des postes, nettoyage et interfaces.
+- Méthode FAT, nombre d'échantillons, limites et périmètre de service écrit.
 
-## Suggestions complémentaires
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-- Si vous souhaitez voir des modèles avec une précision de mesure plus fine, vous pouvez continuer à visualiser [Machine de remplissage quantitative de haute précision](/fr/products/filling/high-precision-filling-machine)
-- Si vous souhaitez voir la structure reliant le levage des bouchons, le tri des bouchons, le flambage des bouchons et le scellement des bouchons après le remplissage, vous pouvez comparer [Machine de remplissage quantitative intelligente](/fr/products/filling/intelligent-quantitative-filling-machine)
-- Pour la solution complète, vous pouvez continuer à consulter [Présentation de la solution de support de remplissage](/fr/solutions/filling-packages)
+## Prix, livraison et périmètre SAV écrit
 
-## Pages connexes
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Série de machines de remplissage](/fr/solutions/filling/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+## Équipements associés et prochaine étape
+
+- [Série de remplisseuses](/fr/solutions/filling/)
+- [Paramètres publiés de Gamme de remplisseuses intelligentes](/fr/products/filling-equipment#fill-smart)
+- [Remplisseuse quantitative haute précision](/fr/products/filling/high-precision-filling-machine)
+- [Ligne intelligente de remplissage et capsulage](/fr/products/filling/intelligent-quantitative-filling-machine)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

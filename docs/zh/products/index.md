@@ -1,6 +1,6 @@
 ---
 title: "液压榨油机产品中心｜型号价格与厂家报价"
-description: "浏览300-500系列液压榨油机及过滤、精炼、灌装配套设备，获取厂家价格、选型建议与采购支持。"
+description: "浏览300-500系列液压榨油机及过滤、精炼、灌装等配套设备，按原料、日产量和工艺比较型号，并获取厂家价格、采购建议与售后支持。"
 keywords: 榨油机价格, 液压榨油机型号, 厂家报价, 采购, 300 325 355 400 426 480 500
 image: "/images/external/products-index-bfb7fcaa.webp"
 ---
@@ -41,41 +41,50 @@ image: "/images/external/products-index-bfb7fcaa.webp"
 - [客户定制款液压榨油机](/zh/products/customized-hydraulic-oil-press)
 - [客户订货发货视频](/zh/products/customer-order-shipping-video)
 
+## 选型与试料验证
+
+系列名称和结构规格不直接等于固定产量或固定出油率。选型时应先核对料桶有效尺寸、单批装料量、额定压力、加热与温控方式、电机功率、过滤配置及计划班次，再用客户实际油料确认工艺窗口。
+
+- **同批取样**：基线机型与候选机型使用同一批油料，记录含水率、杂质率和实验室含油率。
+- **统一条件**：保持预处理、装料量、压力曲线或保压时间、沉降过滤时间和称量口径一致。
+- **完整记录**：同时记录净油质量、饼粕质量、饼残油、单批时间、能耗、油品质量和清洗停机时间。
+- **结果判定**：比较多次有效试料的平均值和波动；产能、出油率及经济性以约定样品和验收方法为准，不采用固定增产倍数。
+
 ### 300系列
-我们的经典入门级系列，适合小型油厂和家庭作坊使用，具有结构紧凑、操作简单、性价比高等特点。
+入门规格系列，适合小型油厂和家庭作坊比较料桶、装料方式、电压和基础配套；实际单批处理量与节拍需结合油料和试料记录确认。
 
 - 300系列
-  适合小型油厂和家庭作坊使用，具有结构紧凑、操作简单、性价比高等特点。
+  适合小型油厂和家庭作坊进行基础配置选型，报价时应核对料桶、功率、电压、过滤方式和交期。
 
 [查看300系列完整介绍](/zh/products/300)
 
 ### 325系列
-经典系列的扩展型号，适合中小型油厂使用，提供更多配置选择和更高的生产效率。
+在入门系列基础上提供不同结构与配置选择，适合中小型油厂比较单批装料、循环时间和配套方式；生产节拍以同批原料试料为准。
 
 [查看325系列完整介绍](/zh/products/325)
 
 ### 355系列
-中端系列，为中型油厂提供更强大的生产能力，采用一体成型钢板结构，承载压力更强。
+采用一体成型钢板结构，适合中型油厂按料桶规格、额定压力和班次需求选型；结构差异不直接换算为固定增产比例。
 
 [查看355系列完整介绍](/zh/products/355)
 
 ### 400系列
-中高端系列，为中大型油厂提供更强大的生产能力，具备智能温控和自动化功能。
+提供温控和自动化配置，适合中大型油厂比较操作流程、批次一致性和配套需求；实际产能与出油率需通过客户油料试验确认。
 
 [查看400系列完整介绍](/zh/products/400)
 
 ### 426系列
-高端系列，专为现代化大型油厂设计。
+面向较大规格和自动化配套需求，需按料桶尺寸、压力参数、单批装料和计划节拍核对具体配置。
 
 [查看426系列完整介绍](/zh/products/426)
 
 ### 480系列
-重载高压力系列，适合更高压力储备和稳定批次生产。
+重载高压力配置，选型重点是机架、油缸、料桶和液压系统参数；批次稳定性应以连续试料记录验证。
 
 [查看480系列完整介绍](/zh/products/480)
 
 ### 500系列
-旗舰高压力系列，适合更强结构要求和长期稳定运行。
+较大规格高压力配置，适合有相应结构和连续运行要求的项目；处理量、能耗和维护周期按实际工况与试料数据评估。
 
 [查看500系列完整介绍](/zh/products/500)
 
@@ -121,73 +130,33 @@ image: "/images/external/products-index-bfb7fcaa.webp"
 
 ## 液压榨油机部分部件详解
 
-### 主要部件
-#### 1.泵站
-+ 动力源系超高压组合液压站，液压站配高低组合双联泵，工作泵压力最高达80兆帕；
-+ 压力是五柱塞，工作压力大，工作时轻松达到60兆帕；
-+ 配高低压溢流阀，双高压溢流，不会超压更安全；
-+ 换向阀采用超高压四芯转向阀，不易泄露掉压，更耐磨，更耐用。
-![泵站](/images/external/products-index-bfb7fcaa.webp)
+![液压榨油机泵站与部件实拍](/images/external/products-index-bfb7fcaa.webp)
 
-### 2.纯铜电机
-+ 采用纯铜电机，工作效率高且经久耐用，质量坚硬，不易损坏。
-![纯铜电机](/images/external/products-index-798d8557.webp)
-### 3.液压油缸
-+ 油缸产地湖北大冶（国企），采用27硅锰合金管材质，缸筒经过热处理调制而成，材质性能更稳定，超高压不易爆缸，压力可达80兆帕；
-+ 油封为日本进口配件，采用高压组合格莱圈和挡圈式Y型组合油封，更耐超高压，两道油封更不易泄露，使用材质是普通材质的数倍，质量过硬，密封性能强，不易漏油；
-+ 活塞采用两道前后导向带，更不易损坏油缸内壁，不会跑偏磨壁。
-![液压油缸](/images/external/products-index-76efb8f6.webp)
+图示泵站仅作结构参考，实际品牌、型号和参数应写入双方确认的报价清单或技术协议。
 
-![液压油缸](/images/external/products-index-6aa7869d.webp)
-![液压油缸](/images/external/products-index-f582c751.webp)
+### 采购核对表
 
-液压油缸镜面辊压视频：
-<div class="video-container">
-  <iframe width="700" height="330" src="https://www.youtube.com/embed/nn9GP7t20Aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-液压油缸成品展示视频：
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/taGBjx0XnkA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+| 部件 | 下单前核对内容 |
+| --- | --- |
+| 泵站 | 泵的型号与类型、额定压力和流量、油箱容量、溢流阀与换向阀、冷却方式、压力表量程、液压原理图，以及约定的升压和保压验收条件。 |
+| 油缸 | 缸径、行程、额定压力、缸筒与活塞杆材质及表面处理、密封件型号、安装尺寸、图纸，以及约定的保压和泄漏检查条件。 |
+| 控制箱 | 供电电压与频率、控制器或 PLC 型号、电器元件品牌和料号、急停及过载与压力保护、界面语言、接线图。 |
+| 料筒 | 有效内径、高度和单批容积、与物料接触部位材质、排油条与缝隙规格、法兰或加强结构、清洗和更换方式。 |
+| 电机 | 额定功率、电压、相数、频率、转速、工作制和防护等级，以及铭牌、适用认证和负载试机条件。 |
+| 易损件 | 随机件名称、料号、尺寸、材质和数量，与所选机型的适配关系，以及建议首批备件、单价和交期。 |
 
+### 技术与型号资料
 
-超高压液压油缸加焊工艺视频：
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/8TpO4JBcJ_A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+- [液压油缸工作原理](/zh/products/hydraulic-cylinder-principle)
+- **型号页：**[300系列](/zh/products/300)、[325系列](/zh/products/325)、[355系列](/zh/products/355)、[400系列](/zh/products/400)、[426系列](/zh/products/426)、[480系列](/zh/products/480)、[500系列](/zh/products/500)
+- [设备使用说明书](/zh/products/instruction-manual)
 
-### 4.控制箱
-+ 控制系统使用微电脑系统，所有程序全部软件连接，控制系统操作简单；
-+ 配置双压力表，双项高压电控保险；
-+ 电器元件采用知名品牌优质产品，质量坚硬使用寿命长久。
-![控制箱](/images/external/products-index-3bdb9615.webp)
+### 获取厂家配置与报价前请提供
 
-
-### 5.料筒
-+ 本款机型配备直径390mm料桶；
-+ 料桶整体采用梯形条排式键条均匀排列焊接而成，梯形键条外大里小不堵油道，桶内不向上爬油，且出油面积大出油更快，是钻孔面积的15倍出油率高达2%-3%；
-+ 外圈采用锻打法兰，材质采用山钢Q690钢材，高强度，高抗拉，高耐磨，不变形。
-<div class="video-container">
-  <iframe width="700" height="330" src="https://www.youtube.com/embed/HWjvDznT95U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### 6.活塞杆
-![活塞杆](/images/external/products-index-a0ce7064.webp)
-榨油机活塞杆淬火处理视频，活塞杆淬火处理后增加表面硬度不被划伤，延长液压油缸使用寿命
-<div class="video-container">
-  <iframe width="700" height="330" src="https://www.youtube.com/embed/twPxOI2VQIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### 易损件
-
-#### 1.控制器
-#### 2.压力表
-#### 3.高压油管（1 米）
-#### 4.低压油管（0.8米）
-#### 5.油封
-#### 6.密封圈
-#### 7.轴承
-#### 8.换向阀
-#### 9.阀块
-#### 10.钢珠
-#### 11.弹簧
+- 计划加工的油料、来料状态、已知含水率范围和预处理方式。
+- 目标单批装料量、每班或每日处理量，以及计划运行时长。
+- 所需工艺范围：清理、粉碎、蒸炒、压榨、过滤、精炼和灌装。
+- 项目所在地的电压、相数、频率，以及需要遵循的电气标准。
+- 可用场地、门洞或吊装限制，以及自动化、界面语言和接触物料材质要求。
+- 设备数量、收货地、期望交期、贸易条款，以及是否需要首批备件、安装或培训。
+- 如采购替换件或改造设备，请提供现有设备型号、序列号、铭牌照片，以及带尺寸标注的部件清晰照片。

@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "液压榨油机厂家｜价格/报价/采购/生产线"
-description: "300-500系列液压榨油机与成套食用油生产线，厂家直供价格与报价，提供选型、采购与售后支持，服务全球油厂与作坊项目。"
+description: "300-500系列液压榨油机与成套食用油生产线，提供厂家价格、型号选型、采购报价和售后支持，面向油厂、作坊及出口项目对接。"
 keywords: 液压榨油机价格, 液压榨油机厂家, 榨油机报价, 采购, 生产线, 成套设备, 售后服务, 盛世赫程
 image: "/images/hero-oil-press.webp"
 ---
@@ -19,7 +19,7 @@ image: "/images/hero-oil-press.webp"
   <iframe width="100%" height="500" src="https://www.youtube.com/embed/3uE1lah9Dpw?autoplay=1&mute=0"
           frameborder="0"
           loading="lazy"
-          title="Hydraulic Oil Press Working Video"
+          title="液压榨油机运行视频"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
           style="width: 100%; height: 500px; display: block;">
@@ -28,12 +28,12 @@ image: "/images/hero-oil-press.webp"
 
 <div class="hero-section">
   <div class="hero-content">
-    <h2>专注液压榨油设备15年</h2>
-    <p>提供300-500系列液压榨油机、油料加工整线方案、设备报价与全球售后支持。</p>
+    <h2>液压榨油机与油料加工生产线厂家直供</h2>
+    <p>比较300-500系列机型，确认原料工艺，并获取包含出口包装、安装资料和售后范围的厂家报价。</p>
     <div class="hero-buttons">
       <a href="/zh/products/" class="primary-button">查看产品系列</a>
       <a href="/zh/contact/" class="contact-link-button">获取价格/报价</a>
-      <a href="/zh/" class="secondary-button">返回首页</a>
+      <a href="https://hydraulic-oil-press.com/" class="secondary-button" target="_blank" rel="noopener noreferrer">厂家官网</a>
     </div>
   </div>
   <div class="hero-image">
@@ -45,9 +45,9 @@ image: "/images/hero-oil-press.webp"
 
 <div class="company-intro">
   <div class="intro-content">
-    <p>山东盛世赫程机械有限公司成立于2008年，是国家重点油料压榨设备生产企业，专注于现代化自动液压榨油机系列和食用油精炼生产线设备的研发制造。</p>
-    <p>公司位于山东省青州市，地理位置优越，交通便利。拥有20000平方米的现代化生产基地，配备先进的生产设备和检测仪器，年产各类液压榨油设备2000余台。</p>
-    <p>我们秉承"品质至上，客户为先"的经营理念，产品远销全国各地及东南亚、非洲、中东等30多个国家和地区。</p>
+    <p>山东盛世赫程机械有限公司位于山东青州，主要设计和制造液压榨油机及食用油加工配套设备。</p>
+    <p>设备选型需同时确认原料、热榨或冷榨路线、批次节拍、过滤要求、电压、厂房空间和交付国家，不能用一个固定产能或一套工艺覆盖所有项目。</p>
+    <p>采购前可要求机型对比、工艺建议、工厂试机视频、出口包装方案、安装资料、备件清单和远程售后支持范围。</p>
     <a href="/zh/about/" class="learn-more">了解更多 →</a>
   </div>
   <div class="intro-image">
@@ -107,23 +107,23 @@ image: "/images/hero-oil-press.webp"
 <div class="advantages-grid">
   <div class="advantage-item">
     <div class="advantage-icon">🔍</div>
-    <h3>高效生产</h3>
-    <p>压榨效率比传统设备提高30-50%，自动化操作系统减少人工干预，具备强大的连续作业能力</p>
+    <h3>按工艺匹配机型</h3>
+    <p>根据油料、预处理方式、压榨温度、批次目标和后续过滤要求选型，不用笼统产能代替项目核算。</p>
   </div>
   <div class="advantage-item">
     <div class="advantage-icon">💧</div>
-    <h3>优质出油率</h3>
-    <p>精确压力控制，出油率超过95%，低温冷榨工艺保留营养成分，适用于多种油料作物</p>
+    <h3>批次压榨可调整</h3>
+    <p>可围绕液压压力、保压时间、原料水分、粉碎粒度和榨桶配置调整热榨或冷榨路线。</p>
   </div>
   <div class="advantage-item">
     <div class="advantage-icon">🛠️</div>
-    <h3>坚固耐用</h3>
-    <p>采用高强度合金钢材料，关键部件经特殊热处理，使用寿命长达15-20年，大大降低维护成本</p>
+    <h3>结构与维护可核实</h3>
+    <p>采购前可核对液压系统、控制柜、榨桶、易损件、维护点和备件要求，便于后续使用与检修。</p>
   </div>
   <div class="advantage-item">
     <div class="advantage-icon">🌿</div>
-    <h3>绿色环保</h3>
-    <p>无需添加任何化学溶剂，物理压榨工艺，生产过程零污染，符合现代食品安全标准</p>
+    <h3>支持单机与整线采购</h3>
+    <p>可采购榨油主机，也可组合清理、粉碎、必要时蒸炒、过滤、精炼、储油、灌装和包装设备。</p>
   </div>
 </div>
 
@@ -164,7 +164,7 @@ image: "/images/hero-oil-press.webp"
       <span>棉籽</span>
     </div>
   </div>
-  <p class="materials-more">以及其他植物油料作物和动物油籽</p>
+  <p class="materials-more">其他含油原料建议先做工艺评估或样品测试，再确定机型和配置。</p>
 </div>
 
 ## 工程服务
@@ -172,36 +172,36 @@ image: "/images/hero-oil-press.webp"
 <div class="services-section">
   <div class="service-item">
     <h3>方案设计</h3>
-    <p>基于CAD设计系统提供专业设计，根据客户需求定制最优榨油方案</p>
+    <p>先确认原料、油品目标、热榨或冷榨路线、批次节拍、过滤标准、电压和厂房限制，再确定设备方案。</p>
   </div>
   <div class="service-item">
     <h3>生产线定制</h3>
-    <p>可定制日产1-100吨的生产线，从原料预处理到成品包装的全套解决方案</p>
+    <p>根据已确认的项目需求组合清理、粉碎、蒸炒或低温干燥、压榨、过滤、精炼、储油、灌装和包装。</p>
   </div>
   <div class="service-item">
     <h3>安装调试</h3>
-    <p>专业技术团队提供现场安装指导和设备调试，确保设备正常运行</p>
+    <p>发货前核对试机记录、布线与基础要求、安装资料、调试步骤和远程指导范围。</p>
   </div>
   <div class="service-item">
     <h3>售后保障</h3>
-    <p>提供全方位技术支持和售后服务，24小时响应机制，终身维护</p>
+    <p>在报价中确认推荐备件、维护周期、故障沟通渠道，以及可提供的远程或现场服务条件。</p>
   </div>
 </div>
 
-## 客户案例
+## 采购与项目规划
 
 <div class="case-studies">
   <div class="case-item">
-    <img src="/images/case1.svg" alt="新疆油厂案例" decoding="async" loading="lazy" width="200" height="200">
+    <img src="/images/case1.svg" alt="液压榨油机单机采购报价规划" decoding="async" loading="lazy" width="200" height="200">
     <div class="case-content">
-      <h3>新疆大型油厂</h3>
-      <p>采用我公司425系列榨油机，日产油20吨，出油率提高15%，年增收200万元</p>
+      <h3>榨油机单机采购</h3>
+      <p>提交原料、预处理方式、目标批次、电压和目的地，报价可对比适用机型、榨桶配置、出口包装和售后范围。</p>
     </div>
   </div>
   <div class="case-item">
-    <img src="/images/case2.svg" alt="东南亚客户案例" decoding="async" loading="lazy" width="200" height="200">
-    <h3>东南亚客户</h3>
-    <p>引进我公司全套榨油生产线，实现了从手工作坊到现代化工厂的转变，产能提升5倍</p>
+    <img src="/images/case2.svg" alt="食用油完整生产线采购规划" decoding="async" loading="lazy" width="200" height="200">
+    <h3>完整生产线采购</h3>
+    <p>把预处理、粉碎或蒸炒、液压压榨、过滤或精炼、储油、灌装、布局、公用工程和安装责任统一确认。</p>
   </div>
 </div>
 
@@ -223,10 +223,10 @@ image: "/images/hero-oil-press.webp"
 ## 常见问题
 
 ### 设备支持哪些油料原料？
-可覆盖大豆、花生、芝麻、油菜籽、向日葵籽、亚麻籽、茶籽、核桃等多种油料。可在[解决方案页面](/zh/solutions/)查看更完整的原料与工艺匹配。
+300/325系列主要面向花生、芝麻等经过预处理的热榨路线。355-500系列重点用于原料清理、必要时低温干燥、粉碎后直接冷榨，适合核桃、沙棘、紫苏籽、干椰肉或椰干、茶籽、火麻籽、亚麻籽、杏仁、松子和南瓜籽等。新原料及工业残渣需先评估样品。可在[解决方案页面](/zh/solutions/)查看更完整的原料与工艺匹配。
 
 ### 300/325/355/400/426/480/500 系列如何选型？
-建议按原料、热榨/冷榨路线、压力需求、榨桶配置、批次周期和每日工时综合评估。可先查看[产品总览](/zh/products/)，再联系销售工程师获取定制选型建议。
+建议按原料、预处理路线、压力需求、榨桶配置、批次周期、每日工时和过滤目标综合评估。300/325可作为热榨起点，355-500用于比较粉碎后直接冷榨方案。可先查看[产品总览](/zh/products/)，再获取匹配的厂家配置。
 
 ### 除主机外是否提供整线配套？
 提供。我们可提供预处理、过滤、精炼、脱蜡、灌装等配套设备与整线方案。可查看[配套设备](/zh/products/supporting)、[过滤设备](/zh/products/filtration-equipment)、[精炼与脱蜡设备](/zh/products/refining-and-dewaxing-equipment)与[灌装配套方案](/zh/solutions/filling-packages)。
@@ -257,7 +257,7 @@ image: "/images/hero-oil-press.webp"
 </div>
 
 ::: tip 温馨提示
-您的一站式油料加工基地，我们致力于为您提供最优质的榨油设备解决方案。
+提交原料、目标产量、电压、目的地和所需工序，即可获取可落地的设备清单与厂家报价。
 :::
 
 <style>

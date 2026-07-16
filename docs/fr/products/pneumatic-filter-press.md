@@ -1,6 +1,6 @@
 ---
-title: Presse à huile pneumatique multicouche - Shengshi Hecheng prix...
-description: Demandez le prix et le devis pour Presse à huile pneumatique multicouche - Shengshi Hecheng. Fabricant Shengshi Hecheng, livraison et SAV.
+title: "Filtre-presse pneumatique multicouche | Prix et devis"
+description: "Filtre-presse pneumatique multicouche avec zones de contact en inox 304. Comparez filtration, intégration, prix fabricant, devis et service après-vente."
 keywords: Presse à huile pneumatique multicouche prix, acheter Presse à huile pneumatique multicouche, devis usine, fabricant chinois, exportation, service après-vente
 image: "/images/external/products-pneumatic-filter-press-54de9739.webp"
 ---

@@ -1,26 +1,27 @@
 ---
-title: "Remplissage et bouchage de deux en ligne | Prix usine et devis"
-description: "Demandez le prix usine pour Remplissage et bouchage de deux en ligne. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
-keywords: Remplissage et bouchage de deux en ligne prix, acheter Remplissage et bouchage de deux en ligne, devis usine, fabricant chinois, exportation, service après-vente
+title: "Monobloc remplissage-bouchage liège | Prix fabricant et devis"
+description: "Monobloc de remplissage et bouchage liège, de 2 200 à 6 000 bouteilles/h. Le devis précise les formats, l'intégration, le prix et le SAV."
+keywords: "monobloc de remplissage et bouchage liège prix, devis monobloc de remplissage et bouchage liège, 2 200-6 000 bouteilles/h avec remplissage et pose du bouchon sur une machine, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/filling-corking-monoblock.webp"
 ---
-# Remplissage et bouchage de deux en ligne
 
-![Remplissage et bouchage en ligne](/images/filling-products/filling-corking-monoblock.webp)
+# Monobloc de remplissage et bouchage pour le vin
 
-La machine de remplissage et de bouchage à deux lignes peut être utilisée comme référence pour des modèles spécifiques de la série d'équipements de brassage. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+![Monobloc de remplissage et bouchage pour le vin](/images/filling-products/filling-corking-monoblock.webp)
 
-## Positionnement du modèle
+Ce monobloc associe le remplissage à faible vide et l'insertion du bouchon pour des bouteilles de vin ou de vin de fruits compatibles. Il raccourcit le transfert entre les deux opérations, tandis que la finition du goulot, le bouchon et le niveau de remplissage restent des données de choix essentielles.
 
-- Série : [Série d'équipements de brassage](/fr/solutions/brewing/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#brew-dual)
-- Scénarios applicables : convient pour brancher directement après le remplissage.
+## Domaine d'application et critères d'achat
 
-## Résumé des informations publiques
+- Famille : [Équipements d'embouteillage du vin](/fr/solutions/brewing/)
+- Repère technique : [Paramètres publiés de Monobloc de remplissage et bouchage pour le vin](/fr/products/filling-equipment#brew-dual)
+- Vérifier que le faible vide convient au liquide et à la présentation de niveau recherchée.
+- Adapter la tête de bouchage et le support au flacon en verre et au bouchon naturel ou technique.
+- Prévoir l'alimentation des bouchons, la manutention des bouteilles pleines et la pose de capsule en aval.
 
-Cette machine en deux parties est principalement conçue pour le remplissage de vins et de vins de fruits. Cet équipement combine organiquement une machine de remplissage à pression négative et une machine de bouchage en une seule. L'équipement a une structure compacte et économise de l'espace d'installation.
+## Paramètres de référence publiés
 
-## Table des paramètres publics
+Le tableau ci-dessous est conservé comme repère de gamme. Les performances et la compatibilité finales doivent être confirmées dans l'offre technique et le protocole de réception.
 
 <table>
   <tbody>
@@ -51,14 +52,24 @@ Cette machine en deux parties est principalement conçue pour le remplissage de 
   </tbody>
 </table>
 
-## Suggestions complémentaires
+## Données nécessaires au devis fabricant
 
-- Regardez d'abord la page de la série : [Série d'équipements de brassage](/fr/solutions/brewing/)
-- Regardons à nouveau l'aperçu des paramètres : [Les positions des connexions de remplissage et de branchement dans la bibliothèque de paramètres](/fr/products/filling-equipment#brew-dual)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+- Propriétés du liquide, échantillons bouteille-bouchon, niveau ou volume cible et tolérance.
+- Finition du goulot, diamètre et longueur du bouchon, compression et profondeur d'insertion.
+- Cadence, formats, sens de ligne, préparation amont et accumulation aval.
+- Contrôles de fermeture, échantillons FAT, utilités et services demandés.
 
-## Pages connexes
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Série d'équipements de brassage](/fr/solutions/brewing/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+## Prix, livraison et périmètre SAV écrit
+
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
+
+## Équipements associés et prochaine étape
+
+- [Équipements d'embouteillage du vin](/fr/solutions/brewing/)
+- [Paramètres publiés de Monobloc de remplissage et bouchage pour le vin](/fr/products/filling-equipment#brew-dual)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Planification des lignes de production](/fr/solutions/production-lines)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

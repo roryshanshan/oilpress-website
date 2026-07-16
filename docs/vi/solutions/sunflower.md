@@ -1,136 +1,69 @@
 ---
-title: Giải pháp hạt hướng dương (Dầu hướng dương) báo giá
-description: Nhận báo giá Giải pháp hạt hướng dương (Dầu hướng dương) với phương án dây chuyền, danh mục thiết bị và hỗ trợ sau bán.
-keywords: Giải pháp hạt hướng dương (Dầu hướng dương) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+title: "Sản xuất dầu hướng dương | Ép, lọc và khử sáp"
+description: "Làm sạch, bóc vỏ, cán và điều hòa hạt hướng dương trước ép nóng/lạnh; chọn máy ép, lọc, khử sáp. Kiểm tra công suất, sáp, độ ẩm và tỷ lệ dầu."
+keywords: "Hạt hướng dương (dầu hướng dương) báo giá, máy ép dầu, quy trình sản xuất, mua từ nhà máy, thiết bị phụ trợ, hậu mãi"
 image: "/images/sunflower-seed-hot-pressing-process.webp"
 ---
-# Giải pháp hạt hướng dương (Dầu hướng dương)
+# Giải pháp Hạt hướng dương (dầu hướng dương)
 
-## Tổng quan
+![Hạt hướng dương (dầu hướng dương) - quy trình và thiết bị ép dầu](/images/sunflower-seed-hot-pressing-process.webp)
 
-向日葵籽是重要的油料作物，葵花籽油具有金黄的色泽和清爽的口感。山东盛世赫程机械有限公司提供专业的向日葵籽压榨解决方案，从小型作坊到大型工厂的全套设备和服务。
+Hạt hướng dương cần được làm sạch, xác định tỷ lệ vỏ, bóc vỏ khi cần rồi cán/nghiền và điều hòa. Ép lạnh phù hợp với dầu đặc sản có hương nhẹ; ép ấm/nóng sau điều hòa phù hợp hơn với dầu thô thương mại, nhưng phải thử theo đúng giống hạt. Dầu sau ép được lọc và, nếu mục tiêu yêu cầu độ trong ở nhiệt độ thấp, đưa qua khử sáp trước tinh luyện hoặc đóng gói.
 
-## 向日葵籽特性
+## Dữ liệu chọn quy trình
 
-### 📊 基本参数
-- **含油率**: 40-50%
-- **蛋白质含量**: 15-20%
-- **主要脂肪酸**: 亚油酸（55-75%）、油酸（14-35%）、棕榈酸（4-9%）
-- **适宜温度**: 压榨温度控制在60-80℃
+| Hạng mục | Khuyến nghị |
+| --- | --- |
+| Hàm lượng dầu tham khảo | Khoảng 35-50% |
+| Tuyến công nghệ ưu tiên | Có thể ép nóng hoặc ép lạnh theo thị trường |
+| Model hoặc hướng thiết bị | 300 / 325 / 355 / 400 |
+| Cách chốt công suất | Dựa trên thử mẫu, số mẻ, thời gian chu kỳ và chất lượng dầu |
 
-### 🌱 生长特性
-- **生长周期**: 80-120天
-- **适宜气候**: 温暖、阳光充足地区
-- **土壤要求**: 肥沃、排水良好的土壤
-- **年产量**: 全球年产量超过5000万吨
+> Dầu cao cấp ép lạnh và dầu ăn phổ thông cần hai cấu hình nhiệt và xử lý sau ép khác nhau.
 
-## 加工工艺
-+ 葵花籽(建议300AC-390/325AC-390/355AC-390/400AC-390)
-            + 葵花籽油热榨工艺：葵花籽经过清理、破碎、炒制工艺后再放入液压榨油机料桶压榨。
-            ![葵花籽油热榨工艺](/images/sunflower-seed-hot-pressing-process.webp)
-## 葵花籽油热榨压榨视频
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/BdmN8beHRyg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/MgEJddnC56k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## Quy trình khuyến nghị
 
-## 技术优势
+1. Làm sạch và tách vỏ khi cần
+2. Nghiền hoặc cán hạt
+3. Rang/điều hòa cho ép nóng hoặc giữ nhiệt thấp cho ép lạnh
+4. Ép thủy lực theo mẻ
+5. Lọc và tinh luyện nếu cần
 
-### 🎯 精准控制
-- 温度控制：±2℃精度
-- 压力控制：智能调节
-- 湿度控制：最佳含水量
+## Máy ép và thiết bị chính
 
-### 💧 油质保证
-- 冷榨工艺保留营养
-- 物理压榨无化学残留
-- 出油率高达42-48%
+- [Dòng 300](/vi/products/300)
+- [Dòng 325](/vi/products/325)
+- [Dòng 355](/vi/products/355)
+- [Dòng 400](/vi/products/400)
+- [Thiết bị tiền xử lý](/vi/products/pre-treatment)
+- [Thiết bị lọc và hậu xử lý](/vi/products/post-treatment)
+- [Thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
 
-### 🔄 连续生产
-- 自动化生产流程
-- 连续压榨工艺
-- 智能质量监控
+## Dữ liệu cần cho báo giá
 
-## 产品应用
+- Mẫu giống dầu hay giống ăn hạt, tỷ lệ vỏ, độ ẩm, tạp chất, hàm lượng dầu và tình trạng bảo quản
+- Công suất hạt đầu vào theo mẻ/giờ/ngày, số ca và yêu cầu bóc vỏ, vận chuyển liên tục
+- Mục tiêu ép lạnh hay ép ấm/nóng, dầu đặc sản hay dầu thô để tinh luyện và màu/mùi mong muốn
+- Mức cặn, hàm lượng sáp cần đánh giá, độ trong tại nhiệt độ bảo quản và phạm vi khử sáp/tinh luyện
+- Nguồn nhiệt, điện áp, diện tích làm sạch - bóc vỏ - ép - lọc/khử sáp và điểm giao hàng
 
-### 🍳 食用油
-- 葵花籽油：主要食用油品种
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
+Hiệu suất thực tế phụ thuộc giống, độ ẩm, mức nghiền, nhiệt độ và thời gian ép. Không nên dùng một con số sản lượng cố định thay cho thử nghiệm nguyên liệu.
 
-### 🥛 副产品
-- 葵花籽粕：优质蛋白饲料
-- 葵花籽壳：燃料或饲料
-- 葵花籽蛋白：食品添加剂
+## Kiểm tra nghiệm thu
 
-### 💊 功能性产品
-- 葵花籽磷脂
-- 葵花籽甾醇
-- 葵花籽多酚
+Trong lần chạy nghiệm thu, ghi tỷ lệ vỏ tách và nhân thất thoát, độ ẩm, cỡ cán, chế độ điều hòa, lưu lượng/khối lượng nạp, nhiệt độ dầu và dầu/bã thu được. Sau lọc hoặc khử sáp, kiểm tra cặn và độ trong bằng nhiệt độ, thời gian làm nguội đã thống nhất, đồng thời lấy mẫu cho các chỉ tiêu dầu thành phẩm cần thiết.
 
-## 市场分析
+## Trang liên quan
 
-### 📈 发展趋势
-- 健康食用油需求增长
-- 高端葵花籽油市场扩大
-- 出口贸易机会增加
+- [Tổng quan giải pháp](/vi/solutions/)
+- [Dây chuyền sản xuất dầu hoàn chỉnh](/vi/solutions/production-lines)
+- [Tất cả model máy ép dầu thủy lực](/vi/products/)
+- [Hướng dẫn mua hàng và kỹ thuật](/vi/news/technology/)
 
-### 🎯 目标市场
-- 食用油加工企业
-- 食品加工企业
-- 餐饮连锁企业
-- 出口贸易企业
+## Nhận giá và cấu hình
 
+Gửi nguyên liệu, công suất, chất lượng dầu mục tiêu và điểm đến để nhận cấu hình cùng báo giá nhà máy.
 
-## 质量标准
-
-### 🏆 产品质量标准
-- 符合国家葵花籽油标准（GB 1537）
-- 符合食品安全标准
-- 符合出口食品标准
-- 符合有机食品认证
-
-### 🔍 检测项目
-- 酸价检测
-- 过氧化值检测
-- 色泽透明度检测
-- 重金属含量检测
-- 农药残留检测
-- 苯并芘检测
-
-## 可持续发展
-
-### 🌱 环保生产
-- 废弃物循环利用
-- 节能减排工艺
-- 绿色生产标准
-
-### 🔄 资源利用
-- 副产品综合利用
-- 产业链延伸
-- 循环经济模式
-
-### 🌍 社会责任
-- 支持农民增收
-- 保障食品安全
-- 保护生态环境
-
-## 联系我们
-
-如果您对向日葵籽压榨解决方案感兴趣，请联系我们的技术团队：
-
-- 📞 **咨询热线**: +86 19906365856
-- 📧 **邮箱**: gavin@oil-pressing-machine.com
-- 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
-
-我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的向日葵籽压榨解决方案。
-
-## Nhận giá & báo giá
-
-Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
-
-- [Nhận giá & báo giá](/vi/contact/)
+- [Yêu cầu báo giá](/vi/contact/)
 
 <!-- quote-cta -->

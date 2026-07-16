@@ -1,26 +1,27 @@
 ---
-title: "Machine de marquage laser fibre | Prix usine et devis"
-description: "Demandez le prix usine pour Machine de marquage laser fibre. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
-keywords: Machine de marquage laser fibre prix, acheter Machine de marquage laser fibre, devis usine, fabricant chinois, exportation, service après-vente
+title: "Marqueur laser fibre | Prix fabricant et devis"
+description: "Marqueur laser fibre de 10, 20 ou 50 W, zone 110 x 110 mm et vitesse jusqu'à 8 000 mm/s. Vérifiez le matériau, l'intégration, le prix, le devis et le SAV."
+keywords: "marqueur laser fibre prix, devis marqueur laser fibre, 10, 20 ou 50 W, zone 110 x 110 mm et vitesse jusqu'à 8 000 mm/s, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/fiber-laser-marking-machine.webp"
 ---
-# Machine de marquage laser fibre
+
+# Machine de marquage laser à fibre
 
 ![Machine de marquage laser à fibre](/images/filling-products/fiber-laser-marking-machine.webp)
 
-Les machines de marquage laser à fibre peuvent être utilisées comme référence pour des modèles spécifiques de la série de machines de codage laser. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+Le laser à fibre convient au marquage fin et durable de métaux compatibles et de certaines surfaces techniques, notamment des capsules ou composants de conditionnement. L'absorption et le contraste varient selon l'alliage et la finition ; la source et l'optique se choisissent sur essais.
 
-## Positionnement du modèle
+## Domaine d'application et critères d'achat
 
-- Série : [Série de machines de codage laser](/fr/solutions/laser-coding/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#laser-fiber)
-- Scénarios applicables : convient aux marquages de traçabilité fine sur les métaux, les bouchons de bouteilles et les étiquettes.
+- Famille : [Série de codeurs laser](/fr/solutions/laser-coding/)
+- Repère technique : [Paramètres publiés de Machine de marquage laser à fibre](/fr/products/filling-equipment#laser-fiber)
+- Ne substituer le laser à fibre au CO2 qu'après validation du support réel.
+- Préciser si le produit est à l'arrêt ou en mouvement et comment sa position est détectée.
+- Traiter le capotage, les interverrouillages, l'extraction et l'accès opérateur comme partie intégrante de la machine.
 
-## Résumé des informations publiques
+## Paramètres de référence publiés
 
-La machine de marquage laser à fibre est un système de machine de marquage laser de nouvelle génération développé par notre société utilisant une technologie laser avancée. Il utilise un laser à fibre pour produire un laser, puis utilise un système de galvanomètre à balayage à grande vitesse pour réaliser la fonction de marquage.
-
-## Table des paramètres publics
+Le tableau ci-dessous est conservé comme repère de gamme. Les performances et la compatibilité finales doivent être confirmées dans l'offre technique et le protocole de réception.
 
 <table>
   <tbody>
@@ -87,14 +88,24 @@ La machine de marquage laser à fibre est un système de machine de marquage las
   </tbody>
 </table>
 
-## Suggestions complémentaires
+## Données nécessaires au devis fabricant
 
-- Regardez d'abord la page de la série : [Laser Coding Machine Series](/fr/solutions/laser-coding/)
-- Regardez à nouveau l'aperçu des paramètres : [La position de la machine de marquage laser à fibre dans la bibliothèque de paramètres](/fr/products/filling-equipment#laser-fiber)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+- Échantillons du support, alliage ou revêtement, gamme de couleurs et contenu à marquer.
+- Taille du code, champ, contraste attendu, cadence et présentation du produit.
+- Puissance, lentille, distance de travail, refroidissement et interface de commande.
+- Essai de marquage, contrôle du code, sécurité, extraction et mise en service.
 
-## Pages connexes
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Série de machines de codage laser](/fr/solutions/laser-coding/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+## Prix, livraison et périmètre SAV écrit
+
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
+
+## Équipements associés et prochaine étape
+
+- [Série de codeurs laser](/fr/solutions/laser-coding/)
+- [Paramètres publiés de Machine de marquage laser à fibre](/fr/products/filling-equipment#laser-fiber)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Planification des lignes de production](/fr/solutions/production-lines)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

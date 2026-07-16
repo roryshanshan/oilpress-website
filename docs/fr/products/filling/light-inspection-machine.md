@@ -1,42 +1,42 @@
 ---
-title: "Machine d'inspection légère | Prix usine et devis"
-description: "Demandez le prix usine pour Machine d'inspection légère. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
-keywords: Machine d'inspection légère prix, acheter Machine d'inspection légère, devis usine, fabricant chinois, exportation, service après-vente
+title: "Machine d'inspection lumineuse | Prix fabricant et devis"
+description: "Machine d'inspection lumineuse par retournement pour bouteilles transparentes et liquides à valeur ajoutée. Comparez l’intégration, le prix, le devis et le SAV."
+keywords: "machine d'inspection lumineuse des bouteilles prix, devis machine d'inspection lumineuse des bouteilles, inspection automatique par retournement pour bouteilles transparentes et liquides à valeur ajoutée, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/light-inspection-machine.webp"
 ---
-# Machine d'inspection légère
 
-![Machine d'inspection lumineuse](/images/filling-products/light-inspection-machine.webp)
+# Mireuse de bouteilles
 
-La machine d'inspection légère peut être utilisée comme référence pour des modèles spécifiques de la série de machines d'inspection légère. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+![Mireuse de bouteilles](/images/filling-products/light-inspection-machine.webp)
 
-## Positionnement du modèle
+Cette station présente les bouteilles devant un éclairage contrôlé afin de faciliter la détection de corps étrangers visibles ou de défauts d'emballage par un opérateur ou par le système prévu. Le retournement améliore l'accès visuel, mais le mode d'inspection et le rejet doivent être définis explicitement.
 
-- Série : [Série de machines d'inspection légère](/fr/solutions/light-inspection/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#light-standard)
-- Scénarios applicables : convient aux bouteilles en verre transparent et aux projets d'emballage de liquides à haute valeur ajoutée.
+## Domaine d'application et critères d'achat
 
-## Résumé des informations publiques
+- Famille : [Équipements d'inspection des bouteilles](/fr/solutions/light-inspection/)
+- Repère technique : [Paramètres publiés de Mireuse de bouteilles](/fr/products/filling-equipment#light-standard)
+- Préciser si l'inspection est manuelle, assistée par caméra ou automatisée dans la configuration offerte.
+- Vérifier la forme et la transparence de la bouteille, la fermeture et le dispositif de préhension.
+- Installer le poste avec une ergonomie et un éclairage adaptés sans gêner la ligne.
 
-Il réalise la méthode d'inspection entièrement automatique consistant à entrer dans la bouteille - à serrer la bouteille - à tourner la bouteille - à prendre la bouteille - à retirer la bouteille.
+## Données nécessaires au devis fabricant
 
-## Points de divulgation
+- Bouteilles et fermetures, couleur et limpidité du liquide, défauts recherchés.
+- Cadence, temps d'observation, manipulation et perturbation admissible du produit.
+- Éclairage, protections, poste opérateur, alarme et rejet.
+- Échantillons témoins, protocole, durée FAT et seuils documentés.
 
-- Il réalise la méthode d'inspection entièrement automatique consistant à entrer dans la bouteille - serrer la bouteille - tourner la bouteille - choisir la bouteille - retirer la bouteille.
-- Adopter une inspection inversée, qui permet aux corps étrangers présents dans la bouteille de tomber par inversion pour améliorer la qualité de l'inspection.
-- L'angle de vision est grand, avec un angle de vision supérieur à 100°, ce qui laisse suffisamment de temps pour l'inspection et la comparaison, avec une grande précision. Il n'y a aucune obstruction par la piste de l'anneau extérieur une fois la bouteille retournée, ce qui rend la ligne de vue plus claire.
-- Les têtes de pression du bras statique et le bras mobile du mandrin mobile peuvent être tournés. Les têtes de pression s'usent peu et n'endommageront pas les bouteilles ou les bouchons.
-- La source de lumière LED, utilisant une source de lumière LED proche de la lumière naturelle, a une faible consommation d'énergie, un rendement élevé, pas de scintillement, pas de rayonnement, protège les yeux et ne provoque pas de fatigue lors d'un travail prolongé.
-- Les mâchoires en nylon sont traitées par la méthode de profilage et sont fabriquées selon le goulot de la bouteille inutilisé. Le serrage est ferme et le bouchon de la bouteille n'est pas facilement endommagé.
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-## Suggestions complémentaires
+## Prix, livraison et périmètre SAV écrit
 
-- Premier coup d'oeil à la page de la série : [Série de machines d'inspection légère](/fr/solutions/light-inspection/)
-- Regardez à nouveau l'aperçu des paramètres : [La position de la machine d'inspection lumineuse dans la bibliothèque de paramètres](/fr/products/filling-equipment#light-standard)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
 
-## Pages connexes
+## Équipements associés et prochaine étape
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Série de machines d'inspection légère](/fr/solutions/light-inspection/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+- [Équipements d'inspection des bouteilles](/fr/solutions/light-inspection/)
+- [Paramètres publiés de Mireuse de bouteilles](/fr/products/filling-equipment#light-standard)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Planification des lignes de production](/fr/solutions/production-lines)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

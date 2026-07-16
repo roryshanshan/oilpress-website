@@ -1,6 +1,6 @@
 ---
-title: "Guide de production de l'huile de pépins de raisin : procédé à..."
-description: Guide pratique sur l'huile de pépins de raisin couvrant le positionnement en pressage à froid, la préparation des graines, la filtration
+title: "Huile de pépins de raisin : procédé à froid et ligne"
+description: "Découvrez la préparation, le pressage à froid, la filtration et la maîtrise de l'oxydation pour dimensionner une ligne d'huile de pépins de raisin et son devis."
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-07"
 ---

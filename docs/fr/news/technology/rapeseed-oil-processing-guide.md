@@ -1,6 +1,6 @@
 ---
-title: "Guide de production de l'huile de colza : procédé de pressage,..."
-description: Comprenez la transformation du colza avec une presse à huile hydraulique, notamment le flux de pressage à chaud, le contrôle du rendement
+title: "Huile de colza : procédé, rendement et devis de ligne"
+description: "Comprenez prétraitement, pressage à chaud, contrôle du rendement et filtration du colza afin de configurer l'équipement, comparer les prix et obtenir un devis."
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-09"
 ---

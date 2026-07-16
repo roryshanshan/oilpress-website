@@ -1,56 +1,69 @@
 ---
-title: Série de machines thermorétractables pour capuchons en…
-description: Découvrez série de machines thermorétractables pour capuchons en caoutchouc pour lignes d’huile comestible et conditionnement liquide. Comparez les…
-keywords: Série de machines thermorétractables pour capuchons en caoutchouc, machine thermorétractable, équipement thermorétractable pour capuchons en caoutchouc PVC, machine rétractable pour bouchons de vin, équipement pour capuchons rétractables d'huile de boîte-cadeau, machine de scellage thermorétractable
+title: "Thermorétracteuses de capsules | Prix et devis"
+description: "Comparez machines mono-tête, multi-têtes et combinées pour capsules de col. Validez bouteille, capsule et chauffe avant le devis fabricant."
+keywords: thermorétracteuse capsule prix, capsule de col bouteille, machine capsule vin, devis fabricant, achat équipement emballage, service après-vente
 image: "/images/filling-solutions/cap-shrinking.webp"
 ---
 
-# Série de machines thermorétractables pour capuchons en caoutchouc
+# Machines de thermorétraction pour capsules de bouteilles
 
-![Photo réelle d'une machine thermorétractable à capuchon en caoutchouc multi-têtes](/images/filling-solutions/cap-shrinking.webp)
+![Thermorétracteuse multi-têtes pour capsules](/images/filling-solutions/cap-shrinking.webp)
 
-La machine de thermorétraction des bouchons en plastique est principalement utilisée pour le traitement de chauffage et de rétrécissement des bouchons en plastique thermorétractables à l'embouchure des bouteilles. Il est couramment utilisé dans les lignes d'emballage de produits de vin, de vin de fruit et de bouteilles en verre haut de gamme. Pour les projets qui nécessitent une structure anti-contrefaçon plus complète et de meilleurs effets d'affichage sur le terminal, le rétrécissement du capuchon est un processus d'extension important après le branchement.
+La thermorétraction intervient après la fermeture pour donner au col une finition régulière et, lorsque l'emballage a été conçu ainsi, une indication visuelle d'ouverture. La matière de la capsule, la géométrie du col, la décoration et la sensibilité thermique du produit déterminent la méthode adaptée. Une capsule PVC, une capsule complexe ou un manchon décoré ne se comportent pas de la même façon sous la chaleur.
 
-## Fonction principale
+## Position dans la ligne d'emballage
 
-- Former une structure inviolable plus complète
-- Améliorer la cohérence de l'apparence des produits de bouteilles en verre haut de gamme
-- Rendre l'emballage des bouteilles plus adapté et plus beau
-- Combiné avec des stations de branchement et d'étiquetage pour former une ligne d'emballage de coffrets cadeaux
+**Remplissage → bouchage ou capsulage → pose de la capsule → rétraction ou roulage → contrôle → étiquetage et codage → mise en carton**
 
-## Scénarios applicables
+Les bouteilles doivent arriver stables et correctement espacées. La température du contenant, l'humidité de surface, une étiquette déjà posée ou un revêtement décoratif peuvent imposer une autre position ou une protection particulière.
 
-- Conditionnement de bouteilles en verre pour vins, vins de fruits, spiritueux, etc.
-- Huile de noix haut de gamme, huile de pépins de raisin, huile cadeau et autres emballages de qualité
-- Projets nécessitant d'améliorer l'affichage du terminal et les attributs du coffret cadeau
+## Échantillons nécessaires à la sélection
 
-## Suggestions de sélection
+- Bouteille, matière, diamètre du col, épaulement et hauteur de fermeture
+- Capsule, épaisseur, longueur, perforation, impression et sens d'alimentation
+- Pose manuelle ou alimentation automatique de la capsule
+- Besoin de roulage, de rétraction ou des deux opérations
+- Limite d'échauffement du produit, du bouchon et de la décoration
+- Espace disponible pour convoyeur, aspiration, protections et accès opérateur
 
-- Confirmez d'abord le matériau, la taille et la plage de température de retrait du capuchon en caoutchouc.
-- Reconfirmer la taille du goulot d'étranglement et le tempo cible
-- Si l'extrémité avant est une structure en liège, elle est généralement associée à [série de machines à boucher] (/fr/solutions/corking/)
-- S'il y a un code QR ou des informations sur la date plus tard, il est recommandé de lier [série de machines de codage laser] (/fr/solutions/laser-coding/)
+## Modèles disponibles
 
-## Modèle de référence de référence
+| Modèle | À comparer avant l'achat |
+| --- | --- |
+| [Thermorétracteuse multi-têtes RS](/fr/products/filling/multi-head-cap-shrinking-machine) | Espacement des bouteilles, nombre de postes et raccordement en ligne |
+| [Thermorétracteuse mono-tête](/fr/products/filling/single-head-cap-shrinking-machine) | Format compact, cadence de travail et changements de bouteille |
+| [Machine de roulage et thermorétraction](/fr/products/filling/cap-rolling-shrinking-machine) | Finition combinée, aspect final et compatibilité de la capsule |
 
-Les modèles suivants sont organisés en fonction de la page publique et conviennent à la comparaison de la hauteur de la bouteille, de la longueur du bouchon en caoutchouc et de la capacité de production dans la section de réduction des bouchons. Le nom du modèle peut entrer directement dans la page produit correspondante.
+Les tableaux des pages produit sont les seules références de paramètres. La conformité de l'aspect final doit être validée avec les capsules et bouteilles réelles.
 
-| Modèle | Extrait des paramètres publics | Instructions applicables |
-| --- | --- | --- |
-| [Machine de thermorétraction de capuchons en caoutchouc multi-têtes RS-1 / RS-6](/fr/solutions/corking/) | 2 000 à 6 000 p/h ; hauteur de la bouteille 180-350 mm ; diamètre de la bouteille 60-100 mm ; capuchon en caoutchouc longueur 30-70 mm ; capuchon en caoutchouc diamètre 30-35 mm | Convient aux stations de rétraction de bouchons à moyenne et haute vitesse |
-| [Machine de thermorétraction pour bouchons en plastique à une tête](/fr/solutions/laser-coding/) | La même gamme de types de bouteilles que la série RS ; plus adapté aux machines autonomes ou aux lignes de conditionnement à moyenne et basse vitesse | Convient pour le retrait de bouchons en une seule station après bouchage |
-| [Machine à double usage de meulage/rétrécissement de bouchons](/fr/solutions/cap-shrinking/multi-head-cap-shrinking-machine) | Convient aux capuchons en caoutchouc thermorétractables PVC ; prise en compte du retrait et du traitement de l'aspect du goulot | Convient aux formes d'emballage avec une sensation de boîte-cadeau plus forte |
+## Éléments qui influencent le prix fabricant
 
-## Accès direct à des modèles spécifiques
+- Configuration mono-tête, multi-têtes ou roulage-rétraction combinés
+- Pose manuelle, magasin ou alimentation automatique des capsules
+- Nombre de formats et jeux de pièces de changement
+- Chauffage, régulation, aspiration, capotage et protections thermiques
+- Convoyeur, dispositif d'espacement et échanges de signaux avec les machines voisines
+- Documentation, emballage, livraison, installation et mise en service à destination
 
--[Machine thermorétractable à capuchon en caoutchouc multi-têtes](/fr/solutions/cap-shrinking/single-head-cap-shrinking-machine)
--[Machine thermorétractable à capuchon en caoutchouc à une tête](/fr/solutions/cap-shrinking/cap-rolling-shrinking-machine)
-- [Machine à meuler/rétrécir les bouchons](/fr/solutions/cap-shrinking/multi-head-cap-shrinking-machine)
-- [Aperçu de la bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/solutions/cap-shrinking/single-head-cap-shrinking-machine)
+## Informations à fournir pour le devis
 
-## Pages connexes
+Joignez les plans et échantillons des bouteilles, bouchons et capsules, la cadence nette visée, l'état de la bouteille à l'entrée, la boucheuse en amont, l'étiqueteuse en aval, la hauteur de convoyeur, l'alimentation électrique, le plan et la destination. Indiquez l'échantillon d'aspect accepté et toute décoration qui ne doit pas être altérée.
 
-- [Série de boucheuses](/fr/solutions/cap-shrinking/cap-rolling-shrinking-machine)
-- [Série d'étiqueteuses](/fr/products/filling-equipment)
-- [Série de machines de codage laser](/fr/solutions/corking/)
-- [Série d'équipements de brassage du vin](/fr/solutions/labeling/)
+## Essais et périmètre du service
+
+La réception en usine doit préciser les critères de plis, décentrage, brûlure, marquage de surface et changement de format. Les capsules d'essai, l'aspiration locale, les travaux électriques, les déplacements, la formation, les résistances de rechange et l'assistance après livraison sont fournis uniquement selon le périmètre chiffré et signé.
+
+## Étapes voisines
+
+- [Bouchage au liège](/fr/solutions/corking/)
+- [Bouchage et sertissage](/fr/solutions/sealing/)
+- [Étiquetage des bouteilles](/fr/solutions/labeling/)
+- [Vue d'ensemble de la ligne](/fr/solutions/filling-packages)
+
+## Demander un prix de thermorétracteuse
+
+Envoyez la combinaison bouteille-fermeture-capsule pour recevoir une recommandation de modèle et un devis fabricant détaillé.
+
+- [Demander un devis pour une thermorétracteuse](/fr/contact/)
+
+<!-- quote-cta -->

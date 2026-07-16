@@ -1,6 +1,6 @@
 ---
-title: Comment choisir le pressage à chaud ou à froid selon les diffé...
-description: Voyez quelles graines sont mieux adaptées au pressage à chaud ou à froid et en quoi sésame, arachide, graine de thé, noix
+title: "Pressage à chaud ou à froid selon les graines"
+description: "Comparez pressage à chaud et à froid pour sésame, arachide, thé, noix, lin et courge afin de choisir le procédé, la presse et le devis adaptés."
 keywords: presse à huile hydraulique, presse à huile, huile pressée à froid, connaissances techniques
 date: "2026-03-03"
 ---

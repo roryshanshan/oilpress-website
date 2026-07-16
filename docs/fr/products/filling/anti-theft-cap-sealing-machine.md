@@ -1,37 +1,47 @@
 ---
-title: Machine à sceller les couvercles antivol entièrement automati...
-description: Demandez le prix et le devis pour Machine à sceller les couvercles antivol entièrement automatique. Fabricant Shengshi Hecheng, livraison et SAV.
-keywords: Machine à sceller les couvercles antivol entièrement automatique prix, acheter Machine à sceller les couvercles antivol entièrement automatique, devis usine, fabricant chinois, exportation, service après-vente
+title: "Capsuleuse inviolable automatique | Prix fabricant et devis"
+description: "Capsuleuse automatique pour bouchons aluminium inviolables sur spiritueux, vins et sauces. Comparez l’intégration, le prix, le devis et le SAV."
+keywords: "capsuleuse automatique pour capsules aluminium inviolables prix, devis capsuleuse automatique pour capsules aluminium inviolables, bouteilles de spiritueux, vin et sauces avec capsules à vis inviolables, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/anti-theft-cap-sealing-machine.webp"
 ---
-# Machine à sceller les couvercles antivol entièrement automatique
+# Capsuleuse automatique pour capsules aluminium inviolables
 
-![Machine à sceller les bouchons antivol entièrement automatique](/images/filling-products/anti-theft-cap-sealing-machine.webp)
+![Capsuleuse automatique pour capsules aluminium inviolables](/images/filling-products/anti-theft-cap-sealing-machine.webp)
 
-La machine à sceller les bouchons antivol entièrement automatique peut être utilisée comme référence pour des modèles spécifiques de la série de machines à sceller. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+Cette machine est destinée au sertissage par galets de capsules aluminium à vis avec bague d'inviolabilité, de type ROPP, sur des bagues de bouteille compatibles. La sélection doit partir du couple bouteille-capsule réel, et non du seul diamètre nominal, car l'outillage de sertissage, les pièces de guidage et les limites d'acceptation dépendent de la géométrie de l'emballage.
 
-## Positionnement du modèle
+## Domaine d'application et limites de sélection
 
-- Série : [Série de machines à sceller](/fr/solutions/sealing/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#seal-anti-theft)
-- Scénarios applicables : convient pour les emballages d'alcool, de liquide d'assaisonnement et de vin.
+- Famille de produits : [Série de machines à sceller](/fr/solutions/sealing/)
+- Référence des paramètres publiés : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#seal-anti-theft)
+- Les applications courantes concernent les spiritueux, les vins et les liquides d'assaisonnement utilisant une capsule aluminium inviolable compatible.
+- Le procédé forme la jupe de la capsule par roulage ; cette machine ne doit pas être choisie comme une capsuleuse universelle à pression.
 
-## Résumé des informations publiques
+## Données bouteille et capsule à confirmer
 
-Cette machine est adaptée aux bouteilles fermées par des bouchons antivol twist-off en aluminium.
+- Fournir le plan de la bague du col ou des bouteilles mesurées : diamètre et profil de bague, hauteur du col, géométrie du filetage et surfaces servant au centrage ou au support.
+- Fournir le plan de la capsule et des échantillons de production : diamètre et hauteur de jupe, spécification de l'aluminium, joint ou système d'étanchéité, dessin du moletage et position des pontets ou perforations de la bague d'inviolabilité.
+- Indiquer les tolérances des bouteilles et capsules, la cadence visée et tous les formats à traiter. Une plage de travail ne doit pas être déduite d'une seule cote nominale.
 
-## Points de divulgation
+## Tête à galets et changement de format
 
-- Cette machine est adaptée aux bouteilles fermées par des bouchons antivol twist-off en aluminium. Le couteau de scellage est fabriqué à partir de matériaux spéciaux et subit un processus de traitement thermique strict. Il présente une résistance élevée, une résistance à l'usure et une longue durée de vie. La tête roulante adopte un principe de fonctionnement équilibré à quatre roues, simple et pratique à régler. Le motif de roulement et la protection des bords sont automatiquement réalisés en une seule fois. La texture est uniforme, l'apparence est lisse et sans rides, l'effet d'étanchéité est bon et l'efficacité est élevée. La roue en étoile de numérotation de bouteille à structure rapide, la plaque de guidage de bouteille et la vis d'alimentation de bouteille peuvent être rapidement insérées et remplacées, ce qui est pratique et simple. Le goulot de la bouteille est équipé d'un dispositif de positionnement automatique pour éviter de nombreux effets indésirables tels que l'inversion de la bouteille, le blocage de la bouteille et un positionnement imprécis du goulot de la bouteille. L'entraxe de la tête roulante est parfait, ce qui réduit le phénomène de force centrifuge pendant le fonctionnement normal. La surface de la bague de guidage est renforcée et étroitement adaptée au roulement à rouleaux, ce qui réduit l'impulsion de travail, rendant l'équipement exempt de vibrations et d'impacts à grande vitesse, rendant le travail plus stable et fiable. Le système d'alimentation et le système à cadran sont équipés de dispositifs de protection contre les surcharges tampons, et des éléments élastiques sont installés pour absorber le démarrage, le rendant doux et doux. Lorsqu'un accident survient, le dispositif de surcharge coupe immédiatement l'alimentation électrique et l'équipement s'arrête automatiquement, garantissant ainsi la sécurité des personnes et des machines.
+La documentation produit disponible mentionne une tête équilibrée à quatre galets. Le profil des galets, la hauteur de tête et les réglages axial et radial doivent néanmoins être adaptés aux échantillons fournis. Le filetage formé, le moletage et la bague d'inviolabilité doivent correspondre au profil du col et à la position des pontets, dans les limites convenues pour les coupures, plis ou déformations.
 
-## Suggestions complémentaires
+Pour plusieurs formats, confirmer l'étoile de transfert, les guides-bouteilles, la vis d'entrée et les pièces de positionnement du col. Le devis doit préciser les pièces de format incluses et les réglages à consigner pour reproduire un sertissage accepté.
 
-- Regardez d'abord la page de la série : [Série de machines à sceller](/fr/solutions/sealing/)
-- Regardez à nouveau l'aperçu des paramètres : [La position de la machine à sceller les bouchons antivol entièrement automatique dans la bibliothèque de paramètres](/fr/products/filling-equipment#seal-anti-theft)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+## Essais sur échantillons et réception
+
+- Envoyer des bouteilles et capsules représentatives de la production ; si elles sont connues, inclure des pièces proches des limites de tolérance.
+- Tester une série suffisante pour évaluer l'alimentation, le positionnement du goulot, la régularité du roulage et la cadence convenue, sans limiter la validation à une seule bouteille.
+- Définir avant fabrication les critères de réception : aspect et horizontalité de la capsule, état de la jupe, résultat d'étanchéité selon une méthode convenue, couple ou effort d'ouverture et rupture des pontets lors de la première ouverture.
+- Inscrire la taille de l'échantillon, la méthode d'essai et les limites d'acceptation dans le protocole de réception en usine ou le cahier des charges d'achat.
+
+## Intégration de ligne et contenu du devis
+
+Pour un projet complet, consulter la [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et la [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines). Le devis doit identifier les formats, l'outillage de la tête, les pièces de changement de bouteille, les essais sur échantillons, les pièces de rechange ou d'usure, les limites de mise en service et les documents de réception fournis.
 
 ## Pages connexes
 
 - [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
 - [Série de machines à sceller](/fr/solutions/sealing/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+- [Nous contacter pour valider les échantillons et la ligne](/fr/contact/)

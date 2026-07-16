@@ -3,6 +3,16 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/:lang(en|zh|fr|ru|vi|bn)/products/sesame-cleaning-machine",
+      "destination": "/:lang/products/sesame-screening-machine",
+      "permanent": true
+    },
+    {
+      "source": "/:lang(en|zh|fr|ru|vi|bn)/solutions/:category(bottle-washing|brewing|cap-shrinking|corking|dairy-processing|drying|filling|filling-packages|filtering|fruit-veg-processing|labeling|laser-coding|light-inspection|packing-palletizing|sealing)/:slug",
+      "destination": "/:lang/products/filling/:slug",
+      "permanent": true
+    },
+    {
       "source": "/",
       "destination": "/en",
       "permanent": true
@@ -13,13 +23,18 @@
       "permanent": true
     },
     {
+      "source": "/:lang(fr|ru)/products/peanut",
+      "destination": "/:lang/solutions/peanut",
+      "permanent": true
+    },
+    {
       "source": "/zh/products/Sesame%20Cleaning%20Machine",
-      "destination": "/zh/products/sesame-cleaning-machine",
+      "destination": "/zh/products/sesame-screening-machine",
       "permanent": true
     },
     {
       "source": "/zh/products/Sesame Cleaning Machine",
-      "destination": "/zh/products/sesame-cleaning-machine",
+      "destination": "/zh/products/sesame-screening-machine",
       "permanent": true
     }
   ],
@@ -52,6 +67,15 @@
     },
     {
       "source": "/images/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=2592000, stale-while-revalidate=86400"
+        }
+      ]
+    },
+    {
+      "source": "/videos/(.*)",
       "headers": [
         {
           "key": "Cache-Control",

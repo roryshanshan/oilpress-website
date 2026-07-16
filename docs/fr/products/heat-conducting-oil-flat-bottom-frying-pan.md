@@ -1,6 +1,6 @@
 ---
-title: Wok électrique à fond plat avec huile conductrice de chaleur, ...
-description: Demandez le prix et le devis pour Wok électrique à fond plat avec huile conductrice de chaleur,. Fabricant Shengshi Hecheng, livraison et SAV.
+title: "Cuve de cuisson à huile thermique | Prix et devis fabricant"
+description: "Découvrez la cuve à fond plat chauffée par huile thermique, avec isolation et habillage inox. Comparez capacité, intégration, prix fabricant, devis et SAV."
 keywords: Wok électrique à fond plat avec huile conductrice de chaleur, doublé de laine de roche/en acier inoxydable prix, acheter Wok électrique à fond plat avec huile conductrice de chaleur, doublé de laine de roche/en acier inoxydable, devis usine, fabricant chinois, exportation, service après-vente
 image: "/images/external/products-heat-conducting-oil-flat-bottom-frying-pa-a97628b9.webp"
 ---
@@ -8,13 +8,13 @@ image: "/images/external/products-heat-conducting-oil-flat-bottom-frying-pa-a976
 ![Wok électrique à fond plat avec huile conductrice de chaleur, doublé de laine de roche/en acier inox](/images/external/products-heat-conducting-oil-flat-bottom-frying-pa-a97628b9.webp)
 ## Aperçu du produit
 
-Notre wok électrique à fond plat avec huile conductrice de chaleur présente un design intégré avec un fond renforcé double couche et un moteur-réducteur. Le corps du wok est doublé de laine de roche pour l'isolation et recouvert d'acier inoxydable pour un aspect esthétique et une durabilité. La méthode de chauffage électrique à huile conductrice de chaleur assure un chauffage plus uniforme, une baisse de température plus lente et une plus grande efficacité énergétique.
+Cette cuve électrique à fond plat comprend un fond renforcé double couche, un moteur-réducteur, une isolation en laine de roche, un habillage extérieur en acier inoxydable et un circuit d'huile thermique. Il s'agit de caractéristiques de construction ; répartition thermique, refroidissement, consommation et durée d'usage dépendent des matériaux fournis, du lot, du profil opératoire, de la maintenance et des conditions d'essai.
 
 ## Caractéristiques principales
 
--   **Efficace et économe en énergie** : Le design intégré du fond renforcé double couche et du moteur-réducteur, combiné à l'isolation en laine de roche et au chauffage électrique à huile conductrice de chaleur, assure un chauffage uniforme, une baisse de température lente et des économies d'énergie significatives.
--   **Esthétique et durable** : Le corps du wok est recouvert d'acier inoxydable, offrant un aspect beau et généreux, et assurant une durabilité à long terme.
--   **Contrôle intelligent** : Boîte de commande optionnelle permettant le contrôle par vitesses, la fonction d'alarme, le démarrage/arrêt automatique du chauffage et le démarrage/arrêt automatique de rotation, rendant l'opération pratique, sûre et fiable.
+- **Structure de chauffage et d'agitation** : Le fond double couche, le circuit d'huile thermique et le moteur-réducteur fournissent les interfaces de chauffe et de rotation ; le résultat se vérifie par cartographie de température en charge.
+- **Isolation et habillage** : La laine de roche et l'habillage inox sont fournis selon la nuance, l'épaisseur et le périmètre indiqués au devis.
+- **Option de commande** : Le coffret optionnel peut inclure puissance par paliers, alarmes et logique configurée de marche/arrêt du chauffage ou de la rotation. Protections, arrêt d'urgence, surtempérature et procédures doivent être confirmés séparément.
 
 ## Spécifications
 
@@ -32,6 +32,12 @@ Notre wok électrique à fond plat avec huile conductrice de chaleur présente u
 | Poids                | Environ 308Kg    |
 | Dimensions de l'équipement  | 1200x1200x1550mm |
 | Huile conductrice de chaleur auto-fournie| 350#/50Kg        |
+
+## Réception des performances et achat
+
+Pour le FAT/SAT, consigner la matière, la granulométrie, l'humidité, la masse du lot, la qualité et la quantité d'huile thermique, l'ambiance, les consignes et le cycle complet du chargement au chauffage, mélange, déchargement, nettoyage et redémarrage. Définir la durée d'essai continu, les arrêts admis, l'étalonnage des capteurs et compteurs, les points de mesure, le temps de montée, l'écart de température, le point de déchargement et l'énergie mesurée en `kWh/lot` ou `kWh/t`. La consommation, les preuves d'endurance et les fonctions de sécurité ne deviennent des critères de réception que si des mesures et tolérances figurent au contrat.
+
+Le devis fabricant doit préciser les nuances des matériaux au contact, l'isolation et l'habillage, les dispositifs de commande et de sécurité, la tension et la fréquence, les accessoires, l'emballage, la livraison, les pièces, la garantie et les canaux SAV. FAT et SAT sont distincts. Toute mise en service ou formation sur site exige une confirmation écrite de la région, des déplacements, visas, hébergement, coûts, durée, contenu des travaux, utilités de l'acheteur et responsabilités de réception ; aucune prestation non écrite n'est incluse.
 
 ## Référence vidéo
 

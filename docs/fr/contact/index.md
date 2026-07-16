@@ -1,16 +1,10 @@
 ---
 title: "Demander un prix / devis | Presse hydraulique"
-description: "Contactez Shengshi Hecheng pour prix presse hydraulique, devis de ligne et support après-vente international."
+description: "Contactez Shengshi Hecheng pour le prix d'une presse, un devis de ligne, la livraison et un périmètre SAV confirmé selon la destination."
 keywords: obtenir devis, prix presse à huile, contact fabricant, achat, SAV
 ---
 
 # Nous contacter
-
-## Adresse de l'entreprise
-
-**Shandong Shengshi Hecheng Machinery Co., Ltd**  
-Adresse : Zone de développement économique de Qingzhou, ville de Weifang, province du Shandong, Chine  
-Code postal : 262500
 
 ## Informations de contact
 
@@ -25,6 +19,19 @@ Code postal : 262500
 **Shandong Shengshi Hecheng Machinery Co., Ltd**  
 Adresse : N° 5888, Rue Yineng, Zone de développement, Ville de Qingzhou, Province du Shandong, Chine  
 Code postal : 262500
+
+## Informations nécessaires pour un devis précis
+
+Indiquez les éléments suivants afin de recevoir une sélection de machine et une configuration concrète, plutôt qu'une simple fourchette de prix.
+
+- Matière première et pressage à chaud ou à froid
+- Production souhaitée par lot, par heure ou par jour
+- Nouveau projet, extension d'atelier ou remplacement de machine
+- Modules nécessaires : nettoyage, broyage, cuisson, filtration, raffinage ou remplissage
+- Tension, fréquence et nombre de phases
+- Pays de destination ou port le plus proche
+
+Avant l'envoi, vous pouvez consulter les [modèles de presses hydrauliques](/fr/products/), les [lignes de production complètes](/fr/solutions/production-lines) et les [procédés par matière](/fr/solutions/seed-oils).
 
 ## Message en ligne
 
@@ -60,40 +67,6 @@ Si vous avez des questions ou des demandes, veuillez remplir le formulaire ci-de
   </form>
 </div>
 
-<style>
-.contact-form {
-  max-width: 600px;
-  margin: 0 auto;
-}
-.form-group {
-  margin-bottom: 20px;
-}
-label {
-  display: block;
-  margin-bottom: 5px;
-  font-weight: bold;
-}
-input, textarea {
-  width: 100%;
-  padding: 10px;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  color: #333;
-}
-button {
-  background-color: #1e88e5;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  font-size: 16px;
-}
-button:hover {
-  background-color: #1565c0;
-}
-</style>
-
 ## Guide de transport
 
 ### Itinéraires en voiture
@@ -102,7 +75,7 @@ button:hover {
 
 ### Transport en commun
 - En train : Descendez à la gare de Qingzhou et prenez un taxi pendant environ 15 minutes pour atteindre l'entreprise.
-- En avion : Atterrissez à l'aéroport international Yaoqiang de Jinan ou à l'aéroport international Liuting de Qingdao, prenez le bus navette de l'aéroport vers Qingzhou, puis prenez un taxi jusqu'à l'entreprise.
+- En avion : Les voyageurs internationaux peuvent arriver par l'aéroport international de Jinan Yaoqiang ou l'aéroport international de Qingdao Jiaodong. L'accueil à l'aéroport et la suite du trajet dépendent de l'itinéraire confirmé ; avant le départ, faites confirmer par écrit l'aéroport d'arrivée, le numéro de vol, la date, l'heure, le nombre de voyageurs et le périmètre de prise en charge.
 
 ::: tip Rendez-vous de visite
 Vous êtes les bienvenus pour visiter et inspecter nos installations. Pour un meilleur accueil, nous vous recommandons de prendre rendez-vous 3 jours à l'avance.

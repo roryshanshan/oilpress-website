@@ -1,132 +1,68 @@
 ---
-title: Giải pháp hạt bí ngô (Dầu hạt bí) báo giá | giải pháp trọn gói
-description: "Giải pháp trọn gói Giải pháp hạt bí ngô (Dầu hạt bí): quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
-keywords: Giải pháp hạt bí ngô (Dầu hạt bí) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+title: "Ép lạnh dầu hạt bí | Thiết bị và báo giá"
+description: "Rửa sạch, sấy và bóc vỏ hạt bí trước ép lạnh; chọn máy sấy, ép thủy lực, lọc và bồn kín. Kiểm tra độ ẩm, nhiệt độ, oxy hóa và năng suất mẻ."
+keywords: "Hạt bí (dầu hạt bí) báo giá, máy ép dầu, quy trình sản xuất, mua từ nhà máy, thiết bị phụ trợ, hậu mãi"
 image: "/images/an-overview-of-the-cold-pressing-process-of-pumpki-c206ee35aa.webp"
 ---
-# Giải pháp hạt bí ngô (Dầu hạt bí)
+# Giải pháp Hạt bí (dầu hạt bí)
 
-## Tổng quan
+![Hạt bí (dầu hạt bí) - quy trình và thiết bị ép dầu](/images/an-overview-of-the-cold-pressing-process-of-pumpki-c206ee35aa.webp)
 
-Hạt bí ngô là nguyên liệu dầu quan trọng; dầu hạt bí có giá trị dinh dưỡng và ứng dụng đa dạng. Công ty TNHH Shengshi Hecheng Sơn Đông cung cấp giải pháp ép hạt bí ngô chuyên nghiệp, đáp ứng nhu cầu sản xuất ở mọi quy mô。
+Hạt bí phải được làm sạch, sấy đồng đều và xác định rõ ép cả vỏ hay dùng nhân đã tách vỏ trước khi chọn máy. Ép lạnh giữ hương nhẹ và màu tự nhiên, còn rang/điều hòa nhẹ tạo hương đậm hơn; hai tuyến cần thử riêng vì tỷ lệ nhân và độ ẩm ảnh hưởng lớn đến vận hành. Dầu sau ép được lắng, lọc theo độ trong mục tiêu và bảo quản tránh ánh sáng, oxy.
 
-## 南瓜籽特性
+## Dữ liệu chọn quy trình
 
-### 📊 基本参数
-- **含油率**: 35-45%
-- **蛋白质含量**: 25-30%
-- **主要脂肪酸**: 亚油酸（45-55%）、油酸（25-35%）、棕榈酸（10-15%)
-- **适宜温度**: 压榨温度控制在60-80℃
+| Hạng mục | Khuyến nghị |
+| --- | --- |
+| Hàm lượng dầu tham khảo | Khoảng 35-50% tùy loại nhân |
+| Tuyến công nghệ ưu tiên | Ép lạnh hoặc điều hòa nhiệt nhẹ |
+| Model hoặc hướng thiết bị | 355 / 400 / 426 |
+| Cách chốt công suất | Dựa trên thử mẫu, số mẻ, thời gian chu kỳ và chất lượng dầu |
 
-### 🌱 生长特性
-- **生长周期**: 90-120天
-- **适宜气候**: 温带、温暖地区
-- **土壤要求**: 肥沃、排水良好的土壤
-- **年产量**: 全球年产量超过100万吨
+> Lựa chọn ép lạnh hay rang nhẹ phụ thuộc hương vị mục tiêu và tiêu chuẩn sản phẩm.
 
-## 加工工艺
+## Quy trình khuyến nghị
 
-+  南瓜籽(建议 426AC-390)
-     + 南瓜子油冷榨工艺：经过筛选、清洗、高速粉碎后直接入液压榨油机料桶压榨 
-     + ![南瓜籽](/images/an-overview-of-the-cold-pressing-process-of-pumpki-c206ee35aa.webp) 
+1. Làm sạch và tách vỏ nếu cần
+2. Sấy hoặc điều hòa độ ẩm
+3. Nghiền nhẹ
+4. Ép thủy lực theo mẻ
+5. Lọc và bảo quản tránh oxy hóa
 
+## Máy ép và thiết bị chính
 
+- [Dòng 355](/vi/products/355)
+- [Dòng 400](/vi/products/400)
+- [Dòng 426](/vi/products/426)
+- [Thiết bị tiền xử lý](/vi/products/pre-treatment)
+- [Thiết bị lọc và hậu xử lý](/vi/products/post-treatment)
+- [Thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
 
-## 技术优势
+## Dữ liệu cần cho báo giá
 
-### 🎯 精准控制
-- 温度控制：±2℃精度
-- 压力控制：智能调节
-- 湿度控制：最佳含水量
+- Mẫu hạt nguyên vỏ hay nhân, tỷ lệ nhân/vỏ, độ ẩm, tạp chất, hạt hỏng và tình trạng bảo quản
+- Khối lượng đầu vào theo hạt nguyên hay nhân mỗi mẻ/ngày, số ca và mùa cung ứng
+- Mục tiêu ép lạnh hay rang/điều hòa nhẹ, màu và hương thành phẩm mong muốn
+- Mức cặn, độ trong sau lắng/lọc, vật liệu bồn và quy cách chai chống sáng
+- Nhu cầu máy tách vỏ/sấy, nguồn nhiệt, điện áp, diện tích dây chuyền và điểm giao hàng
 
-### 💧 油质保证
-- 低温工艺保留营养
-- 物理压榨无化学残留
-- 出油率高达36-42%
+Hiệu suất thực tế phụ thuộc giống, độ ẩm, mức nghiền, nhiệt độ và thời gian ép. Không nên dùng một con số sản lượng cố định thay cho thử nghiệm nguyên liệu.
 
-### 🔄 连续生产
-- 24小时不间断运行
-- 自动化进料出料
-- 智能故障报警
+## Kiểm tra nghiệm thu
 
-## 产品应用
+Biên bản chạy thử phải nêu cơ sở hạt nguyên hay nhân, tỷ lệ vỏ, độ ẩm sau sấy, cỡ nghiền, chế độ rang/điều hòa, khối lượng nạp, nhiệt độ dầu và chu kỳ ép. Sau lọc, kiểm tra màu, hương, độ trong, bã và khả năng vệ sinh; số liệu đầu ra chỉ có giá trị với đúng trạng thái nguyên liệu đã ghi.
 
-### 🍳 食用油
-- 南瓜籽油：主要食用油品种
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
+## Trang liên quan
 
-### 💊 保健品
-- 南瓜籽油：营养补充剂
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
+- [Tổng quan giải pháp](/vi/solutions/)
+- [Dây chuyền sản xuất dầu hoàn chỉnh](/vi/solutions/production-lines)
+- [Tất cả model máy ép dầu thủy lực](/vi/products/)
+- [Hướng dẫn mua hàng và kỹ thuật](/vi/news/technology/)
 
-### 💄 美容护肤
-- 南瓜籽油：天然护肤油
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
+## Nhận giá và cấu hình
 
-## 市场分析
+Gửi nguyên liệu, công suất, chất lượng dầu mục tiêu và điểm đến để nhận cấu hình cùng báo giá nhà máy.
 
-### 📈 发展趋势
-- 高端食用油、营养保健品需求增长
-- 高端南瓜籽油市场扩大
-- 出口贸易机会增加
-
-### 🎯 目标市场
-- 食用油加工企业
-- 食品加工企业
-- 保健品企业
-- 出口贸易企业
-
-
-
-## 质量标准
-
-### 🏆 产品质量标准
-- 符合国家南瓜籽油标准
-- 符合食品安全标准
-- 符合出口食品标准
-- 符合有机食品认证
-
-### 🔍 检测项目
-- 酸价检测
-- 过氧化值检测
-- 色泽透明度检测
-- 重金属含量检测
-- 农药残留检测
-
-## 可持续发展
-
-### 🌱 环保生产
-- 废弃物循环利用
-- 节能减排工艺
-- 绿色生产标准
-
-### 🔄 资源利用
-- 副产品综合利用
-- 产业链延伸
-- 循环经济模式
-
-### 🌍 社会责任
-- 支持农民增收
-- 保障食品安全
-- 保护生态环境
-
-## 联系我们
-
-如果您对南瓜籽压榨解决方案感兴趣，请联系我们的技术团队：
-
-- 📞 **咨询热线**: +86 19906365856
-- 📧 **邮箱**: gavin@oil-pressing-machine.com
-- 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
-
-我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的南瓜籽压榨解决方案。
-
-## Nhận giá & báo giá
-
-Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
-
-- [Nhận giá & báo giá](/vi/contact/)
+- [Yêu cầu báo giá](/vi/contact/)
 
 <!-- quote-cta -->

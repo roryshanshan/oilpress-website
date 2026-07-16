@@ -1,147 +1,55 @@
 ---
-title: Tea Seed (Tea Seed Oil) | Equipment List & Factory Quote
-description: Get a turnkey plan for Tea Seed (Tea Seed Oil) Solution, including process design, equipment list, factory quote, procurement support, and after-sales service.
+title: "Tea Seed Oil Hot-Press Line | Equipment & Factory Quote"
+description: "Screen, clean, dry, crush, and steam tea seed before hot pressing; compare shelled and unshelled trials, then verify filtration, equipment, and quote scope."
 keywords: Tea Seed (Tea Seed Oil) Solution quote, Tea Seed (Tea Seed Oil) Solution production line, equipment list, turnkey solution, factory procurement, after-sales service
 image: "/images/process-image-0901d2dd53.webp"
 ---
-# Tea Seed (Tea Seed Oil) Solution
+# Tea Seed and Camellia Oil Pressing Line
 
-## Overview
+Tea seed or camellia seed must be identified by species, crop year, whole-seed or kernel basis, and storage condition. Hull ratio and old or moldy kernels affect pressing behavior, oil flavor, filtration, and the usable input for equipment sizing.
 
-Tea seed is an important oil crop, tea seed oil has unique nutritional value and application value. Shandong Shengshi Hecheng Machinery Co., Ltd. provides professional tea seed pressing solutions, from small workshops to large factories with complete equipment and services.
+![Tea seed preparation and pressing reference](/images/process-image-0901d2dd53.webp)
 
-## Tea Seed Characteristics
+## Raw Material Boundary
 
-### 📊 Basic Parameters
-- **Oil Content**: 25-35%
-- **Protein Content**: 15-20%
-- **Main Fatty Acids**: Oleic acid (75-85%), Linoleic acid (8-12%), Palmitic acid (8-10%)
-- **Suitable Temperature**: Pressing temperature controlled at 60-80℃
+Declare whole seed or separated kernels, species or commercial name, origin, moisture, hull fraction, impurities, crop and storage history, and intended use. Remove moldy, insect-damaged, dark, or rancid seed. Quote capacity on cleaned whole seed or clean kernels.
 
-### 🌱 Growth Characteristics
-- **Growth Cycle**: 3-5 years
-- **Suitable Climate**: Warm, humid areas
-- **Soil Requirements**: Acidic, mountainous soil
-- **Annual Production**: China annual production exceeds 500,000 tons
+## Recommended Pretreatment
 
-## Processing Technology
+1. Dry or temper the whole seed to a stable condition.
+2. Dehull and separate shells when the selected product requires kernel pressing.
+3. Sort and clean the kernels.
+4. Crush to a repeatable size.
+5. Keep low-temperature and gently conditioned trial lots separate.
 
-### Tea Seed Oil Hot Pressing Process
-- Tea seeds go through screening, cleaning, drying, crushing, and steaming before being fed into the hydraulic oil press bucket for pressing.
-- The tea seed oil produced by this process has clear color, pure aroma, and rich nutrition.
-- ![Tea seed hot pressing process](/images/process-image-0901d2dd53.webp)
+## Pressing Route and Equipment
 
-## Tea Seed Hot Pressing Process Video
+Begin with a hydraulic batch trial on clean crushed kernels or a clearly defined whole-seed feed. Compare low-temperature and gently conditioned routes using the same lot, with color, aroma, filtration, cake, and cycle records. For higher continuous duty, compare a screw-press route. The post-press scope may include dewaxing or light refining where the finished-oil clarity target requires it.
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/s5h70JVB46Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+### Equipment Entry Points
 
-### If pursuing higher oil yield, shelling can be done first, shelling machine video as follows:
+- [Pretreatment equipment](/en/products/pre-treatment)
+- [Hydraulic oil press range](/en/products/)
+- [325 Series hydraulic oil press](/en/products/325) as an existing model entry for trial sizing
+- [Pneumatic filter press](/en/products/pneumatic-filter-press)
+- [Refining and dewaxing equipment](/en/products/refining-and-dewaxing-equipment)
+- [Filling equipment](/en/products/filling-equipment)
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/Yz1FETcJv7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## Filtration and Finished-Oil Target
 
-## Some tea seed pressing equipment video
+Define settled, filtered, dewaxed, or lightly refined oil; visible sediment, color, aroma, wax behavior, and clarity under the agreed cooling or storage test. State sampling points, tank materials, and package requirements.
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/_6HHsTppNS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## Data Required for a Quotation
 
-## Equipment Recommendations
+- Whole seed or kernel sample, species or commercial name, hull ratio, moisture, impurities, crop age, and storage condition
+- Input basis per batch or day, shifts, seasonality, and drying or dehulling scope
+- Low-temperature or gently conditioned profile and intended use
+- Settling, filtration, dewaxing or refining, tank, package, sampling, and test requirements
+- Heat, power, floor space, destination, and delivery terms
 
-### Recommended Equipment
-- **Tea Seed**: 300AC-390/325AC-390/355AC-390/400AC-390
+## Acceptance Records
 
-## Technical Advantages
-
-### 🎯 Precise Control
-- Temperature control: ±2℃ precision
-- Pressure control: Intelligent adjustment
-- Humidity control: Optimal moisture content
-
-### 💧 Oil Quality Guarantee
-- Low-temperature process preserves nutrition
-- Physical pressing without chemical residues
-- Oil yield up to 28-32%
-
-### 🔄 Continuous Production
-- 24-hour uninterrupted operation
-- Automated feeding and discharging
-- Intelligent fault alarm
-
-## Product Applications
-
-### 🍳 Edible Oil
-- Tea seed oil: Main edible oil variety
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
-
-### 💄 Beauty and Skincare
-- Tea seed oil: Natural skincare oil
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
-
-### 💊 Health Products
-- Tea seed oil: Nutritional supplement
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
-
-## Market Analysis
-
-### 📈 Development Trends
-- Growing demand for high-end edible oils and beauty products
-- Expanding high-end tea seed oil market
-- Increasing export trade opportunities
-
-### 🎯 Target Markets
-- Edible oil processing enterprises
-- Food processing enterprises
-- Beauty and skincare enterprises
-- Export trade enterprises
-
-## Quality Standards
-
-### 🏆 Product Quality Standards
-- Complies with national tea seed oil standards
-- Complies with food safety standards
-- Complies with export food standards
-- Complies with organic food certification
-
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color and transparency testing
-- Heavy metal content testing
-- Pesticide residue testing
-
-## Sustainable Development
-
-### 🌱 Environmental Production
-- Waste recycling and utilization
-- Energy-saving and emission-reduction processes
-- Green production standards
-
-### 🔄 Resource Utilization
-- By-product comprehensive utilization
-- Industrial chain extension
-- Circular economy model
-
-### 🌍 Social Responsibility
-- Support farmer income increase
-- Ensure food safety
-- Protect ecological environment
-
-## Contact Us
-
-If you are interested in tea seed pressing solutions, please contact our technical team:
-
-- 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
-
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable tea seed pressing solution.
+Record seed identity, shell separation and kernel loss, kernel moisture, crush size, conditioning settings, charge weight, cycle time, oil temperature, crude and filtered oil, and cake. After filtration or dewaxing, document color, aroma, sediment, and clarity using the agreed cooling test, plus cake discharge and cleaning.
 
 ## Related Links
 
@@ -151,12 +59,12 @@ We provide free technical consultation, sample testing, and on-site inspection s
 - [Rapeseed Solutions](/en/solutions/rapeseed)
 - [325 Series Hydraulic Oil Press](/en/products/325)
 - [Contact Technical Team](/en/contact/)
-- [中文页面](/zh/solutions/tea-seed)
+- [Chinese page](/zh/solutions/tea-seed)
 
-## Get Price & Quote
+## Request a Configuration and Quote
 
-Tell us your capacity, oilseed type, and budget. We will return a complete quote and line configuration.
+Send the tea seed or camellia feed state, hull and moisture data, clean input, oil profile, filtration or dewaxing target, utilities, and destination for a trial-based quotation.
 
-- [Get Price & Quote](/en/contact/)
+- [Request a tea seed oil line quote](/en/contact/)
 
 <!-- quote-cta -->

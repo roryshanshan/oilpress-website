@@ -1,162 +1,48 @@
 ---
-title: "Supporting Equipment | Factory Price & Quote"
-description: Shandong Shengshi Hecheng provides complete oil pressing equipment supporting solutions, including pre-treatment equipment, post-treatment equipment
+title: "Oil Press Supporting Equipment | Factory Quote"
+description: "Compare cleaning, crushing, steaming, cake handling, filtration, storage, refining, and filling modules; verify capacity matching, equipment list, and quote."
 keywords: Supporting Equipment, oil press machine, oil press price, oil press quotation, oil press supplier, oil processing equipment, after-sales service, oilseed processing equipment, Oil pressing supporting equipment, Pre-treatment equipment
 ---
 # Supporting Equipment
 
-## Pre-treatment Equipment
+Use this page as a purchasing map, not as a fixed equipment package. Supporting equipment must be matched to the raw material, selected press, batch rhythm, finished-oil stage, utilities and workshop layout.
 
-### Sesame Screening Machine
-- Suitable materials: sesame, rapeseed, flaxseed, perilla seed, millet and other small grains
-- Process role: dry screening, air dust removal and separate discharge for oversize, clean seed and fine material
-- Structure options: closed type, open fixed-screen type and open removable-screen type
-- Voltage options: selected Model 60 / Model 80 configurations support 220V or 380V
+## 1. Raw-material Preparation
 
-[View detailed specifications](/en/products/sesame-screening-machine)
+- [Sesame screening machine](/en/products/sesame-screening-machine): dry screening and aspiration for sesame and other small seeds; confirm screen openings and discharge fractions with a representative sample.
+- [11 kW high-speed pulverizer](/en/products/11kw-high-speed-pulverizer): particle-size preparation for compatible hard kernels; confirm feed hardness, required fraction, temperature rise and cleaning method.
+- [27 kW electric steamer](/en/products/27kw-electric-steamer) and [wood-fired steamer](/en/products/wood-fired-steamer): thermal conditioning for a defined hot-press recipe; confirm batch size, heat source and temperature measurement.
+- [Automatic drum roaster](/en/products/automatic-drum-roaster) and [flat-bottom frying pan](/en/products/heat-conducting-oil-flat-bottom-frying-pan): compare heat transfer, mixing, discharge and recipe control using the buyer's material.
+- [Feeding, crushing and frying integrated machine](/en/products/feeding-crushing-frying-integrated-machine): evaluate only when the combined layout and cleaning/changeover plan fit the project.
+- [Pre-press machine](/en/products/pre-press-machine): a separate process option for suitable materials, not a required accessory for every hydraulic press.
 
-### 11Kw High-speed Pulverizer
-- Power: 11KW
-- Speed: 1460r/min
-- Processing Capacity: 750kg/h
-- Screen mesh: 60-120 mesh optional
-- Flywheel structure design
-- Can pulverize hard materials like camellia seed, fructus viticis, avocado
+See the [pre-treatment equipment purchasing guide](/en/products/pre-treatment) for process selection.
 
-[View detailed specifications](/en/products/11kw-high-speed-pulverizer)
+## 2. Pressing and Material Handling
 
-### 27kW Electric Steamer (Upgraded)
-- Total Power: 27kW
-- Heating Power: 9/18/27kW
-- Max Processing Capacity: 100Kg
-- Water-electricity separation design
-- 304 stainless steel material
-- Can steam and cook material in 7-10 minutes
+Choose the [hydraulic oil press model](/en/products/) only after defining preparation, batch loading, complete cycle time and barrel configuration. Conveyors, elevators and buffer bins should be sized around the slowest connected operation and must allow cleaning, inspection and material changeover.
 
-[View detailed specifications](/en/products/27kw-electric-steamer)
+Cake handling can include the [cake pulverizer](/en/products/cake-pulverizer) or [cake wrapping machine](/en/products/cake-wrapping-machine). Confirm cake size, temperature, intended reuse, dust control and downstream packaging before quotation.
 
-### Wood-fired Steamer
-- Fuel: Coal/Wood/Gas
-- Pot Material: 304 stainless steel
-- Pot Capacity: Approx. 100KG/100L
-- Stove Material: Q355B carbon steel
-- Integrated water tank design
+## 3. Oil Clarification, Refining and Storage
 
-### Heat Transfer Oil Flat-bottom Electric Frying Pan
-- Total Power: 27+1.1kW
-- Pot Inner Diameter: 1000mm
-- Pot Depth: 360-380mm
-- Motor Power: 1.1kW
-- Heat transfer oil heating method
-- Rock wool insulation layer
+- [Pneumatic filter press](/en/products/pneumatic-filter-press): select filter area and plate arrangement from solids load, viscosity, oil temperature and batch volume.
+- [Filtration equipment](/en/products/filtration-equipment): compare settling, coarse filtration and fine clarification as separate stages.
+- [Edible oil refining equipment](/en/products/edible-oil-refining-equipment): define refining modules from crude-oil analysis and the target oil specification.
+- [Refining and dewaxing equipment](/en/products/refining-and-dewaxing-equipment): confirm cooling duty, holding time, filtration and low-temperature clarity requirements.
 
-### Wood-fired Heat Transfer Oil Flat-bottom Frying Pan
-- Fuel: Wood/Natural gas
-- Motor Power: 1.1Kw
-- Pot Outer Diameter: 1200mm
-- Frying Pan Inner Diameter: 1000mm
-- Capacity: 100-125Kg
-- Built-in furnace design
+Storage tanks, pumps and piping must be specified by oil stage, material of construction, cleanability, temperature and transfer distance. See the [post-treatment equipment guide](/en/products/post-treatment).
 
-### Automatic Drum Roaster
-- Heating Method: Electromagnetic heating
-- Power adjustable in stages
-- Applicable Materials: Sesame, sesame seeds, peanuts, soybeans, etc.
-- Fully automatic control
-- Fast heating, safe and reliable
+## 4. Filling and Packaging
 
-### Feeding/Crushing/Frying Integrated Machine
-- Three processes integrated: feeding, crushing, frying
-- Save space and conversion costs between processes
-- Customized services
-- Customized according to customer needs
+The [filling and packaging equipment catalog](/en/products/filling-equipment) covers bottle washing, filling, inspection, sealing, corking, cap shrinking, drying, labeling, coding, packing and palletizing. A quotation requires liquid properties, container and closure samples, fill range, target line speed, label, code, utilities and the required automation boundary.
 
-### Hemp and Flaxseed Grinding and Stirring Integrated Machine
-- Power: 15Kw
-- Capacity: 750Kg/h
-- Pure copper motor
-- Uniform crushing, low power consumption
-- Small footprint
+## 5. Purchase and Acceptance Checklist
 
-### Pre-press Machine
-- Motor Power: 7.5Kw (11Kw optional)
-- Capacity: 300-350Kg/h (750Kg/h optional)
-- Screw crushing principle
-- Low noise, low maintenance cost
-- Applicable materials: rapeseed, soybean, flaxseed, etc.
+1. Submit raw-material and finished-product requirements, representative samples and the planned process flow.
+2. State batch, hourly or daily targets with operating hours, cleaning time and changeover frequency.
+3. Confirm voltage, heat source, compressed air, water, ventilation, drainage and available floor space.
+4. Separate the base machine, optional modules, controls, piping, installation, commissioning, training, spare parts and freight in the quotation.
+5. Define FAT/SAT records for throughput, cycle, temperature, pressure, transfer, cleaning, safety interlocks and agreed product indicators.
 
-## Post-processing Equipment
-
-### Pneumatic Multi-layer Oil Filter
-- Specifications: 10m²/15m²/20m²
-- Design Pressure: 0.8/0.2MPa
-- Material: 304 stainless steel
-- Integrated design
-- Quick opening design
-- Double safety protection
-
-[View detailed specifications](/en/products/pneumatic-filter-press)
-
-### Cake Pulverizer
-- Model: FBJ-500
-- Power: 11Kw
-- Processing Capacity: 1-4Kg/h
-- Screen Mesh Aperture: 20mm
-- Hammer blade crushing knife
-- Suitable for soybean cake, peanut cake, cottonseed cake, etc.
-
-[View detailed specifications](/en/products/cake-pulverizer)
-
-### Cake Wrapper
-- Total Power: 1.1KW
-- Mold Inner Diameter: 240-480mm (customizable)
-- Hydraulic Oil Type: 46# anti-wear
-- Suitable for horizontal hydraulic oil press
-- Cake mold size customizable
-
-[View detailed specifications](/en/products/cake-wrapping-machine)
-
-### Edible Oil Refining Equipment
-- Refining Methods: Mechanical, chemical, physical-chemical methods
-- Impurity Removal: Sedimentation, filtration, alkali refining, etc.
-- Improve oil quality and stability
-- Suitable for crude oil refining
-
-[View detailed specifications](/en/products/edible-oil-refining-equipment)
-
-### Post-processing Equipment (General)
-- Filtration Equipment: Plate and frame filter, centrifugal filter, fine filter
-- Refining Equipment: Degumming, deacidification, decoloring, deodorization equipment
-- Packaging Equipment: Filling machine, sealing machine, labeling machine
-
-## Other Supporting Equipment
-
-### Conveying Equipment
-- Screw Conveyor
-- Bucket Elevator
-- Belt Conveyor
-- Pneumatic Conveying System
-
-### Storage Equipment
-- Oilseed Storage Tank
-- Finished Oil Storage Tank
-- Cake Storage Equipment
-- Automated Storage System
-
-### Packaging Equipment
-- Automatic Filling Machine
-- Sealing Machine
-- Labeling Machine
-- Packaging Production Line
-
-### Testing Equipment
-- Oil Quality Testing Instrument
-- Moisture Testing Instrument
-- Temperature Testing Instrument
-- Automated Testing System
-
-### Auxiliary Equipment
-- Dust Removal Equipment
-- Exhaust System
-- Lighting Equipment
-- Safety Protection Equipment
+[Request a matched equipment list, factory price and delivery scope](/en/contact/)

@@ -1,26 +1,27 @@
 ---
-title: Filling and stoppering two-line Price | Manufacturer & Quote
-description: "Get factory pricing for Filling and stoppering two-line. Suitable for edible oil projects with model selection, procurement support, and after-sales…"
-keywords: Filling and stoppering two-line price, Filling and stoppering two-line quote, Filling and stoppering two-line manufacturer, Filling and stoppering two-line supplier, procurement, after-sales
+title: "GFP Filling and Corking Monoblock | Manufacturer Quote"
+description: "Compare GFP16-1 and GFP24-6 filling and corking monoblocks for 2,200 or 6,000 wine bottles/hour, with factory pricing and line support."
+keywords: "GFP filling and corking monoblock price, GFP filling and corking monoblock manufacturer quote, wine filling corking monoblock, GFP16-1 GFP24-6, 2200 6000 bottles per hour, complete line integration, export packing, commissioning, after-sales service"
 image: "/images/filling-products/filling-corking-monoblock.webp"
 ---
-# Filling and stoppering two online
 
-![Filling and corking online](/images/filling-products/filling-corking-monoblock.webp)
+# Wine Filling and Corking Monoblock
 
-The two-line filling and stoppering machine can be used as a reference for specific models in the brewing equipment series. This page organizes model positioning, parameter information and supporting suggestions based on public product information to facilitate preliminary selection and page jumps.
+![Wine Filling and Corking Monoblock](/images/filling-products/filling-corking-monoblock.webp)
 
-## Model positioning
+This two-stage monoblock combines low-vacuum filling with cork insertion for compatible wine and fruit-wine bottles. It reduces the transfer distance between filling and corking, while bottle finish, cork specification and the required ullage remain decisive selection inputs.
 
-- Series: [Brewing Equipment Series](/en/solutions/brewing/)
-- Parameter overview entrance: [Filling and packaging equipment parameter library](/en/products/filling-equipment#brew-dual)
-- Applicable scenarios: Suitable for plugging directly after filling.
+## Application and purchasing fit
 
-## Summary of public information
+- Product family: [Brewing and wine bottling equipment](/en/solutions/brewing/)
+- Parameter reference: [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+- Confirm that low-vacuum filling suits the liquid and required fill-level presentation.
+- Match the corking head and bottle support to the actual glass bottle and natural or technical cork.
+- Plan cork supply, filled-bottle handling and the next capsule or labeling operation.
 
-This two-piece machine is mainly designed for wine and fruit wine filling. This equipment organically combines a negative pressure filling machine and a corking machine into one. The equipment has a compact structure and saves installation space.
+## Published reference parameters
 
-## Public parameter table
+The following table is retained as the published model reference. Final performance and compatibility must be confirmed in the written quotation and acceptance specification.
 
 <table>
   <tbody>
@@ -51,14 +52,24 @@ This two-piece machine is mainly designed for wine and fruit wine filling. This 
   </tbody>
 </table>
 
-## Supporting suggestions
+## What to provide for a manufacturer quotation
 
-- First look at the series page: [Brewing Equipment Series](/en/solutions/brewing/)
-- Let’s look at the parameter overview again: [The positions of filling and plugging connections in the parameter library](/en/products/filling-equipment#brew-dual)
-- If it is a complete line project, you can continue to view [Filling Package Overview](/en/solutions/filling-packages) and [Production Line Overview](/en/solutions/production-lines).
+- Wine or liquid properties, bottle and cork samples, target fill level or volume, and permitted variation.
+- Bottle-neck finish, cork diameter and length, compression and insertion-depth requirements.
+- Required output, format range, line direction, upstream bottle preparation and downstream accumulation.
+- Leakage or closure checks, FAT samples, utilities, export packing and on-site service requested.
 
-## Related pages
+Use representative samples for the factory acceptance test whenever practical. The agreed test material, run duration, sampling method and pass limits should be written into the purchase specification.
 
+## Price, delivery, and written service scope
+
+Manufacturer pricing depends on the confirmed machine configuration, format parts, controls, guarding, line interfaces, utilities and destination. Delivery schedule, export packing, installation, commissioning, training, spare parts and after-sales support apply only as stated in the written quotation and contract.
+
+## Related equipment and next step
+
+- [Brewing and wine bottling equipment](/en/solutions/brewing/)
 - [Filling and packaging equipment parameter library](/en/products/filling-equipment)
-- [Brewing equipment series](/en/solutions/brewing/)
-- [Contact us for complete line advice](/en/contact/)
+- [Filling and packaging line overview](/en/solutions/filling-packages)
+- [Production line planning](/en/solutions/production-lines)
+- [Filling and packaging equipment parameter library](/en/products/filling-equipment)
+- [Request a configuration-based manufacturer quotation](/en/contact/)

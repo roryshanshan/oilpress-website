@@ -1,6 +1,6 @@
 ---
-title: "অয়েল প্রেস ইন্সট্রাকশন ম্যানুয়াল | ডাউনলোড"
-description: "Download hydraulic oil press instruction manuals and operating guidance for safer installation, commissioning, and daily maintenance."
+title: "হাইড্রলিক অয়েল প্রেস ম্যানুয়াল | ইনস্টলেশন ও পরিচালনা"
+description: "ইনস্টলেশন, কমিশনিং, নিরাপদ চালনা, চাপ পরীক্ষা, হাইড্রলিক তেল বদল, ত্রুটি সমাধান ও নিয়মিত রক্ষণাবেক্ষণের নির্দেশিকা দেখুন।"
 keywords: সরঞ্জাম ব্যবহারের নির্দেশিকা দাম, সরঞ্জাম ব্যবহারের নির্দেশিকা কিনতে, কারখানা কোটেশন, চীনা প্রস্তুতকারক, রপ্তানি সরবরাহ, বিক্রয়োত্তর সাপোর্ট
 ---
 # সরঞ্জাম ব্যবহারের নির্দেশিকা
@@ -12,20 +12,20 @@ keywords: সরঞ্জাম ব্যবহারের নির্দে�
 ## চীনা সংস্করণ
 
 <div class="manual-download">
-  <a href="/images/钱隆牌液压榨油机使用说明书.pdf" target="_blank" class="download-btn">
+  <a href="/images/qianlong-hydraulic-oil-press-manual-zh.pdf" target="_blank" class="download-btn">
     📄 চীনা ব্যবহারের নির্দেশিকা ডাউনলোড করুন
     <br>
-    <small>钱隆牌液压榨油机使用说明书.pdf</small>
+    <small>কিয়ানলং হাইড্রলিক অয়েল প্রেসের চীনা PDF</small>
   </a>
 </div>
 
 ## ইংরেজি সংস্করণ
 
 <div class="manual-download">
-  <a href="/images/Instruction Manual for Qianlong Brand Hydraulic Oil Press.pdf" target="_blank" class="download-btn">
+  <a href="/images/qianlong-hydraulic-oil-press-manual-en.pdf" target="_blank" class="download-btn">
     📄 ইংরেজি ম্যানুয়াল ডাউনলোড করুন
     <br>
-    <small>Instruction Manual for Qianlong Brand Hydraulic Oil Press.pdf</small>
+    <small>qianlong-hydraulic-oil-press-manual-en.pdf</small>
   </a>
 </div>
 
@@ -58,11 +58,11 @@ keywords: সরঞ্জাম ব্যবহারের নির্দে�
 :::
 
 ### প্রযুক্তিগত সাপোর্ট
-যেকোনো প্রশ্ন বা প্রযুক্তিগত সাপোর্টের প্রয়োজন হলে, আমাদের আফটার সেলস সার্ভিস টিমের সাথে যোগাযোগ করুন：
+যেকোনো প্রশ্ন বা প্রযুক্তিগত সহায়তার প্রয়োজন হলে আমাদের বিক্রয়োত্তর সেবা দলের সঙ্গে যোগাযোগ করুন:
 
 - **কাস্টমার সার্ভিস হটলাইন**：+8619906365856
 - **ইমেইল**：gavin@oil-pressing-machine.com
-- **কাজের সময়**：সোমবার থেকে শুক্রবার 9:00-17:00
+- [মেশিন, খুচরা যন্ত্রাংশ ও সেবার তথ্য চাইুন](/bn/contact/)
 
 <style>
 .manual-download {

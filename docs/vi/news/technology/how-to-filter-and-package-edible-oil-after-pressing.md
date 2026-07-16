@@ -1,6 +1,6 @@
 ---
-title: "Cách lọc và đóng gói dầu ăn sau khi ép: Hướng dẫn hậu xử lý th..."
-description: Tìm hiểu cách lọc, lưu trữ, chiết rót, đóng nắp và dán nhãn dầu ăn sau khi ép để thành phẩm sạch hơn, ổn định hơn và sẵn sàng bán ra thị trường.
+title: "Lọc và đóng gói dầu ăn sau ép | Quy trình thực tế"
+description: "Thiết lập lắng/lọc, bồn kín, kiểm soát nhiệt và oxy, chiết rót, đóng nắp, dán nhãn; đối chiếu độ trong, bao bì và thời hạn bảo quản."
 keywords: máy ép dầu thủy lực, máy ép dầu, dầu ép lạnh, kiến thức ép dầu
 date: "2026-03-12"
 ---

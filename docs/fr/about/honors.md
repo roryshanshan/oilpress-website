@@ -1,30 +1,27 @@
 ---
-title: "Honors and Qualifications | Fabricant de presses hydrauliques"
-description: Shandong Shengshi Hecheng honors and qualifications, national high-tech enterprise, Shandong provincial specialized and new SME
-keywords: Honors and qualifications, Corporate qualifications, National high-tech enterprise, Shandong provincial specialized and new SME, ISO9001 certification, CE certification, Technical honors, Patent certificate, Industry recognition, Social responsibility, Shandong Shengshi Hecheng honors
+title: "Certificats et documents fabricant | Vérification avant achat"
+description: "Vérifiez certificats, documents techniques et conformité applicables au modèle commandé avant l'achat d'une presse ou d'une ligne d'huile."
+keywords: certificat presse à huile, documents fabricant, conformité machine, dossier technique, achat usine, devis export
 ---
+# Certificats et documents à vérifier avant achat
 
-# Honors and Qualifications
+Les certificats et exigences ne sont pas identiques pour chaque modèle, tension ou pays. Une page générale ne doit pas laisser entendre qu'un document couvre automatiquement toute la gamme.
 
-## Corporate Qualifications
+## Documents à demander avec l'offre
 
-- **National High-tech Enterprise**
-- **Shandong Provincial Specialized and New SME**
-- **ISO9001 Quality Management System Certification**
-- **CE European Safety Certification**
+- Fiche technique du modèle et liste des composants principaux
+- Schéma électrique correspondant à la tension commandée
+- Manuel d'installation, d'utilisation et d'entretien
+- Liste de pièces d'usure et de pièces recommandées
+- Plan d'implantation lorsque plusieurs machines sont intégrées
+- Copie du certificat ou rapport exigé par le pays, avec numéro et périmètre lisibles
 
-## Technical Honors
+## Vérifier le périmètre d'un certificat
 
-- **Shandong Provincial Science and Technology Progress Award**
-- **China Patent Excellence Award**
-- **Invention Patent Certificate** (Over 20 authorized patents)
+Avant de l'utiliser pour l'importation, contrôlez le nom du fabricant, le modèle couvert, la norme citée, l'organisme émetteur, la date et les éventuelles annexes. Le client ou son transitaire doit confirmer les exigences locales.
 
-## Industry Recognition
+## Ajouter les documents au contrat
 
-- **Leading Enterprise in China's Oil Processing Equipment Industry**
-- **Outstanding Private Enterprise in Shandong Province**
-- **Major Taxpayer in Qingzhou City**
+Les documents convenus doivent figurer dans la liste de livraison ou dans une annexe du devis. Demandez-les avant l'acompte si leur disponibilité conditionne l'importation.
 
-## Responsabilité Sociale
-
-Actively participates in public welfare and has been awarded the title of "Outstanding Corporate Responsabilité Sociale Enterprise".
+- [Demander les documents applicables à votre modèle](/fr/contact/)

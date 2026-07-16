@@ -1,26 +1,27 @@
 ---
-title: Machine à sceller automatique à tête unique prix | fabricant
-description: Demandez le prix et le devis pour Machine à sceller automatique à tête unique. Fabricant Shengshi Hecheng, livraison et SAV.
-keywords: Machine à sceller automatique à tête unique prix, acheter Machine à sceller automatique à tête unique, devis usine, fabricant chinois, exportation, service après-vente
+title: "Capsuleuse automatique mono-tête | Prix fabricant et devis"
+description: "Capsuleuse automatique mono-tête de 6 000 bouteilles/h pour contenants de 50-100 mm. Comparez les formats, l'intégration, le prix, le devis et le SAV."
+keywords: "capsuleuse automatique mono-tête prix, devis capsuleuse automatique mono-tête, 6 000 bouteilles/h pour diamètres 50-100 mm, hauteurs 120-320 mm et cols 22-32 mm, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/single-head-sealing-machine.webp"
 ---
-# Machine à sceller automatique à tête unique
 
-![Machine de scellage automatique à tête unique](/images/filling-products/single-head-sealing-machine.webp)
+# Capsuleuse automatique à une tête
 
-La scelleuse automatique à tête unique peut être utilisée comme référence pour des modèles spécifiques de la série de scelleuses. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+![Capsuleuse automatique à une tête](/images/filling-products/single-head-sealing-machine.webp)
 
-## Positionnement du modèle
+La machine SY assure une fermeture automatique à une tête pour des bouteilles et capsules compatibles dans la plage publiée. Le principe exact de fermeture et l'outillage doivent être confirmés sur échantillons avant l'achat.
 
-- Série : [Série de machines à sceller](/fr/solutions/sealing/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#seal-single)
-- Scénarios applicables : convient aux stations de scellage à moyenne et basse vitesse.
+## Domaine d'application et critères d'achat
 
-## Résumé des informations publiques
+- Famille : [Série de machines de fermeture](/fr/solutions/sealing/)
+- Repère technique : [Paramètres publiés de Capsuleuse automatique à une tête](/fr/products/filling-equipment#seal-single)
+- Utiliser les dimensions publiées comme premier filtre uniquement.
+- Préciser l'alimentation des capsules, l'indexage des bouteilles et l'action de fermeture incluse.
+- Vérifier la synchronisation avec la remplisseuse amont et le convoyeur aval.
 
-La machine à sceller automatique à tête unique convient comme modèle représentatif dans la série de machines à sceller.
+## Paramètres de référence publiés
 
-## Table des paramètres publics
+Le tableau ci-dessous est conservé comme repère de gamme. Les performances et la compatibilité finales doivent être confirmées dans l'offre technique et le protocole de réception.
 
 | Paramètre | Valeur |
 | --- | --- |
@@ -30,14 +31,24 @@ La machine à sceller automatique à tête unique convient comme modèle représ
 | Puissance du moteur | 0,37 kW |
 | Diamètre du goulot de la bouteille | 22-32 mm |
 
-## Suggestions complémentaires
+## Données nécessaires au devis fabricant
 
-- Regardez d'abord la page de la série : [Série de machines à sceller](/fr/solutions/sealing/)
-- Regardez à nouveau l'aperçu des paramètres : [La position de la machine de scellage automatique à tête unique dans la bibliothèque de paramètres](/fr/products/filling-equipment#seal-single)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+- Plans ou échantillons des bouteilles et fermetures, tolérances et formats.
+- Résultat attendu, aspect, étanchéité et effort d'ouverture.
+- Cadence, convoyeur, alimentation des capsules et accumulation.
+- Outillage, pièces de format, quantité FAT, pièces d'usure et mise en service.
 
-## Pages connexes
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Série de machines à sceller](/fr/solutions/sealing/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+## Prix, livraison et périmètre SAV écrit
+
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
+
+## Équipements associés et prochaine étape
+
+- [Série de machines de fermeture](/fr/solutions/sealing/)
+- [Paramètres publiés de Capsuleuse automatique à une tête](/fr/products/filling-equipment#seal-single)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Planification des lignes de production](/fr/solutions/production-lines)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

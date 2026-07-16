@@ -1,65 +1,71 @@
 ---
-title: "Dòng máy dán nhãn | Model, thông số & báo giá nhà máy"
-description: Xem dòng máy dán nhãn cho dây chuyền dầu ăn và đóng gói lỏng. So sánh model và yêu cầu báo giá nhà máy.
-keywords: Các dòng máy dán nhãn, máy dán nhãn tự động, máy dán nhãn chai tròn, máy dán nhãn 2 mặt, thiết bị dán nhãn dầu ăn, hệ thống dán nhãn dây chuyền đóng gói
+title: "Máy dán nhãn chai | Giá và báo giá nhà sản xuất"
+description: "So sánh máy dán nhãn chai tròn, tự dính và hai mặt theo mẫu chai, cuộn nhãn, vị trí dán và giao diện tuyến để nhận báo giá."
+keywords: giá máy dán nhãn chai, máy dán nhãn tự dính, máy dán nhãn hai mặt, báo giá nhà sản xuất, mua máy đóng gói, dịch vụ hậu mãi
 image: "/images/filling-solutions/labeling.webp"
 ---
 
-# Dòng máy dán nhãn
+# Máy dán nhãn cho chai và bao bì
 
-![Ảnh thật của máy dán nhãn kép hoàn toàn tự động](/images/filling-solutions/labeling.webp)
+![Máy dán nhãn hai mặt tự động](/images/filling-solutions/labeling.webp)
 
-Máy dán nhãn xác định hiệu quả hiển thị cuối cùng và nhận diện thương hiệu của sản phẩm. Đây là một trong những thiết bị ở phần sau của dây chuyền đóng gói ảnh hưởng trực tiếp nhất đến việc trình bày thiết bị đầu cuối. Đối với các dự án dầu ăn, vị trí nhãn, độ chính xác của nhãn, kiểm soát bong bóng và hiệu quả thay đổi thông số kỹ thuật đều sẽ ảnh hưởng đến hình thức bên ngoài và sự chấp nhận của thị trường đối với thành phẩm.
+Máy dán nhãn phải kiểm soát đồng thời bao bì và cuộn nhãn. Hình dạng chai, độ khô bề mặt, vật liệu nhãn, keo và vị trí dán quyết định độ ổn định của thành phẩm. Khi có thể, báo giá nên dựa trên mẫu chai và cuộn nhãn thật thay vì chỉ dùng kích thước danh nghĩa.
 
-## Các mẫu ghi nhãn thông dụng
+## Vị trí trên dây chuyền
 
-- Ghi nhãn đơn hoặc ghi xung quanh chai tròn
-- Dán nhãn 2 mặt chai vuông và chai phẳng
-- Ghi nhãn trên và dưới hoặc ghi nhãn kết hợp nhiều mặt
-- Ghi nhãn tùy chỉnh cho chai hộp quà tặng đặc biệt
+**Chiết và đóng nắp → kiểm tra rò rỉ hoặc ngoại quan → thổi khô chai → dán nhãn → in ngày hoặc mã lô → đóng thùng**
 
-## Các tình huống áp dụng
+Khắc mã có thể đặt trước hoặc sau dán nhãn tùy vị trí mã trên chai, nắp, nhãn hay thùng. Mặt bằng cần chừa chỗ thay cuộn, chỉnh máy và xử lý bao bì lỗi.
 
-- Dầu lạc, dầu hạt cải, dầu đậu nành và các loại dầu ăn đóng chai bán lẻ khác
-- Dầu óc chó cao cấp, dầu hạt nho, dầu hộp quà cỡ nhỏ
-- Sản phẩm đóng gói dạng lỏng như chất lỏng tạo hương, đồ uống, đồ uống có cồn
-- Các dự án OEM yêu cầu chuyển đổi hàng loạt loại chai và thông số kỹ thuật nhãn
+## Điều kiện chai và nhãn
 
-## Những điểm chính trong lựa chọn
+- Chai tròn, phẳng, vuông hay hình dạng không đều
+- Bề mặt thủy tinh, PET, kim loại hoặc vật liệu được duyệt
+- Nhãn quấn quanh, nhãn trước-sau hoặc bố trí khác
+- Chiều cuộn, giấy đế, vật liệu và loại keo
+- Yêu cầu định hướng theo đặc điểm chai hoặc hình in sẵn
+- Nhiệt độ chai, ngưng tụ và độ sạch bề mặt
+- Số định dạng và phương pháp đổi cỡ
 
-- Đầu tiên hãy xác nhận loại chai là chai tròn, chai vuông hay chai có hình dạng đặc biệt
-- Xác nhận lại chất liệu nhãn, phương pháp tự dính và tốc độ mục tiêu
-- Nếu còn nước trong chai sau khi tráng ở giai đoạn đầu tiên thì cần trang bị [Dòng máy sấy thổi] (/vi/solutions/drying/)
-- Nếu bạn cần in ngày, số lô và mã QR thì nên liên kết với [Dòng máy mã hóa Laser] (/vi/solutions/laser-coding/)
+## Các model dán nhãn
 
-## Mối quan hệ hỗ trợ
+| Model | Trọng tâm đánh giá |
+| --- | --- |
+| [Máy dán nhãn hai mặt tự động](/vi/products/filling/double-label-automatic-labeling-machine) | Dán trước-sau và dẫn hướng thân chai |
+| [Máy dán nhãn chai tròn DF-T200](/vi/products/filling/df-t200-round-bottle-labeler) | Bao bì tròn và thao tác bán tự động |
+| [Máy dán nhãn tự dính TD-5/TD-6](/vi/products/filling/self-adhesive-labeling-machine) | Quy cách nhãn tự dính và tích hợp tuyến tự động |
 
-1. [Dòng máy niêm phong](/vi/solutions/drying/)
-2. [Dòng máy kiểm tra ánh sáng](/vi/solutions/laser-coding/)
-3. Dòng máy dán nhãn
-4. [Dòng máy mã hóa laser](/vi/solutions/sealing/)
-5. [Đóng gói, xếp hàng](/vi/solutions/light-inspection/)
+Dữ liệu model nằm trên trang sản phẩm. Vị trí dán và công suất thực tế phụ thuộc vào mẫu chai và nhãn đã duyệt.
 
-## Mô hình tham chiếu điểm chuẩn
+## Quyết định làm thay đổi giá máy
 
-Chìa khóa của phần ghi nhãn là kích thước nhãn, phạm vi loại chai và tốc độ đường dây phù hợp. Tên model có thể nhập trực tiếp vào trang sản phẩm tương ứng.
+- Vận hành bán tự động hay tự động
+- Một nhãn, hai nhãn hoặc nhãn quấn quanh
+- Định hướng, tách chai và ổn định bao bì
+- Cảm biến nhãn, giao tiếp với máy in hoặc máy khắc mã
+- Số bộ chai-nhãn và chi tiết chuyển đổi
+- Băng tải, loại bỏ lỗi, che chắn và tín hiệu trước sau
+- Điện áp, giao hàng, chạy thử và đào tạo
 
-| Người mẫu | Trích đoạn thông số công khai | Hướng dẫn áp dụng |
-| --- | --- | --- |
-| [Máy dán nhãn kép hoàn toàn tự động tuyến tính](/vi/solutions/laser-coding/) | đường kính chai 30-95 mm; nhãn 50-280 × 40-150 mm; 6000 chai/giờ; động cơ chính 0,75 kW | Thích hợp cho nhãn đôi hoặc ghi nhãn nhiều mặt |
-| [DF-T200 Máy dán nhãn chai tròn bán tự động](/vi/solutions/packing-palletizing/) | 15-35 chiếc/phút; chai tròn Φ15-150 mm; nhãn 15-376 × 10-180 mm; 220V | Thích hợp cho việc ghi nhãn chai tròn hàng loạt nhỏ |
-| [Máy dán nhãn tự dính hoàn toàn tự động TD-5 / TD-6](/vi/solutions/labeling/double-label-automatic-labeling-machine) | 50-150 lần/phút; chiều cao nhãn 15-200 mm; đường kính chai Φ30-100 mm; 220V | Thích hợp để dán nhãn tự dính tự động cho chai tròn |
+## Dữ liệu cần gửi để báo giá
 
-## Truy cập trực tiếp vào các mô hình cụ thể
+Gửi bản vẽ và mẫu chai, bản vẽ và cuộn nhãn, vị trí dán, công suất thuần, máy thổi khô hoặc kiểm tra phía trước, máy khắc mã hoặc đóng thùng phía sau, cao độ băng tải, tiện ích, mặt bằng và nơi giao. Nếu đã có mẫu bao bì hoàn thiện được duyệt, hãy gửi kèm để làm chuẩn.
 
-- [Máy dán nhãn nhãn kép tuyến tính hoàn toàn tự động](/vi/solutions/labeling/df-t200-round-bottle-labeler)
-- [DF-T200 máy dán nhãn chai tròn bán tự động](/vi/solutions/labeling/self-adhesive-labeling-machine)
-- [Máy dán nhãn tự dính hoàn toàn tự động](/vi/solutions/labeling/double-label-automatic-labeling-machine)
-- [Tổng quan về thư viện thông số thiết bị chiết rót và đóng gói](/vi/solutions/labeling/df-t200-round-bottle-labeler)
+## Nghiệm thu và hỗ trợ sau bán hàng
 
-## Các trang liên quan
+FAT sử dụng chai và cuộn nhãn đã thỏa thuận. Quy trình nêu sai lệch vị trí, độ nghiêng, nếp nhăn, bọt khí, thiếu nhãn, đổi cỡ và liên động. Nhãn dùng thử, lắp đặt, đi lại, đào tạo, con lăn hoặc cảm biến dự phòng và thời gian phản hồi hậu mãi chỉ thuộc phạm vi báo giá và hợp đồng.
 
-- [Dòng máy sấy thổi](/vi/solutions/labeling/self-adhesive-labeling-machine)
-- [Dòng máy mã hóa laser](/vi/products/filling-equipment)
-- [Đóng gói, xếp hàng](/vi/solutions/drying/)
-- [Tổng quan về các giải pháp hỗ trợ chiết rót](/vi/solutions/laser-coding/)
+## Công đoạn kề bên
+
+- [Máy thổi khô chai](/vi/solutions/drying/)
+- [Máy soi kiểm tra chai](/vi/solutions/light-inspection/)
+- [Máy khắc mã laser](/vi/solutions/laser-coding/)
+- [Đóng thùng và xếp pallet](/vi/solutions/packing-palletizing/)
+
+## Nhận giá máy dán nhãn
+
+Gửi mẫu hoặc bản vẽ chai và nhãn để nhận cấu hình cùng báo giá nhà sản xuất theo từng hạng mục.
+
+- [Yêu cầu báo giá máy dán nhãn](/vi/contact/)
+
+<!-- quote-cta -->

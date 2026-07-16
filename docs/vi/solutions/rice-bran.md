@@ -1,145 +1,66 @@
 ---
-title: Giải pháp cám gạo (Dầu cám gạo) báo giá | giải pháp trọn gói
-description: "Giải pháp trọn gói Giải pháp cám gạo (Dầu cám gạo): quy trình, máy ép thủy lực, lọc dầu, danh mục thiết bị và báo giá nhà máy."
-keywords: Giải pháp cám gạo (Dầu cám gạo) báo giá dây chuyền, giải pháp trọn gói, danh mục thiết bị, mua từ nhà máy, hậu mãi
+title: "Sản xuất dầu cám gạo | Ổn định, tinh luyện, khử sáp"
+description: "Ổn định cám gạo ngay sau xay, rồi chiết/ép, lọc, tinh luyện và khử sáp; không chỉ dùng ép thủy lực. Kiểm tra thời gian ổn định, sáp, FFA và công suất."
+keywords: "Cám gạo (dầu cám gạo) báo giá, máy ép dầu, quy trình sản xuất, mua từ nhà máy, thiết bị phụ trợ, hậu mãi"
 image: "/images/cold-pressing-process-of-glutinous-rice-77cef64384.webp"
 ---
-# Giải pháp cám gạo (Dầu cám gạo)
+# Giải pháp Cám gạo (dầu cám gạo)
 
-## Tổng quan
+![Cám gạo (dầu cám gạo) - quy trình và thiết bị ép dầu](/images/cold-pressing-process-of-glutinous-rice-77cef64384.webp)
 
-Cám gạo là sản phẩm phụ trong quá trình sản xuất gạo, chứa nhiều dầu chất lượng cao có thể chiết xuất thành dầu cám gạo dinh dưỡng. Dầu cám gạo có hương vị đặc trưng và giá trị dinh dưỡng, được sử dụng trong dầu ăn và chế biến thực phẩm. Công ty TNHH Shengshi Hecheng Sơn Đông cung cấp giải pháp ép cám gạo chuyên nghiệp, phù hợp cho nhiều quy mô sản xuất。
+Cám gạo phải được thu nhận và ổn định enzyme sớm sau xay xát, sau đó sấy/điều chỉnh độ ẩm trước khi chọn phương án ép sơ bộ hoặc chiết chuyên dụng. Đây không phải nguyên liệu để chọn đơn giản giữa ép lạnh và ép nóng bằng máy thủy lực; thời gian chờ và chỉ số axit béo tự do quyết định khả năng chế biến. Dầu thô cần lọc, tinh luyện và khử sáp theo độ trong, độ ổn định ở nhiệt độ bảo quản và tiêu chuẩn thành phẩm.
 
-## Đặc tính cám gạo
+## Dữ liệu chọn quy trình
 
-### 📊 Thông số cơ bản
-- **Tỷ lệ dầu**: 15-25%
-- **Hàm lượng protein**: 12-15%
-- **Các axit béo chính**: Oleic (40-50%), Linoleic (30-40%)
-- **Nhiệt độ thích hợp**: Nhiệt độ ép kiểm soát ở 60-80℃
+| Hạng mục | Khuyến nghị |
+| --- | --- |
+| Hàm lượng dầu tham khảo | Khoảng 15-22% |
+| Tuyến công nghệ ưu tiên | Ổn định cám ngay sau xay xát rồi dùng tuyến chiết phù hợp |
+| Model hoặc hướng thiết bị | Dây chuyền chuyên dụng sau khi thử mẫu |
+| Cách chốt công suất | Dựa trên thử mẫu, số mẻ, thời gian chu kỳ và chất lượng dầu |
 
-### 🌱 Nguồn gốc & yêu cầu
-- **Nguồn**: Phụ phẩm từ sản xuất gạo
-- **Yêu cầu độ tươi**: Cần chế biến kịp thời để bảo đảm chất lượng dầu
-- **Điều kiện bảo quản**: Nhiệt độ thấp, khô ráo
-- **Sản lượng hàng năm**: Sản lượng gạo toàn cầu khoảng 500 triệu tấn, cám gạo khoảng 150 triệu tấn
+> Cám gạo dễ tăng axit béo tự do. Đây không phải nguyên liệu mặc định cho ép thủy lực trực tiếp; cần thiết kế tuyến chuyên dụng.
 
-## 加工工艺
-糯米油压榨工艺：(建议426AC-390/480AC-390/500AC-390)
- +糯米冷榨工艺：直接压榨
- ++ ![糯米](/images/cold-pressing-process-of-glutinous-rice-77cef64384.webp)
+## Quy trình khuyến nghị
 
-## 暂无液压榨油机工艺视频，请先参考螺旋榨油机加工工艺视频
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/AUK9h05fRZg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+1. Thu cám tươi và ổn định enzyme nhanh
+2. Sấy và kiểm soát độ ẩm
+3. Ép sơ bộ hoặc chiết theo quy mô dự án
+4. Lọc dầu thô
+5. Tinh luyện và khử sáp
 
-## 小米压榨视频，107 斤小米出一斤小米油
+## Máy ép và thiết bị chính
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/aJ6codz9fao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/7pGqmfLwS1g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+- [Xem các dây chuyền sản xuất chuyên dụng](/vi/solutions/production-lines)
+- [Thiết bị tiền xử lý](/vi/products/pre-treatment)
+- [Thiết bị lọc và hậu xử lý](/vi/products/post-treatment)
+- [Thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
 
+## Dữ liệu cần cho báo giá
 
-## 技术优势
+- Mẫu cám theo loại gạo/công đoạn xay, thời gian từ xay đến ổn định, độ ẩm, tỷ lệ trấu/bột mịn và chỉ số axit béo tự do nếu có
+- Lượng cám phát sinh theo giờ/ngày, lịch xay xát, số giờ vận hành và khả năng cấp liệu liên tục
+- Phương án ổn định hiện có, lựa chọn ép sơ bộ hay chiết và phạm vi thiết bị vận chuyển kín
+- Mục tiêu dầu thô hay dầu tinh luyện/khử sáp, chỉ tiêu cặn, sáp, độ trong và nhiệt độ bảo quản
+- Nguồn hơi/nhiệt, điện, nước, diện tích ổn định - chiết/ép - lọc - tinh luyện và điểm giao hàng
 
-### 🎯 精准控制
-- 温度控制：±2℃精度
-- 压力控制：智能调节
-- 水分控制：最佳工艺参数
+Hiệu suất thực tế phụ thuộc giống, độ ẩm, mức nghiền, nhiệt độ và thời gian ép. Không nên dùng một con số sản lượng cố định thay cho thử nghiệm nguyên liệu.
 
-### 💧 油质保证
-- 低温压榨保留营养
-- 物理压榨保证纯净
-- 出油率高达20-22%
+## Kiểm tra nghiệm thu
 
-### 🔄 连续生产
-- 自动化生产流程
-- 连续压榨工艺
-- 智能质量监控
+Nghiệm thu bắt đầu từ thời gian tiếp nhận cám: ghi độ ẩm, nhiệt độ/thời gian ổn định, chỉ số axit béo tự do tại các điểm lấy mẫu, lưu lượng cấp và khối lượng dầu thô/bã theo phương pháp đã thống nhất. Sau lọc, tinh luyện và khử sáp trong phạm vi cung cấp, kiểm tra cặn và độ trong bằng phép thử làm nguội/bảo quản đã chốt, không chỉ quan sát dầu khi còn nóng.
 
-## 产品应用
+## Trang liên quan
 
-### 🍳 食用油
-- 米糠油：优质食用油
-- 调和油：与其他油脂混合
-- 特种油：高端营养油
+- [Tổng quan giải pháp](/vi/solutions/)
+- [Dây chuyền sản xuất dầu hoàn chỉnh](/vi/solutions/production-lines)
+- [Tất cả model máy ép dầu thủy lực](/vi/products/)
+- [Hướng dẫn mua hàng và kỹ thuật](/vi/news/technology/)
 
-### 🥛 副产品
-- 米糠粕：优质蛋白饲料
-- 米糠纤维：饲料添加剂
-- 米糠蛋白：食品添加剂
+## Nhận giá và cấu hình
 
-### 💊 功能性产品
-- 米糠多酚
-- 米糠维生素E
-- 米糠磷脂
+Gửi nguyên liệu, công suất, chất lượng dầu mục tiêu và điểm đến để nhận cấu hình cùng báo giá nhà máy.
 
-## 市场分析
-
-### 📈 发展趋势
-- 副产品利用需求增长
-- 健康食用油市场扩大
-- 出口贸易机会增加
-
-### 🎯 目标市场
-- 食用油加工企业
-- 大米加工企业
-- 食品加工企业
-- 饲料加工企业
-
-
-
-## 质量标准
-
-### 🏆 产品质量标准
-- 符合国家食用油标准
-- 符合食品安全标准
-- 符合出口食品标准
-- 符合有机食品认证
-
-### 🔍 检测项目
-- 酸价检测
-- 过氧化值检测
-- 色泽透明度检测
-- 重金属含量检测
-- 黄曲霉毒素检测
-- 农药残留检测
-
-## 可持续发展
-
-### 🌱 环保生产
-- 废弃物循环利用
-- 节能减排工艺
-- 绿色生产标准
-
-### 🔄 资源利用
-- 副产品综合利用
-- 产业链延伸
-- 循环经济模式
-
-### 🌍 社会责任
-- 支持农民增收
-- 保障食品安全
-- 保护生态环境
-
-## 联系我们
-
-如果您对米糠压榨解决方案感兴趣，请联系我们的技术团队：
-
-- 📞 **咨询热线**: +86 19906365856
-- 📧 **邮箱**: gavin@oil-pressing-machine.com
-- 📍 **地址**: 山东省潍坊市青州市开发区益能街5888号
-
-我们提供免费的技术咨询、样品测试和实地考察服务，为您提供最适合的米糠压榨解决方案。
-
-## Nhận giá & báo giá
-
-Vui lòng cung cấp công suất, nguyên liệu và ngân sách. Chúng tôi sẽ gửi báo giá và cấu hình dây chuyền.
-
-- [Nhận giá & báo giá](/vi/contact/)
+- [Yêu cầu báo giá](/vi/contact/)
 
 <!-- quote-cta -->

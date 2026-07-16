@@ -17,6 +17,8 @@ dist-ssr
 !.vscode/extensions.json
 .idea
 .DS_Store
+._*
+.playwright-cli/
 *.suo
 *.ntvs*
 *.njsproj
@@ -26,3 +28,5 @@ dist-ssr
 # VitePress
 docs/.vitepress/cache
 docs/.vitepress/dist
+built-site-audit.json
+source-content-audit.json

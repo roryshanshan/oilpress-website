@@ -1,152 +1,31 @@
 ---
-title: Solution de graines de thé (huile de graines de thé) devis
-description: "Demandez un devis pour Solution de graines de thé (huile de graines de thé) : plan de ligne, liste d’équipements et SAV."
-keywords: Solution de graines de thé (huile de graines de thé) prix ligne, devis clé en main, étude d’équipement, achat usine, service après-vente
+title: "Presse à froid pour graines de thé | Prix et devis usine"
+description: "Huile de graines de thé à froid : décorticage, séchage doux, broyage, presse hydraulique et filtration. Validez l'essai sur matière, le prix et le devis."
+keywords: presse graines thé prix, ligne huile camélia, pressage à froid, devis fabricant, achat usine, essai matière, SAV
 image: "/images/process-image-0901d2dd53.webp"
 ---
-# Solution de graines de thé (huile de graines de thé)
+# Ligne d'huile de graines de thé pressée à froid
 
-## Aperçu
+Les graines de thé, aussi appelées graines de camélia selon l'espèce, doivent être décortiquées, séchées et broyées avant le pressage hydraulique. Pour une ligne à froid, la matière préparée entre directement dans la cuve sans torréfaction prolongée.
 
-Les graines de thé sont une importante culture oléagineuse, l'huile de graines de thé a une valeur nutritionnelle et applicative unique. Shandong Shengshi Hecheng Machinery Co., Ltd. fournit des solutions professionnelles de pressage de graines de thé, des petits ateliers aux grandes usines avec un équipement et des services complets.
+![Préparation des graines de thé avant pressage](/images/process-image-0901d2dd53.webp)
 
-## Caractéristiques de graines de thé
+## Procédé principal
 
-### 📊 Paramètres de base
-- **Teneur en huile** : 25-35%
-- **Teneur en protéines** : 15-20%
-- **Acides gras principaux** : Acide oléique (75-85%), Acide linoléique (8-12%), Acide palmitique (8-10%)
-- **Température appropriée** : Température de pressage contrôlée à 60-80℃
+Criblage -> décorticage -> séparation des coques -> séchage basse température si nécessaire -> broyage à haute vitesse -> pressage hydraulique direct -> décantation et filtration -> stockage protégé.
 
-### 🌱 Caractéristiques de croissance
-- **Cycle de croissance** : 3-5 ans
-- **Climat approprié** : Zones chaudes et humides
-- **Exigences du sol** : Sol acide et montagneux
-- **Production annuelle** : Production annuelle chinoise dépasse 500 000 tonnes
+La coque résiduelle, l'humidité et le calibre changent la densité de chargement. Un essai permet de fixer la granulométrie et le cycle sans confondre le procédé froid avec l'ancienne route de cuisson et de torréfaction.
 
-## Technologie de Transformation
+## Presse et modules à chiffrer
 
-### Procédé de Pressage à Chaud d'Huile de Graine de Thé
-- Les graines de thé subissent un criblage, un nettoyage, un séchage, un concassage et une cuisson à la vapeur avant d'être introduites dans le seau de presse hydraulique pour le pressage.
-- L'huile de graines de thé produite par ce processus a une couleur claire, un arôme pur et une riche nutrition.
-- ![Graine de thé processus de pressage à chaud](/images/process-image-0901d2dd53.webp)
+- [Prétraitement et séparation](/fr/products/pre-treatment)
+- [Broyeur haute vitesse](/fr/products/11kw-high-speed-pulverizer)
+- Presses [355](/fr/products/355), [400](/fr/products/400), [426](/fr/products/426), [480](/fr/products/480) ou [500](/fr/products/500)
+- [Filtration](/fr/products/pneumatic-filter-press)
+- [Ligne complète](/fr/solutions/production-lines)
 
-## Vidéo du processus de pressage à chaud des graines de thé
+Pour obtenir un prix fabricant, transmettez espèce, état décortiqué ou non, humidité, quantité par jour, limite de température, tension et pays de livraison. Le devis peut inclure essais, cuves, pièces, installation et service après-vente.
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/s5h70JVB46Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### Si vous recherchez un rendement en huile plus élevé, vous pouvez d'abord décortiquer, vidéo de la machine à décortiquer comme suit :
-
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/Yz1FETcJv7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-## Vidéo partielle d'équipement de pressage de graines de thé
-
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/_6HHsTppNS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-## Equipment Recommendations
-
-### Recommended Equipment
-- **Tea Seed**: 300AC-390/325AC-390/355AC-390/400AC-390
-
-## Avantages Techniques
-
-### 🎯 Precise Control
-- Temperature control: ±2℃ precision
-- Pressure control: Intelligent adjustment
-- Humidity control: Optimal moisture content
-
-### 💧 Oil Quality Guarantee
-- Low-temperature process preserves nutrition
-- Physical pressing without chemical residues
-- Oil yield up to 28-32%
-
-### 🔄 Production Continue
-- Fonctionnement ininterrompu 24 heures
-- Alimentation et déchargement automatisés
-- Alarme de panne intelligente
-
-## Applications des Produits
-
-### 🍳 Edible Oil
-- Tea seed oil: Main edible oil variety
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
-
-### 💄 Beauty and Skincare
-- Tea seed oil: Natural skincare oil
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
-
-### 💊 Health Products
-- Tea seed oil: Nutritional supplement
-- Blended oil: Mixed with other oils
-- Special oil: High-end nutritional oil
-
-## Market Analysis
-
-### 📈 Development Trends
-- Growing demand for high-end edible oils and beauty products
-- Expanding high-end tea seed oil market
-- Increasing export trade opportunities
-
-### 🎯 Target Markets
-- Edible oil processing enterprises
-- Food processing enterprises
-- Beauty and skincare enterprises
-- Export trade enterprises
-
-## Normes de Qualité
-
-### 🏆 Normes de Qualité des Produits
-- Complies with national tea seed oil standards
-- Complies with food safety standards
-- Complies with export food standards
-- Complies with organic food certification
-
-### 🔍 Testing Items
-- Acid value testing
-- Peroxide value testing
-- Color and transparency testing
-- Heavy metal content testing
-- Pesticide residue testing
-
-## Développement Durable
-
-### 🌱 Production Environnementale
-- Recyclage et utilisation des déchets
-- Processus d'économie d'énergie et de réduction d'émissions
-- Normes de production verte
-
-### 🔄 Utilisation des Ressources
-- Utilisation complète des sous-produits
-- Extension de la chaîne industrielle
-- Modèle d'économie circulaire
-
-### 🌍 Responsabilité Sociale
-- Soutien à l'augmentation des revenus des agriculteurs
-- Assurer la sécurité alimentaire
-- Protéger l'environnement écologique
-
-## Contactez-nous
-
-If you are interested in tea seed pressing solutions, please contact our technical team:
-
-- 📞 **Consultation Hotline**: +86 19906365856
-- 📧 **Email**: gavin@oil-pressing-machine.com
-- 📍 **Address**: No. 5888 Yineng Street, Development Zone, Qingzhou City, Weifang City, Shandong Province
-
-We provide free technical consultation, sample testing, and on-site inspection services to provide you with the most suitable tea seed pressing solution.
-
-## Obtenir prix & devis
-
-Indiquez la capacité, la matière première et le budget. Nous préparerons un devis et une configuration de ligne.
-
-- [Obtenir prix & devis](/fr/contact/)
+- [Demander un essai et un devis pour graines de thé](/fr/contact/)
 
 <!-- quote-cta -->

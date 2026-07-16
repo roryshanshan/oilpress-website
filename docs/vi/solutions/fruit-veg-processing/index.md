@@ -1,54 +1,72 @@
 ---
-title: "Thiết bị sơ chế rau quả | Model, thông số & báo giá nhà máy"
-description: Xem thiết bị sơ chế rau quả cho dây chuyền dầu ăn và đóng gói lỏng. So sánh model và yêu cầu báo giá nhà máy.
-keywords: Thiết bị sơ chế rau quả, thiết bị làm sạch và phân loại rau quả, thiết bị nghiền và đập, dây chuyền sơ chế rau quả, chế biến nguyên liệu trái cây, thiết bị đầu cuối đồ uống
+title: "Thiết bị sơ chế rau quả | Giá và báo giá dây chuyền"
+description: "Lập công đoạn tiếp nhận, rửa, phân loại, vận chuyển và chuẩn bị trước ép hoặc chiết; gửi dữ liệu nguyên liệu để nhận báo giá nhà sản xuất."
+keywords: giá dây chuyền sơ chế rau quả, máy rửa phân loại trái cây, băng tải nâng thực phẩm, báo giá nhà sản xuất, mua thiết bị chế biến, hậu mãi
 image: "/images/filling-solutions/fruit-veg-processing.webp"
 ---
 
-# Thiết bị sơ chế rau quả
+# Thiết bị sơ chế trái cây và rau củ
 
-![Sơ đồ hộp chế biến rau quả và trái cây và đóng gói chất lỏng](/images/filling-solutions/fruit-veg-processing.webp)
+![Dây chuyền sơ chế trái cây và rau củ](/images/filling-solutions/fruit-veg-processing.webp)
 
-Thiết bị sơ chế rau quả chủ yếu được sử dụng để làm sạch, phân loại, nghiền, loại bỏ tạp chất và xử lý sơ bộ nguyên liệu rau quả trước khi bước vào chế biến tiếp theo. Mặc dù loại thiết bị này không phải là mô-đun tiêu chuẩn của dây chuyền ép dầu thủy lực chính nhưng cột này có giá trị mở rộng mạnh mẽ cho các dự án bơ và trái nho hoặc cho các nhà máy vận hành các sản phẩm đồ uống, nước sốt và rượu trái cây.
+Sơ chế biến nguyên liệu theo mùa và có độ biến động cao thành dòng cấp ổn định cho ép, nghiền, lên men, xử lý nhiệt hoặc công đoạn kế tiếp. Danh mục máy phải bắt đầu từ tình trạng nguyên liệu khi đến nhà máy, không chỉ từ tên của nước uống hay sản phẩm cuối.
 
-## Các liên kết xử lý chung
+## Vị trí trước công đoạn chính
 
-- Làm sạch nguyên liệu và loại bỏ tạp chất
-- Phân loại và sắp xếp
-- Nghiền và đập
-- Tách cùi, vỏ và lõi
-- Lưu trữ tạm thời, vận chuyển và đệm phía trước
+Tuyến có thể gồm:
 
-## Các tình huống áp dụng
+**Tiếp nhận → kiểm tra và phân loại → rửa → cắt hoặc giảm kích thước → vận chuyển → ép hoặc nghiền → xử lý sản phẩm → chiết rót**
 
-- Chế biến nguyên liệu hoa quả như bơ, nho
-- Sơ chế nước trái cây, bột giấy và nước sốt
-- Chuẩn bị nguyên liệu thô cho rượu hoa quả và đồ uống lên men
-- Khu tiền xử lý tổng hợp cho các nhà máy thực phẩm đa chủng loại
+Chỉ mua các công đoạn thực sự cần cho quy trình đã duyệt. Nước thải, nguyên liệu loại, vỏ, hạt, bã và phụ phẩm khác cũng phải có phương án thu gom và ranh giới trách nhiệm.
 
-## Gợi ý lựa chọn
+## Mô tả nguyên liệu đầu vào
 
-- Đầu tiên hãy xác nhận tình trạng của nguyên liệu thô, dù là trái cây nguyên quả, cắt thành miếng hay nguyên liệu có hàm lượng cặn cao
-- Xác nhận lại xem có cần lột, rỗ, đập hay lọc mịn không
-- Nếu dự án liên quan đến rượu hoa quả, bạn có thể tiếp tục xem [Dòng thiết bị làm rượu] (/vi/solutions/brewing/)
-- Nếu dự án cuối cùng đi vào dây chuyền đóng gói, nó có thể được thiết kế kết hợp với [Dòng máy chiết rót] (/vi/solutions/filling/)
+- Loại, giống, độ chín và mùa thu hoạch
+- Dạng giao hàng, đất cát và lượng tạp chất ngoài đồng
+- Kích thước, độ dễ dập và mức hư hại cho phép
+- Nhu cầu phân loại, rửa, cắt, nghiền hay chỉ vận chuyển
+- Chất lượng nước, tuần hoàn và giới hạn xả thải
+- Kích thước và độ liên tục mà thiết bị phía sau yêu cầu
+- Vật liệu tiếp xúc, cách vệ sinh và quy định thực phẩm tại chỗ
 
-## Mô hình tham chiếu điểm chuẩn
+## Trang thiết bị liên quan
 
-Gần phần này trên trang công cộng của trạm tham chiếu là thiết bị nâng và vận chuyển tiền xử lý, có thể được sử dụng làm lối vào phần phía trước của nước trái cây, rượu hoa quả và các sản phẩm rau quả. Lối vào trang sản phẩm cụ thể được cung cấp trực tiếp tại đây.
+| Thiết bị | Trọng tâm khi lập dự án |
+| --- | --- |
+| [Băng tải nâng trái cây cấp thực phẩm](/vi/products/filling/fruit-elevator) | Chuyển nguyên liệu có kiểm soát giữa tiếp nhận và sơ chế |
+| [Dây chuyền thanh trùng dạng bồn](/vi/products/filling/pasteurization-processing-line) | Phương án xử lý nhiệt phía sau khi phù hợp với quy trình sản phẩm |
 
-| Người mẫu | Trích đoạn thông số công khai | Hướng dẫn áp dụng |
-| --- | --- | --- |
-| [Thang máy](/vi/solutions/brewing/) | Đai lưới nhựa kỹ thuật cấp thực phẩm; khung thép không gỉ; cơ khí điều chỉnh tốc độ vô cấp; thích hợp để nâng và vận chuyển nho, dâu tây, táo, v.v. | Thích hợp làm thiết bị phụ trợ sơ chế cho các dự án trái cây, nước ép rau và rượu trái cây |
+Thông số model nằm trên trang sản phẩm. Một dây chuyền hoàn chỉnh cần sơ đồ công nghệ và đánh giá nguyên liệu trước khi nhà sản xuất xác nhận cấu hình.
 
-## Truy cập trực tiếp vào các mô hình cụ thể
+## Quyết định làm thay đổi giá dự án
 
-- [Thang máy](/vi/solutions/filling/)
-- [Tổng quan về thư viện thông số thiết bị chiết rót và đóng gói](/vi/solutions/fruit-veg-processing/fruit-elevator)
+- Lưu lượng cao điểm trong mùa và cơ sở đo công suất
+- Kiểm tra thủ công, phân loại cơ giới hoặc kết hợp
+- Số lần rửa và số công đoạn chuẩn bị
+- Vật liệu tiếp xúc, khả năng tháo lắp và tiếp cận vệ sinh
+- Mạch nước, bơm, bồn, băng tải và điều khiển
+- Thu gom chất thải và nước thải nằm trong hay ngoài phạm vi
+- Kết nối với ép, lên men, thanh trùng hoặc chiết rót
 
-## Các trang liên quan
+## Hồ sơ gửi nhà sản xuất
 
-- [Dung dịch dầu trái cây](/vi/solutions/fruit-veg-processing/fruit-elevator)
-- [Dòng thiết bị nấu rượu](/vi/products/filling-equipment)
-- [Dòng máy chiết rót](/vi/solutions/fruits)
-- [Tổng quan về các giải pháp hỗ trợ chiết rót](/vi/solutions/brewing/)
+Gửi ảnh và, khi khả thi, mẫu nguyên liệu đại diện; tình trạng đầu vào, trạng thái cần đạt ở đầu ra, cơ sở sản lượng, mùa vận hành, ca làm việc, sơ đồ quá trình, tiện ích, mặt bằng, phương án chất thải và nơi giao hàng. Chỉ rõ thiết bị hiện có và cao độ đầu vào-đầu ra cần nối.
+
+## Nghiệm thu, giao hàng và hậu mãi
+
+FAT sử dụng nguyên liệu đã thống nhất hoặc mẫu thay thế có ghi nhận để kiểm tra hư hại, độ ổn định chuyển liệu, khả năng vệ sinh và giao diện. Chất lượng sản phẩm cuối hoặc tỷ lệ phụ phẩm không được mặc định nếu chưa có phương pháp thử trong hợp đồng. Giao hàng, lắp đặt, nước và thoát nước tại chỗ, chạy thử, đào tạo, phụ tùng và hỗ trợ phải được định giá rõ.
+
+## Công đoạn liên quan
+
+- [Hệ thống lọc chất lỏng](/vi/solutions/filtering/)
+- [Máy chiết rót](/vi/solutions/filling/)
+- [Xử lý sản phẩm sữa và chất lỏng](/vi/solutions/dairy-processing/)
+- [Tổng quan dây chuyền đóng gói](/vi/solutions/filling-packages)
+
+## Nhận báo giá dây chuyền sơ chế
+
+Mô tả nguyên liệu nhận vào và trạng thái đầu ra để nhận danh mục công đoạn cùng giá nhà sản xuất.
+
+- [Yêu cầu báo giá thiết bị sơ chế rau quả](/vi/contact/)
+
+<!-- quote-cta -->

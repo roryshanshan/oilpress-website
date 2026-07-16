@@ -1,97 +1,77 @@
 ---
-title: <center>Video Đơn hàng Khách hàng & Gửi hàng</center>
-description: Video gửi hàng khách hàng Shengshi Hecheng, bao gồm quá trình đóng gói thiết bị, vận chuyển lên xe tải, xác nhận khách hàng
-keywords: giá Video Đơn hàng Khách hàng & Gửi hàng, mua Video Đơn hàng Khách hàng & Gửi hàng, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+title: "Video đóng gói và giao máy ép dầu | Báo giá và kiểm tra đơn hàng"
+description: "Xem hồ sơ đóng gói và bốc hàng, sau đó kiểm tra trong báo giá phương án kiện, danh sách đóng gói, chứng từ xuất khẩu, bảo hiểm và điều kiện giao hàng."
+keywords: video giao máy ép dầu, đóng gói thiết bị xuất khẩu, packing list máy ép, vận chuyển máy ép thủy lực, báo giá nhà sản xuất, nghiệm thu khi nhận hàng
 ---
-#  <center>Video Đơn hàng Khách hàng & Gửi hàng</center>
+# <center>Video đóng gói và giao đơn hàng</center>
 
-## Tổng quan dịch vụ gửi hàng
+Các video dưới đây là hồ sơ của từng lần giao hàng, không phải cam kết rằng mọi đơn đều dùng cùng cách đóng gói, hãng vận chuyển hoặc thời gian giao. Báo giá và danh sách đóng gói đã ký phải nêu rõ thiết bị, phần tháo rời, bệ hoặc thùng, chống ẩm và chống gỉ, phương án đóng container, chứng từ, bảo hiểm và Incoterm.
 
-Công ty Cơ khí Shengshi Hecheng Sơn Đông cung cấp dịch vụ gửi hàng thiết bị chuyên nghiệp, từ xác nhận đơn hàng đến xác nhận khách hàng, dịch vụ theo dõi toàn quy trình, đảm bảo thiết bị an toàn và gửi đến đúng hạn.
+## Hồ sơ đóng gói và bốc hàng
 
-Đội ngũ gửi hàng của chúng tôi có kinh nghiệm phong phú, có thể cung cấp các giải pháp đóng gói và vận chuyển được cá nhân hóa theo các đặc điểm của các thiết bị khác nhau và nhu cầu của khách hàng.
-
-## Tổng quan hiện trường gửi hàng trong nước
-
-### Quá trình đóng gói gửi máy ép dầu thủy lực
+### Đóng gói máy ép dầu thủy lực
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/rrY56IsqT24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Hồ sơ đóng gói máy ép dầu thủy lực" loading="lazy" src="https://www.youtube.com/embed/rrY56IsqT24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Vận chuyển thiết bị lên xe tải
+### Bốc thiết bị lên phương tiện vận chuyển
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/mjzmVves1SU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Hồ sơ bốc thiết bị ép dầu" loading="lazy" src="https://www.youtube.com/embed/mjzmVves1SU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### Hồ sơ bốc hàng bổ sung
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/4kO6f5_iuYI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Hồ sơ bốc hàng bổ sung" loading="lazy" src="https://www.youtube.com/embed/4kO6f5_iuYI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
-### Xác nhận thiết bị khách hàng trong nước
+### Hồ sơ kiểm tra trước khi giao
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/--mJg9RNZwA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Hồ sơ kiểm tra thiết bị trước khi giao" loading="lazy" src="https://www.youtube.com/embed/--mJg9RNZwA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### Hồ sơ chuẩn bị giao hàng bổ sung
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/1PWhcjq9UNQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Hồ sơ chuẩn bị giao hàng bổ sung" loading="lazy" src="https://www.youtube.com/embed/1PWhcjq9UNQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Dịch vụ gửi hàng quốc tế
+## Hồ sơ giao hàng xuất khẩu
 
-### Hồ sơ gửi hàng thiết bị khách hàng nước ngoài
-+ Khách hàng chiết xuất hạt hạnh nhân lạnh Pakistan, loại máy 426-390AC
+### Model 426-390AC cho dự án ép lạnh hạnh nhân
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/jjbll8mzB70" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
- 
-+ Gửi máy ép dầu thủy lực khách hàng Myanmar
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/qbhvJQ6amLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Hồ sơ xuất khẩu máy ép thủy lực model 426" loading="lazy" src="https://www.youtube.com/embed/jjbll8mzB70" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-+ Gửi 10 máy ép dầu thủy lực khách hàng Nigeria
+### Hồ sơ giao hàng quốc tế bổ sung 1
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/3z6FzOGXqmA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Hồ sơ giao hàng quốc tế bổ sung một" loading="lazy" src="https://www.youtube.com/embed/qbhvJQ6amLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Khách hàng mua số lượng lớn máy ép dầu thủy lực, chuẩn bị hàng
+### Hồ sơ giao hàng quốc tế bổ sung 2
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/U077XRSuR-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Hồ sơ giao hàng quốc tế bổ sung hai" loading="lazy" src="https://www.youtube.com/embed/3z6FzOGXqmA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### Nhiều máy ép dầu thủy lực được chuẩn bị giao
+<div class="video-container">
+  <iframe title="Nhiều máy ép dầu thủy lực được chuẩn bị giao" loading="lazy" src="https://www.youtube.com/embed/U077XRSuR-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-## Các đặc điểm dịch vụ gửi hàng
+## Phạm vi đóng gói cần chốt trước khi đặt hàng
 
-### Đóng gói chuyên nghiệp
-- **Đóng gói chống sốc**：Sử dụng vật liệu đóng gói chuyên nghiệp, ngăn chặn hư hỏng do rung động trong quá trình vận chuyển
-- **Bảo vệ chống ẩm**：Xử lý bề mặt thiết bị chống ẩm, ngăn chặn rỉ sét và ăn mòn
-- **Cố định và gia cố**：Thiết bị được cố định chắc chắn trong quá trình vận chuyển, đảm bảo an toàn
+1. Model, số lượng, phụ kiện rời và các cụm phải tháo khi vận chuyển.
+2. Bệ trần, khung thép, thùng gỗ hoặc cố định trong container, kèm phương án chống ẩm và bảo vệ bề mặt.
+3. Điểm nâng, trọng tâm, kích thước kiện, khối lượng cả bì/tịnh và thứ tự đóng hàng.
+4. Hóa đơn thương mại, packing list, hướng dẫn, chứng chỉ, dữ liệu hải quan và chứng từ riêng của nước đến.
+5. Incoterm, cảng hoặc địa chỉ giao, ranh giới trách nhiệm của đơn vị vận chuyển, bên mua bảo hiểm và lịch dự kiến.
 
-### Theo dõi hậu cần
-- **Theo dõi thời gian thực**：Cung cấp truy vấn thông tin hậu cần, biết vị trí hàng hóa mọi lúc
-- **Dịch vụ bảo hiểm**：Cung cấp bảo hiểm vận chuyển cho thiết bị, bảo vệ quyền lợi khách hàng
-- **Thông báo kịp thời**：Thông báo kịp thời về các mốc quan trọng như gửi hàng, nhận hàng cho khách hàng
+## Kiểm tra khi giao và khi nhận
 
-### Dịch vụ xác nhận
+- Trước khi bốc, đối chiếu packing list với nhãn máy, phụ kiện, dụng cụ, phụ tùng và tài liệu.
+- Nếu hợp đồng bao gồm, ghi lại tình trạng kiện và container bằng ảnh hoặc video có ngày.
+- Khi hàng đến, kiểm tra container, kiện, dấu va đập hoặc gỉ nhìn thấy và chi tiết rời trước khi mở; lập biên bản mọi bất thường.
+- Lắp đặt, chạy thử, đào tạo, chi phí đi lại và hỗ trợ từ xa thực hiện theo báo giá và hợp đồng, không mặc nhiên đi kèm video giao hàng.
 
-- **Xác nhận hiện trường**：Xác nhận thiết bị trước khi gửi hàng, đảm bảo thiết bị hoàn hảo
-- **Xác nhận khi nhận**：Hướng dẫn khách hàng kiểm tra khi nhận, cung cấp hỗ trợ kỹ thuật
-- **Theo dõi sau bán hàng**：Cung cấp dịch vụ theo dõi sau khi thiết bị được lắp đặt và điều chỉnh
-
-## Đánh giá khách hàng
-
-*"Dịch vụ gửi hàng của Shengshi Hecheng rất chuyên nghiệp, đóng gói thiết bị chắc chắn, vận chuyển an toàn, thiết bị đến hoàn hảo."*
-—— Ông Lý, khách hàng từ Sơn Đông
-
-*"Dịch vụ gửi hàng quốc tế chu đáo, theo dõi hậu cần kịp thời, khiến chúng tôi rất yên tâm."*
-—— Ông Ahmed, khách hàng từ Pakistan
-
-## Liên hệ với chúng tôi
-
-Nếu bạn cần tìm hiểu thêm thông tin dịch vụ gửi hàng hoặc có nhu cầu gửi hàng đặc biệt, vui lòng liên hệ với chúng tôi:
-
-- **Hotline tư vấn gửi hàng**：+86-19906365856
+[Yêu cầu phương án đóng gói, phạm vi cước và báo giá nhà sản xuất](/vi/contact/)
 
 ---
 
@@ -122,4 +102,4 @@ Nếu bạn cần tìm hiểu thêm thông tin dịch vụ gửi hàng hoặc c�
 }
 </style>
 
-*Công ty Cơ khí Shengshi Hecheng Sơn Đông · Sản xuất chuyên nghiệp · Dịch vụ chất lượng cao*
+*Hồ sơ giao hàng phải được đối chiếu cùng packing list, báo giá và điều kiện vận chuyển đã ký.*

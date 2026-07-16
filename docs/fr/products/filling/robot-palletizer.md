@@ -1,37 +1,42 @@
 ---
-title: "Robot palettiseur | Prix usine et devis"
-description: "Demandez le prix usine pour Robot palettiseur. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
-keywords: Robot palettiseur prix, acheter Robot palettiseur, devis usine, fabricant chinois, exportation, service après-vente
+title: "Robot palettiseur automatique | Prix fabricant et devis"
+description: "Robot pour palettiser cartons, sacs, bidons, caisses et bouteilles avec magasin de 12-15 palettes. Comparez l’intégration, le prix, le devis et le SAV."
+keywords: "robot palettiseur prix, devis robot palettiseur, palettisation de cartons, sacs, bidons, caisses et bouteilles avec magasin de 12-15 palettes, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/robot-palletizer.webp"
 ---
+
 # Robot palettiseur
 
-![Robot Palletiseur](/images/filling-products/robot-palletizer.webp)
+![Robot palettiseur](/images/filling-products/robot-palletizer.webp)
 
-Le robot palettiseur peut servir de référence pour des modèles spécifiques en matière d’emballage et de palettisation. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+Une cellule robotisée dépose des colis convenus sur une palette selon un plan de couches défini. Le robot n'est qu'un élément : le préhenseur, la présentation des produits, la manutention des palettes, les protections et la commande déterminent la solution achetée.
 
-## Positionnement du modèle
+## Domaine d'application et critères d'achat
 
-- Série : [Emballage, Palettisation](/fr/solutions/packing-palletizing/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#pack-robot)
-- Scénarios applicables : convient à la palettisation automatique dans des scénarios d'expédition moyens et grands.
+- Famille : [Solutions d'encaissage et de palettisation](/fr/solutions/packing-palletizing/)
+- Repère technique : [Paramètres publiés de Robot palettiseur](/fr/products/filling-equipment#pack-robot)
+- Choisir le préhenseur sur le colis réel, sa masse, sa surface et son centre de gravité.
+- Vérifier stabilité, portée, temps de cycle et débord pour chaque plan de palette.
+- Étudier ensemble le groupage amont, le magasin de palettes, la sortie et les zones de sécurité.
 
-## Résumé des informations publiques
+## Données nécessaires au devis fabricant
 
-Cette machine convient à l'emballage et à la palettisation de produits finis de différentes formes tels que des cartons, des sacs, des canettes, des boîtes, des bouteilles, etc. dans les entreprises de production de produits chimiques, de boissons, d'aliments et d'alcool.
+- Échantillons et plans des colis, poids, centre de gravité, surface et orientation.
+- Dimensions et qualité des palettes, plans de couches, intercalaires et hauteur finale.
+- Cadence, arrivée des produits, implantation et accumulation.
+- Sécurité, produits FAT, essais de reprise, pièces et intervention sur site.
 
-## Points de divulgation
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-- Cette machine convient aux entreprises de fabrication de produits chimiques, de boissons, d'aliments, d'alcool et autres pour emballer et palettiser des produits finis de diverses formes telles que des cartons, des sacs, des canettes, des boîtes, des bouteilles, etc. La structure est très simple, facile à entretenir et à réparer ; il y a peu de pièces principales et d'accessoires, le coût de maintenance est donc très faible ; le robot palettiseur peut être installé dans un espace étroit et peut être utilisé efficacement ; toutes les commandes peuvent être actionnées sur l’écran de l’armoire de commande et l’opération est très simple. Il peut fonctionner 24 heures sur 24 et est équipé de robots capables de remplacer la charge de travail de nombreux travailleurs. Cela peut permettre d'économiser des centaines de milliers de coûts en ressources humaines chaque année, de réduire le personnel et d'augmenter l'efficacité. Le fonctionnement de l'écran tactile est utilisé pour réaliser un dialogue homme-machine, qui peut afficher la vitesse de production, la cause et l'emplacement du défaut, et présente un degré élevé d'automatisation. Grâce à la programmation par API, les couches de tri et d'empilage des cartons, l'alimentation et le déchargement des palettes peuvent toutes être programmées pour être contrôlées. Le système d'alimentation en cartons est contrôlé par un moteur de frein pour garantir que les cartons sont transportés selon la position prédéfinie. L'entrepôt de palettes a une grande capacité et peut accueillir 12 à 15 palettes vides, permettant un approvisionnement automatique en palettes. Plusieurs méthodes d'empilage peuvent être réalisées sans remplacer les pièces d'empilage.
+## Prix, livraison et périmètre SAV écrit
 
-## Suggestions complémentaires
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
 
-- Premier coup d'oeil à la page de la série : [Emballage, Palettisation](/fr/solutions/packing-palletizing/)
-- Regardez à nouveau l'aperçu des paramètres : [Position du robot palettiseur dans la bibliothèque de paramètres](/fr/products/filling-equipment#pack-robot)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+## Équipements associés et prochaine étape
 
-## Pages connexes
-
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Emballage, palettisation](/fr/solutions/packing-palletizing/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+- [Solutions d'encaissage et de palettisation](/fr/solutions/packing-palletizing/)
+- [Paramètres publiés de Robot palettiseur](/fr/products/filling-equipment#pack-robot)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Planification des lignes de production](/fr/solutions/production-lines)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

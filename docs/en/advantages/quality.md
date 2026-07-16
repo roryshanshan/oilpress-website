@@ -1,39 +1,48 @@
 ---
-title: "Quality Assurance | ISO Process & Factory QC"
-description: "Learn how ISO-based quality control, incoming inspection, and factory testing protect every hydraulic oil press shipment."
-keywords: Quality Assurance, oil press manufacturer advantages, technology innovation, service support, ISO9001 certification, Oil press equipment quality, Quality management system, Equipment quality control
+title: "Quality Assurance | Factory Inspection & Records"
+description: "Review incoming-material records, in-process checks, factory acceptance tests, certificate verification, traceability, and contract quality terms."
+keywords: Quality Assurance, hydraulic oil press inspection, factory acceptance test, material certificate, quality records, equipment traceability
 ---
 
 # Quality Assurance
 
-## Quality Management System
+## Quality Evidence to Review
 
-The company has passed ISO9001 quality management system certification and established a comprehensive quality control system.
+A quality statement should be supported by records for the legal entity, factory, model, and shipment being purchased. Buyers can place the required inspection plan, documents, witness points, and acceptance criteria in the technical agreement or contract.
 
-### Raw Material Control
+### Incoming Materials and Components
 
-- High-strength alloy steel materials selected
-- Key components use imported bearings and seals
-- All materials undergo strict incoming inspection
+- Confirm specified steel grade, dimensions, surface condition, and material certificates where required.
+- Record the manufacturer and model of bearings, seals, hydraulic components, motors, sensors, and electrical parts included in the approved bill of materials.
+- Define incoming checks for identity, dimensions, visible damage, and document consistency rather than assuming every item follows the same inspection level.
 
-### Production Process Control
+### Production Process Checks
 
-- 100% inspection of key processes
-- Equipment precision testing reaches micron level
-- Automated production lines ensure product consistency
+- Identify hold points for frame dimensions, welds, cylinder and barrel fit, hydraulic piping, electrical wiring, guarding, and surface treatment.
+- State the instrument, tolerance, sampling level, and acceptance rule for each measured characteristic.
+- Retain inspection and nonconformance records that can be linked to the machine serial or order number.
 
-### Finished Product Inspection
+### Finished Equipment and Factory Acceptance
 
-- Pressure testing: Ensuring stable and reliable working pressure
-- Performance testing: Verifying oil yield and production efficiency
-- Safety testing: Ensuring safe equipment operation
+- **Configuration check**: Compare the completed machine with the approved drawing, bill of materials, quotation, and nameplate.
+- **Hydraulic check**: Record test pressure, hold time, leakage observations, valve settings, and instrument calibration status.
+- **Functional check**: Test controls, alarms, interlocks, emergency stop, sensors, heating or filtration functions included in the order, and the complete operating sequence.
+- **Material trial**: When performance matters, use an agreed representative sample and record inputs, outputs, process settings, repeated batches, and laboratory methods.
+- **Shipment check**: Confirm manuals, electrical and hydraulic diagrams, spare parts, tools, packing protection, labels, and packing list.
 
-## Quality Commitment
+## Certificate and Compliance Verification
 
-- **Warranty Period**: Equipment warranty period is 2 years
-- **Lifetime Maintenance**: Providing lifetime technical support
-- **Quality Traceability**: Each equipment has a unique serial number
+If ISO 9001, food-contact compliance, CE or another certificate is cited, request a readable copy showing the certificate number, holder, issuing or notified body, scope, covered site or product, and validity dates. Verify it with the issuer where possible and confirm that it applies to the equipment and contracting entity.
 
-## Customer Testimonials
+For stainless-steel or other specified contact materials, request material grade evidence or a supplier certificate tied to the delivered parts. For calibrated instruments, request calibration records that cover the factory acceptance date.
 
-Our product quality has received unanimous praise from domestic and international customers, with a repair rate below 0.5%.
+## Quality and After-Sales Terms
+
+- **Warranty**: State the period, covered parts, exclusions, labor, freight, travel, consumables, and claim process in the contract.
+- **Ongoing Technical Support**: Support channels and technical assistance may continue under the agreed arrangement; maintenance, site service, response targets, and other after-sales obligations follow the contract scope.
+- **Traceability**: Confirm the nameplate, serial or order identifier, inspection records, and document package before shipment.
+- **Nonconformance Handling**: Define correction, replacement, retest, acceptance concession, and escalation responsibilities in writing.
+
+## Interpreting Quality Metrics
+
+A repair or return rate is meaningful only when the time period, shipped population, failure definition, exclusions, warranty status, and data source are disclosed. Request the underlying service data and calculation method before relying on a fixed percentage or customer-satisfaction statement.

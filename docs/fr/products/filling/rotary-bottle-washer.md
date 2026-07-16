@@ -1,26 +1,22 @@
 ---
-title: "Rinceuse de bouteilles rotative | Prix usine et devis"
-description: "Demandez le prix usine pour Rinceuse de bouteilles rotative. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
-keywords: Rinceuse de bouteilles rotative prix, acheter Rinceuse de bouteilles rotative, devis usine, fabricant chinois, exportation, service après-vente
+title: "Rinceuse rotative de bouteilles | Prix fabricant et devis"
+description: "Rinceuse rotative de 6 000 bouteilles/h pour diamètres 40-110 mm et hauteurs 120-320 mm. Le devis précise les formats, l'intégration, le prix et le SAV."
+keywords: "rinceuse rotative de bouteilles prix, devis rinceuse rotative de bouteilles, 6 000 bouteilles/h pour diamètres 40-110 mm et hauteurs 120-320 mm, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/rotary-bottle-washer.webp"
 ---
 # Rinceuse de bouteilles rotative
 
 ![Machine à laver les bouteilles rotative](/images/filling-products/rotary-bottle-washer.webp)
 
-La machine de rinçage rotative peut être utilisée comme référence pour des modèles spécifiques de la série de machines de rinçage. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+La description d'origine du QSP-6A rotatif donne une séquence d'eau précise : entrée et sortie des bouteilles en façade, transmission à six roues, trois distributeurs, réservoir et pompe de recirculation, deux rinçages à l'eau recyclée puis un rinçage final à l'eau propre. La vitesse est réglable en continu. La mention « transmission à six roues » décrit ici ce modèle rotatif ; elle ne désigne pas la famille distincte des rinceuses à six roues.
 
-## Positionnement du modèle
+## Séquence rotative et limites du procédé
 
-- Série : [Série de machines à laver les bouteilles](/fr/solutions/bottle-washing/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#bw-rotary)
-- Scénarios applicables : convient pour le lavage continu des bouteilles ordinaires.
+Les bouteilles passent successivement devant les postes d'eau recyclée et d'eau propre au rythme de la machine. L'arrivée, le transfert interne et la sortie doivent donc rester synchronisés. La source ne précise ni finesse de filtration, ni appoint, ni fréquence de purge, ni nombre de buses, ni retournement, brossage ou dosage chimique. Ces éléments ne font partie de la fourniture que s'ils figurent au devis accepté et sur le schéma d'eau.
 
-## Résumé des informations publiques
+Le tableau permet un premier choix pour des bouteilles régulières. Les formes atypiques, les PET légers ou les récipients au centre de gravité décalé exigent un essai, car un transfert rotatif demande une position répétable.
 
-Il adopte des bouteilles orientées vers le haut et vers le bas, une transmission à six roues, équipée de trois distributeurs d'eau, d'un réservoir d'eau en circulation, d'une pompe à eau, de deux chasses d'eau en circulation et d'une chasse d'eau propre ; il peut être ajusté en continu et a un bon effet de contrôle de l'eau.
-
-## Table des paramètres publics
+## Caractéristiques publiées
 
 <table>
   <tbody>
@@ -50,14 +46,26 @@ Il adopte des bouteilles orientées vers le haut et vers le bas, une transmissio
   </tbody>
 </table>
 
-## Suggestions complémentaires
+## Échantillons, outillages et machines voisines
 
-- Premier coup d'oeil à la page de la série : [Série de machines à laver les bouteilles](/fr/solutions/bottle-washing/)
-- Regardez à nouveau l'aperçu des paramètres : [La position de la machine de remplissage de bouteilles rotative dans la bibliothèque de paramètres](/fr/products/filling-equipment#bw-rotary)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+L'acheteur remet des bouteilles réelles pour chaque famille, avec les dimensions extrêmes et le format le plus léger ou le moins stable. Le fabricant confirme les guides, pièces de transfert, pas, plage de réglage et opérations de changement. Comme le code QSP-6A apparaît aussi dans le tableau de la rinceuse à six roues, les documents d'achat doivent écrire « rinceuse rotative » avec la cadence, la puissance et les dimensions de cette page.
 
-## Pages connexes
+Le convoyeur amont fournit un flux maîtrisé avec l'accumulation nécessaire. En aval, les bouteilles sortent après le rinçage à l'eau propre et peuvent poursuivre vers l'égouttage, le soufflage, le remplissage, le bouchage ou l'étiquetage. Hauteur, sens, référence de vitesse, verrouillages et gestion des bourrages sont fixés sur le plan de ligne approuvé.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Série de machines à laver les bouteilles](/fr/solutions/bottle-washing/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+## Circuit d'eau, évacuation et plan d'implantation
+
+Le tableau indique 1,5 m³/h et une pression de rinçage de 0,1-0,25, mais sans unité de pression. Le devis doit ajouter l'unité, le point de mesure et la tolérance. L'acheteur fournit l'eau propre à la qualité et à la pression convenues, l'électricité et l'évacuation extérieure.
+
+Le réservoir et la pompe de recirculation sont expressément cités, mais filtres, vanne d'appoint, trop-plein, purge et traitement des effluents doivent encore être détaillés. Pour une eau chaude, un détergent ou un désinfectant, l'acheteur fournit composition, concentration, température, fiche de sécurité et conditions de rejet ; le fabricant vérifie les matériaux mouillés et les joints.
+
+L'encombrement publié n'inclut pas l'accès au réservoir, à la pompe, à la transmission et à l'armoire, ni les transferts et siphons. L'implantation finale suit un plan d'interface signé.
+
+## Offre commerciale, réception et SAV
+
+Il n'existe pas de prix d'achat fixe. L'offre identifie le QSP-6A rotatif, les trois distributeurs, le réservoir, la pompe, les pièces de format, la commande, les interfaces, les pièces de rechange et l'emballage. Elle sépare traitement d'eau, convoyeurs extérieurs, fournitures de montage, transport, mise en service, formation et déplacements. Le nombre de bouteilles, le standard électrique, les interfaces et le lieu de service font varier le prix.
+
+Le FAT contrôle les transferts avec échantillons, les deux rinçages recyclés suivis du rinçage propre, le réglage de vitesse, l'écoulement, le changement de format et la cadence convenue. Il ferme également la question de l'unité de pression et consigne l'eau d'essai. Le SAT vérifie l'eau réelle, les signaux, les raccordements et la marche continue lorsque la ligne est prête.
+
+Le contrat fixe le départ et la durée de garantie, les pièces d'usure de pompe, vannes et joints, l'assistance distante, les tarifs d'intervention, les déplacements, les pièces et le mode de réponse. Une promesse générale de service ne remplace pas ces dispositions exécutables.
+
+Identifier les solutions dans la [gamme de rinceuses](/fr/solutions/bottle-washing/), puis consulter la [bibliothèque des équipements](/fr/products/filling-equipment). Les [solutions de conditionnement](/fr/solutions/filling-packages) et les [lignes de production](/fr/solutions/production-lines) couvrent l'intégration ; les données de consultation sont à transmettre depuis la [page de contact](/fr/contact/).

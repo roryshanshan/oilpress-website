@@ -1,42 +1,49 @@
 ---
-title: "Máy kiểm tra ánh sáng giá | Giá nhà máy & báo giá"
-description: "Nhận giá nhà máy cho Máy kiểm tra ánh sáng giá. Hỗ trợ chọn model, mua sắm và sau bán cho dự án dầu ăn."
-keywords: giá Máy kiểm tra ánh sáng, mua Máy kiểm tra ánh sáng, báo giá nhà máy, nhà sản xuất Trung Quốc, giao hàng xuất khẩu, hỗ trợ sau bán
+title: "Máy soi kiểm tra chai | Báo giá từ nhà sản xuất"
+description: "Báo giá máy soi kiểm tra chai từ nhà sản xuất; kiểm tra tốc độ băng tải, cỡ chai và độ sáng kiểm tra; xác nhận khả năng ghép nối trước khi mua."
+keywords: "giá máy soi kiểm tra chai, báo giá máy soi kiểm tra chai, tốc độ kiểm tra, loại chai trong suốt và vị trí trong dây chuyền, tích hợp dây chuyền chiết rót, cấu hình xuất khẩu, phụ tùng, hỗ trợ sau bán"
 image: "/images/filling-products/light-inspection-machine.webp"
 ---
 # Máy kiểm tra ánh sáng
 
 ![Máy kiểm tra ánh sáng](/images/filling-products/light-inspection-machine.webp)
 
-Máy kiểm tra ánh sáng có thể được sử dụng làm tài liệu tham khảo cho các mẫu máy cụ thể trong dòng máy kiểm tra ánh sáng. Trang này sắp xếp vị trí mô hình, thông tin tham số và đề xuất hỗ trợ dựa trên thông tin sản phẩm công khai để tạo điều kiện thuận lợi cho việc lựa chọn sơ bộ và chuyển trang.
+Máy kiểm tra bằng ánh sáng tạo vùng quan sát ổn định và đưa chai qua các thao tác kẹp, xoay hoặc chuyển vị theo cấu hình. Đây là trạm hỗ trợ phát hiện bất thường nhìn thấy được; tiêu chí kiểm tra, cách loại sản phẩm và trách nhiệm của người vận hành phải được xác định trước khi mua.
 
-## Định vị mô hình
+## Phù hợp với dự án nào
 
-- Series: [Dòng máy kiểm tra ánh sáng](/vi/solutions/light-inspection/)
-- Lối vào tổng quan về thông số: [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment#light-standard)
-- Kịch bản áp dụng: Thích hợp cho chai thủy tinh trong suốt và dự án đóng gói chất lỏng có giá trị gia tăng cao.
+- **Công đoạn:** Kiểm tra chai hoặc chất lỏng sau chiết rót và trước đóng gói tiếp theo.
+- **Bao bì hoặc vật liệu:** Chai có thể được dẫn hướng và xoay ổn định trong vùng quan sát.
+- **Khi nên cân nhắc:** Nên cân nhắc khi cần chuẩn hóa vị trí, ánh sáng và thời gian quan sát.
 
-## Tóm tắt thông tin công khai
+## Tiêu chí mua và so sánh giá
 
-Nó thực hiện phương pháp kiểm tra hoàn toàn tự động khi vào chai - kẹp chai - xoay chai - nhặt chai - tháo chai.
+- Liệt kê loại khuyết tật cần quan sát và kích thước nhỏ nhất cần nhận biết.
+- Xác nhận kiểm tra bằng mắt người hay có cảm biến/camera và cơ cấu loại sản phẩm hay không.
+- Đối chiếu tốc độ băng tải, khoảng cách chai và độ ổn định khi đổi cỡ chai.
 
-## Điểm tiết lộ
+## Thông tin cấu hình hiện có
 
-- Thực hiện phương pháp kiểm tra hoàn toàn tự động vào chai - kẹp chai - xoay chai - nhặt chai - tháo chai.
-- Áp dụng phương pháp kiểm tra ngược, cho phép vật lạ trong chai rơi qua quá trình đảo ngược để nâng cao chất lượng kiểm tra.
-- Góc nhìn rộng, góc nhìn lớn hơn 100°, cho phép có nhiều thời gian kiểm tra và so sánh, với độ chính xác cao. Không có vật cản bởi đường vòng ngoài sau khi lật chai, giúp đường ngắm rõ ràng hơn.
-- Đầu áp suất của cánh tay tĩnh và cánh tay chuyển động của mâm cặp di động có thể xoay được. Đầu áp suất ít bị mài mòn và sẽ không làm hỏng chai hoặc nắp.
-- Nguồn sáng LED, sử dụng nguồn sáng LED gần với ánh sáng tự nhiên, tiêu thụ năng lượng thấp, hiệu suất cao, không nhấp nháy, không bức xạ, bảo vệ mắt, không gây mỏi khi làm việc thời gian dài.
-- Hàm nylon được gia công theo phương pháp định hình và làm theo miệng chai chưa qua sử dụng. Kẹp chắc chắn và nắp chai không dễ bị hư hỏng.
+- Tài liệu hiện có mô tả chu trình đưa chai, kẹp, xoay và trả chai qua vùng quan sát.
+- Cấu hình có thể dùng thao tác đảo chai và nguồn sáng LED; góc quan sát, thời gian quan sát và loại khuyết tật nhận biết được phải xác nhận theo mẫu.
+- Bộ kẹp và đầu tỳ cần được gia công theo cổ chai. Vật liệu tiếp xúc, lực kẹp và nguy cơ làm xước chai phải nằm trong tiêu chí thử máy.
+- Trang này không mặc định có camera hoặc loại chai tự động; các chức năng đó chỉ được tính khi xuất hiện trong cấu hình chào giá.
 
-## Đề xuất hỗ trợ
+## Thông tin cần gửi để nhận báo giá
 
-- Đầu tiên hãy xem trang series: [Dòng máy kiểm tra ánh sáng](/vi/solutions/light-inspection/)
-- Xem lại phần tổng quan về thông số: [Vị trí của máy kiểm tra ánh sáng trong thư viện thông số](/vi/products/filling-equipment#light-standard)
-- Nếu đây là một dự án dây chuyền hoàn chỉnh, bạn có thể tiếp tục xem [Tổng quan về gói chiết rót](/vi/solutions/filling-packages) và [Tổng quan về dây chuyền sản xuất](/vi/solutions/production-lines).
+- Mẫu chai, màu chai, màu sản phẩm và dung tích.
+- Danh sách khuyết tật, vị trí cần quan sát và phương thức đánh giá.
+- Tốc độ mục tiêu, hướng băng tải và cách xử lý chai không đạt.
+- Điện, mặt bằng, cao độ băng tải và thiết bị trước/sau.
 
-## Các trang liên quan
+## Giao hàng, lắp đặt và hậu mãi
 
-- [Thư viện thông số thiết bị chiết rót và đóng gói](/vi/products/filling-equipment)
-- [Dòng máy kiểm tra ánh sáng](/vi/solutions/light-inspection/)
-- [Liên hệ với chúng tôi để được tư vấn đầy đủ về dòng sản phẩm](/vi/contact/)
+Báo giá cần ghi rõ cơ cấu đưa và xoay chai, vùng chiếu sáng, cảm biến hoặc phương thức quan sát, băng tải và giao diện loại bỏ nếu có. Phạm vi lắp đặt, hiệu chỉnh, đào tạo, phụ tùng và bảo hành phải theo xác nhận bằng văn bản.
+
+## Liên kết cấu hình và yêu cầu báo giá
+
+- [Dòng máy kiểm tra bằng ánh sáng](/vi/solutions/light-inspection/)
+- [Đối chiếu thiết bị trong bảng thông số tổng hợp](/vi/products/filling-equipment)
+- [Giải pháp chiết rót và đóng gói liên hợp](/vi/solutions/filling-packages)
+- [Giải pháp dây chuyền sản xuất](/vi/solutions/production-lines)
+- [Yêu cầu nhà sản xuất báo giá và xác nhận cấu hình](/vi/contact/)

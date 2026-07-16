@@ -1,26 +1,27 @@
 ---
-title: "Machine automatique de pliage et de scellage | Prix usine et devi"
-description: "Demandez le prix usine pour Machine automatique de pliage et de scellage. Sélection de modèle, support d’achat et SAV pour projets d’huile comestible."
-keywords: Machine automatique de pliage et de scellage prix, acheter Machine automatique de pliage et de scellage, devis usine, fabricant chinois, exportation, service après-vente
+title: "Fermeuse automatique de cartons | Prix fabricant et devis"
+description: "Fermeuse automatique de 12 à 15 cartons/min pour plusieurs formats. Vérifiez l'intégration à la ligne, puis demandez le prix fabricant, un devis et le SAV."
+keywords: "fermeuse automatique de cartons prix, devis fermeuse automatique de cartons, 12-15 cartons/min pour formats L200-550 x l150-480 x H127-480 mm, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/carton-sealing-machine.webp"
 ---
-# Machine automatique de pliage et de scellage
 
-![Machine de pliage et de scellage automatique](/images/filling-products/carton-sealing-machine.webp)
+# Fermeuse automatique de cartons à ruban adhésif
 
-La plieuse et encartonneuse automatique peut servir de référence pour des modèles spécifiques en matière d’emballage et de palettisation. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+![Fermeuse automatique de cartons à ruban adhésif](/images/filling-products/carton-sealing-machine.webp)
 
-## Positionnement du modèle
+Cette machine replie les rabats supérieurs d'un carton régulier puis applique le ruban adhésif en fin de ligne. La plage réellement exploitable dépend de la géométrie du carton, de la rigidité du carton ondulé, de la stabilité de la charge et du ruban choisi.
 
-- Série : [Emballage, Palettisation](/fr/solutions/packing-palletizing/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#pack-seal)
-- Scénarios applicables : convient pour le scellage continu de cartons ordinaires.
+## Domaine d'application et critères d'achat
 
-## Résumé des informations publiques
+- Famille : [Solutions d'encaissage et de palettisation](/fr/solutions/packing-palletizing/)
+- Repère technique : [Paramètres publiés de Fermeuse automatique de cartons à ruban adhésif](/fr/products/filling-equipment#pack-seal)
+- À utiliser avec des cartons déjà remplis et dont la fermeture inférieure est assurée.
+- Évaluer la fréquence des changements de format pour déterminer le mode de réglage adapté.
+- Synchroniser la fermeuse avec l'encaisseuse amont et le contrôle, le cerclage ou la palettisation en aval.
 
-La machine de pliage et de scellage automatique s'applique aux appareils électroménagers, aux textiles, à l'alimentation, aux nécessités quotidiennes, aux produits pharmaceutiques, à l'industrie légère, à l'industrie chimique, etc.
+## Paramètres de référence publiés
 
-## Table des paramètres publics
+Le tableau ci-dessous est conservé comme repère de gamme. Les performances et la compatibilité finales doivent être confirmées dans l'offre technique et le protocole de réception.
 
 <table>
   <tbody>
@@ -47,14 +48,24 @@ La machine de pliage et de scellage automatique s'applique aux appareils électr
   </tbody>
 </table>
 
-## Suggestions complémentaires
+## Données nécessaires au devis fabricant
 
-- Premier coup d'oeil à la page de la série : [Emballage, Palettisation](/fr/solutions/packing-palletizing/)
-- Regardez à nouveau l'aperçu des paramètres : [Emplacement de la machine automatique de pliage et de scellage dans la bibliothèque de paramètres](/fr/products/filling-equipment#pack-seal)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+- Plans et échantillons des cartons, qualité du carton, dimensions mini/maxi, poids brut et état des rabats.
+- Type et largeur de ruban, schéma de fermeture et zones d'impression ou d'étiquette à préserver.
+- Cadence, espacement des cartons, hauteur et sens du convoyeur, besoin d'accumulation.
+- Protections, commande, pièces d'usure, échantillons de FAT et limites d'intégration.
 
-## Pages connexes
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Emballage, palettisation](/fr/solutions/packing-palletizing/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+## Prix, livraison et périmètre SAV écrit
+
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
+
+## Équipements associés et prochaine étape
+
+- [Solutions d'encaissage et de palettisation](/fr/solutions/packing-palletizing/)
+- [Paramètres publiés de Fermeuse automatique de cartons à ruban adhésif](/fr/products/filling-equipment#pack-seal)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Planification des lignes de production](/fr/solutions/production-lines)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)

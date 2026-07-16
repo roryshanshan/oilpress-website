@@ -1,54 +1,72 @@
 ---
-title: "Série de machines de codage laser | Modèles, specs et devis usine"
-description: Découvrez série de machines de codage laser pour lignes d’huile comestible et conditionnement liquide. Comparez les modèles et demandez un devis usine.
-keywords: Série de machines de codage laser, machine de codage laser, codage de numéro de lot de date, équipement de codage de code QR, codage d'emballage d'huile comestible, équipement de marquage de traçabilité
+title: "Marquage laser industriel | Prix et devis d'intégration"
+description: "Comparez laser CO2 et fibre pour dates, lots et traçabilité. Validez le support et le marquage d'essai avant le devis fabricant."
+keywords: marquage laser prix, codeur laser fabricant, laser CO2 emballage, laser fibre traçabilité, devis intégration ligne, achat et après-vente
 image: "/images/filling-solutions/laser-coding.webp"
 ---
 
-# Série de machines de codage laser
+# Machines de codage et de marquage laser
 
-![Photo réelle d'une machine de marquage laser à fibre](/images/filling-solutions/laser-coding.webp)
+![Machine de marquage laser à fibre](/images/filling-solutions/laser-coding.webp)
 
-Les machines de codage laser sont utilisées pour marquer la date de production, le lot, le code de traçabilité, le code QR et les informations anti-contrefaçon lors du processus de post-emballage. Ce sont des équipements importants pour les lignes de conditionnement modernes afin d’obtenir une traçabilité de qualité et un marquage de conformité. Comparé au codage manuel ou aux méthodes traditionnelles, le codage laser est plus adapté à une production continue et à une gestion standardisée.
+Le laser inscrit dates, lots, numéros de série ou informations de traçabilité sans consommable d'encre. Le choix de la source dépend toutefois du support et du résultat visuel attendu : bouteille, bouchon, film d'étiquette et carton ne réagissent pas de la même manière. Un essai de marquage sur l'emballage réel est plus utile qu'une sélection fondée seulement sur la puissance.
 
-## Emplacement applicable
+## Où installer le marquage
 
-- Dessus ou côté du bouchon de la bouteille
-- Surface de l'étiquette
-- Emballage extérieur en carton
-- Capuchon thermorétractable, surboite, zone anti-contrefaçon
+- Après la fermeture pour marquer le bouchon ou la bouteille
+- Après l'étiquetage lorsque le code doit être porté par l'étiquette
+- Avant l'encaissage pour une identification à l'unité
+- Sur le convoyeur de cartons pour un marquage secondaire uniquement
 
-## Secteurs concernés
+Le convoyeur doit garantir un espacement stable, une fenêtre de marquage connue et une zone protégée conforme aux exigences de sécurité du site.
 
-- Huiles comestibles, huiles spéciales et huiles fonctionnelles
-- Vins, vins de fruits, liquides aromatisants, boissons
-- Projets de packaging nécessitant une traçabilité des lots et une gestion anti-contrefaçon des marques
+## Support et contenu à définir
 
-## Suggestions de sélection
+- Matière et couleur exactes de la bouteille, du bouchon, de l'étiquette ou du carton
+- Texte, date, logique de lot, logo, code-barres ou contenu QR
+- Zone, dimensions et orientation du marquage
+- Mouvement du convoyeur, capteur de déclenchement et codeur de vitesse
+- Contraste, lisibilité et échantillon approuvé
+- Source des données et limite de communication avec le système du client
+- Capotage, extraction des fumées et exigences locales de sécurité laser
 
-- Confirmez d'abord l'emplacement et le matériau du codage, qu'il s'agisse de plastique, de métal, d'étiquette ou de carton.
-- Reconfirmez la longueur du contenu du message, la taille du code QR et la vitesse de la ligne
-- Si les exigences d'apparence sont élevées, la priorité doit être donnée à la vérification de la liaison avec [série d'étiqueteuses] (/fr/solutions/labeling/)
-- Si le projet nécessite une connexion logistique automatique back-end, il peut continuer à être lié [emballage et palettisation] (/fr/solutions/packing-palletizing/)
+## Comparer les deux familles
 
-## Modèle de référence de référence
+| Machine | Validation prioritaire |
+| --- | --- |
+| [Marqueur laser à fibre](/fr/products/filling/fiber-laser-marking-machine) | Réaction du support, champ de marquage et synchronisation de ligne |
+| [Codeur laser CO2](/fr/products/filling/co2-laser-marking-machine) | Essai sur support non métallique, fenêtre de tir et extraction |
 
-La section de codage se concentre sur l’adaptabilité des matériaux, la puissance et la vitesse de marquage. Le nom du modèle peut entrer directement dans la page produit correspondante.
+Les spécifications publiées sont des références. Le devis doit indiquer la source, l'optique, les commandes, les protections et le résultat d'échantillon retenus.
 
-| Modèle | Extrait des paramètres publics | Instructions applicables |
-| --- | --- | --- |
-| [Machine de marquage laser à fibre 10W / 20W / 50W](/fr/solutions/labeling/) | 1064 nm ; vitesse linéaire maximale 8000 mm/s ; plage de marquage 110×110 mm ; fréquence 20-80 KHz | Convient aux marquages ​​de traçabilité fine sur métaux, capsules de bouteilles, étiquettes, etc. |
-| [CO2 Machine laser CX10 / CX30](/fr/solutions/packing-palletizing/) | 10W / 30W ; longueur d'onde 10,6 ou 10,2 µm ; vitesse maximale 7000 mm/s ; répéter le positionnement 0,003 mm | Convient pour coder les cartons, les étiquettes et certaines surfaces non métalliques |
+## Facteurs de prix
 
-## Accès direct à des modèles spécifiques
+- Source et configuration optique choisies après essai
+- Poste fixe ou intégration sur convoyeur en mouvement
+- Capteur, codeur, support réglable, enceinte et extraction
+- Logiciel de codes, échanges de données et droits opérateur
+- Nombre de formats et positions de marquage
+- Documentation, exigences à destination, livraison et mise en service
 
-- [Machine de marquage laser à fibre](/fr/solutions/laser-coding/fiber-laser-marking-machine)
-- [Machine laser CO2](/fr/solutions/laser-coding/co2-laser-marking-machine)
-- [Aperçu de la bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/solutions/laser-coding/fiber-laser-marking-machine)
+## Contenu de la demande de devis
 
-## Pages connexes
+Envoyez des emballages non marqués, les fichiers ou exemples de codes, la logique de données, le débit net, les dimensions du convoyeur, la position de marquage, l'environnement, les utilités, le plan et la destination. Précisez qui réalise l'essai et prend en charge le transport des échantillons.
 
-- [Série d'étiqueteuses](/fr/solutions/laser-coding/co2-laser-marking-machine)
-- [Emballage, palettisation](/fr/products/filling-equipment)
--[Série de machines thermorétractables pour capsules de gel](/fr/solutions/labeling/)
-- [Aperçu des solutions de support de remplissage](/fr/solutions/packing-palletizing/)
+## Réception, sécurité et assistance
+
+Le FAT utilise le support et le fichier approuvés. Le protocole fixe lisibilité, contraste, position, changement des données, fiabilité du déclenchement et essai à la vitesse convenue. Le capotage, l'extraction locale, les démarches réglementaires, l'installation, la formation, les pièces et l'assistance logicielle sont inclus seulement s'ils apparaissent au devis. Aucun résultat sur un support non testé ne doit être garanti.
+
+## Modules associés
+
+- [Étiquetage](/fr/solutions/labeling/)
+- [Contrôle visuel éclairé](/fr/solutions/light-inspection/)
+- [Encaissage et palettisation](/fr/solutions/packing-palletizing/)
+- [Vue d'ensemble remplissage et emballage](/fr/solutions/filling-packages)
+
+## Demander un prix de codeur laser
+
+Transmettez le support et le code attendu pour recevoir un plan d'essai, un périmètre d'intégration et un devis fabricant.
+
+- [Demander un devis de marquage laser](/fr/contact/)
+
+<!-- quote-cta -->

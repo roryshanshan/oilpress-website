@@ -1,26 +1,27 @@
 ---
-title: Machine combinée de rinçage, remplissage et bouchage du vin prix
-description: Demandez le prix et le devis pour Machine combinée de rinçage, remplissage et bouchage du vin. Fabricant Shengshi Hecheng, livraison et SAV.
-keywords: Machine combinée de rinçage, remplissage et bouchage du vin prix, acheter Machine combinée de rinçage, remplissage et bouchage du vin, devis usine, fabricant chinois, exportation, service après-vente
+title: "Monobloc vin 3-en-1 | Prix fabricant et devis"
+description: "Monobloc vin de rinçage, remplissage et bouchage, de 2 000 à 6 000 bouteilles/h pour verre. Comparez les formats, l'intégration, le prix, le devis et le SAV."
+keywords: "monobloc vin de rinçage, remplissage et bouchage prix, devis monobloc vin de rinçage, remplissage et bouchage, 2 000-6 000 bouteilles/h pour verre de diamètre 60-100 mm et hauteur 220-350 mm, intégration ligne de conditionnement, équipement export, service après-vente"
 image: "/images/filling-products/wine-rinsing-filling-corking-monoblock.webp"
 ---
-# Machine combinée de rinçage, remplissage et bouchage du vin
 
-![Machine combinée de rinçage, de remplissage et de bouchage du vin](/images/filling-products/wine-rinsing-filling-corking-monoblock.webp)
+# Monobloc de rinçage, remplissage et bouchage du vin
 
-La machine combinée de rinçage, de remplissage et de bouchage du vin peut être utilisée comme référence pour des modèles spécifiques de la série d'équipements œnologiques. Cette page organise le positionnement du modèle, les informations sur les paramètres et les suggestions de support basées sur les informations publiques sur le produit pour faciliter la sélection préliminaire et les sauts de page.
+![Monobloc de rinçage, remplissage et bouchage du vin](/images/filling-products/wine-rinsing-filling-corking-monoblock.webp)
 
-## Positionnement du modèle
+Ce monobloc coordonne le rinçage des bouteilles, le remplissage à faible vide et l'insertion du bouchon. Il limite les transferts intermédiaires, tandis que le rinçage, le goulot, le bouchon et le niveau de remplissage doivent être validés pour chaque projet.
 
-- Série : [Série d'équipements de brassage](/fr/solutions/brewing/)
-- Entrée d'aperçu des paramètres : [Bibliothèque de paramètres des équipements de remplissage et d'emballage](/fr/products/filling-equipment#brew-triple)
-- Scénarios applicables : convient à toute la gamme de vins et de vins de fruits.
+## Domaine d'application et critères d'achat
 
-## Résumé des informations publiques
+- Famille : [Équipements d'embouteillage du vin](/fr/solutions/brewing/)
+- Repère technique : [Paramètres publiés de Monobloc de rinçage, remplissage et bouchage du vin](/fr/products/filling-equipment#brew-triple)
+- Définir le fluide de rinçage, le temps de contact et l'évacuation.
+- Tester le remplissage à faible vide avec le vin ou un substitut approuvé et la bouteille prévue.
+- Adapter la compression et la profondeur du bouchon, puis prévoir capsule et étiquette en aval.
 
-Cette triple machine est principalement conçue pour le remplissage de vins et de vins de fruits. Cet équipement combine organiquement une rinceuse retournée, une machine de remplissage à pression négative et une boucheuse en une seule. L'équipement a une structure compacte et économise de l'espace d'installation.
+## Paramètres de référence publiés
 
-## Table des paramètres publics
+Le tableau ci-dessous est conservé comme repère de gamme. Les performances et la compatibilité finales doivent être confirmées dans l'offre technique et le protocole de réception.
 
 <table>
   <tbody>
@@ -83,14 +84,24 @@ Cette triple machine est principalement conçue pour le remplissage de vins et d
   </tbody>
 </table>
 
-## Suggestions complémentaires
+## Données nécessaires au devis fabricant
 
-- Regardez d'abord la page de la série : [Série d'équipements de brassage](/fr/solutions/brewing/)
-- Regardons à nouveau l'aperçu des paramètres : [L'emplacement de la machine combinée de rinçage, de remplissage et de bouchage du vin dans la bibliothèque de paramètres](/fr/products/filling-equipment#brew-triple)
-- S'il s'agit d'un projet de ligne complet, vous pouvez continuer à afficher [Vue d'ensemble du package de remplissage](/fr/solutions/filling-packages) et [Vue d'ensemble de la ligne de production](/fr/solutions/production-lines).
+- Produit, bouteilles et bouchons, niveau cible et formats.
+- Spécification de rinçage, évacuation ou récupération et nettoyage.
+- Cadence, implantation, utilités, arrivée des bouteilles et équipements aval.
+- Échantillons FAT, critères de remplissage et fermeture, emballage et services.
 
-## Pages connexes
+Lorsque cela est possible, la FAT doit utiliser des échantillons représentatifs. Le produit d'essai, la durée, l'échantillonnage et les limites d'acceptation sont à inscrire dans le cahier d'achat.
 
-- [Bibliothèque de paramètres d'équipement de remplissage et d'emballage](/fr/products/filling-equipment)
-- [Série d'équipements de brassage](/fr/solutions/brewing/)
-- [Contactez-nous pour des conseils complets en ligne](/fr/contact/)
+## Prix, livraison et périmètre SAV écrit
+
+Le prix fabricant dépend de la configuration validée, des pièces de format, de la commande, des protections, des interfaces de ligne, des utilités et de la destination. Délai, emballage export, installation, mise en service, formation, pièces de rechange et SAV ne sont inclus que dans la mesure indiquée dans l'offre écrite et le contrat.
+
+## Équipements associés et prochaine étape
+
+- [Équipements d'embouteillage du vin](/fr/solutions/brewing/)
+- [Paramètres publiés de Monobloc de rinçage, remplissage et bouchage du vin](/fr/products/filling-equipment#brew-triple)
+- [Vue d'ensemble des lignes de conditionnement](/fr/solutions/filling-packages)
+- [Planification des lignes de production](/fr/solutions/production-lines)
+- [Bibliothèque des paramètres de remplissage et d'emballage](/fr/products/filling-equipment)
+- [Demander un prix fabricant et un devis selon configuration](/fr/contact/)
