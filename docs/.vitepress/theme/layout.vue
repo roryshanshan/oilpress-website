@@ -179,6 +179,7 @@ const mobileMenuTrigger = ref(null)
 const mobileMenuClose = ref(null)
 const mobileMenuPanel = ref(null)
 let focusBeforeMobileMenu = null
+let speedInsights = null
 
 const currentLocale = computed(() => getLocaleFromPath(route.path))
 const t = computed(() => getLocaleCopy(currentLocale.value))
@@ -289,16 +290,21 @@ watch(showMobileMenu, async (open) => {
 watch(() => route.path, () => {
   showMobileMenu.value = false
   showLanguages.value = false
+  speedInsights?.setRoute(route.path)
 })
 
 onMounted(() => {
-  injectSpeedInsights()
+  speedInsights = injectSpeedInsights({
+    framework: 'vitepress',
+    route: route.path
+  })
   inject()
   document.addEventListener('click', closeTransientUi)
   document.addEventListener('keydown', handleKeydown)
 })
 
 onUnmounted(() => {
+  speedInsights = null
   document.documentElement.classList.remove('mobile-menu-open')
   document.removeEventListener('click', closeTransientUi)
   document.removeEventListener('keydown', handleKeydown)
