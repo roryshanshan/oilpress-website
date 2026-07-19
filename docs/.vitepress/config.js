@@ -6,9 +6,9 @@ const zhFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: '系列总览', link: '/zh/solutions/filling-packages' },
-      { text: '冲瓶、灌装、封口三联机', link: '/zh/solutions/filling-packages/cgf-three-in-one-monoblock' },
-      { text: 'GDP36DK-10-10 联体机', link: '/zh/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock' },
-      { text: '白酒灌装二联机', link: '/zh/solutions/filling-packages/baijiu-filling-capping-monoblock' }
+      { text: '冲瓶、灌装、封口三联机', link: '/zh/products/filling/cgf-three-in-one-monoblock' },
+      { text: 'GDP36DK-10-10 联体机', link: '/zh/products/filling/gdp36dk-filling-capping-sealing-monoblock' },
+      { text: '白酒灌装二联机', link: '/zh/products/filling/baijiu-filling-capping-monoblock' }
     ]
   },
   {
@@ -16,11 +16,11 @@ const zhFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: '系列页', link: '/zh/solutions/bottle-washing/' },
-      { text: '回转式冲瓶机', link: '/zh/solutions/bottle-washing/rotary-bottle-washer' },
-      { text: '六轮式冲瓶机', link: '/zh/solutions/bottle-washing/six-wheel-bottle-washer' },
-      { text: '链轨式冲瓶机', link: '/zh/solutions/bottle-washing/chain-bottle-washer' },
-      { text: '间歇式冲瓶机', link: '/zh/solutions/bottle-washing/intermittent-bottle-washer' },
-      { text: '翻转式冲瓶机', link: '/zh/solutions/bottle-washing/flip-bottle-washer' }
+      { text: '回转式冲瓶机', link: '/zh/products/filling/rotary-bottle-washer' },
+      { text: '六轮式冲瓶机', link: '/zh/products/filling/six-wheel-bottle-washer' },
+      { text: '链轨式冲瓶机', link: '/zh/products/filling/chain-bottle-washer' },
+      { text: '间歇式冲瓶机', link: '/zh/products/filling/intermittent-bottle-washer' },
+      { text: '翻转式冲瓶机', link: '/zh/products/filling/flip-bottle-washer' }
     ]
   },
   {
@@ -28,13 +28,13 @@ const zhFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: '系列页', link: '/zh/solutions/filling/' },
-      { text: '系列智能型灌装机', link: '/zh/solutions/filling/smart-filling-machine' },
-      { text: '高精度定量灌装机', link: '/zh/solutions/filling/high-precision-filling-machine' },
-      { text: '智能定量灌装机', link: '/zh/solutions/filling/intelligent-quantitative-filling-machine' },
-      { text: '回转式大桶灌装机', link: '/zh/solutions/filling/rotary-drum-filling-machine' },
-      { text: '直线式灌装机', link: '/zh/solutions/filling/linear-filling-machine' },
-      { text: '农药灌装机', link: '/zh/solutions/filling/pesticide-filling-machine' },
-      { text: '耐酸碱腐蚀灌装机', link: '/zh/solutions/filling/corrosion-resistant-filling-machine' }
+      { text: '系列智能型灌装机', link: '/zh/products/filling/smart-filling-machine' },
+      { text: '高精度定量灌装机', link: '/zh/products/filling/high-precision-filling-machine' },
+      { text: '智能定量灌装机', link: '/zh/products/filling/intelligent-quantitative-filling-machine' },
+      { text: '回转式大桶灌装机', link: '/zh/products/filling/rotary-drum-filling-machine' },
+      { text: '直线式灌装机', link: '/zh/products/filling/linear-filling-machine' },
+      { text: '农药灌装机', link: '/zh/products/filling/pesticide-filling-machine' },
+      { text: '耐酸碱腐蚀灌装机', link: '/zh/products/filling/corrosion-resistant-filling-machine' }
     ]
   },
   {
@@ -42,7 +42,7 @@ const zhFillingSeriesSidebarItems = [
       collapsed: true,
       items: [
         { text: '系列页', link: '/zh/solutions/light-inspection/' },
-      { text: '灯检机', link: '/zh/solutions/light-inspection/light-inspection-machine' }
+      { text: '灯检机', link: '/zh/products/filling/light-inspection-machine' }
       ]
   },
   {
@@ -50,11 +50,11 @@ const zhFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: '系列页', link: '/zh/solutions/sealing/' },
-      { text: '塑防压盖机', link: '/zh/solutions/sealing/plastic-cap-pressing-machine' },
-      { text: '全自动气动压盖机', link: '/zh/solutions/sealing/pneumatic-capping-machine' },
-      { text: '全自动防盗盖封口机', link: '/zh/solutions/sealing/anti-theft-cap-sealing-machine' },
-      { text: '自动单头封口机', link: '/zh/solutions/sealing/single-head-sealing-machine' },
-      { text: '铝盖封口机', link: '/zh/solutions/sealing/aluminum-cap-sealing-machine' }
+      { text: '塑防压盖机', link: '/zh/products/filling/plastic-cap-pressing-machine' },
+      { text: '全自动气动压盖机', link: '/zh/products/filling/pneumatic-capping-machine' },
+      { text: '全自动防盗盖封口机', link: '/zh/products/filling/anti-theft-cap-sealing-machine' },
+      { text: '自动单头封口机', link: '/zh/products/filling/single-head-sealing-machine' },
+      { text: '铝盖封口机', link: '/zh/products/filling/aluminum-cap-sealing-machine' }
     ]
   },
   {
@@ -62,9 +62,9 @@ const zhFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: '系列页', link: '/zh/solutions/corking/' },
-      { text: '全自动打塞机', link: '/zh/solutions/corking/automatic-corking-machine' },
-      { text: '半自动打塞机', link: '/zh/solutions/corking/semi-automatic-corking-machine' },
-      { text: '手动打塞机', link: '/zh/solutions/corking/manual-corking-machine' }
+      { text: '全自动打塞机', link: '/zh/products/filling/automatic-corking-machine' },
+      { text: '半自动打塞机', link: '/zh/products/filling/semi-automatic-corking-machine' },
+      { text: '手动打塞机', link: '/zh/products/filling/manual-corking-machine' }
     ]
   },
   {
@@ -72,9 +72,9 @@ const zhFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: '系列页', link: '/zh/solutions/cap-shrinking/' },
-      { text: '多头胶帽热缩机', link: '/zh/solutions/cap-shrinking/multi-head-cap-shrinking-machine' },
-      { text: '单头胶帽热缩机', link: '/zh/solutions/cap-shrinking/single-head-cap-shrinking-machine' },
-      { text: '碾帽/收缩两用机', link: '/zh/solutions/cap-shrinking/cap-rolling-shrinking-machine' }
+      { text: '多头胶帽热缩机', link: '/zh/products/filling/multi-head-cap-shrinking-machine' },
+      { text: '单头胶帽热缩机', link: '/zh/products/filling/single-head-cap-shrinking-machine' },
+      { text: '碾帽/收缩两用机', link: '/zh/products/filling/cap-rolling-shrinking-machine' }
     ]
   },
   {
@@ -82,8 +82,8 @@ const zhFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: '系列页', link: '/zh/solutions/drying/' },
-      { text: '涡轮增压风刀吹干机', link: '/zh/solutions/drying/turbo-air-knife-dryer' },
-      { text: '蜘蛛手节能吹干机', link: '/zh/solutions/drying/spider-arm-bottle-dryer' }
+      { text: '涡轮增压风刀吹干机', link: '/zh/products/filling/turbo-air-knife-dryer' },
+      { text: '蜘蛛手节能吹干机', link: '/zh/products/filling/spider-arm-bottle-dryer' }
     ]
   },
   {
@@ -91,9 +91,9 @@ const zhFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: '系列页', link: '/zh/solutions/labeling/' },
-      { text: '直线式双标签全自动贴标机', link: '/zh/solutions/labeling/double-label-automatic-labeling-machine' },
-      { text: 'DF-T200型半自动圆瓶贴标机', link: '/zh/solutions/labeling/df-t200-round-bottle-labeler' },
-      { text: '全自动不干胶贴标机', link: '/zh/solutions/labeling/self-adhesive-labeling-machine' }
+      { text: '直线式双标签全自动贴标机', link: '/zh/products/filling/double-label-automatic-labeling-machine' },
+      { text: 'DF-T200型半自动圆瓶贴标机', link: '/zh/products/filling/df-t200-round-bottle-labeler' },
+      { text: '全自动不干胶贴标机', link: '/zh/products/filling/self-adhesive-labeling-machine' }
     ]
   },
   {
@@ -101,8 +101,8 @@ const zhFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: '系列页', link: '/zh/solutions/laser-coding/' },
-      { text: '光纤激光打标机', link: '/zh/solutions/laser-coding/fiber-laser-marking-machine' },
-      { text: 'CO2激光机', link: '/zh/solutions/laser-coding/co2-laser-marking-machine' }
+      { text: '光纤激光打标机', link: '/zh/products/filling/fiber-laser-marking-machine' },
+      { text: 'CO2激光机', link: '/zh/products/filling/co2-laser-marking-machine' }
     ]
   },
   {
@@ -110,9 +110,9 @@ const zhFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: '系列页', link: '/zh/solutions/packing-palletizing/' },
-      { text: '自动开箱、纸箱成型、装箱机', link: '/zh/solutions/packing-palletizing/case-erector-packing-machine' },
-      { text: '自动折盖封箱机', link: '/zh/solutions/packing-palletizing/carton-sealing-machine' },
-      { text: '机器人码垛机', link: '/zh/solutions/packing-palletizing/robot-palletizer' }
+      { text: '自动开箱、纸箱成型、装箱机', link: '/zh/products/filling/case-erector-packing-machine' },
+      { text: '自动折盖封箱机', link: '/zh/products/filling/carton-sealing-machine' },
+      { text: '机器人码垛机', link: '/zh/products/filling/robot-palletizer' }
     ]
   },
   {
@@ -120,7 +120,7 @@ const zhFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: '系列页', link: '/zh/solutions/fruit-veg-processing/' },
-      { text: '提升机', link: '/zh/solutions/fruit-veg-processing/fruit-elevator' }
+      { text: '提升机', link: '/zh/products/filling/fruit-elevator' }
     ]
   },
   {
@@ -138,22 +138,22 @@ const zhFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: '系列页', link: '/zh/solutions/brewing/' },
-      { text: '葡萄酒冲瓶灌装打塞联体机', link: '/zh/solutions/brewing/wine-rinsing-filling-corking-monoblock' },
-      { text: '灌装、打塞两联机', link: '/zh/solutions/brewing/filling-corking-monoblock' },
+      { text: '葡萄酒冲瓶灌装打塞联体机', link: '/zh/products/filling/wine-rinsing-filling-corking-monoblock' },
+      { text: '灌装、打塞两联机', link: '/zh/products/filling/filling-corking-monoblock' },
       {
         text: '低真空灌装机',
         collapsed: true,
         items: [
-          { text: '系列页', link: '/zh/solutions/brewing/low-vacuum-filling-machine' },
-          { text: 'GFP-12A', link: '/zh/solutions/brewing/gfp-12a-low-vacuum-filling-machine' },
-          { text: 'GFP-12B', link: '/zh/solutions/brewing/gfp-12b-low-vacuum-filling-machine' },
-          { text: 'GFP-18A', link: '/zh/solutions/brewing/gfp-18a-low-vacuum-filling-machine' },
-          { text: 'GFP-24H', link: '/zh/solutions/brewing/gfp-24h-low-vacuum-filling-machine' },
-          { text: 'GFP-30H', link: '/zh/solutions/brewing/gfp-30h-low-vacuum-filling-machine' },
-          { text: 'GFP-36H', link: '/zh/solutions/brewing/gfp-36h-low-vacuum-filling-machine' },
-          { text: 'GFP-40H', link: '/zh/solutions/brewing/gfp-40h-low-vacuum-filling-machine' },
-          { text: 'GFP-48H', link: '/zh/solutions/brewing/gfp-48h-low-vacuum-filling-machine' },
-          { text: 'GFP-60H', link: '/zh/solutions/brewing/gfp-60h-low-vacuum-filling-machine' }
+          { text: '系列页', link: '/zh/products/filling/low-vacuum-filling-machine' },
+          { text: 'GFP-12A', link: '/zh/products/filling/gfp-12a-low-vacuum-filling-machine' },
+          { text: 'GFP-12B', link: '/zh/products/filling/gfp-12b-low-vacuum-filling-machine' },
+          { text: 'GFP-18A', link: '/zh/products/filling/gfp-18a-low-vacuum-filling-machine' },
+          { text: 'GFP-24H', link: '/zh/products/filling/gfp-24h-low-vacuum-filling-machine' },
+          { text: 'GFP-30H', link: '/zh/products/filling/gfp-30h-low-vacuum-filling-machine' },
+          { text: 'GFP-36H', link: '/zh/products/filling/gfp-36h-low-vacuum-filling-machine' },
+          { text: 'GFP-40H', link: '/zh/products/filling/gfp-40h-low-vacuum-filling-machine' },
+          { text: 'GFP-48H', link: '/zh/products/filling/gfp-48h-low-vacuum-filling-machine' },
+          { text: 'GFP-60H', link: '/zh/products/filling/gfp-60h-low-vacuum-filling-machine' }
         ]
       }
     ]
@@ -163,7 +163,7 @@ const zhFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: '系列页', link: '/zh/solutions/dairy-processing/' },
-      { text: '罐式巴氏杀菌加工流水线', link: '/zh/solutions/dairy-processing/pasteurization-processing-line' }
+      { text: '罐式巴氏杀菌加工流水线', link: '/zh/products/filling/pasteurization-processing-line' }
     ]
   }
 ]
@@ -187,9 +187,9 @@ const enFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Series Overview', link: '/en/solutions/filling-packages' },
-      { text: 'CGF Three-in-One Monoblock', link: '/en/solutions/filling-packages/cgf-three-in-one-monoblock' },
-      { text: 'GDP36DK-10-10 Monoblock', link: '/en/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock' },
-      { text: 'Baijiu Filling & Capping Monoblock', link: '/en/solutions/filling-packages/baijiu-filling-capping-monoblock' }
+      { text: 'CGF Three-in-One Monoblock', link: '/en/products/filling/cgf-three-in-one-monoblock' },
+      { text: 'GDP36DK-10-10 Monoblock', link: '/en/products/filling/gdp36dk-filling-capping-sealing-monoblock' },
+      { text: 'Baijiu Filling & Capping Monoblock', link: '/en/products/filling/baijiu-filling-capping-monoblock' }
     ]
   },
   {
@@ -197,11 +197,11 @@ const enFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Series Overview', link: '/en/solutions/bottle-washing/' },
-      { text: 'Rotary Bottle Washer', link: '/en/solutions/bottle-washing/rotary-bottle-washer' },
-      { text: 'Six Wheel Bottle Washer', link: '/en/solutions/bottle-washing/six-wheel-bottle-washer' },
-      { text: 'Chain Bottle Washer', link: '/en/solutions/bottle-washing/chain-bottle-washer' },
-      { text: 'Intermittent Bottle Washer', link: '/en/solutions/bottle-washing/intermittent-bottle-washer' },
-      { text: 'Flip Bottle Washer', link: '/en/solutions/bottle-washing/flip-bottle-washer' }
+      { text: 'Rotary Bottle Washer', link: '/en/products/filling/rotary-bottle-washer' },
+      { text: 'Six Wheel Bottle Washer', link: '/en/products/filling/six-wheel-bottle-washer' },
+      { text: 'Chain Bottle Washer', link: '/en/products/filling/chain-bottle-washer' },
+      { text: 'Intermittent Bottle Washer', link: '/en/products/filling/intermittent-bottle-washer' },
+      { text: 'Flip Bottle Washer', link: '/en/products/filling/flip-bottle-washer' }
     ]
   },
   {
@@ -209,13 +209,13 @@ const enFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Series Overview', link: '/en/solutions/filling/' },
-      { text: 'Smart Filling Machine', link: '/en/solutions/filling/smart-filling-machine' },
-      { text: 'High Precision Filling Machine', link: '/en/solutions/filling/high-precision-filling-machine' },
-      { text: 'Intelligent Quantitative Filling Machine', link: '/en/solutions/filling/intelligent-quantitative-filling-machine' },
-      { text: 'Rotary Drum Filling Machine', link: '/en/solutions/filling/rotary-drum-filling-machine' },
-      { text: 'Linear Filling Machine', link: '/en/solutions/filling/linear-filling-machine' },
-      { text: 'Pesticide Filling Machine', link: '/en/solutions/filling/pesticide-filling-machine' },
-      { text: 'Corrosion Resistant Filling Machine', link: '/en/solutions/filling/corrosion-resistant-filling-machine' }
+      { text: 'Smart Filling Machine', link: '/en/products/filling/smart-filling-machine' },
+      { text: 'High Precision Filling Machine', link: '/en/products/filling/high-precision-filling-machine' },
+      { text: 'Intelligent Quantitative Filling Machine', link: '/en/products/filling/intelligent-quantitative-filling-machine' },
+      { text: 'Rotary Drum Filling Machine', link: '/en/products/filling/rotary-drum-filling-machine' },
+      { text: 'Linear Filling Machine', link: '/en/products/filling/linear-filling-machine' },
+      { text: 'Pesticide Filling Machine', link: '/en/products/filling/pesticide-filling-machine' },
+      { text: 'Corrosion Resistant Filling Machine', link: '/en/products/filling/corrosion-resistant-filling-machine' }
     ]
   },
   {
@@ -223,7 +223,7 @@ const enFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Series Overview', link: '/en/solutions/light-inspection/' },
-      { text: 'Light Inspection Machine', link: '/en/solutions/light-inspection/light-inspection-machine' }
+      { text: 'Light Inspection Machine', link: '/en/products/filling/light-inspection-machine' }
     ]
   },
   {
@@ -231,11 +231,11 @@ const enFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Series Overview', link: '/en/solutions/sealing/' },
-      { text: 'Plastic Cap Pressing Machine', link: '/en/solutions/sealing/plastic-cap-pressing-machine' },
-      { text: 'Pneumatic Capping Machine', link: '/en/solutions/sealing/pneumatic-capping-machine' },
-      { text: 'Anti-theft Cap Sealing Machine', link: '/en/solutions/sealing/anti-theft-cap-sealing-machine' },
-      { text: 'Single Head Sealing Machine', link: '/en/solutions/sealing/single-head-sealing-machine' },
-      { text: 'Aluminum Cap Sealing Machine', link: '/en/solutions/sealing/aluminum-cap-sealing-machine' }
+      { text: 'Plastic Cap Pressing Machine', link: '/en/products/filling/plastic-cap-pressing-machine' },
+      { text: 'Pneumatic Capping Machine', link: '/en/products/filling/pneumatic-capping-machine' },
+      { text: 'Anti-theft Cap Sealing Machine', link: '/en/products/filling/anti-theft-cap-sealing-machine' },
+      { text: 'Single Head Sealing Machine', link: '/en/products/filling/single-head-sealing-machine' },
+      { text: 'Aluminum Cap Sealing Machine', link: '/en/products/filling/aluminum-cap-sealing-machine' }
     ]
   },
   {
@@ -243,9 +243,9 @@ const enFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Series Overview', link: '/en/solutions/corking/' },
-      { text: 'Automatic Corking Machine', link: '/en/solutions/corking/automatic-corking-machine' },
-      { text: 'Semi-automatic Corking Machine', link: '/en/solutions/corking/semi-automatic-corking-machine' },
-      { text: 'Manual Corking Machine', link: '/en/solutions/corking/manual-corking-machine' }
+      { text: 'Automatic Corking Machine', link: '/en/products/filling/automatic-corking-machine' },
+      { text: 'Semi-automatic Corking Machine', link: '/en/products/filling/semi-automatic-corking-machine' },
+      { text: 'Manual Corking Machine', link: '/en/products/filling/manual-corking-machine' }
     ]
   },
   {
@@ -253,9 +253,9 @@ const enFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Series Overview', link: '/en/solutions/cap-shrinking/' },
-      { text: 'Multi-head Cap Shrinking Machine', link: '/en/solutions/cap-shrinking/multi-head-cap-shrinking-machine' },
-      { text: 'Single-head Cap Shrinking Machine', link: '/en/solutions/cap-shrinking/single-head-cap-shrinking-machine' },
-      { text: 'Cap Rolling Shrinking Machine', link: '/en/solutions/cap-shrinking/cap-rolling-shrinking-machine' }
+      { text: 'Multi-head Cap Shrinking Machine', link: '/en/products/filling/multi-head-cap-shrinking-machine' },
+      { text: 'Single-head Cap Shrinking Machine', link: '/en/products/filling/single-head-cap-shrinking-machine' },
+      { text: 'Cap Rolling Shrinking Machine', link: '/en/products/filling/cap-rolling-shrinking-machine' }
     ]
   },
   {
@@ -263,8 +263,8 @@ const enFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Series Overview', link: '/en/solutions/drying/' },
-      { text: 'Turbo Air Knife Dryer', link: '/en/solutions/drying/turbo-air-knife-dryer' },
-      { text: 'Spider Arm Bottle Dryer', link: '/en/solutions/drying/spider-arm-bottle-dryer' }
+      { text: 'Turbo Air Knife Dryer', link: '/en/products/filling/turbo-air-knife-dryer' },
+      { text: 'Spider Arm Bottle Dryer', link: '/en/products/filling/spider-arm-bottle-dryer' }
     ]
   },
   {
@@ -272,9 +272,9 @@ const enFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Series Overview', link: '/en/solutions/labeling/' },
-      { text: 'Double Label Automatic Labeling Machine', link: '/en/solutions/labeling/double-label-automatic-labeling-machine' },
-      { text: 'DF-T200 Round Bottle Labeler', link: '/en/solutions/labeling/df-t200-round-bottle-labeler' },
-      { text: 'Self-adhesive Labeling Machine', link: '/en/solutions/labeling/self-adhesive-labeling-machine' }
+      { text: 'Double Label Automatic Labeling Machine', link: '/en/products/filling/double-label-automatic-labeling-machine' },
+      { text: 'DF-T200 Round Bottle Labeler', link: '/en/products/filling/df-t200-round-bottle-labeler' },
+      { text: 'Self-adhesive Labeling Machine', link: '/en/products/filling/self-adhesive-labeling-machine' }
     ]
   },
   {
@@ -282,8 +282,8 @@ const enFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Series Overview', link: '/en/solutions/laser-coding/' },
-      { text: 'Fiber Laser Marking Machine', link: '/en/solutions/laser-coding/fiber-laser-marking-machine' },
-      { text: 'CO2 Laser Marking Machine', link: '/en/solutions/laser-coding/co2-laser-marking-machine' }
+      { text: 'Fiber Laser Marking Machine', link: '/en/products/filling/fiber-laser-marking-machine' },
+      { text: 'CO2 Laser Marking Machine', link: '/en/products/filling/co2-laser-marking-machine' }
     ]
   },
   {
@@ -291,9 +291,9 @@ const enFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Series Overview', link: '/en/solutions/packing-palletizing/' },
-      { text: 'Case Erector Packing Machine', link: '/en/solutions/packing-palletizing/case-erector-packing-machine' },
-      { text: 'Carton Sealing Machine', link: '/en/solutions/packing-palletizing/carton-sealing-machine' },
-      { text: 'Robot Palletizer', link: '/en/solutions/packing-palletizing/robot-palletizer' }
+      { text: 'Case Erector Packing Machine', link: '/en/products/filling/case-erector-packing-machine' },
+      { text: 'Carton Sealing Machine', link: '/en/products/filling/carton-sealing-machine' },
+      { text: 'Robot Palletizer', link: '/en/products/filling/robot-palletizer' }
     ]
   },
   {
@@ -301,7 +301,7 @@ const enFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Series Overview', link: '/en/solutions/fruit-veg-processing/' },
-      { text: 'Fruit Elevator', link: '/en/solutions/fruit-veg-processing/fruit-elevator' }
+      { text: 'Fruit Elevator', link: '/en/products/filling/fruit-elevator' }
     ]
   },
   {
@@ -319,22 +319,22 @@ const enFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Series Overview', link: '/en/solutions/brewing/' },
-      { text: 'Wine Rinsing Filling Corking Monoblock', link: '/en/solutions/brewing/wine-rinsing-filling-corking-monoblock' },
-      { text: 'Filling & Corking Monoblock', link: '/en/solutions/brewing/filling-corking-monoblock' },
+      { text: 'Wine Rinsing Filling Corking Monoblock', link: '/en/products/filling/wine-rinsing-filling-corking-monoblock' },
+      { text: 'Filling & Corking Monoblock', link: '/en/products/filling/filling-corking-monoblock' },
       {
         text: 'Low Vacuum Filling Machine',
         collapsed: true,
         items: [
-          { text: 'Series Overview', link: '/en/solutions/brewing/low-vacuum-filling-machine' },
-          { text: 'GFP-12A', link: '/en/solutions/brewing/gfp-12a-low-vacuum-filling-machine' },
-          { text: 'GFP-12B', link: '/en/solutions/brewing/gfp-12b-low-vacuum-filling-machine' },
-          { text: 'GFP-18A', link: '/en/solutions/brewing/gfp-18a-low-vacuum-filling-machine' },
-          { text: 'GFP-24H', link: '/en/solutions/brewing/gfp-24h-low-vacuum-filling-machine' },
-          { text: 'GFP-30H', link: '/en/solutions/brewing/gfp-30h-low-vacuum-filling-machine' },
-          { text: 'GFP-36H', link: '/en/solutions/brewing/gfp-36h-low-vacuum-filling-machine' },
-          { text: 'GFP-40H', link: '/en/solutions/brewing/gfp-40h-low-vacuum-filling-machine' },
-          { text: 'GFP-48H', link: '/en/solutions/brewing/gfp-48h-low-vacuum-filling-machine' },
-          { text: 'GFP-60H', link: '/en/solutions/brewing/gfp-60h-low-vacuum-filling-machine' }
+          { text: 'Series Overview', link: '/en/products/filling/low-vacuum-filling-machine' },
+          { text: 'GFP-12A', link: '/en/products/filling/gfp-12a-low-vacuum-filling-machine' },
+          { text: 'GFP-12B', link: '/en/products/filling/gfp-12b-low-vacuum-filling-machine' },
+          { text: 'GFP-18A', link: '/en/products/filling/gfp-18a-low-vacuum-filling-machine' },
+          { text: 'GFP-24H', link: '/en/products/filling/gfp-24h-low-vacuum-filling-machine' },
+          { text: 'GFP-30H', link: '/en/products/filling/gfp-30h-low-vacuum-filling-machine' },
+          { text: 'GFP-36H', link: '/en/products/filling/gfp-36h-low-vacuum-filling-machine' },
+          { text: 'GFP-40H', link: '/en/products/filling/gfp-40h-low-vacuum-filling-machine' },
+          { text: 'GFP-48H', link: '/en/products/filling/gfp-48h-low-vacuum-filling-machine' },
+          { text: 'GFP-60H', link: '/en/products/filling/gfp-60h-low-vacuum-filling-machine' }
         ]
       }
     ]
@@ -344,7 +344,7 @@ const enFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Series Overview', link: '/en/solutions/dairy-processing/' },
-      { text: 'Pasteurization Processing Line', link: '/en/solutions/dairy-processing/pasteurization-processing-line' }
+      { text: 'Pasteurization Processing Line', link: '/en/products/filling/pasteurization-processing-line' }
     ]
   }
 ]
@@ -355,9 +355,9 @@ const ruFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Обзор серии', link: '/ru/solutions/filling-packages' },
-      { text: 'Моноблок CGF 3-в-1', link: '/ru/solutions/filling-packages/cgf-three-in-one-monoblock' },
-      { text: 'Моноблок GDP36DK-10-10', link: '/ru/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock' },
-      { text: 'Моноблок розлива и укупорки байцзю', link: '/ru/solutions/filling-packages/baijiu-filling-capping-monoblock' }
+      { text: 'Моноблок CGF 3-в-1', link: '/ru/products/filling/cgf-three-in-one-monoblock' },
+      { text: 'Моноблок GDP36DK-10-10', link: '/ru/products/filling/gdp36dk-filling-capping-sealing-monoblock' },
+      { text: 'Моноблок розлива и укупорки байцзю', link: '/ru/products/filling/baijiu-filling-capping-monoblock' }
     ]
   },
   {
@@ -365,11 +365,11 @@ const ruFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Обзор серии', link: '/ru/solutions/bottle-washing/' },
-      { text: 'Роторная моечная машина', link: '/ru/solutions/bottle-washing/rotary-bottle-washer' },
-      { text: 'Шестиколесная моечная машина', link: '/ru/solutions/bottle-washing/six-wheel-bottle-washer' },
-      { text: 'Цепная моечная машина', link: '/ru/solutions/bottle-washing/chain-bottle-washer' },
-      { text: 'Прерывистая моечная машина', link: '/ru/solutions/bottle-washing/intermittent-bottle-washer' },
-      { text: 'Переворотная моечная машина', link: '/ru/solutions/bottle-washing/flip-bottle-washer' }
+      { text: 'Роторная моечная машина', link: '/ru/products/filling/rotary-bottle-washer' },
+      { text: 'Шестиколесная моечная машина', link: '/ru/products/filling/six-wheel-bottle-washer' },
+      { text: 'Цепная моечная машина', link: '/ru/products/filling/chain-bottle-washer' },
+      { text: 'Прерывистая моечная машина', link: '/ru/products/filling/intermittent-bottle-washer' },
+      { text: 'Переворотная моечная машина', link: '/ru/products/filling/flip-bottle-washer' }
     ]
   },
   {
@@ -377,13 +377,13 @@ const ruFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Обзор серии', link: '/ru/solutions/filling/' },
-      { text: 'Интеллектуальная разливочная машина', link: '/ru/solutions/filling/smart-filling-machine' },
-      { text: 'Высокоточная разливочная машина', link: '/ru/solutions/filling/high-precision-filling-machine' },
-      { text: 'Интеллектуальная дозировочная машина', link: '/ru/solutions/filling/intelligent-quantitative-filling-machine' },
-      { text: 'Роторная бочковая разливочная машина', link: '/ru/solutions/filling/rotary-drum-filling-machine' },
-      { text: 'Линейная разливочная машина', link: '/ru/solutions/filling/linear-filling-machine' },
-      { text: 'Разливочная машина для пестицидов', link: '/ru/solutions/filling/pesticide-filling-machine' },
-      { text: 'Антикоррозионная разливочная машина', link: '/ru/solutions/filling/corrosion-resistant-filling-machine' }
+      { text: 'Интеллектуальная разливочная машина', link: '/ru/products/filling/smart-filling-machine' },
+      { text: 'Высокоточная разливочная машина', link: '/ru/products/filling/high-precision-filling-machine' },
+      { text: 'Интеллектуальная дозировочная машина', link: '/ru/products/filling/intelligent-quantitative-filling-machine' },
+      { text: 'Роторная бочковая разливочная машина', link: '/ru/products/filling/rotary-drum-filling-machine' },
+      { text: 'Линейная разливочная машина', link: '/ru/products/filling/linear-filling-machine' },
+      { text: 'Разливочная машина для пестицидов', link: '/ru/products/filling/pesticide-filling-machine' },
+      { text: 'Антикоррозионная разливочная машина', link: '/ru/products/filling/corrosion-resistant-filling-machine' }
     ]
   },
   {
@@ -391,7 +391,7 @@ const ruFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Обзор серии', link: '/ru/solutions/light-inspection/' },
-      { text: 'Машина световой инспекции', link: '/ru/solutions/light-inspection/light-inspection-machine' }
+      { text: 'Машина световой инспекции', link: '/ru/products/filling/light-inspection-machine' }
     ]
   },
   {
@@ -399,11 +399,11 @@ const ruFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Обзор серии', link: '/ru/solutions/sealing/' },
-      { text: 'Машина прессования пластиковых крышек', link: '/ru/solutions/sealing/plastic-cap-pressing-machine' },
-      { text: 'Пневматическая укупорочная машина', link: '/ru/solutions/sealing/pneumatic-capping-machine' },
-      { text: 'Укупорочная машина с защитой от вскрытия', link: '/ru/solutions/sealing/anti-theft-cap-sealing-machine' },
-      { text: 'Одноголовочная укупорочная машина', link: '/ru/solutions/sealing/single-head-sealing-machine' },
-      { text: 'Укупорочная машина для алюминиевых крышек', link: '/ru/solutions/sealing/aluminum-cap-sealing-machine' }
+      { text: 'Машина прессования пластиковых крышек', link: '/ru/products/filling/plastic-cap-pressing-machine' },
+      { text: 'Пневматическая укупорочная машина', link: '/ru/products/filling/pneumatic-capping-machine' },
+      { text: 'Укупорочная машина с защитой от вскрытия', link: '/ru/products/filling/anti-theft-cap-sealing-machine' },
+      { text: 'Одноголовочная укупорочная машина', link: '/ru/products/filling/single-head-sealing-machine' },
+      { text: 'Укупорочная машина для алюминиевых крышек', link: '/ru/products/filling/aluminum-cap-sealing-machine' }
     ]
   },
   {
@@ -411,9 +411,9 @@ const ruFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Обзор серии', link: '/ru/solutions/corking/' },
-      { text: 'Автоматическая машина для пробок', link: '/ru/solutions/corking/automatic-corking-machine' },
-      { text: 'Полуавтоматическая машина для пробок', link: '/ru/solutions/corking/semi-automatic-corking-machine' },
-      { text: 'Ручная машина для пробок', link: '/ru/solutions/corking/manual-corking-machine' }
+      { text: 'Автоматическая машина для пробок', link: '/ru/products/filling/automatic-corking-machine' },
+      { text: 'Полуавтоматическая машина для пробок', link: '/ru/products/filling/semi-automatic-corking-machine' },
+      { text: 'Ручная машина для пробок', link: '/ru/products/filling/manual-corking-machine' }
     ]
   },
   {
@@ -421,9 +421,9 @@ const ruFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Обзор серии', link: '/ru/solutions/cap-shrinking/' },
-      { text: 'Многоголовочная термоусадочная машина', link: '/ru/solutions/cap-shrinking/multi-head-cap-shrinking-machine' },
-      { text: 'Одноголовочная термоусадочная машина', link: '/ru/solutions/cap-shrinking/single-head-cap-shrinking-machine' },
-      { text: 'Машина закатки и усадки колпачков', link: '/ru/solutions/cap-shrinking/cap-rolling-shrinking-machine' }
+      { text: 'Многоголовочная термоусадочная машина', link: '/ru/products/filling/multi-head-cap-shrinking-machine' },
+      { text: 'Одноголовочная термоусадочная машина', link: '/ru/products/filling/single-head-cap-shrinking-machine' },
+      { text: 'Машина закатки и усадки колпачков', link: '/ru/products/filling/cap-rolling-shrinking-machine' }
     ]
   },
   {
@@ -431,8 +431,8 @@ const ruFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Обзор серии', link: '/ru/solutions/drying/' },
-      { text: 'Турбо-сушилка воздушными ножами', link: '/ru/solutions/drying/turbo-air-knife-dryer' },
-      { text: 'Сушилка бутылок с паукообразными рычагами', link: '/ru/solutions/drying/spider-arm-bottle-dryer' }
+      { text: 'Турбо-сушилка воздушными ножами', link: '/ru/products/filling/turbo-air-knife-dryer' },
+      { text: 'Сушилка бутылок с паукообразными рычагами', link: '/ru/products/filling/spider-arm-bottle-dryer' }
     ]
   },
   {
@@ -440,9 +440,9 @@ const ruFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Обзор серии', link: '/ru/solutions/labeling/' },
-      { text: 'Автоматическая двуэтикеточная машина', link: '/ru/solutions/labeling/double-label-automatic-labeling-machine' },
-      { text: 'Этикетировщик круглых бутылок DF-T200', link: '/ru/solutions/labeling/df-t200-round-bottle-labeler' },
-      { text: 'Машина самоклеящейся этикетки', link: '/ru/solutions/labeling/self-adhesive-labeling-machine' }
+      { text: 'Автоматическая двуэтикеточная машина', link: '/ru/products/filling/double-label-automatic-labeling-machine' },
+      { text: 'Этикетировщик круглых бутылок DF-T200', link: '/ru/products/filling/df-t200-round-bottle-labeler' },
+      { text: 'Машина самоклеящейся этикетки', link: '/ru/products/filling/self-adhesive-labeling-machine' }
     ]
   },
   {
@@ -450,8 +450,8 @@ const ruFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Обзор серии', link: '/ru/solutions/laser-coding/' },
-      { text: 'Волоконный лазерный маркиратор', link: '/ru/solutions/laser-coding/fiber-laser-marking-machine' },
-      { text: 'CO2 лазерный маркиратор', link: '/ru/solutions/laser-coding/co2-laser-marking-machine' }
+      { text: 'Волоконный лазерный маркиратор', link: '/ru/products/filling/fiber-laser-marking-machine' },
+      { text: 'CO2 лазерный маркиратор', link: '/ru/products/filling/co2-laser-marking-machine' }
     ]
   },
   {
@@ -459,9 +459,9 @@ const ruFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Обзор серии', link: '/ru/solutions/packing-palletizing/' },
-      { text: 'Машина формирования коробов', link: '/ru/solutions/packing-palletizing/case-erector-packing-machine' },
-      { text: 'Машина заклейки коробов', link: '/ru/solutions/packing-palletizing/carton-sealing-machine' },
-      { text: 'Робот-паллетайзер', link: '/ru/solutions/packing-palletizing/robot-palletizer' }
+      { text: 'Машина формирования коробов', link: '/ru/products/filling/case-erector-packing-machine' },
+      { text: 'Машина заклейки коробов', link: '/ru/products/filling/carton-sealing-machine' },
+      { text: 'Робот-паллетайзер', link: '/ru/products/filling/robot-palletizer' }
     ]
   },
   {
@@ -469,7 +469,7 @@ const ruFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Обзор серии', link: '/ru/solutions/fruit-veg-processing/' },
-      { text: 'Подъемник для фруктов', link: '/ru/solutions/fruit-veg-processing/fruit-elevator' }
+      { text: 'Подъемник для фруктов', link: '/ru/products/filling/fruit-elevator' }
     ]
   },
   {
@@ -487,22 +487,22 @@ const ruFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Обзор серии', link: '/ru/solutions/brewing/' },
-      { text: 'Винный моноблок ополаскивания, розлива и укупорки', link: '/ru/solutions/brewing/wine-rinsing-filling-corking-monoblock' },
-      { text: 'Моноблок розлива и укупорки', link: '/ru/solutions/brewing/filling-corking-monoblock' },
+      { text: 'Винный моноблок ополаскивания, розлива и укупорки', link: '/ru/products/filling/wine-rinsing-filling-corking-monoblock' },
+      { text: 'Моноблок розлива и укупорки', link: '/ru/products/filling/filling-corking-monoblock' },
       {
         text: 'Низковакуумная разливочная машина',
         collapsed: true,
         items: [
-          { text: 'Обзор серии', link: '/ru/solutions/brewing/low-vacuum-filling-machine' },
-          { text: 'GFP-12A', link: '/ru/solutions/brewing/gfp-12a-low-vacuum-filling-machine' },
-          { text: 'GFP-12B', link: '/ru/solutions/brewing/gfp-12b-low-vacuum-filling-machine' },
-          { text: 'GFP-18A', link: '/ru/solutions/brewing/gfp-18a-low-vacuum-filling-machine' },
-          { text: 'GFP-24H', link: '/ru/solutions/brewing/gfp-24h-low-vacuum-filling-machine' },
-          { text: 'GFP-30H', link: '/ru/solutions/brewing/gfp-30h-low-vacuum-filling-machine' },
-          { text: 'GFP-36H', link: '/ru/solutions/brewing/gfp-36h-low-vacuum-filling-machine' },
-          { text: 'GFP-40H', link: '/ru/solutions/brewing/gfp-40h-low-vacuum-filling-machine' },
-          { text: 'GFP-48H', link: '/ru/solutions/brewing/gfp-48h-low-vacuum-filling-machine' },
-          { text: 'GFP-60H', link: '/ru/solutions/brewing/gfp-60h-low-vacuum-filling-machine' }
+          { text: 'Обзор серии', link: '/ru/products/filling/low-vacuum-filling-machine' },
+          { text: 'GFP-12A', link: '/ru/products/filling/gfp-12a-low-vacuum-filling-machine' },
+          { text: 'GFP-12B', link: '/ru/products/filling/gfp-12b-low-vacuum-filling-machine' },
+          { text: 'GFP-18A', link: '/ru/products/filling/gfp-18a-low-vacuum-filling-machine' },
+          { text: 'GFP-24H', link: '/ru/products/filling/gfp-24h-low-vacuum-filling-machine' },
+          { text: 'GFP-30H', link: '/ru/products/filling/gfp-30h-low-vacuum-filling-machine' },
+          { text: 'GFP-36H', link: '/ru/products/filling/gfp-36h-low-vacuum-filling-machine' },
+          { text: 'GFP-40H', link: '/ru/products/filling/gfp-40h-low-vacuum-filling-machine' },
+          { text: 'GFP-48H', link: '/ru/products/filling/gfp-48h-low-vacuum-filling-machine' },
+          { text: 'GFP-60H', link: '/ru/products/filling/gfp-60h-low-vacuum-filling-machine' }
         ]
       }
     ]
@@ -512,7 +512,7 @@ const ruFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Обзор серии', link: '/ru/solutions/dairy-processing/' },
-      { text: 'Линия пастеризации', link: '/ru/solutions/dairy-processing/pasteurization-processing-line' }
+      { text: 'Линия пастеризации', link: '/ru/products/filling/pasteurization-processing-line' }
     ]
   }
 ]
@@ -523,9 +523,9 @@ const frFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Aperçu de la série', link: '/fr/solutions/filling-packages' },
-      { text: 'Monobloc CGF 3-en-1', link: '/fr/solutions/filling-packages/cgf-three-in-one-monoblock' },
-      { text: 'Monobloc GDP36DK-10-10', link: '/fr/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock' },
-      { text: 'Monobloc remplissage & capsulage Baijiu', link: '/fr/solutions/filling-packages/baijiu-filling-capping-monoblock' }
+      { text: 'Monobloc CGF 3-en-1', link: '/fr/products/filling/cgf-three-in-one-monoblock' },
+      { text: 'Monobloc GDP36DK-10-10', link: '/fr/products/filling/gdp36dk-filling-capping-sealing-monoblock' },
+      { text: 'Monobloc remplissage & capsulage Baijiu', link: '/fr/products/filling/baijiu-filling-capping-monoblock' }
     ]
   },
   {
@@ -533,11 +533,11 @@ const frFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Aperçu de la série', link: '/fr/solutions/bottle-washing/' },
-      { text: 'Laveuse rotative', link: '/fr/solutions/bottle-washing/rotary-bottle-washer' },
-      { text: 'Laveuse à six roues', link: '/fr/solutions/bottle-washing/six-wheel-bottle-washer' },
-      { text: 'Laveuse à chaîne', link: '/fr/solutions/bottle-washing/chain-bottle-washer' },
-      { text: 'Laveuse intermittente', link: '/fr/solutions/bottle-washing/intermittent-bottle-washer' },
-      { text: 'Laveuse basculante', link: '/fr/solutions/bottle-washing/flip-bottle-washer' }
+      { text: 'Laveuse rotative', link: '/fr/products/filling/rotary-bottle-washer' },
+      { text: 'Laveuse à six roues', link: '/fr/products/filling/six-wheel-bottle-washer' },
+      { text: 'Laveuse à chaîne', link: '/fr/products/filling/chain-bottle-washer' },
+      { text: 'Laveuse intermittente', link: '/fr/products/filling/intermittent-bottle-washer' },
+      { text: 'Laveuse basculante', link: '/fr/products/filling/flip-bottle-washer' }
     ]
   },
   {
@@ -545,13 +545,13 @@ const frFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Aperçu de la série', link: '/fr/solutions/filling/' },
-      { text: 'Machine de remplissage intelligente', link: '/fr/solutions/filling/smart-filling-machine' },
-      { text: 'Machine de remplissage haute précision', link: '/fr/solutions/filling/high-precision-filling-machine' },
-      { text: 'Machine de dosage intelligente', link: '/fr/solutions/filling/intelligent-quantitative-filling-machine' },
-      { text: 'Machine de remplissage à tambour rotatif', link: '/fr/solutions/filling/rotary-drum-filling-machine' },
-      { text: 'Machine de remplissage linéaire', link: '/fr/solutions/filling/linear-filling-machine' },
-      { text: 'Machine de remplissage pour pesticides', link: '/fr/solutions/filling/pesticide-filling-machine' },
-      { text: 'Machine de remplissage anticorrosion', link: '/fr/solutions/filling/corrosion-resistant-filling-machine' }
+      { text: 'Machine de remplissage intelligente', link: '/fr/products/filling/smart-filling-machine' },
+      { text: 'Machine de remplissage haute précision', link: '/fr/products/filling/high-precision-filling-machine' },
+      { text: 'Machine de dosage intelligente', link: '/fr/products/filling/intelligent-quantitative-filling-machine' },
+      { text: 'Machine de remplissage à tambour rotatif', link: '/fr/products/filling/rotary-drum-filling-machine' },
+      { text: 'Machine de remplissage linéaire', link: '/fr/products/filling/linear-filling-machine' },
+      { text: 'Machine de remplissage pour pesticides', link: '/fr/products/filling/pesticide-filling-machine' },
+      { text: 'Machine de remplissage anticorrosion', link: '/fr/products/filling/corrosion-resistant-filling-machine' }
     ]
   },
   {
@@ -559,7 +559,7 @@ const frFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Aperçu de la série', link: '/fr/solutions/light-inspection/' },
-      { text: 'Machine d\'inspection lumineuse', link: '/fr/solutions/light-inspection/light-inspection-machine' }
+      { text: 'Machine d\'inspection lumineuse', link: '/fr/products/filling/light-inspection-machine' }
     ]
   },
   {
@@ -567,11 +567,11 @@ const frFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Aperçu de la série', link: '/fr/solutions/sealing/' },
-      { text: 'Machine de pressage de capsules plastiques', link: '/fr/solutions/sealing/plastic-cap-pressing-machine' },
-      { text: 'Machine de capsulage pneumatique', link: '/fr/solutions/sealing/pneumatic-capping-machine' },
-      { text: 'Machine de scellage anti-effraction', link: '/fr/solutions/sealing/anti-theft-cap-sealing-machine' },
-      { text: 'Machine de scellage à tête unique', link: '/fr/solutions/sealing/single-head-sealing-machine' },
-      { text: 'Machine de scellage pour capsules aluminium', link: '/fr/solutions/sealing/aluminum-cap-sealing-machine' }
+      { text: 'Machine de pressage de capsules plastiques', link: '/fr/products/filling/plastic-cap-pressing-machine' },
+      { text: 'Machine de capsulage pneumatique', link: '/fr/products/filling/pneumatic-capping-machine' },
+      { text: 'Machine de scellage anti-effraction', link: '/fr/products/filling/anti-theft-cap-sealing-machine' },
+      { text: 'Machine de scellage à tête unique', link: '/fr/products/filling/single-head-sealing-machine' },
+      { text: 'Machine de scellage pour capsules aluminium', link: '/fr/products/filling/aluminum-cap-sealing-machine' }
     ]
   },
   {
@@ -579,9 +579,9 @@ const frFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Aperçu de la série', link: '/fr/solutions/corking/' },
-      { text: 'Machine de bouchage automatique', link: '/fr/solutions/corking/automatic-corking-machine' },
-      { text: 'Machine de bouchage semi-automatique', link: '/fr/solutions/corking/semi-automatic-corking-machine' },
-      { text: 'Machine de bouchage manuelle', link: '/fr/solutions/corking/manual-corking-machine' }
+      { text: 'Machine de bouchage automatique', link: '/fr/products/filling/automatic-corking-machine' },
+      { text: 'Machine de bouchage semi-automatique', link: '/fr/products/filling/semi-automatic-corking-machine' },
+      { text: 'Machine de bouchage manuelle', link: '/fr/products/filling/manual-corking-machine' }
     ]
   },
   {
@@ -589,9 +589,9 @@ const frFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Aperçu de la série', link: '/fr/solutions/cap-shrinking/' },
-      { text: 'Machine de rétrécissement multi-têtes', link: '/fr/solutions/cap-shrinking/multi-head-cap-shrinking-machine' },
-      { text: 'Machine de rétrécissement à une tête', link: '/fr/solutions/cap-shrinking/single-head-cap-shrinking-machine' },
-      { text: 'Machine de roulage et rétrécissement des capsules', link: '/fr/solutions/cap-shrinking/cap-rolling-shrinking-machine' }
+      { text: 'Machine de rétrécissement multi-têtes', link: '/fr/products/filling/multi-head-cap-shrinking-machine' },
+      { text: 'Machine de rétrécissement à une tête', link: '/fr/products/filling/single-head-cap-shrinking-machine' },
+      { text: 'Machine de roulage et rétrécissement des capsules', link: '/fr/products/filling/cap-rolling-shrinking-machine' }
     ]
   },
   {
@@ -599,8 +599,8 @@ const frFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Aperçu de la série', link: '/fr/solutions/drying/' },
-      { text: 'Sécheur turbo à couteaux d\'air', link: '/fr/solutions/drying/turbo-air-knife-dryer' },
-      { text: 'Sécheur de bouteilles à bras araignée', link: '/fr/solutions/drying/spider-arm-bottle-dryer' }
+      { text: 'Sécheur turbo à couteaux d\'air', link: '/fr/products/filling/turbo-air-knife-dryer' },
+      { text: 'Sécheur de bouteilles à bras araignée', link: '/fr/products/filling/spider-arm-bottle-dryer' }
     ]
   },
   {
@@ -608,9 +608,9 @@ const frFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Aperçu de la série', link: '/fr/solutions/labeling/' },
-      { text: 'Étiqueteuse automatique double étiquette', link: '/fr/solutions/labeling/double-label-automatic-labeling-machine' },
-      { text: 'Étiqueteuse de bouteilles rondes DF-T200', link: '/fr/solutions/labeling/df-t200-round-bottle-labeler' },
-      { text: 'Étiqueteuse auto-adhésive', link: '/fr/solutions/labeling/self-adhesive-labeling-machine' }
+      { text: 'Étiqueteuse automatique double étiquette', link: '/fr/products/filling/double-label-automatic-labeling-machine' },
+      { text: 'Étiqueteuse de bouteilles rondes DF-T200', link: '/fr/products/filling/df-t200-round-bottle-labeler' },
+      { text: 'Étiqueteuse auto-adhésive', link: '/fr/products/filling/self-adhesive-labeling-machine' }
     ]
   },
   {
@@ -618,8 +618,8 @@ const frFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Aperçu de la série', link: '/fr/solutions/laser-coding/' },
-      { text: 'Marqueuse laser à fibre', link: '/fr/solutions/laser-coding/fiber-laser-marking-machine' },
-      { text: 'Marqueuse laser CO2', link: '/fr/solutions/laser-coding/co2-laser-marking-machine' }
+      { text: 'Marqueuse laser à fibre', link: '/fr/products/filling/fiber-laser-marking-machine' },
+      { text: 'Marqueuse laser CO2', link: '/fr/products/filling/co2-laser-marking-machine' }
     ]
   },
   {
@@ -627,9 +627,9 @@ const frFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Aperçu de la série', link: '/fr/solutions/packing-palletizing/' },
-      { text: 'Monteur de cartons', link: '/fr/solutions/packing-palletizing/case-erector-packing-machine' },
-      { text: 'Fermeuse de cartons', link: '/fr/solutions/packing-palletizing/carton-sealing-machine' },
-      { text: 'Palettiseur robotisé', link: '/fr/solutions/packing-palletizing/robot-palletizer' }
+      { text: 'Monteur de cartons', link: '/fr/products/filling/case-erector-packing-machine' },
+      { text: 'Fermeuse de cartons', link: '/fr/products/filling/carton-sealing-machine' },
+      { text: 'Palettiseur robotisé', link: '/fr/products/filling/robot-palletizer' }
     ]
   },
   {
@@ -637,7 +637,7 @@ const frFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Aperçu de la série', link: '/fr/solutions/fruit-veg-processing/' },
-      { text: 'Élévateur à fruits', link: '/fr/solutions/fruit-veg-processing/fruit-elevator' }
+      { text: 'Élévateur à fruits', link: '/fr/products/filling/fruit-elevator' }
     ]
   },
   {
@@ -655,22 +655,22 @@ const frFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Aperçu de la série', link: '/fr/solutions/brewing/' },
-      { text: 'Monobloc rinçage-remplissage-bouchage pour vin', link: '/fr/solutions/brewing/wine-rinsing-filling-corking-monoblock' },
-      { text: 'Monobloc remplissage & bouchage', link: '/fr/solutions/brewing/filling-corking-monoblock' },
+      { text: 'Monobloc rinçage-remplissage-bouchage pour vin', link: '/fr/products/filling/wine-rinsing-filling-corking-monoblock' },
+      { text: 'Monobloc remplissage & bouchage', link: '/fr/products/filling/filling-corking-monoblock' },
       {
         text: 'Machine de remplissage à basse dépression',
         collapsed: true,
         items: [
-          { text: 'Aperçu de la série', link: '/fr/solutions/brewing/low-vacuum-filling-machine' },
-          { text: 'GFP-12A', link: '/fr/solutions/brewing/gfp-12a-low-vacuum-filling-machine' },
-          { text: 'GFP-12B', link: '/fr/solutions/brewing/gfp-12b-low-vacuum-filling-machine' },
-          { text: 'GFP-18A', link: '/fr/solutions/brewing/gfp-18a-low-vacuum-filling-machine' },
-          { text: 'GFP-24H', link: '/fr/solutions/brewing/gfp-24h-low-vacuum-filling-machine' },
-          { text: 'GFP-30H', link: '/fr/solutions/brewing/gfp-30h-low-vacuum-filling-machine' },
-          { text: 'GFP-36H', link: '/fr/solutions/brewing/gfp-36h-low-vacuum-filling-machine' },
-          { text: 'GFP-40H', link: '/fr/solutions/brewing/gfp-40h-low-vacuum-filling-machine' },
-          { text: 'GFP-48H', link: '/fr/solutions/brewing/gfp-48h-low-vacuum-filling-machine' },
-          { text: 'GFP-60H', link: '/fr/solutions/brewing/gfp-60h-low-vacuum-filling-machine' }
+          { text: 'Aperçu de la série', link: '/fr/products/filling/low-vacuum-filling-machine' },
+          { text: 'GFP-12A', link: '/fr/products/filling/gfp-12a-low-vacuum-filling-machine' },
+          { text: 'GFP-12B', link: '/fr/products/filling/gfp-12b-low-vacuum-filling-machine' },
+          { text: 'GFP-18A', link: '/fr/products/filling/gfp-18a-low-vacuum-filling-machine' },
+          { text: 'GFP-24H', link: '/fr/products/filling/gfp-24h-low-vacuum-filling-machine' },
+          { text: 'GFP-30H', link: '/fr/products/filling/gfp-30h-low-vacuum-filling-machine' },
+          { text: 'GFP-36H', link: '/fr/products/filling/gfp-36h-low-vacuum-filling-machine' },
+          { text: 'GFP-40H', link: '/fr/products/filling/gfp-40h-low-vacuum-filling-machine' },
+          { text: 'GFP-48H', link: '/fr/products/filling/gfp-48h-low-vacuum-filling-machine' },
+          { text: 'GFP-60H', link: '/fr/products/filling/gfp-60h-low-vacuum-filling-machine' }
         ]
       }
     ]
@@ -680,7 +680,7 @@ const frFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Aperçu de la série', link: '/fr/solutions/dairy-processing/' },
-      { text: 'Ligne de pasteurisation', link: '/fr/solutions/dairy-processing/pasteurization-processing-line' }
+      { text: 'Ligne de pasteurisation', link: '/fr/products/filling/pasteurization-processing-line' }
     ]
   }
 ]
@@ -691,9 +691,9 @@ const viFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Tổng quan dòng', link: '/vi/solutions/filling-packages' },
-      { text: 'Monoblock CGF 3-in-1', link: '/vi/solutions/filling-packages/cgf-three-in-one-monoblock' },
-      { text: 'Monoblock GDP36DK-10-10', link: '/vi/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock' },
-      { text: 'Monoblock chiết rót & đóng nắp Baijiu', link: '/vi/solutions/filling-packages/baijiu-filling-capping-monoblock' }
+      { text: 'Monoblock CGF 3-in-1', link: '/vi/products/filling/cgf-three-in-one-monoblock' },
+      { text: 'Monoblock GDP36DK-10-10', link: '/vi/products/filling/gdp36dk-filling-capping-sealing-monoblock' },
+      { text: 'Monoblock chiết rót & đóng nắp Baijiu', link: '/vi/products/filling/baijiu-filling-capping-monoblock' }
     ]
   },
   {
@@ -701,11 +701,11 @@ const viFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Tổng quan dòng', link: '/vi/solutions/bottle-washing/' },
-      { text: 'Máy rửa chai dạng quay', link: '/vi/solutions/bottle-washing/rotary-bottle-washer' },
-      { text: 'Máy rửa chai 6 bánh', link: '/vi/solutions/bottle-washing/six-wheel-bottle-washer' },
-      { text: 'Máy rửa chai dạng xích', link: '/vi/solutions/bottle-washing/chain-bottle-washer' },
-      { text: 'Máy rửa chai gián đoạn', link: '/vi/solutions/bottle-washing/intermittent-bottle-washer' },
-      { text: 'Máy rửa chai lật', link: '/vi/solutions/bottle-washing/flip-bottle-washer' }
+      { text: 'Máy rửa chai dạng quay', link: '/vi/products/filling/rotary-bottle-washer' },
+      { text: 'Máy rửa chai 6 bánh', link: '/vi/products/filling/six-wheel-bottle-washer' },
+      { text: 'Máy rửa chai dạng xích', link: '/vi/products/filling/chain-bottle-washer' },
+      { text: 'Máy rửa chai gián đoạn', link: '/vi/products/filling/intermittent-bottle-washer' },
+      { text: 'Máy rửa chai lật', link: '/vi/products/filling/flip-bottle-washer' }
     ]
   },
   {
@@ -713,13 +713,13 @@ const viFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Tổng quan dòng', link: '/vi/solutions/filling/' },
-      { text: 'Máy chiết rót thông minh', link: '/vi/solutions/filling/smart-filling-machine' },
-      { text: 'Máy chiết rót độ chính xác cao', link: '/vi/solutions/filling/high-precision-filling-machine' },
-      { text: 'Máy định lượng thông minh', link: '/vi/solutions/filling/intelligent-quantitative-filling-machine' },
-      { text: 'Máy chiết rót trống quay', link: '/vi/solutions/filling/rotary-drum-filling-machine' },
-      { text: 'Máy chiết rót tuyến tính', link: '/vi/solutions/filling/linear-filling-machine' },
-      { text: 'Máy chiết rót thuốc bảo vệ thực vật', link: '/vi/solutions/filling/pesticide-filling-machine' },
-      { text: 'Máy chiết rót chống ăn mòn', link: '/vi/solutions/filling/corrosion-resistant-filling-machine' }
+      { text: 'Máy chiết rót thông minh', link: '/vi/products/filling/smart-filling-machine' },
+      { text: 'Máy chiết rót độ chính xác cao', link: '/vi/products/filling/high-precision-filling-machine' },
+      { text: 'Máy định lượng thông minh', link: '/vi/products/filling/intelligent-quantitative-filling-machine' },
+      { text: 'Máy chiết rót trống quay', link: '/vi/products/filling/rotary-drum-filling-machine' },
+      { text: 'Máy chiết rót tuyến tính', link: '/vi/products/filling/linear-filling-machine' },
+      { text: 'Máy chiết rót thuốc bảo vệ thực vật', link: '/vi/products/filling/pesticide-filling-machine' },
+      { text: 'Máy chiết rót chống ăn mòn', link: '/vi/products/filling/corrosion-resistant-filling-machine' }
     ]
   },
   {
@@ -727,7 +727,7 @@ const viFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Tổng quan dòng', link: '/vi/solutions/light-inspection/' },
-      { text: 'Máy kiểm tra ánh sáng', link: '/vi/solutions/light-inspection/light-inspection-machine' }
+      { text: 'Máy kiểm tra ánh sáng', link: '/vi/products/filling/light-inspection-machine' }
     ]
   },
   {
@@ -735,11 +735,11 @@ const viFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Tổng quan dòng', link: '/vi/solutions/sealing/' },
-      { text: 'Máy ép nắp nhựa', link: '/vi/solutions/sealing/plastic-cap-pressing-machine' },
-      { text: 'Máy đóng nắp khí nén', link: '/vi/solutions/sealing/pneumatic-capping-machine' },
-      { text: 'Máy siết nắp chống giả', link: '/vi/solutions/sealing/anti-theft-cap-sealing-machine' },
-      { text: 'Máy siết nắp một đầu', link: '/vi/solutions/sealing/single-head-sealing-machine' },
-      { text: 'Máy siết nắp nhôm', link: '/vi/solutions/sealing/aluminum-cap-sealing-machine' }
+      { text: 'Máy ép nắp nhựa', link: '/vi/products/filling/plastic-cap-pressing-machine' },
+      { text: 'Máy đóng nắp khí nén', link: '/vi/products/filling/pneumatic-capping-machine' },
+      { text: 'Máy siết nắp chống giả', link: '/vi/products/filling/anti-theft-cap-sealing-machine' },
+      { text: 'Máy siết nắp một đầu', link: '/vi/products/filling/single-head-sealing-machine' },
+      { text: 'Máy siết nắp nhôm', link: '/vi/products/filling/aluminum-cap-sealing-machine' }
     ]
   },
   {
@@ -747,9 +747,9 @@ const viFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Tổng quan dòng', link: '/vi/solutions/corking/' },
-      { text: 'Máy đóng nút bần tự động', link: '/vi/solutions/corking/automatic-corking-machine' },
-      { text: 'Máy đóng nút bần bán tự động', link: '/vi/solutions/corking/semi-automatic-corking-machine' },
-      { text: 'Máy đóng nút bần thủ công', link: '/vi/solutions/corking/manual-corking-machine' }
+      { text: 'Máy đóng nút bần tự động', link: '/vi/products/filling/automatic-corking-machine' },
+      { text: 'Máy đóng nút bần bán tự động', link: '/vi/products/filling/semi-automatic-corking-machine' },
+      { text: 'Máy đóng nút bần thủ công', link: '/vi/products/filling/manual-corking-machine' }
     ]
   },
   {
@@ -757,9 +757,9 @@ const viFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Tổng quan dòng', link: '/vi/solutions/cap-shrinking/' },
-      { text: 'Máy co màng nắp đa đầu', link: '/vi/solutions/cap-shrinking/multi-head-cap-shrinking-machine' },
-      { text: 'Máy co màng nắp một đầu', link: '/vi/solutions/cap-shrinking/single-head-cap-shrinking-machine' },
-      { text: 'Máy lăn nắp & co màng', link: '/vi/solutions/cap-shrinking/cap-rolling-shrinking-machine' }
+      { text: 'Máy co màng nắp đa đầu', link: '/vi/products/filling/multi-head-cap-shrinking-machine' },
+      { text: 'Máy co màng nắp một đầu', link: '/vi/products/filling/single-head-cap-shrinking-machine' },
+      { text: 'Máy lăn nắp & co màng', link: '/vi/products/filling/cap-rolling-shrinking-machine' }
     ]
   },
   {
@@ -767,8 +767,8 @@ const viFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Tổng quan dòng', link: '/vi/solutions/drying/' },
-      { text: 'Máy sấy dao gió turbo', link: '/vi/solutions/drying/turbo-air-knife-dryer' },
-      { text: 'Máy sấy chai tay nhện', link: '/vi/solutions/drying/spider-arm-bottle-dryer' }
+      { text: 'Máy sấy dao gió turbo', link: '/vi/products/filling/turbo-air-knife-dryer' },
+      { text: 'Máy sấy chai tay nhện', link: '/vi/products/filling/spider-arm-bottle-dryer' }
     ]
   },
   {
@@ -776,9 +776,9 @@ const viFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Tổng quan dòng', link: '/vi/solutions/labeling/' },
-      { text: 'Máy dán nhãn tự động 2 nhãn', link: '/vi/solutions/labeling/double-label-automatic-labeling-machine' },
-      { text: 'Máy dán nhãn chai tròn DF-T200', link: '/vi/solutions/labeling/df-t200-round-bottle-labeler' },
-      { text: 'Máy dán nhãn tự dính', link: '/vi/solutions/labeling/self-adhesive-labeling-machine' }
+      { text: 'Máy dán nhãn tự động 2 nhãn', link: '/vi/products/filling/double-label-automatic-labeling-machine' },
+      { text: 'Máy dán nhãn chai tròn DF-T200', link: '/vi/products/filling/df-t200-round-bottle-labeler' },
+      { text: 'Máy dán nhãn tự dính', link: '/vi/products/filling/self-adhesive-labeling-machine' }
     ]
   },
   {
@@ -786,8 +786,8 @@ const viFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Tổng quan dòng', link: '/vi/solutions/laser-coding/' },
-      { text: 'Máy khắc laser sợi quang', link: '/vi/solutions/laser-coding/fiber-laser-marking-machine' },
-      { text: 'Máy khắc laser CO2', link: '/vi/solutions/laser-coding/co2-laser-marking-machine' }
+      { text: 'Máy khắc laser sợi quang', link: '/vi/products/filling/fiber-laser-marking-machine' },
+      { text: 'Máy khắc laser CO2', link: '/vi/products/filling/co2-laser-marking-machine' }
     ]
   },
   {
@@ -795,9 +795,9 @@ const viFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Tổng quan dòng', link: '/vi/solutions/packing-palletizing/' },
-      { text: 'Máy dựng thùng carton', link: '/vi/solutions/packing-palletizing/case-erector-packing-machine' },
-      { text: 'Máy dán kín thùng carton', link: '/vi/solutions/packing-palletizing/carton-sealing-machine' },
-      { text: 'Robot xếp pallet', link: '/vi/solutions/packing-palletizing/robot-palletizer' }
+      { text: 'Máy dựng thùng carton', link: '/vi/products/filling/case-erector-packing-machine' },
+      { text: 'Máy dán kín thùng carton', link: '/vi/products/filling/carton-sealing-machine' },
+      { text: 'Robot xếp pallet', link: '/vi/products/filling/robot-palletizer' }
     ]
   },
   {
@@ -805,7 +805,7 @@ const viFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Tổng quan dòng', link: '/vi/solutions/fruit-veg-processing/' },
-      { text: 'Máy nâng trái cây', link: '/vi/solutions/fruit-veg-processing/fruit-elevator' }
+      { text: 'Máy nâng trái cây', link: '/vi/products/filling/fruit-elevator' }
     ]
   },
   {
@@ -823,22 +823,22 @@ const viFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Tổng quan dòng', link: '/vi/solutions/brewing/' },
-      { text: 'Monoblock rửa-chiết rót-đóng nút cho rượu vang', link: '/vi/solutions/brewing/wine-rinsing-filling-corking-monoblock' },
-      { text: 'Monoblock chiết rót & đóng nút', link: '/vi/solutions/brewing/filling-corking-monoblock' },
+      { text: 'Monoblock rửa-chiết rót-đóng nút cho rượu vang', link: '/vi/products/filling/wine-rinsing-filling-corking-monoblock' },
+      { text: 'Monoblock chiết rót & đóng nút', link: '/vi/products/filling/filling-corking-monoblock' },
       {
         text: 'Máy chiết rót chân không thấp',
         collapsed: true,
         items: [
-          { text: 'Tổng quan dòng', link: '/vi/solutions/brewing/low-vacuum-filling-machine' },
-          { text: 'GFP-12A', link: '/vi/solutions/brewing/gfp-12a-low-vacuum-filling-machine' },
-          { text: 'GFP-12B', link: '/vi/solutions/brewing/gfp-12b-low-vacuum-filling-machine' },
-          { text: 'GFP-18A', link: '/vi/solutions/brewing/gfp-18a-low-vacuum-filling-machine' },
-          { text: 'GFP-24H', link: '/vi/solutions/brewing/gfp-24h-low-vacuum-filling-machine' },
-          { text: 'GFP-30H', link: '/vi/solutions/brewing/gfp-30h-low-vacuum-filling-machine' },
-          { text: 'GFP-36H', link: '/vi/solutions/brewing/gfp-36h-low-vacuum-filling-machine' },
-          { text: 'GFP-40H', link: '/vi/solutions/brewing/gfp-40h-low-vacuum-filling-machine' },
-          { text: 'GFP-48H', link: '/vi/solutions/brewing/gfp-48h-low-vacuum-filling-machine' },
-          { text: 'GFP-60H', link: '/vi/solutions/brewing/gfp-60h-low-vacuum-filling-machine' }
+          { text: 'Tổng quan dòng', link: '/vi/products/filling/low-vacuum-filling-machine' },
+          { text: 'GFP-12A', link: '/vi/products/filling/gfp-12a-low-vacuum-filling-machine' },
+          { text: 'GFP-12B', link: '/vi/products/filling/gfp-12b-low-vacuum-filling-machine' },
+          { text: 'GFP-18A', link: '/vi/products/filling/gfp-18a-low-vacuum-filling-machine' },
+          { text: 'GFP-24H', link: '/vi/products/filling/gfp-24h-low-vacuum-filling-machine' },
+          { text: 'GFP-30H', link: '/vi/products/filling/gfp-30h-low-vacuum-filling-machine' },
+          { text: 'GFP-36H', link: '/vi/products/filling/gfp-36h-low-vacuum-filling-machine' },
+          { text: 'GFP-40H', link: '/vi/products/filling/gfp-40h-low-vacuum-filling-machine' },
+          { text: 'GFP-48H', link: '/vi/products/filling/gfp-48h-low-vacuum-filling-machine' },
+          { text: 'GFP-60H', link: '/vi/products/filling/gfp-60h-low-vacuum-filling-machine' }
         ]
       }
     ]
@@ -848,7 +848,7 @@ const viFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'Tổng quan dòng', link: '/vi/solutions/dairy-processing/' },
-      { text: 'Dây chuyền thanh trùng', link: '/vi/solutions/dairy-processing/pasteurization-processing-line' }
+      { text: 'Dây chuyền thanh trùng', link: '/vi/products/filling/pasteurization-processing-line' }
     ]
   }
 ]
@@ -859,9 +859,9 @@ const bnFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'সিরিজ ওভারভিউ', link: '/bn/solutions/filling-packages' },
-      { text: 'CGF ৩-ইন-১ মনোব্লক', link: '/bn/solutions/filling-packages/cgf-three-in-one-monoblock' },
-      { text: 'GDP36DK-10-10 মনোব্লক', link: '/bn/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock' },
-      { text: 'বাইজিউ ফিলিং ও ক্যাপিং মনোব্লক', link: '/bn/solutions/filling-packages/baijiu-filling-capping-monoblock' }
+      { text: 'CGF ৩-ইন-১ মনোব্লক', link: '/bn/products/filling/cgf-three-in-one-monoblock' },
+      { text: 'GDP36DK-10-10 মনোব্লক', link: '/bn/products/filling/gdp36dk-filling-capping-sealing-monoblock' },
+      { text: 'বাইজিউ ফিলিং ও ক্যাপিং মনোব্লক', link: '/bn/products/filling/baijiu-filling-capping-monoblock' }
     ]
   },
   {
@@ -869,11 +869,11 @@ const bnFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'সিরিজ ওভারভিউ', link: '/bn/solutions/bottle-washing/' },
-      { text: 'রোটারি বোতল ধোয়ার মেশিন', link: '/bn/solutions/bottle-washing/rotary-bottle-washer' },
-      { text: 'ছয় চাকা বোতল ধোয়ার মেশিন', link: '/bn/solutions/bottle-washing/six-wheel-bottle-washer' },
-      { text: 'চেইন বোতল ধোয়ার মেশিন', link: '/bn/solutions/bottle-washing/chain-bottle-washer' },
-      { text: 'ইন্টারমিটেন্ট বোতল ধোয়ার মেশিন', link: '/bn/solutions/bottle-washing/intermittent-bottle-washer' },
-      { text: 'ফ্লিপ বোতল ধোয়ার মেশিন', link: '/bn/solutions/bottle-washing/flip-bottle-washer' }
+      { text: 'রোটারি বোতল ধোয়ার মেশিন', link: '/bn/products/filling/rotary-bottle-washer' },
+      { text: 'ছয় চাকা বোতল ধোয়ার মেশিন', link: '/bn/products/filling/six-wheel-bottle-washer' },
+      { text: 'চেইন বোতল ধোয়ার মেশিন', link: '/bn/products/filling/chain-bottle-washer' },
+      { text: 'ইন্টারমিটেন্ট বোতল ধোয়ার মেশিন', link: '/bn/products/filling/intermittent-bottle-washer' },
+      { text: 'ফ্লিপ বোতল ধোয়ার মেশিন', link: '/bn/products/filling/flip-bottle-washer' }
     ]
   },
   {
@@ -881,13 +881,13 @@ const bnFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'সিরিজ ওভারভিউ', link: '/bn/solutions/filling/' },
-      { text: 'স্মার্ট ফিলিং মেশিন', link: '/bn/solutions/filling/smart-filling-machine' },
-      { text: 'হাই-প্রিসিশন ফিলিং মেশিন', link: '/bn/solutions/filling/high-precision-filling-machine' },
-      { text: 'ইন্টেলিজেন্ট কোয়ান্টিটেটিভ ফিলিং মেশিন', link: '/bn/solutions/filling/intelligent-quantitative-filling-machine' },
-      { text: 'রোটারি ড্রাম ফিলিং মেশিন', link: '/bn/solutions/filling/rotary-drum-filling-machine' },
-      { text: 'লিনিয়ার ফিলিং মেশিন', link: '/bn/solutions/filling/linear-filling-machine' },
-      { text: 'পেস্টিসাইড ফিলিং মেশিন', link: '/bn/solutions/filling/pesticide-filling-machine' },
-      { text: 'করোশন রেজিস্ট্যান্ট ফিলিং মেশিন', link: '/bn/solutions/filling/corrosion-resistant-filling-machine' }
+      { text: 'স্মার্ট ফিলিং মেশিন', link: '/bn/products/filling/smart-filling-machine' },
+      { text: 'হাই-প্রিসিশন ফিলিং মেশিন', link: '/bn/products/filling/high-precision-filling-machine' },
+      { text: 'ইন্টেলিজেন্ট কোয়ান্টিটেটিভ ফিলিং মেশিন', link: '/bn/products/filling/intelligent-quantitative-filling-machine' },
+      { text: 'রোটারি ড্রাম ফিলিং মেশিন', link: '/bn/products/filling/rotary-drum-filling-machine' },
+      { text: 'লিনিয়ার ফিলিং মেশিন', link: '/bn/products/filling/linear-filling-machine' },
+      { text: 'পেস্টিসাইড ফিলিং মেশিন', link: '/bn/products/filling/pesticide-filling-machine' },
+      { text: 'করোশন রেজিস্ট্যান্ট ফিলিং মেশিন', link: '/bn/products/filling/corrosion-resistant-filling-machine' }
     ]
   },
   {
@@ -895,7 +895,7 @@ const bnFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'সিরিজ ওভারভিউ', link: '/bn/solutions/light-inspection/' },
-      { text: 'লাইট ইন্সপেকশন মেশিন', link: '/bn/solutions/light-inspection/light-inspection-machine' }
+      { text: 'লাইট ইন্সপেকশন মেশিন', link: '/bn/products/filling/light-inspection-machine' }
     ]
   },
   {
@@ -903,11 +903,11 @@ const bnFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'সিরিজ ওভারভিউ', link: '/bn/solutions/sealing/' },
-      { text: 'প্লাস্টিক ক্যাপ প্রেসিং মেশিন', link: '/bn/solutions/sealing/plastic-cap-pressing-machine' },
-      { text: 'পনিউম্যাটিক ক্যাপিং মেশিন', link: '/bn/solutions/sealing/pneumatic-capping-machine' },
-      { text: 'অ্যান্টি-থেফট ক্যাপ সিলিং মেশিন', link: '/bn/solutions/sealing/anti-theft-cap-sealing-machine' },
-      { text: 'সিঙ্গেল হেড সিলিং মেশিন', link: '/bn/solutions/sealing/single-head-sealing-machine' },
-      { text: 'অ্যালুমিনিয়াম ক্যাপ সিলিং মেশিন', link: '/bn/solutions/sealing/aluminum-cap-sealing-machine' }
+      { text: 'প্লাস্টিক ক্যাপ প্রেসিং মেশিন', link: '/bn/products/filling/plastic-cap-pressing-machine' },
+      { text: 'পনিউম্যাটিক ক্যাপিং মেশিন', link: '/bn/products/filling/pneumatic-capping-machine' },
+      { text: 'অ্যান্টি-থেফট ক্যাপ সিলিং মেশিন', link: '/bn/products/filling/anti-theft-cap-sealing-machine' },
+      { text: 'সিঙ্গেল হেড সিলিং মেশিন', link: '/bn/products/filling/single-head-sealing-machine' },
+      { text: 'অ্যালুমিনিয়াম ক্যাপ সিলিং মেশিন', link: '/bn/products/filling/aluminum-cap-sealing-machine' }
     ]
   },
   {
@@ -915,9 +915,9 @@ const bnFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'সিরিজ ওভারভিউ', link: '/bn/solutions/corking/' },
-      { text: 'অটোম্যাটিক কর্কিং মেশিন', link: '/bn/solutions/corking/automatic-corking-machine' },
-      { text: 'সেমি-অটোম্যাটিক কর্কিং মেশিন', link: '/bn/solutions/corking/semi-automatic-corking-machine' },
-      { text: 'ম্যানুয়াল কর্কিং মেশিন', link: '/bn/solutions/corking/manual-corking-machine' }
+      { text: 'অটোম্যাটিক কর্কিং মেশিন', link: '/bn/products/filling/automatic-corking-machine' },
+      { text: 'সেমি-অটোম্যাটিক কর্কিং মেশিন', link: '/bn/products/filling/semi-automatic-corking-machine' },
+      { text: 'ম্যানুয়াল কর্কিং মেশিন', link: '/bn/products/filling/manual-corking-machine' }
     ]
   },
   {
@@ -925,9 +925,9 @@ const bnFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'সিরিজ ওভারভিউ', link: '/bn/solutions/cap-shrinking/' },
-      { text: 'মাল্টি-হেড ক্যাপ শ্রিংকিং মেশিন', link: '/bn/solutions/cap-shrinking/multi-head-cap-shrinking-machine' },
-      { text: 'সিঙ্গেল-হেড ক্যাপ শ্রিংকিং মেশিন', link: '/bn/solutions/cap-shrinking/single-head-cap-shrinking-machine' },
-      { text: 'ক্যাপ রোলিং শ্রিংকিং মেশিন', link: '/bn/solutions/cap-shrinking/cap-rolling-shrinking-machine' }
+      { text: 'মাল্টি-হেড ক্যাপ শ্রিংকিং মেশিন', link: '/bn/products/filling/multi-head-cap-shrinking-machine' },
+      { text: 'সিঙ্গেল-হেড ক্যাপ শ্রিংকিং মেশিন', link: '/bn/products/filling/single-head-cap-shrinking-machine' },
+      { text: 'ক্যাপ রোলিং শ্রিংকিং মেশিন', link: '/bn/products/filling/cap-rolling-shrinking-machine' }
     ]
   },
   {
@@ -935,8 +935,8 @@ const bnFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'সিরিজ ওভারভিউ', link: '/bn/solutions/drying/' },
-      { text: 'টার্বো এয়ার নাইফ ড্রায়ার', link: '/bn/solutions/drying/turbo-air-knife-dryer' },
-      { text: 'স্পাইডার আর্ম বোতল ড্রায়ার', link: '/bn/solutions/drying/spider-arm-bottle-dryer' }
+      { text: 'টার্বো এয়ার নাইফ ড্রায়ার', link: '/bn/products/filling/turbo-air-knife-dryer' },
+      { text: 'স্পাইডার আর্ম বোতল ড্রায়ার', link: '/bn/products/filling/spider-arm-bottle-dryer' }
     ]
   },
   {
@@ -944,9 +944,9 @@ const bnFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'সিরিজ ওভারভিউ', link: '/bn/solutions/labeling/' },
-      { text: 'ডাবল লেবেল অটোম্যাটিক লেবেলিং মেশিন', link: '/bn/solutions/labeling/double-label-automatic-labeling-machine' },
-      { text: 'DF-T200 রাউন্ড বোতল লেবেলার', link: '/bn/solutions/labeling/df-t200-round-bottle-labeler' },
-      { text: 'সেলফ-অ্যাডহেসিভ লেবেলিং মেশিন', link: '/bn/solutions/labeling/self-adhesive-labeling-machine' }
+      { text: 'ডাবল লেবেল অটোম্যাটিক লেবেলিং মেশিন', link: '/bn/products/filling/double-label-automatic-labeling-machine' },
+      { text: 'DF-T200 রাউন্ড বোতল লেবেলার', link: '/bn/products/filling/df-t200-round-bottle-labeler' },
+      { text: 'সেলফ-অ্যাডহেসিভ লেবেলিং মেশিন', link: '/bn/products/filling/self-adhesive-labeling-machine' }
     ]
   },
   {
@@ -954,8 +954,8 @@ const bnFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'সিরিজ ওভারভিউ', link: '/bn/solutions/laser-coding/' },
-      { text: 'ফাইবার লেজার মার্কিং মেশিন', link: '/bn/solutions/laser-coding/fiber-laser-marking-machine' },
-      { text: 'CO2 লেজার মার্কিং মেশিন', link: '/bn/solutions/laser-coding/co2-laser-marking-machine' }
+      { text: 'ফাইবার লেজার মার্কিং মেশিন', link: '/bn/products/filling/fiber-laser-marking-machine' },
+      { text: 'CO2 লেজার মার্কিং মেশিন', link: '/bn/products/filling/co2-laser-marking-machine' }
     ]
   },
   {
@@ -963,9 +963,9 @@ const bnFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'সিরিজ ওভারভিউ', link: '/bn/solutions/packing-palletizing/' },
-      { text: 'কার্টন ফর্মিং মেশিন', link: '/bn/solutions/packing-palletizing/case-erector-packing-machine' },
-      { text: 'কার্টন সিলিং মেশিন', link: '/bn/solutions/packing-palletizing/carton-sealing-machine' },
-      { text: 'রোবট প্যালেটাইজার', link: '/bn/solutions/packing-palletizing/robot-palletizer' }
+      { text: 'কার্টন ফর্মিং মেশিন', link: '/bn/products/filling/case-erector-packing-machine' },
+      { text: 'কার্টন সিলিং মেশিন', link: '/bn/products/filling/carton-sealing-machine' },
+      { text: 'রোবট প্যালেটাইজার', link: '/bn/products/filling/robot-palletizer' }
     ]
   },
   {
@@ -973,7 +973,7 @@ const bnFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'সিরিজ ওভারভিউ', link: '/bn/solutions/fruit-veg-processing/' },
-      { text: 'ফল উত্তোলক', link: '/bn/solutions/fruit-veg-processing/fruit-elevator' }
+      { text: 'ফল উত্তোলক', link: '/bn/products/filling/fruit-elevator' }
     ]
   },
   {
@@ -991,22 +991,22 @@ const bnFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'সিরিজ ওভারভিউ', link: '/bn/solutions/brewing/' },
-      { text: 'ওয়াইন রিন্সিং-ফিলিং-কর্কিং মনোব্লক', link: '/bn/solutions/brewing/wine-rinsing-filling-corking-monoblock' },
-      { text: 'ফিলিং ও কর্কিং মনোব্লক', link: '/bn/solutions/brewing/filling-corking-monoblock' },
+      { text: 'ওয়াইন রিন্সিং-ফিলিং-কর্কিং মনোব্লক', link: '/bn/products/filling/wine-rinsing-filling-corking-monoblock' },
+      { text: 'ফিলিং ও কর্কিং মনোব্লক', link: '/bn/products/filling/filling-corking-monoblock' },
       {
         text: 'লো ভ্যাকুয়াম ফিলিং মেশিন',
         collapsed: true,
         items: [
-          { text: 'সিরিজ ওভারভিউ', link: '/bn/solutions/brewing/low-vacuum-filling-machine' },
-          { text: 'GFP-12A', link: '/bn/solutions/brewing/gfp-12a-low-vacuum-filling-machine' },
-          { text: 'GFP-12B', link: '/bn/solutions/brewing/gfp-12b-low-vacuum-filling-machine' },
-          { text: 'GFP-18A', link: '/bn/solutions/brewing/gfp-18a-low-vacuum-filling-machine' },
-          { text: 'GFP-24H', link: '/bn/solutions/brewing/gfp-24h-low-vacuum-filling-machine' },
-          { text: 'GFP-30H', link: '/bn/solutions/brewing/gfp-30h-low-vacuum-filling-machine' },
-          { text: 'GFP-36H', link: '/bn/solutions/brewing/gfp-36h-low-vacuum-filling-machine' },
-          { text: 'GFP-40H', link: '/bn/solutions/brewing/gfp-40h-low-vacuum-filling-machine' },
-          { text: 'GFP-48H', link: '/bn/solutions/brewing/gfp-48h-low-vacuum-filling-machine' },
-          { text: 'GFP-60H', link: '/bn/solutions/brewing/gfp-60h-low-vacuum-filling-machine' }
+          { text: 'সিরিজ ওভারভিউ', link: '/bn/products/filling/low-vacuum-filling-machine' },
+          { text: 'GFP-12A', link: '/bn/products/filling/gfp-12a-low-vacuum-filling-machine' },
+          { text: 'GFP-12B', link: '/bn/products/filling/gfp-12b-low-vacuum-filling-machine' },
+          { text: 'GFP-18A', link: '/bn/products/filling/gfp-18a-low-vacuum-filling-machine' },
+          { text: 'GFP-24H', link: '/bn/products/filling/gfp-24h-low-vacuum-filling-machine' },
+          { text: 'GFP-30H', link: '/bn/products/filling/gfp-30h-low-vacuum-filling-machine' },
+          { text: 'GFP-36H', link: '/bn/products/filling/gfp-36h-low-vacuum-filling-machine' },
+          { text: 'GFP-40H', link: '/bn/products/filling/gfp-40h-low-vacuum-filling-machine' },
+          { text: 'GFP-48H', link: '/bn/products/filling/gfp-48h-low-vacuum-filling-machine' },
+          { text: 'GFP-60H', link: '/bn/products/filling/gfp-60h-low-vacuum-filling-machine' }
         ]
       }
     ]
@@ -1016,7 +1016,7 @@ const bnFillingSeriesSidebarItems = [
     collapsed: true,
     items: [
       { text: 'সিরিজ ওভারভিউ', link: '/bn/solutions/dairy-processing/' },
-      { text: 'পাস্তুরাইজেশন প্রসেসিং লাইন', link: '/bn/solutions/dairy-processing/pasteurization-processing-line' }
+      { text: 'পাস্তুরাইজেশন প্রসেসিং লাইন', link: '/bn/products/filling/pasteurization-processing-line' }
     ]
   }
 ]
@@ -1625,66 +1625,66 @@ const COLLECTION_ROUTES = {
       '/solutions/buckwheat'
     ],
     'filling-packages': [
-      '/solutions/filling-packages/cgf-three-in-one-monoblock',
-      '/solutions/filling-packages/gdp36dk-filling-capping-sealing-monoblock',
-      '/solutions/filling-packages/baijiu-filling-capping-monoblock'
+      '/products/filling/cgf-three-in-one-monoblock',
+      '/products/filling/gdp36dk-filling-capping-sealing-monoblock',
+      '/products/filling/baijiu-filling-capping-monoblock'
     ],
     'bottle-washing': [
-      '/solutions/bottle-washing/rotary-bottle-washer',
-      '/solutions/bottle-washing/six-wheel-bottle-washer',
-      '/solutions/bottle-washing/chain-bottle-washer',
-      '/solutions/bottle-washing/intermittent-bottle-washer',
-      '/solutions/bottle-washing/flip-bottle-washer'
+      '/products/filling/rotary-bottle-washer',
+      '/products/filling/six-wheel-bottle-washer',
+      '/products/filling/chain-bottle-washer',
+      '/products/filling/intermittent-bottle-washer',
+      '/products/filling/flip-bottle-washer'
     ],
     filling: [
-      '/solutions/filling/smart-filling-machine',
-      '/solutions/filling/high-precision-filling-machine',
-      '/solutions/filling/intelligent-quantitative-filling-machine',
-      '/solutions/filling/rotary-drum-filling-machine',
-      '/solutions/filling/linear-filling-machine',
-      '/solutions/filling/pesticide-filling-machine',
-      '/solutions/filling/corrosion-resistant-filling-machine'
+      '/products/filling/smart-filling-machine',
+      '/products/filling/high-precision-filling-machine',
+      '/products/filling/intelligent-quantitative-filling-machine',
+      '/products/filling/rotary-drum-filling-machine',
+      '/products/filling/linear-filling-machine',
+      '/products/filling/pesticide-filling-machine',
+      '/products/filling/corrosion-resistant-filling-machine'
     ],
     'light-inspection': [
-      '/solutions/light-inspection/light-inspection-machine'
+      '/products/filling/light-inspection-machine'
     ],
     sealing: [
-      '/solutions/sealing/aluminum-cap-sealing-machine',
-      '/solutions/sealing/anti-theft-cap-sealing-machine',
-      '/solutions/sealing/plastic-cap-pressing-machine',
-      '/solutions/sealing/pneumatic-capping-machine',
-      '/solutions/sealing/single-head-sealing-machine'
+      '/products/filling/aluminum-cap-sealing-machine',
+      '/products/filling/anti-theft-cap-sealing-machine',
+      '/products/filling/plastic-cap-pressing-machine',
+      '/products/filling/pneumatic-capping-machine',
+      '/products/filling/single-head-sealing-machine'
     ],
     corking: [
-      '/solutions/corking/automatic-corking-machine',
-      '/solutions/corking/semi-automatic-corking-machine',
-      '/solutions/corking/manual-corking-machine'
+      '/products/filling/automatic-corking-machine',
+      '/products/filling/semi-automatic-corking-machine',
+      '/products/filling/manual-corking-machine'
     ],
     'cap-shrinking': [
-      '/solutions/cap-shrinking/cap-rolling-shrinking-machine',
-      '/solutions/cap-shrinking/multi-head-cap-shrinking-machine',
-      '/solutions/cap-shrinking/single-head-cap-shrinking-machine'
+      '/products/filling/cap-rolling-shrinking-machine',
+      '/products/filling/multi-head-cap-shrinking-machine',
+      '/products/filling/single-head-cap-shrinking-machine'
     ],
     drying: [
-      '/solutions/drying/spider-arm-bottle-dryer',
-      '/solutions/drying/turbo-air-knife-dryer'
+      '/products/filling/spider-arm-bottle-dryer',
+      '/products/filling/turbo-air-knife-dryer'
     ],
     labeling: [
-      '/solutions/labeling/df-t200-round-bottle-labeler',
-      '/solutions/labeling/double-label-automatic-labeling-machine',
-      '/solutions/labeling/self-adhesive-labeling-machine'
+      '/products/filling/df-t200-round-bottle-labeler',
+      '/products/filling/double-label-automatic-labeling-machine',
+      '/products/filling/self-adhesive-labeling-machine'
     ],
     'laser-coding': [
-      '/solutions/laser-coding/co2-laser-marking-machine',
-      '/solutions/laser-coding/fiber-laser-marking-machine'
+      '/products/filling/co2-laser-marking-machine',
+      '/products/filling/fiber-laser-marking-machine'
     ],
     'packing-palletizing': [
-      '/solutions/packing-palletizing/carton-sealing-machine',
-      '/solutions/packing-palletizing/case-erector-packing-machine',
-      '/solutions/packing-palletizing/robot-palletizer'
+      '/products/filling/carton-sealing-machine',
+      '/products/filling/case-erector-packing-machine',
+      '/products/filling/robot-palletizer'
     ],
     'fruit-veg-processing': [
-      '/solutions/fruit-veg-processing/fruit-elevator'
+      '/products/filling/fruit-elevator'
     ],
     filtering: [
       '/products/filtration-equipment',
@@ -1692,21 +1692,21 @@ const COLLECTION_ROUTES = {
       '/products/post-treatment'
     ],
     brewing: [
-      '/solutions/brewing/low-vacuum-filling-machine',
-      '/solutions/brewing/gfp-12a-low-vacuum-filling-machine',
-      '/solutions/brewing/gfp-12b-low-vacuum-filling-machine',
-      '/solutions/brewing/gfp-18a-low-vacuum-filling-machine',
-      '/solutions/brewing/gfp-24h-low-vacuum-filling-machine',
-      '/solutions/brewing/gfp-30h-low-vacuum-filling-machine',
-      '/solutions/brewing/gfp-36h-low-vacuum-filling-machine',
-      '/solutions/brewing/gfp-40h-low-vacuum-filling-machine',
-      '/solutions/brewing/gfp-48h-low-vacuum-filling-machine',
-      '/solutions/brewing/gfp-60h-low-vacuum-filling-machine',
-      '/solutions/brewing/filling-corking-monoblock',
-      '/solutions/brewing/wine-rinsing-filling-corking-monoblock'
+      '/products/filling/low-vacuum-filling-machine',
+      '/products/filling/gfp-12a-low-vacuum-filling-machine',
+      '/products/filling/gfp-12b-low-vacuum-filling-machine',
+      '/products/filling/gfp-18a-low-vacuum-filling-machine',
+      '/products/filling/gfp-24h-low-vacuum-filling-machine',
+      '/products/filling/gfp-30h-low-vacuum-filling-machine',
+      '/products/filling/gfp-36h-low-vacuum-filling-machine',
+      '/products/filling/gfp-40h-low-vacuum-filling-machine',
+      '/products/filling/gfp-48h-low-vacuum-filling-machine',
+      '/products/filling/gfp-60h-low-vacuum-filling-machine',
+      '/products/filling/filling-corking-monoblock',
+      '/products/filling/wine-rinsing-filling-corking-monoblock'
     ],
     'dairy-processing': [
-      '/solutions/dairy-processing/pasteurization-processing-line'
+      '/products/filling/pasteurization-processing-line'
     ]
   },
   news: {
@@ -2871,6 +2871,24 @@ export default {
   description: 'Professional Hydraulic Oil Press Manufacturer and One-stop Oil Processing Solutions.',
   cleanUrls: true,
   metaChunk: true,
+  markdown: {
+    config: (md) => {
+      // Core Web Vitals: async-decode every content image and lazy-load all
+      // except the first image of each page (kept eager for LCP).
+      const imageCounts = new WeakMap()
+      const defaultImageRenderer = md.renderer.rules.image
+        || ((tokens, idx, options, env, self) => self.renderToken(tokens, idx, options))
+      md.renderer.rules.image = (tokens, idx, options, env, self) => {
+        const token = tokens[idx]
+        token.attrSet('decoding', 'async')
+        const isPageEnv = env && typeof env === 'object'
+        const count = isPageEnv ? (imageCounts.get(env) || 0) + 1 : 2
+        if (isPageEnv) imageCounts.set(env, count)
+        if (count > 1) token.attrSet('loading', 'lazy')
+        return defaultImageRenderer(tokens, idx, options, env, self)
+      }
+    }
+  },
   base: '/',
   ignoreDeadLinks: true,
   vite: {
