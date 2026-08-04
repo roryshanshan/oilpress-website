@@ -33,7 +33,7 @@ image: "/images/hero-oil-press.webp"
     <div class="hero-buttons">
       <a href="/fr/products/" class="primary-button">Comparer les modèles</a>
       <a href="/fr/contact/" class="contact-link-button">Demander un devis fabricant</a>
-      <a href="https://hydraulic-oil-press.com/" class="secondary-button" target="_blank" rel="noopener noreferrer">Site officiel du fabricant</a>
+      <a href="/fr/products/" class="secondary-button">Site officiel du fabricant</a>
     </div>
   </div>
   <div class="hero-image">

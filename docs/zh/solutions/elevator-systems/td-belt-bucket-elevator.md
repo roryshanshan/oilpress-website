@@ -1,6 +1,6 @@
 ---
 title: TD 型皮带斗式提升机｜粮食与粉粒物料垂直提升
-description: "TD 型皮带斗式提升机用于粮食、种子、饲料和一般粉粒物料的垂直输送，按料斗、胶带、提升高度和给料方式选择配置。"
+description: "TD 型皮带斗式提升机用于粮食、种子、饲料和一般粉粒物料的垂直输送，按料斗、胶带、提升高度和给料方式选择配置，可提供厂家选型建议与生产线配套报价。"
 keywords: TD型皮带斗式提升机, 皮带斗式提升机, TD提升机, 粮食斗式提升机, 垂直输送设备
 image: "/images/elevator-systems/td-belt-bucket-elevator.webp"
 ---

@@ -1,6 +1,6 @@
 ---
 title: U 型螺旋输送机｜粉粒物料水平给料选型
-description: "U 型螺旋输送机用于粉体、颗粒和小块物料的水平或小角度输送，按物料、长度、密封和进出料接口确认配置。"
+description: "U 型螺旋输送机用于粉体、颗粒和小块物料的水平或小角度输送，按物料、长度、密封和进出料接口确认配置，可提供厂家选型建议与生产线配套报价。"
 keywords: U型螺旋输送机, U型输送机, 螺旋给料机, 粉料输送设备, 螺旋输送机选型
 image: "/images/elevator-systems/u-trough-screw-conveyor.webp"
 ---

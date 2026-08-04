@@ -33,7 +33,7 @@ image: "/images/hero-oil-press.webp"
     <div class="hero-buttons">
       <a href="/bn/products/" class="primary-button">পণ্য বিভাগ দেখুন</a>
       <a href="/bn/contact/" class="contact-link-button">দাম ও কোটেশন নিন</a>
-      <a href="https://hydraulic-oil-press.com/" class="secondary-button" target="_blank" rel="noopener noreferrer">প্রস্তুতকারকের ওয়েবসাইট</a>
+      <a href="/bn/products/" class="secondary-button">প্রস্তুতকারকের ওয়েবসাইট</a>
     </div>
   </div>
   <div class="hero-image">

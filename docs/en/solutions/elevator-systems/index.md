@@ -8,43 +8,43 @@ image: "/images/elevator-systems/td-belt-bucket-elevator.webp"
 # Elevator conveyor series
 
 <figure class="elevator-product-collage" aria-labelledby="elevator-product-collage-caption">
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/u-trough-screw-conveyor" aria-label="View U-trough screw conveyor details">
+  <a class="elevator-product-tile" href="/en/solutions/elevator-systems/u-trough-screw-conveyor" aria-label="View U-trough screw conveyor details">
     <img src="/images/elevator-systems/u-trough-screw-conveyor.webp" alt="U-trough screw conveyor" width="1600" height="1100" fetchpriority="high">
     <span><strong>U-trough screw conveyor</strong><small>Bin discharge, blending and horizontal transfer</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/stainless-steel-rotary-airlock" aria-label="View stainless steel rotary airlock details">
+  <a class="elevator-product-tile" href="/en/solutions/elevator-systems/stainless-steel-rotary-airlock" aria-label="View stainless steel rotary airlock details">
     <img src="/images/elevator-systems/stainless-steel-rotary-airlock.webp" alt="Stainless steel A-type rotary airlock" width="1600" height="1100" loading="lazy">
     <span><strong>Stainless steel A-type rotary airlock</strong><small>Discharge where specified contact material is required</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/rigid-rotary-airlock" aria-label="View rigid rotary airlock details">
+  <a class="elevator-product-tile" href="/en/solutions/elevator-systems/rigid-rotary-airlock" aria-label="View rigid rotary airlock details">
     <img src="/images/elevator-systems/rigid-rotary-airlock.webp" alt="Rigid rotary airlock" width="1600" height="1100" loading="lazy">
     <span><strong>Rigid rotary airlock</strong><small>Airlock duty and continuous metered discharge</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/high-temperature-explosion-proof-rotary-airlock" aria-label="View high-temperature explosion-proof rotary airlock details">
+  <a class="elevator-product-tile" href="/en/solutions/elevator-systems/high-temperature-explosion-proof-rotary-airlock" aria-label="View high-temperature explosion-proof rotary airlock details">
     <img src="/images/elevator-systems/high-temperature-explosion-proof-rotary-airlock.webp" alt="High-temperature explosion-proof rotary airlock" width="1600" height="1100" loading="lazy">
     <span><strong>High-temperature explosion-proof rotary airlock</strong><small>High-temperature or classified-area discharge points</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/td-belt-bucket-elevator" aria-label="View TD belt bucket elevator details">
+  <a class="elevator-product-tile" href="/en/solutions/elevator-systems/td-belt-bucket-elevator" aria-label="View TD belt bucket elevator details">
     <img src="/images/elevator-systems/td-belt-bucket-elevator.webp" alt="TD belt bucket elevator" width="1600" height="1100" loading="lazy">
     <span><strong>TD belt bucket elevator</strong><small>Grain, seed and general powder or granule transfer</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/vertical-bucket-elevator" aria-label="View vertical bucket elevator details">
+  <a class="elevator-product-tile" href="/en/solutions/elevator-systems/vertical-bucket-elevator" aria-label="View vertical bucket elevator details">
     <img src="/images/elevator-systems/vertical-bucket-elevator.webp" alt="Vertical bucket elevator" width="1600" height="1100" loading="lazy">
     <span><strong>Vertical bucket elevator</strong><small>Conventional vertical transfer and interface layouts</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/ne-plate-chain-bucket-elevator" aria-label="View NE plate-chain bucket elevator details">
+  <a class="elevator-product-tile" href="/en/solutions/elevator-systems/ne-plate-chain-bucket-elevator" aria-label="View NE plate-chain bucket elevator details">
     <img src="/images/elevator-systems/ne-plate-chain-bucket-elevator.webp" alt="NE plate-chain bucket elevator" width="1600" height="1100" loading="lazy">
     <span><strong>NE plate-chain bucket elevator</strong><small>Continuous duty and larger transfer volumes</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/th-ring-chain-bucket-elevator" aria-label="View TH ring-chain bucket elevator details">
+  <a class="elevator-product-tile" href="/en/solutions/elevator-systems/th-ring-chain-bucket-elevator" aria-label="View TH ring-chain bucket elevator details">
     <img src="/images/elevator-systems/th-ring-chain-bucket-elevator.webp" alt="TH ring-chain bucket elevator" width="1600" height="1100" loading="lazy">
     <span><strong>TH ring-chain bucket elevator</strong><small>Vertical lifting for powders, granules and small lumps</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/tb-vertical-elevator" aria-label="View TB vertical elevator details">
+  <a class="elevator-product-tile" href="/en/solutions/elevator-systems/tb-vertical-elevator" aria-label="View TB vertical elevator details">
     <img src="/images/elevator-systems/tb-vertical-elevator.webp" alt="TB series vertical elevator" width="1600" height="1100" loading="lazy">
     <span><strong>TB series vertical elevator</strong><small>Compact layouts and custom elevation interfaces</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/grain-elevator" aria-label="View grain elevator details">
+  <a class="elevator-product-tile" href="/en/solutions/elevator-systems/grain-elevator" aria-label="View grain elevator details">
     <img src="/images/elevator-systems/grain-elevator.webp" alt="Grain elevator" width="1600" height="1100" loading="lazy">
     <span><strong>Grain elevator</strong><small>Low-damage grain, feed and oilseed transfer</small></span>
   </a>

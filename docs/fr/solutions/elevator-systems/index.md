@@ -8,43 +8,43 @@ image: "/images/elevator-systems/td-belt-bucket-elevator.webp"
 # Série d'élévateurs
 
 <figure class="elevator-product-collage" aria-labelledby="elevator-product-collage-caption">
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/u-trough-screw-conveyor" aria-label="Voir le convoyeur à vis en auge U">
+  <a class="elevator-product-tile" href="/fr/solutions/elevator-systems/u-trough-screw-conveyor" aria-label="Voir le convoyeur à vis en auge U">
     <img src="/images/elevator-systems/u-trough-screw-conveyor.webp" alt="Convoyeur à vis en auge U" width="1600" height="1100" fetchpriority="high">
     <span><strong>Convoyeur à vis en auge U</strong><small>Alimentation sous trémie, mélange et transfert horizontal</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/stainless-steel-rotary-airlock" aria-label="Voir le sas rotatif inox A">
+  <a class="elevator-product-tile" href="/fr/solutions/elevator-systems/stainless-steel-rotary-airlock" aria-label="Voir le sas rotatif inox A">
     <img src="/images/elevator-systems/stainless-steel-rotary-airlock.webp" alt="Sas rotatif A en acier inoxydable" width="1600" height="1100" loading="lazy">
     <span><strong>Sas rotatif A en acier inoxydable</strong><small>Déchargement avec matériau de contact spécifié</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/rigid-rotary-airlock" aria-label="Voir le sas rotatif rigide">
+  <a class="elevator-product-tile" href="/fr/solutions/elevator-systems/rigid-rotary-airlock" aria-label="Voir le sas rotatif rigide">
     <img src="/images/elevator-systems/rigid-rotary-airlock.webp" alt="Sas rotatif rigide" width="1600" height="1100" loading="lazy">
     <span><strong>Sas rotatif rigide</strong><small>Écluse et dosage continu à la sortie de trémie</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/high-temperature-explosion-proof-rotary-airlock" aria-label="Voir le sas rotatif antidéflagrant haute température">
+  <a class="elevator-product-tile" href="/fr/solutions/elevator-systems/high-temperature-explosion-proof-rotary-airlock" aria-label="Voir le sas rotatif antidéflagrant haute température">
     <img src="/images/elevator-systems/high-temperature-explosion-proof-rotary-airlock.webp" alt="Sas rotatif antidéflagrant haute température" width="1600" height="1100" loading="lazy">
     <span><strong>Sas rotatif haute température</strong><small>Points de déchargement chauds ou en zone classée</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/td-belt-bucket-elevator" aria-label="Voir l'élévateur TD à bande">
+  <a class="elevator-product-tile" href="/fr/solutions/elevator-systems/td-belt-bucket-elevator" aria-label="Voir l'élévateur TD à bande">
     <img src="/images/elevator-systems/td-belt-bucket-elevator.webp" alt="Élévateur à godets TD à bande" width="1600" height="1100" loading="lazy">
     <span><strong>Élévateur à godets TD à bande</strong><small>Céréales, graines et poudres ou granulés courants</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/vertical-bucket-elevator" aria-label="Voir l'élévateur à godets vertical">
+  <a class="elevator-product-tile" href="/fr/solutions/elevator-systems/vertical-bucket-elevator" aria-label="Voir l'élévateur à godets vertical">
     <img src="/images/elevator-systems/vertical-bucket-elevator.webp" alt="Élévateur à godets vertical" width="1600" height="1100" loading="lazy">
     <span><strong>Élévateur à godets vertical</strong><small>Transfert vertical courant et raccordements adaptés</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/ne-plate-chain-bucket-elevator" aria-label="Voir l'élévateur NE à chaîne à plaques">
+  <a class="elevator-product-tile" href="/fr/solutions/elevator-systems/ne-plate-chain-bucket-elevator" aria-label="Voir l'élévateur NE à chaîne à plaques">
     <img src="/images/elevator-systems/ne-plate-chain-bucket-elevator.webp" alt="Élévateur à godets NE à chaîne à plaques" width="1600" height="1100" loading="lazy">
     <span><strong>Élévateur NE à chaîne à plaques</strong><small>Service continu et débits plus importants</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/th-ring-chain-bucket-elevator" aria-label="Voir l'élévateur TH à chaîne à anneaux">
+  <a class="elevator-product-tile" href="/fr/solutions/elevator-systems/th-ring-chain-bucket-elevator" aria-label="Voir l'élévateur TH à chaîne à anneaux">
     <img src="/images/elevator-systems/th-ring-chain-bucket-elevator.webp" alt="Élévateur à godets TH à chaîne à anneaux" width="1600" height="1100" loading="lazy">
     <span><strong>Élévateur TH à chaîne à anneaux</strong><small>Poudres, granulés et petits morceaux</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/tb-vertical-elevator" aria-label="Voir l'élévateur vertical TB">
+  <a class="elevator-product-tile" href="/fr/solutions/elevator-systems/tb-vertical-elevator" aria-label="Voir l'élévateur vertical TB">
     <img src="/images/elevator-systems/tb-vertical-elevator.webp" alt="Élévateur vertical série TB" width="1600" height="1100" loading="lazy">
     <span><strong>Élévateur vertical série TB</strong><small>Implantation compacte et niveaux sur mesure</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/grain-elevator" aria-label="Voir l'élévateur à grains">
+  <a class="elevator-product-tile" href="/fr/solutions/elevator-systems/grain-elevator" aria-label="Voir l'élévateur à grains">
     <img src="/images/elevator-systems/grain-elevator.webp" alt="Élévateur à grains" width="1600" height="1100" loading="lazy">
     <span><strong>Élévateur à grains</strong><small>Transfert de grains et d'oléagineux à faible casse</small></span>
   </a>

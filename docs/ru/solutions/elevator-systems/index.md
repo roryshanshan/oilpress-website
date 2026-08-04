@@ -8,43 +8,43 @@ image: "/images/elevator-systems/td-belt-bucket-elevator.webp"
 # Серия элеваторов
 
 <figure class="elevator-product-collage" aria-labelledby="elevator-product-collage-caption">
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/u-trough-screw-conveyor" aria-label="Открыть сведения о U-образном шнековом конвейере">
+  <a class="elevator-product-tile" href="/ru/solutions/elevator-systems/u-trough-screw-conveyor" aria-label="Открыть сведения о U-образном шнековом конвейере">
     <img src="/images/elevator-systems/u-trough-screw-conveyor.webp" alt="U-образный шнековый конвейер" width="1600" height="1100" fetchpriority="high">
     <span><strong>U-образный шнековый конвейер</strong><small>Подача из бункера, смешивание и горизонтальная транспортировка</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/stainless-steel-rotary-airlock" aria-label="Открыть сведения о нержавеющем шлюзовом затворе">
+  <a class="elevator-product-tile" href="/ru/solutions/elevator-systems/stainless-steel-rotary-airlock" aria-label="Открыть сведения о нержавеющем шлюзовом затворе">
     <img src="/images/elevator-systems/stainless-steel-rotary-airlock.webp" alt="Нержавеющий роторный шлюзовой затвор типа A" width="1600" height="1100" loading="lazy">
     <span><strong>Нержавеющий шлюзовой затвор типа A</strong><small>Разгрузка при заданном материале контакта</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/rigid-rotary-airlock" aria-label="Открыть сведения о жёстком шлюзовом затворе">
+  <a class="elevator-product-tile" href="/ru/solutions/elevator-systems/rigid-rotary-airlock" aria-label="Открыть сведения о жёстком шлюзовом затворе">
     <img src="/images/elevator-systems/rigid-rotary-airlock.webp" alt="Жёсткий роторный шлюзовой затвор" width="1600" height="1100" loading="lazy">
     <span><strong>Жёсткий роторный шлюзовой затвор</strong><small>Шлюзование и непрерывная дозированная разгрузка</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/high-temperature-explosion-proof-rotary-airlock" aria-label="Открыть сведения о высокотемпературном взрывозащищённом шлюзе">
+  <a class="elevator-product-tile" href="/ru/solutions/elevator-systems/high-temperature-explosion-proof-rotary-airlock" aria-label="Открыть сведения о высокотемпературном взрывозащищённом шлюзе">
     <img src="/images/elevator-systems/high-temperature-explosion-proof-rotary-airlock.webp" alt="Высокотемпературный взрывозащищённый роторный шлюз" width="1600" height="1100" loading="lazy">
     <span><strong>Высокотемпературный взрывозащищённый шлюз</strong><small>Горячая среда или участки с особыми требованиями</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/td-belt-bucket-elevator" aria-label="Открыть сведения об элеваторе TD">
+  <a class="elevator-product-tile" href="/ru/solutions/elevator-systems/td-belt-bucket-elevator" aria-label="Открыть сведения об элеваторе TD">
     <img src="/images/elevator-systems/td-belt-bucket-elevator.webp" alt="Ленточный ковшовый элеватор TD" width="1600" height="1100" loading="lazy">
     <span><strong>Ленточный ковшовый элеватор TD</strong><small>Зерно, семена, порошки и обычные гранулы</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/vertical-bucket-elevator" aria-label="Открыть сведения о вертикальном ковшовом элеваторе">
+  <a class="elevator-product-tile" href="/ru/solutions/elevator-systems/vertical-bucket-elevator" aria-label="Открыть сведения о вертикальном ковшовом элеваторе">
     <img src="/images/elevator-systems/vertical-bucket-elevator.webp" alt="Вертикальный ковшовый элеватор" width="1600" height="1100" loading="lazy">
     <span><strong>Вертикальный ковшовый элеватор</strong><small>Стандартная вертикальная транспортировка и интерфейсы</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/ne-plate-chain-bucket-elevator" aria-label="Открыть сведения об элеваторе NE">
+  <a class="elevator-product-tile" href="/ru/solutions/elevator-systems/ne-plate-chain-bucket-elevator" aria-label="Открыть сведения об элеваторе NE">
     <img src="/images/elevator-systems/ne-plate-chain-bucket-elevator.webp" alt="Пластинчато-цепной ковшовый элеватор NE" width="1600" height="1100" loading="lazy">
     <span><strong>Пластинчато-цепной элеватор NE</strong><small>Непрерывная работа и большие объёмы подачи</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/th-ring-chain-bucket-elevator" aria-label="Открыть сведения об элеваторе TH">
+  <a class="elevator-product-tile" href="/ru/solutions/elevator-systems/th-ring-chain-bucket-elevator" aria-label="Открыть сведения об элеваторе TH">
     <img src="/images/elevator-systems/th-ring-chain-bucket-elevator.webp" alt="Ковшовый элеватор TH с кольцевой цепью" width="1600" height="1100" loading="lazy">
     <span><strong>Элеватор TH с кольцевой цепью</strong><small>Порошки, гранулы и мелкокусковые материалы</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/tb-vertical-elevator" aria-label="Открыть сведения о вертикальном элеваторе TB">
+  <a class="elevator-product-tile" href="/ru/solutions/elevator-systems/tb-vertical-elevator" aria-label="Открыть сведения о вертикальном элеваторе TB">
     <img src="/images/elevator-systems/tb-vertical-elevator.webp" alt="Вертикальный элеватор серии TB" width="1600" height="1100" loading="lazy">
     <span><strong>Вертикальный элеватор серии TB</strong><small>Компактная компоновка и нестандартные отметки</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/grain-elevator" aria-label="Открыть сведения о зерновом элеваторе">
+  <a class="elevator-product-tile" href="/ru/solutions/elevator-systems/grain-elevator" aria-label="Открыть сведения о зерновом элеваторе">
     <img src="/images/elevator-systems/grain-elevator.webp" alt="Зерновой элеватор" width="1600" height="1100" loading="lazy">
     <span><strong>Зерновой элеватор</strong><small>Бережная транспортировка зерна, кормов и масличных</small></span>
   </a>

@@ -1,6 +1,6 @@
 ---
 title: NE 型板链斗式提升机｜连续提升与大输送量配置
-description: "NE 型板链斗式提升机采用板链和连续料斗结构，面向连续转运与较大输送量工况，需按链条负载、进料冲击和检修条件选型。"
+description: "NE 型板链斗式提升机采用板链和连续料斗结构，面向连续转运与较大输送量工况，需按链条负载、进料冲击和检修条件选型，可提供厂家选型建议与生产线配套报价。"
 keywords: NE型板链斗式提升机, NE斗式提升机, 板链提升机, 连续斗式提升机, 垂直提升设备
 image: "/images/elevator-systems/ne-plate-chain-bucket-elevator.webp"
 ---

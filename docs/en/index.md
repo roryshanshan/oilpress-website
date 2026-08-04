@@ -33,7 +33,7 @@ image: "/images/hero-oil-press.webp"
     <div class="hero-buttons">
       <a href="/en/products/" class="primary-button">View Products</a>
       <a href="/en/contact/" class="contact-link-button">Get Price & Quote</a>
-      <a href="https://hydraulic-oil-press.com/" class="secondary-button" target="_blank" rel="noopener noreferrer">Manufacturer Website</a>
+      <a href="/en/products/" class="secondary-button">Manufacturer Website</a>
     </div>
   </div>
   <div class="hero-image">

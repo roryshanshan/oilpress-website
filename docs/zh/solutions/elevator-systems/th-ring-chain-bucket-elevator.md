@@ -1,6 +1,6 @@
 ---
 title: TH 型环链斗式提升机｜颗粒与小块物料垂直输送
-description: "TH 型环链斗式提升机采用环链牵引料斗，适用于颗粒、粉状和符合条件的小块物料的垂直输送，按链条、料斗与进料冲击配置。"
+description: "TH 型环链斗式提升机采用环链牵引料斗，适用于颗粒、粉状和符合条件的小块物料的垂直输送，按链条、料斗与进料冲击配置，可提供厂家选型建议与生产线配套报价。"
 keywords: TH型环链斗式提升机, TH斗式提升机, 环链提升机, 斗式输送设备, 垂直物料提升
 image: "/images/elevator-systems/th-ring-chain-bucket-elevator.webp"
 ---

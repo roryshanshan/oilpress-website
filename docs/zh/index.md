@@ -33,7 +33,7 @@ image: "/images/hero-oil-press.webp"
     <div class="hero-buttons">
       <a href="/zh/products/" class="primary-button">查看产品系列</a>
       <a href="/zh/contact/" class="contact-link-button">获取价格/报价</a>
-      <a href="https://hydraulic-oil-press.com/" class="secondary-button" target="_blank" rel="noopener noreferrer">厂家官网</a>
+      <a href="/zh/products/" class="secondary-button">厂家官网</a>
     </div>
   </div>
   <div class="hero-image">

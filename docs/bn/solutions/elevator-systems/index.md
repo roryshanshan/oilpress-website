@@ -1,6 +1,6 @@
 ---
 title: "এলিভেটর সিরিজ | বেল্ট, প্লেট-চেইন ও রিং-চেইন নির্বাচন"
-description: "উপাদান, উত্তোলন উচ্চতা, ক্ষমতা ও পরিষ্কারের প্রয়োজন অনুযায়ী TD বেল্ট বাকেট, NE প্লেট-চেইন, TH রিং-চেইন, TB এবং শস্য এলিভেটর তুলনা করুন।"
+description: "উপাদান, উত্তোলন উচ্চতা ও ক্ষমতা অনুযায়ী TD, NE, TH, TB ও শস্য এলিভেটর তুলনা করুন; প্রস্তুতকারকের নির্বাচন পরামর্শ ও কোটেশন উপলব্ধ।"
 keywords: এলিভেটর সিরিজ, বাকেট এলিভেটর, TD এলিভেটর, NE এলিভেটর, TH এলিভেটর, TB এলিভেটর, শস্য এলিভেটর, এলিভেটর নির্বাচন
 image: "/images/elevator-systems/td-belt-bucket-elevator.webp"
 ---
@@ -8,43 +8,43 @@ image: "/images/elevator-systems/td-belt-bucket-elevator.webp"
 # এলিভেটর সিরিজ
 
 <figure class="elevator-product-collage" aria-labelledby="elevator-product-collage-caption">
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/u-trough-screw-conveyor" aria-label="U-ট্রফ স্ক্রু কনভেয়ারের তথ্য দেখুন">
+  <a class="elevator-product-tile" href="/bn/solutions/elevator-systems/u-trough-screw-conveyor" aria-label="U-ট্রফ স্ক্রু কনভেয়ারের তথ্য দেখুন">
     <img src="/images/elevator-systems/u-trough-screw-conveyor.webp" alt="U-ট্রফ স্ক্রু কনভেয়ার" width="1600" height="1100" fetchpriority="high">
     <span><strong>U-ট্রফ স্ক্রু কনভেয়ার</strong><small>বিন থেকে ফিড, মিশ্রণ ও অনুভূমিক পরিবহন</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/stainless-steel-rotary-airlock" aria-label="স্টেইনলেস স্টিল রোটারি এয়ারলকের তথ্য দেখুন">
+  <a class="elevator-product-tile" href="/bn/solutions/elevator-systems/stainless-steel-rotary-airlock" aria-label="স্টেইনলেস স্টিল রোটারি এয়ারলকের তথ্য দেখুন">
     <img src="/images/elevator-systems/stainless-steel-rotary-airlock.webp" alt="স্টেইনলেস স্টিল A-টাইপ রোটারি এয়ারলক" width="1600" height="1100" loading="lazy">
     <span><strong>স্টেইনলেস স্টিল A-টাইপ এয়ারলক</strong><small>নির্দিষ্ট সংস্পর্শ উপাদান দরকার এমন ডিসচার্জ</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/rigid-rotary-airlock" aria-label="রিজিড রোটারি এয়ারলকের তথ্য দেখুন">
+  <a class="elevator-product-tile" href="/bn/solutions/elevator-systems/rigid-rotary-airlock" aria-label="রিজিড রোটারি এয়ারলকের তথ্য দেখুন">
     <img src="/images/elevator-systems/rigid-rotary-airlock.webp" alt="রিজিড রোটারি এয়ারলক" width="1600" height="1100" loading="lazy">
     <span><strong>রিজিড রোটারি এয়ারলক</strong><small>এয়ারলকিং ও ধারাবাহিক মিটারড ডিসচার্জ</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/high-temperature-explosion-proof-rotary-airlock" aria-label="উচ্চ তাপমাত্রার সুরক্ষিত রোটারি এয়ারলকের তথ্য দেখুন">
+  <a class="elevator-product-tile" href="/bn/solutions/elevator-systems/high-temperature-explosion-proof-rotary-airlock" aria-label="উচ্চ তাপমাত্রার সুরক্ষিত রোটারি এয়ারলকের তথ্য দেখুন">
     <img src="/images/elevator-systems/high-temperature-explosion-proof-rotary-airlock.webp" alt="উচ্চ তাপমাত্রার সুরক্ষিত রোটারি এয়ারলক" width="1600" height="1100" loading="lazy">
     <span><strong>উচ্চ তাপমাত্রার সুরক্ষিত এয়ারলক</strong><small>গরম উপাদান বা বিশেষ এলাকার ডিসচার্জ পয়েন্ট</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/td-belt-bucket-elevator" aria-label="TD বেল্ট বাকেট এলিভেটরের তথ্য দেখুন">
+  <a class="elevator-product-tile" href="/bn/solutions/elevator-systems/td-belt-bucket-elevator" aria-label="TD বেল্ট বাকেট এলিভেটরের তথ্য দেখুন">
     <img src="/images/elevator-systems/td-belt-bucket-elevator.webp" alt="TD বেল্ট বাকেট এলিভেটর" width="1600" height="1100" loading="lazy">
     <span><strong>TD বেল্ট বাকেট এলিভেটর</strong><small>শস্য, বীজ, গুঁড়া ও সাধারণ দানাদার উপাদান</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/vertical-bucket-elevator" aria-label="উল্লম্ব বাকেট এলিভেটরের তথ্য দেখুন">
+  <a class="elevator-product-tile" href="/bn/solutions/elevator-systems/vertical-bucket-elevator" aria-label="উল্লম্ব বাকেট এলিভেটরের তথ্য দেখুন">
     <img src="/images/elevator-systems/vertical-bucket-elevator.webp" alt="উল্লম্ব বাকেট এলিভেটর" width="1600" height="1100" loading="lazy">
     <span><strong>উল্লম্ব বাকেট এলিভেটর</strong><small>সাধারণ উল্লম্ব পরিবহন ও ইন্টারফেস বিন্যাস</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/ne-plate-chain-bucket-elevator" aria-label="NE প্লেট-চেইন এলিভেটরের তথ্য দেখুন">
+  <a class="elevator-product-tile" href="/bn/solutions/elevator-systems/ne-plate-chain-bucket-elevator" aria-label="NE প্লেট-চেইন এলিভেটরের তথ্য দেখুন">
     <img src="/images/elevator-systems/ne-plate-chain-bucket-elevator.webp" alt="NE প্লেট-চেইন বাকেট এলিভেটর" width="1600" height="1100" loading="lazy">
     <span><strong>NE প্লেট-চেইন বাকেট এলিভেটর</strong><small>নিরবচ্ছিন্ন কাজ ও বড় পরিবহন ক্ষমতা</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/th-ring-chain-bucket-elevator" aria-label="TH রিং-চেইন এলিভেটরের তথ্য দেখুন">
+  <a class="elevator-product-tile" href="/bn/solutions/elevator-systems/th-ring-chain-bucket-elevator" aria-label="TH রিং-চেইন এলিভেটরের তথ্য দেখুন">
     <img src="/images/elevator-systems/th-ring-chain-bucket-elevator.webp" alt="TH রিং-চেইন বাকেট এলিভেটর" width="1600" height="1100" loading="lazy">
     <span><strong>TH রিং-চেইন বাকেট এলিভেটর</strong><small>গুঁড়া, দানা ও ছোট আকারের উপাদান উত্তোলন</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/tb-vertical-elevator" aria-label="TB উল্লম্ব এলিভেটরের তথ্য দেখুন">
+  <a class="elevator-product-tile" href="/bn/solutions/elevator-systems/tb-vertical-elevator" aria-label="TB উল্লম্ব এলিভেটরের তথ্য দেখুন">
     <img src="/images/elevator-systems/tb-vertical-elevator.webp" alt="TB সিরিজ উল্লম্ব এলিভেটর" width="1600" height="1100" loading="lazy">
     <span><strong>TB সিরিজ উল্লম্ব এলিভেটর</strong><small>কমপ্যাক্ট বিন্যাস ও কাস্টম উচ্চতার ইন্টারফেস</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/grain-elevator" aria-label="শস্য এলিভেটরের তথ্য দেখুন">
+  <a class="elevator-product-tile" href="/bn/solutions/elevator-systems/grain-elevator" aria-label="শস্য এলিভেটরের তথ্য দেখুন">
     <img src="/images/elevator-systems/grain-elevator.webp" alt="শস্য এলিভেটর" width="1600" height="1100" loading="lazy">
     <span><strong>শস্য এলিভেটর</strong><small>শস্য, ফিড ও তেলবীজের কম-ভাঙন পরিবহন</small></span>
   </a>

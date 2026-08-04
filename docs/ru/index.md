@@ -33,7 +33,7 @@ image: "/images/hero-oil-press.webp"
     <div class="hero-buttons">
       <a href="/ru/products/" class="primary-button">Сравнить модели</a>
       <a href="/ru/contact/" class="contact-link-button">Запросить цену от завода</a>
-      <a href="https://hydraulic-oil-press.com/" class="secondary-button" target="_blank" rel="noopener noreferrer">Сайт производителя</a>
+      <a href="/ru/products/" class="secondary-button">Сайт производителя</a>
     </div>
   </div>
   <div class="hero-image">

@@ -33,7 +33,7 @@ image: "/images/hero-oil-press.webp"
     <div class="hero-buttons">
   <a href="/vi/products/" class="primary-button">Xem các dòng sản phẩm</a>
   <a href="/vi/contact/" class="contact-link-button">Nhận giá & báo giá</a>
-  <a href="https://hydraulic-oil-press.com/" class="secondary-button" target="_blank" rel="noopener noreferrer">Website nhà sản xuất</a>
+  <a href="/vi/products/" class="secondary-button">Website nhà sản xuất</a>
     </div>
   </div>
   <div class="hero-image">

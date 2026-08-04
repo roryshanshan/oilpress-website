@@ -1,6 +1,6 @@
 ---
 title: 防爆耐高温星型卸料器｜高温与危险区域工况确认
-description: "防爆或耐高温星型卸料配置用于有温度、粉尘分区或密封要求的排料点，需按现场标准、温度与物料条件明确设计边界。"
+description: "防爆或耐高温星型卸料配置用于有温度、粉尘分区或密封要求的排料点，需按现场标准、温度与物料条件明确设计边界，可提供厂家选型建议与生产线配套报价。"
 keywords: 防爆星型卸料器, 耐高温卸料器, 防爆卸灰阀, 高温旋转给料器, 星型给料阀
 image: "/images/elevator-systems/high-temperature-explosion-proof-rotary-airlock.webp"
 ---

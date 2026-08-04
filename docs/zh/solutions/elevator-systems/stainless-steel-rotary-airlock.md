@@ -1,6 +1,6 @@
 ---
 title: 不锈钢星型 A 型卸料器｜料仓锁气与定量卸料
-description: "不锈钢星型 A 型卸料器用于料仓、除尘或工艺设备下方的受控排料，按接触材质、间隙、压差和清洗要求确认配置。"
+description: "不锈钢星型 A 型卸料器用于料仓、除尘或工艺设备下方的受控排料，按接触材质、间隙、压差和清洗要求确认配置，可提供厂家选型建议与生产线配套报价。"
 keywords: 不锈钢星型卸料器, A型卸料器, 不锈钢卸灰阀, 星型给料器, 旋转卸料阀
 image: "/images/elevator-systems/stainless-steel-rotary-airlock.webp"
 ---

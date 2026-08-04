@@ -1,6 +1,6 @@
 ---
 title: TB 系列垂直提升机｜紧凑布局与标高定制
-description: "TB 系列垂直提升机用于按厂房标高和进出料方向定制的垂直转运，选型需确认链条、料斗、接口、基础及检修平台。"
+description: "TB 系列垂直提升机用于按厂房标高和进出料方向定制的垂直转运，选型需确认链条、料斗、接口、基础及检修平台，可提供厂家选型建议与生产线配套报价。"
 keywords: TB系列垂直提升机, TB提升机, 垂直提升机, 斗式提升设备, 物料垂直输送
 image: "/images/elevator-systems/tb-vertical-elevator.webp"
 ---

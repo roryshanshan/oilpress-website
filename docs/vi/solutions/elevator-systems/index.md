@@ -8,43 +8,43 @@ image: "/images/elevator-systems/td-belt-bucket-elevator.webp"
 # Dòng máy nâng liệu
 
 <figure class="elevator-product-collage" aria-labelledby="elevator-product-collage-caption">
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/u-trough-screw-conveyor" aria-label="Xem băng tải trục vít máng U">
+  <a class="elevator-product-tile" href="/vi/solutions/elevator-systems/u-trough-screw-conveyor" aria-label="Xem băng tải trục vít máng U">
     <img src="/images/elevator-systems/u-trough-screw-conveyor.webp" alt="Băng tải trục vít máng U" width="1600" height="1100" fetchpriority="high">
     <span><strong>Băng tải trục vít máng U</strong><small>Cấp liệu dưới phễu, trộn và chuyển tải ngang</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/stainless-steel-rotary-airlock" aria-label="Xem van quay inox loại A">
+  <a class="elevator-product-tile" href="/vi/solutions/elevator-systems/stainless-steel-rotary-airlock" aria-label="Xem van quay inox loại A">
     <img src="/images/elevator-systems/stainless-steel-rotary-airlock.webp" alt="Van quay inox loại A" width="1600" height="1100" loading="lazy">
     <span><strong>Van quay inox loại A</strong><small>Xả liệu có yêu cầu vật liệu tiếp xúc xác định</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/rigid-rotary-airlock" aria-label="Xem van quay cứng">
+  <a class="elevator-product-tile" href="/vi/solutions/elevator-systems/rigid-rotary-airlock" aria-label="Xem van quay cứng">
     <img src="/images/elevator-systems/rigid-rotary-airlock.webp" alt="Van quay cứng" width="1600" height="1100" loading="lazy">
     <span><strong>Van quay cứng</strong><small>Khóa khí và xả định lượng liên tục</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/high-temperature-explosion-proof-rotary-airlock" aria-label="Xem van quay chịu nhiệt và chống nổ">
+  <a class="elevator-product-tile" href="/vi/solutions/elevator-systems/high-temperature-explosion-proof-rotary-airlock" aria-label="Xem van quay chịu nhiệt và chống nổ">
     <img src="/images/elevator-systems/high-temperature-explosion-proof-rotary-airlock.webp" alt="Van quay chịu nhiệt và chống nổ" width="1600" height="1100" loading="lazy">
     <span><strong>Van quay chịu nhiệt, chống nổ</strong><small>Điểm xả nhiệt độ cao hoặc khu vực có yêu cầu riêng</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/td-belt-bucket-elevator" aria-label="Xem gầu tải đai TD">
+  <a class="elevator-product-tile" href="/vi/solutions/elevator-systems/td-belt-bucket-elevator" aria-label="Xem gầu tải đai TD">
     <img src="/images/elevator-systems/td-belt-bucket-elevator.webp" alt="Gầu tải đai TD" width="1600" height="1100" loading="lazy">
     <span><strong>Gầu tải đai TD</strong><small>Ngũ cốc, hạt giống, bột và hạt rời thông dụng</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/vertical-bucket-elevator" aria-label="Xem gầu tải đứng">
+  <a class="elevator-product-tile" href="/vi/solutions/elevator-systems/vertical-bucket-elevator" aria-label="Xem gầu tải đứng">
     <img src="/images/elevator-systems/vertical-bucket-elevator.webp" alt="Gầu tải đứng" width="1600" height="1100" loading="lazy">
     <span><strong>Gầu tải đứng</strong><small>Chuyển tải đứng thông thường và bố trí đầu nối</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/ne-plate-chain-bucket-elevator" aria-label="Xem gầu tải xích bản NE">
+  <a class="elevator-product-tile" href="/vi/solutions/elevator-systems/ne-plate-chain-bucket-elevator" aria-label="Xem gầu tải xích bản NE">
     <img src="/images/elevator-systems/ne-plate-chain-bucket-elevator.webp" alt="Gầu tải xích bản NE" width="1600" height="1100" loading="lazy">
     <span><strong>Gầu tải xích bản NE</strong><small>Chạy liên tục và lưu lượng chuyển tải lớn hơn</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/th-ring-chain-bucket-elevator" aria-label="Xem gầu tải xích vòng TH">
+  <a class="elevator-product-tile" href="/vi/solutions/elevator-systems/th-ring-chain-bucket-elevator" aria-label="Xem gầu tải xích vòng TH">
     <img src="/images/elevator-systems/th-ring-chain-bucket-elevator.webp" alt="Gầu tải xích vòng TH" width="1600" height="1100" loading="lazy">
     <span><strong>Gầu tải xích vòng TH</strong><small>Nâng bột, hạt và vật liệu cục nhỏ</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/tb-vertical-elevator" aria-label="Xem máy nâng đứng TB">
+  <a class="elevator-product-tile" href="/vi/solutions/elevator-systems/tb-vertical-elevator" aria-label="Xem máy nâng đứng TB">
     <img src="/images/elevator-systems/tb-vertical-elevator.webp" alt="Máy nâng đứng dòng TB" width="1600" height="1100" loading="lazy">
     <span><strong>Máy nâng đứng dòng TB</strong><small>Bố trí gọn và giao diện cao độ theo yêu cầu</small></span>
   </a>
-  <a class="elevator-product-tile" href="/zh/solutions/elevator-systems/grain-elevator" aria-label="Xem máy nâng hạt">
+  <a class="elevator-product-tile" href="/vi/solutions/elevator-systems/grain-elevator" aria-label="Xem máy nâng hạt">
     <img src="/images/elevator-systems/grain-elevator.webp" alt="Máy nâng hạt" width="1600" height="1100" loading="lazy">
     <span><strong>Máy nâng hạt</strong><small>Chuyển ngũ cốc, thức ăn chăn nuôi và hạt dầu ít vỡ</small></span>
   </a>

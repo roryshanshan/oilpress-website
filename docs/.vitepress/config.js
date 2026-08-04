@@ -1113,7 +1113,8 @@ const SOLUTION_COLLECTION_SLUGS = new Set([
   'fruit-veg-processing',
   'filtering',
   'brewing',
-  'dairy-processing'
+  'dairy-processing',
+  'elevator-systems'
 ])
 
 const HOME_LABELS = {
@@ -1163,7 +1164,8 @@ const ROUTE_LABELS = {
     'fruit-veg-processing': 'Fruit & Vegetable Pre-processing',
     filtering: 'Filtering Machine Series',
     brewing: 'Brewing Equipment Series',
-    'dairy-processing': 'Dairy Processing Equipment'
+    'dairy-processing': 'Dairy Processing Equipment',
+    'elevator-systems': 'Elevators & Conveyors'
   },
   zh: {
     products: '产品',
@@ -1202,7 +1204,8 @@ const ROUTE_LABELS = {
     'fruit-veg-processing': '蔬果前处理设备',
     filtering: '过滤机系列',
     brewing: '酿酒设备系列',
-    'dairy-processing': '奶类加工设备'
+    'dairy-processing': '奶类加工设备',
+    'elevator-systems': '提升输送设备'
   },
   fr: {
     products: 'Produits',
@@ -1241,7 +1244,8 @@ const ROUTE_LABELS = {
     'fruit-veg-processing': 'Prétraitement fruits et légumes',
     filtering: 'Série de filtration',
     brewing: 'Équipements de vinification',
-    'dairy-processing': 'Équipements laitiers'
+    'dairy-processing': 'Équipements laitiers',
+    'elevator-systems': 'Élévateurs et convoyeurs'
   },
   ru: {
     products: 'Продукты',
@@ -1280,7 +1284,8 @@ const ROUTE_LABELS = {
     'fruit-veg-processing': 'Предварительная обработка фруктов и овощей',
     filtering: 'Серия фильтрационных машин',
     brewing: 'Серия оборудования для виноделия',
-    'dairy-processing': 'Оборудование для переработки молока'
+    'dairy-processing': 'Оборудование для переработки молока',
+    'elevator-systems': 'Элеваторы и конвейеры'
   },
   vi: {
     products: 'Sản phẩm',
@@ -1319,7 +1324,8 @@ const ROUTE_LABELS = {
     'fruit-veg-processing': 'Thiết bị tiền xử lý rau quả',
     filtering: 'Dòng máy lọc',
     brewing: 'Dòng thiết bị nấu rượu',
-    'dairy-processing': 'Thiết bị chế biến sữa'
+    'dairy-processing': 'Thiết bị chế biến sữa',
+    'elevator-systems': 'Gàu tải & vít tải'
   },
   bn: {
     products: 'পণ্যসমূহ',
@@ -1358,7 +1364,8 @@ const ROUTE_LABELS = {
     'fruit-veg-processing': 'ফল ও সবজি প্রি-প্রসেসিং',
     filtering: 'ফিল্টারিং মেশিন সিরিজ',
     brewing: 'ব্রুইং সরঞ্জাম সিরিজ',
-    'dairy-processing': 'দুগ্ধ প্রক্রিয়াকরণ সরঞ্জাম'
+    'dairy-processing': 'দুগ্ধ প্রক্রিয়াকরণ সরঞ্জাম',
+    'elevator-systems': 'এলিভেটর ও কনভেয়র'
   }
 }
 
@@ -3545,6 +3552,23 @@ s0.parentNode.insertBefore(s1,s0);
                     { text: '灌装配套方案概览', link: '/zh/solutions/filling-packages' },
                     ...canonicalizeFillingSidebarItems(zhFillingSeriesSidebarItems)
                   ]
+                },
+                {
+                  text: '提升输送设备',
+                  collapsed: true,
+                  items: [
+                    { text: '提升机专题概览', link: '/zh/solutions/elevator-systems/' },
+                    { text: 'TD 型皮带斗式提升机', link: '/zh/solutions/elevator-systems/td-belt-bucket-elevator' },
+                    { text: 'NE 型板链斗式提升机', link: '/zh/solutions/elevator-systems/ne-plate-chain-bucket-elevator' },
+                    { text: 'TH 型环链斗式提升机', link: '/zh/solutions/elevator-systems/th-ring-chain-bucket-elevator' },
+                    { text: 'TB 系列垂直提升机', link: '/zh/solutions/elevator-systems/tb-vertical-elevator' },
+                    { text: '垂直斗式提升机', link: '/zh/solutions/elevator-systems/vertical-bucket-elevator' },
+                    { text: '粮食提升机', link: '/zh/solutions/elevator-systems/grain-elevator' },
+                    { text: 'U 型螺旋输送机', link: '/zh/solutions/elevator-systems/u-trough-screw-conveyor' },
+                    { text: '刚性星型卸料器', link: '/zh/solutions/elevator-systems/rigid-rotary-airlock' },
+                    { text: '不锈钢星型 A 型卸料器', link: '/zh/solutions/elevator-systems/stainless-steel-rotary-airlock' },
+                    { text: '防爆耐高温星型卸料器', link: '/zh/solutions/elevator-systems/high-temperature-explosion-proof-rotary-airlock' }
+                  ]
                 }
               ]
             }
@@ -3866,6 +3890,23 @@ s0.parentNode.insertBefore(s1,s0);
                   text: 'Filling & Packaging Solutions',
                   collapsed: false,
                   items: canonicalizeFillingSidebarItems(enFillingSeriesSidebarItems)
+                },
+                {
+                  text: 'Elevators & Conveyors',
+                  collapsed: true,
+                  items: [
+                    { text: 'Elevator Series Overview', link: '/en/solutions/elevator-systems/' },
+                    { text: 'TD Belt Bucket Elevator', link: '/en/solutions/elevator-systems/td-belt-bucket-elevator' },
+                    { text: 'NE Plate-Chain Bucket Elevator', link: '/en/solutions/elevator-systems/ne-plate-chain-bucket-elevator' },
+                    { text: 'TH Ring-Chain Bucket Elevator', link: '/en/solutions/elevator-systems/th-ring-chain-bucket-elevator' },
+                    { text: 'TB Vertical Elevator', link: '/en/solutions/elevator-systems/tb-vertical-elevator' },
+                    { text: 'Vertical Bucket Elevator', link: '/en/solutions/elevator-systems/vertical-bucket-elevator' },
+                    { text: 'Grain Elevator', link: '/en/solutions/elevator-systems/grain-elevator' },
+                    { text: 'U-Trough Screw Conveyor', link: '/en/solutions/elevator-systems/u-trough-screw-conveyor' },
+                    { text: 'Rigid Rotary Airlock', link: '/en/solutions/elevator-systems/rigid-rotary-airlock' },
+                    { text: 'Stainless Steel Rotary Airlock', link: '/en/solutions/elevator-systems/stainless-steel-rotary-airlock' },
+                    { text: 'High-Temp Explosion-Proof Airlock', link: '/en/solutions/elevator-systems/high-temperature-explosion-proof-rotary-airlock' }
+                  ]
                 }
               ]
             }
@@ -4142,6 +4183,23 @@ s0.parentNode.insertBefore(s1,s0);
                   text: 'Решения для наполнения',
                   collapsed: true,
                   items: canonicalizeFillingSidebarItems(ruFillingSeriesSidebarItems)
+                },
+                {
+                  text: 'Элеваторы и конвейеры',
+                  collapsed: true,
+                  items: [
+                    { text: 'Обзор серии элеваторов', link: '/ru/solutions/elevator-systems/' },
+                    { text: 'Ленточный ковшовый элеватор TD', link: '/ru/solutions/elevator-systems/td-belt-bucket-elevator' },
+                    { text: 'Пластинчато-цепной элеватор NE', link: '/ru/solutions/elevator-systems/ne-plate-chain-bucket-elevator' },
+                    { text: 'Круглозвенный элеватор TH', link: '/ru/solutions/elevator-systems/th-ring-chain-bucket-elevator' },
+                    { text: 'Вертикальный элеватор TB', link: '/ru/solutions/elevator-systems/tb-vertical-elevator' },
+                    { text: 'Вертикальный ковшовый элеватор', link: '/ru/solutions/elevator-systems/vertical-bucket-elevator' },
+                    { text: 'Зерновой элеватор', link: '/ru/solutions/elevator-systems/grain-elevator' },
+                    { text: 'Шнековый конвейер U-типа', link: '/ru/solutions/elevator-systems/u-trough-screw-conveyor' },
+                    { text: 'Жёсткий шлюзовой питатель', link: '/ru/solutions/elevator-systems/rigid-rotary-airlock' },
+                    { text: 'Шлюзовой питатель из нерж. стали', link: '/ru/solutions/elevator-systems/stainless-steel-rotary-airlock' },
+                    { text: 'Взрывозащищённый питатель', link: '/ru/solutions/elevator-systems/high-temperature-explosion-proof-rotary-airlock' }
+                  ]
                 }
               ]
             }
@@ -4447,6 +4505,23 @@ s0.parentNode.insertBefore(s1,s0);
                   text: 'Solutions de remplissage',
                   collapsed: true,
                   items: canonicalizeFillingSidebarItems(frFillingSeriesSidebarItems)
+                },
+                {
+                  text: 'Élévateurs et convoyeurs',
+                  collapsed: true,
+                  items: [
+                    { text: 'Aperçu de la série d’élévateurs', link: '/fr/solutions/elevator-systems/' },
+                    { text: 'Élévateur à godets à bande TD', link: '/fr/solutions/elevator-systems/td-belt-bucket-elevator' },
+                    { text: 'Élévateur à godets à chaîne NE', link: '/fr/solutions/elevator-systems/ne-plate-chain-bucket-elevator' },
+                    { text: 'Élévateur à godets à chaîne TH', link: '/fr/solutions/elevator-systems/th-ring-chain-bucket-elevator' },
+                    { text: 'Élévateur vertical TB', link: '/fr/solutions/elevator-systems/tb-vertical-elevator' },
+                    { text: 'Élévateur à godets vertical', link: '/fr/solutions/elevator-systems/vertical-bucket-elevator' },
+                    { text: 'Élévateur à grains', link: '/fr/solutions/elevator-systems/grain-elevator' },
+                    { text: 'Convoyeur à vis en U', link: '/fr/solutions/elevator-systems/u-trough-screw-conveyor' },
+                    { text: 'Écluse rotative rigide', link: '/fr/solutions/elevator-systems/rigid-rotary-airlock' },
+                    { text: 'Écluse rotative inox', link: '/fr/solutions/elevator-systems/stainless-steel-rotary-airlock' },
+                    { text: 'Écluse antidéflagrante haute température', link: '/fr/solutions/elevator-systems/high-temperature-explosion-proof-rotary-airlock' }
+                  ]
                 }
               ]
             }
@@ -4682,6 +4757,23 @@ s0.parentNode.insertBefore(s1,s0);
                   text: 'Giải pháp chiết rót đồng bộ',
                   collapsed: true,
                   items: canonicalizeFillingSidebarItems(viFillingSeriesSidebarItems)
+                },
+                {
+                  text: 'Gàu tải & vít tải',
+                  collapsed: true,
+                  items: [
+                    { text: 'Tổng quan dòng gàu tải', link: '/vi/solutions/elevator-systems/' },
+                    { text: 'Gàu tải băng TD', link: '/vi/solutions/elevator-systems/td-belt-bucket-elevator' },
+                    { text: 'Gàu tải xích bản NE', link: '/vi/solutions/elevator-systems/ne-plate-chain-bucket-elevator' },
+                    { text: 'Gàu tải xích vòng TH', link: '/vi/solutions/elevator-systems/th-ring-chain-bucket-elevator' },
+                    { text: 'Gàu tải thẳng đứng TB', link: '/vi/solutions/elevator-systems/tb-vertical-elevator' },
+                    { text: 'Gàu tải gàu thẳng đứng', link: '/vi/solutions/elevator-systems/vertical-bucket-elevator' },
+                    { text: 'Gàu tải ngũ cốc', link: '/vi/solutions/elevator-systems/grain-elevator' },
+                    { text: 'Vít tải máng U', link: '/vi/solutions/elevator-systems/u-trough-screw-conveyor' },
+                    { text: 'Van xoay xả liệu cứng', link: '/vi/solutions/elevator-systems/rigid-rotary-airlock' },
+                    { text: 'Van xoay inox', link: '/vi/solutions/elevator-systems/stainless-steel-rotary-airlock' },
+                    { text: 'Van xoay chống nổ nhiệt cao', link: '/vi/solutions/elevator-systems/high-temperature-explosion-proof-rotary-airlock' }
+                  ]
                 }
               ]
             }
@@ -4987,6 +5079,23 @@ s0.parentNode.insertBefore(s1,s0);
                   text: 'ফিলিং সহায়ক সমাধান (দর)',
                   collapsed: true,
                   items: canonicalizeFillingSidebarItems(bnFillingSeriesSidebarItems)
+                },
+                {
+                  text: 'এলিভেটর ও কনভেয়র',
+                  collapsed: true,
+                  items: [
+                    { text: 'এলিভেটর সিরিজ ওভারভিউ', link: '/bn/solutions/elevator-systems/' },
+                    { text: 'TD বেল্ট বাকেট এলিভেটর', link: '/bn/solutions/elevator-systems/td-belt-bucket-elevator' },
+                    { text: 'NE প্লেট-চেইন এলিভেটর', link: '/bn/solutions/elevator-systems/ne-plate-chain-bucket-elevator' },
+                    { text: 'TH রিং-চেইন এলিভেটর', link: '/bn/solutions/elevator-systems/th-ring-chain-bucket-elevator' },
+                    { text: 'TB ভার্টিক্যাল এলিভেটর', link: '/bn/solutions/elevator-systems/tb-vertical-elevator' },
+                    { text: 'ভার্টিক্যাল বাকেট এলিভেটর', link: '/bn/solutions/elevator-systems/vertical-bucket-elevator' },
+                    { text: 'শস্য এলিভেটর', link: '/bn/solutions/elevator-systems/grain-elevator' },
+                    { text: 'U-ট্রফ স্ক্রু কনভেয়র', link: '/bn/solutions/elevator-systems/u-trough-screw-conveyor' },
+                    { text: 'রিজিড রোটারি এয়ারলক', link: '/bn/solutions/elevator-systems/rigid-rotary-airlock' },
+                    { text: 'স্টেইনলেস স্টিল এয়ারলক', link: '/bn/solutions/elevator-systems/stainless-steel-rotary-airlock' },
+                    { text: 'উচ্চ-তাপ বিস্ফোরণ-প্রতিরোধী এয়ারলক', link: '/bn/solutions/elevator-systems/high-temperature-explosion-proof-rotary-airlock' }
+                  ]
                 }
               ]
             }
