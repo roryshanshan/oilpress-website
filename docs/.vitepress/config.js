@@ -2453,7 +2453,7 @@ const buildFillingOverviewNavItems = (locale) =>
 
 const sidebarTitle = (locale, path) => {
   const title = getDocTitleByPath(locale, path) || getCollectionFallbackName(locale, path)
-  return title.split(/\s+[|｜]\s+/)[0].trim()
+  return title.split(/\s*[|｜]\s*/)[0].trim()
 }
 
 const sidebarLink = (locale, path) => {
@@ -2534,6 +2534,15 @@ const buildUnifiedSidebar = (locale) => {
   })
   const fillingCategoryPaths = DUPLICATE_SOLUTION_CATEGORY_PATTERN.split('|').map((category) => `/solutions/${category}`)
   fillingCategoryPaths.forEach((path) => processPaths.add(path))
+  const elevatorBasePath = '/solutions/elevator-systems'
+  const hasElevatorSection = routeExists(buildLocalizedPath(locale, elevatorBasePath))
+  if (hasElevatorSection) processPaths.add(normalizeSchemaRoute(elevatorBasePath))
+  const elevatorGroup = hasElevatorSection
+    ? sidebarGroup(getRouteLabel(locale, 'elevator-systems'), [
+        sidebarItem(locale, elevatorBasePath),
+        ...directChildPaths(locale, elevatorBasePath).map((path) => sidebarItem(locale, path))
+      ])
+    : null
   const otherSolutionPaths = directChildPaths(locale, '/solutions')
     .filter((path) => !processPaths.has(normalizeSchemaRoute(path)))
 
@@ -2563,6 +2572,7 @@ const buildUnifiedSidebar = (locale) => {
         sidebarItem(locale, '/solutions/production-lines', t.lines),
         ...processGroups,
         ...otherSolutionPaths.map((path) => sidebarItem(locale, path)),
+        ...(elevatorGroup ? [elevatorGroup] : []),
         sidebarGroup(t.fillingLines, fillingCategoryPaths.map((path) => sidebarItem(locale, path)))
       ], false)
     ],
@@ -2638,6 +2648,7 @@ const buildPrimaryNav = (locale) => {
             { text: t.fillingLines, link: `${prefix}/solutions/filling-packages` }
           ]
         },
+        { text: getRouteLabel(locale, 'elevator-systems'), link: `${prefix}/solutions/elevator-systems` },
         {
           text: t.fillingLines,
           items: fillingOverviewItems
