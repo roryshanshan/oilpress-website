@@ -2703,18 +2703,9 @@ const buildLocaleVariants = (route) => {
   return { routeSuffix, variants, xDefaultRoute }
 }
 
-export default {
-  // frontmatter is reactive across client-side navigation, unlike transformHead output.
-  // The language switcher reads localeRoutes from here so it can preserve the current page.
-  transformPageData: (pageData) => {
-    const route = toCanonicalPath(normalizeRoute(pageData.relativePath || 'index.md'))
-    const { variants } = buildLocaleVariants(route === '/' ? '/en' : route)
-    const localeRoutes = {}
-    variants.forEach(({ locale, route: altRoute }) => { localeRoutes[locale] = altRoute })
-    pageData.frontmatter = { ...pageData.frontmatter, localeRoutes }
-  },
-
-  transformHead: ({ pageData }) => {
+// Per-page head tags. Emitted through frontmatter.head (see transformPageData) rather than
+// the transformHead hook, because only frontmatter survives client-side navigation.
+const buildPageHeadTags = (pageData) => {
     const rawRoute = normalizeRoute(pageData.relativePath || 'index.md')
     const route = toCanonicalPath(rawRoute)
     const duplicateSolutionMatch = route.match(DUPLICATE_SOLUTION_DETAIL_RE)
@@ -2862,7 +2853,22 @@ export default {
     ]
 
     return headTags
+}
+
+export default {
+  // frontmatter is reactive across client-side navigation; the transformHead hook is not.
+  // VitePress only re-applies siteData.head + frontmatter.head when the route changes, so
+  // everything route-dependent (canonical, og:*, hreflang, JSON-LD) must be emitted here —
+  // otherwise it keeps advertising whichever page happened to be loaded first.
+  transformPageData: (pageData) => {
+    const route = toCanonicalPath(normalizeRoute(pageData.relativePath || 'index.md'))
+    const { variants } = buildLocaleVariants(route === '/' ? '/en' : route)
+    const localeRoutes = {}
+    variants.forEach(({ locale, route: altRoute }) => { localeRoutes[locale] = altRoute })
+    const head = [...(pageData.frontmatter?.head ?? []), ...buildPageHeadTags(pageData)]
+    pageData.frontmatter = { ...pageData.frontmatter, localeRoutes, head }
   },
+
   lastUpdated: true,
   sitemap: {
     hostname: 'https://hydraulicoilpressing.opchn.com',
@@ -2974,7 +2980,7 @@ export default {
   },
   head: [
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
-    // description / keywords / og / twitter / robots are injected per-page in transformHead
+    // description / keywords / og / twitter / robots are injected per-page via frontmatter.head
     ['meta', { name: 'author', content: 'Shengshi Hecheng' }],
     ['meta', { name: 'theme-color', content: '#e74c3c' }],
     ['meta', { name: 'baidu-site-verification', content: 'codeva-wjCh7UrQj8' }],
