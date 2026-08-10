@@ -228,9 +228,19 @@ const alternateCode = {
 
 const fallbackLocalePath = (locale) => `/${locale}`
 
+// Injected by transformPageData. Unlike transformHead output, frontmatter stays in sync
+// across client-side navigation, so this keeps the switcher on the current page.
+const localeRoutes = computed(() => route.data?.frontmatter?.localeRoutes || {})
+
 const switchLanguage = (locale) => {
   showLanguages.value = false
   if (typeof window === 'undefined' || locale === currentLocale.value) return
+  const mapped = localeRoutes.value[locale]
+  if (mapped) {
+    window.location.assign(mapped)
+    return
+  }
+  // Fallback for pages built before localeRoutes existed
   const alternate = document.querySelector(`link[rel="alternate"][hreflang="${alternateCode[locale]}"]`)
   const targetPath = alternate?.href
     ? new URL(alternate.href, window.location.origin).pathname

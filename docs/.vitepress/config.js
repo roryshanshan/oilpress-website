@@ -2675,7 +2675,45 @@ const buildPrimaryNav = (locale) => {
   ]
 }
 
+const LOCALE_KEYS = Object.keys(LOCALE_CODES)
+
+// Suffix shared by every locale variant of a route, e.g. /zh/products/300 -> /products/300
+const localeRouteSuffix = (route) => {
+  for (const locale of LOCALE_KEYS) {
+    if (route === `/${locale}`) return ''
+    if (route.startsWith(`/${locale}/`)) return route.slice(`/${locale}`.length)
+  }
+  return ''
+}
+
+// Locale variants that actually exist on disk. Single source of truth for both the
+// hreflang tags and the client-side language switcher.
+const buildLocaleVariants = (route) => {
+  const routeSuffix = localeRouteSuffix(route)
+  const variants = LOCALE_KEYS
+    .map((locale) => {
+      // Always no trailing slash to match canonical + vercel trailingSlash:false
+      const localizedRoute = toCanonicalPath(routeSuffix ? `/${locale}${routeSuffix}` : `/${locale}`)
+      return { locale, route: localizedRoute, hreflang: LOCALE_CODES[locale], href: `${SITE_URL}${localizedRoute}` }
+    })
+    .filter(({ route: altRoute }) => routeExists(altRoute))
+  const xDefaultRoute = routeSuffix && routeExists(`/en${routeSuffix}`)
+    ? toCanonicalPath(`/en${routeSuffix}`)
+    : '/en'
+  return { routeSuffix, variants, xDefaultRoute }
+}
+
 export default {
+  // frontmatter is reactive across client-side navigation, unlike transformHead output.
+  // The language switcher reads localeRoutes from here so it can preserve the current page.
+  transformPageData: (pageData) => {
+    const route = toCanonicalPath(normalizeRoute(pageData.relativePath || 'index.md'))
+    const { variants } = buildLocaleVariants(route === '/' ? '/en' : route)
+    const localeRoutes = {}
+    variants.forEach(({ locale, route: altRoute }) => { localeRoutes[locale] = altRoute })
+    pageData.frontmatter = { ...pageData.frontmatter, localeRoutes }
+  },
+
   transformHead: ({ pageData }) => {
     const rawRoute = normalizeRoute(pageData.relativePath || 'index.md')
     const route = toCanonicalPath(rawRoute)
@@ -2700,34 +2738,7 @@ export default {
       || pageData.frontmatter?.robots === 'noindex'
       || pageData.frontmatter?.noindex === true
 
-    const allLangs = Object.keys(LOCALE_CODES)
-    let routeSuffix = ''
-    for (const locale of allLangs) {
-      if (route === `/${locale}`) {
-        routeSuffix = ''
-        break
-      }
-      if (route.startsWith(`/${locale}/`)) {
-        routeSuffix = route.slice(`/${locale}`.length)
-        break
-      }
-    }
-
-    const altHrefs = allLangs
-      .map((locale) => {
-        // Always no trailing slash to match canonical + vercel trailingSlash:false
-        const localizedRoute = toCanonicalPath(routeSuffix ? `/${locale}${routeSuffix}` : `/${locale}`)
-        return {
-          locale,
-          route: localizedRoute,
-          hreflang: LOCALE_CODES[locale],
-          href: `${SITE_URL}${localizedRoute}`
-        }
-      })
-      .filter(({ route: altRoute }) => routeExists(altRoute))
-    const xDefaultRoute = routeSuffix && routeExists(`/en${routeSuffix}`)
-      ? toCanonicalPath(`/en${routeSuffix}`)
-      : '/en'
+    const { routeSuffix, variants: altHrefs, xDefaultRoute } = buildLocaleVariants(route)
 
     const isHome = segments.length === 0
     const isNewsArticle = section === 'news' && segments.length >= 3
