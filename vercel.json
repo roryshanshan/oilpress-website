@@ -8,6 +8,11 @@
       "permanent": true
     },
     {
+      "source": "/:lang(en|zh|fr|ru|vi|bn)/production-lines/coconut-oil-production-line",
+      "destination": "/:lang/solutions/coconut",
+      "permanent": true
+    },
+    {
       "source": "/:lang(en|zh|fr|ru|vi|bn)/solutions/:category(bottle-washing|brewing|cap-shrinking|corking|dairy-processing|drying|filling|filling-packages|filtering|fruit-veg-processing|labeling|laser-coding|light-inspection|packing-palletizing|sealing)/:slug",
       "destination": "/:lang/products/filling/:slug",
       "permanent": true
