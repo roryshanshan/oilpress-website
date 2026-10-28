@@ -78,3 +78,7 @@ The manufacturer quotation should list the machine version, voltage and frequenc
 - [KHOP-20KG Small Hydraulic Oil Press Machine](/en/products/khop-20kg-small-hydraulic-oil-press-machine)
 - [Sesame (Sesame Oil) Solutions](/en/solutions/sesame)
 - [Contact Us for Project Advice](/en/contact/)
+
+## Related Links
+
+- [KHOP-15KG specifications on the manufacturer site](https://hydraulic-oil-press.com/small-sesame-oil-press-machine/khop-15kg-small-hydraulic-oil-press-machine/)

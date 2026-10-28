@@ -3698,7 +3698,7 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: '设备选型 · 生产线方案 · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener noreferrer">厂家官网</a>',
+          message: '设备选型 · 生产线方案 · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener noreferrer">hydraulic-oil-press.com</a>',
           copyright: `© ${CURRENT_YEAR} 山东盛世赫程机械有限公司`
         }
       }
@@ -4007,7 +4007,7 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'Machine Selection · Production Lines · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener noreferrer">Manufacturer Website</a>',
+          message: 'Machine Selection · Production Lines · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener noreferrer">hydraulic-oil-press.com</a>',
           copyright: `© ${CURRENT_YEAR} Shandong Shengshi Hecheng Machinery Co., Ltd`
         }
       }
@@ -4329,7 +4329,7 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'Подбор оборудования · Производственные линии · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener noreferrer">Сайт производителя</a>',
+          message: 'Подбор оборудования · Производственные линии · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener noreferrer">hydraulic-oil-press.com</a>',
           copyright: `© ${CURRENT_YEAR} Shandong Shengshi Hecheng Machinery Co., Ltd`
         }
       }
@@ -4651,7 +4651,7 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'Choix des machines · Lignes de production · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener noreferrer">Site du fabricant</a>',
+          message: 'Choix des machines · Lignes de production · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener noreferrer">hydraulic-oil-press.com</a>',
           copyright: `© ${CURRENT_YEAR} Shandong Shengshi Hecheng Machinery Co., Ltd`
         }
       }
@@ -4903,7 +4903,7 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'Chọn máy · Dây chuyền sản xuất · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener noreferrer">Website nhà sản xuất</a>',
+          message: 'Chọn máy · Dây chuyền sản xuất · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener noreferrer">hydraulic-oil-press.com</a>',
           copyright: `© ${CURRENT_YEAR} Shandong Shengshi Hecheng Machinery Co., Ltd`
         }
       }
@@ -5225,7 +5225,7 @@ s0.parentNode.insertBefore(s1,s0);
           ]
         },
         footer: {
-          message: 'মেশিন নির্বাচন · উৎপাদন লাইন · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener noreferrer">প্রস্তুতকারকের ওয়েবসাইট</a>',
+          message: 'মেশিন নির্বাচন · উৎপাদন লাইন · <a href="https://hydraulic-oil-press.com/" target="_blank" rel="noopener noreferrer">hydraulic-oil-press.com</a>',
           copyright: `© ${CURRENT_YEAR} Shandong Shengshi Hecheng Machinery Co., Ltd`
         }
       }

@@ -1,14 +1,14 @@
 ---
 layout: home
-title: "Hydraulic Oil Press Manufacturer | Models, Price & Quote"
-description: "Compare 300-500 series hydraulic oil presses and edible oil lines; request model selection, equipment pricing, installation scope, and service terms."
+title: "Shengshi Hecheng Oil Press Machines | Product Guide in 6 Languages"
+description: "Product guide for Shengshi Hecheng oil press machines and edible oil lines in English, Chinese, Russian, French, Vietnamese and Bengali: models, processes and quotation."
 keywords: hydraulic oil press price, hydraulic oil press manufacturer, oil press quote, oil press procurement, oil processing line supplier, factory direct, after-sales service, Shengshi Hecheng
 image: "/images/hero-oil-press.webp"
 ---
 
 <div style="text-align: center; margin: 2rem 0;">
   <h1 style="font-size: 2rem; font-weight: bold; color: var(--vp-c-brand); margin-bottom: 0.5rem;">
-    Professional Hydraulic Oil Press Manufacturer
+    Oil Press Machines and Edible Oil Production Lines
   </h1>
   <h2 style="font-size: 1.5rem; font-weight: 500; color: var(--vp-c-text-2);">
     Shandong Shengshi Hecheng Machinery Co., Ltd.
@@ -33,7 +33,7 @@ image: "/images/hero-oil-press.webp"
     <div class="hero-buttons">
       <a href="/en/products/" class="primary-button">View Products</a>
       <a href="/en/contact/" class="contact-link-button">Get Price & Quote</a>
-      <a href="/en/products/" class="secondary-button">Manufacturer Website</a>
+      <a href="https://hydraulic-oil-press.com/" class="secondary-button">Hydraulic oil press main site</a>
     </div>
   </div>
   <div class="hero-image">
@@ -45,7 +45,7 @@ image: "/images/hero-oil-press.webp"
 
 <div class="company-intro">
   <div class="intro-content">
-    <p>Shandong Shengshi Hecheng Machinery Co., Ltd. designs and manufactures hydraulic oil press machines and supporting edible-oil processing equipment in Qingzhou, Shandong, China.</p>
+    <p>Shandong Shengshi Hecheng Machinery Co., Ltd. designs and manufactures hydraulic oil press machines and supporting edible-oil processing equipment in Qingzhou, Shandong, China. Our main English site for the <a href="https://hydraulic-oil-press.com/">hydraulic oil press</a> range is hydraulic-oil-press.com.</p>
     <p>Equipment selection starts with the raw material, hot-press or cold-press route, target batch schedule, required filtration, power supply, workshop space, and destination country. We do not use one capacity figure or one process for every project.</p>
     <p>Buyers can request a model comparison, process proposal, factory test video, export packing plan, installation documents, spare-parts list, and remote after-sales support before confirming an order.</p>
     <a href="/en/about/" class="learn-more">Learn More →</a>

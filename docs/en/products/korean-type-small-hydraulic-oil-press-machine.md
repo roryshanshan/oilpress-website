@@ -83,3 +83,7 @@ For the clearest positioning and best process match, see [Small Sesame Oil Press
 - [KHOP-20KG Small Hydraulic Oil Press Machine](/en/products/khop-20kg-small-hydraulic-oil-press-machine)
 - [Sesame (Sesame Oil) Solutions](/en/solutions/sesame)
 - [Contact Us for Shop Oil Press Advice](/en/contact/)
+
+## Related Links
+
+- [Korean-type small hydraulic oil press for shops](https://hydraulic-oil-press.com/products/korean-type-small-hydraulic-oil-press-machine-for-shop-small-business/)
