@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Shengshi Hecheng Oil Press Machines | Product Guide in 6 Languages"
-description: "Product guide for Shengshi Hecheng oil press machines and edible oil lines in English, Chinese, Russian, French, Vietnamese and Bengali: models, processes and quotation."
+title: "Shengshi Hecheng Oil Press Machines | 6-Language Guide"
+description: "Shengshi Hecheng oil press machines and edible oil lines in English, Chinese, Russian, French, Vietnamese and Bengali: models and quotes."
 keywords: hydraulic oil press price, hydraulic oil press manufacturer, oil press quote, oil press procurement, oil processing line supplier, factory direct, after-sales service, Shengshi Hecheng
 image: "/images/hero-oil-press.webp"
 ---
