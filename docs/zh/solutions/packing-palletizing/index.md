@@ -59,6 +59,7 @@ FAT应使用约定包装材料，检查纸箱成型、产品方向、封箱质�
 
 ## 相关生产线环节
 
+- [后道包装设备：从开箱到托盘缠绕 52 款机型](/zh/products/filling/end-of-line-packaging-machines)
 - [贴标机系列](/zh/solutions/labeling/)
 - [激光打码机系列](/zh/solutions/laser-coding/)
 - [灯检机系列](/zh/solutions/light-inspection/)

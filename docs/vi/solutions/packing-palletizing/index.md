@@ -57,6 +57,7 @@ FAT kiểm tra dựng thùng, hướng sản phẩm, chất lượng đóng, sơ
 
 ## Công đoạn phía trước
 
+- [Máy đóng gói cuối dây chuyền](/vi/products/filling/end-of-line-packaging-machines)
 - [Máy dán nhãn](/vi/solutions/labeling/)
 - [Máy khắc mã laser](/vi/solutions/laser-coding/)
 - [Máy soi kiểm tra chai](/vi/solutions/light-inspection/)

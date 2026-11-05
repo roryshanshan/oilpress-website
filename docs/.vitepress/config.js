@@ -112,7 +112,8 @@ const zhFillingSeriesSidebarItems = [
       { text: '系列页', link: '/zh/solutions/packing-palletizing/' },
       { text: '自动开箱、纸箱成型、装箱机', link: '/zh/products/filling/case-erector-packing-machine' },
       { text: '自动折盖封箱机', link: '/zh/products/filling/carton-sealing-machine' },
-      { text: '机器人码垛机', link: '/zh/products/filling/robot-palletizer' }
+      { text: '机器人码垛机', link: '/zh/products/filling/robot-palletizer' },
+      { text: '后道包装设备（52 款）', link: '/zh/products/filling/end-of-line-packaging-machines' }
     ]
   },
   {
@@ -293,7 +294,8 @@ const enFillingSeriesSidebarItems = [
       { text: 'Series Overview', link: '/en/solutions/packing-palletizing/' },
       { text: 'Case Erector Packing Machine', link: '/en/products/filling/case-erector-packing-machine' },
       { text: 'Carton Sealing Machine', link: '/en/products/filling/carton-sealing-machine' },
-      { text: 'Robot Palletizer', link: '/en/products/filling/robot-palletizer' }
+      { text: 'Robot Palletizer', link: '/en/products/filling/robot-palletizer' },
+      { text: 'End-of-Line Packaging Machines', link: '/en/products/filling/end-of-line-packaging-machines' }
     ]
   },
   {
@@ -461,7 +463,8 @@ const ruFillingSeriesSidebarItems = [
       { text: 'Обзор серии', link: '/ru/solutions/packing-palletizing/' },
       { text: 'Машина формирования коробов', link: '/ru/products/filling/case-erector-packing-machine' },
       { text: 'Машина заклейки коробов', link: '/ru/products/filling/carton-sealing-machine' },
-      { text: 'Робот-паллетайзер', link: '/ru/products/filling/robot-palletizer' }
+      { text: 'Робот-паллетайзер', link: '/ru/products/filling/robot-palletizer' },
+      { text: 'Оборудование конечной упаковки', link: '/ru/products/filling/end-of-line-packaging-machines' }
     ]
   },
   {
@@ -629,7 +632,8 @@ const frFillingSeriesSidebarItems = [
       { text: 'Aperçu de la série', link: '/fr/solutions/packing-palletizing/' },
       { text: 'Monteur de cartons', link: '/fr/products/filling/case-erector-packing-machine' },
       { text: 'Fermeuse de cartons', link: '/fr/products/filling/carton-sealing-machine' },
-      { text: 'Palettiseur robotisé', link: '/fr/products/filling/robot-palletizer' }
+      { text: 'Palettiseur robotisé', link: '/fr/products/filling/robot-palletizer' },
+      { text: 'Machines d\'emballage de fin de ligne', link: '/fr/products/filling/end-of-line-packaging-machines' }
     ]
   },
   {
@@ -797,7 +801,8 @@ const viFillingSeriesSidebarItems = [
       { text: 'Tổng quan dòng', link: '/vi/solutions/packing-palletizing/' },
       { text: 'Máy dựng thùng carton', link: '/vi/products/filling/case-erector-packing-machine' },
       { text: 'Máy dán kín thùng carton', link: '/vi/products/filling/carton-sealing-machine' },
-      { text: 'Robot xếp pallet', link: '/vi/products/filling/robot-palletizer' }
+      { text: 'Robot xếp pallet', link: '/vi/products/filling/robot-palletizer' },
+      { text: 'Máy đóng gói cuối dây chuyền', link: '/vi/products/filling/end-of-line-packaging-machines' }
     ]
   },
   {
@@ -965,7 +970,8 @@ const bnFillingSeriesSidebarItems = [
       { text: 'সিরিজ ওভারভিউ', link: '/bn/solutions/packing-palletizing/' },
       { text: 'কার্টন ফর্মিং মেশিন', link: '/bn/products/filling/case-erector-packing-machine' },
       { text: 'কার্টন সিলিং মেশিন', link: '/bn/products/filling/carton-sealing-machine' },
-      { text: 'রোবট প্যালেটাইজার', link: '/bn/products/filling/robot-palletizer' }
+      { text: 'রোবট প্যালেটাইজার', link: '/bn/products/filling/robot-palletizer' },
+      { text: 'এন্ড-অফ-লাইন প্যাকেজিং মেশিন', link: '/bn/products/filling/end-of-line-packaging-machines' }
     ]
   },
   {

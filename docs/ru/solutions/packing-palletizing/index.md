@@ -59,6 +59,7 @@ FAT проводится на согласованных упаковочных 
 
 ## Смежные участки
 
+- [Оборудование конечной упаковки](/ru/products/filling/end-of-line-packaging-machines)
 - [Этикетировочные машины](/ru/solutions/labeling/)
 - [Лазерные маркираторы](/ru/solutions/laser-coding/)
 - [Машины световой инспекции](/ru/solutions/light-inspection/)

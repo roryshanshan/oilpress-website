@@ -59,6 +59,7 @@ FAT should use the agreed packaging materials and verify case forming, product o
 
 ## Related line modules
 
+- [End-of-line packaging machines: 52 models from case erecting to pallet wrapping](/en/products/filling/end-of-line-packaging-machines)
 - [Labeling machines](/en/solutions/labeling/)
 - [Laser coding machines](/en/solutions/laser-coding/)
 - [Light inspection machines](/en/solutions/light-inspection/)

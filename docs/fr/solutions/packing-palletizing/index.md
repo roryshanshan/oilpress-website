@@ -57,6 +57,7 @@ La réception usine vérifie le formage du carton, l'orientation des produits, l
 
 ## Modules en amont
 
+- [Machines d'emballage de fin de ligne](/fr/products/filling/end-of-line-packaging-machines)
 - [Étiquetage](/fr/solutions/labeling/)
 - [Marquage laser](/fr/solutions/laser-coding/)
 - [Contrôle visuel éclairé](/fr/solutions/light-inspection/)

@@ -57,6 +57,7 @@ FAT-এ কার্টন গঠন, পণ্যের দিক, বন্ধ
 
 ## আগের মডিউল
 
+- [এন্ড-অফ-লাইন প্যাকেজিং মেশিন](/bn/products/filling/end-of-line-packaging-machines)
 - [লেবেলিং মেশিন](/bn/solutions/labeling/)
 - [লেজার কোডিং](/bn/solutions/laser-coding/)
 - [বোতল আলো-পরিদর্শন](/bn/solutions/light-inspection/)
