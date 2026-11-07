@@ -288,6 +288,56 @@ export const sectionLabels = (locale) => {
   }
 }
 
+
+const OFFICIAL_SITE = 'https://hydraulic-oil-press.com'
+// Deep links to the matching manufacturer-site page; anything unmapped goes to the homepage.
+const officialDeepLinks = {
+  '/products/300': '/products/300325-model-for-hot-pressing/',
+  '/products/325': '/products/300325-model-for-hot-pressing/',
+  '/products/355': '/products/cold-press-model-from-370-ton-to-630-ton/',
+  '/products/400': '/products/cold-press-model-from-370-ton-to-630-ton/',
+  '/products/426': '/products/cold-press-model-from-370-ton-to-630-ton/',
+  '/products/480': '/products/cold-press-model-from-370-ton-to-630-ton/',
+  '/products/500': '/products/cold-press-model-from-370-ton-to-630-ton/',
+  '/products/korean-type-small-hydraulic-oil-press-machine': '/products/korean-type-small-hydraulic-oil-press-machine-for-shop-small-business/',
+  '/products/khop-10kg-small-hydraulic-oil-press-machine': '/small-sesame-oil-press-machine/khop-10kg-small-hydraulic-oil-press-machine/',
+  '/products/khop-15kg-small-hydraulic-oil-press-machine': '/small-sesame-oil-press-machine/khop-15kg-small-hydraulic-oil-press-machine/',
+  '/products/khop-20kg-small-hydraulic-oil-press-machine': '/small-sesame-oil-press-machine/khop-20kg-small-hydraulic-oil-press-machine/',
+  '/products/small-sesame-oil-press-machine': '/small-sesame-oil-press-machine/',
+  '/products/supporting': '/products/supporting-machine-for-hydraulic-oil-press-machine/',
+  '/products/pre-press-machine': '/pre-press-machine/',
+  '/products/cake-pulverizer': '/oil-cake-pulverizer/',
+  '/products/cake-wrapping-machine': '/cake-wrapping-machine/',
+  '/products/27kw-electric-steamer': '/27kw-electric-steamer-upgraded-model/',
+  '/products/automatic-drum-roaster': '/automatic-drum-roaster/',
+  '/products/sesame-screening-machine': '/sesame-screening-machine/',
+  '/products/edible-oil-refining-equipment': '/edible-oil-refining-line/',
+  '/products/refining-and-dewaxing-equipment': '/edible-oil-refining-line/',
+  '/products/filtration-equipment': '/pneumatic-oil-filter-with-multi-layer-paper-inside/',
+  '/products/pneumatic-filter-press': '/pneumatic-oil-filter-with-multi-layer-paper-inside/',
+  '/products/filling-equipment': '/products/filling-machine-series/',
+  '/products/filling/end-of-line-packaging-machines': '/products/filling-machine-series/end-of-line-packaging-machines/',
+  '/solutions/packing-palletizing': '/products/filling-machine-series/end-of-line-packaging-machines/',
+  '/solutions/filling-packages': '/products/filling-machine-series/',
+  '/solutions/elevator-systems': '/products/elevator-conveyor-systems/',
+  '/solutions/production-lines': '/production-lines/',
+  '/solutions/sesame': '/production-lines/sesame-hydraulic-oil-production-line/',
+  '/solutions/peanut': '/production-lines/peanut-hydraulic-oil-press-production-line/',
+  '/solutions/coconut': '/production-lines/coconut-oil-production-line/',
+  '/solutions/flaxseed': '/production-lines/flaxseed-linseed-oil-production-line/',
+  '/solutions/rapeseed': '/production-lines/rapeseed-hydraulic-oil-production-line/',
+  '/solutions/soybean': '/production-lines/soybean-hydraulic-oil-production-line/',
+  '/solutions/sunflower': '/sunflower-hydraulic-oil-production-line/',
+  '/solutions/palm': '/production-lines/palm-oil-production-line/',
+  '/solutions/avocado': '/oilseeds-solution/avocado-oil-line/',
+  '/solutions/tea-seed': '/tea-seed-camellia-oil-production-line/',
+  '/solutions/grape-seed': '/grape-seed-oil-line/',
+}
+const officialTarget = (path = '') => {
+  const suffix = path.replace(/^\/(en|zh|fr|ru|vi|bn)(?=\/|$)/, '').replace(/\.html$/, '').replace(/\/index$/, '').replace(/\/$/, '')
+  return OFFICIAL_SITE + (officialDeepLinks[suffix] || '/')
+}
+
 export const classifyPage = (path = '') => {
   if (/\/contact\/?$/.test(path)) return 'contact'
   if (/\/products(?:\/|$)/.test(path)) return 'product'
@@ -319,14 +369,14 @@ export const buildPathway = (locale, path) => {
       card(t.processRoute, t.processRouteText, '/solutions/seed-oils'),
       card(t.buyerGuides, t.buyerGuidesText, '/news/technology/'),
       card(t.requestQuote, t.requestQuoteText, '/contact/', true),
-      card(t.officialSite, t.officialSiteText, 'https://hydraulic-oil-press.com/', false, true)
+      card(t.officialSite, t.officialSiteText, officialTarget(path), false, true)
     ],
     solution: [
       card(t.compareModels, t.compareModelsText, '/products/'),
       card(t.planLine, t.planLineText, '/solutions/production-lines'),
       card(t.buyerGuides, t.buyerGuidesText, '/news/technology/'),
       card(t.requestQuote, t.requestQuoteText, '/contact/', true),
-      card(t.officialSite, t.officialSiteText, 'https://hydraulic-oil-press.com/', false, true)
+      card(t.officialSite, t.officialSiteText, officialTarget(path), false, true)
     ],
     guide: [
       card(t.compareModels, t.compareModelsText, '/products/'),
@@ -339,7 +389,7 @@ export const buildPathway = (locale, path) => {
       card(t.planLine, t.planLineText, '/solutions/production-lines'),
       card(t.buyerGuides, t.buyerGuidesText, '/news/technology/'),
       card(t.requestQuote, t.requestQuoteText, '/contact/', true),
-      card(t.officialSite, t.officialSiteText, 'https://hydraulic-oil-press.com/', false, true)
+      card(t.officialSite, t.officialSiteText, officialTarget(path), false, true)
     ],
     contact: [
       card(t.compareModels, t.compareModelsText, '/products/'),
