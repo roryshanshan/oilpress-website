@@ -36,6 +36,17 @@ Số liệu từ xưởng đối tác sản xuất máy này cho các dây chuy�
 
 ![Nhìn bên hông: động cơ, quạt và túi gom vỏ lụa](/images/peanut-peeling/dry-peanut-peeling-machine-motor-fan-side.webp)
 
+## Video vận hành
+
+<div class="video-seo-card">
+  <h3>Đậu rang vào, đậu đã bóc vỏ lụa ra</h3>
+  <p>Nhân đậu phộng đã rang được đổ vào phễu, các trục cao su chà tróc vỏ lụa đỏ và nhân đã bóc chạy ra máng xuống thùng. Quay tại xưởng, 13 giây, không có âm thanh.</p>
+  <video controls preload="metadata" playsinline muted poster="/videos/oil-press/peanut-red-skin-peeling-machine-video-poster.jpg">
+    <source src="/videos/oil-press/peanut-red-skin-peeling-machine-running.mp4" type="video/mp4">
+  </video>
+  <p><a class="video-seo-cta" href="/vi/contact/">Gửi loại nhân đậu và công suất để nhận báo giá</a></p>
+</div>
+
 ## Trước khi đặt hàng
 
 - **Rang trước.** Đây là máy bóc khô cho đậu rang hoặc chiên; đậu sống cần máy bóc ướt (ngâm).

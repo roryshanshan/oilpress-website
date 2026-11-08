@@ -36,6 +36,17 @@ Figures are from the partner workshop that builds this peeler for our peanut lin
 
 ![Side view: drive motor, skin fan and red-skin collection bag](/images/peanut-peeling/dry-peanut-peeling-machine-motor-fan-side.webp)
 
+## Working Video
+
+<div class="video-seo-card">
+  <h3>Roasted kernels in, peeled kernels out</h3>
+  <p>Roasted peanut kernels go into the hopper, the rubber rollers rub the red skins off and the peeled kernels run out of the chute into the box. Workshop clip, 13 seconds, no sound.</p>
+  <video controls preload="metadata" playsinline muted poster="/videos/oil-press/peanut-red-skin-peeling-machine-video-poster.jpg">
+    <source src="/videos/oil-press/peanut-red-skin-peeling-machine-running.mp4" type="video/mp4">
+  </video>
+  <p><a class="video-seo-cta" href="/en/contact/">Send your kernel type and output for a quote</a></p>
+</div>
+
 ## Before You Order
 
 - **Roast first.** This is a dry peeler for roasted or fried kernels. Raw peanuts need a wet (soak) peeler.

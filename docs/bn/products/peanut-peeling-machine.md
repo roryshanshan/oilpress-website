@@ -36,6 +36,17 @@ image: "/images/peanut-peeling/dry-peanut-peeling-machine.webp"
 
 ![পাশ থেকে: মোটর, ফ্যান ও খোসা সংগ্রহের ব্যাগ](/images/peanut-peeling/dry-peanut-peeling-machine-motor-fan-side.webp)
 
+## কাজের ভিডিও
+
+<div class="video-seo-card">
+  <h3>ভাজা দানা ঢোকে, খোসা ছাড়ানো দানা বের হয়</h3>
+  <p>ভাজা চিনাবাদামের দানা হপারে ঢালা হয়, রাবার রোলার লাল খোসা ঘষে তুলে দেয় এবং খোসা ছাড়ানো দানা চুট দিয়ে বাক্সে পড়ে। কারখানায় তোলা, ১৩ সেকেন্ড, শব্দ নেই।</p>
+  <video controls preload="metadata" playsinline muted poster="/videos/oil-press/peanut-red-skin-peeling-machine-video-poster.jpg">
+    <source src="/videos/oil-press/peanut-red-skin-peeling-machine-running.mp4" type="video/mp4">
+  </video>
+  <p><a class="video-seo-cta" href="/bn/contact/">দানার ধরন ও উৎপাদন জানিয়ে দাম জানুন</a></p>
+</div>
+
 ## অর্ডারের আগে
 
 - **আগে রোস্ট করুন।** এটি রোস্ট বা ভাজা দানার জন্য; কাঁচা চিনাবাদামে ভেজা পদ্ধতির মেশিন লাগে।

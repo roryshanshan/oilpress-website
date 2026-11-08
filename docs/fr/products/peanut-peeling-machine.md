@@ -36,6 +36,17 @@ Données de l'atelier partenaire qui fabrique cette machine pour nos lignes arac
 
 ![Vue latérale : moteur, ventilateur et sac à pellicules](/images/peanut-peeling/dry-peanut-peeling-machine-motor-fan-side.webp)
 
+## Vidéo de fonctionnement
+
+<div class="video-seo-card">
+  <h3>Arachides grillées en entrée, arachides pelées en sortie</h3>
+  <p>Les arachides grillées sont versées dans la trémie, les rouleaux en caoutchouc frottent la peau rouge et les arachides pelées sortent par la goulotte dans le carton. Vidéo d’atelier, 13 secondes, sans son.</p>
+  <video controls preload="metadata" playsinline muted poster="/videos/oil-press/peanut-red-skin-peeling-machine-video-poster.jpg">
+    <source src="/videos/oil-press/peanut-red-skin-peeling-machine-running.mp4" type="video/mp4">
+  </video>
+  <p><a class="video-seo-cta" href="/fr/contact/">Envoyez le type d’arachides et le débit pour un devis</a></p>
+</div>
+
 ## Avant de commander
 
 - **Griller d'abord.** Machine à sec pour arachides grillées ou frites ; les arachides crues demandent une éplucheuse par voie humide.

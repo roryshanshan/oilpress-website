@@ -36,6 +36,17 @@ image: "/images/peanut-peeling/dry-peanut-peeling-machine.webp"
 
 ![Вид сбоку: двигатель, вентилятор и мешок для кожицы](/images/peanut-peeling/dry-peanut-peeling-machine-motor-fan-side.webp)
 
+## Видео работы
+
+<div class="video-seo-card">
+  <h3>На входе обжаренные ядра, на выходе очищенные</h3>
+  <p>Обжаренные ядра арахиса засыпают в бункер, резиновые валки стирают красную кожицу, и очищенные ядра выходят по лотку в коробку. Съёмка в цехе, 13 секунд, без звука.</p>
+  <video controls preload="metadata" playsinline muted poster="/videos/oil-press/peanut-red-skin-peeling-machine-video-poster.jpg">
+    <source src="/videos/oil-press/peanut-red-skin-peeling-machine-running.mp4" type="video/mp4">
+  </video>
+  <p><a class="video-seo-cta" href="/ru/contact/">Укажите тип ядер и производительность для расчёта цены</a></p>
+</div>
+
 ## Перед заказом
 
 - **Сначала обжарка.** Это сухая машина для жареного арахиса; сырой арахис очищают мокрым способом.

@@ -36,6 +36,17 @@ image: "/images/peanut-peeling/dry-peanut-peeling-machine.webp"
 
 ![侧面：电机、风机和红衣收集袋](/images/peanut-peeling/dry-peanut-peeling-machine-motor-fan-side.webp)
 
+## 工作视频
+
+<div class="video-seo-card">
+  <h3>熟花生米进料，去皮花生米出料</h3>
+  <p>烤好的花生米倒入料斗，橡胶辊把红衣搓下，去皮后的花生米从出料口落进纸箱。车间实拍，13 秒，无声。</p>
+  <video controls preload="metadata" playsinline muted poster="/videos/oil-press/peanut-red-skin-peeling-machine-video-poster.jpg">
+    <source src="/videos/oil-press/peanut-red-skin-peeling-machine-running.mp4" type="video/mp4">
+  </video>
+  <p><a class="video-seo-cta" href="/zh/contact/">发送花生米类型和产量，获取报价</a></p>
+</div>
+
 ## 下单前确认
 
 - **先烘烤。**这是干法脱皮机，只适用于熟花生。生花生需要湿法（浸泡）脱皮机。
