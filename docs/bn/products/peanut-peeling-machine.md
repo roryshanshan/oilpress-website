@@ -53,4 +53,4 @@ image: "/images/peanut-peeling/dry-peanut-peeling-machine.webp"
 
 আপনার চিনাবাদাম রোস্ট, ভাজা না কাঁচা, ঘণ্টায় কত কেজি দরকার, এবং স্থানীয় ভোল্টেজ ও ফ্রিকোয়েন্সি জানান। আমরা আপনার রোস্টার ও বাটার মিলের সাথে মিলিয়ে কোটেশন পাঠাব।
 
-প্রস্তুতকারকের সাইটে পূর্ণ পৃষ্ঠা: [Peanut Peeling Machine](https://hydraulic-oil-press.com/products/oil-mill-equipment/peanut-peeling-machine/)।
+প্রস্তুতকারকের সাইটে পূর্ণ পৃষ্ঠা: [Peanut Red Skin Peeling Machine](https://hydraulic-oil-press.com/products/oil-mill-equipment/peanut-peeling-machine/)।

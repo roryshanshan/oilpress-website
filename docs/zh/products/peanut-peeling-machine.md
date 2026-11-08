@@ -53,4 +53,4 @@ image: "/images/peanut-peeling/dry-peanut-peeling-machine.webp"
 
 请告诉我们花生是烘烤、油炸还是生的，每小时需要多少公斤，以及当地电压和频率。我们按您的炒锅和磨酱机匹配脱皮机并报价。
 
-厂家官网完整页面：[Peanut Peeling Machine](https://hydraulic-oil-press.com/products/oil-mill-equipment/peanut-peeling-machine/)。
+厂家官网完整页面：[Peanut Red Skin Peeling Machine](https://hydraulic-oil-press.com/products/oil-mill-equipment/peanut-peeling-machine/)。

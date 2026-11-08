@@ -53,4 +53,4 @@ Décortiqueuse → [torréfacteur](/fr/products/automatic-drum-roaster) → plat
 
 Indiquez si vos arachides sont grillées, frites ou crues, le débit horaire souhaité, ainsi que la tension et la fréquence locales. Nous adapterons la machine à votre torréfacteur et à votre broyeur.
 
-Page complète sur le site du fabricant : [Peanut Peeling Machine](https://hydraulic-oil-press.com/products/oil-mill-equipment/peanut-peeling-machine/).
+Page complète sur le site du fabricant : [Peanut Red Skin Peeling Machine](https://hydraulic-oil-press.com/products/oil-mill-equipment/peanut-peeling-machine/).

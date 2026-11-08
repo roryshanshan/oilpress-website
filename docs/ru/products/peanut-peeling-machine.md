@@ -1,5 +1,5 @@
 ---
-title: "Машина для очистки арахиса от кожуры | Цена и предложение"
+title: "Машина для снятия красной кожицы с арахиса | Цена"
 description: "Сухая машина для снятия красной кожицы с жареного арахиса: около 200 кг/ч, очистка от 99 %, 220 или 380 В. Цена производителя и предложение."
 keywords: цена машины для очистки арахиса, коммерческое предложение очистка кожицы арахиса, производитель, линия арахисовой пасты
 image: "/images/peanut-peeling/dry-peanut-peeling-machine.webp"
@@ -53,4 +53,4 @@ image: "/images/peanut-peeling/dry-peanut-peeling-machine.webp"
 
 Сообщите, обжаренный, жареный или сырой у вас арахис, нужную производительность в кг/ч, напряжение и частоту сети. Мы подберём машину под вашу жаровню и мельницу и вышлем предложение.
 
-Полная страница на сайте производителя: [Peanut Peeling Machine](https://hydraulic-oil-press.com/products/oil-mill-equipment/peanut-peeling-machine/).
+Полная страница на сайте производителя: [Peanut Red Skin Peeling Machine](https://hydraulic-oil-press.com/products/oil-mill-equipment/peanut-peeling-machine/).

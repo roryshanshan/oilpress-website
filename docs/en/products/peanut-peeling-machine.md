@@ -1,14 +1,14 @@
 ---
-title: "Peanut Peeling Machine | Dry Red Skin Peeler Price & Quote"
-description: "Dry peanut peeling machine for roasted or fried kernels: about 200 kg/h, peeling rate 99% or more, 220 or 380 V. Price and quote for peanut butter lines."
-keywords: peanut peeling machine price, peanut red skin peeler quote, peanut skin removing machine manufacturer, peanut butter line
+title: "Peanut Red Skin Peeler | Dry Blancher Price & Quote"
+description: "Dry peanut blancher that removes red skins, not shells, from roasted or fried kernels: about 200 kg/h, 99% or more peeled, 220 or 380 V. Price and quote."
+keywords: peanut red skin peeling machine price, peanut blanching machine quote, peanut peeling machine manufacturer, peanut butter line
 image: "/images/peanut-peeling/dry-peanut-peeling-machine.webp"
 ---
-# Dry Peanut Peeling Machine (200 kg/h)
+# Peanut Red Skin Peeling Machine (Dry Blancher), 200 kg/h
 
 ![Dry peanut peeling machine with stainless hopper and skin fan](/images/peanut-peeling/dry-peanut-peeling-machine.webp)
 
-This dry peeler rubs the red skins off roasted or fried peanut kernels and blows them away with a fan. No soaking, no water: the kernels come out dry and go straight to the butter mill, the fryer or the chopper. In a peanut butter line it sits between the roaster and the grinder.
+**It removes the red skins from roasted kernels, not the shells.** This dry blancher rubs the red skins off roasted or fried peanut kernels and blows them away with a fan. No soaking, no water: the kernels come out dry and go straight to the butter mill, the fryer or the chopper. In a peanut butter line it sits between the roaster and the grinder.
 
 ## Technical Data
 
@@ -53,4 +53,4 @@ Sheller → [roaster](/en/products/automatic-drum-roaster) → cooling tray → 
 
 Tell us whether your peanuts are roasted, fried or raw, the kilograms per hour you need, and your voltage and frequency. We will match the peeler to your roaster and butter mill and send a quotation.
 
-Full page on the manufacturer site: [Peanut Peeling Machine](https://hydraulic-oil-press.com/products/oil-mill-equipment/peanut-peeling-machine/).
+Full page on the manufacturer site: [Peanut Red Skin Peeling Machine](https://hydraulic-oil-press.com/products/oil-mill-equipment/peanut-peeling-machine/).

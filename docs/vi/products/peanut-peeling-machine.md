@@ -53,4 +53,4 @@ Máy tách vỏ → [máy rang](/vi/products/automatic-drum-roaster) → khay l�
 
 Cho chúng tôi biết đậu của bạn là rang, chiên hay sống, công suất cần theo kg/h, điện áp và tần số tại chỗ. Chúng tôi sẽ chọn máy phù hợp với máy rang và máy xay của bạn rồi gửi báo giá.
 
-Trang đầy đủ trên website nhà sản xuất: [Peanut Peeling Machine](https://hydraulic-oil-press.com/products/oil-mill-equipment/peanut-peeling-machine/).
+Trang đầy đủ trên website nhà sản xuất: [Peanut Red Skin Peeling Machine](https://hydraulic-oil-press.com/products/oil-mill-equipment/peanut-peeling-machine/).
