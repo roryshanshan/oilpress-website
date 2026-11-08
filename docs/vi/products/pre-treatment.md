@@ -10,6 +10,7 @@ Tiền xử lý không phải là một bộ máy cố định. Phạm vi thiế
 ## Chốt quy trình trước khi chọn máy
 
 - **Hạt khô kích thước nhỏ:** loại bụi, tạp chất lớn, đá và kim loại trước khi ép. Với mè, cải dầu, hạt lanh, tía tô và các hạt tương tự, có thể bắt đầu từ [máy sàng mè](/vi/products/sesame-screening-machine) rồi xác nhận cỡ lưới bằng mẫu đại diện.
+- **Đậu phộng, mè và các loại hạt làm dầu hoặc bơ thực phẩm:** sau khi sàng, [máy tách màu](/vi/products/oilseed-color-sorter) loại hạt mốc, đen, lép, đá và vỏ mà sàng không nhận ra.
 - **Nhân cứng và các loại hạt có vỏ:** xác định có cần tách vỏ, phân cỡ hay không và cỡ nguyên liệu mà máy ép yêu cầu. Thử mẫu để quyết định [máy nghiền cao tốc 11 kW](/vi/products/11kw-high-speed-pulverizer) hay thiết bị nghiền khác phù hợp hơn.
 - **Dự án ép nóng với dòng 300/325:** sau làm sạch và nghiền, lựa chọn hấp, điều ẩm hoặc rang theo công thức. So sánh [nồi hấp điện 27 kW](/vi/products/27kw-electric-steamer), [nồi hấp đốt củi](/vi/products/wood-fired-steamer) và [máy rang trống tự động](/vi/products/automatic-drum-roaster) theo khối lượng mẻ và nguồn nhiệt thực tế.
 - **Dự án ép lạnh với dòng 355-500:** làm sạch, chỉ sấy nhiệt độ thấp khi cần, sau đó nghiền và nạp trực tiếp vào thùng ép thủy lực. Không mặc định đưa hấp hoặc rang nhiệt độ cao vào báo giá ép lạnh.

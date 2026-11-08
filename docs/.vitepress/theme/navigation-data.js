@@ -311,6 +311,7 @@ const officialDeepLinks = {
   '/products/27kw-electric-steamer': '/27kw-electric-steamer-upgraded-model/',
   '/products/automatic-drum-roaster': '/automatic-drum-roaster/',
   '/products/peanut-peeling-machine': '/products/oil-mill-equipment/peanut-peeling-machine/',
+  '/products/oilseed-color-sorter': '/products/oil-mill-equipment/oilseed-color-sorter/',
   '/products/sesame-screening-machine': '/sesame-screening-machine/',
   '/products/edible-oil-refining-equipment': '/edible-oil-refining-line/',
   '/products/refining-and-dewaxing-equipment': '/edible-oil-refining-line/',
