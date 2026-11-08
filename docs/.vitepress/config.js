@@ -2966,6 +2966,9 @@ export default {
       // Locale search indexes are lazy-loaded and currently peak below 1.8 MB.
       chunkSizeWarningLimit: 1900,
       rollupOptions: {
+        // EdgeOne's build container has a low open-file limit; with 1,200+ pages
+        // Rollup's default of 1000 parallel reads hits EMFILE.
+        maxParallelFileOps: 64,
         output: {
           manualChunks(id) {
             if (id.includes('node_modules')) {
