@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Máy chiết rót thuốc bảo vệ thực vật | Báo giá từ nhà sản xuất"
 description: "Báo giá máy chiết thuốc bảo vệ thực vật từ nhà sản xuất; kiểm tra 2.000-7.000 chai/giờ, vật liệu tiếp xúc, loại chai và ghép nối."
 keywords: "giá máy chiết rót thuốc trừ sâu, báo giá máy chiết rót thuốc trừ sâu, công suất tham khảo 2.000-7.000 chai/giờ, vật liệu chai và tính chất hóa chất, tích hợp dây chuyền chiết rót, cấu hình xuất khẩu, phụ tùng, hỗ trợ sau bán"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Monobloc vin 3-en-1 | Prix fabricant et devis"
 description: "Monobloc vin de rinçage, remplissage et bouchage, de 2 000 à 6 000 bouteilles/h pour verre. Comparez les formats, l'intégration, le prix, le devis et le SAV."
 keywords: "monobloc vin de rinçage, remplissage et bouchage prix, devis monobloc vin de rinçage, remplissage et bouchage, 2 000-6 000 bouteilles/h pour verre de diamètre 60-100 mm et hauteur 220-350 mm, intégration ligne de conditionnement, équipement export, service après-vente"

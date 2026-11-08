@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Thiết bị xử lý sản phẩm sữa | Giá và báo giá"
 description: "Xác định xử lý nhiệt, bồn đệm, chiết rót và vệ sinh cho sữa hoặc đồ uống sữa trước khi yêu cầu cấu hình và báo giá nhà sản xuất."
 keywords: giá thiết bị chế biến sữa, báo giá dây chuyền sữa, thiết bị thanh trùng, chiết rót đồ uống sữa, mua thiết bị vệ sinh, hậu mãi

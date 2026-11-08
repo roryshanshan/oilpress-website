@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Boucheuse automatique à liège | Prix fabricant et devis"
 description: "Boucheuse automatique pour bouchons de liège, modèles DS-1, DS-4 et DS-6, de 2 500 à 6 000 bouteilles/h. Comparez l’intégration, le prix, le devis et le SAV."
 keywords: "boucheuse automatique à bouchons de liège prix, devis boucheuse automatique à bouchons de liège, modèles DS-1, DS-4 et DS-6 de 2 500 à 6 000 bouteilles/h pour bouteilles en verre, intégration ligne de conditionnement, équipement export, service après-vente"

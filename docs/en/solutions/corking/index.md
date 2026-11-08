@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Corking Machines | Price, Models & Factory Quote"
 description: "Compare manual, semi-automatic and automatic corking machines for glass bottles. Confirm cork and neck samples, line speed and service scope for pricing."
 keywords: corking machine price, corking machine manufacturer, wine bottle corker quote, automatic corking equipment, semi automatic corker, bottling line procurement

@@ -1056,7 +1056,10 @@ const NOINDEX_ROUTE_PATTERNS = [
   /\/solutions\/peanut1$/,
   DUPLICATE_SOLUTION_DETAIL_RE,
   /Sesame%20Cleaning%20Machine$/,
-  /\/products\/peanut$/
+  /\/products\/peanut$/,
+  // Off-topic packaging pages (wine, liquor, pesticide, dairy) kept online but out of the index
+  /\/products\/filling\/(baijiu-filling-capping-monoblock|filling-corking-monoblock|wine-rinsing-filling-corking-monoblock|automatic-corking-machine|manual-corking-machine|semi-automatic-corking-machine|pesticide-filling-machine|corrosion-resistant-filling-machine|pasteurization-processing-line)(\.html)?$/,
+  /\/solutions\/(brewing|dairy-processing|corking)(\/|\/index(\.html)?)?$/
 ]
 const PRODUCT_COLLECTION_SLUGS = new Set([
   'supporting',
@@ -1803,9 +1806,12 @@ const getCollectionItemList = (lang, section, segments) => {
       : normalizedPath
     return {
       name: getDocTitleByPath(lang, canonicalPath) || getCollectionFallbackName(lang, canonicalPath),
-      url: `${SITE_URL}${buildLocalizedPath(lang, canonicalPath)}`
+      url: `${SITE_URL}${buildLocalizedPath(lang, canonicalPath)}`,
+      route: buildLocalizedPath(lang, canonicalPath)
     }
   })
+    .filter((item) => !isNoindexRoute(item.route))
+    .map(({ name, url }) => ({ name, url }))
 }
 
 

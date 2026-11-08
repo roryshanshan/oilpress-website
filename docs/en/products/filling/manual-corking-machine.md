@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Manual Corking Machine | Price & Manufacturer Quote"
 description: "Source a manual corking machine for trial batches and low-volume wine or specialty bottles, with factory pricing and small-line support."
 keywords: "manual corking machine price, manual corking machine manufacturer quote, manual wine bottle corker, small batch corking, trial production bottling, complete line integration, export packing, commissioning, after-sales service"

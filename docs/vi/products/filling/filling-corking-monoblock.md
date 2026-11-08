@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Máy chiết rót và đóng nút bần 2 trong 1 | Báo giá nhà sản xuất"
 description: "Báo giá máy chiết rót và đóng nút bần 2 trong 1 từ nhà sản xuất; kiểm tra 2.200-6.000 chai/giờ, cỡ chai và nút bần; xác nhận khả năng ghép nối trước khi mua."
 keywords: "giá máy liên hợp chiết rót và đóng nút, báo giá máy liên hợp chiết rót và đóng nút, công suất tham khảo 2.200-6.000 chai/giờ, dung tích chai và loại nút, tích hợp dây chuyền chiết rót, cấu hình xuất khẩu, phụ tùng, hỗ trợ sau bán"

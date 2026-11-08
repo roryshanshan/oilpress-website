@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Máy rửa, chiết rót và đóng nút rượu 3 trong 1 | Báo giá"
 description: "Báo giá máy rửa, chiết rót, đóng nút rượu 3 trong 1; kiểm tra 2.000-6.000 chai/giờ, cỡ chai/nút và khả năng ghép nối."
 keywords: "giá máy liên hợp rửa, chiết rót và đóng nút chai rượu, báo giá máy liên hợp rửa, chiết rót và đóng nút chai rượu, công suất tham khảo 2.000-6.000 chai/giờ, chai rượu và loại nút bần, tích hợp dây chuyền chiết rót, cấu hình xuất khẩu, phụ tùng, hỗ trợ sau bán"

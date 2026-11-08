@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Máy đóng nút bần thủ công | Báo giá từ nhà sản xuất"
 description: "Báo giá máy đóng nút bần thủ công từ nhà sản xuất; kiểm tra năng suất, đường kính cổ chai và nút bần; xác nhận khả năng ghép nối trước khi mua."
 keywords: "giá máy đóng nút chai thủ công, báo giá máy đóng nút chai thủ công, năng suất, chiều cao cổ chai và loại nút bần, tích hợp dây chuyền chiết rót, cấu hình xuất khẩu, phụ tùng, hỗ trợ sau bán"

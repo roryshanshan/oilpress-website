@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Ligne de pasteurisation en cuves | Prix fabricant et devis"
 description: "Ligne de pasteurisation en cuves de 150, 300 ou 500 L, réglable de 50 à 95 °C avec refroidissement à 2-8 °C. Le devis fabricant précise le prix et le SAV."
 keywords: "ligne de pasteurisation en cuves prix, devis ligne de pasteurisation en cuves, cuves de 150, 300 ou 500 L, traitement réglable à 50-95 °C et refroidissement à 2-8 °C, intégration ligne de conditionnement, équipement export, service après-vente"

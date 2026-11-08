@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Máy chiết rót chống ăn mòn axit, kiềm | Báo giá nhà sản xuất"
 description: "Báo giá máy chiết rót chống ăn mòn axit, kiềm từ nhà sản xuất; kiểm tra dải chiết, vật liệu tiếp xúc và chai hóa chất; xác nhận khả năng ghép nối trước khi mua."
 keywords: "giá máy chiết rót chống ăn mòn axit và kiềm, báo giá máy chiết rót chống ăn mòn axit và kiềm, dải chiết, kích thước chai nhựa và khả năng tương thích với chất lỏng ăn mòn, tích hợp dây chuyền chiết rót, cấu hình xuất khẩu, phụ tùng, hỗ trợ sau bán"

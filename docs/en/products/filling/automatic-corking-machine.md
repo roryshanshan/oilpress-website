@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Automatic Corking Machine | Price & Manufacturer Quote"
 description: "Compare DS-1, DS-4, and DS-6 corking machines for 2,500-6,000 wine bottles/hour, then request factory pricing and line-integration support."
 keywords: "fully automatic corking machine price, fully automatic corking machine manufacturer quote, DS corking machine, 2500-6000 bottles per hour, wine bottle corker, complete line integration, export packing, commissioning, after-sales service"

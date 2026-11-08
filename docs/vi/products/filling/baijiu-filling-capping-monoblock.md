@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Máy chiết rót và đóng nắp rượu 2 trong 1 | Báo giá nhà sản xuất"
 description: "Báo giá máy chiết rót, đóng nắp rượu 2 trong 1 từ nhà sản xuất; đối chiếu công suất, loại chai/nắp, độ chính xác và khả năng ghép nối."
 keywords: "giá máy liên hợp chiết rót và đóng nắp chất lỏng không gas, báo giá máy liên hợp chiết rót và đóng nắp chất lỏng không gas, công suất, dung tích chai và kiểu đóng nắp cho chất lỏng không gas, tích hợp dây chuyền chiết rót, cấu hình xuất khẩu, phụ tùng, hỗ trợ sau bán"

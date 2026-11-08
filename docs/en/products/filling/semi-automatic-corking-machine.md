@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Semi-Automatic Corking Machine | Manufacturer Quote"
 description: "Source a semi-automatic corker for small and medium wine, gift-oil, or specialty-liquid batches, with factory pricing and line support."
 keywords: "semi-automatic corking machine price, semi-automatic corking machine manufacturer quote, semi automatic wine corker, gift oil bottle corking, small batch bottling, complete line integration, export packing, commissioning, after-sales service"

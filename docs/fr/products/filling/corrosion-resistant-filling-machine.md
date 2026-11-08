@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Remplisseuse anticorrosion | Prix fabricant et devis"
 description: "Remplisseuse pour acides, alcalins, désinfectants et produits agrochimiques en flacons plastique. Comparez l'intégration, le prix, le devis et le SAV."
 keywords: "remplisseuse anticorrosion prix, devis remplisseuse anticorrosion, flacons plastique multiformats pour acides, alcalins, désinfectants et produits agrochimiques, intégration ligne de conditionnement, équipement export, service après-vente"

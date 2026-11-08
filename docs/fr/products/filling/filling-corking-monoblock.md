@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Monobloc remplissage-bouchage liège | Prix fabricant et devis"
 description: "Monobloc de remplissage et bouchage liège, de 2 200 à 6 000 bouteilles/h. Le devis précise les formats, l'intégration, le prix et le SAV."
 keywords: "monobloc de remplissage et bouchage liège prix, devis monobloc de remplissage et bouchage liège, 2 200-6 000 bouteilles/h avec remplissage et pose du bouchon sur une machine, intégration ligne de conditionnement, équipement export, service après-vente"

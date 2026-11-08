@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Máy đóng nút bần | Model, giá và báo giá nhà máy"
 description: "So sánh máy đóng nút bần thủ công, bán tự động và tự động theo chai, nút, công suất và mức tích hợp để nhận báo giá nhà sản xuất."
 keywords: giá máy đóng nút bần, máy đóng nút rượu, máy đóng nút tự động, báo giá nhà sản xuất, mua máy đóng chai, phụ tùng hậu mãi

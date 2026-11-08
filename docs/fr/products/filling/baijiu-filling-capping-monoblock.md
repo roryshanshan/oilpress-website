@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Monobloc de remplissage pour spiritueux | Prix fabricant et devis"
 description: "Monobloc de remplissage et capsulage pour spiritueux non gazeux, de 6 000 à 20 000 bouteilles/h. Comparez le dosage, l'intégration, le prix, le devis et le SAV."
 keywords: "monobloc de remplissage et capsulage pour spiritueux prix, devis monobloc de remplissage et capsulage pour spiritueux, 6 000-20 000 bouteilles/h avec dosage quantitatif de liquides non gazeux, intégration ligne de conditionnement, équipement export, service après-vente"

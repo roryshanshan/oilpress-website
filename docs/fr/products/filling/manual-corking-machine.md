@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Boucheuse manuelle à liège | Prix fabricant et devis"
 description: "Boucheuse manuelle pour bouchons de liège et bouteilles en verre. Comparez les modèles DS-1, DS-4 et DS-6, la cadence, le prix, le devis et le SAV."
 keywords: "boucheuse manuelle pour bouchons de liège prix, devis boucheuse manuelle pour bouchons de liège, modèles DS-1, DS-4 et DS-6 de 2 500 à 6 000 bouteilles/h pour bouteilles en verre, intégration ligne de conditionnement, équipement export, service après-vente"

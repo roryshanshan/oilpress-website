@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "LGF Pesticide Filling Machine | Manufacturer Quote"
 description: "Compare LGF-10-1 to LGF-24-1 pesticide fillers for 2,000-7,000 bottles/hour, with factory pricing and sealing-line integration."
 keywords: "LGF pesticide filling machine price, LGF pesticide filling machine manufacturer quote, pesticide bottling machine, liquid fertilizer filler, 2000-7000 bottles per hour, complete line integration, export packing, commissioning, after-sales service"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Remplisseuse pour pesticides | Prix fabricant et devis"
 description: "Remplisseuse pour pesticides et produits chimiques, de 2 000 à 7 000 contenants/h avec 10 à 24 têtes. Le devis précise les formats, le prix et le SAV."
 keywords: "remplisseuse pour pesticides et produits chimiques prix, devis remplisseuse pour pesticides et produits chimiques, 2 000-7 000 contenants/h avec 10-24 têtes pour agrochimie et détergents, intégration ligne de conditionnement, équipement export, service après-vente"

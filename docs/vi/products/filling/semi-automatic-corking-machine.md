@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Máy đóng nút bần bán tự động | Báo giá từ nhà sản xuất"
 description: "Báo giá máy đóng nút bần bán tự động từ nhà sản xuất; kiểm tra năng suất, đường kính cổ chai và nút bần; xác nhận khả năng ghép nối trước khi mua."
 keywords: "giá máy đóng nút chai bán tự động, báo giá máy đóng nút chai bán tự động, năng suất, chiều cao cổ chai và loại nút bần, tích hợp dây chuyền chiết rót, cấu hình xuất khẩu, phụ tùng, hỗ trợ sau bán"

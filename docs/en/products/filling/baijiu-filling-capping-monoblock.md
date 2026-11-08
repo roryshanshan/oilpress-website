@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "GF Liquor Filling and Capping Monoblock | Price Quote"
 description: "Compare GF24-6 to GF60-15 liquor filling and capping monoblocks for 6,000-20,000 bottles/hour, with factory pricing and line service."
 keywords: "GF liquor filling and capping monoblock price, GF liquor filling and capping monoblock manufacturer quote, liquor bottling monoblock, GF24-6 GF60-15, 6000-20000 bottles per hour, complete line integration, export packing, commissioning, after-sales service"

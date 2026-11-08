@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "GFP Wine Rinse-Fill-Cork Monoblock | Manufacturer Quote"
 description: "Compare GFP wine rinsing, filling, and corking monoblocks for 2,000-6,000 bottles/hour, with factory pricing and packaging-line support."
 keywords: "GFP wine rinsing, filling and corking monoblock price, GFP wine rinsing, filling and corking monoblock manufacturer quote, wine bottling monoblock, 2000-6000 bottles per hour, rinse fill cork line, complete line integration, export packing, commissioning, after-sales service"

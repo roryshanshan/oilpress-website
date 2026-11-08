@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Boucheuses à liège | Modèles, prix et devis fabricant"
 description: "Comparez boucheuses manuelles, semi-automatiques et automatiques. Validez col, bouchon, cadence et intégration avant le devis fabricant."
 keywords: boucheuse liège prix, machine bouchage vin, boucheuse automatique, devis fabricant, achat ligne embouteillage, pièces et service après-vente

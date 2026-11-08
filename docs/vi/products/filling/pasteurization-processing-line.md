@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Dây chuyền thanh trùng dạng bể | Báo giá từ nhà sản xuất"
 description: "Báo giá dây chuyền thanh trùng dạng bể từ nhà sản xuất; kiểm tra dung tích bể, nhiệt độ, thời gian giữ và loại chai; xác nhận khả năng ghép nối trước khi mua."
 keywords: "giá Dây chuyền xử lý thanh trùng bể chứa, báo giá Dây chuyền xử lý thanh trùng bể chứa, công suất bể, loại chai/lon, nhiệt độ và thời gian xử lý, tích hợp dây chuyền chiết rót, cấu hình xuất khẩu, phụ tùng, hỗ trợ sau bán"

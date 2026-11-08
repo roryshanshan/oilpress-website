@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Traitement laitier et embouteillage | Devis de ligne"
 description: "Définissez traitement thermique, stockage tampon, remplissage et hygiène pour lait ou boisson lactée, puis demandez un devis fabricant cadré."
 keywords: équipement laitier prix, ligne lait devis, pasteurisation fabricant, embouteillage boisson lactée, achat équipement hygiénique, service après-vente

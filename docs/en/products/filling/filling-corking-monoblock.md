@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "GFP Filling and Corking Monoblock | Manufacturer Quote"
 description: "Compare GFP16-1 and GFP24-6 filling and corking monoblocks for 2,200 or 6,000 wine bottles/hour, with factory pricing and line support."
 keywords: "GFP filling and corking monoblock price, GFP filling and corking monoblock manufacturer quote, wine filling corking monoblock, GFP16-1 GFP24-6, 2200 6000 bottles per hour, complete line integration, export packing, commissioning, after-sales service"

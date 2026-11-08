@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Dây chuyền đóng chai rượu vang | Giá và báo giá"
 description: "Lập tuyến súc rửa, chiết chân không thấp, đóng nút và hoàn thiện chai cho rượu không ga; so sánh model và nhận báo giá nhà sản xuất."
 keywords: giá dây chuyền rượu vang, máy chiết chân không thấp, máy đóng nút bần, báo giá nhà sản xuất, mua dây chuyền đóng chai, hậu mãi

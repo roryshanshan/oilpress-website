@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Embouteillage du vin | Prix et devis fabricant"
 description: "Configurez rinçage, remplissage à faible vide, bouchage et finition pour vin tranquille. Comparez les modèles et demandez un devis fabricant détaillé."
 keywords: ligne embouteillage vin prix, remplisseuse faible vide, boucheuse vin, devis fabricant, achat ligne conditionnement, service après-vente

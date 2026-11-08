@@ -1,4 +1,5 @@
 ---
+noindex: true
 title: "Tank Pasteurization Line | Price & Manufacturer Quote"
 description: "Compare SUS304 tank pasteurization lines for 150, 300, or 500 L dairy batches, with factory pricing, process integration, and service."
 keywords: "tank pasteurization processing line price, tank pasteurization processing line manufacturer quote, milk pasteurization line price, 150 300 500L batch, dairy beverage processing, complete line integration, export packing, commissioning, after-sales service"
