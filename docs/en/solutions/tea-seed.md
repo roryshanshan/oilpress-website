@@ -10,6 +10,9 @@ Tea seed or camellia seed must be identified by species, crop year, whole-seed o
 
 ![Tea seed preparation and pressing reference](/images/process-image-0901d2dd53.webp)
 
+
+<LineKit line="tea-seed" />
+
 ## Raw Material Boundary
 
 Declare whole seed or separated kernels, species or commercial name, origin, moisture, hull fraction, impurities, crop and storage history, and intended use. Remove moldy, insect-damaged, dark, or rancid seed. Quote capacity on cleaned whole seed or clean kernels.

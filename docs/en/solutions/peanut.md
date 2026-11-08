@@ -12,6 +12,9 @@ Peanut oil equipment must be sized on cleaned kernels, not in-shell peanuts. The
 
 ![Hydraulic press working reference](/images/325hydraulic.webp)
 
+
+<LineKit line="peanut" />
+
 ## Raw Material Boundary
 
 Declare in-shell peanuts or kernels, variety, shell ratio, moisture, impurities, damaged or moldy fraction, storage history, and available aflatoxin results. Reject suspect lots under the buyer's sampling plan. Pressing and roasting must not be represented as aflatoxin treatment.

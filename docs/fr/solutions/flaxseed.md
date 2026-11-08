@@ -10,6 +10,9 @@ Les graines de lin sont petites et sensibles à l'oxydation après broyage. La l
 
 ![Pressage à froid des graines de lin](/images/an-overview-of-the-cold-pressing-process-of-flaxse-0ea1b504ce.webp)
 
+
+<LineKit line="flaxseed" />
+
 ## Procédé principal pour les séries 355 à 500
 
 Criblage -> nettoyage -> séchage basse température si nécessaire -> broyage à haute vitesse -> pressage direct dans la cuve hydraulique -> décantation -> filtration -> stockage protégé.

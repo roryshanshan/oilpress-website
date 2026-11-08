@@ -10,6 +10,9 @@ image: "/images/sunflower-seed-hot-pressing-process.webp"
 
 Hạt hướng dương cần được làm sạch, xác định tỷ lệ vỏ, bóc vỏ khi cần rồi cán/nghiền và điều hòa. Ép lạnh phù hợp với dầu đặc sản có hương nhẹ; ép ấm/nóng sau điều hòa phù hợp hơn với dầu thô thương mại, nhưng phải thử theo đúng giống hạt. Dầu sau ép được lọc và, nếu mục tiêu yêu cầu độ trong ở nhiệt độ thấp, đưa qua khử sáp trước tinh luyện hoặc đóng gói.
 
+
+<LineKit line="sunflower" />
+
 ## Dữ liệu chọn quy trình
 
 | Hạng mục | Khuyến nghị |

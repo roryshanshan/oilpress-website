@@ -12,6 +12,9 @@ image: "/images/flaxseed-hot-pressing-process.webp"
 
 ![亚麻籽低温压榨路线参考](/images/an-overview-of-the-cold-pressing-process-of-flaxse-0ea1b504ce.webp)
 
+
+<LineKit line="flaxseed" />
+
 ## 原料与产能口径
 
 请注明品种、产地、含水状态、杂质、破损或霉变、储存时间以及食品或工业用途。清理损失单独记录，压榨段产能按清洁干籽核算。

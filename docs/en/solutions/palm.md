@@ -10,6 +10,9 @@ Palm oil from fresh fruit pulp and palm kernel oil from the kernel inside the nu
 
 ![Palm pulp and palm kernel material reference](/images/hot-pressing-process-of-palm-pulp-palm-kernel-7153ac8a85.webp)
 
+
+<LineKit line="palm" />
+
 ## Raw Material Boundary
 
 **Fresh fruit route:** fresh fruit bunches or loose fruits, with harvest-to-mill time, ripeness, contamination, and daily arrival profile recorded.

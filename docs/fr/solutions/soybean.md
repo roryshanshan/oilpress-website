@@ -10,6 +10,9 @@ Le soja a une teneur en huile plus faible et une structure différente des noix.
 
 ![Essai de pressage du soja après broyage](/images/process-image-bc91f2194d.webp)
 
+
+<LineKit line="soybean" />
+
 ## Procédé à comparer
 
 Nettoyage -> décorticage éventuel -> concassage ou floconnage -> conditionnement thermique ou préparation basse température -> essai de pressage -> séparation et filtration -> raffinage selon l'usage.

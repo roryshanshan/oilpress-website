@@ -10,6 +10,9 @@ image: "/images/process-image-bc91f2194d.webp"
 
 Đậu nành có hàm lượng dầu tương đối thấp, nên phải làm sạch, bóc vỏ, cán/nghiền và chưng sấy để phá cấu trúc trước khi ép. Ép lạnh trực tiếp bằng máy thủy lực không phải lựa chọn mặc định; dự án thương mại cần so sánh ép trục vít, tiền ép hoặc phương án chiết theo công suất và giá trị khô dầu. Dầu thô sau ép được lọc, khử gum và tinh luyện theo tiêu chuẩn thành phẩm.
 
+
+<LineKit line="soybean" />
+
 ## Dữ liệu chọn quy trình
 
 | Hạng mục | Khuyến nghị |

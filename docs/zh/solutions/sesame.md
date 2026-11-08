@@ -10,6 +10,9 @@ image: "/images/process-image-dfc1cdf2c9.webp"
 
 ![芝麻清理、炒制与压榨工艺参考](/images/process-image-dfc1cdf2c9.webp)
 
+
+<LineKit line="sesame" />
+
 ## 原料与产能口径
 
 请注明籽色和品种、脱皮状态、含水状态、砂石、空籽或受损籽、储存情况和目标产品。产能按完成约定清洗、干燥和分选后的清洁芝麻核算。

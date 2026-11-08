@@ -2616,63 +2616,70 @@ const buildUnifiedSidebar = (locale) => {
   }
 }
 
+const NAV_V2_COPY = {
+  en: { linesTop: 'Production Lines', builder: 'Line Builder: Pick Your Machines', allLines: 'All Production Lines', sesame: 'Sesame Oil Line', peanut: 'Peanut Oil Line', soybean: 'Soybean Oil Line', rapeseed: 'Rapeseed & Mustard Oil Line', equipTop: 'Equipment', byProcess: 'All Equipment by Process', pre: '1 · Seed Preparation', presses: '2 · Hydraulic Oil Presses', post: '3 · Oil Filtration', refining: '4 · Oil Refining', fill: '5 · Filling & Packaging', elevators: '6 · Elevators & Conveyors', learnTop: 'Learn', learnPath: 'Learning Path: 5 Steps' },
+  zh: { linesTop: '生产线', builder: '配线工具：勾选设备', allLines: '全部生产线', sesame: '芝麻油生产线', peanut: '花生油生产线', soybean: '大豆油生产线', rapeseed: '菜籽油生产线', equipTop: '设备', byProcess: '按工序查找设备', pre: '1 · 原料预处理', presses: '2 · 液压榨油机', post: '3 · 滤油设备', refining: '4 · 精炼设备', fill: '5 · 灌装包装', elevators: '6 · 提升输送', learnTop: '学习', learnPath: '学习路径：5 步' },
+  fr: { linesTop: 'Lignes de production', builder: 'Configurateur : choisir les machines', allLines: 'Toutes les lignes', sesame: 'Ligne huile de sésame', peanut: "Ligne huile d'arachide", soybean: 'Ligne huile de soja', rapeseed: 'Ligne colza et moutarde', equipTop: 'Équipements', byProcess: 'Équipements par étape', pre: '1 · Préparation des graines', presses: '2 · Presses hydrauliques', post: '3 · Filtration', refining: '4 · Raffinage', fill: '5 · Remplissage et emballage', elevators: '6 · Élévateurs et convoyeurs', learnTop: 'Apprendre', learnPath: 'Parcours en 5 étapes' },
+  ru: { linesTop: 'Линии', builder: 'Конструктор линии', allLines: 'Все производственные линии', sesame: 'Линия кунжутного масла', peanut: 'Линия арахисового масла', soybean: 'Линия соевого масла', rapeseed: 'Линия рапса и горчицы', equipTop: 'Оборудование', byProcess: 'Оборудование по этапам', pre: '1 · Подготовка семян', presses: '2 · Гидравлические прессы', post: '3 · Фильтрация', refining: '4 · Рафинация', fill: '5 · Розлив и упаковка', elevators: '6 · Элеваторы и конвейеры', learnTop: 'Обучение', learnPath: 'Обучение за 5 шагов' },
+  vi: { linesTop: 'Dây chuyền', builder: 'Công cụ cấu hình dây chuyền', allLines: 'Tất cả dây chuyền', sesame: 'Dây chuyền dầu mè', peanut: 'Dây chuyền dầu đậu phộng', soybean: 'Dây chuyền dầu đậu nành', rapeseed: 'Dây chuyền cải dầu và mù tạt', equipTop: 'Thiết bị', byProcess: 'Thiết bị theo công đoạn', pre: '1 · Chuẩn bị hạt', presses: '2 · Máy ép thủy lực', post: '3 · Lọc dầu', refining: '4 · Tinh luyện', fill: '5 · Chiết rót và đóng gói', elevators: '6 · Gàu nâng và băng tải', learnTop: 'Học', learnPath: 'Lộ trình 5 bước' },
+  bn: { linesTop: 'উৎপাদন লাইন', builder: 'লাইন বিল্ডার: মেশিন বাছাই', allLines: 'সব উৎপাদন লাইন', sesame: 'তিলের তেল লাইন', peanut: 'চিনাবাদাম তেল লাইন', soybean: 'সয়াবিন তেল লাইন', rapeseed: 'সরিষা তেল লাইন', equipTop: 'সরঞ্জাম', byProcess: 'ধাপ অনুযায়ী সরঞ্জাম', pre: '১ · বীজ প্রস্তুতি', presses: '২ · হাইড্রোলিক প্রেস', post: '৩ · তেল ফিল্টারিং', refining: '৪ · রিফাইনিং', fill: '৫ · ফিলিং ও প্যাকেজিং', elevators: '৬ · এলিভেটর ও কনভেয়র', learnTop: 'শিখুন', learnPath: '৫ ধাপে শেখার পথ' }
+}
+
 const buildPrimaryNav = (locale) => {
   const t = PRIMARY_NAV_COPY[locale] || PRIMARY_NAV_COPY.en
+  const v = NAV_V2_COPY[locale] || NAV_V2_COPY.en
   const prefix = `/${locale}`
-  const fillingOverviewItems = buildFillingOverviewNavItems(locale)
   return [
     { text: t.home, link: prefix },
     {
-      text: t.products,
+      text: v.linesTop,
       items: [
-        { text: t.overview, link: `${prefix}/products` },
+        { text: v.builder, link: `${prefix}/products/line-builder` },
+        { text: v.allLines, link: `${prefix}/solutions/production-lines` },
         {
-          text: t.models,
+          text: t.process,
           items: [
+            { text: v.sesame, link: `${prefix}/solutions/sesame` },
+            { text: v.peanut, link: `${prefix}/solutions/peanut` },
+            { text: v.soybean, link: `${prefix}/solutions/soybean` },
+            { text: v.rapeseed, link: `${prefix}/solutions/rapeseed` },
+            { text: t.seed, link: `${prefix}/solutions/seed-oils` },
+            { text: t.nuts, link: `${prefix}/solutions/nuts` },
+            { text: t.fruits, link: `${prefix}/solutions/fruits` }
+          ]
+        }
+      ]
+    },
+    {
+      text: v.equipTop,
+      items: [
+        { text: v.byProcess, link: `${prefix}/products/equipment-by-process` },
+        { text: v.pre, link: `${prefix}/products/pre-treatment` },
+        {
+          text: v.presses,
+          items: [
+            { text: t.overview, link: `${prefix}/products` },
             { text: t.hot300, link: `${prefix}/products/300` },
             { text: t.hot325, link: `${prefix}/products/325` },
             { text: t.cold355, link: `${prefix}/products/355` },
             { text: t.cold400, link: `${prefix}/products/400` },
             { text: t.cold426, link: `${prefix}/products/426` },
             { text: t.cold480, link: `${prefix}/products/480` },
-            { text: t.cold500, link: `${prefix}/products/500` }
-          ]
-        },
-        {
-          text: t.systems,
-          items: [
+            { text: t.cold500, link: `${prefix}/products/500` },
             { text: t.small, link: `${prefix}/products/korean-type-small-hydraulic-oil-press-machine` },
-            { text: t.supporting, link: `${prefix}/products/supporting` },
-            { text: t.filling, link: `${prefix}/products/filling-equipment` }
-          ]
-        }
-      ]
-    },
-    {
-      text: t.solutions,
-      items: [
-        { text: t.solutionsOverview, link: `${prefix}/solutions` },
-        {
-          text: t.process,
-          items: [
-            { text: t.lines, link: `${prefix}/solutions/production-lines` },
-            { text: t.seed, link: `${prefix}/solutions/seed-oils` },
-            { text: t.nuts, link: `${prefix}/solutions/nuts` },
-            { text: t.fruits, link: `${prefix}/solutions/fruits` },
-            { text: t.fillingLines, link: `${prefix}/solutions/filling-packages` }
+            { text: t.smallScrew, link: `${prefix}/products/small-screw-oil-press-machine` }
           ]
         },
-        { text: getRouteLabel(locale, 'elevator-systems'), link: `${prefix}/solutions/elevator-systems` },
-        {
-          text: t.fillingLines,
-          items: fillingOverviewItems
-        }
+        { text: v.post, link: `${prefix}/products/post-treatment` },
+        { text: v.refining, link: `${prefix}/products/edible-oil-refining-equipment` },
+        { text: v.fill, link: `${prefix}/products/filling-equipment` },
+        { text: v.elevators, link: `${prefix}/solutions/elevator-systems` }
       ]
     },
     {
-      text: t.guides,
+      text: v.learnTop,
       items: [
-        { text: t.guideOverview, link: `${prefix}/news` },
+        { text: v.learnPath, link: `${prefix}/news/learning-path` },
         { text: t.technology, link: `${prefix}/news/technology` },
         { text: t.industry, link: `${prefix}/news/industry` },
         { text: t.companyNews, link: `${prefix}/news/company` }

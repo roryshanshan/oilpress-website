@@ -10,6 +10,9 @@ Sesame oil equipment must be configured around the intended product: light cold-
 
 ![Sesame cleaning, roasting, and pressing reference](/images/process-image-dfc1cdf2c9.webp)
 
+
+<LineKit line="sesame" />
+
 ## Raw Material Boundary
 
 Declare seed color and variety, hulled or unhulled state, moisture, sand and stone contamination, empty or damaged seed, storage condition, and intended product style. Quote capacity on cleaned seed after the agreed washing and drying basis.

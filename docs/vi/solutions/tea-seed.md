@@ -10,6 +10,9 @@ image: "/images/process-image-0901d2dd53.webp"
 
 Hạt trà/camellia cần được sấy, tách vỏ, loại nhân hỏng và nghiền đều trước khi nạp ép. Ép lạnh phù hợp với dầu cao cấp có hương nhẹ; điều hòa ấm hoặc rang nhẹ chỉ chọn khi mẫu cho thấy màu, mùi và khả năng thoát dầu phù hợp. Dầu sau ép được lắng/lọc, rồi khử sáp hoặc tinh luyện nhẹ nếu tiêu chuẩn độ trong và bảo quản yêu cầu.
 
+
+<LineKit line="tea-seed" />
+
 ## Dữ liệu chọn quy trình
 
 | Hạng mục | Khuyến nghị |

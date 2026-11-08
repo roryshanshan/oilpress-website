@@ -10,6 +10,9 @@ image: "/images/process-image-55d72f15da.webp"
 
 ![油菜籽调质与压榨工艺参考](/images/process-image-55d72f15da.webp)
 
+
+<LineKit line="rapeseed" />
+
 ## 原料与产能口径
 
 请注明品种和产地、油菜籽或卡诺拉分类、含水状态、杂质、储存情况、现有油脂分析，以及适用时的芥酸资料。压榨段产能按清洁籽核算。

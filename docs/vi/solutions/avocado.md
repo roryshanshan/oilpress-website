@@ -7,6 +7,9 @@ keywords: "Bơ (dầu bơ) báo giá, máy ép dầu, quy trình sản xuất, m
 
 Quả bơ tươi không được nạp trực tiếp vào máy ép; trước khi chọn thiết bị phải chốt quy trình ướt hay tuyến từ thịt quả đã tách vỏ, bỏ hạt và khử nước. Với tuyến ép, thịt bơ được sấy ở nhiệt độ thấp, nghiền hoặc điều hòa rồi ép thử, không rang nóng như hạt dầu khô. Dầu sau ép cần tách nước và cặn bằng ly tâm hoặc lọc, hướng đến độ ẩm thấp và hạn chế oxy hóa theo tiêu chuẩn thành phẩm.
 
+
+<LineKit line="avocado" />
+
 ## Dữ liệu chọn quy trình
 
 | Hạng mục | Khuyến nghị |

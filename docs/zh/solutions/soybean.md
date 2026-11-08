@@ -12,6 +12,9 @@ image: "/images/process-image-bc91f2194d.webp"
 
 ![大豆热湿调质物料参考](/images/process-image-ce959e498e.webp)
 
+
+<LineKit line="soybean" />
+
 ## 原料与产能口径
 
 请注明整豆或已制备豆仁、品种、含水状态、杂质、储存情况、现有油脂和蛋白资料，以及油和粕的用途。产能按清洁豆或明确的制备料基准报价。

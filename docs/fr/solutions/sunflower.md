@@ -10,6 +10,9 @@ Le taux de coques, la variété et l'humidité déterminent si les graines doive
 
 ![Préparation des graines de tournesol avant pressage](/images/sunflower-seed-hot-pressing-process.webp)
 
+
+<LineKit line="sunflower" />
+
 ## Itinéraires possibles
 
 ### Voie à froid

@@ -12,6 +12,9 @@ Soybeans require cleaning, optional dehulling, cracking or flaking, and heat-moi
 
 ![Conditioned soybean material reference](/images/process-image-ce959e498e.webp)
 
+
+<LineKit line="soybean" />
+
 ## Raw Material Boundary
 
 State whole beans or prepared meats, variety, moisture, impurities, storage condition, available oil and protein data, and the intended oil and meal uses. Capacity must be quoted on the actual clean bean or prepared-feed basis.

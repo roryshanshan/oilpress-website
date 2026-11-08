@@ -7,6 +7,9 @@ keywords: ligne huile avocat prix, machine huile avocat, traitement pulpe avocat
 
 La pulpe d'avocat fraîche contient beaucoup d'eau. Elle ne doit pas être chargée directement dans une presse hydraulique conçue pour des matières solides broyées. Le choix se fait entre une ligne humide avec malaxage et séparation, et une voie après séchage contrôlé.
 
+
+<LineKit line="avocado" />
+
 ## Voie humide
 
 Lavage -> dénoyautage et dépulpage -> broyage de la pulpe -> malaxage contrôlé -> séparation solide-liquide -> séparation huile-eau -> filtration et stockage.

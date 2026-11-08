@@ -10,6 +10,9 @@ La qualité d'une huile de sésame parfumée se construit pendant le nettoyage e
 
 ![Torréfaction et pressage du sésame](/images/process-image-dfc1cdf2c9.webp)
 
+
+<LineKit line="sesame" />
+
 ## Procédé principal à chaud
 
 Criblage -> élimination des pierres et métaux -> lavage si le produit l'exige -> séchage -> torréfaction contrôlée -> refroidissement ou transfert selon la recette -> pressage hydraulique -> décantation -> filtration adaptée.

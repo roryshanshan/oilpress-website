@@ -10,6 +10,9 @@ image: "/images/process-image-0901d2dd53.webp"
 
 ![茶籽清理、破碎与压榨工艺参考](/images/process-image-0901d2dd53.webp)
 
+
+<LineKit line="tea-seed" />
+
 ## 原料与产能口径
 
 请注明整籽或籽仁、物种/商业名称、产地、含水状态、壳比例、杂质、采收和储存记录及用途，并剔除霉变、虫蛀、变黑或酸败籽。产能按清洁整籽或清洁籽仁分别核算。

@@ -12,6 +12,9 @@ Pour une huile d'arachide au profil grillé, les séries hydrauliques [300](/fr/
 
 ![Préparation à chaud de l'arachide avant pressage](/images/process-image-48001f0b27.webp)
 
+
+<LineKit line="peanut" />
+
 ## Procédé pour huile aromatique
 
 Nettoyage et séparation des graines défectueuses -> décorticage si nécessaire -> broyage -> torréfaction ou cuisson contrôlée -> chargement chaud dans la cuve hydraulique -> pressage -> décantation et filtration selon la limpidité souhaitée.

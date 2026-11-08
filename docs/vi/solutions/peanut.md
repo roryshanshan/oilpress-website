@@ -10,6 +10,9 @@ image: "/images/300-325-series.webp"
 
 Lạc phải được tách vỏ, làm sạch và loại hạt mốc/hỏng trước khi nghiền hoặc cán. Ép nóng sau rang/hấp phù hợp với dầu có hương đậm, còn ép lạnh cần nguyên liệu tốt và kiểm soát nhiệt chặt; cả hai phương án phải chạy mẫu thay vì tăng nhiệt chỉ để lấy thêm dầu. Dầu sau ép được lắng/lọc theo độ trong mục tiêu, trong khi kiểm soát aflatoxin bắt đầu từ lô nguyên liệu và kết quả phòng thử nghiệm.
 
+
+<LineKit line="peanut" />
+
 ## Dữ liệu chọn quy trình
 
 | Hạng mục | Khuyến nghị |

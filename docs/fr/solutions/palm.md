@@ -10,6 +10,9 @@ L'huile de palme vient de la pulpe du fruit ; l'huile de palmiste vient de l'ama
 
 ![Référence de traitement de pulpe et de palmiste](/images/hot-pressing-process-of-palm-pulp-palm-kernel-7153ac8a85.webp)
 
+
+<LineKit line="palm" />
+
 ## Huile issue de la pulpe
 
 Réception rapide des régimes -> stérilisation -> égrappage -> digestion de la pulpe -> pressage mécanique -> clarification -> séchage et stockage de l'huile.

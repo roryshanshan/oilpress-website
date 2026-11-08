@@ -10,6 +10,9 @@ image: "/images/process-image-dfc1cdf2c9.webp"
 
 Mè cần được sàng, tách đá, làm sạch và điều chỉnh độ ẩm đồng đều trước khi ép. Ép lạnh tạo dầu màu và hương nhẹ, còn rang có kiểm soát tạo dầu mè thơm; đường cong rang, làm nguội và thời điểm ép phải được thử trên đúng giống mè. Dầu sau ép có thể lắng tự nhiên hoặc lọc đến độ trong mục tiêu mà không làm mất kiểu hương sản phẩm đã chọn.
 
+
+<LineKit line="sesame" />
+
 ## Dữ liệu chọn quy trình
 
 | Hạng mục | Khuyến nghị |

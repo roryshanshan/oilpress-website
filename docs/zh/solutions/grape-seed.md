@@ -10,6 +10,9 @@ image: "/images/hot-pressing-process-of-grape-seeds-9fc9a8f225.webp"
 
 ![葡萄籽分离、干燥和压榨参考](/images/hot-pressing-process-of-grape-seeds-9fc9a8f225.webp)
 
+
+<LineKit line="grape-seed" />
+
 ## 原料与产能口径
 
 请记录葡萄渣来源、压榨后停留时间、果皮和果梗比例、籽回收基准、含水状态、储存情况以及霉变或氧化迹象。已洗净干燥籽与需要回收设备的湿葡萄渣应分别报价；季节性干燥能力也应纳入整线节拍。

@@ -10,6 +10,9 @@ Trang này dành cho dự án chế biến dừa tươi trưởng thành, có th
 
 ![Nguyên liệu dừa đã chuẩn bị để chọn tuyến công nghệ](/images/coconut-puree-e2083a9300.webp)
 
+
+<LineKit line="coconut" />
+
 ## Phạm vi toàn tuyến
 
 Tuyến hoàn chỉnh gồm bóc xơ, băng tải dừa, bóc vỏ cứng thủ công, lọc và chứa nước dừa, rửa cơm dừa, nghiền cơm dừa, ép sữa bằng máy thủy lực, sấy, trộn, ép dầu trục vít, ly tâm tách, tinh luyện tùy chọn, rồi chiết rót, đóng nắp, dán nhãn và in mã.

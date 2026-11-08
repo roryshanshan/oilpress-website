@@ -10,6 +10,9 @@ Oilseed sunflower and confectionery sunflower can have different hull ratios and
 
 ![Sunflower seed preparation and pressing reference](/images/sunflower-seed-hot-pressing-process.webp)
 
+
+<LineKit line="sunflower" />
+
 ## Raw Material Boundary
 
 Record variety, hull fraction, moisture, impurities, storage condition, and available oil analysis. Remove stones, metal, empty seed, mold, and rancid lots. Quote capacity on cleaned whole seed or kernels and identify dehulling loss separately.

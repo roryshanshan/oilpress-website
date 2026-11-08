@@ -10,6 +10,9 @@ This page is for a fresh mature coconut project that may produce coconut water, 
 
 ![Prepared coconut material for route selection](/images/coconut-puree-e2083a9300.webp)
 
+
+<LineKit line="coconut" />
+
 ## Full-Line Scope
 
 The complete route combines dehusking, coconut conveying, manual shell removal, coconut water filtration and storage, meat washing, meat crushing, hydraulic milk pressing, drying, mixing, screw oil pressing, centrifugal separation, optional refining, and final filling, capping, labeling, and coding.

@@ -10,6 +10,9 @@ Les pépins provenant d'une cave ou d'une unité de jus arrivent souvent mélang
 
 ![Préparation des pépins de raisin pour le pressage](/images/hot-pressing-process-of-grape-seeds-9fc9a8f225.webp)
 
+
+<LineKit line="grape-seed" />
+
 ## Procédé recommandé
 
 Séparation des marcs -> lavage si nécessaire -> séchage rapide à température maîtrisée -> criblage -> broyage fin et régulier -> pressage hydraulique à froid -> décantation et filtration.

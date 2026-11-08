@@ -10,6 +10,9 @@ image: "/images/hot-pressing-process-of-palm-pulp-palm-kernel-7153ac8a85.webp"
 
 ![পাম ফলের শাঁস ও পাম কার্নেল উপাদানের রেফারেন্স](/images/hot-pressing-process-of-palm-pulp-palm-kernel-7153ac8a85.webp)
 
+
+<LineKit line="palm" />
+
 ## কাঁচামালের সীমানা
 
 **তাজা ফলের রুট:** তাজা ফলের গুচ্ছ বা আলগা ফল; সংগ্রহ থেকে মিল পর্যন্ত সময়, পাকার অবস্থা, দূষণ এবং দৈনিক আগমনের ধরন নথিভুক্ত করুন।

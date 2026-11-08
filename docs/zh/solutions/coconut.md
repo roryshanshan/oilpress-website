@@ -10,6 +10,9 @@ image: "/images/coconut-puree-e2083a9300.webp"
 
 ![椰子物料路线选择参考](/images/coconut-puree-e2083a9300.webp)
 
+
+<LineKit line="coconut" />
+
 ## 整线范围
 
 完整路线包括椰子去毛、输送、人工去硬壳、椰子水过滤与储存、椰肉清洗、椰肉粉碎、液压压椰浆、干燥、混合、螺旋榨油、离心分离、可选精炼，以及最终灌装、旋盖、贴标和喷码。

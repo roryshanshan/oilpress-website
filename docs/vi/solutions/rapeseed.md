@@ -10,6 +10,9 @@ image: "/images/process-image-55d72f15da.webp"
 
 Hạt cải cần được làm sạch và tách đá/kim loại trước khi chọn một trong hai tuyến độc lập. Tuyến ép nóng dùng 300/325 sau nghiền, chưng sấy hoặc rang; tuyến ép lạnh dùng 355-500 sau sấy nhiệt thấp khi cần và nghiền trực tiếp, không hấp hoặc rang mặc định. Với công suất liên tục lớn, người mua cần so sánh máy trục vít hoặc tiền ép thay vì suy rộng kết quả của một máy thủy lực theo mẻ.
 
+
+<LineKit line="rapeseed" />
+
 ## Dữ liệu chọn quy trình
 
 | Hạng mục | Khuyến nghị |

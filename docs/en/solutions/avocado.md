@@ -7,6 +7,9 @@ keywords: Avocado (Avocado Oil) Solution quote, Avocado (Avocado Oil) Solution p
 
 Whole avocados are not direct press feed. The fruit must be washed, peeled, and pitted, and the project must choose either a wet pulp separation route or a route based on controlled dehydration of the pulp before mechanical pressing.
 
+
+<LineKit line="avocado" />
+
 ## Raw Material Boundary
 
 State whether the supply is whole fruit, fresh pulp, frozen pulp, or dried pulp. Record variety, ripeness, usable-pulp fraction, moisture or dry matter, storage time, and any fermentation, browning, or spoilage. Skin and pits are separate by-products and must not be included in press-feed capacity.

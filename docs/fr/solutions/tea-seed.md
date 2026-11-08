@@ -10,6 +10,9 @@ Les graines de thé, aussi appelées graines de camélia selon l'espèce, doiven
 
 ![Préparation des graines de thé avant pressage](/images/process-image-0901d2dd53.webp)
 
+
+<LineKit line="tea-seed" />
+
 ## Procédé principal
 
 Criblage -> décorticage -> séparation des coques -> séchage basse température si nécessaire -> broyage à haute vitesse -> pressage hydraulique direct -> décantation et filtration -> stockage protégé.

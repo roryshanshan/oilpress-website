@@ -10,6 +10,9 @@ Cette page concerne une usine de noix de coco mûres fraîches pouvant produire 
 
 ![Matière de coco préparée pour choisir l'itinéraire](/images/coconut-puree-e2083a9300.webp)
 
+
+<LineKit line="coconut" />
+
 ## Portée de la ligne
 
 La ligne complète regroupe défibrage, convoyage, retrait manuel de la coque, filtration et stockage de l'eau, lavage et broyage de la chair, pressage hydraulique du lait, séchage, mélange, pressage d'huile par presse à vis, séparation centrifuge, raffinage optionnel, remplissage, bouchage, étiquetage et codage.

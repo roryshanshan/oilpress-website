@@ -10,6 +10,9 @@ image: "/images/hot-pressing-process-of-palm-pulp-palm-kernel-7153ac8a85.webp"
 
 ![鲜棕榈果肉与棕榈仁物料参考](/images/hot-pressing-process-of-palm-pulp-palm-kernel-7153ac8a85.webp)
 
+
+<LineKit line="palm" />
+
 ## 原料与产能口径
 
 **鲜果路线：** 记录鲜果串或散果、采收到进厂时间、成熟度、污染和每日到料节奏。

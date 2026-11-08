@@ -10,6 +10,9 @@ Grape seeds often arrive inside wet winery or juice pomace with skins, stems, pu
 
 ![Grape seeds after separation and preparation](/images/hot-pressing-process-of-grape-seeds-9fc9a8f225.webp)
 
+
+<LineKit line="grape-seed" />
+
 ## Raw Material Boundary
 
 Record pomace origin, time since pressing, skin and stem fraction, seed recovery basis, moisture, storage condition, and signs of mold or oxidation. Seed that has already been washed and dried must be quoted separately from wet pomace requiring recovery equipment.

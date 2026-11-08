@@ -10,6 +10,9 @@ image: "/images/hot-pressing-process-of-palm-pulp-palm-kernel-7153ac8a85.webp"
 
 Chùm quả cọ tươi phải được tiếp nhận và xử lý nhanh, sau đó tiệt trùng, tách quả, nghiền và ép bằng thiết bị trục vít chuyên dụng. Quy trình này không áp dụng lựa chọn ép lạnh/ép nóng như hạt khô và không dùng máy ép thủy lực tiêu chuẩn. Dầu ép được làm trong, tách nước, sấy rồi đưa vào bồn dầu cọ thô hoặc tuyến tinh luyện; hạt cọ và nước thải cần có đường xử lý riêng.
 
+
+<LineKit line="palm" />
+
 ## Dữ liệu chọn quy trình
 
 | Hạng mục | Khuyến nghị |

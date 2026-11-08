@@ -11,6 +11,9 @@ image: "/images/hot-pressing-process-of-palm-pulp-palm-kernel-7153ac8a85.webp"
 
 ![Мякоть пальмовых плодов и пальмовые ядра](/images/hot-pressing-process-of-palm-pulp-palm-kernel-7153ac8a85.webp)
 
+
+<LineKit line="palm" />
+
 ## Граница сырья
 
 **Маршрут свежих плодов:** свежие плодовые грозди или отдельные плоды с указанием времени от сбора до переработки, зрелости, загрязнений и суточного графика поступления.

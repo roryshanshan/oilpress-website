@@ -10,6 +10,9 @@ Rapeseed and canola varieties are not interchangeable product specifications. Se
 
 ![Rapeseed preparation and pressing reference](/images/process-image-55d72f15da.webp)
 
+
+<LineKit line="rapeseed" />
+
 ## Raw Material Boundary
 
 Declare variety and origin, rapeseed or canola classification, moisture, impurities, storage condition, available oil analysis, and erucic-acid data where relevant to the finished product. Quote capacity on cleaned seed.

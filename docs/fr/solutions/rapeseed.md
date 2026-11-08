@@ -10,6 +10,9 @@ Le colza peut suivre une voie à froid ou une préparation thermique, selon le p
 
 ![Préparation du colza avant pressage](/images/process-image-55d72f15da.webp)
 
+
+<LineKit line="rapeseed" />
+
 ## Deux itinéraires possibles
 
 ### Pressage à froid

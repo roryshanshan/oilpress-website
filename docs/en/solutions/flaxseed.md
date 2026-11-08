@@ -12,6 +12,9 @@ Flaxseed is a small seed, and the crushed material and expressed oil require con
 
 ![Flaxseed low-temperature pressing reference](/images/an-overview-of-the-cold-pressing-process-of-flaxse-0ea1b504ce.webp)
 
+
+<LineKit line="flaxseed" />
+
 ## Raw Material Boundary
 
 Identify seed variety, origin, moisture, impurities, damaged or moldy seed, storage time, and intended food or industrial use. Remove dust, stones, metal, and rancid lots. Quote capacity on cleaned dry seed and record cleaning loss separately.

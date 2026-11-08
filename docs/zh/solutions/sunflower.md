@@ -10,6 +10,9 @@ image: "/images/sunflower-seed-hot-pressing-process.webp"
 
 ![葵花籽调质与压榨工艺参考](/images/sunflower-seed-hot-pressing-process.webp)
 
+
+<LineKit line="sunflower" />
+
 ## 原料与产能口径
 
 请记录品种、壳比例、含水状态、杂质、储存情况和现有油脂分析，并剔除石块、金属、空籽、霉变和酸败物料。产能按清洁整籽或净籽仁核算，脱壳损失单独记录。

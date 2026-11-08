@@ -10,6 +10,9 @@ image: "/images/355-500-series.webp"
 
 Hạt nho thường đi cùng bã nho ướt và có hàm lượng dầu không cao, nên phải tách khỏi vỏ/cuống, rửa và sấy ở nhiệt độ thấp đến độ ẩm phù hợp trước khi nghiền. Nguyên liệu đã nghiền được đưa trực tiếp vào máy ép lạnh 355-500, không hấp hoặc rang mặc định. Dầu sau ép cần lắng, lọc tinh và lưu trong điều kiện hạn chế ánh sáng, không khí để kiểm soát oxy hóa.
 
+
+<LineKit line="grape-seed" />
+
 ## Dữ liệu chọn quy trình
 
 | Hạng mục | Khuyến nghị |
