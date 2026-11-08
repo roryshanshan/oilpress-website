@@ -13,6 +13,7 @@ Le prétraitement n'est pas un lot de machines standard. Sa composition dépend 
 - **Noix et amandes dures :** préciser le besoin de décorticage, de calibrage et la taille exigée par la presse. Un essai matière doit déterminer si le [broyeur rapide de 11 kW](/fr/products/11kw-high-speed-pulverizer) ou un autre broyeur convient.
 - **Projets 300/325 en pressage à chaud :** après nettoyage et broyage, comparer vapeur, conditionnement ou torréfaction selon la recette. Le [cuiseur électrique de 27 kW](/fr/products/27kw-electric-steamer), le [cuiseur à bois](/fr/products/wood-fired-steamer) et le [torréfacteur automatique à tambour](/fr/products/automatic-drum-roaster) doivent être évalués sur la charge réelle et la source de chaleur disponible.
 - **Projets 355-500 en pressage à froid :** nettoyer, sécher à basse température seulement si nécessaire, puis broyer et charger directement le cylindre de pressage. Une cuisson à haute température ne doit pas être ajoutée d'office au devis.
+- **Lignes de beurre de cacahuète :** les arachides grillées sont refroidies et dépelliculées avant broyage, voir la [dépelliculeuse d'arachides à sec](/fr/products/peanut-peeling-machine) ; une presse à huile n'en a pas besoin.
 - **Fruits frais, fruits de palme, avocat et son de riz :** ces matières exigent une étude spécifique de conservation, de stabilisation ou de séparation et ne doivent pas être traitées comme des graines sèches ordinaires.
 
 ## Modules courants de prétraitement

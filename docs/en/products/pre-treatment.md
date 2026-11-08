@@ -13,6 +13,7 @@ Pre-treatment is not one fixed machine package. The correct scope depends on the
 - **Hard kernels and nuts:** confirm shell removal, grading and the particle size required by the selected press. A sample test should define whether the [11 kW pulverizer](/en/products/11kw-high-speed-pulverizer) or another crusher is suitable.
 - **300/325 hot-press projects:** cleaning and crushing are followed by controlled steaming, conditioning or roasting. Compare the [27 kW electric steamer](/en/products/27kw-electric-steamer), [wood-fired steamer](/en/products/wood-fired-steamer) and [automatic drum roaster](/en/products/automatic-drum-roaster) against the actual batch size and heat source.
 - **355-500 cold-press projects:** clean the material, use low-temperature drying only when required, then crush and load it directly into the hydraulic pressing barrel. Do not add roasting or high-temperature steaming to a cold-process quotation unless the buyer requests a different route.
+- **Peanut butter and peanut food lines:** roasted kernels are cooled and their red skins removed before grinding. See the [dry peanut peeling machine](/en/products/peanut-peeling-machine); a peanut oil press does not need peeled kernels.
 - **Fresh fruit, palm fruit, avocado and rice bran:** these materials need a project-specific process review and must not be treated as ordinary dry oilseeds.
 
 ## Typical Pre-treatment Modules

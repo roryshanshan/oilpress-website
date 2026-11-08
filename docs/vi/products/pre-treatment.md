@@ -13,6 +13,7 @@ Tiền xử lý không phải là một bộ máy cố định. Phạm vi thiế
 - **Nhân cứng và các loại hạt có vỏ:** xác định có cần tách vỏ, phân cỡ hay không và cỡ nguyên liệu mà máy ép yêu cầu. Thử mẫu để quyết định [máy nghiền cao tốc 11 kW](/vi/products/11kw-high-speed-pulverizer) hay thiết bị nghiền khác phù hợp hơn.
 - **Dự án ép nóng với dòng 300/325:** sau làm sạch và nghiền, lựa chọn hấp, điều ẩm hoặc rang theo công thức. So sánh [nồi hấp điện 27 kW](/vi/products/27kw-electric-steamer), [nồi hấp đốt củi](/vi/products/wood-fired-steamer) và [máy rang trống tự động](/vi/products/automatic-drum-roaster) theo khối lượng mẻ và nguồn nhiệt thực tế.
 - **Dự án ép lạnh với dòng 355-500:** làm sạch, chỉ sấy nhiệt độ thấp khi cần, sau đó nghiền và nạp trực tiếp vào thùng ép thủy lực. Không mặc định đưa hấp hoặc rang nhiệt độ cao vào báo giá ép lạnh.
+- **Dây chuyền bơ đậu phộng:** đậu rang được làm nguội và bóc vỏ lụa trước khi xay, xem [máy bóc vỏ lụa đậu phộng khô](/vi/products/peanut-peeling-machine); ép dầu không cần bóc vỏ lụa.
 - **Quả tươi, quả cọ dầu, bơ và cám gạo:** cần đánh giá riêng về bảo quản, ổn định nguyên liệu, tách thịt quả hoặc bất hoạt enzyme; không áp dụng nguyên xi tuyến dành cho hạt khô.
 
 ## Các mô-đun tiền xử lý thường gặp
