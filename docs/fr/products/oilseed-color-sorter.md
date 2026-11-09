@@ -20,6 +20,10 @@ Un trieur optique à caméras CCD examine chaque grain pendant sa chute dans le 
 
 ![Tri du sésame : brut, accepté et rejeté](/images/color-sorter/sesame-color-sorting-result.webp)
 
+**Autres produits avec programme de tri :** noix de cajou, pistaches, noisettes, graines de pastèque, haricots rouges, quinoa, sorgho, orge, graines d'euryale, graines de lotus, poivre du Sichuan, piment séché et café vert. Les mêmes machines trient aussi les paillettes de plastique, le verre et le minerai. Pour un produit absent de la liste, envoyez un échantillon et nous le testerons.
+
+![Fractions acceptées et rejetées : cajou, pistache, noisette, arachide, soja et sésame](/images/color-sorter/color-sorting-accept-reject-peanut-sesame-nuts.webp)
+
 ## Tableau des modèles
 
 | Modèle | Canaux | Capacité (t/h) | Puissance (kW) | Air (L/min) | Poids (kg) | Dimensions L×l×H (mm) |
@@ -39,6 +43,50 @@ Tous les modèles : précision de tri ≥ 99 %, rapport de rejet (bons/mauvais d
 ![Trieur 6SXZ-448 à sept canaux, vue de face](/images/color-sorter/oilseed-color-sorter-6sxz-448.webp)
 
 ![Trieur 6SXZ-640 à dix canaux, vue de face](/images/color-sorter/oilseed-color-sorter-6sxz-640.webp)
+
+## Trieurs compacts et trieurs à bande
+
+À côté des modèles à canaux, deux autres gammes : les trieurs compacts à un canal 6SXM pour les petits ateliers, et les trieurs à bande 6SXZ-L pour les amandes grosses, plates ou fragiles. Sur un trieur à bande, le produit passe devant les caméras posé à plat sur la bande au lieu de glisser dans un canal : noix de cajou, arachides décortiquées, pistaches et noisettes ne roulent pas et ne rebondissent pas.
+
+![Trieur optique compact à un canal 6SXM-78A](/images/color-sorter/small-single-chute-color-sorter.webp)
+
+### Modèles compacts à un canal (6SXM)
+
+| Modèle | Débit (t/h) | Puissance (kW) | Consommation d'air (L/min) | Poids (kg) | Dimensions L×l×H (mm) |
+| --- | --- | --- | --- | --- | --- |
+| 6SXM-32A | 0.3–0.5 | 0.6 | ≤ 400 | 160 | 408 × 972 × 1605 |
+| 6SXM-48A | 0.3–0.8 | 0.8 | ≤ 400 | 205 | 750 × 1184 × 1440 |
+| 6SXM-80A | 0.5–1.5 | 1.5 | ≤ 1000 | 260 | 785 × 1397 × 1497 |
+| 6SXM-80B | 0.8–1.7 | 1.5 | ≤ 1000 | 310 | 865 × 1460 × 1787 |
+| 6SXM-96 | 0.8–1.7 | 1.7 | ≤ 1000 | 290 | 785 × 1397 × 1497 |
+| 6SXM-96A | 0.8–2.0 | 1.7 | ≤ 1000 | 410 | 1133 × 1611 × 1817 |
+| 6SXM-78A | 0.8–1.8 | 1.0 | ≤ 1000 | 370 | 980 × 1530 × 1910 |
+| 6SXM-127A | 1.2–3.5 | 2.0 | ≤ 1300 | 430 | 1320 × 1520 × 1885 |
+
+![Trieur optique à bande 6SXZ-128L pour amandes de fruits à coque](/images/color-sorter/belt-color-sorter-for-nut-kernels.webp)
+
+### Modèles à bande (6SXZ-L)
+
+| Modèle | Débit (t/h) | Puissance (kW) | Consommation d'air (L/min) | Poids (kg) | Dimensions L×l×H (mm) |
+| --- | --- | --- | --- | --- | --- |
+| 6SXZ-64L | 1.0–2.0 | 3.0 | ≤ 600 | 360 | 2817 × 1100 × 1640 |
+| 6SXZ-128L | 2.0–8.0 | 4.0 | ≤ 1200 | 535 | 2750 × 1331 × 1510 |
+| 6SXZ-192L | 3.0–10 | 5.0 | ≤ 1400 | 800 | 2750 × 1675 × 1510 |
+| 6SXZ-256L | 3–15 | 5.5 | ≤ 1600 | 1000 | 2800 × 2000 × 1522 |
+| 6SXL-640K | 15–30 | 16 | — | 1180 | 2876 × 2029 × 2431 |
+
+Le 6SXL-640K est une machine à double bande.
+
+Pour les deux tableaux : précision de tri ≥ 99,9 % (6SXZ-192L ≥ 99 %), 220 V 50 Hz, air comprimé ≥ 0,6 MPa. Les débits sont les chiffres d'usine sur riz (6SXM) et maïs (6SXZ-L) avec 2 % d'impuretés, une base plus rapide que les chiffres sur haricot mungo du tableau des modèles à canaux ; nous confirmons donc le débit pour votre produit par un essai sur échantillon. Un modèle à douze canaux 6SXZ-768 (6,5 kW, air ≤ 4100 L/min, 2388 kg, 4685 × 1620 × 1820 mm) est aussi disponible. Le 6SXM-96A existe en version haut de gamme : conduites d'air et câblage des vannes étanches contre les rongeurs, double régulation de température, éclairage LED à 8 rangées, environ 35 % d'économie d'air (25 % en version standard), Wi-Fi et écran tactile plus grand.
+
+## Installation de l'air comprimé
+
+![Schéma de l'air comprimé : compresseur sans huile, réservoir, filtres et trieur optique](/images/color-sorter/color-sorter-compressed-air-layout.webp)
+
+- **Compresseur sans huile.** Le brouillard d'huile atteint les éjecteurs et le produit. Dimensionnez-le selon la consommation d'air des tableaux, avec une marge.
+- **Réservoir d'air entre compresseur et trieur,** avec soupape de sécurité, manomètre et purge ; il stabilise la pression quand de nombreux éjecteurs se déclenchent ensemble.
+- **Filtres avant la machine :** vanne à boisseau et filtres après le réservoir, puis un tuyau en caoutchouc vers les filtres du trieur.
+- **Purgez l'eau** du compresseur et du réservoir régulièrement pour que les condensats n'atteignent pas les vannes.
 
 ## Fonctionnement
 
@@ -69,6 +117,10 @@ L'aflatoxine se concentre dans les grains moisis, décolorés et abîmés, juste
 ### Une seule machine peut-elle trier arachide et sésame ?
 
 Oui. Les canaux acceptent les deux et l'écran mémorise un programme pour chacun. Nettoyez canaux et trémies au changement de produit.
+
+### Trieur à canaux ou à bande pour les amandes de fruits à coque ?
+
+Les petites graines rondes comme le sésame, le soja et les arachides saines passent bien sur un trieur à canaux. Les amandes grosses, plates ou fragiles comme les noix de cajou et les pistaches se trient plus proprement sur un trieur à bande, car elles ne roulent pas et ne rebondissent pas devant la caméra.
 
 ### Faut-il un trieur pour une petite presse ?
 
