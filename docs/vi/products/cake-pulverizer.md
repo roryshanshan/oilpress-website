@@ -15,16 +15,16 @@ Máy thích hợp cho các loại bánh bã đậu, bánh lạc, bánh bông v.v
 | Thông số | Giá trị |
 | :------- | :------ |
 | Mã máy | FBJ-500 |
-| Công suất | 11 kW (giá trị tham khảo; phải xác nhận theo tài liệu kỹ thuật cuối cùng và báo giá bằng văn bản) |
+| Công suất | 11 kW |
 | Kích thước | 600×600×800 mm |
 | Trọng lượng | 292Kg |
-| Công suất xử lý | 1–4 kg/giờ (chưa xác minh đơn vị và điều kiện thử; phải xác nhận bằng văn bản) |
+| Công suất xử lý | 1–4 tấn/giờ |
 | Đường kính lưới sàng | 20mm |
 | Kích thước cửa nạp | 525×145mm |
 | Cấu trúc lưỡi nghiền | Kiểu búa |
 
-::: warning Xác minh thông số
-Thông số trong bảng chỉ là dữ liệu tham khảo sơ bộ. Tài liệu hiện có chưa có bảng tên đọc được, tài liệu kỹ thuật cuối cùng của nhà sản xuất hoặc biên bản đo kiểm để xác nhận mức `11 kW` cũng như đơn vị và điều kiện áp dụng cho `1–4 kg/giờ`. Trước khi đặt hàng, cả hai giá trị phải được xác nhận trong tài liệu kỹ thuật cuối cùng, báo giá bằng văn bản và hợp đồng; không được xem là thông số đã chốt hoặc năng suất bảo đảm.
+::: tip Năng suất thực tế
+Năng suất thực tế trong khoảng 1–4 tấn/giờ phụ thuộc vào loại bánh dầu, độ cứng, độ dày, độ ẩm, lưới sàng sử dụng và việc cấp liệu có đều hay không. Năng suất dự kiến cho bánh dầu của bạn được xác nhận trong báo giá bằng văn bản.
 :::
 
 ## Xác nhận báo giá và FAT

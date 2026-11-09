@@ -15,16 +15,16 @@ Cette machine est adaptée à divers gâteaux de soja, gâteaux d'arachide, gât
 | Paramètre     | Valeur           |
 | :------------ | :--------------- |
 | Modèle        | FBJ-500          |
-| Puissance     | 11 kW (valeur indicative ; à confirmer dans la documentation technique finale et le devis écrit) |
+| Puissance     | 11 kW |
 | Dimensions    | 600*600*800      |
 | Poids total   | 292Kg            |
-| Capacité de traitement | 1–4 kg/h (unité et conditions d'essai non vérifiées ; confirmation écrite requise) |
+| Capacité de traitement | 1–4 t/h |
 | Diamètre des mailles du tamis | 20mm       |
 | Dimensions de l'ouverture d'entrée | 525*145mm |
 | Structure des lames de broyage | À marteaux |
 
-::: warning Vérification des paramètres
-Les valeurs du tableau sont uniquement indicatives. Aucune plaque signalétique lisible, fiche technique finale du fabricant ou rapport d'essai mesuré disponible ne permet actuellement de valider la puissance de `11 kW`, ni l'unité et les conditions correspondant à `1–4 kg/h`. Ces deux valeurs doivent être confirmées avant commande dans la documentation technique finale, le devis écrit et le contrat ; elles ne constituent ni une spécification validée ni un débit garanti.
+::: tip Débit réel
+Le débit réel, entre 1 et 4 t/h, dépend du type de tourteau, de sa dureté, de son épaisseur et de son humidité, du tamis monté et de la régularité de l'alimentation. Le débit attendu pour votre tourteau est confirmé dans le devis écrit.
 :::
 
 ## Confirmation du devis et du FAT

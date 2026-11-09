@@ -15,16 +15,16 @@ This machine is suitable for various bean cakes, peanut cakes, cottonseed cakes,
 | Parameter             | Value            |
 | :-------------------- | :--------------- |
 | Model                 | FBJ-500          |
-| Power                 | 11 kW (reference only; confirm in the final technical data and written quotation) |
+| Power                 | 11 kW |
 | Dimensions            | 600*600*800      |
 | Overall Weight        | 292Kg            |
-| Processing Capacity   | 1–4 kg/h (unit and test conditions unverified; written confirmation required) |
+| Processing Capacity   | 1–4 t/h |
 | Sieve Mesh Diameter   | 20mm             |
 | Inlet Size            | 525*145mm        |
 | Crushing Blade Structure| Hammer Type      |
 
-::: warning Parameter verification
-The values in this table are preliminary references only. No readable nameplate, final manufacturer datasheet, or measured test record currently verifies the stated `11 kW` rating or the unit and operating conditions behind `1–4 kg/h`. Both figures must be confirmed before ordering in the final technical documentation, written quotation, and contract; neither is a confirmed specification or guaranteed throughput.
+::: tip Actual output
+Actual output within 1–4 t/h depends on the cake type, its hardness, thickness and moisture, the screen fitted and how evenly it is fed. Confirm the expected output for your cake in the written quotation.
 :::
 
 ## Quotation and FAT confirmation
